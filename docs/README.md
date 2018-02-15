@@ -53,11 +53,6 @@ const jsonschema = requrie('wqx/json-schema/biological.json');
 $ npm run build:values
 ```
 
-### Maintained By
-<div align="center">
-  <a href="https://tesera.com"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png" alt="Tesera Systems Inc. Logo" width="200"></a>
-</div>
-
 ### Contributors
 - [willfarrell](https://github.com/willfarrell)
 
@@ -75,3 +70,8 @@ $ npm run build:values
 - [ ] add file level definitions to help minimize size
 - [ ] script to build json-schema
 - [ ] script to build json-table-schema
+
+<div align="center">
+  <h3>Maintained By</h3>
+  <a href="https://tesera.com"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png" alt="Tesera Systems Inc. Logo" width="200"></a>
+</div>
