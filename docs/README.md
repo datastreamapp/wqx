@@ -15,7 +15,9 @@
 </p>
 
 ## Sponsored By
-[![The Gordon Foundation](https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?sanitize=true)](http://gordonfoundation.ca)
+<div align="center">
+  <a href="http://gordonfoundation.ca"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?sanitize=true" alt="The Gordon Foundation Logo" width="200"></a>
+</div>
 
 ## Install
 ```bash
@@ -52,8 +54,9 @@ $ npm run build:values
 ```
 
 ### Maintained By
-[![Tesera](https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png)](https://tesera.com)
-
+<div align="center">
+  <a href="https://tesera.com"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png" alt="Tesera Systems Inc. Logo" width="200"></a>
+</div>
 
 ### Contributors
 - [willfarrell](https://github.com/willfarrell)
