@@ -15,7 +15,7 @@
 </p>
 
 ## Sponsored By
-[![The Gordon Foundation](https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg)](http://gordonfoundation.ca)
+[![The Gordon Foundation](https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?sanitize=true)](http://gordonfoundation.ca)
 
 ## Install
 ```bash
