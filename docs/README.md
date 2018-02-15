@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/gordonfn/datastream-wqx/master/docs/images/water-quality-exchange.gif" alt="WQX Logo" width="200">
+  <img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/water-quality-exchange.gif" alt="WQX Logo" width="200">
   <br>
   Water Quality Exchange (WQX): JSON Schema and JSON Table Schema
   <br>
@@ -15,7 +15,7 @@
 </p>
 
 ## Sponsored By
-[![The Gordon Foundation](https://raw.githubusercontent.com/gordonfn/datastream-wqx/master/docs/images/the-gordon-foundation.svg)](http://gordonfoundation.ca)
+[![The Gordon Foundation](https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg)](http://gordonfoundation.ca)
 
 ## Install
 ```bash
@@ -52,7 +52,7 @@ $ npm run build:values
 ```
 
 ### Maintained By
-[![Tesera](https://raw.githubusercontent.com/gordonfn/datastream-wqx/master/docs/images/tesera.png)](https://tesera.com)
+[![Tesera](https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png)](https://tesera.com)
 
 
 ### Contributors
