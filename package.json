@@ -1,0 +1,31 @@
+{
+  "name": "wqx",
+  "version": "2.1.0-alpha.1",
+  "description": "Water Quality Exchange (WQX): JSON Schema and JSON Table Schema",
+  "main": "index.js",
+  "scripts": {
+    "build":"",
+    "build:values":"node ./bin/parse.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/gordonfn/wqx.git"
+  },
+  "keywords": [
+    "EPA",
+    "water quality exchange",
+    "WQX",
+    "json-schema",
+    "json-table-schema"
+  ],
+  "author": "willfarrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gordonfn/wqx/issues"
+  },
+  "homepage": "https://github.com/gordonfn/wqx#readme",
+  "devDependencies": {
+    "xml-js": "^1.6.2"
+  }
+}
