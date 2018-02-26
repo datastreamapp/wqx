@@ -5,60 +5,28 @@
   "type":"object",
   "properties": {
     "Project ID": {
-      "title": "Project ID",
-      "description": "A unique ID for the Project to which data will be assigned",
-      "type": "string",
-      "minLength": 0,
-      "maxLength": 35
+      "$ref":"./definitions.json#/ProjectID"
     },
     "Project Name": {
-      "title": "Project Name",
-      "description": "A unique Name for the Project",
-      "type": "string",
-      "minLength": 0,
-      "maxLength": 120
+      "$ref":"./definitions.json#/ProjectName"
     },
     "Project Description": {
-      "title": "Project Description",
-      "description": "Project purpose and/or summary, must provide either project description or supply a Project Attachment",
-      "type": "string",
-      "minLength": 0,
-      "maxLength": 120
+      "$ref":"./definitions.json#/ProjectDescription"
     },
     "Sampling Design Type": {
-      "title": "Sampling Design Type",
-      "description": "A code used to identify the type of sampling design employed for this project to ensure that sampling activities can support project objectives.",
-      "type": "string",
-      "minLength": 0,
-      "maxLength": 20,
-      "$ref": "./definitions.values.json#/SamplingDesignType"
+      "$ref":"./definitions.json#/SamplingDesignType"
     },
     "QAPP Approved Indicator": {
-      "title": "QAPP Approved Indicator",
-      "description": "Indicates whether a Quality Assurance Project Plan (QAPP) has been approved for the submitted project.",
-      "type": "string",
-      "enum":["Yes","No"]
+      "$ref":"./definitions.json#/QAPPApprovedIndicator"
     },
     "QAPP Approval Agency Name": {
-      "title": "QAPP Approval Agency Name",
-      "description": "An outside approval authority identifier for the QAPP (e.g. EPA or State Organization).",
-      "type": "string",
-      "minLength": 0,
-      "maxLength": 50
+      "$ref":"./definitions.json#/QAPPApprovalAgencyName"
     },
     "Project Attachment File Name": {
-      "title": "Project Attachment File Name",
-      "description": "The text describing the descriptive name used to represent the file, including file extension.  Must provide either project description or supply a Project Attachment",
-      "type": "string",
-      "minLength": 0,
-      "maxLength": 255
+      "$ref":"./definitions.json#/ProjectAttachmentFileName"
     },
     "Project Attachment Type": {
-      "title": "Project Attachment Type",
-      "description": "File text extension, free text not domain list validation.  Required if Project Attachment File Name is reported.",
-      "type": "string",
-      "minLength": 0,
-      "maxLength": 6
+      "$ref":"./definitions.json#/ProjectAttachmentType"
     }
   },
   "required":["Project ID","Project Name"]
