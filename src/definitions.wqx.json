@@ -171,7 +171,7 @@
   "ActivityHorizontalCoordinateReferenceSystem":{
     "title":"Activity Horizontal Coordinate Reference System",
     "description":"Datum used to determine Lat/Long, required when Activity Location is provided.",
-    "$ref":"./definitions.wqx.values.json#/HorizontalCoordinateReferenceSystemDatum"
+    "$ref":"./definitions.wqx.values.json#/HorizontalReferenceDatum"
   },
   "AssemblageSampledName":{
     "title":"Assemblage Sampled Name",
@@ -305,12 +305,12 @@
   "SampleContainerType":{
     "title":"Sample Container Type",
     "description":"The text describing the sample container type.  Required if Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.wqx.values.json#/SampleContainerType"
+    "$ref":"./definitions.wqx.values.json#/ContainerType"
   },
   "SampleContainerColor":{
     "title":"Sample Container Color",
     "description":"The text describing the sample container color.  Required if Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.wqx.values.json#/SampleContainerColor"
+    "$ref":"./definitions.wqx.values.json#/ContainerColor"
   },
   "ChemicalPreservativeUsed":{
     "title":"Chemical Preservative Used",
@@ -322,7 +322,7 @@
   "ThermalPreservativeUsed":{
     "title":"Thermal Preservative Used",
     "description":"Information describing the thermal preservation of the sample.  Either Chemical Preservative Used or Thermal Preservative Used must be provided if the Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.wqx.values.json#/ThermalPreservativeUsed"
+    "$ref":"./definitions.wqx.values.json#/ThermalPreservative"
   },
   "SampleTransportStorageDescription":{
     "title":"Sample Transport Storage Description",
@@ -353,7 +353,7 @@
   "ActivityMetricValueUnit":{
     "title":"Activity Metric Value Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Activity Metric Value is reported.",
-    "$ref":"./definitions.wqx.values.json#/MeasurmentUnit"
+    "$ref":"./definitions.wqx.values.json#/MeasurementUnit"
   },
   "ActivityMetricScore":{
     "title":"Activity Metric Score",
@@ -442,7 +442,7 @@
   "ResultSampleFraction":{
     "title":"Result Sample Fraction",
     "description":"Text name of fraction of sample associated with result, required for certain characteristics, see Characteristics",
-    "$ref":"./definitions.wqx.values.json#/ResultSampleFraction"
+    "$ref":"./definitions.wqx.values.json#/SampleFraction"
   },
   "ResultValue":{
     "title":"Result Value",
@@ -467,7 +467,7 @@
   "StatisticalBaseCode":{
     "title":"Statistical Base Code",
     "description":"Code used for method used to calculate derived results, such as Mean, Maximum, etc.",
-    "$ref":"./definitions.wqx.values.json#/StatisticalBase"
+    "$ref":"./definitions.wqx.values.json#/ResultStatisticalBase"
   },
   "ResultValueType":{
     "title":"Result Value Type",
@@ -740,12 +740,12 @@
   "ResultLaboratoryCommentCode":{
     "title":"Result Laboratory Comment Code",
     "description":"Remarks which further describe the laboratory procedures which produced the result.",
-    "$ref":"./definitions.wqx.values.json#/ResultLaboratoryComment"
+    "$ref":"./definitions.wqx.values.json#/ResultLabComment"
   },
   "ResultDetectionQuantitationLimitType":{
     "title":"Result Detection/Quantitation Limit Type",
     "description":"Text describing the type of detection or quantitation limit used in the analysis of a characteristic.  Required if Result Detection Condition is `Not Detected`, `Present Above Quantification Limit`, or `Present Below Quantification Limit`.",
-    "$ref":"./definitions.wqx.values.json#/DetectionQuantitationLimit"
+    "$ref":"./definitions.wqx.values.json#/DetectionQuantitationLimitType"
   },
   "ResultDetectionQuantitationLimitMeasure":{
     "title":"Result Detection/Quantitation Limit Measure",
@@ -755,7 +755,7 @@
   "ResultDetectionQuantitationLimitUnit":{
     "title":"Result Detection/Quantitation Limit Unit",
     "description":"The code that represents the unit for measuring the chemical substance, microbiological substance or other characteristic.  Required if Result Detection Condition is `Not Detected`, `Present Above Quantification Limit`, or `Present Below Quantification Limit`.  Also Required if Result Detection/Quantitation Limit Measure is reported.",
-    "$ref":"./definitions.wqx.values.json#/MeasureUnit"
+    "$ref":"./definitions.wqx.values.json#/MeasurementUnit"
   },
   "LaboratoryAccreditationIndicator":{
     "title":"Laboratory Accreditation Indicator",

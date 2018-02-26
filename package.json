@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/gordonfn/wqx#readme",
   "devDependencies": {
+    "glob": "^7.1.2",
     "json-schema-ref-parser": "^4.1.1",
     "xml-js": "^1.6.2"
   }

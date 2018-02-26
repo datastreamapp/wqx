@@ -13615,8 +13615,8 @@
       "Winchester, VA"
     ]
   },
-  "Detection/QuantitationLimitType": {
-    "title": "Detection/QuantitationLimitType",
+  "DetectionQuantitationLimitType": {
+    "title": "DetectionQuantitationLimitType",
     "description": "",
     "type": "string",
     "enum": [

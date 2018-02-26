@@ -66,9 +66,7 @@ $ npm run build:values
 ## TODO
 - [ ] script to generate docs
   - [ ] ability to search allowed values
-- [ ] wqx schemas should be namespaced in npm
 - [ ] add file level definitions to help minimize size
-- [ ] script to build json-schema
 - [ ] script to build json-table-schema
 
 <div align="center">

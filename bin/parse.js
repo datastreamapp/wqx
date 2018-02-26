@@ -5,13 +5,13 @@ console.log('Parsing WQX All Domain Values XML ...');
 
 // download and unzip http://cdx.epa.gov/wqx/download/DomainValues/All.zip
 // parse xml for allowed values schemas
-var xml = require('fs').readFileSync(__dirname+'/../xml/All Domain Values.xml', 'utf8');
+const xml = require('fs').readFileSync(__dirname+'/../xml/All Domain Values.xml', 'utf8');
 const values = JSON.parse(convert.xml2json(xml, {compact: true}));
 
 const jsonSchema = {
     title:'Allowed Values',
     description:'WQX Allowed Values Definitions',
-    // Missing from file, subsets of MeasureUnit
+    // Missing from file, subsets of MeasurementUnit
     AreaMeasurementUnit: {
         title: 'Area Measurement Unit',
         description: '',
@@ -44,7 +44,7 @@ const jsonSchema = {
     }
 };
 for (let e in values.WQXDomainValueList.WQXElement) {
-    const field = values.WQXDomainValueList.WQXElement[e].WQXElementName._text.replace('\n', '').trim();
+    const field = values.WQXDomainValueList.WQXElement[e].WQXElementName._text.replace('\n', '').replace('/', '').trim();
     const element = values.WQXDomainValueList.WQXElement[e].WQXElementRow;
 
     jsonSchema[field] = {
