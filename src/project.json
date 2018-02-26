@@ -31,7 +31,7 @@
       "type": "string",
       "minLength": 0,
       "maxLength": 20,
-      "$ref": "./definitions.wqx.values.json#/SamplingDesignType"
+      "$ref": "./definitions.values.json#/SamplingDesignType"
     },
     "QAPP Approved Indicator": {
       "title": "QAPP Approved Indicator",

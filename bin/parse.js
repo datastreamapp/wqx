@@ -84,5 +84,5 @@ for (let e in values.WQXDomainValueList.WQXElement) {
     }
 }
 
-fs.writeFileSync(__dirname+'/../src/definitions.wqx.values.json', JSON.stringify(jsonSchema, null, 2), 'utf8');
+fs.writeFileSync(__dirname+'/../src/definitions.values.json', JSON.stringify(jsonSchema, null, 2), 'utf8');
 console.log('Done!');

@@ -41,7 +41,7 @@ const jsonschema = requrie('wqx/json-schema/biological');
 
 ## Contributing
 
-### Building `definitions.wqx.values.json`
+### Building `definitions.values.json`
 This should only be run if the version of WQX is updated.
 ```bash
 $ npm run init

@@ -5,7 +5,7 @@
   "type":"object",
   "properties":{
     "Monitoring Location ID":{
-      "$ref":"./definitions.wqx.json#/MonitoringLocationID"
+      "$ref":"./definitions.json#/MonitoringLocationID"
     },
     "Monitoring Location Name":{
       "title":"Monitoring Location Name",
@@ -17,7 +17,7 @@
     "Monitoring Location Type":{
       "title":"Monitoring Location Type",
       "description":"Type of monitoring location",
-      "$ref":"./definitions.wqx.values.json#/MonitoringLocationType"
+      "$ref":"./definitions.values.json#/MonitoringLocationType"
     },
     "Monitoring Location Description":{
       "title":"Monitoring Location Description",
@@ -94,18 +94,18 @@
     "Monitoring LocationHorizontal Accuracy Measure Unit Code":{
       "title":"Monitoring Location Horizontal Accuracy Measure Unit Code",
       "description":"Unit of measure of the relative accuracy, required if Monitoring Location Horizontal Accuracy Measure Value is reported.",
-      "$ref":"./definitions.wqx.values.json#/MeasurementUnit"
+      "$ref":"./definitions.values.json#/MeasurementUnit"
     },
     "Monitoring Location Horizontal Collection Method":{
       "title":"Monitoring Location Horizontal Collection Method",
       "description":"Method used to determine Lat/Long coordinates",
-      "$ref":"./definitions.wqx.values.json#/HorizontalCollectionMethod",
+      "$ref":"./definitions.values.json#/HorizontalCollectionMethod",
       "default":"Unknown"
     },
     "Monitoring Location Horizontal Coordinate Reference System":{
       "title":"Monitoring Location Horizontal Coordinate Reference System",
       "description":"Datum used to determine Lat/Long",
-      "$ref":"./definitions.wqx.values.json#/HorizontalCollectionMethod",
+      "$ref":"./definitions.values.json#/HorizontalCollectionMethod",
       "default":"UNKWN"
     },
     "Vertical Measure":{
@@ -116,38 +116,38 @@
     "Vertical Unit":{
       "title":"Vertical Unit",
       "description":"Unit of measure of the vertical measure, required if Vertical Measure is reported",
-      "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+      "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
     },
     "Vertical Collection Method":{
       "title":"Vertical Collection Method",
       "description":"The name that identifies the method used to collect the vertical measure of a reference point.  Required if Vertical Measure is reported.",
-      "$ref":"./definitions.wqx.values.json#/VerticalCollectionMethod"
+      "$ref":"./definitions.values.json#/VerticalCollectionMethod"
     },
     "Vertical Coordinate Reference System":{
       "title":"Vertical Coordinate Reference System",
       "description":"The name of the reference datum used to determine the vertical measure (i.e., the altitude).  Required if Vertical Measure is reported.",
-      "$ref":"./definitions.wqx.values.json#/VerticalReferenceDatum"
+      "$ref":"./definitions.values.json#/VerticalReferenceDatum"
     },
     "Monitoring Location Country Code":{
       "title":"Monitoring Location Country Code",
       "description":"Code for Country,  recommended if state code is used not in (default) US.",
-      "$ref":"./definitions.wqx.values.json#/Country",
+      "$ref":"./definitions.values.json#/Country",
       "default":"US"
     },
     "Monitoring Location State":{
       "title":"Monitoring Location State",
       "description":"Postal abbreviation for Monitoring Locations's primary state, required if county code is reported",
-      "$ref":"./definitions.wqx.values.json#/State"
+      "$ref":"./definitions.values.json#/State"
     },
     "Monitoring Location County":{
       "title":"Monitoring Location County",
       "description":"FIPS code for Monitoring Location's primary county",
-      "$ref":"./definitions.wqx.values.json#/County"
+      "$ref":"./definitions.values.json#/County"
     },
     "WellT ype":{
       "title":"Well Type",
       "description":"Identifies the primary well type.",
-      "$ref":"./definitions.wqx.values.json#/WellType"
+      "$ref":"./definitions.values.json#/WellType"
     },
     "Aquifer Name":{
       "title":"Aquifer Name",
@@ -159,7 +159,7 @@
     "Well Formation Type":{
       "title":"Well Formation Type",
       "description":"Name of the primary formation or soils unit, in which the well is completed.",
-      "$ref":"./definitions.wqx.values.json#/WellFormationType"
+      "$ref":"./definitions.values.json#/WellFormationType"
     },
     "Well Hole Depth Measure Value":{
       "title":"Well Hole Depth Measure Value",
@@ -170,7 +170,7 @@
       "title":"Well Hole Depth Measure Unit",
       "description":"Unit of measure of the vertical measure, required if Well Hole Depth Measure Value is reported.",
       "type":"string",
-      "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+      "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
     },
     "Monitoring Location Attachment File Name":{
       "title":"Monitoring Location Attachment File Name",

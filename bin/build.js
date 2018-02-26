@@ -8,7 +8,7 @@ const writeFile = util.promisify(fs.writeFile);
 
 console.log('Building JSON Schema & JSON Table Schema');
 
-const srcGlob = __dirname+'/../src/*.json';    // Note files starting w/ `definitions.` will be skipped in code
+const srcGlob = __dirname+'/../src/*.json';
 const jsonSchemaDir = __dirname+'/../dist/json-schema';
 //const jsonTableSchemaDir = __dirname+'/../dist/json-table-schema';
 
@@ -18,7 +18,7 @@ glob(srcGlob)
         files.forEach((filePath) => {
             const parts = path.parse(filePath);
             const file = parts.base;
-            if (file.indexOf('definitions.') === 0) { return; }    // skip definitions files
+            if (file.indexOf('definitions.values') === 0) { return; }    // skip definitions files
 
             console.log('Processing:', file);
 

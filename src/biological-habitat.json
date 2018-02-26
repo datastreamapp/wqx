@@ -5,25 +5,25 @@
   "type":"object",
   "properties": {
     "Index ID":{
-      "$ref":"./definitions.wqx.json#/IndexID"
+      "$ref":"./definitions.json#/IndexID"
     },
     "Index Type ID":{
-      "$ref":"./definitions.wqx.json#/IndexTypeID"
+      "$ref":"./definitions.json#/IndexTypeID"
     },
     "Index Score":{
-      "$ref":"./definitions.wqx.json#/IndexScore"
+      "$ref":"./definitions.json#/IndexScore"
     },
     "Index Qualifier Code":{
-      "$ref":"./definitions.wqx.json#/IndexQualifierCode"
+      "$ref":"./definitions.json#/IndexQualifierCode"
     },
     "Index Comment":{
-      "$ref":"./definitions.wqx.json#/IndexComment"
+      "$ref":"./definitions.json#/IndexComment"
     },
     "Index Calculated Date":{
-      "$ref":"./definitions.wqx.json#/IndexCalculatedDate"
+      "$ref":"./definitions.json#/IndexCalculatedDate"
     },
     "Monitoring Location ID":{
-      "$ref":"./definitions.wqx.json#/MonitoringLocationID"
+      "$ref":"./definitions.json#/MonitoringLocationID"
     }
   },
   "required":[

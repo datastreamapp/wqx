@@ -12,17 +12,17 @@
   "ActivityType":{
     "title":"Activity Type",
     "description":"Type of Activity (example: Field Msr/Obs, Sample-Routine, etc.)",
-    "$ref":"./definitions.wqx.values.json#/ActivityType"
+    "$ref":"./definitions.values.json#/ActivityType"
   },
   "ActivityMediaName":{
     "title":"Activity Media Name",
     "description":"Medium in which sample or measurement was taken (example: Water, Sediment, etc.)",
-    "$ref":"./definitions.wqx.values.json#/ActivityMedia"
+    "$ref":"./definitions.values.json#/ActivityMedia"
   },
   "ActivityMediaSubdivisionName":{
     "title":"Activity Media Subdivision Name",
     "description":"Name or code indicating the subdivision of media the sample was collected in.",
-    "$ref":"./definitions.wqx.values.json#/ActivityMediaSubdivision"
+    "$ref":"./definitions.values.json#/ActivityMediaSubdivision"
   },
   "ActivityStartDate":{
     "title":"Activity Start Date",
@@ -39,7 +39,7 @@
   "ActivityStartTimeZone":{
     "title":"Activity Start Time Zone",
     "description":"Time Zone for Activity Start Time, required if Activity Start Time entered",
-    "$ref":"./definitions.wqx.values.json#/TimeZone"
+    "$ref":"./definitions.values.json#/TimeZone"
   },
   "ActivityEndDate":{
     "title":"Activity End Date",
@@ -56,12 +56,12 @@
   "ActivityEndTimeZone":{
     "title":"Activity End Time Zone",
     "description":"Time Zone for Activity End Time, required if Activity End Time entered",
-    "$ref":"./definitions.wqx.values.json#/TimeZone"
+    "$ref":"./definitions.values.json#/TimeZone"
   },
   "ActivityRelativeDepthName":{
     "title":"Activity Relative Depth Name",
     "description":"The name that indicates the approximate location within the water column at which the activity occurred.",
-    "$ref":"./definitions.wqx.values.json#/RelativeDepth"
+    "$ref":"./definitions.values.json#/RelativeDepth"
   },
   "ActivityDepthHeightMeasure":{
     "title":"Activity Depth/Height Measure",
@@ -71,7 +71,7 @@
   "ActivityDepthHeightUnit":{
     "title":"Activity Depth/Height Unit",
     "description":"Units for Activity Depth Height Measure, required if Activity Depth Height Measure entered",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "ActivityTopDepthHeightMeasure":{
     "title":"Activity Top Depth/Height Measure",
@@ -81,7 +81,7 @@
   "ActivityTopDepthHeightUnit":{
     "title":"Activity Top Depth/Height Unit",
     "description":"Units for Activity Top Depth Height Measure, required if Activity Top Depth Height Measure entered",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "ActivityBottomDepthHeightMeasure":{
     "title":"Activity Bottom Depth/Height Measure",
@@ -91,7 +91,7 @@
   "ActivityBottomDepthHeightUnit":{
     "title":"Activity Bottom Depth/Height Unit",
     "description":"Units for Activity Bottom Depth Height Measure, required if Activity Bottom Depth Height Measure entered",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "ActivityDepthAltitudeReferencePoint":{
     "title":"Activity Depth Altitude Reference Point",
@@ -161,22 +161,22 @@
   "ActivityHorizontalAccuracyUnit":{
     "title":"Activity Horizontal Accuracy Unit",
     "description":"Unit of measure of the relative accuracy, required if Activity Horizontal Accuracy Measure is reported.",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "ActivityHorizontalCollectionMethod":{
     "title":"Activity Horizontal Collection Method",
     "description":"Method used to determine Lat/Long coordinates, required when Activity Location is provided.",
-    "$ref":"./definitions.wqx.values.json#/HorizontalCollectionMethod"
+    "$ref":"./definitions.values.json#/HorizontalCollectionMethod"
   },
   "ActivityHorizontalCoordinateReferenceSystem":{
     "title":"Activity Horizontal Coordinate Reference System",
     "description":"Datum used to determine Lat/Long, required when Activity Location is provided.",
-    "$ref":"./definitions.wqx.values.json#/HorizontalReferenceDatum"
+    "$ref":"./definitions.values.json#/HorizontalReferenceDatum"
   },
   "AssemblageSampledName":{
     "title":"Assemblage Sampled Name",
     "description":"Must be reported if Activity Media Name is `Biological`",
-    "$ref":"./definitions.wqx.values.json#/Assemblage"
+    "$ref":"./definitions.values.json#/Assemblage"
   },
   "CollectionDurationMeasure": {
     "title":"Collection Duration Measure",
@@ -186,7 +186,7 @@
   "CollectionDurationUnit":{
     "title":"Collection Duration Unit",
     "description":"Unit for the value of the length of time a collection procedure was performed (e.g. total time kick net was used).  Required if Collection Duration Measure  is reported.",
-    "$ref":"./definitions.wqx.values.json#/TimeMeasurementUnit"
+    "$ref":"./definitions.values.json#/TimeMeasurementUnit"
   },
   "SamplingComponentName":{
     "title":"Sampling Component Name",
@@ -209,7 +209,7 @@
   "ReachLengthUnit":{
     "title":"Reach Length Unit",
     "description":"",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "ReachWidthMeasure":{
     "title":"Reach Width Measure",
@@ -219,7 +219,7 @@
   "ReachWidthUnit":{
     "title":"Reach Width Unit",
     "description":"The measure unit of the water body width distance in which the procedure or protocol was performed.  Required if Reach Width Measure Value is reported.",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "PassCount":{
     "title":"Pass Count",
@@ -229,7 +229,7 @@
   "NetType":{
     "title":"Net Type",
     "description":"The text describing the type of net.",
-    "$ref":"./definitions.wqx.values.json#/NetType"
+    "$ref":"./definitions.values.json#/NetType"
   },
   "NetSurfaceAreaMeasure":{
     "title":"Net Surface Area Measure",
@@ -239,7 +239,7 @@
   "NetSurfaceAreaUnit":{
     "title":"Net Surface Area Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Net Surface Area Measure is provided.",
-    "$ref":"./definitions.wqx.values.json#/AreaMeasurementUnit"
+    "$ref":"./definitions.values.json#/AreaMeasurementUnit"
   },
   "NetMeshSizeMeasure":{
     "title":"Net Mesh Size Measure",
@@ -249,7 +249,7 @@
   "NetMeshSizeUnit":{
     "title":"Net Mesh Size Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Net Mesh Size Measure is provided.",
-    "$ref":"./definitions.wqx.values.json#/AreaMeasurementUnit"
+    "$ref":"./definitions.values.json#/AreaMeasurementUnit"
   },
   "BoatSpeedMeasure":{
     "title":"Boat Speed Measure",
@@ -259,7 +259,7 @@
   "BoatSpeedUnit":{
     "title":"Boat Speed Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Boat Speed Measure is Reported.",
-    "$ref":"./definitions.wqx.values.json#/SpeedMeasurementUnit"
+    "$ref":"./definitions.values.json#/SpeedMeasurementUnit"
   },
   "CurrentSpeedMeasure":{
     "title":"Current Speed Measure",
@@ -269,12 +269,12 @@
   "CurrentSpeedUnit":{
     "title":"Current Speed Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Current Speed Measure is Reported.",
-    "$ref":"./definitions.wqx.values.json#/SpeedMeasurementUnit"
+    "$ref":"./definitions.values.json#/SpeedMeasurementUnit"
   },
   "ToxicityTestType":{
     "title":"Toxicity Test Type",
     "description":"Identifies the type of toxicity as either Acute or Chronic.",
-    "$ref":"./definitions.wqx.values.json#/ToxicityTestType"
+    "$ref":"./definitions.values.json#/ToxicityTestType"
   },
   "SampleCollectionMethodID":{
     "title":"Sample Collection Method ID",
@@ -286,7 +286,7 @@
   "SampleCollectionEquipmentName":{
     "title":"Sample Collection Equipment Name",
     "description":"Gear used to collect sample, required if Sample Collection Method is present",
-    "$ref":"./definitions.wqx.values.json#/SampleCollectionEquipment"
+    "$ref":"./definitions.values.json#/SampleCollectionEquipment"
   },
   "SampleCollectionEquipmentComment":{
     "title":"Sample Collection Equipment Comment",
@@ -305,12 +305,12 @@
   "SampleContainerType":{
     "title":"Sample Container Type",
     "description":"The text describing the sample container type.  Required if Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.wqx.values.json#/ContainerType"
+    "$ref":"./definitions.values.json#/ContainerType"
   },
   "SampleContainerColor":{
     "title":"Sample Container Color",
     "description":"The text describing the sample container color.  Required if Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.wqx.values.json#/ContainerColor"
+    "$ref":"./definitions.values.json#/ContainerColor"
   },
   "ChemicalPreservativeUsed":{
     "title":"Chemical Preservative Used",
@@ -322,7 +322,7 @@
   "ThermalPreservativeUsed":{
     "title":"Thermal Preservative Used",
     "description":"Information describing the thermal preservation of the sample.  Either Chemical Preservative Used or Thermal Preservative Used must be provided if the Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.wqx.values.json#/ThermalPreservative"
+    "$ref":"./definitions.values.json#/ThermalPreservative"
   },
   "SampleTransportStorageDescription":{
     "title":"Sample Transport Storage Description",
@@ -353,7 +353,7 @@
   "ActivityMetricValueUnit":{
     "title":"Activity Metric Value Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Activity Metric Value is reported.",
-    "$ref":"./definitions.wqx.values.json#/MeasurementUnit"
+    "$ref":"./definitions.values.json#/MeasurementUnit"
   },
   "ActivityMetricScore":{
     "title":"Activity Metric Score",
@@ -377,12 +377,12 @@
   "IndexTypeID":{
     "title":"Index Type ID",
     "description":"Type of Activity (example: Field Msr/Obs, Sample-Routine, etc.)",
-    "$ref":"./definitions.wqx.values.json#/ActivityType"
+    "$ref":"./definitions.values.json#/ActivityType"
   },
   "IndexScore":{
     "title":"Index Score",
     "description":"Medium in which sample or measurement was taken (example: Water, Sediment, etc.)",
-    "$ref":"./definitions.wqx.values.json#/ActivityMedia"
+    "$ref":"./definitions.values.json#/ActivityMedia"
   },
   "IndexQualifierCode":{
     "title":"Index Qualifier Code",
@@ -427,22 +427,22 @@
   "ResultDetectionCondition":{
     "title":"Result Detection Condition",
     "description":"Result detection Condition is required if Result Measure Value is blank; Must not be populated if Result Measure Value is provided.",
-    "$ref":"./definitions.wqx.values.json#/ResultDetectionCondition"
+    "$ref":"./definitions.values.json#/ResultDetectionCondition"
   },
   "CharacteristicName":{
     "title":"Characteristic Name",
     "description":"Valid characteristic name; required if activity yields results or detection conditions that are being reported",
-    "$ref":"./definitions.wqx.values.json#/Characteristic"
+    "$ref":"./definitions.values.json#/Characteristic"
   },
   "MethodSpeciation":{
     "title":"Method Speciation",
     "description":"Identifies the chemical speciation in which the measured result is expressed",
-    "$ref":"./definitions.wqx.values.json#/MethodSpeciation"
+    "$ref":"./definitions.values.json#/MethodSpeciation"
   },
   "ResultSampleFraction":{
     "title":"Result Sample Fraction",
     "description":"Text name of fraction of sample associated with result, required for certain characteristics, see Characteristics",
-    "$ref":"./definitions.wqx.values.json#/SampleFraction"
+    "$ref":"./definitions.values.json#/SampleFraction"
   },
   "ResultValue":{
     "title":"Result Value",
@@ -452,42 +452,42 @@
   "ResultUnit":{
     "title":"Result Unit",
     "description":"Units for characteristic result, required if a non text result is reported",
-    "$ref":"./definitions.wqx.values.json#/MeasurementUnit"
+    "$ref":"./definitions.values.json#/MeasurementUnit"
   },
   "ResultQualifier":{
     "title":"Result Qualifier",
     "description":"A code used to identify any qualifying issues that affect the results.",
-    "$ref":"./definitions.wqx.values.json#/ResultMeasureQualifier"
+    "$ref":"./definitions.values.json#/ResultMeasureQualifier"
   },
   "ResultStatusID":{
     "title":"Result Status ID",
     "description":"Required if result is reported; Indicates acceptability of result with respect to QA/QC, Data will not go into the STORET wharehouse if the status is  `Preliminary` ",
-    "$ref":"./definitions.wqx.values.json#/ResultStatus"
+    "$ref":"./definitions.values.json#/ResultStatus"
   },
   "StatisticalBaseCode":{
     "title":"Statistical Base Code",
     "description":"Code used for method used to calculate derived results, such as Mean, Maximum, etc.",
-    "$ref":"./definitions.wqx.values.json#/ResultStatisticalBase"
+    "$ref":"./definitions.values.json#/ResultStatisticalBase"
   },
   "ResultValueType":{
     "title":"Result Value Type",
     "description":"Qualifies process used in the determination of result value (eg. Actual, Estimated, Calculated).  Required if result is non-text.  Default is Actual.",
-    "$ref":"./definitions.wqx.values.json#/ResultValueType"
+    "$ref":"./definitions.values.json#/ResultValueType"
   },
   "ResultWeightBasis":{
     "title":"Result Weight Basis",
     "description":"Form of sample or portion of sample associated with result value (eg. wet weight, dry weight, etc.)",
-    "$ref":"./definitions.wqx.values.json#/ResultWeightBasis"
+    "$ref":"./definitions.values.json#/ResultWeightBasis"
   },
   "ResultTimeBasis":{
     "title":"Result Time Basis",
     "description":"The period of time (in days) over which a measurement was made. For example, BOD can be measured as 5 day or 20 day BOD.",
-    "$ref":"./definitions.wqx.values.json#/ResultTimeBasis"
+    "$ref":"./definitions.values.json#/ResultTimeBasis"
   },
   "ResultTemperatureBasis":{
     "title":"Result Temperature Basis",
     "description":"The name that represents the controlled temperature at which the sample was maintained during analysis, e.g. 25 deg BOD analysis.",
-    "$ref":"./definitions.wqx.values.json#/ResultTemperatureBasis"
+    "$ref":"./definitions.values.json#/ResultTemperatureBasis"
   },
   "ResultParticleSizeBasis":{
     "title":"Result Particle Size Basis",
@@ -542,7 +542,7 @@
   "ResultDepthHeightUnit":{
     "title":"Result Depth/Height Unit",
     "description":"Units for Result Depth Height Measure, required if Result Depth Height Measure entered",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "ResultDepthAltitudeReferencePoint":{
     "title":"Result Depth/Altitude Reference Point",
@@ -561,7 +561,7 @@
   "BiologicalIntent":{
     "title":"Biological Intent",
     "description":"`Population Census` is meant to allow for simple species counts, for example, counts of benthic macroinvertebrates sampled within a stream.  `Group Summary` is meant to allow for reporting of attributes for a group of organisms, for example, the sex of a group of fish.  `Frequency Class` is inteded for reporting counts within different bins or categories within a group.  `Individual` is used for reporting measurements of individuals caught.  `Tissue` is used to report analysis results of tissue samples.  `Toxicity` is used to report the results of toxicity testing on a species.  Required if entering biological or tissue data.",
-    "$ref":"./definitions.wqx.values.json#/BiologicalIntent"
+    "$ref":"./definitions.values.json#/BiologicalIntent"
   },
   "BiologicalIndividualID":{
     "title":"Biological Individual ID",
@@ -573,7 +573,7 @@
   "SubjectTaxonomicName":{
     "title":"Subject Taxonomic Name",
     "description":"Required if biological results are being reported",
-    "$ref":"./definitions.wqx.values.json#/Taxon"
+    "$ref":"./definitions.values.json#/Taxon"
   },
   "UnidentifiedSpeciesID":{
     "title":"Unidentified Species ID",
@@ -585,7 +585,7 @@
   "SampleTissueAnatomy":{
     "title":"Sample Tissue Anatomy",
     "description":"Name of anatomy from which tissue sample was taken.  Required if Bioligical Intent Name is Tissue.",
-    "$ref":"./definitions.wqx.values.json#/SampleTissueAnatomy"
+    "$ref":"./definitions.values.json#/SampleTissueAnatomy"
   },
   "GroupSummaryCountWeightMeasure":{
     "title":"Group Summary Count Weight Measure",
@@ -595,27 +595,27 @@
   "GroupSummaryCountWeightUnit":{
     "title":"Group Summary Count Weight Unit",
     "description":"Required if Group Summary Count Weight Measure is reported.  Captures the total count unit or total sample weight unit for a group of species being reported on.",
-    "$ref":"./definitions.wqx.values.json#/MassMeasurementUnit"
+    "$ref":"./definitions.values.json#/MassMeasurementUnit"
   },
   "TaxonCellForm":{
     "title":"Taxon Cell Form",
     "description":"The name of the cell form for phytoplankton organisms expressed as a result. ",
-    "$ref":"./definitions.wqx.values.json#/CellForm"
+    "$ref":"./definitions.values.json#/CellForm"
   },
   "TaxonCellShape":{
     "title":"Taxon Cell Shape",
     "description":"The cell shape of the phytoplankton organism.",
-    "$ref":"./definitions.wqx.values.json#/CellShape"
+    "$ref":"./definitions.values.json#/CellShape"
   },
   "TaxonHabit":{
     "title":"Taxon Habit",
     "description":"The position that the characteristic occupies in a food chain",
-    "$ref":"./definitions.wqx.values.json#/Habit"
+    "$ref":"./definitions.values.json#/Habit"
   },
   "TaxonVoltinism":{
     "title":"Taxon Voltinism",
     "description":"The number of broods or generations of the characteristic in a year",
-    "$ref":"./definitions.wqx.values.json#/Voltinism"
+    "$ref":"./definitions.values.json#/Voltinism"
   },
   "TaxonPollutionTolerance":{
     "title":"Taxon Pollution Tolerance",
@@ -655,12 +655,12 @@
   "FrequencyClassDescriptor":{
     "title":"Frequency Class Descriptor",
     "description":"Required if Frequency Class Information is Reported",
-    "$ref":"./definitions.wqx.values.json#/FrequencyClassDescriptor"
+    "$ref":"./definitions.values.json#/FrequencyClassDescriptor"
   },
   "FrequencyClassDescriptorUnit":{
     "title":"Frequency Class Descriptor Unit",
     "description":"Required if the Frequency Class Descriptor Code is a Measured Value (eg. Length, etc.)",
-    "$ref":"./definitions.wqx.values.json#/DistanceMeasurementUnit"
+    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
   },
   "LowerClassBound":{
     "title":"Lower Class Bound",
@@ -689,12 +689,12 @@
   "ResultAnalyticalMethodID":{
     "title":"Result Analytical Method ID",
     "description":"ID number assigned by method publisher, required if Activity Type Code contains the word Sample, for nationally defined methods see Nat. Methods Tab, to define an analytical method unique to your organization see Analytical & Collection Methods Tab",
-    "$ref":"./definitions.wqx.values.json#/AnalyticalMethod"
+    "$ref":"./definitions.values.json#/AnalyticalMethod"
   },
   "ResultAnalyticalMethodContext":{
     "title":"Result Analytical Method Context",
     "description":"Source of method, required if Activity Type Code is Sample, for nationally defined methods see Nat. Methods Tab, to define an analytical method unique to your organization see Analytical & Collection Methods Tab",
-    "$ref":"./definitions.wqx.values.json#/AnalyticalMethodContext"
+    "$ref":"./definitions.values.json#/AnalyticalMethodContext"
   },
   "LaboratoryName":{
     "title":"Laboratory Name",
@@ -718,7 +718,7 @@
   "AnalysisStartTimeZone":{
     "title":"Analysis Start Time Zone",
     "description":"The time zone for which the time of day is reported.  Required if Analysis Start Time is reported.",
-    "$ref":"./definitions.wqx.values.json#/TimeZone"
+    "$ref":"./definitions.values.json#/TimeZone"
   },
   "AnalysisEndDate":{
     "title":"Analysis End Date",
@@ -735,17 +735,17 @@
   "AnalysisEndTimeZone":{
     "title":"Analysis End Time Zone",
     "description":"The time zone for which the time of day is reported.  Required if Analysis End Time is reported.",
-    "$ref":"./definitions.wqx.values.json#/TimeZone"
+    "$ref":"./definitions.values.json#/TimeZone"
   },
   "ResultLaboratoryCommentCode":{
     "title":"Result Laboratory Comment Code",
     "description":"Remarks which further describe the laboratory procedures which produced the result.",
-    "$ref":"./definitions.wqx.values.json#/ResultLabComment"
+    "$ref":"./definitions.values.json#/ResultLabComment"
   },
   "ResultDetectionQuantitationLimitType":{
     "title":"Result Detection/Quantitation Limit Type",
     "description":"Text describing the type of detection or quantitation limit used in the analysis of a characteristic.  Required if Result Detection Condition is `Not Detected`, `Present Above Quantification Limit`, or `Present Below Quantification Limit`.",
-    "$ref":"./definitions.wqx.values.json#/DetectionQuantitationLimitType"
+    "$ref":"./definitions.values.json#/DetectionQuantitationLimitType"
   },
   "ResultDetectionQuantitationLimitMeasure":{
     "title":"Result Detection/Quantitation Limit Measure",
@@ -755,7 +755,7 @@
   "ResultDetectionQuantitationLimitUnit":{
     "title":"Result Detection/Quantitation Limit Unit",
     "description":"The code that represents the unit for measuring the chemical substance, microbiological substance or other characteristic.  Required if Result Detection Condition is `Not Detected`, `Present Above Quantification Limit`, or `Present Below Quantification Limit`.  Also Required if Result Detection/Quantitation Limit Measure is reported.",
-    "$ref":"./definitions.wqx.values.json#/MeasurementUnit"
+    "$ref":"./definitions.values.json#/MeasurementUnit"
   },
   "LaboratoryAccreditationIndicator":{
     "title":"Laboratory Accreditation Indicator",
@@ -792,7 +792,7 @@
   "LabSamplePreparationStartTimeZone":{
     "title":"Lab Sample Preparation Start Time Zone",
     "description":"The time zone for which the time of day is reported.   Required if Lab Sample Preparation Start Time is reported.",
-    "$ref":"./definitions.wqx.values.json#/TimeZone"
+    "$ref":"./definitions.values.json#/TimeZone"
   },
   "LabSamplePreparationEndDate":{
     "title":"Lab Sample Preparation End Date",
@@ -809,7 +809,7 @@
   "LabSamplePreparationEndTimeZone":{
     "title":"Lab Sample Preparation End Time Zone",
     "description":"The time zone for which the time of day is reported. Required if Lab Sample Preparation End Time is reported.",
-    "$ref":"./definitions.wqx.values.json#/TimeZone"
+    "$ref":"./definitions.values.json#/TimeZone"
   },
   "SubstanceDilutionFactor":{
     "title":"Substance Dilution Factor",
@@ -835,6 +835,6 @@
   "ActivityGroupType":{
     "title":"Activity Group Type",
     "description":"Identifies the type of grouping of a set of activities.  Required if Reporting an Activity Group.",
-    "$ref":"./definitions.wqx.values.json#/ActivityGroupType"
+    "$ref":"./definitions.values.json#/ActivityGroupType"
   }
 }

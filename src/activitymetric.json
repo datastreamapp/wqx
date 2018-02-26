@@ -5,205 +5,205 @@
   "type": "object",
   "properties": {
     "Activity ID": {
-      "$ref": "./definitions.wqx.json#/ActivityID"
+      "$ref": "./definitions.json#/ActivityID"
     },
     "Activity Type": {
-      "$ref": "./definitions.wqx.json#/ActivityType"
+      "$ref": "./definitions.json#/ActivityType"
     },
     "Activity Media Name": {
-      "$ref": "./definitions.wqx.json#/ActivityMediaName"
+      "$ref": "./definitions.json#/ActivityMediaName"
     },
     "Activity Media Subdivision Name": {
-      "$ref": "./definitions.wqx.json#/ActivityMediaSubdivisionName"
+      "$ref": "./definitions.json#/ActivityMediaSubdivisionName"
     },
     "Activity Start Date": {
-      "$ref": "./definitions.wqx.json#/ActivityStartDate"
+      "$ref": "./definitions.json#/ActivityStartDate"
     },
     "Activity Start Time": {
-      "$ref": "./definitions.wqx.json#/ActivityStartTime"
+      "$ref": "./definitions.json#/ActivityStartTime"
     },
     "Activity Start Time Zone": {
-      "$ref": "./definitions.wqx.json#/ActivityStartTimeZone"
+      "$ref": "./definitions.json#/ActivityStartTimeZone"
     },
     "Activity End Date": {
-      "$ref": "./definitions.wqx.json#/ActivityEndDate"
+      "$ref": "./definitions.json#/ActivityEndDate"
     },
     "Activity End Time": {
-      "$ref": "./definitions.wqx.json#/ActivityEndTime"
+      "$ref": "./definitions.json#/ActivityEndTime"
     },
     "Activity End Time Zone": {
-      "$ref": "./definitions.wqx.json#/ActivityEndTimeZone"
+      "$ref": "./definitions.json#/ActivityEndTimeZone"
     },
     "Activity Relative Depth Name": {
-      "$ref": "./definitions.wqx.json#/ActivityRelativeDepthName"
+      "$ref": "./definitions.json#/ActivityRelativeDepthName"
     },
     "Activity Depth/Height Measure": {
-      "$ref": "./definitions.wqx.json#/ActivityDepthHeightMeasure"
+      "$ref": "./definitions.json#/ActivityDepthHeightMeasure"
     },
     "Activity Depth/Height Unit": {
-      "$ref": "./definitions.wqx.json#/ActivityDepthHeightUnit"
+      "$ref": "./definitions.json#/ActivityDepthHeightUnit"
     },
     "Activity Top Depth/Height Measure": {
-      "$ref": "./definitions.wqx.json#/ActivityTopDepthHeightMeasure"
+      "$ref": "./definitions.json#/ActivityTopDepthHeightMeasure"
     },
     "Activity Top Depth/Height Unit": {
-      "$ref": "./definitions.wqx.json#/ActivityTopDepthHeightUnit"
+      "$ref": "./definitions.json#/ActivityTopDepthHeightUnit"
     },
     "Activity Bottom Depth/Height Measure": {
-      "$ref": "./definitions.wqx.json#/ActivityBottomDepthHeightMeasure"
+      "$ref": "./definitions.json#/ActivityBottomDepthHeightMeasure"
     },
     "Activity Bottom Depth/Height Unit": {
-      "$ref": "./definitions.wqx.json#/ActivityBottomDepthHeightUnit"
+      "$ref": "./definitions.json#/ActivityBottomDepthHeightUnit"
     },
     "Activity Depth Altitude Reference Point": {
-      "$ref": "./definitions.wqx.json#/ActivityDepthAltitudeReferencePoint"
+      "$ref": "./definitions.json#/ActivityDepthAltitudeReferencePoint"
     },
     "Project ID": {
-      "$ref": "./definitions.wqx.json#/ProjectID"
+      "$ref": "./definitions.json#/ProjectID"
     },
     "Organization": {
-      "$ref": "./definitions.wqx.json#/Organization"
+      "$ref": "./definitions.json#/Organization"
     },
     "Monitoring Location ID": {
-      "$ref": "./definitions.wqx.json#/MonitoringLocationID"
+      "$ref": "./definitions.json#/MonitoringLocationID"
     },
     "Activity Comment": {
-      "$ref": "./definitions.wqx.json#/ActivityComment"
+      "$ref": "./definitions.json#/ActivityComment"
     },
     "Activity Latitude": {
-      "$ref": "./definitions.wqx.json#/ActivityLatitude"
+      "$ref": "./definitions.json#/ActivityLatitude"
     },
     "Activity Longitude": {
-      "$ref": "./definitions.wqx.json#/ActivityLongitude"
+      "$ref": "./definitions.json#/ActivityLongitude"
     },
     "Activity Source Map Scale": {
-      "$ref": "./definitions.wqx.json#/ActivitySourceMapScale"
+      "$ref": "./definitions.json#/ActivitySourceMapScale"
     },
     "Activity Horizontal Accuracy Measure": {
-      "$ref": "./definitions.wqx.json#/ActivityHorizontalAccuracyMeasure"
+      "$ref": "./definitions.json#/ActivityHorizontalAccuracyMeasure"
     },
     "Activity Horizontal Accuracy Unit": {
-      "$ref": "./definitions.wqx.json#/ActivityHorizontalAccuracyUnit"
+      "$ref": "./definitions.json#/ActivityHorizontalAccuracyUnit"
     },
     "Activity Horizontal Collection Method": {
-      "$ref": "./definitions.wqx.json#/ActivityHorizontalCollectionMethod"
+      "$ref": "./definitions.json#/ActivityHorizontalCollectionMethod"
     },
     "Activity Horizontal Coordinate Reference System": {
-      "$ref": "./definitions.wqx.json#/ActivityHorizontalCoordinateReferenceSystem"
+      "$ref": "./definitions.json#/ActivityHorizontalCoordinateReferenceSystem"
     },
     "Assemblage Sampled Name": {
-      "$ref": "./definitions.wqx.json#/AssemblageSampledName"
+      "$ref": "./definitions.json#/AssemblageSampledName"
     },
     "Collection Duration Measure": {
-      "$ref": "./definitions.wqx.json#/CollectionDurationMeasure"
+      "$ref": "./definitions.json#/CollectionDurationMeasure"
     },
     "Collection Duration Unit": {
-      "$ref": "./definitions.wqx.json#/CollectionDurationUnit"
+      "$ref": "./definitions.json#/CollectionDurationUnit"
     },
     "Sampling Component Name": {
-      "$ref": "./definitions.wqx.json#/SamplingComponentName"
+      "$ref": "./definitions.json#/SamplingComponentName"
     },
     "Sampling Component Place In Series": {
-      "$ref": "./definitions.wqx.json#/SamplingComponentPlaceInSeries"
+      "$ref": "./definitions.json#/SamplingComponentPlaceInSeries"
     },
     "Reach Length Measure": {
-      "$ref": "./definitions.wqx.json#/ReachLengthMeasure"
+      "$ref": "./definitions.json#/ReachLengthMeasure"
     },
     "Reach Length Unit": {
-      "$ref": "./definitions.wqx.json#/ReachLengthUnit"
+      "$ref": "./definitions.json#/ReachLengthUnit"
     },
     "Reach Width Measure": {
-      "$ref": "./definitions.wqx.json#/ReachWidthMeasure"
+      "$ref": "./definitions.json#/ReachWidthMeasure"
     },
     "Reach Width Unit": {
-      "$ref": "./definitions.wqx.json#/ReachWidthUnit"
+      "$ref": "./definitions.json#/ReachWidthUnit"
     },
     "Pass Count": {
-      "$ref": "./definitions.wqx.json#/PassCount"
+      "$ref": "./definitions.json#/PassCount"
     },
     "Net Type": {
-      "$ref": "./definitions.wqx.json#/NetType"
+      "$ref": "./definitions.json#/NetType"
     },
     "Net Surface Area Measure": {
-      "$ref": "./definitions.wqx.json#/NetSurfaceAreaMeasure"
+      "$ref": "./definitions.json#/NetSurfaceAreaMeasure"
     },
     "Net Surface Area Unit": {
-      "$ref": "./definitions.wqx.json#/NetSurfaceAreaUnit"
+      "$ref": "./definitions.json#/NetSurfaceAreaUnit"
     },
     "Net Mesh Size Measure": {
-      "$ref": "./definitions.wqx.json#/NetMeshSizeMeasure"
+      "$ref": "./definitions.json#/NetMeshSizeMeasure"
     },
     "Net Mesh Size Unit": {
-      "$ref": "./definitions.wqx.json#/NetMeshSizeUnit"
+      "$ref": "./definitions.json#/NetMeshSizeUnit"
     },
     "Boat Speed Measure": {
-      "$ref": "./definitions.wqx.json#/BoatSpeedMeasure"
+      "$ref": "./definitions.json#/BoatSpeedMeasure"
     },
     "Boat Speed Unit": {
-      "$ref": "./definitions.wqx.json#/BoatSpeedUnit"
+      "$ref": "./definitions.json#/BoatSpeedUnit"
     },
     "Current Speed Measure": {
-      "$ref": "./definitions.wqx.json#/CurrentSpeedMeasure"
+      "$ref": "./definitions.json#/CurrentSpeedMeasure"
     },
     "Current Speed Unit": {
-      "$ref": "./definitions.wqx.json#/CurrentSpeedUnit"
+      "$ref": "./definitions.json#/CurrentSpeedUnit"
     },
     "Toxicity Test Type": {
-      "$ref": "./definitions.wqx.json#/ToxicityTestType"
+      "$ref": "./definitions.json#/ToxicityTestType"
     },
     "Sample Collection Method ID": {
-      "$ref": "./definitions.wqx.json#/SampleCollectionMethodID"
+      "$ref": "./definitions.json#/SampleCollectionMethodID"
     },
     "Sample Collection Equipment Name": {
-      "$ref": "./definitions.wqx.json#/SampleCollectionEquipmentName"
+      "$ref": "./definitions.json#/SampleCollectionEquipmentName"
     },
     "Sample Collection Equipment Comment": {
-      "$ref": "./definitions.wqx.json#/SampleCollectionEquipmentComment"
+      "$ref": "./definitions.json#/SampleCollectionEquipmentComment"
     },
     "Sample Preparation Method ID": {
-      "$ref": "./definitions.wqx.json#/SamplePreparationMethodID"
+      "$ref": "./definitions.json#/SamplePreparationMethodID"
     },
     "Sample Container Type": {
-      "$ref": "./definitions.wqx.json#/SampleContainerType"
+      "$ref": "./definitions.json#/SampleContainerType"
     },
     "Sample Container Color": {
-      "$ref": "./definitions.wqx.json#/SampleContainerColor"
+      "$ref": "./definitions.json#/SampleContainerColor"
     },
     "Chemical Preservative Used": {
-      "$ref": "./definitions.wqx.json#/ChemicalPreservativeUsed"
+      "$ref": "./definitions.json#/ChemicalPreservativeUsed"
     },
     "Thermal Preservative Used": {
-      "$ref": "./definitions.wqx.json#/ThermalPreservativeUsed"
+      "$ref": "./definitions.json#/ThermalPreservativeUsed"
     },
     "Sample Transport Storage Description": {
-      "$ref": "./definitions.wqx.json#/SampleTransportStorageDescription"
+      "$ref": "./definitions.json#/SampleTransportStorageDescription"
     },
     "Metric Type ID": {
-      "$ref": "./definitions.wqx.json#/MetricTypeID"
+      "$ref": "./definitions.json#/MetricTypeID"
     },
     "Metric Type Context": {
-      "$ref": "./definitions.wqx.json#/MetricTypeContext"
+      "$ref": "./definitions.json#/MetricTypeContext"
     },
     "Activity Metric Value": {
-      "$ref": "./definitions.wqx.json#/ActivityMetricValue"
+      "$ref": "./definitions.json#/ActivityMetricValue"
     },
     "Activity Metric Value Unit": {
-      "$ref": "./definitions.wqx.json#/ActivityMetricValueUnit"
+      "$ref": "./definitions.json#/ActivityMetricValueUnit"
     },
     "Activity Metric Score": {
-      "$ref": "./definitions.wqx.json#/ActivityMetricScore"
+      "$ref": "./definitions.json#/ActivityMetricScore"
     },
     "Activity Metric Comment": {
-      "$ref": "./definitions.wqx.json#/ActivityMetricComment"
+      "$ref": "./definitions.json#/ActivityMetricComment"
     },
     "Index ID": {
-      "$ref": "./definitions.wqx.json#/IndexID"
+      "$ref": "./definitions.json#/IndexID"
     },
     "Activity Attachment File Name": {
-      "$ref": "./definitions.wqx.json#/ActivityAttachmentFileName"
+      "$ref": "./definitions.json#/ActivityAttachmentFileName"
     },
     "Activity Attachment Type": {
-      "$ref": "./definitions.wqx.json#/ActivityAttachmentType"
+      "$ref": "./definitions.json#/ActivityAttachmentType"
     }
   },
   "required": [
