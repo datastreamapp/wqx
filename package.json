@@ -4,8 +4,8 @@
   "description": "Water Quality Exchange (WQX): JSON Schema and JSON Table Schema",
   "main": "index.js",
   "scripts": {
-    "build": "",
-    "build:values": "node ./bin/parse.js",
+    "init": "node ./bin/parse.js",
+    "build": "node ./bin/build.js",
     "test": "mocha"
   },
   "repository": {

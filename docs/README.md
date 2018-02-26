@@ -30,26 +30,29 @@ $ npm i wqx
 - `biological`
 - `biological-habitat`
 - `habitat`
+- `instantaneous`
 - `physical-chemistry`
-
-### JSON Schema
-
-### JSON Table Schema
 
 ## Use
 ```javascript
-const Ajv = require('ajv');
-const jsonschema = requrie('wqx/json-schema/biological.json');
-
-
+const jsonschema = requrie('wqx/json-schema/biological');
 ```
 
 
 ## Contributing
 
 ### Building `definitions.wqx.values.json`
+This should only be run if the version of WQX is updated.
 ```bash
-$ npm run build:values
+$ npm run init
+```
+
+### Publishing
+```bash
+# update version in `package.json`
+npm run build
+cd dist
+npm publish
 ```
 
 ### Contributors
