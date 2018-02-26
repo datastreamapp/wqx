@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Physical-Chemistry",
-  "description": "WQX Web Physical-Chemistry Results",
-  "type": "object",
+  "title":"Instantaneous",
+  "description":"WQXWeb Instantaneous (Continuous) Data",
+  "type":"object",
   "properties": {
     "Activity ID": {
       "$ref": "./definitions.wqx.json#/ActivityID"
@@ -61,8 +61,8 @@
     "Project ID": {
       "$ref": "./definitions.wqx.json#/ProjectID"
     },
-    "Organization": {
-      "$ref": "./definitions.wqx.json#/Organization"
+    "Activity Conducting Organization(s)": {
+      "$ref": "./definitions.wqx.json#/ActivityConductingOrganizations"
     },
     "Monitoring Location ID": {
       "$ref": "./definitions.wqx.json#/MonitoringLocationID"
@@ -90,6 +90,48 @@
     },
     "Activity Horizontal Coordinate Reference System": {
       "$ref": "./definitions.wqx.json#/ActivityHorizontalCoordinateReferenceSystem"
+    },
+    "Collection Duration Measure": {
+      "$ref": "./definitions.wqx.json#/CollectionDurationMeasure"
+    },
+    "Collection Duration Unit": {
+      "$ref": "./definitions.wqx.json#/CollectionDurationUnit"
+    },
+    "Sampling Component Name": {
+      "$ref": "./definitions.wqx.json#/SamplingComponentName"
+    },
+    "Sampling Component Place In Series": {
+      "$ref": "./definitions.wqx.json#/SamplingComponentPlaceInSeries"
+    },
+    "Reach Length Measure": {
+      "$ref": "./definitions.wqx.json#/ReachLengthMeasure"
+    },
+    "Reach Length Unit": {
+      "$ref": "./definitions.wqx.json#/ReachLengthUnit"
+    },
+    "Reach Width Measure": {
+      "$ref": "./definitions.wqx.json#/ReachWidthMeasure"
+    },
+    "Reach Width Unit": {
+      "$ref": "./definitions.wqx.json#/ReachWidthUnit"
+    },
+    "Pass Count": {
+      "$ref": "./definitions.wqx.json#/PassCount"
+    },
+    "Net Type": {
+      "$ref": "./definitions.wqx.json#/NetType"
+    },
+    "Boat Speed Measure": {
+      "$ref": "./definitions.wqx.json#/BoatSpeedMeasure"
+    },
+    "Boat Speed Unit": {
+      "$ref": "./definitions.wqx.json#/BoatSpeedUnit"
+    },
+    "Current Speed Measure": {
+      "$ref": "./definitions.wqx.json#/CurrentSpeedMeasure"
+    },
+    "Current Speed Unit": {
+      "$ref": "./definitions.wqx.json#/CurrentSpeedUnit"
     },
     "Sample Collection Method ID": {
       "$ref": "./definitions.wqx.json#/SampleCollectionMethodID"
@@ -284,11 +326,27 @@
       "$ref": "./definitions.wqx.json#/ActivityGroupType"
     }
   },
-  "required": [
+  "required":[
     "Activity ID",
     "Activity Type",
-    "Activity MediaName",
+    "Activity Media Name",
     "Activity Start Date",
-    "Project ID"
+    "Activity Start Time",
+    "Activity Start Time Zone",
+    "Activity End Date",
+    "Activity End Time",
+    "Activity End Time Zone",
+    "Project ID",
+    "Monitoring Location ID",
+    "Data Logger Line",
+    "Result Detection Condition",
+    "Characteristic Name",
+    "Method Speciation",
+    "Result Value",
+    "Result Unit",
+    "Result Status ID",
+    "Statistical Base Code",
+    "Result Value Type",
+    "Result Time Basis"
   ]
 }

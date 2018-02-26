@@ -4,40 +4,32 @@
   "description": "WQX Web Biological-Habitat Results",
   "type":"object",
   "properties": {
-    "index_id":{
+    "Index ID":{
       "$ref":"./definitions.wqx.json#/IndexID"
     },
-    "index_type_id":{
-      "title":"Index Type ID",
-      "description":"Type of Activity (example: Field Msr/Obs, Sample-Routine, etc.)",
-      "type":""
+    "Index Type ID":{
+      "$ref":"./definitions.wqx.json#/IndexTypeID"
     },
-    "index_score":{
-      "title":"Index Score",
-      "description":"Medium in which sample or measurement was taken (example: Water, Sediment, etc.)",
-      "type":""
+    "Index Score":{
+      "$ref":"./definitions.wqx.json#/IndexScore"
     },
-    "index_qualifier_code":{
-      "title":"Index Qualifier Code",
-      "description":"Name or code indicating the environmental matrix as a subdivision of the sample media.",
-      "type":""
+    "Index Qualifier Code":{
+      "$ref":"./definitions.wqx.json#/IndexQualifierCode"
     },
-    "index_comment":{
-      "title":"Index Comment",
-      "description":"General comments concerning the activity.",
-      "type":"string",
-      "minimum":0,
-      "maximum":4000
+    "Index Comment":{
+      "$ref":"./definitions.wqx.json#/IndexComment"
     },
-    "index_calculated_date":{
-      "title":"Index Calculated Date",
-      "description":"Date Activity began (YYYY-MM-DD)",
-      "type":"string",
-      "format":"date"
+    "Index Calculated Date":{
+      "$ref":"./definitions.wqx.json#/IndexCalculatedDate"
     },
-    "monitoring_location_id":{
+    "Monitoring Location ID":{
       "$ref":"./definitions.wqx.json#/MonitoringLocationID"
     }
   },
-  "required":["index_id","index_type_id","index_score","monitoring_location_id"]
+  "required":[
+    "Index ID",
+    "Index Type ID",
+    "Index Score",
+    "Monitoring Location ID"
+  ]
 }

@@ -2,209 +2,218 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Activity Metric",
   "description": "WQX Web Activity Metric Results",
-  "type":"object",
+  "type": "object",
   "properties": {
-    "ActivityID":{
-      "$ref":"./definitions.wqx.json#/ActivityID"
+    "Activity ID": {
+      "$ref": "./definitions.wqx.json#/ActivityID"
     },
-    "ActivityType":{
-      "$ref":"./definitions.wqx.json#/ActivityType"
+    "Activity Type": {
+      "$ref": "./definitions.wqx.json#/ActivityType"
     },
-    "ActivityMediaName":{
-      "$ref":"./definitions.wqx.json#/ActivityMediaName"
+    "Activity Media Name": {
+      "$ref": "./definitions.wqx.json#/ActivityMediaName"
     },
-    "ActivityMediaSubdivisionName":{
-      "$ref":"./definitions.wqx.json#/ActivityMediaSubdivisionName"
+    "Activity Media Subdivision Name": {
+      "$ref": "./definitions.wqx.json#/ActivityMediaSubdivisionName"
     },
-    "ActivityStartDate":{
-      "$ref":"./definitions.wqx.json#/ActivityStartDate"
+    "Activity Start Date": {
+      "$ref": "./definitions.wqx.json#/ActivityStartDate"
     },
-    "ActivityStartTime":{
-      "$ref":"./definitions.wqx.json#/ActivityStartTime"
+    "Activity Start Time": {
+      "$ref": "./definitions.wqx.json#/ActivityStartTime"
     },
-    "ActivityStartTimeZone":{
-      "$ref":"./definitions.wqx.json#/ActivityStartTimeZone"
+    "Activity Start Time Zone": {
+      "$ref": "./definitions.wqx.json#/ActivityStartTimeZone"
     },
-    "ActivityEndDate":{
-      "$ref":"./definitions.wqx.json#/ActivityEndDate"
+    "Activity End Date": {
+      "$ref": "./definitions.wqx.json#/ActivityEndDate"
     },
-    "ActivityEndTime":{
-      "$ref":"./definitions.wqx.json#/ActivityEndTime"
+    "Activity End Time": {
+      "$ref": "./definitions.wqx.json#/ActivityEndTime"
     },
-    "ActivityEndTimeZone":{
-      "$ref":"./definitions.wqx.json#/ActivityEndTimeZone"
+    "Activity End Time Zone": {
+      "$ref": "./definitions.wqx.json#/ActivityEndTimeZone"
     },
-    "ActivityRelativeDepthName":{
-      "$ref":"./definitions.wqx.json#/ActivityRelativeDepthName"
+    "Activity Relative Depth Name": {
+      "$ref": "./definitions.wqx.json#/ActivityRelativeDepthName"
     },
-    "ActivityDepthHeightMeasure":{
-      "$ref":"./definitions.wqx.json#/ActivityDepthHeightMeasure"
+    "Activity Depth/Height Measure": {
+      "$ref": "./definitions.wqx.json#/ActivityDepthHeightMeasure"
     },
-    "ActivityDepthHeightUnit":{
-      "$ref":"./definitions.wqx.json#/ActivityDepthHeightUnit"
+    "Activity Depth/Height Unit": {
+      "$ref": "./definitions.wqx.json#/ActivityDepthHeightUnit"
     },
-    "ActivityTopDepthHeightMeasure":{
-      "$ref":"./definitions.wqx.json#/ActivityTopDepthHeightMeasure"
+    "Activity Top Depth/Height Measure": {
+      "$ref": "./definitions.wqx.json#/ActivityTopDepthHeightMeasure"
     },
-    "ActivityTopDepthHeightUnit":{
-      "$ref":"./definitions.wqx.json#/ActivityTopDepthHeightUnit"
+    "Activity Top Depth/Height Unit": {
+      "$ref": "./definitions.wqx.json#/ActivityTopDepthHeightUnit"
     },
-    "ActivityBottomDepthHeightMeasure":{
-      "$ref":"./definitions.wqx.json#/ActivityBottomDepthHeightMeasure"
+    "Activity Bottom Depth/Height Measure": {
+      "$ref": "./definitions.wqx.json#/ActivityBottomDepthHeightMeasure"
     },
-    "ActivityBottomDepthHeightUnit":{
-      "$ref":"./definitions.wqx.json#/ActivityBottomDepthHeightUnit"
+    "Activity Bottom Depth/Height Unit": {
+      "$ref": "./definitions.wqx.json#/ActivityBottomDepthHeightUnit"
     },
-    "ActivityDepthAltitudeReferencePoint":{
-      "$ref":"./definitions.wqx.json#/ActivityDepthAltitudeReferencePoint"
+    "Activity Depth Altitude Reference Point": {
+      "$ref": "./definitions.wqx.json#/ActivityDepthAltitudeReferencePoint"
     },
-    "ProjectID":{
-      "$ref":"./definitions.wqx.json#/ProjectID"
+    "Project ID": {
+      "$ref": "./definitions.wqx.json#/ProjectID"
     },
-    "Organization":{
-      "$ref":"./definitions.wqx.json#/Organization"
+    "Organization": {
+      "$ref": "./definitions.wqx.json#/Organization"
     },
-    "MonitoringLocationID":{
-      "$ref":"./definitions.wqx.json#/MonitoringLocationID"
+    "Monitoring Location ID": {
+      "$ref": "./definitions.wqx.json#/MonitoringLocationID"
     },
-    "ActivityComment":{
-      "$ref":"./definitions.wqx.json#/ActivityComment"
+    "Activity Comment": {
+      "$ref": "./definitions.wqx.json#/ActivityComment"
     },
-    "ActivityLatitude":{
-      "$ref":"./definitions.wqx.json#/ActivityLatitude"
+    "Activity Latitude": {
+      "$ref": "./definitions.wqx.json#/ActivityLatitude"
     },
-    "ActivityLongitude":{
-      "$ref":"./definitions.wqx.json#/ActivityLongitude"
+    "Activity Longitude": {
+      "$ref": "./definitions.wqx.json#/ActivityLongitude"
     },
-    "ActivitySourceMapScale":{
-      "$ref":"./definitions.wqx.json#/ActivitySourceMapScale"
+    "Activity Source Map Scale": {
+      "$ref": "./definitions.wqx.json#/ActivitySourceMapScale"
     },
-    "ActivityHorizontalAccuracyMeasure":{
-      "$ref":"./definitions.wqx.json#/ActivityHorizontalAccuracyMeasure"
+    "Activity Horizontal Accuracy Measure": {
+      "$ref": "./definitions.wqx.json#/ActivityHorizontalAccuracyMeasure"
     },
-    "ActivityHorizontalAccuracyUnit":{
-      "$ref":"./definitions.wqx.json#/ActivityHorizontalAccuracyUnit"
+    "Activity Horizontal Accuracy Unit": {
+      "$ref": "./definitions.wqx.json#/ActivityHorizontalAccuracyUnit"
     },
-    "ActivityHorizontalCollectionMethod":{
-      "$ref":"./definitions.wqx.json#/ActivityHorizontalCollectionMethod"
+    "Activity Horizontal Collection Method": {
+      "$ref": "./definitions.wqx.json#/ActivityHorizontalCollectionMethod"
     },
-    "ActivityHorizontalCoordinateReferenceSystem":{
-      "$ref":"./definitions.wqx.json#/ActivityHorizontalCoordinateReferenceSystem"
+    "Activity Horizontal Coordinate Reference System": {
+      "$ref": "./definitions.wqx.json#/ActivityHorizontalCoordinateReferenceSystem"
     },
-    "AssemblageSampledName":{
-      "$ref":"./definitions.wqx.json#/AssemblageSampledName"
+    "Assemblage Sampled Name": {
+      "$ref": "./definitions.wqx.json#/AssemblageSampledName"
     },
-    "CollectionDurationMeasure":{
-      "$ref":"./definitions.wqx.json#/CollectionDurationMeasure"
+    "Collection Duration Measure": {
+      "$ref": "./definitions.wqx.json#/CollectionDurationMeasure"
     },
-    "CollectionDurationUnit":{
-      "$ref":"./definitions.wqx.json#/CollectionDurationUnit"
+    "Collection Duration Unit": {
+      "$ref": "./definitions.wqx.json#/CollectionDurationUnit"
     },
-    "SamplingComponentName":{
-      "$ref":"./definitions.wqx.json#/SamplingComponentName"
+    "Sampling Component Name": {
+      "$ref": "./definitions.wqx.json#/SamplingComponentName"
     },
-    "SamplingComponentPlaceInSeries":{
-      "$ref":"./definitions.wqx.json#/SamplingComponentPlaceInSeries"
+    "Sampling Component Place In Series": {
+      "$ref": "./definitions.wqx.json#/SamplingComponentPlaceInSeries"
     },
-    "ReachLengthMeasure":{
-      "$ref":"./definitions.wqx.json#/ReachLengthMeasure"
+    "Reach Length Measure": {
+      "$ref": "./definitions.wqx.json#/ReachLengthMeasure"
     },
-    "ReachLengthUnit":{
-      "$ref":"./definitions.wqx.json#/ReachLengthUnit"
+    "Reach Length Unit": {
+      "$ref": "./definitions.wqx.json#/ReachLengthUnit"
     },
-    "ReachWidthMeasure":{
-      "$ref":"./definitions.wqx.json#/ReachWidthMeasure"
+    "Reach Width Measure": {
+      "$ref": "./definitions.wqx.json#/ReachWidthMeasure"
     },
-    "ReachWidthUnit":{
-      "$ref":"./definitions.wqx.json#/ReachWidthUnit"
+    "Reach Width Unit": {
+      "$ref": "./definitions.wqx.json#/ReachWidthUnit"
     },
-    "PassCount":{
-      "$ref":"./definitions.wqx.json#/PassCount"
+    "Pass Count": {
+      "$ref": "./definitions.wqx.json#/PassCount"
     },
-    "NetType":{
-      "$ref":"./definitions.wqx.json#/NetType"
+    "Net Type": {
+      "$ref": "./definitions.wqx.json#/NetType"
     },
-    "NetSurfaceAreaMeasure":{
-      "$ref":"./definitions.wqx.json#/NetSurfaceAreaMeasure"
+    "Net Surface Area Measure": {
+      "$ref": "./definitions.wqx.json#/NetSurfaceAreaMeasure"
     },
-    "NetSurfaceAreaUnit":{
-      "$ref":"./definitions.wqx.json#/NetSurfaceAreaUnit"
+    "Net Surface Area Unit": {
+      "$ref": "./definitions.wqx.json#/NetSurfaceAreaUnit"
     },
-    "NetMeshSizeMeasure":{
-      "$ref":"./definitions.wqx.json#/NetMeshSizeMeasure"
+    "Net Mesh Size Measure": {
+      "$ref": "./definitions.wqx.json#/NetMeshSizeMeasure"
     },
-    "NetMeshSizeUnit":{
-      "$ref":"./definitions.wqx.json#/NetMeshSizeUnit"
+    "Net Mesh Size Unit": {
+      "$ref": "./definitions.wqx.json#/NetMeshSizeUnit"
     },
-    "BoatSpeedMeasure":{
-      "$ref":"./definitions.wqx.json#/BoatSpeedMeasure"
+    "Boat Speed Measure": {
+      "$ref": "./definitions.wqx.json#/BoatSpeedMeasure"
     },
-    "BoatSpeedUnit":{
-      "$ref":"./definitions.wqx.json#/BoatSpeedUnit"
+    "Boat Speed Unit": {
+      "$ref": "./definitions.wqx.json#/BoatSpeedUnit"
     },
-    "CurrentSpeedMeasure":{
-      "$ref":"./definitions.wqx.json#/CurrentSpeedMeasure"
+    "Current Speed Measure": {
+      "$ref": "./definitions.wqx.json#/CurrentSpeedMeasure"
     },
-    "CurrentSpeedUnit":{
-      "$ref":"./definitions.wqx.json#/CurrentSpeedUnit"
+    "Current Speed Unit": {
+      "$ref": "./definitions.wqx.json#/CurrentSpeedUnit"
     },
-    "ToxicityTestType":{
-      "$ref":"./definitions.wqx.json#/ToxicityTestType"
+    "Toxicity Test Type": {
+      "$ref": "./definitions.wqx.json#/ToxicityTestType"
     },
-    "SampleCollectionMethodID":{
-      "$ref":"./definitions.wqx.json#/SampleCollectionMethodID"
+    "Sample Collection Method ID": {
+      "$ref": "./definitions.wqx.json#/SampleCollectionMethodID"
     },
-    "SampleCollectionEquipmentName":{
-      "$ref":"./definitions.wqx.json#/SampleCollectionEquipmentName"
+    "Sample Collection Equipment Name": {
+      "$ref": "./definitions.wqx.json#/SampleCollectionEquipmentName"
     },
-    "SampleCollectionEquipmentComment":{
-      "$ref":"./definitions.wqx.json#/SampleCollectionEquipmentComment"
+    "Sample Collection Equipment Comment": {
+      "$ref": "./definitions.wqx.json#/SampleCollectionEquipmentComment"
     },
-    "SamplePreparationMethodID":{
-      "$ref":"./definitions.wqx.json#/SamplePreparationMethodID"
+    "Sample Preparation Method ID": {
+      "$ref": "./definitions.wqx.json#/SamplePreparationMethodID"
     },
-    "SampleContainerType":{
-      "$ref":"./definitions.wqx.json#/SampleContainerType"
+    "Sample Container Type": {
+      "$ref": "./definitions.wqx.json#/SampleContainerType"
     },
-    "SampleContainerColor":{
-      "$ref":"./definitions.wqx.json#/SampleContainerColor"
+    "Sample Container Color": {
+      "$ref": "./definitions.wqx.json#/SampleContainerColor"
     },
-    "ChemicalPreservativeUsed":{
-      "$ref":"./definitions.wqx.json#/ChemicalPreservativeUsed"
+    "Chemical Preservative Used": {
+      "$ref": "./definitions.wqx.json#/ChemicalPreservativeUsed"
     },
-    "ThermalPreservativeUsed":{
-      "$ref":"./definitions.wqx.json#/ThermalPreservativeUsed"
+    "Thermal Preservative Used": {
+      "$ref": "./definitions.wqx.json#/ThermalPreservativeUsed"
     },
-    "SampleTransportStorageDescription":{
-      "$ref":"./definitions.wqx.json#/SampleTransportStorageDescription"
+    "Sample Transport Storage Description": {
+      "$ref": "./definitions.wqx.json#/SampleTransportStorageDescription"
     },
-    "MetricTypeID":{
-      "$ref":"./definitions.wqx.json#/MetricTypeID"
+    "Metric Type ID": {
+      "$ref": "./definitions.wqx.json#/MetricTypeID"
     },
-    "MetricTypeContext":{
-      "$ref":"./definitions.wqx.json#/MetricTypeContext"
+    "Metric Type Context": {
+      "$ref": "./definitions.wqx.json#/MetricTypeContext"
     },
-    "ActivityMetricValue":{
-      "$ref":"./definitions.wqx.json#/ActivityMetricValue"
+    "Activity Metric Value": {
+      "$ref": "./definitions.wqx.json#/ActivityMetricValue"
     },
-    "ActivityMetricValueUnit":{
-      "$ref":"./definitions.wqx.json#/ActivityMetricValueUnit"
+    "Activity Metric Value Unit": {
+      "$ref": "./definitions.wqx.json#/ActivityMetricValueUnit"
     },
-    "ActivityMetricScore":{
-      "$ref":"./definitions.wqx.json#/ActivityMetricScore"
+    "Activity Metric Score": {
+      "$ref": "./definitions.wqx.json#/ActivityMetricScore"
     },
-    "ActivityMetricComment":{
-      "$ref":"./definitions.wqx.json#/ActivityMetricComment"
+    "Activity Metric Comment": {
+      "$ref": "./definitions.wqx.json#/ActivityMetricComment"
     },
-    "IndexID":{
-      "$ref":"./definitions.wqx.json#/IndexID"
+    "Index ID": {
+      "$ref": "./definitions.wqx.json#/IndexID"
     },
-    "ActivityAttachmentFileName":{
-      "$ref":"./definitions.wqx.json#/ActivityAttachmentFileName"
+    "Activity Attachment File Name": {
+      "$ref": "./definitions.wqx.json#/ActivityAttachmentFileName"
     },
-    "ActivityAttachmentType":{
-      "$ref":"./definitions.wqx.json#/ActivityAttachmentType"
+    "Activity Attachment Type": {
+      "$ref": "./definitions.wqx.json#/ActivityAttachmentType"
     }
   },
-  "required":["ActivityID","ActivityType","ActivityMediaName","ActivityStartDate","ProjectID","MetricTypeID","MetricTypeContext","ActivityMetricScore"]
+  "required": [
+    "Activity ID",
+    "Activity Type",
+    "Activity Media Name",
+    "Activity Start Date",
+    "Project ID",
+    "Metric Type ID",
+    "Metric Type Context",
+    "Activity Metric Score"
+  ]
 }

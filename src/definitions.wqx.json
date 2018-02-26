@@ -107,6 +107,12 @@
     "minLength":0,
     "maxLength":35
   },
+  "ActivityConductingOrganizations": {
+    "title":"Activity Conducting Organization(s)",
+    "description":"A name of the Organization conducting an activity.",
+    "type":"string",
+    "maxLength":120
+  },
   "Organization":{
     "title":"Organization",
     "description":"A name of the Organization conducting an activity.",
@@ -367,6 +373,35 @@
     "type":"string",
     "minLength": 0,
     "maxLength": 35
+  },
+  "IndexTypeID":{
+    "title":"Index Type ID",
+    "description":"Type of Activity (example: Field Msr/Obs, Sample-Routine, etc.)",
+    "$ref":"./definitions.wqx.values.json#/ActivityType"
+  },
+  "IndexScore":{
+    "title":"Index Score",
+    "description":"Medium in which sample or measurement was taken (example: Water, Sediment, etc.)",
+    "$ref":"./definitions.wqx.values.json#/ActivityMedia"
+  },
+  "IndexQualifierCode":{
+    "title":"Index Qualifier Code",
+    "description":"Name or code indicating the environmental matrix as a subdivision of the sample media.",
+    "type":"string",
+    "maxLength":45
+  },
+  "IndexComment":{
+    "title":"Index Comment",
+    "description":"General comments concerning the activity.",
+    "type":"string",
+    "minimum":0,
+    "maximum":4000
+  },
+  "IndexCalculatedDate":{
+    "title":"Index Calculated Date",
+    "description":"Date Activity began (YYYY-MM-DD)",
+    "type":"string",
+    "format":"date"
   },
   "ActivityAttachmentFileName":{
     "title":"Activity Attachment File Name",

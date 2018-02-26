@@ -4,28 +4,28 @@
   "description": "WQX Web Projects",
   "type":"object",
   "properties": {
-    "ProjectID": {
+    "Project ID": {
       "title": "Project ID",
       "description": "A unique ID for the Project to which data will be assigned",
       "type": "string",
       "minLength": 0,
       "maxLength": 35
     },
-    "ProjectName": {
+    "Project Name": {
       "title": "Project Name",
       "description": "A unique Name for the Project",
       "type": "string",
       "minLength": 0,
       "maxLength": 120
     },
-    "ProjectDescription": {
+    "Project Description": {
       "title": "Project Description",
       "description": "Project purpose and/or summary, must provide either project description or supply a Project Attachment",
       "type": "string",
       "minLength": 0,
       "maxLength": 120
     },
-    "SamplingDesignType": {
+    "Sampling Design Type": {
       "title": "Sampling Design Type",
       "description": "A code used to identify the type of sampling design employed for this project to ensure that sampling activities can support project objectives.",
       "type": "string",
@@ -33,27 +33,27 @@
       "maxLength": 20,
       "$ref": "./definitions.wqx.values.json#/SamplingDesignType"
     },
-    "QAPPApprovedIndicator": {
+    "QAPP Approved Indicator": {
       "title": "QAPP Approved Indicator",
       "description": "Indicates whether a Quality Assurance Project Plan (QAPP) has been approved for the submitted project.",
       "type": "string",
       "enum":["Yes","No"]
     },
-    "QAPPApprovalAgencyName": {
+    "QAPP Approval Agency Name": {
       "title": "QAPP Approval Agency Name",
       "description": "An outside approval authority identifier for the QAPP (e.g. EPA or State Organization).",
       "type": "string",
       "minLength": 0,
       "maxLength": 50
     },
-    "ProjectAttachmentFileName": {
+    "Project Attachment File Name": {
       "title": "Project Attachment File Name",
       "description": "The text describing the descriptive name used to represent the file, including file extension.  Must provide either project description or supply a Project Attachment",
       "type": "string",
       "minLength": 0,
       "maxLength": 255
     },
-    "ProjectAttachmentType": {
+    "Project Attachment Type": {
       "title": "Project Attachment Type",
       "description": "File text extension, free text not domain list validation.  Required if Project Attachment File Name is reported.",
       "type": "string",
@@ -61,5 +61,5 @@
       "maxLength": 6
     }
   },
-  "required":["ProjectID","ProjectName"]
+  "required":["Project ID","Project Name"]
 }
