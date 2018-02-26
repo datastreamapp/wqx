@@ -150,7 +150,7 @@
     "description":"The horizontal measure of the relative accuracy of the latitude and longitude coordinates",
     "type":"number"
   },
-  "Monitoring LocationHorizontalAccuracyMeasureUnitCode":{
+  "MonitoringLocationHorizontalAccuracyMeasureUnitCode":{
     "title":"Monitoring Location Horizontal Accuracy Measure Unit Code",
     "description":"Unit of measure of the relative accuracy, required if Monitoring Location Horizontal Accuracy Measure Value is reported.",
     "$ref":"./definitions.values.json#/MeasurementUnit"
