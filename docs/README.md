@@ -11,7 +11,6 @@
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/v/wqx.svg" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/dm/wqx.svg" alt="npm downloads"></a>
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/l/wqx.svg" alt="npm license" /></a>
-  <a href="http://packagequality.com/#?package=wqx"><img src="http://npm.packagequality.com/shield/wqx.svg" alt="Package Quality" /></a>
 </p>
 
 ## Sponsored By
