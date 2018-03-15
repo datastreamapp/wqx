@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/water-quality-exchange.gif" alt="WQX Logo" width="200">
+  <img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/water-quality-exchange.gif?token=ABC9PHwKdMHPOZuTyhCaJZTX2M3tBEEOks5as_8LwA%3D%3D" alt="WQX Logo" width="200">
   <br>
   Water Quality Exchange (WQX)<br/>JSON Schema and JSON Table Schema
   <br>
@@ -15,7 +15,7 @@
 
 ## Sponsored By
 <div align="center">
-  <a href="http://gordonfoundation.ca"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?sanitize=true" alt="The Gordon Foundation Logo" width="200"></a>
+  <a href="http://gordonfoundation.ca"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?token=ABC9PHSbVGIB5P8wKWv9XzwTcW1bpUeGks5as_71wA%3D%3D&sanitize=true" alt="The Gordon Foundation Logo" width="200"></a>
 </div>
 
 ## Install
@@ -73,5 +73,5 @@ npm publish
 
 <div align="center">
   <h3>Maintained By</h3>
-  <a href="https://tesera.com"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png" alt="Tesera Systems Inc. Logo" width="200"></a>
+  <a href="https://tesera.com"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png?token=ABC9PBM-lI_WM9Bx6CDX5fDb3bmaB1hMks5as_7lwA%3D%3D" alt="Tesera Systems Inc. Logo" width="200"></a>
 </div>
