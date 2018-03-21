@@ -16,31 +16,36 @@ const jsonSchema = {
         title: 'Area Measurement Unit',
         description: '',
         type: 'string',
-        enum: ['cm3','in3','ft3', 'm3']
+        enum: ['cm3','in3','ft3', 'm3'],
+        maxLength:3
     },
     DistanceMeasurementUnit: {
         title: 'Distance Measurement Unit',
         description: '',
         type: 'string',
-        enum: ['cm','in','ft', 'm', 'km']
+        enum: ['cm','in','ft', 'm', 'km'],
+        maxLength:2
     },
     TimeMeasurementUnit: {
         title: 'Time Measurement Unit',
         description: '',
         type: 'string',
-        enum: ['seconds','minutes','hours','weeks','months','years']
+        enum: ['seconds','minutes','hours','weeks','months','years'],
+        maxLength:7
     },
     SpeedMeasurementUnit: {
         title: 'Speed Measurement Unit',
         description: '',
         type: 'string',
-        enum: ['cm/sec','ft/sec','m/sec','km/sec','km/hr']
+        enum: ['cm/sec','ft/sec','m/sec','km/sec','km/hr'],
+        maxLength:6
     },
     MassMeasurementUnit: {
         title: 'Mass Measurement Unit',
         description: '',
         type: 'string',
-        enum: ['g','oz','lb','kg']
+        enum: ['g','oz','lb','kg'],
+        maxLength:2
     }
 };
 for (let e in values.WQXDomainValueList.WQXElement) {
