@@ -65,7 +65,6 @@ for (let e in values.WQXDomainValueList.WQXElement) {
 
         // re-org
         for (let c in row) {
-            console.log(c);
             const col = row[c]._attributes;
             rowObj[col.colname] = col.value;
         }

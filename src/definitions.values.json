@@ -10,7 +10,8 @@
       "in3",
       "ft3",
       "m3"
-    ]
+    ],
+    "maxLength": 3
   },
   "DistanceMeasurementUnit": {
     "title": "Distance Measurement Unit",
@@ -22,7 +23,8 @@
       "ft",
       "m",
       "km"
-    ]
+    ],
+    "maxLength": 2
   },
   "TimeMeasurementUnit": {
     "title": "Time Measurement Unit",
@@ -35,7 +37,8 @@
       "weeks",
       "months",
       "years"
-    ]
+    ],
+    "maxLength": 7
   },
   "SpeedMeasurementUnit": {
     "title": "Speed Measurement Unit",
@@ -47,7 +50,8 @@
       "m/sec",
       "km/sec",
       "km/hr"
-    ]
+    ],
+    "maxLength": 6
   },
   "MassMeasurementUnit": {
     "title": "Mass Measurement Unit",
@@ -58,7 +62,8 @@
       "oz",
       "lb",
       "kg"
-    ]
+    ],
+    "maxLength": 2
   },
   "ActivityGroupType": {
     "title": "ActivityGroupType",
