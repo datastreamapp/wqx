@@ -63,13 +63,12 @@ npm publish
 - [Web Template Files](https://www.epa.gov/waterdata/water-quality-exchange-web-template-files)
 - [Schema (XML)](http://www.exchangenetwork.net/data-exchange/wqx/)
 - [Schema Allowed Values (XML)](http://www.epa.gov/storet/wqx/wqx_getdomainvalueswebservice.html)
-
+- [World Water Day - Mar 22](http://worldwaterday.org)
 
 ## TODO
 - [ ] script to generate docs
   - [ ] ability to search allowed values
 - [ ] add file level definitions to help minimize size
-- [ ] script to build json-table-schema
 
 <div align="center">
   <h3>Maintained By</h3>
