@@ -51,14 +51,16 @@ for (let e in values.WQXDomainValueList.WQXElement) {
         title: field,
         description:'',
         type:'string',
-        enum:[]
+        enum:[],
+        maxLength:0
     };
     for (let r in element) {
-        const row = element[r].WQXElementRowColumn;
+        const row = element[r].WQXElementRowColumn || element[r];
         const rowObj = {};
 
         // re-org
         for (let c in row) {
+            console.log(c);
             const col = row[c]._attributes;
             rowObj[col.colname] = col.value;
         }
@@ -76,10 +78,14 @@ for (let e in values.WQXDomainValueList.WQXElement) {
             value = rowObj['Name'];
         }
 
+        if (!value) {
+            console.log(element[r], rowObj);
+        }
+
         // meta data for docs
         // name = rowObj['Name'].replace(/( ?[A-Z])/g, ' $1');
         // description = rowObj['Description']
-
+        jsonSchema[field].maxLength = Math.max(jsonSchema[field].maxLength, value.length);
         jsonSchema[field].enum.push(value);
     }
 }

@@ -1,6 +1,6 @@
 {
   "name": "wqx",
-  "version": "2.1.0-alpha.3",
+  "version": "2.1.0-alpha.4",
   "description": "Water Quality Exchange (WQX): JSON Schema and JSON Table Schema",
   "main": "index.js",
   "scripts": {

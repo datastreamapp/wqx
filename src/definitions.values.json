@@ -69,7 +69,8 @@
       "QC Sample",
       "Replicate",
       "Subsample"
-    ]
+    ],
+    "maxLength": 9
   },
   "ActivityMedia": {
     "title": "ActivityMedia",
@@ -84,7 +85,8 @@
       "Soil",
       "Tissue",
       "Water"
-    ]
+    ],
+    "maxLength": 10
   },
   "ActivityMediaSubdivision": {
     "title": "ActivityMediaSubdivision",
@@ -149,7 +151,8 @@
       "Water-Vadose Zone",
       "Wet Fall Material",
       "Wipe"
-    ]
+    ],
+    "maxLength": 45
   },
   "RelativeDepth": {
     "title": "RelativeDepth",
@@ -179,7 +182,8 @@
       "Thermocline",
       "Top of Core",
       "Top of Slice"
-    ]
+    ],
+    "maxLength": 15
   },
   "ActivityType": {
     "title": "ActivityType",
@@ -250,7 +254,8 @@
       "Sample-Positive Control",
       "Sample-Routine",
       "Sample-Routine Resample"
-    ]
+    ],
+    "maxLength": 69
   },
   "AddressType": {
     "title": "AddressType",
@@ -260,7 +265,8 @@
       "Location",
       "Mailing",
       "Shipping"
-    ]
+    ],
+    "maxLength": 8
   },
   "AnalyticalMethod": {
     "title": "AnalyticalMethod",
@@ -4156,7 +4162,8 @@
       "XENO",
       "X_89_176(N)",
       "X_89_176(P)"
-    ]
+    ],
+    "maxLength": 20
   },
   "AnalyticalMethodContext": {
     "title": "AnalyticalMethodContext",
@@ -4234,7 +4241,8 @@
       "WDNR FISH HABITAT",
       "WEST INC",
       "YSI"
-    ]
+    ],
+    "maxLength": 20
   },
   "Assemblage": {
     "title": "Assemblage",
@@ -4256,7 +4264,8 @@
       "Phytoplankton/Zooplankton",
       "Reptiles",
       "Terrestrial Vegetation"
-    ]
+    ],
+    "maxLength": 26
   },
   "BiologicalIntent": {
     "title": "BiologicalIntent",
@@ -4271,7 +4280,8 @@
       "Targeted Sampling",
       "Tissue",
       "Toxicity"
-    ]
+    ],
+    "maxLength": 17
   },
   "CellForm": {
     "title": "CellForm",
@@ -4283,7 +4293,8 @@
       "Filaments",
       "Flagellates",
       "Haptophytes"
-    ]
+    ],
+    "maxLength": 11
   },
   "CellShape": {
     "title": "CellShape",
@@ -4300,7 +4311,8 @@
       "Rod",
       "Sphere",
       "Teardrop"
-    ]
+    ],
+    "maxLength": 15
   },
   "Characteristic": {
     "title": "Characteristic",
@@ -10273,7 +10285,8 @@
       "Zooplankton",
       "Zooplankton Density",
       "Zooplankton Relative Density"
-    ]
+    ],
+    "maxLength": 118
   },
   "Country": {
     "title": "Country",
@@ -10308,7 +10321,8 @@
       "UM",
       "US",
       "VI"
-    ]
+    ],
+    "maxLength": 2
   },
   "County": {
     "title": "County",
@@ -13613,7 +13627,8 @@
       "Waynesboro, VA",
       "Williamsburg, VA",
       "Winchester, VA"
-    ]
+    ],
+    "maxLength": 39
   },
   "DetectionQuantitationLimitType": {
     "title": "DetectionQuantitationLimitType",
@@ -13652,7 +13667,8 @@
       "Upper Quantitation Limit",
       "Upper Reporting Limit",
       "Water Quality Standard or Criteria"
-    ]
+    ],
+    "maxLength": 34
   },
   "ElectronicAddressType": {
     "title": "ElectronicAddressType",
@@ -13662,7 +13678,8 @@
       "Email",
       "Internet",
       "Intranet"
-    ]
+    ],
+    "maxLength": 8
   },
   "FrequencyClassDescriptor": {
     "title": "FrequencyClassDescriptor",
@@ -13744,7 +13761,8 @@
       "Width",
       "Y.O.Y.",
       "Yolk Larva"
-    ]
+    ],
+    "maxLength": 23
   },
   "Habit": {
     "title": "Habit",
@@ -13762,7 +13780,8 @@
       "Swimmer",
       "Unidentified",
       "Unknown"
-    ]
+    ],
+    "maxLength": 12
   },
   "HorizontalCollectionMethod": {
     "title": "HorizontalCollectionMethod",
@@ -13809,7 +13828,8 @@
       "Zip Code-Centroid",
       "Zip+2 Centroid",
       "Zip+4 Centroid"
-    ]
+    ],
+    "maxLength": 50
   },
   "HorizontalReferenceDatum": {
     "title": "HorizontalReferenceDatum",
@@ -13833,7 +13853,8 @@
       "WAKE",
       "WGS72",
       "WGS84"
-    ]
+    ],
+    "maxLength": 5
   },
   "MeasurementUnit": {
     "title": "MeasurementUnit",
@@ -14222,7 +14243,8 @@
       "yd2",
       "yd3",
       "years"
-    ]
+    ],
+    "maxLength": 11
   },
   "MethodSpeciation": {
     "title": "MethodSpeciation",
@@ -14272,7 +14294,8 @@
       "as SO3",
       "as SO4",
       "as U3O8"
-    ]
+    ],
+    "maxLength": 9
   },
   "MetricType": {
     "title": "MetricType",
@@ -14300,15 +14323,17 @@
       "Shannon Diversity",
       "Shredder Richness",
       "Total Taxa Richness"
-    ]
+    ],
+    "maxLength": 27
   },
   "MetricTypeContext": {
     "title": "MetricTypeContext",
     "description": "",
     "type": "string",
     "enum": [
-      null
-    ]
+      "USEPA"
+    ],
+    "maxLength": 5
   },
   "MonitoringLocationType": {
     "title": "MonitoringLocationType",
@@ -14415,7 +14440,8 @@
       "Wetland Palustrine-Shrub-Scrub",
       "Wetland Riverine-Emergent",
       "Wetland Undifferentiated"
-    ]
+    ],
+    "maxLength": 40
   },
   "NetType": {
     "title": "NetType",
@@ -14425,7 +14451,8 @@
       "Net/Horizontal Tow",
       "Net/Non-Tow",
       "Net/Vertical Tow"
-    ]
+    ],
+    "maxLength": 18
   },
   "ReferenceLocationType": {
     "title": "ReferenceLocationType",
@@ -14436,7 +14463,8 @@
       "Random",
       "Reference",
       "Treatment Site"
-    ]
+    ],
+    "maxLength": 14
   },
   "ResultDetectionCondition": {
     "title": "ResultDetectionCondition",
@@ -14462,7 +14490,8 @@
       "Reported in Raw Data (attached)",
       "Trace",
       "Value Decensored"
-    ]
+    ],
+    "maxLength": 35
   },
   "ResultLabComment": {
     "title": "ResultLabComment",
@@ -14501,7 +14530,8 @@
       "RHT",
       "RPO",
       "SUS"
-    ]
+    ],
+    "maxLength": 3
   },
   "ResultMeasureQualifier": {
     "title": "ResultMeasureQualifier",
@@ -14741,7 +14771,8 @@
       "UQ",
       "Z",
       "^"
-    ]
+    ],
+    "maxLength": 5
   },
   "CharacteristicPickListValue": {
     "title": "CharacteristicPickListValue",
@@ -17129,7 +17160,8 @@
       "Toxicity, sediment, species significant (choice list)",
       "Precipitation Last 24hrs (CA SWAMP) (choice list)",
       "Life stage (choice list)"
-    ]
+    ],
+    "maxLength": 72
   },
   "SampleFraction": {
     "title": "SampleFraction",
@@ -17168,7 +17200,8 @@
       "Vapor",
       "Volatile",
       "Weak Acid Diss"
-    ]
+    ],
+    "maxLength": 25
   },
   "ResultStatus": {
     "title": "ResultStatus",
@@ -17183,7 +17216,8 @@
       "Rejected",
       "Unreviewed",
       "Validated"
-    ]
+    ],
+    "maxLength": 11
   },
   "ResultTemperatureBasis": {
     "title": "ResultTemperatureBasis",
@@ -17220,7 +17254,8 @@
       "85 Deg C",
       "90 Deg C",
       "95 Deg C"
-    ]
+    ],
+    "maxLength": 10
   },
   "ResultTimeBasis": {
     "title": "ResultTimeBasis",
@@ -17368,7 +17403,8 @@
       "Weekly",
       "Winter",
       "Yearly"
-    ]
+    ],
+    "maxLength": 11
   },
   "ResultValueType": {
     "title": "ResultValueType",
@@ -17380,7 +17416,8 @@
       "Calculated",
       "Control Adjusted",
       "Estimated"
-    ]
+    ],
+    "maxLength": 20
   },
   "ResultWeightBasis": {
     "title": "ResultWeightBasis",
@@ -17404,7 +17441,8 @@
       "Sampled",
       "Sieved Weight",
       "Wet"
-    ]
+    ],
+    "maxLength": 15
   },
   "SampleCollectionEquipment": {
     "title": "SampleCollectionEquipment",
@@ -17629,7 +17667,8 @@
       "XAD-2 resin",
       "Yankee Trawl",
       "Young Grab"
-    ]
+    ],
+    "maxLength": 40
   },
   "ContainerColor": {
     "title": "ContainerColor",
@@ -17643,7 +17682,8 @@
       "Opaque",
       "Translucent",
       "Unspecified"
-    ]
+    ],
+    "maxLength": 11
   },
   "ContainerType": {
     "title": "ContainerType",
@@ -17684,7 +17724,8 @@
       "Teflon Bottle",
       "Teflon Vial",
       "Unspecified"
-    ]
+    ],
+    "maxLength": 26
   },
   "SampleTissueAnatomy": {
     "title": "SampleTissueAnatomy",
@@ -17791,7 +17832,8 @@
       "Whole, Not Gut",
       "Wing",
       "Wood"
-    ]
+    ],
+    "maxLength": 30
   },
   "SamplingDesignType": {
     "title": "SamplingDesignType",
@@ -17800,7 +17842,8 @@
     "enum": [
       "Probabilistic",
       "Targeted"
-    ]
+    ],
+    "maxLength": 13
   },
   "State": {
     "title": "State",
@@ -17921,7 +17964,8 @@
       "WV",
       "WY",
       "YT"
-    ]
+    ],
+    "maxLength": 2
   },
   "ResultStatisticalBase": {
     "title": "ResultStatisticalBase",
@@ -17978,7 +18022,8 @@
       "Standard Error",
       "STV",
       "Sum"
-    ]
+    ],
+    "maxLength": 24
   },
   "Taxon": {
     "title": "Taxon",
@@ -64568,7 +64613,8 @@
       "Zygonemertes",
       "Zygonemertes virescens",
       "Zygoptera"
-    ]
+    ],
+    "maxLength": 120
   },
   "PhoneType": {
     "title": "PhoneType",
@@ -64580,7 +64626,8 @@
       "Mobile",
       "Office",
       "Pager"
-    ]
+    ],
+    "maxLength": 6
   },
   "ThermalPreservative": {
     "title": "ThermalPreservative",
@@ -64597,7 +64644,8 @@
       "Refrigerated (4 deg C)",
       "Unspecified",
       "Wet Ice (4 deg C)"
-    ]
+    ],
+    "maxLength": 22
   },
   "TimeZone": {
     "title": "TimeZone",
@@ -64630,7 +64678,8 @@
       "SST",
       "UTC",
       "YST"
-    ]
+    ],
+    "maxLength": 4
   },
   "ToxicityTestType": {
     "title": "ToxicityTestType",
@@ -64639,7 +64688,8 @@
     "enum": [
       "Acute",
       "Chronic"
-    ]
+    ],
+    "maxLength": 7
   },
   "Tribe": {
     "title": "Tribe",
@@ -65226,7 +65276,8 @@
       "S16",
       "S17",
       "S18"
-    ]
+    ],
+    "maxLength": 3
   },
   "VerticalCollectionMethod": {
     "title": "VerticalCollectionMethod",
@@ -65249,7 +65300,8 @@
       "Topographic Map Interpolation",
       "Trigonometric Leveling",
       "Unknown"
-    ]
+    ],
+    "maxLength": 50
   },
   "VerticalReferenceDatum": {
     "title": "VerticalReferenceDatum",
@@ -65262,7 +65314,8 @@
       "OTHER",
       "SEALV",
       "UNKWN"
-    ]
+    ],
+    "maxLength": 6
   },
   "Voltinism": {
     "title": "Voltinism",
@@ -65275,7 +65328,8 @@
       "Multivoltine",
       "Semivoltine",
       "Univoltine"
-    ]
+    ],
+    "maxLength": 24
   },
   "WellFormationType": {
     "title": "WellFormationType",
@@ -65300,7 +65354,8 @@
       "Sediment, Terrace",
       "Sediment, Unconsolidated",
       "Soil Horizon"
-    ]
+    ],
+    "maxLength": 50
   },
   "WellType": {
     "title": "WellType",
@@ -65332,7 +65387,8 @@
       "Water Supply/Production",
       "Well-Temporary",
       "Withdrawal of Water"
-    ]
+    ],
+    "maxLength": 24
   },
   "Organization": {
     "title": "Organization",
@@ -66439,6 +66495,7 @@
       "YOMBA",
       "YUROKTEP_WQX",
       "ZIAPUEBLO_WQX"
-    ]
+    ],
+    "maxLength": 30
   }
 }
