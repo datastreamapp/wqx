@@ -3,6 +3,7 @@
   "title": "Habitat",
   "description": "WQX Web Habitat Results",
   "type": "object",
+  "additionalProperties": false,
   "properties": {
     "Activity ID": {
       "$ref": "./definitions.json#/ActivityID"

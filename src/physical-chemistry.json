@@ -3,6 +3,7 @@
   "title": "Physical-Chemistry",
   "description": "WQX Web Physical-Chemistry Results",
   "type": "object",
+  "additionalProperties": false,
   "properties": {
     "Activity ID": {
       "$ref": "./definitions.json#/ActivityID"

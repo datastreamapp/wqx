@@ -2,31 +2,32 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Biological-Habitat",
   "description": "WQX Web Biological-Habitat Results",
-  "type":"object",
+  "type": "object",
+  "additionalProperties": false,
   "properties": {
-    "Index ID":{
-      "$ref":"./definitions.json#/IndexID"
+    "Index ID": {
+      "$ref": "./definitions.json#/IndexID"
     },
-    "Index Type ID":{
-      "$ref":"./definitions.json#/IndexTypeID"
+    "Index Type ID": {
+      "$ref": "./definitions.json#/IndexTypeID"
     },
-    "Index Score":{
-      "$ref":"./definitions.json#/IndexScore"
+    "Index Score": {
+      "$ref": "./definitions.json#/IndexScore"
     },
-    "Index Qualifier Code":{
-      "$ref":"./definitions.json#/IndexQualifierCode"
+    "Index Qualifier Code": {
+      "$ref": "./definitions.json#/IndexQualifierCode"
     },
-    "Index Comment":{
-      "$ref":"./definitions.json#/IndexComment"
+    "Index Comment": {
+      "$ref": "./definitions.json#/IndexComment"
     },
-    "Index Calculated Date":{
-      "$ref":"./definitions.json#/IndexCalculatedDate"
+    "Index Calculated Date": {
+      "$ref": "./definitions.json#/IndexCalculatedDate"
     },
-    "Monitoring Location ID":{
-      "$ref":"./definitions.json#/MonitoringLocationID"
+    "Monitoring Location ID": {
+      "$ref": "./definitions.json#/MonitoringLocationID"
     }
   },
-  "required":[
+  "required": [
     "Index ID",
     "Index Type ID",
     "Index Score",

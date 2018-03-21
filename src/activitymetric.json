@@ -3,6 +3,7 @@
   "title": "Activity Metric",
   "description": "WQX Web Activity Metric Results",
   "type": "object",
+  "additionalProperties": false,
   "properties": {
     "Activity ID": {
       "$ref": "./definitions.json#/ActivityID"

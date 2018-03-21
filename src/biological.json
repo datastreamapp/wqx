@@ -3,6 +3,7 @@
   "title": "Biological",
   "description": "WQX Web Biological Results",
   "type": "object",
+  "additionalProperties": false,
   "properties": {
     "Activity ID": {
       "$ref": "./definitions.json#/ActivityID"

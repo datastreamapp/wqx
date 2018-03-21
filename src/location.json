@@ -2,103 +2,104 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Monitoring Locations",
   "description": "WQX Web Monitoring Locations",
-  "type":"object",
-  "properties":{
-    "Monitoring Location ID":{
-      "$ref":"./definitions.json#/MonitoringLocationID"
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "Monitoring Location ID": {
+      "$ref": "./definitions.json#/MonitoringLocationID"
     },
-    "Monitoring Location Name":{
-      "$ref":"./definitions.json#/MonitoringLocationName"
+    "Monitoring Location Name": {
+      "$ref": "./definitions.json#/MonitoringLocationName"
     },
-    "Monitoring Location Type":{
-      "$ref":"./definitions.json#/MonitoringLocationType"
+    "Monitoring Location Type": {
+      "$ref": "./definitions.json#/MonitoringLocationType"
     },
-    "Monitoring Location Description":{
-      "$ref":"./definitions.json#/MonitoringLocationDescription"
+    "Monitoring Location Description": {
+      "$ref": "./definitions.json#/MonitoringLocationDescription"
     },
-    "HUC Eight-Digit Code":{
-      "$ref":"./definitions.json#/HUCEightDigitCode"
+    "HUC Eight-Digit Code": {
+      "$ref": "./definitions.json#/HUCEightDigitCode"
     },
-    "HUC Twelve-Digit Code":{
-      "$ref":"./definitions.json#/HUCTwelveDigitCode"
+    "HUC Twelve-Digit Code": {
+      "$ref": "./definitions.json#/HUCTwelveDigitCode"
     },
-    "Tribal Land Indicator":{
-      "$ref":"./definitions.json#/TribalLandIndicator"
+    "Tribal Land Indicator": {
+      "$ref": "./definitions.json#/TribalLandIndicator"
     },
-    "Tribal Land Name":{
-      "$ref":"./definitions.json#/TribalLandName"
+    "Tribal Land Name": {
+      "$ref": "./definitions.json#/TribalLandName"
     },
-    "Alternate Monitoring Location ID":{
-      "$ref":"./definitions.json#/AlternateMonitoringLocationID"
+    "Alternate Monitoring Location ID": {
+      "$ref": "./definitions.json#/AlternateMonitoringLocationID"
     },
-    "Alternate Monitoring Location Context":{
-      "$ref":"./definitions.json#/AlternateMonitoringLocationContext"
+    "Alternate Monitoring Location Context": {
+      "$ref": "./definitions.json#/AlternateMonitoringLocationContext"
     },
-    "Monitoring Location Latitude":{
-      "$ref":"./definitions.json#/MonitoringLocationLatitude"
+    "Monitoring Location Latitude": {
+      "$ref": "./definitions.json#/MonitoringLocationLatitude"
     },
-    "Monitoring Location Longitude":{
-      "$ref":"./definitions.json#/MonitoringLocationLongitude"
+    "Monitoring Location Longitude": {
+      "$ref": "./definitions.json#/MonitoringLocationLongitude"
     },
-    "Monitoring Location Source Map Scale":{
-      "$ref":"./definitions.json#/MonitoringLocationSourceMapScale"
+    "Monitoring Location Source Map Scale": {
+      "$ref": "./definitions.json#/MonitoringLocationSourceMapScale"
     },
-    "Monitoring Location Horizontal Accuracy Measure Value":{
-      "$ref":"./definitions.json#/MonitoringLocationHorizontalAccuracyMeasureValue"
+    "Monitoring Location Horizontal Accuracy Measure Value": {
+      "$ref": "./definitions.json#/MonitoringLocationHorizontalAccuracyMeasureValue"
     },
-    "Monitoring Location Horizontal Accuracy Measure Unit Code":{
-      "$ref":"./definitions.json#/MonitoringLocationHorizontalAccuracyMeasureUnitCode"
+    "Monitoring Location Horizontal Accuracy Measure Unit Code": {
+      "$ref": "./definitions.json#/MonitoringLocationHorizontalAccuracyMeasureUnitCode"
     },
-    "Monitoring Location Horizontal Collection Method":{
-      "$ref":"./definitions.json#/MonitoringLocationHorizontalCollectionMethod"
+    "Monitoring Location Horizontal Collection Method": {
+      "$ref": "./definitions.json#/MonitoringLocationHorizontalCollectionMethod"
     },
-    "Monitoring Location Horizontal Coordinate Reference System":{
-      "$ref":"./definitions.json#/MonitoringLocationHorizontalCoordinateReferenceSystem"
+    "Monitoring Location Horizontal Coordinate Reference System": {
+      "$ref": "./definitions.json#/MonitoringLocationHorizontalCoordinateReferenceSystem"
     },
-    "Vertical Measure":{
-      "$ref":"./definitions.json#/VerticalMeasure"
+    "Vertical Measure": {
+      "$ref": "./definitions.json#/VerticalMeasure"
     },
-    "Vertical Unit":{
-      "$ref":"./definitions.json#/VerticalUnit"
+    "Vertical Unit": {
+      "$ref": "./definitions.json#/VerticalUnit"
     },
-    "Vertical Collection Method":{
-      "$ref":"./definitions.json#/VerticalCollectionMethod"
+    "Vertical Collection Method": {
+      "$ref": "./definitions.json#/VerticalCollectionMethod"
     },
-    "Vertical Coordinate Reference System":{
-      "$ref":"./definitions.json#/VerticalCoordinateReferenceSystem"
+    "Vertical Coordinate Reference System": {
+      "$ref": "./definitions.json#/VerticalCoordinateReferenceSystem"
     },
-    "Monitoring Location Country Code":{
-      "$ref":"./definitions.json#/MonitoringLocationCountryCode"
+    "Monitoring Location Country Code": {
+      "$ref": "./definitions.json#/MonitoringLocationCountryCode"
     },
-    "Monitoring Location State":{
-      "$ref":"./definitions.json#/MonitoringLocationState"
+    "Monitoring Location State": {
+      "$ref": "./definitions.json#/MonitoringLocationState"
     },
-    "Monitoring Location County":{
-      "$ref":"./definitions.json#/MonitoringLocationCounty"
+    "Monitoring Location County": {
+      "$ref": "./definitions.json#/MonitoringLocationCounty"
     },
-    "Well Type":{
-      "$ref":"./definitions.json#/WellType"
+    "Well Type": {
+      "$ref": "./definitions.json#/WellType"
     },
-    "Aquifer Name":{
-      "$ref":"./definitions.json#/AquiferName"
+    "Aquifer Name": {
+      "$ref": "./definitions.json#/AquiferName"
     },
-    "Well Formation Type":{
-      "$ref":"./definitions.json#/WellFormationType"
+    "Well Formation Type": {
+      "$ref": "./definitions.json#/WellFormationType"
     },
-    "Well Hole Depth Measure Value":{
-      "$ref":"./definitions.json#/WellHoleDepthMeasureValue"
+    "Well Hole Depth Measure Value": {
+      "$ref": "./definitions.json#/WellHoleDepthMeasureValue"
     },
-    "Well Hole Depth Measure Unit":{
-      "$ref":"./definitions.json#/WellHoleDepthMeasureUnit"
+    "Well Hole Depth Measure Unit": {
+      "$ref": "./definitions.json#/WellHoleDepthMeasureUnit"
     },
-    "Monitoring Location Attachment File Name":{
-      "$ref":"./definitions.json#/MonitoringLocationAttachmentFileName"
+    "Monitoring Location Attachment File Name": {
+      "$ref": "./definitions.json#/MonitoringLocationAttachmentFileName"
     },
-    "Monitoring Location Attachment Type":{
-      "$ref":"./definitions.json#/MonitoringLocationAttachmentType"
+    "Monitoring Location Attachment Type": {
+      "$ref": "./definitions.json#/MonitoringLocationAttachmentType"
     }
   },
-  "required":[
+  "required": [
     "Monitoring Location ID",
     "Monitoring Location Name",
     "Monitoring Location Type",

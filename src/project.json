@@ -2,32 +2,36 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Projects",
   "description": "WQX Web Projects",
-  "type":"object",
+  "type": "object",
+  "additionalProperties": false,
   "properties": {
     "Project ID": {
-      "$ref":"./definitions.json#/ProjectID"
+      "$ref": "./definitions.json#/ProjectID"
     },
     "Project Name": {
-      "$ref":"./definitions.json#/ProjectName"
+      "$ref": "./definitions.json#/ProjectName"
     },
     "Project Description": {
-      "$ref":"./definitions.json#/ProjectDescription"
+      "$ref": "./definitions.json#/ProjectDescription"
     },
     "Sampling Design Type": {
-      "$ref":"./definitions.json#/SamplingDesignType"
+      "$ref": "./definitions.json#/SamplingDesignType"
     },
     "QAPP Approved Indicator": {
-      "$ref":"./definitions.json#/QAPPApprovedIndicator"
+      "$ref": "./definitions.json#/QAPPApprovedIndicator"
     },
     "QAPP Approval Agency Name": {
-      "$ref":"./definitions.json#/QAPPApprovalAgencyName"
+      "$ref": "./definitions.json#/QAPPApprovalAgencyName"
     },
     "Project Attachment File Name": {
-      "$ref":"./definitions.json#/ProjectAttachmentFileName"
+      "$ref": "./definitions.json#/ProjectAttachmentFileName"
     },
     "Project Attachment Type": {
-      "$ref":"./definitions.json#/ProjectAttachmentType"
+      "$ref": "./definitions.json#/ProjectAttachmentType"
     }
   },
-  "required":["Project ID","Project Name"]
+  "required": [
+    "Project ID",
+    "Project Name"
+  ]
 }
