@@ -90,7 +90,11 @@ for (let e in values.WQXDomainValueList.WQXElement) {
         // name = rowObj['Name'].replace(/( ?[A-Z])/g, ' $1');
         // description = rowObj['Description']
         jsonSchema[field].maxLength = Math.max(jsonSchema[field].maxLength, value.length);
-        jsonSchema[field].enum.push(value);
+        if (jsonSchema[field].enum.indexOf(value) === -1) {
+            jsonSchema[field].enum.push(value);
+        } else {
+            console.log(`duplicate found in ${field}`, value);
+        }
     }
 }
 
