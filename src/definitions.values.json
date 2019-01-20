@@ -66,7 +66,7 @@
     "maxLength": 2
   },
   "ActivityGroupType": {
-    "title": "ActivityGroupType",
+    "title": "Activity Group Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -78,7 +78,7 @@
     "maxLength": 9
   },
   "ActivityMedia": {
-    "title": "ActivityMedia",
+    "title": "Activity Media",
     "description": "",
     "type": "string",
     "enum": [
@@ -94,7 +94,7 @@
     "maxLength": 10
   },
   "ActivityMediaSubdivision": {
-    "title": "ActivityMediaSubdivision",
+    "title": "Activity Media Subdivision",
     "description": "",
     "type": "string",
     "enum": [
@@ -160,7 +160,7 @@
     "maxLength": 45
   },
   "RelativeDepth": {
-    "title": "RelativeDepth",
+    "title": "Relative Depth",
     "description": "",
     "type": "string",
     "enum": [
@@ -191,7 +191,7 @@
     "maxLength": 15
   },
   "ActivityType": {
-    "title": "ActivityType",
+    "title": "Activity Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -263,7 +263,7 @@
     "maxLength": 69
   },
   "AddressType": {
-    "title": "AddressType",
+    "title": "Address Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -274,7 +274,7 @@
     "maxLength": 8
   },
   "AnalyticalMethod": {
-    "title": "AnalyticalMethod",
+    "title": "Analytical Method",
     "description": "",
     "type": "string",
     "enum": [
@@ -4125,7 +4125,7 @@
     "maxLength": 20
   },
   "AnalyticalMethodContext": {
-    "title": "AnalyticalMethodContext",
+    "title": "Analytical Method Context",
     "description": "",
     "type": "string",
     "enum": [
@@ -4227,7 +4227,7 @@
     "maxLength": 26
   },
   "BiologicalIntent": {
-    "title": "BiologicalIntent",
+    "title": "Biological Intent",
     "description": "",
     "type": "string",
     "enum": [
@@ -4243,7 +4243,7 @@
     "maxLength": 17
   },
   "CellForm": {
-    "title": "CellForm",
+    "title": "Cell Form",
     "description": "",
     "type": "string",
     "enum": [
@@ -4256,7 +4256,7 @@
     "maxLength": 11
   },
   "CellShape": {
-    "title": "CellShape",
+    "title": "Cell Shape",
     "description": "",
     "type": "string",
     "enum": [
@@ -13590,7 +13590,7 @@
     "maxLength": 39
   },
   "DetectionQuantitationLimitType": {
-    "title": "DetectionQuantitationLimitType",
+    "title": "Detection Quantitation Limit Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -13630,7 +13630,7 @@
     "maxLength": 34
   },
   "ElectronicAddressType": {
-    "title": "ElectronicAddressType",
+    "title": "Electronic Address Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -13641,7 +13641,7 @@
     "maxLength": 8
   },
   "FrequencyClassDescriptor": {
-    "title": "FrequencyClassDescriptor",
+    "title": "Frequency Class Descriptor",
     "description": "",
     "type": "string",
     "enum": [
@@ -13743,7 +13743,7 @@
     "maxLength": 12
   },
   "HorizontalCollectionMethod": {
-    "title": "HorizontalCollectionMethod",
+    "title": "Horizontal Collection Method",
     "description": "",
     "type": "string",
     "enum": [
@@ -13791,7 +13791,7 @@
     "maxLength": 50
   },
   "HorizontalReferenceDatum": {
-    "title": "HorizontalReferenceDatum",
+    "title": "Horizontal Reference Datum",
     "description": "",
     "type": "string",
     "enum": [
@@ -13816,7 +13816,7 @@
     "maxLength": 5
   },
   "MeasurementUnit": {
-    "title": "MeasurementUnit",
+    "title": "Measurement Unit",
     "description": "",
     "type": "string",
     "enum": [
@@ -14206,7 +14206,7 @@
     "maxLength": 11
   },
   "MethodSpeciation": {
-    "title": "MethodSpeciation",
+    "title": "Method Speciation",
     "description": "",
     "type": "string",
     "enum": [
@@ -14257,7 +14257,7 @@
     "maxLength": 9
   },
   "MetricType": {
-    "title": "MetricType",
+    "title": "Metric Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -14286,7 +14286,7 @@
     "maxLength": 27
   },
   "MetricTypeContext": {
-    "title": "MetricTypeContext",
+    "title": "Metric Type Context",
     "description": "",
     "type": "string",
     "enum": [
@@ -14295,7 +14295,7 @@
     "maxLength": 5
   },
   "MonitoringLocationType": {
-    "title": "MonitoringLocationType",
+    "title": "Monitoring Location Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -14403,7 +14403,7 @@
     "maxLength": 40
   },
   "NetType": {
-    "title": "NetType",
+    "title": "Net Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -14414,7 +14414,7 @@
     "maxLength": 18
   },
   "ReferenceLocationType": {
-    "title": "ReferenceLocationType",
+    "title": "Reference Location Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -14426,7 +14426,7 @@
     "maxLength": 14
   },
   "ResultDetectionCondition": {
-    "title": "ResultDetectionCondition",
+    "title": "Result Detection Condition",
     "description": "",
     "type": "string",
     "enum": [
@@ -14453,7 +14453,7 @@
     "maxLength": 35
   },
   "ResultLabComment": {
-    "title": "ResultLabComment",
+    "title": "Result Lab Comment",
     "description": "",
     "type": "string",
     "enum": [
@@ -14493,7 +14493,7 @@
     "maxLength": 3
   },
   "ResultMeasureQualifier": {
-    "title": "ResultMeasureQualifier",
+    "title": "Result Measure Qualifier",
     "description": "",
     "type": "string",
     "enum": [
@@ -14734,7 +14734,7 @@
     "maxLength": 5
   },
   "CharacteristicPickListValue": {
-    "title": "CharacteristicPickListValue",
+    "title": "Characteristic Pick List Value",
     "description": "",
     "type": "string",
     "enum": [
@@ -15064,7 +15064,7 @@
     "maxLength": 72
   },
   "SampleFraction": {
-    "title": "SampleFraction",
+    "title": "Sample Fraction",
     "description": "",
     "type": "string",
     "enum": [
@@ -15104,7 +15104,7 @@
     "maxLength": 25
   },
   "ResultStatus": {
-    "title": "ResultStatus",
+    "title": "Result Status",
     "description": "",
     "type": "string",
     "enum": [
@@ -15120,7 +15120,7 @@
     "maxLength": 11
   },
   "ResultTemperatureBasis": {
-    "title": "ResultTemperatureBasis",
+    "title": "Result Temperature Basis",
     "description": "",
     "type": "string",
     "enum": [
@@ -15158,7 +15158,7 @@
     "maxLength": 10
   },
   "ResultTimeBasis": {
-    "title": "ResultTimeBasis",
+    "title": "Result Time Basis",
     "description": "",
     "type": "string",
     "enum": [
@@ -15307,7 +15307,7 @@
     "maxLength": 11
   },
   "ResultValueType": {
-    "title": "ResultValueType",
+    "title": "Result Value Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -15320,7 +15320,7 @@
     "maxLength": 20
   },
   "ResultWeightBasis": {
-    "title": "ResultWeightBasis",
+    "title": "Result Weight Basis",
     "description": "",
     "type": "string",
     "enum": [
@@ -15345,7 +15345,7 @@
     "maxLength": 15
   },
   "SampleCollectionEquipment": {
-    "title": "SampleCollectionEquipment",
+    "title": "Sample Collection Equipment",
     "description": "",
     "type": "string",
     "enum": [
@@ -15571,7 +15571,7 @@
     "maxLength": 40
   },
   "ContainerColor": {
-    "title": "ContainerColor",
+    "title": "Container Color",
     "description": "",
     "type": "string",
     "enum": [
@@ -15586,7 +15586,7 @@
     "maxLength": 11
   },
   "ContainerType": {
-    "title": "ContainerType",
+    "title": "Container Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -15628,7 +15628,7 @@
     "maxLength": 26
   },
   "SampleTissueAnatomy": {
-    "title": "SampleTissueAnatomy",
+    "title": "Sample Tissue Anatomy",
     "description": "",
     "type": "string",
     "enum": [
@@ -15736,7 +15736,7 @@
     "maxLength": 30
   },
   "SamplingDesignType": {
-    "title": "SamplingDesignType",
+    "title": "Sampling Design Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -15868,7 +15868,7 @@
     "maxLength": 2
   },
   "ResultStatisticalBase": {
-    "title": "ResultStatisticalBase",
+    "title": "Result Statistical Base",
     "description": "",
     "type": "string",
     "enum": [
@@ -62517,7 +62517,7 @@
     "maxLength": 120
   },
   "PhoneType": {
-    "title": "PhoneType",
+    "title": "Phone Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -62530,7 +62530,7 @@
     "maxLength": 6
   },
   "ThermalPreservative": {
-    "title": "ThermalPreservative",
+    "title": "Thermal Preservative",
     "description": "",
     "type": "string",
     "enum": [
@@ -62548,7 +62548,7 @@
     "maxLength": 22
   },
   "TimeZone": {
-    "title": "TimeZone",
+    "title": "Time Zone",
     "description": "",
     "type": "string",
     "enum": [
@@ -62582,7 +62582,7 @@
     "maxLength": 4
   },
   "ToxicityTestType": {
-    "title": "ToxicityTestType",
+    "title": "Toxicity Test Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -63180,7 +63180,7 @@
     "maxLength": 3
   },
   "VerticalCollectionMethod": {
-    "title": "VerticalCollectionMethod",
+    "title": "Vertical Collection Method",
     "description": "",
     "type": "string",
     "enum": [
@@ -63204,7 +63204,7 @@
     "maxLength": 50
   },
   "VerticalReferenceDatum": {
-    "title": "VerticalReferenceDatum",
+    "title": "Vertical Reference Datum",
     "description": "",
     "type": "string",
     "enum": [
@@ -63232,7 +63232,7 @@
     "maxLength": 24
   },
   "WellFormationType": {
-    "title": "WellFormationType",
+    "title": "Well Formation Type",
     "description": "",
     "type": "string",
     "enum": [
@@ -63258,7 +63258,7 @@
     "maxLength": 50
   },
   "WellType": {
-    "title": "WellType",
+    "title": "Well Type",
     "description": "",
     "type": "string",
     "enum": [
