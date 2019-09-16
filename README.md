@@ -70,7 +70,3 @@ npm publish
   - [ ] ability to search allowed values
 - [ ] add file level definitions to help minimize size
 
-<div align="center">
-  <h3>Maintained By</h3>
-  <a href="https://tesera.com"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/tesera.png?token=ABC9PBM-lI_WM9Bx6CDX5fDb3bmaB1hMks5as_7lwA%3D%3D" alt="Tesera Systems Inc. Logo" width="200"></a>
-</div>
