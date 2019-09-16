@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/water-quality-exchange.gif?token=ABC9PHwKdMHPOZuTyhCaJZTX2M3tBEEOks5as_8LwA%3D%3D" alt="WQX Logo" width="200">
+  <img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/water-quality-exchange.gif" alt="WQX Logo" width="200">
   <br>
   Water Quality Exchange (WQX)<br/>JSON Schema and JSON Table Schema
   <br>
