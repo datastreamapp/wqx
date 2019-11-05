@@ -700,7 +700,8 @@
   "ResultValueType":{
     "title":"Result Value Type",
     "description":"Qualifies process used in the determination of result value (eg. Actual, Estimated, Calculated).  Required if result is non-text.  Default is Actual.",
-    "$ref":"./definitions.values.json#/ResultValueType"
+    "$ref":"./definitions.values.json#/ResultValueType",
+    "default": "Actual"
   },
   "ResultWeightBasis":{
     "title":"Result Weight Basis",
