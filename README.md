@@ -13,6 +13,19 @@
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/l/wqx.svg" alt="npm license" /></a>
 </p>
 
+## Background
+
+The WQX standard for the Exchange of Water Quality Data was developed by the US Environmental Protection Agency (EPA) and the US Geological Society (USGS) and is an implementation of the ESAR (Environmental Sampling, Analysis and Results) data standard. 
+
+The Gordon Foundation transformed the WQX from its original XML format to json table schema.This was done using resources available on the following site: 
+- https://www.epa.gov/waterdata/water-quality-data-wqx
+- http://www.exchangenetwork.net/data-exchange/wqx/ 
+- https://www3.epa.gov/storet/archive/web/wqx.html
+
+In 2018, [The Gordon Foundation](http://gordonfoundation.ca) led a comprehensive review process to determine how this model could be adapted to best meet the needs of diverse water monitoring initiatives in Canada. The result is DataStream’s WQX Open Data Schema ([DS-WQX](https://github.com/gordonfn/schema)). 
+
+DataStream ([www.DataStream.org](http://gordonfoundation.ca/initiatives/datastream)) is an online open-access platform for sharing water quality data in Canada. It is led nationally by The Gordon Foundation and carried out in collaboration with regional partners and monitoring networks. To date, over 3 million water quality observations have been published on DataStream by watershed groups, Indigenous organizations, researchers and governments at all levels. 
+
 ## Install
 ```bash
 $ npm i wqx
