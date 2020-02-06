@@ -13,11 +13,6 @@
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/l/wqx.svg" alt="npm license" /></a>
 </p>
 
-## Sponsored By
-<div align="center">
-  <a href="http://gordonfoundation.ca"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?token=ABC9PHSbVGIB5P8wKWv9XzwTcW1bpUeGks5as_71wA%3D%3D&sanitize=true" alt="The Gordon Foundation Logo" width="200"></a>
-</div>
-
 ## Install
 ```bash
 $ npm i wqx
@@ -69,4 +64,8 @@ npm publish
 - [ ] script to generate docs
   - [ ] ability to search allowed values
 - [ ] add file level definitions to help minimize size
+
+<div align="center">
+  <a href="http://gordonfoundation.ca"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?token=ABC9PHSbVGIB5P8wKWv9XzwTcW1bpUeGks5as_71wA%3D%3D&sanitize=true" alt="The Gordon Foundation Logo" width="200"></a>
+</div>
 
