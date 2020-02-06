@@ -60,11 +60,6 @@ npm publish
 - [Schema Allowed Values (XML)](http://www.epa.gov/storet/wqx/wqx_getdomainvalueswebservice.html)
 - [US EPA WQX Historical](https://www3.epa.gov/storet/archive/web/wqx.html)
 
-## TODO
-- [ ] script to generate docs
-  - [ ] ability to search allowed values
-- [ ] add file level definitions to help minimize size
-
 <div align="center">
   <a href="http://gordonfoundation.ca"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?sanitize=true" alt="The Gordon Foundation Logo" width="200"></a>
 </div>
