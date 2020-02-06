@@ -54,11 +54,11 @@ npm publish
 - [willfarrell](https://github.com/willfarrell)
 
 ## References
-- [About](https://www3.epa.gov/storet/archive/web/wqx.html)
+- [US EPA WQX](https://www.epa.gov/waterdata/water-quality-data-wqx)
 - [Web Template Files](https://www.epa.gov/waterdata/water-quality-exchange-web-template-files)
 - [Schema (XML)](http://www.exchangenetwork.net/data-exchange/wqx/)
 - [Schema Allowed Values (XML)](http://www.epa.gov/storet/wqx/wqx_getdomainvalueswebservice.html)
-- [World Water Day - Mar 22](http://worldwaterday.org)
+- [US EPA WQX Historical](https://www3.epa.gov/storet/archive/web/wqx.html)
 
 ## TODO
 - [ ] script to generate docs
