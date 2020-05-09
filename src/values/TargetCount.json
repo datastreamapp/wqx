@@ -1,0 +1,15 @@
+{
+  "title": "Target Count",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "100",
+    "200",
+    "300",
+    "400",
+    "500",
+    "600",
+    "FULL"
+  ],
+  "maxLength": 4
+}

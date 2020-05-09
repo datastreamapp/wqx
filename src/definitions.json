@@ -29,7 +29,7 @@
     "type": "string",
     "minLength": 0,
     "maxLength": 20,
-    "$ref": "./definitions.values.json#/SamplingDesignType"
+    "$ref": "./values/SamplingDesignType.json"
   },
   "QAPPApprovedIndicator": {
     "title": "QAPP Approved Indicator",
@@ -76,7 +76,7 @@
   "MonitoringLocationType":{
     "title":"Monitoring Location Type",
     "description":"Type of monitoring location",
-    "$ref":"./definitions.values.json#/MonitoringLocationType"
+    "$ref":"./values/MonitoringLocationType.json"
   },
   "MonitoringLocationDescription":{
     "title":"Monitoring Location Description",
@@ -153,17 +153,17 @@
   "MonitoringLocationHorizontalAccuracyMeasureUnitCode":{
     "title":"Monitoring Location Horizontal Accuracy Measure Unit Code",
     "description":"Unit of measure of the relative accuracy, required if Monitoring Location Horizontal Accuracy Measure Value is reported.",
-    "$ref":"./definitions.values.json#/MeasurementUnit"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "MonitoringLocationHorizontalCollectionMethod":{
     "title":"Monitoring Location Horizontal Collection Method",
     "description":"Method used to determine Lat/Long coordinates",
-    "$ref":"./definitions.values.json#/HorizontalCollectionMethod"
+    "$ref":"./values/HorizontalCollectionMethod.json"
   },
   "MonitoringLocationHorizontalCoordinateReferenceSystem":{
     "title":"Monitoring Location Horizontal Coordinate Reference System",
     "description":"Datum used to determine Lat/Long",
-    "$ref":"./definitions.values.json#/HorizontalReferenceDatum"
+    "$ref":"./values/HorizontalReferenceDatum.json"
   },
   "VerticalMeasure":{
     "title":"Vertical Measure",
@@ -173,38 +173,38 @@
   "VerticalUnit":{
     "title":"Vertical Unit",
     "description":"Unit of measure of the vertical measure, required if Vertical Measure is reported",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "VerticalCollectionMethod":{
     "title":"Vertical Collection Method",
     "description":"The name that identifies the method used to collect the vertical measure of a reference point.  Required if Vertical Measure is reported.",
-    "$ref":"./definitions.values.json#/VerticalCollectionMethod"
+    "$ref":"./values/VerticalCollectionMethod.json"
   },
   "VerticalCoordinateReferenceSystem":{
     "title":"Vertical Coordinate Reference System",
     "description":"The name of the reference datum used to determine the vertical measure (i.e., the altitude).  Required if Vertical Measure is reported.",
-    "$ref":"./definitions.values.json#/VerticalReferenceDatum"
+    "$ref":"./values/VerticalReferenceDatum.json"
   },
   "MonitoringLocationCountryCode":{
     "title":"Monitoring Location Country Code",
     "description":"Code for Country,  recommended if state code is used not in (default) US.",
-    "$ref":"./definitions.values.json#/Country",
+    "$ref":"./values/Country.json",
     "default":"US"
   },
   "MonitoringLocationState":{
     "title":"Monitoring Location State",
     "description":"Postal abbreviation for Monitoring Locations's primary state, required if county code is reported",
-    "$ref":"./definitions.values.json#/State"
+    "$ref":"./values/State.json"
   },
   "MonitoringLocationCounty":{
     "title":"Monitoring Location County",
     "description":"FIPS code for Monitoring Location's primary county",
-    "$ref":"./definitions.values.json#/County"
+    "$ref":"./values/County.json"
   },
   "WellType":{
     "title":"Well Type",
     "description":"Identifies the primary well type.",
-    "$ref":"./definitions.values.json#/WellType"
+    "$ref":"./values/WellType.json"
   },
   "AquiferName":{
     "title":"Aquifer Name",
@@ -216,7 +216,7 @@
   "WellFormationType":{
     "title":"Well Formation Type",
     "description":"Name of the primary formation or soils unit, in which the well is completed.",
-    "$ref":"./definitions.values.json#/WellFormationType"
+    "$ref":"./values/WellFormationType.json"
   },
   "WellHoleDepthMeasureValue":{
     "title":"Well Hole Depth Measure Value",
@@ -227,7 +227,7 @@
     "title":"Well Hole Depth Measure Unit",
     "description":"Unit of measure of the vertical measure, required if Well Hole Depth Measure Value is reported.",
     "type":"string",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "MonitoringLocationAttachmentFileName":{
     "title":"Monitoring Location Attachment File Name",
@@ -254,17 +254,17 @@
   "ActivityType":{
     "title":"Activity Type",
     "description":"Type of Activity (example: Field Msr/Obs, Sample-Routine, etc.)",
-    "$ref":"./definitions.values.json#/ActivityType"
+    "$ref":"./values/ActivityType.json"
   },
   "ActivityMediaName":{
     "title":"Activity Media Name",
     "description":"Medium in which sample or measurement was taken (example: Water, Sediment, etc.)",
-    "$ref":"./definitions.values.json#/ActivityMedia"
+    "$ref":"./values/ActivityMedia.json"
   },
   "ActivityMediaSubdivisionName":{
     "title":"Activity Media Subdivision Name",
     "description":"Name or code indicating the subdivision of media the sample was collected in.",
-    "$ref":"./definitions.values.json#/ActivityMediaSubdivision"
+    "$ref":"./values/ActivityMediaSubdivision.json"
   },
   "ActivityStartDate":{
     "title":"Activity Start Date",
@@ -281,7 +281,7 @@
   "ActivityStartTimeZone":{
     "title":"Activity Start Time Zone",
     "description":"Time Zone for Activity Start Time, required if Activity Start Time entered",
-    "$ref":"./definitions.values.json#/TimeZone"
+    "$ref":"./values/TimeZone.json"
   },
   "ActivityEndDate":{
     "title":"Activity End Date",
@@ -298,12 +298,12 @@
   "ActivityEndTimeZone":{
     "title":"Activity End Time Zone",
     "description":"Time Zone for Activity End Time, required if Activity End Time entered",
-    "$ref":"./definitions.values.json#/TimeZone"
+    "$ref":"./values/TimeZone.json"
   },
   "ActivityRelativeDepthName":{
     "title":"Activity Relative Depth Name",
     "description":"The name that indicates the approximate location within the water column at which the activity occurred.",
-    "$ref":"./definitions.values.json#/RelativeDepth"
+    "$ref":"./values/RelativeDepth.json"
   },
   "ActivityDepthHeightMeasure":{
     "title":"Activity Depth/Height Measure",
@@ -313,7 +313,7 @@
   "ActivityDepthHeightUnit":{
     "title":"Activity Depth/Height Unit",
     "description":"Units for Activity Depth Height Measure, required if Activity Depth Height Measure entered",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "ActivityTopDepthHeightMeasure":{
     "title":"Activity Top Depth/Height Measure",
@@ -323,7 +323,7 @@
   "ActivityTopDepthHeightUnit":{
     "title":"Activity Top Depth/Height Unit",
     "description":"Units for Activity Top Depth Height Measure, required if Activity Top Depth Height Measure entered",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "ActivityBottomDepthHeightMeasure":{
     "title":"Activity Bottom Depth/Height Measure",
@@ -333,7 +333,7 @@
   "ActivityBottomDepthHeightUnit":{
     "title":"Activity Bottom Depth/Height Unit",
     "description":"Units for Activity Bottom Depth Height Measure, required if Activity Bottom Depth Height Measure entered",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "ActivityDepthAltitudeReferencePoint":{
     "title":"Activity Depth Altitude Reference Point",
@@ -389,22 +389,22 @@
   "ActivityHorizontalAccuracyUnit":{
     "title":"Activity Horizontal Accuracy Unit",
     "description":"Unit of measure of the relative accuracy, required if Activity Horizontal Accuracy Measure is reported.",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "ActivityHorizontalCollectionMethod":{
     "title":"Activity Horizontal Collection Method",
     "description":"Method used to determine Lat/Long coordinates, required when Activity Location is provided.",
-    "$ref":"./definitions.values.json#/HorizontalCollectionMethod"
+    "$ref":"./values/HorizontalCollectionMethod.json"
   },
   "ActivityHorizontalCoordinateReferenceSystem":{
     "title":"Activity Horizontal Coordinate Reference System",
     "description":"Datum used to determine Lat/Long, required when Activity Location is provided.",
-    "$ref":"./definitions.values.json#/HorizontalReferenceDatum"
+    "$ref":"./values/HorizontalReferenceDatum.json"
   },
   "AssemblageSampledName":{
     "title":"Assemblage Sampled Name",
     "description":"Must be reported if Activity Media Name is `Biological`",
-    "$ref":"./definitions.values.json#/Assemblage"
+    "$ref":"./values/Assemblage.json"
   },
   "CollectionDurationMeasure": {
     "title":"Collection Duration Measure",
@@ -414,7 +414,7 @@
   "CollectionDurationUnit":{
     "title":"Collection Duration Unit",
     "description":"Unit for the value of the length of time a collection procedure was performed (e.g. total time kick net was used).  Required if Collection Duration Measure  is reported.",
-    "$ref":"./definitions.values.json#/TimeMeasurementUnit"
+    "$ref":"./values/TimeMeasurementUnit.json"
   },
   "SamplingComponentName":{
     "title":"Sampling Component Name",
@@ -437,7 +437,7 @@
   "ReachLengthUnit":{
     "title":"Reach Length Unit",
     "description":"",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "ReachWidthMeasure":{
     "title":"Reach Width Measure",
@@ -447,7 +447,7 @@
   "ReachWidthUnit":{
     "title":"Reach Width Unit",
     "description":"The measure unit of the water body width distance in which the procedure or protocol was performed.  Required if Reach Width Measure Value is reported.",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "PassCount":{
     "title":"Pass Count",
@@ -457,7 +457,7 @@
   "NetType":{
     "title":"Net Type",
     "description":"The text describing the type of net.",
-    "$ref":"./definitions.values.json#/NetType"
+    "$ref":"./values/NetType.json"
   },
   "NetSurfaceAreaMeasure":{
     "title":"Net Surface Area Measure",
@@ -467,7 +467,7 @@
   "NetSurfaceAreaUnit":{
     "title":"Net Surface Area Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Net Surface Area Measure is provided.",
-    "$ref":"./definitions.values.json#/AreaMeasurementUnit"
+    "$ref":"./values/AreaMeasurementUnit.json"
   },
   "NetMeshSizeMeasure":{
     "title":"Net Mesh Size Measure",
@@ -477,7 +477,7 @@
   "NetMeshSizeUnit":{
     "title":"Net Mesh Size Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Net Mesh Size Measure is provided.",
-    "$ref":"./definitions.values.json#/AreaMeasurementUnit"
+    "$ref":"./values/AreaMeasurementUnit.json"
   },
   "BoatSpeedMeasure":{
     "title":"Boat Speed Measure",
@@ -487,7 +487,7 @@
   "BoatSpeedUnit":{
     "title":"Boat Speed Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Boat Speed Measure is Reported.",
-    "$ref":"./definitions.values.json#/SpeedMeasurementUnit"
+    "$ref":"./values/SpeedMeasurementUnit.json"
   },
   "CurrentSpeedMeasure":{
     "title":"Current Speed Measure",
@@ -497,12 +497,12 @@
   "CurrentSpeedUnit":{
     "title":"Current Speed Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Current Speed Measure is Reported.",
-    "$ref":"./definitions.values.json#/SpeedMeasurementUnit"
+    "$ref":"./values/SpeedMeasurementUnit.json"
   },
   "ToxicityTestType":{
     "title":"Toxicity Test Type",
     "description":"Identifies the type of toxicity as either Acute or Chronic.",
-    "$ref":"./definitions.values.json#/ToxicityTestType"
+    "$ref":"./values/ToxicityTestType.json"
   },
   "SampleCollectionMethodID":{
     "title":"Sample Collection Method ID",
@@ -514,7 +514,7 @@
   "SampleCollectionEquipmentName":{
     "title":"Sample Collection Equipment Name",
     "description":"Gear used to collect sample, required if Sample Collection Method is present",
-    "$ref":"./definitions.values.json#/SampleCollectionEquipment"
+    "$ref":"./values/SampleCollectionEquipment.json"
   },
   "SampleCollectionEquipmentComment":{
     "title":"Sample Collection Equipment Comment",
@@ -533,12 +533,12 @@
   "SampleContainerType":{
     "title":"Sample Container Type",
     "description":"The text describing the sample container type.  Required if Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.values.json#/ContainerType"
+    "$ref":"./values/ContainerType.json"
   },
   "SampleContainerColor":{
     "title":"Sample Container Color",
     "description":"The text describing the sample container color.  Required if Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.values.json#/ContainerColor"
+    "$ref":"./values/ContainerColor.json"
   },
   "ChemicalPreservativeUsed":{
     "title":"Chemical Preservative Used",
@@ -550,7 +550,7 @@
   "ThermalPreservativeUsed":{
     "title":"Thermal Preservative Used",
     "description":"Information describing the thermal preservation of the sample.  Either Chemical Preservative Used or Thermal Preservative Used must be provided if the Sample Preparation Method ID is reported.",
-    "$ref":"./definitions.values.json#/ThermalPreservative"
+    "$ref":"./values/ThermalPreservative.json"
   },
   "SampleTransportStorageDescription":{
     "title":"Sample Transport Storage Description",
@@ -581,7 +581,7 @@
   "ActivityMetricValueUnit":{
     "title":"Activity Metric Value Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Activity Metric Value is reported.",
-    "$ref":"./definitions.values.json#/MeasurementUnit"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ActivityMetricScore":{
     "title":"Activity Metric Score",
@@ -605,12 +605,12 @@
   "IndexTypeID":{
     "title":"Index Type ID",
     "description":"Type of Activity (example: Field Msr/Obs, Sample-Routine, etc.)",
-    "$ref":"./definitions.values.json#/ActivityType"
+    "$ref":"./values/ActivityType.json"
   },
   "IndexScore":{
     "title":"Index Score",
     "description":"Medium in which sample or measurement was taken (example: Water, Sediment, etc.)",
-    "$ref":"./definitions.values.json#/ActivityMedia"
+    "$ref":"./values/ActivityMedia.json"
   },
   "IndexQualifierCode":{
     "title":"Index Qualifier Code",
@@ -655,22 +655,22 @@
   "ResultDetectionCondition":{
     "title":"Result Detection Condition",
     "description":"Result detection Condition is required if Result Measure Value is blank; Must not be populated if Result Measure Value is provided.",
-    "$ref":"./definitions.values.json#/ResultDetectionCondition"
+    "$ref":"./values/ResultDetectionCondition.json"
   },
   "CharacteristicName":{
     "title":"Characteristic Name",
     "description":"Valid characteristic name; required if activity yields results or detection conditions that are being reported",
-    "$ref":"./definitions.values.json#/Characteristic"
+    "$ref":"./values/Characteristic.json"
   },
   "MethodSpeciation":{
     "title":"Method Speciation",
     "description":"Identifies the chemical speciation in which the measured result is expressed",
-    "$ref":"./definitions.values.json#/MethodSpeciation"
+    "$ref":"./values/MethodSpeciation.json"
   },
   "ResultSampleFraction":{
     "title":"Result Sample Fraction",
     "description":"Text name of fraction of sample associated with result, required for certain characteristics, see Characteristics",
-    "$ref":"./definitions.values.json#/SampleFraction"
+    "$ref":"./values/SampleFraction.json"
   },
   "ResultValue":{
     "title":"Result Value",
@@ -680,43 +680,43 @@
   "ResultUnit":{
     "title":"Result Unit",
     "description":"Units for characteristic result, required if a non text result is reported",
-    "$ref":"./definitions.values.json#/MeasurementUnit"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ResultQualifier":{
     "title":"Result Qualifier",
     "description":"A code used to identify any qualifying issues that affect the results.",
-    "$ref":"./definitions.values.json#/ResultMeasureQualifier"
+    "$ref":"./values/ResultMeasureQualifier.json"
   },
   "ResultStatusID":{
     "title":"Result Status ID",
     "description":"Required if result is reported; Indicates acceptability of result with respect to QA/QC, Data will not go into the STORET wharehouse if the status is  `Preliminary` ",
-    "$ref":"./definitions.values.json#/ResultStatus"
+    "$ref":"./values/ResultStatus.json"
   },
   "StatisticalBaseCode":{
     "title":"Statistical Base Code",
     "description":"Code used for method used to calculate derived results, such as Mean, Maximum, etc.",
-    "$ref":"./definitions.values.json#/ResultStatisticalBase"
+    "$ref":"./values/ResultStatisticalBase.json"
   },
   "ResultValueType":{
     "title":"Result Value Type",
     "description":"Qualifies process used in the determination of result value (eg. Actual, Estimated, Calculated).  Required if result is non-text.  Default is Actual.",
-    "$ref":"./definitions.values.json#/ResultValueType",
+    "$ref":"./values/ResultValueType.json",
     "default": "Actual"
   },
   "ResultWeightBasis":{
     "title":"Result Weight Basis",
     "description":"Form of sample or portion of sample associated with result value (eg. wet weight, dry weight, etc.)",
-    "$ref":"./definitions.values.json#/ResultWeightBasis"
+    "$ref":"./values/ResultWeightBasis.json"
   },
   "ResultTimeBasis":{
     "title":"Result Time Basis",
     "description":"The period of time (in days) over which a measurement was made. For example, BOD can be measured as 5 day or 20 day BOD.",
-    "$ref":"./definitions.values.json#/ResultTimeBasis"
+    "$ref":"./values/ResultTimeBasis.json"
   },
   "ResultTemperatureBasis":{
     "title":"Result Temperature Basis",
     "description":"The name that represents the controlled temperature at which the sample was maintained during analysis, e.g. 25 deg BOD analysis.",
-    "$ref":"./definitions.values.json#/ResultTemperatureBasis"
+    "$ref":"./values/ResultTemperatureBasis.json"
   },
   "ResultParticleSizeBasis":{
     "title":"Result Particle Size Basis",
@@ -771,7 +771,7 @@
   "ResultDepthHeightUnit":{
     "title":"Result Depth/Height Unit",
     "description":"Units for Result Depth Height Measure, required if Result Depth Height Measure entered",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "ResultDepthAltitudeReferencePoint":{
     "title":"Result Depth/Altitude Reference Point",
@@ -790,7 +790,7 @@
   "BiologicalIntent":{
     "title":"Biological Intent",
     "description":"`Population Census` is meant to allow for simple species counts, for example, counts of benthic macroinvertebrates sampled within a stream.  `Group Summary` is meant to allow for reporting of attributes for a group of organisms, for example, the sex of a group of fish.  `Frequency Class` is inteded for reporting counts within different bins or categories within a group.  `Individual` is used for reporting measurements of individuals caught.  `Tissue` is used to report analysis results of tissue samples.  `Toxicity` is used to report the results of toxicity testing on a species.  Required if entering biological or tissue data.",
-    "$ref":"./definitions.values.json#/BiologicalIntent"
+    "$ref":"./values/BiologicalIntent.json"
   },
   "BiologicalIndividualID":{
     "title":"Biological Individual ID",
@@ -802,7 +802,7 @@
   "SubjectTaxonomicName":{
     "title":"Subject Taxonomic Name",
     "description":"Required if biological results are being reported",
-    "$ref":"./definitions.values.json#/Taxon"
+    "$ref":"./values/Taxon.json"
   },
   "UnidentifiedSpeciesID":{
     "title":"Unidentified Species ID",
@@ -814,7 +814,7 @@
   "SampleTissueAnatomy":{
     "title":"Sample Tissue Anatomy",
     "description":"Name of anatomy from which tissue sample was taken.  Required if Bioligical Intent Name is Tissue.",
-    "$ref":"./definitions.values.json#/SampleTissueAnatomy"
+    "$ref":"./values/SampleTissueAnatomy.json"
   },
   "GroupSummaryCountWeightMeasure":{
     "title":"Group Summary Count Weight Measure",
@@ -824,27 +824,27 @@
   "GroupSummaryCountWeightUnit":{
     "title":"Group Summary Count Weight Unit",
     "description":"Required if Group Summary Count Weight Measure is reported.  Captures the total count unit or total sample weight unit for a group of species being reported on.",
-    "$ref":"./definitions.values.json#/MassMeasurementUnit"
+    "$ref":"./values/MassMeasurementUnit.json"
   },
   "TaxonCellForm":{
     "title":"Taxon Cell Form",
     "description":"The name of the cell form for phytoplankton organisms expressed as a result. ",
-    "$ref":"./definitions.values.json#/CellForm"
+    "$ref":"./values/CellForm.json"
   },
   "TaxonCellShape":{
     "title":"Taxon Cell Shape",
     "description":"The cell shape of the phytoplankton organism.",
-    "$ref":"./definitions.values.json#/CellShape"
+    "$ref":"./values/CellShape.json"
   },
   "TaxonHabit":{
     "title":"Taxon Habit",
     "description":"The position that the characteristic occupies in a food chain",
-    "$ref":"./definitions.values.json#/Habit"
+    "$ref":"./values/Habit.json"
   },
   "TaxonVoltinism":{
     "title":"Taxon Voltinism",
     "description":"The number of broods or generations of the characteristic in a year",
-    "$ref":"./definitions.values.json#/Voltinism"
+    "$ref":"./values/Voltinism.json"
   },
   "TaxonPollutionTolerance":{
     "title":"Taxon Pollution Tolerance",
@@ -884,12 +884,12 @@
   "FrequencyClassDescriptor":{
     "title":"Frequency Class Descriptor",
     "description":"Required if Frequency Class Information is Reported",
-    "$ref":"./definitions.values.json#/FrequencyClassDescriptor"
+    "$ref":"./values/FrequencyClassDescriptor.json"
   },
   "FrequencyClassDescriptorUnit":{
     "title":"Frequency Class Descriptor Unit",
     "description":"Required if the Frequency Class Descriptor Code is a Measured Value (eg. Length, etc.)",
-    "$ref":"./definitions.values.json#/DistanceMeasurementUnit"
+    "$ref":"./values/DistanceMeasurementUnit.json"
   },
   "LowerClassBound":{
     "title":"Lower Class Bound",
@@ -918,12 +918,12 @@
   "ResultAnalyticalMethodID":{
     "title":"Result Analytical Method ID",
     "description":"ID number assigned by method publisher, required if Activity Type Code contains the word Sample, for nationally defined methods see Nat. Methods Tab, to define an analytical method unique to your organization see Analytical & Collection Methods Tab",
-    "$ref":"./definitions.values.json#/AnalyticalMethod"
+    "$ref":"./values/AnalyticalMethod.json"
   },
   "ResultAnalyticalMethodContext":{
     "title":"Result Analytical Method Context",
     "description":"Source of method, required if Activity Type Code is Sample, for nationally defined methods see Nat. Methods Tab, to define an analytical method unique to your organization see Analytical & Collection Methods Tab",
-    "$ref":"./definitions.values.json#/AnalyticalMethodContext"
+    "$ref":"./values/AnalyticalMethodContext.json"
   },
   "LaboratoryName":{
     "title":"Laboratory Name",
@@ -947,7 +947,7 @@
   "AnalysisStartTimeZone":{
     "title":"Analysis Start Time Zone",
     "description":"The time zone for which the time of day is reported.  Required if Analysis Start Time is reported.",
-    "$ref":"./definitions.values.json#/TimeZone"
+    "$ref":"./values/TimeZone.json"
   },
   "AnalysisEndDate":{
     "title":"Analysis End Date",
@@ -964,17 +964,17 @@
   "AnalysisEndTimeZone":{
     "title":"Analysis End Time Zone",
     "description":"The time zone for which the time of day is reported.  Required if Analysis End Time is reported.",
-    "$ref":"./definitions.values.json#/TimeZone"
+    "$ref":"./values/TimeZone.json"
   },
   "ResultLaboratoryCommentCode":{
     "title":"Result Laboratory Comment Code",
     "description":"Remarks which further describe the laboratory procedures which produced the result.",
-    "$ref":"./definitions.values.json#/ResultLabComment"
+    "$ref":"./values/ResultLabComment.json"
   },
   "ResultDetectionQuantitationLimitType":{
     "title":"Result Detection/Quantitation Limit Type",
     "description":"Text describing the type of detection or quantitation limit used in the analysis of a characteristic.  Required if Result Detection Condition is `Not Detected`, `Present Above Quantification Limit`, or `Present Below Quantification Limit`.",
-    "$ref":"./definitions.values.json#/DetectionQuantitationLimitType"
+    "$ref":"./values/DetectionQuantitationLimitType.json"
   },
   "ResultDetectionQuantitationLimitMeasure":{
     "title":"Result Detection/Quantitation Limit Measure",
@@ -984,7 +984,7 @@
   "ResultDetectionQuantitationLimitUnit":{
     "title":"Result Detection/Quantitation Limit Unit",
     "description":"The code that represents the unit for measuring the chemical substance, microbiological substance or other characteristic.  Required if Result Detection Condition is `Not Detected`, `Present Above Quantification Limit`, or `Present Below Quantification Limit`.  Also Required if Result Detection/Quantitation Limit Measure is reported.",
-    "$ref":"./definitions.values.json#/MeasurementUnit"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "LaboratoryAccreditationIndicator":{
     "title":"Laboratory Accreditation Indicator",
@@ -1021,7 +1021,7 @@
   "LabSamplePreparationStartTimeZone":{
     "title":"Lab Sample Preparation Start Time Zone",
     "description":"The time zone for which the time of day is reported.   Required if Lab Sample Preparation Start Time is reported.",
-    "$ref":"./definitions.values.json#/TimeZone"
+    "$ref":"./values/TimeZone.json"
   },
   "LabSamplePreparationEndDate":{
     "title":"Lab Sample Preparation End Date",
@@ -1038,7 +1038,7 @@
   "LabSamplePreparationEndTimeZone":{
     "title":"Lab Sample Preparation End Time Zone",
     "description":"The time zone for which the time of day is reported. Required if Lab Sample Preparation End Time is reported.",
-    "$ref":"./definitions.values.json#/TimeZone"
+    "$ref":"./values/TimeZone.json"
   },
   "SubstanceDilutionFactor":{
     "title":"Substance Dilution Factor",
@@ -1064,6 +1064,6 @@
   "ActivityGroupType":{
     "title":"Activity Group Type",
     "description":"Identifies the type of grouping of a set of activities.  Required if Reporting an Activity Group.",
-    "$ref":"./definitions.values.json#/ActivityGroupType"
+    "$ref":"./values/ActivityGroupType.json"
   }
 }

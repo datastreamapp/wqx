@@ -1,0 +1,13 @@
+{
+  "title": "Habitat Selection Method",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Directed",
+    "Non-Targeted",
+    "Random",
+    "Systematic",
+    "Targeted"
+  ],
+  "maxLength": 12
+}

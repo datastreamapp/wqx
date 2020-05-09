@@ -1,0 +1,24 @@
+{
+  "title": "Hydrologic Event",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Backwater",
+    "Dambreak",
+    "Drought",
+    "Flood",
+    "Hurricane",
+    "Not applicable",
+    "Not Determined (historical)",
+    "Regulated flow",
+    "Routine sample",
+    "Snowmelt",
+    "Spill",
+    "Spring breakup",
+    "Storm",
+    "Tidal action",
+    "Under ice cover",
+    "Volcanic action"
+  ],
+  "maxLength": 27
+}

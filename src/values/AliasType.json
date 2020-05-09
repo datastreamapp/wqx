@@ -1,0 +1,20 @@
+{
+  "title": "Alias Type",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "CAS NUMBER",
+    "EPA ID (SUBSTANCE REGISTRY #)",
+    "ITIS TAXON SERIAL NUMBER",
+    "MOLECULAR WEIGHT",
+    "NWIS PARM CODE",
+    "RETIRED NAME",
+    "STANDARD NAME (Normalized)",
+    "STORET CHARACTERISTIC NAME",
+    "STORET PARM CODE",
+    "SYSTEMATIC NAME",
+    "TAXON COMMON NAME",
+    "WQX SYNONYM REGISTRY (validation)"
+  ],
+  "maxLength": 33
+}

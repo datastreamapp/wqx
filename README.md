@@ -52,7 +52,9 @@ const jsonschema = requrie('wqx/json-schema/biological');
 ### Building `definitions.values.json`
 This should only be run if the version of WQX is updated.
 ```bash
-$ npm run init
+$ curl https://cdx.epa.gov/wqx/download/DomainValues/All.zip
+$ unzip All.zip
+$ npm run build:values
 ```
 
 ### Publishing
@@ -70,7 +72,7 @@ npm publish
 - [US EPA WQX](https://www.epa.gov/waterdata/water-quality-data-wqx)
 - [Web Template Files](https://www.epa.gov/waterdata/water-quality-exchange-web-template-files)
 - [Schema (XML)](http://www.exchangenetwork.net/data-exchange/wqx/)
-- [Schema Allowed Values (XML)](http://www.epa.gov/storet/wqx/wqx_getdomainvalueswebservice.html)
+- [Schema Allowed Values](https://www.epa.gov/waterdata/storage-and-retrieval-and-water-quality-exchange-domain-services-and-downloads#domain)
 - [US EPA WQX Historical](https://www3.epa.gov/storet/archive/web/wqx.html)
 
 <div align="center">

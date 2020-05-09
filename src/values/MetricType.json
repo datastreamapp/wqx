@@ -1,0 +1,7 @@
+{
+  "title": "Metric Type",
+  "description": "",
+  "type": "string",
+  "enum": [],
+  "maxLength": 0
+}

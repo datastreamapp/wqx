@@ -1,0 +1,25 @@
+{
+  "title": "Result Weight Basis",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Ash Weight",
+    "Ash-Free Dry",
+    "Bulk Weight",
+    "Dead",
+    "Drained Weight",
+    "Dry",
+    "Duplicate",
+    "Escaped",
+    "Freeze-Dried Wt",
+    "Gravimetric Dry",
+    "Interstitial",
+    "Lipid",
+    "Not Sampled",
+    "Recaptured",
+    "Sampled",
+    "Sieved Weight",
+    "Wet"
+  ],
+  "maxLength": 15
+}
