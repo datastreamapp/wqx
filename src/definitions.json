@@ -173,7 +173,7 @@
   "VerticalUnit":{
     "title":"Vertical Unit",
     "description":"Unit of measure of the vertical measure, required if Vertical Measure is reported",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "VerticalCollectionMethod":{
     "title":"Vertical Collection Method",
@@ -227,7 +227,7 @@
     "title":"Well Hole Depth Measure Unit",
     "description":"Unit of measure of the vertical measure, required if Well Hole Depth Measure Value is reported.",
     "type":"string",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "MonitoringLocationAttachmentFileName":{
     "title":"Monitoring Location Attachment File Name",
@@ -313,7 +313,7 @@
   "ActivityDepthHeightUnit":{
     "title":"Activity Depth/Height Unit",
     "description":"Units for Activity Depth Height Measure, required if Activity Depth Height Measure entered",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ActivityTopDepthHeightMeasure":{
     "title":"Activity Top Depth/Height Measure",
@@ -323,7 +323,7 @@
   "ActivityTopDepthHeightUnit":{
     "title":"Activity Top Depth/Height Unit",
     "description":"Units for Activity Top Depth Height Measure, required if Activity Top Depth Height Measure entered",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ActivityBottomDepthHeightMeasure":{
     "title":"Activity Bottom Depth/Height Measure",
@@ -333,7 +333,7 @@
   "ActivityBottomDepthHeightUnit":{
     "title":"Activity Bottom Depth/Height Unit",
     "description":"Units for Activity Bottom Depth Height Measure, required if Activity Bottom Depth Height Measure entered",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ActivityDepthAltitudeReferencePoint":{
     "title":"Activity Depth Altitude Reference Point",
@@ -389,7 +389,7 @@
   "ActivityHorizontalAccuracyUnit":{
     "title":"Activity Horizontal Accuracy Unit",
     "description":"Unit of measure of the relative accuracy, required if Activity Horizontal Accuracy Measure is reported.",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ActivityHorizontalCollectionMethod":{
     "title":"Activity Horizontal Collection Method",
@@ -414,7 +414,7 @@
   "CollectionDurationUnit":{
     "title":"Collection Duration Unit",
     "description":"Unit for the value of the length of time a collection procedure was performed (e.g. total time kick net was used).  Required if Collection Duration Measure  is reported.",
-    "$ref":"./values/TimeMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "SamplingComponentName":{
     "title":"Sampling Component Name",
@@ -437,7 +437,7 @@
   "ReachLengthUnit":{
     "title":"Reach Length Unit",
     "description":"",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ReachWidthMeasure":{
     "title":"Reach Width Measure",
@@ -447,7 +447,7 @@
   "ReachWidthUnit":{
     "title":"Reach Width Unit",
     "description":"The measure unit of the water body width distance in which the procedure or protocol was performed.  Required if Reach Width Measure Value is reported.",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "PassCount":{
     "title":"Pass Count",
@@ -467,7 +467,7 @@
   "NetSurfaceAreaUnit":{
     "title":"Net Surface Area Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Net Surface Area Measure is provided.",
-    "$ref":"./values/AreaMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "NetMeshSizeMeasure":{
     "title":"Net Mesh Size Measure",
@@ -477,7 +477,7 @@
   "NetMeshSizeUnit":{
     "title":"Net Mesh Size Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Net Mesh Size Measure is provided.",
-    "$ref":"./values/AreaMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "BoatSpeedMeasure":{
     "title":"Boat Speed Measure",
@@ -487,7 +487,7 @@
   "BoatSpeedUnit":{
     "title":"Boat Speed Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Boat Speed Measure is Reported.",
-    "$ref":"./values/SpeedMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "CurrentSpeedMeasure":{
     "title":"Current Speed Measure",
@@ -497,7 +497,7 @@
   "CurrentSpeedUnit":{
     "title":"Current Speed Unit",
     "description":"The code that represents the unit for measuring the item.  Required if Current Speed Measure is Reported.",
-    "$ref":"./values/SpeedMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ToxicityTestType":{
     "title":"Toxicity Test Type",
@@ -771,7 +771,7 @@
   "ResultDepthHeightUnit":{
     "title":"Result Depth/Height Unit",
     "description":"Units for Result Depth Height Measure, required if Result Depth Height Measure entered",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "ResultDepthAltitudeReferencePoint":{
     "title":"Result Depth/Altitude Reference Point",
@@ -824,7 +824,7 @@
   "GroupSummaryCountWeightUnit":{
     "title":"Group Summary Count Weight Unit",
     "description":"Required if Group Summary Count Weight Measure is reported.  Captures the total count unit or total sample weight unit for a group of species being reported on.",
-    "$ref":"./values/MassMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "TaxonCellForm":{
     "title":"Taxon Cell Form",
@@ -889,7 +889,7 @@
   "FrequencyClassDescriptorUnit":{
     "title":"Frequency Class Descriptor Unit",
     "description":"Required if the Frequency Class Descriptor Code is a Measured Value (eg. Length, etc.)",
-    "$ref":"./values/DistanceMeasurementUnit.json"
+    "$ref":"./values/MeasurementUnit.json"
   },
   "LowerClassBound":{
     "title":"Lower Class Bound",
@@ -968,8 +968,7 @@
   },
   "ResultLaboratoryCommentCode":{
     "title":"Result Laboratory Comment Code",
-    "description":"Remarks which further describe the laboratory procedures which produced the result.",
-    "$ref":"./values/ResultLabComment.json"
+    "description":"Remarks which further describe the laboratory procedures which produced the result."
   },
   "ResultDetectionQuantitationLimitType":{
     "title":"Result Detection/Quantitation Limit Type",

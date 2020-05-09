@@ -25,6 +25,7 @@ for (let e in values.WQXDomainValueList.WQXElement) {
   }
   let group = {}
   let required = {}
+  let deprecated = []
 
   for (let r in element) {
     const row = element[r].WQXElementRowColumn || element[r]
@@ -33,6 +34,10 @@ for (let e in values.WQXDomainValueList.WQXElement) {
     // re-org
     for (let c in row) {
       const col = row[c]._attributes
+
+      if (col.colname === 'DomainValueStatus') {
+        col.value = col.value === 'Accepted'
+      }
 
       if (col.colname.includes('Required')) {
         col.colname = col.colname.replace('Required', '')
@@ -74,6 +79,11 @@ for (let e in values.WQXDomainValueList.WQXElement) {
       console.log(JSON.stringify(element[r], null, 2), rowObj)
     }
 
+    // deprecated value
+    if (Object.keys(rowObj).includes('DomainValueStatus') && !rowObj['DomainValueStatus']) {
+      deprecated.push(value)
+    }
+
     // Groups
     // Characteristic => GroupName
     if (Object.keys(rowObj).includes('GroupName') ) {
@@ -88,7 +98,7 @@ for (let e in values.WQXDomainValueList.WQXElement) {
 
     jsonSchema[field].maxLength = Math.max(jsonSchema[field].maxLength, value.length)
     if (jsonSchema[field].enum.includes(value)) {
-      console.log(`duplicate found in ${field}`, value)
+      if (!field.includes('Alias')) console.log(`duplicate found in ${field}`, value)
     } else {
       jsonSchema[field].enum.push(value)
     }
@@ -97,6 +107,9 @@ for (let e in values.WQXDomainValueList.WQXElement) {
   console.log('Save', field)
   fs.writeFileSync(__dirname + `/../src/values/${field}.json`, JSON.stringify(jsonSchema[field], null, 2), 'utf8')
 
+  if (deprecated.length) {
+    fs.writeFileSync(__dirname + `/../src/deprecated/${field}.json`, JSON.stringify(deprecated, null, 2), 'utf8')
+  }
   if (Object.keys(group).length) {
     fs.writeFileSync(__dirname + `/../src/groups/${field}.json`, JSON.stringify(group, null, 2), 'utf8')
   }
