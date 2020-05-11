@@ -3,19 +3,8 @@
     "properties": {
       "ActivityType": {
         "enum": [
-          "Field Msr/Obs",
-          "Field Msr/Obs-Habitat Assessment",
-          "Field Msr/Obs-Incidental",
-          "Field Msr/Obs-Portable Data Logger",
           "Quality Control Alternative Measurement Sensitivity",
           "Quality Control Alternative Measurement Sensitivity Plus",
-          "Quality Control Field Calibration Check",
-          "Quality Control Field Replicate Habitat Assessment",
-          "Quality Control Field Replicate Msr/Obs",
-          "Quality Control Field Replicate Portable Data Logger",
-          "Quality Control Field Replicate Sample-Composite",
-          "Quality Control Field Sample Equipment Rinsate Blank",
-          "Quality Control Lab Sample Equipment Rinsate Blank",
           "Quality Control Sample-Blind Duplicate",
           "Quality Control Sample-Equipment Blank",
           "Quality Control Sample-Field Ambient Conditions Blank",
@@ -25,20 +14,13 @@
           "Quality Control Sample-Field Surrogate Spike",
           "Quality Control Sample-Inter-lab Split",
           "Quality Control Sample-Lab Blank",
-          "Quality Control Sample-Lab Continuing Calibration Verification",
-          "Quality Control Sample-Lab Control Sample/Blank Spike",
-          "Quality Control Sample-Lab Control Sample/Blank Spike Duplicate",
           "Quality Control Sample-Lab Control Standard",
           "Quality Control Sample-Lab Control Standard Duplicate",
           "Quality Control Sample-Lab Duplicate",
-          "Quality Control Sample-Lab Initial Calib Certified Reference Material",
-          "Quality Control Sample-Lab Initial Calibration Verification",
           "Quality Control Sample-Lab Matrix Spike",
-          "Quality Control Sample-Lab Matrix Spike Duplicate",
           "Quality Control Sample-Lab Re-Analysis",
           "Quality Control Sample-Lab Spike",
           "Quality Control Sample-Lab Spike Duplicate",
-          "Quality Control Sample-Lab Spike of a Lab Blank",
           "Quality Control Sample-Lab Split",
           "Quality Control Sample-Lab Surrogate Control Standard",
           "Quality Control Sample-Lab Surrogate Control Standard Duplicate",
@@ -53,7 +35,6 @@
           "Quality Control-Negative Control",
           "Sample-Composite With Parents",
           "Sample-Composite Without Parents",
-          "Sample-Depletion Replicate",
           "Sample-Field Split",
           "Sample-Field Subsample",
           "Sample-Integrated Cross-Sectional Profile",
@@ -76,7 +57,8 @@
   },
   "then": {
     "required": [
-      "MonitoringLocation"
+      "ResultAnalyticalMethodID",
+      "ResultAnalyticalMethodContext"
     ]
   }
 }

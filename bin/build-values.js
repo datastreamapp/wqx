@@ -7,6 +7,15 @@ console.log('Parsing WQX All Domain Values XML ...')
 const xml = require('fs').readFileSync(__dirname + '/../All Domain Values.xml', 'utf8')
 const values = JSON.parse(convert.xml2json(xml, { compact: true }))
 
+const requiredMapping = {
+  'ActivityType':'ActivityType',
+  'AnalyticalMethod':['ResultAnalyticalMethodID','ResultAnalyticalMethodContext'],
+  'MonitoringLocation':['MonitoringLocationType'],
+  'Characteristic':'CharacteristicName',
+  'MethodSpeciation':['MethodSpeciation'],
+  'SampleFraction':['ResultSampleFraction']
+}
+
 const jsonSchema = {}
 for (let e in values.WQXDomainValueList.WQXElement) {
   const field = values.WQXDomainValueList.WQXElement[e].WQXElementName._text
@@ -47,12 +56,12 @@ for (let e in values.WQXDomainValueList.WQXElement) {
           required[col.colname] = {
             'if': {
               'properties': {
-                [field]: { 'enum': [] }
+                [requiredMapping[field]]: { 'enum': [] }
               },
-              'required': [field]
+              'required': [requiredMapping[field]]
             },
             'then': {
-              'required': [col.colname]
+              'required': requiredMapping[col.colname]
             }
           }
         }
@@ -76,7 +85,7 @@ for (let e in values.WQXDomainValueList.WQXElement) {
     }
 
     if (!value) {
-      console.log(JSON.stringify(element[r], null, 2), rowObj)
+      console.log(field, JSON.stringify(element[r], null, 2), rowObj)
     }
 
     // deprecated value
@@ -92,8 +101,10 @@ for (let e in values.WQXDomainValueList.WQXElement) {
 
     // Required
     Object.keys(required).forEach(col => {
-      // TODO optimization, split into permutations A,B,A*B
-      required[col].if.properties[field].enum.push(value)
+      // TODO optimization, split into permutations A,A*B,B,B*C,C,A*B*C
+      if (rowObj[col]) {
+        required[col].if.properties[requiredMapping[field]].enum.push(value)
+      }
     })
 
     jsonSchema[field].maxLength = Math.max(jsonSchema[field].maxLength, value.length)
@@ -115,7 +126,7 @@ for (let e in values.WQXDomainValueList.WQXElement) {
   }
   Object.keys(required).forEach(col => {
     console.log('>', col)
-    fs.writeFileSync(__dirname + `/../src/required/${field}-${col}.json`, JSON.stringify(required[col], null, 2), 'utf8')
+    fs.writeFileSync(__dirname + `/../src/required/${requiredMapping[field]}-${requiredMapping[col].join('-')}.json`, JSON.stringify(required[col], null, 2), 'utf8')
   })
 }
 
