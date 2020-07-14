@@ -5,9 +5,10 @@
   "enum": [
     "# of hauls",
     "# of hooks",
+    "# of net sweeps",
     "# of nets",
     "# of passes",
     "# of traps"
   ],
-  "maxLength": 11
+  "maxLength": 15
 }

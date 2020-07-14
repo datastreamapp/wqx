@@ -7,7 +7,8 @@
     "Non-Targeted",
     "Random",
     "Systematic",
-    "Targeted"
+    "Targeted",
+    "Unknown"
   ],
   "maxLength": 12
 }

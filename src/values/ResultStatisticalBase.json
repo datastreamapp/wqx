@@ -25,6 +25,7 @@
     "AMS+",
     "BAV",
     "BNT",
+    "Coefficient of error",
     "Coefficient of variation",
     "Count",
     "Daily Geometric Mean",
@@ -45,6 +46,7 @@
     "Percent diff from true",
     "Percent of total",
     "Percent recovery",
+    "Precision",
     "Quartile Deviation",
     "RAD Error",
     "Ratio",
@@ -55,7 +57,8 @@
     "Standard Deviation",
     "Standard Error",
     "STV",
-    "Sum"
+    "Sum",
+    "Variance"
   ],
   "maxLength": 24
 }

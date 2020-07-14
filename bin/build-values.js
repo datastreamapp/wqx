@@ -13,7 +13,7 @@ const requiredMapping = {
   'MonitoringLocation':['MonitoringLocationType'],
   'Characteristic':'CharacteristicName',
   'MethodSpeciation':['MethodSpeciation'],
-  'SampleFraction':['ResultSampleFraction']
+  'SampleFraction':['ResultSampleFraction'],
 }
 
 const jsonSchema = {}
@@ -101,7 +101,7 @@ for (let e in values.WQXDomainValueList.WQXElement) {
 
     // Required
     Object.keys(required).forEach(col => {
-      // TODO optimization, split into permutations A,A*B,B,B*C,C,A*B*C
+      // TODO optimization, split into permutations A,A*B,B,B*C,C,A*C,A*B*C
       if (rowObj[col]) {
         required[col].if.properties[requiredMapping[field]].enum.push(value)
       }
@@ -119,10 +119,10 @@ for (let e in values.WQXDomainValueList.WQXElement) {
   fs.writeFileSync(__dirname + `/../src/values/${field}.json`, JSON.stringify(jsonSchema[field], null, 2), 'utf8')
 
   if (deprecated.length) {
-    fs.writeFileSync(__dirname + `/../src/deprecated/${field}.json`, JSON.stringify(deprecated, null, 2), 'utf8')
+    fs.writeFileSync(__dirname + `/../src/deprecated/${requiredMapping[field] || field}.json`, JSON.stringify(deprecated, null, 2), 'utf8')
   }
   if (Object.keys(group).length) {
-    fs.writeFileSync(__dirname + `/../src/groups/${field}.json`, JSON.stringify(group, null, 2), 'utf8')
+    fs.writeFileSync(__dirname + `/../src/groups/${requiredMapping[field] || field}.json`, JSON.stringify(group, null, 2), 'utf8')
   }
   Object.keys(required).forEach(col => {
     console.log('>', col)
