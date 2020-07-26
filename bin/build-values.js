@@ -96,7 +96,7 @@ for (let e in values.WQXDomainValueList.WQXElement) {
     // Groups
     // Characteristic => GroupName
     if (Object.keys(rowObj).includes('GroupName') ) {
-      group[value] = rowObj['GroupName']
+      group[value.split('***retired***')[0]] = rowObj['GroupName']
     }
 
     // Required

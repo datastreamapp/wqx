@@ -1,6 +1,6 @@
 {
   "name": "wqx",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Water Quality Exchange (WQX): JSON Schema",
   "scripts": {
     "build:values": "node --max-old-space-size=8192 bin/build-values.js",
