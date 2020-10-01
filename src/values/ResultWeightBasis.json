@@ -19,6 +19,7 @@
     "Recaptured",
     "Sampled",
     "Sieved Weight",
+    "TSP",
     "Wet"
   ],
   "maxLength": 15

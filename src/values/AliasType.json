@@ -3,6 +3,7 @@
   "description": "",
   "type": "string",
   "enum": [
+    "AQS PARM CODE",
     "CAS NUMBER",
     "EPA ID (SUBSTANCE REGISTRY #)",
     "ITIS TAXON SERIAL NUMBER",
