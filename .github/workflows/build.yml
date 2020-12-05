@@ -20,7 +20,8 @@ jobs:
       -
         name: Create .npmrc
         run: |
-          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
+          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" >> .npmrc
+          echo ".npmrc" >> .gitignore
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       -
@@ -40,12 +41,12 @@ jobs:
           echo "change=$(git status --porcelain)" >> $GITHUB_ENV
       -
         if: env.change
-        name: Bump version if changes
+        name: Version bump
         run: |
           echo "tag=$(npm version patch)" >> $GITHUB_ENV
       -
         if: env.change
-        name: Commit Changes
+        name: Commit & push changes
         run: |
           git add -A
           git commit -a -m 'ci: update allowed values'
