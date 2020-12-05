@@ -42,15 +42,14 @@ jobs:
         if: env.change
         name: Bump version if changes
         run: |
-          npm version patch
-          echo "tag=$(npm view wqx version)" >> $GITHUB_ENV
+          echo "tag=$(npm version patch)" >> $GITHUB_ENV
       -
         if: env.change
         name: Commit Changes
         run: |
           git add -A
           git commit -a -m 'ci: update allowed values'
-          git tag v${{ env.tag }}
+          git tag ${{ env.tag }}
           git status
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/*/} --follow-tags --force --tags
       -
