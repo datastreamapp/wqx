@@ -1,9 +1,9 @@
 name: build
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * 6'
-  workflow_dispatch:
 
 jobs:
   build:
@@ -59,3 +59,11 @@ jobs:
         run: |
           cd dist
           npm publish
+      -
+        if: env.change
+        name: Trigger @gordonfn/schema rebuild
+        run: |
+          curl -X POST https://api.github.com/repos/gordonfn/schema/dispatches \
+          -H 'Accept: application/vnd.github.everest-preview+json' \
+          -u ${{ secrets.GITHUB_TOKEN }} \
+          --data '{"event_type": "wqx", "client_payload": {}'
