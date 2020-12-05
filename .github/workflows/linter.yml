@@ -53,8 +53,7 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - if: ${{ git status --porcelain }}
-        name: Commit Changes
+      - name: Commit Changes
         run: |
           git add --all &&
           git commit -m 'ci: lint' &&
