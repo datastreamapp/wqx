@@ -1,4 +1,4 @@
-name: allowed-values
+name: build
 
 on:
   schedule:
@@ -31,7 +31,10 @@ jobs:
         name: Check and update allowed values
         run: |
           npm run download &&
-          npm run build &&
+          npm run build
+      -
+        name: Check for changes
+        run: |
           echo "change=$(git status --porcelain)" >> $GITHUB_ENV
       -
         if: env.change
