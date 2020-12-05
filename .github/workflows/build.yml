@@ -50,7 +50,7 @@ jobs:
         run: |
           git add -A
           git commit -a -m 'ci: update allowed values'
-          git tag ${{ env.tag }}
+          git tag v${{ env.tag }}
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main --follow-tags --force --tags
       -
         if: env.change
