@@ -28,9 +28,9 @@ jobs:
         run: |
           npm install
       -
-        name: Check and update allowed values
+        name: Download and rebuild allowed values
         run: |
-          npm run download &&
+          npm run download
           npm run build
       -
         name: Check for changes
@@ -40,15 +40,17 @@ jobs:
         if: env.change
         name: Bump version if changes
         run: |
-          npm version patch &&
+          npm version patch
           echo "tag=$(npm view @gordonfn/normalize version)" >> $GITHUB_ENV
       -
         if: env.change
         name: Commit Changes
         run: |
-          git add --all &&
-          git commit -m 'Update allowed values' &&
-          git tag ${{ env.tag }} &&
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add --all
+          git commit -m 'Update allowed values'
+          git tag ${{ env.tag }}
           git push
       -
         if: env.change
