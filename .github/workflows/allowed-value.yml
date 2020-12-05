@@ -1,0 +1,55 @@
+name: allowed-values
+
+on:
+  schedule:
+    - cron: '0 0 * * 6'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v2
+      -
+        name: Set up Node.js
+        uses: actions/setup-node@master
+        with:
+          node-version: 12.x
+      -
+        name: Create .npmrc
+        run: |
+          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      -
+        name: Install dependencies
+        run: |
+          npm install
+      -
+        name: Check and update allowed values
+        run: |
+          npm run download &&
+          npm run build &&
+          echo "change=$(git status --porcelain)" >> $GITHUB_ENV
+      -
+        if: env.change
+        name: Bump version if changes
+        run: |
+          npm version patch &&
+          echo "tag=$(npm view @gordonfn/normalize version)" >> $GITHUB_ENV
+      -
+        if: env.change
+        name: Commit Changes
+        run: |
+          git add --all &&
+          git commit -m 'Update allowed values' &&
+          git tag ${{ env.tag }} &&
+          git push
+      -
+        if: env.change
+        name: Publish
+        run: |
+          cd dist &&
+          npm publish
