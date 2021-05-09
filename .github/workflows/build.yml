@@ -64,6 +64,7 @@ jobs:
         if: env.change
         name: Publish
         run: |
+          cp package.json dist/package.json
           cd dist
           npm publish
 #      -
