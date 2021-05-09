@@ -48,7 +48,8 @@ jobs:
           git config --local user.name ${{ github.actor }}
           git config --local user.email github-actions@datastream.org
           git status --porcelain
-          echo "change=$(git status --porcelain)" >> $GITHUB_ENV
+          git status --porcelain | wc -l
+          echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
       -
         if: env.change
         name: Version bump
