@@ -48,7 +48,6 @@ jobs:
           git config --local user.name ${{ github.actor }}
           git config --local user.email github-actions@datastream.org
           git status --porcelain
-          git status --porcelain | wc -l
           echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
       -
         if: env.change
@@ -58,7 +57,6 @@ jobs:
           tag=$(npm version patch)
           git commit -a -m 'ci: update allowed values'
           git tag ${tag}
-          git status
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/*/} --follow-tags --force --tags
       -
         if: env.change
