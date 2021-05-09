@@ -54,8 +54,8 @@ jobs:
         name: Commit & push changes
         run: |
           git add -A
-          tag=$(npm version patch)
           git commit -a -m 'ci: update allowed values'
+          tag=$(npm version patch)
           git tag ${tag}
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/*/} --follow-tags --force --tags
       -
