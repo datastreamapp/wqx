@@ -52,16 +52,12 @@ jobs:
           echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
       -
         if: env.change
-        name: Version bump
-        run: |
-          echo "tag=$(npm version patch)" >> $GITHUB_ENV
-      -
-        if: env.change
         name: Commit & push changes
         run: |
           git add -A
+          tag=$(npm version patch)
           git commit -a -m 'ci: update allowed values'
-          git tag ${{ env.tag }}
+          git tag ${tag}
           git status
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/*/} --follow-tags --force --tags
       -
