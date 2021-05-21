@@ -67,3 +67,4 @@ typings/
 # OS
 .DS_Store
 .npmrc
+.npmrc
