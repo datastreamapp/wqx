@@ -48,7 +48,7 @@ jobs:
           git config --local user.email github-actions@datastream.org
           git status --porcelain
           lines=$(git status --porcelain | wc -l)
-          echo "change=$(($lines - 1)" >> $GITHUB_ENV
+          echo "change=$(($lines - 1))" >> $GITHUB_ENV
       -
         name: Change Indicator
         run: echo ${{env.change}}
