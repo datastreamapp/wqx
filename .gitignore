@@ -1,6 +1,9 @@
 dist
 All Domain Values.xml
 
+# Build step
+.npmrc
+
 # Logs
 logs
 *.log
