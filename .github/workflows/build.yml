@@ -47,7 +47,11 @@ jobs:
           git config --local user.name ${{ github.actor }}
           git config --local user.email github-actions@datastream.org
           git status --porcelain
-          echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
+          lines=$(git status --porcelain | wc -l)
+          echo "change=$(($lines - 1)" >> $GITHUB_ENV
+      -
+        name: Change Indicator
+        run: echo ${{env.change}}
       -
         if: env.change
         name: Commit & push changes
