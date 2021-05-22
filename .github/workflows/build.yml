@@ -49,9 +49,6 @@ jobs:
           git status --porcelain
           echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
       -
-        name: Change Indicator
-        run: echo ${{env.change}}
-      -
         if: env.change != 0
         name: Commit & push changes
         run: |
