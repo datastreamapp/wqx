@@ -47,13 +47,12 @@ jobs:
           git config --local user.name ${{ github.actor }}
           git config --local user.email github-actions@datastream.org
           git status --porcelain
-          lines=$(git status --porcelain | wc -l)
-          echo "change=$(($lines - 1))" >> $GITHUB_ENV
+          echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
       -
         name: Change Indicator
         run: echo ${{env.change}}
       -
-        if: env.change
+        if: env.change != 0
         name: Commit & push changes
         run: |
           git add -A
@@ -61,14 +60,14 @@ jobs:
           npm version patch
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/*/} --follow-tags --force --tags
       -
-        if: env.change
+        if: env.change != 0
         name: Publish
         run: |
           cp package.json dist/package.json
           cd dist
           npm publish
 #      -
-#        if: env.change
+#        if: env.change != 0
 #        name: Trigger @gordonfn/schema rebuild
 #        run: |
 #          curl -X POST https://api.github.com/repos/gordonfn/schema/dispatches \
