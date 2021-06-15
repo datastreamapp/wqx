@@ -16,7 +16,7 @@ jobs:
         name: Set up Node.js
         uses: actions/setup-node@master
         with:
-          node-version: 12.x
+          node-version: 14.x
       -
         name: Create .npmrc
         run: |
@@ -44,14 +44,14 @@ jobs:
       -
         name: Check for file changes
         run: |
-          git config --local user.name ${{ github.actor }}
-          git config --local user.email github-actions@datastream.org
           git status --porcelain
           echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
       -
         if: env.change != 0
         name: Commit & push changes
         run: |
+          git config --local user.name ${{ github.actor }}
+          git config --local user.email github-actions@datastream.org
           git add -A
           git commit -a -m 'ci: update allowed values'
           npm version patch
