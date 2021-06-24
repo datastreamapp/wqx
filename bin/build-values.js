@@ -1,5 +1,4 @@
 const fs = require('fs')
-const fetch = require('node-fetch')
 const convert = require('xml-js')
 const { capitalCase } = require('change-case')
 console.log('Parsing WQX All Domain Values XML ...')
@@ -43,9 +42,8 @@ const run = async () => {
       maxLength: 0
     }
     let group = {}
-    let groupLookup = {
-      CASNumber: {}
-    }
+    let characteristicCASNumber = {}
+
     let required = {}
     let deprecated = []
 
@@ -114,7 +112,7 @@ const run = async () => {
 
       // Group Lookups
       if (Object.keys(rowObj).includes('CASNumber')) {
-        groupLookup.CASNumber[value.split('***retired***')[0]] = rowObj['CASNumber']
+        characteristicCASNumber[value.split('***retired***')[0]] = rowObj['CASNumber']
       }
 
       // Required
@@ -142,8 +140,8 @@ const run = async () => {
     if (Object.keys(group).length) {
       fs.writeFileSync(__dirname + `/../src/groups/${requiredMapping[field] || field}.json`, JSON.stringify(group, null, 2), 'utf8')
     }
-    if (Object.keys(groupLookup).length) {
-      fs.writeFileSync(__dirname + `/../src/groups/CASNumber.json`, JSON.stringify(groupLookup.CASNumber, null, 2), 'utf8')
+    if (Object.keys(characteristicCASNumber).length) {
+      fs.writeFileSync(__dirname + `/../src/groups/CASNumber.json`, JSON.stringify(characteristicCASNumber, null, 2), 'utf8')
     }
     Object.keys(required).forEach(col => {
       console.log('>', col)
