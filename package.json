@@ -1,6 +1,6 @@
 {
   "name": "wqx",
-  "version": "3.0.14",
+  "version": "3.0.15",
   "description": "Water Quality Exchange (WQX): JSON Schema",
   "scripts": {
     "download": "rm -f 'All Domain Values.xml' && curl https://cdx.epa.gov/wqx/download/DomainValues/All.zip -o All.zip && unzip All.zip && rm All.zip",
