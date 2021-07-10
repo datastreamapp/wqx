@@ -32,7 +32,7 @@
     "% cover",
     "% passing",
     "% recovery",
-    "% saturatn",
+    "% saturatn**",
     "% sediment",
     "% solids",
     "0/00",
@@ -402,5 +402,5 @@
     "yd3",
     "years"
   ],
-  "maxLength": 11
+  "maxLength": 12
 }
