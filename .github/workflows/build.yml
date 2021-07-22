@@ -20,7 +20,7 @@ jobs:
       -
         name: Create .npmrc
         run: |
-          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
+          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       -
@@ -31,6 +31,12 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
+
+      -
+        name: Use npm 7.5
+        run: |
+          npm install -g npm@7.5
+          
       -
         name: Install dependencies
         run: |
