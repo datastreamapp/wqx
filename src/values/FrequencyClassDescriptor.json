@@ -34,7 +34,6 @@
     "Height",
     "Hermaphrodite",
     "Hybrid",
-    "ill",
     "Imwcap",
     "Indeterminate",
     "Juvenile",
@@ -83,7 +82,8 @@
     "Weight",
     "Width",
     "Y.O.Y.",
-    "Yolk Larva"
+    "Yolk Larva",
+    "ill"
   ],
   "maxLength": 23
 }
