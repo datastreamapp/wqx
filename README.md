@@ -9,9 +9,13 @@
 <p align="center">
   <a href="https://github.com/gordonfn/wqx"><img src="https://img.shields.io/github/stars/gordonfn/wqx.svg?style=social&label=Stars" alt="Stars" /></a>
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/v/wqx.svg" alt="npm version"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fgordonfn%2Fwqx?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgordonfn%2Fwqx.svg?type=shield"/></a>
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/dm/wqx.svg" alt="npm downloads"></a>
   <a href="https://www.npmjs.com/package/wqx"><img src="https://img.shields.io/npm/l/wqx.svg" alt="npm license" /></a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgordonfn%2Fwqx.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgordonfn%2Fwqx?ref=badge_large)
 
 ## Background
 
@@ -78,4 +82,3 @@ npm publish
 <div align="center">
   <a href="http://gordonfoundation.ca"><img src="https://raw.githubusercontent.com/gordonfn/wqx/master/docs/images/the-gordon-foundation.svg?sanitize=true" alt="The Gordon Foundation Logo" width="200"></a>
 </div>
-
