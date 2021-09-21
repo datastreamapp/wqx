@@ -133,19 +133,24 @@ const run = async () => {
 
     console.log('Save', field)
     fs.writeFileSync(__dirname + `/../src/values/${field}.json`, JSON.stringify(jsonSchema[field], null, 2), 'utf8')
+    fs.writeFileSync(__dirname + `/../src/values/${field}.json.js`, 'export default '+JSON.stringify(jsonSchema[field], null, 2), 'utf8')
 
     if (deprecated.length) {
       fs.writeFileSync(__dirname + `/../src/deprecated/${requiredMapping[field] || field}.json`, JSON.stringify(deprecated, null, 2), 'utf8')
+      fs.writeFileSync(__dirname + `/../src/deprecated/${requiredMapping[field] || field}.json.js`, 'export default '+JSON.stringify(deprecated, null, 2), 'utf8')
     }
     if (Object.keys(group).length) {
       fs.writeFileSync(__dirname + `/../src/groups/${requiredMapping[field] || field}.json`, JSON.stringify(group, null, 2), 'utf8')
+      fs.writeFileSync(__dirname + `/../src/groups/${requiredMapping[field] || field}.json.js`, 'export default '+JSON.stringify(group, null, 2), 'utf8')
     }
     if (Object.keys(characteristicCASNumber).length) {
       fs.writeFileSync(__dirname + `/../src/groups/CASNumber.json`, JSON.stringify(characteristicCASNumber, null, 2), 'utf8')
+      fs.writeFileSync(__dirname + `/../src/groups/CASNumber.json.js`, 'export default '+JSON.stringify(characteristicCASNumber, null, 2), 'utf8')
     }
     Object.keys(required).forEach(col => {
       console.log('>', col)
       fs.writeFileSync(__dirname + `/../src/required/${requiredMapping[field]}-${requiredMapping[col].join('-')}.json`, JSON.stringify(required[col], null, 2), 'utf8')
+      fs.writeFileSync(__dirname + `/../src/required/${requiredMapping[field]}-${requiredMapping[col].join('-')}.json.js`, 'export default '+JSON.stringify(required[col], null, 2), 'utf8')
     })
   }
 

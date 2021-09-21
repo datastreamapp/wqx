@@ -1,4 +1,4 @@
-name: build
+name: Update WQX
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * 6'
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       -
@@ -73,7 +73,7 @@ jobs:
           NPM_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 #      -
 #        if: env.change != 0
-#        name: Trigger @gordonfn/schema rebuild
+#        name: Trigger @gordonfn/data-schema rebuild
 #        run: |
 #          curl -X POST https://api.github.com/repos/gordonfn/schema/dispatches \
 #          -H 'Accept: application/vnd.github.everest-preview+json' \
