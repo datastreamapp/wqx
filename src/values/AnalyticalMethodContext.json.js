@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Analytical Method Context",
   "description": "",
   "type": "string",

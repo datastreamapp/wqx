@@ -1,0 +1,13 @@
+export default {
+  "title": "Cell Form",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Coccoids",
+    "Diatom",
+    "Filaments",
+    "Flagellates",
+    "Haptophytes"
+  ],
+  "maxLength": 11
+}

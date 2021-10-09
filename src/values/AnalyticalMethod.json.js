@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Analytical Method",
   "description": "",
   "type": "string",

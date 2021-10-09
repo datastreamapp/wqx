@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Relative Depth",
   "description": "",
   "type": "string",

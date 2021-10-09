@@ -1,0 +1,11 @@
+export default {
+  "title": "Electronic Address Type",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Email",
+    "Internet",
+    "Intranet"
+  ],
+  "maxLength": 8
+}

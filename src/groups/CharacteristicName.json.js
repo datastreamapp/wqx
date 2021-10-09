@@ -1,4 +1,4 @@
-{
+export default {
   "% undercut bank": "Information",
   "((2,2,3,3-Tetrafluoropropoxy)methyl)oxirane": "PFAS,Perfluorinated Alkyl Substance",
   "((Perfluoro-11-methyldodecyl)ethyl) dihydrogen phosphate": "PFAS,Perfluorinated Alkyl Substance",

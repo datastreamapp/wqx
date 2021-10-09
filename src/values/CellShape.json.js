@@ -1,0 +1,18 @@
+export default {
+  "title": "Cell Shape",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Arcuate",
+    "Cylindrical",
+    "Fusiform",
+    "Lunate",
+    "Oval Box",
+    "Ovoid",
+    "Rectangular Box",
+    "Rod",
+    "Sphere",
+    "Teardrop"
+  ],
+  "maxLength": 15
+}

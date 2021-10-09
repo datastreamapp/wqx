@@ -1,4 +1,4 @@
-{
+export default {
   "% undercut bank": "",
   "((2,2,3,3-Tetrafluoropropoxy)methyl)oxirane": "19932-26-4",
   "((Perfluoro-11-methyldodecyl)ethyl) dihydrogen phosphate": "94200-57-4",

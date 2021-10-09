@@ -1,0 +1,45 @@
+export default {
+  "if": {
+    "properties": {
+      "ActivityType": {
+        "enum": [
+          "Field Msr/Obs",
+          "Field Msr/Obs-Habitat Assessment",
+          "Field Msr/Obs-Portable Data Logger",
+          "Quality Control Field Replicate Habitat Assessment",
+          "Quality Control Field Replicate Msr/Obs",
+          "Quality Control Field Replicate Portable Data Logger",
+          "Quality Control Field Replicate Sample-Composite",
+          "Quality Control Sample-Blind Duplicate",
+          "Quality Control Sample-Field Ambient Conditions Blank",
+          "Quality Control Sample-Field Replicate",
+          "Quality Control Sample-Field Spike",
+          "Quality Control Sample-Field Surrogate Spike",
+          "Quality Control Sample-Inter-lab Split",
+          "Sample-Composite Without Parents",
+          "Sample-Depletion Replicate",
+          "Sample-Field Split",
+          "Sample-Integrated Cross-Sectional Profile",
+          "Sample-Integrated Flow Proportioned",
+          "Sample-Integrated Horizontal Profile",
+          "Sample-Integrated Horizontal and Vertical Composite Profile",
+          "Sample-Integrated Time Series",
+          "Sample-Integrated Vertical Profile",
+          "Sample-Negative Control",
+          "Sample-Other",
+          "Sample-Positive Control",
+          "Sample-Routine",
+          "Sample-Routine Resample"
+        ]
+      }
+    },
+    "required": [
+      "ActivityType"
+    ]
+  },
+  "then": {
+    "required": [
+      "MonitoringLocationType"
+    ]
+  }
+}

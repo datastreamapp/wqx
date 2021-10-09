@@ -1,0 +1,11 @@
+export default {
+  "title": "Address Type",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Location",
+    "Mailing",
+    "Shipping"
+  ],
+  "maxLength": 8
+}

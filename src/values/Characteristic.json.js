@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Characteristic",
   "description": "",
   "type": "string",

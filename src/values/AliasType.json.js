@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Alias Type",
   "description": "",
   "type": "string",

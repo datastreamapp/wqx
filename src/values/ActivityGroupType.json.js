@@ -1,0 +1,14 @@
+export default {
+  "title": "Activity Group Type",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Field Set",
+    "Other",
+    "QC Sample",
+    "Replicate",
+    "Subsample",
+    "Trip"
+  ],
+  "maxLength": 9
+}
