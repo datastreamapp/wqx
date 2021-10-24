@@ -1,4 +1,4 @@
-{
+export default {
   "Abalistes macrophthalmus": "Not Assigned",
   "Abarenicola": "Not Assigned",
   "Abarenicola pacifica": "Not Assigned",

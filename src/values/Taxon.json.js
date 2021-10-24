@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Taxon",
   "description": "",
   "type": "string",

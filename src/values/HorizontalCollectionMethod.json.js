@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Horizontal Collection Method",
   "description": "",
   "type": "string",

@@ -1,0 +1,9 @@
+export default {
+  "title": "Taxon Group",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Not Assigned"
+  ],
+  "maxLength": 12
+}

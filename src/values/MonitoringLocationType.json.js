@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Monitoring Location Type",
   "description": "",
   "type": "string",

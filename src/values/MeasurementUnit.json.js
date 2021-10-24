@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Measurement Unit",
   "description": "",
   "type": "string",

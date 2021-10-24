@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Sample Collection Method Context",
   "description": "",
   "type": "string",

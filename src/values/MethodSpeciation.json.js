@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Method Speciation",
   "description": "",
   "type": "string",

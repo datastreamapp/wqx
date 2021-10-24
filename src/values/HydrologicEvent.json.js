@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Hydrologic Event",
   "description": "",
   "type": "string",

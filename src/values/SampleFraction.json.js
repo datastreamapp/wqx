@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Sample Fraction",
   "description": "",
   "type": "string",

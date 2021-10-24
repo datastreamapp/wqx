@@ -1,0 +1,10 @@
+export default {
+  "title": "Toxicity Test Type",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Acute",
+    "Chronic"
+  ],
+  "maxLength": 7
+}

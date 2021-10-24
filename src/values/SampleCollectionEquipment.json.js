@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Sample Collection Equipment",
   "description": "",
   "type": "string",

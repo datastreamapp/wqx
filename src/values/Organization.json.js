@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Organization",
   "description": "",
   "type": "string",

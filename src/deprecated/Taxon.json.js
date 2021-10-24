@@ -1,4 +1,4 @@
-[
+export default [
   "Abranches pinto***retired***use Gobiopsis pinto",
   "Abudefduf annulatus***retired***use Chrysiptera annulata",
   "Abudefduf ascensionis***retired***use Abudefduf saxatilis",

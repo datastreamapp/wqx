@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Result Statistical Base",
   "description": "",
   "type": "string",

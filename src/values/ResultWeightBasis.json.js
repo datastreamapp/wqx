@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Result Weight Basis",
   "description": "",
   "type": "string",

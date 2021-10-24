@@ -1,0 +1,17 @@
+export default {
+  "title": "Target Count",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "100",
+    "1000",
+    "200",
+    "300",
+    "400",
+    "500",
+    "600",
+    "FULL",
+    "Unknown"
+  ],
+  "maxLength": 7
+}

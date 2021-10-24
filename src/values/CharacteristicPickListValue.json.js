@@ -1,4 +1,4 @@
-{
+export default {
   "title": "Characteristic Pick List Value",
   "description": "",
   "type": "string",
