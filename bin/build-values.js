@@ -22,6 +22,10 @@ const run = async () => {
     'Characteristic': 'CharacteristicName',
     'MethodSpeciation': ['MethodSpeciation'],
     'SampleFraction': ['ResultSampleFraction'],
+
+    'FrequencyClassType':'FrequencyClassType',
+    'Units':['Units'],
+    'Bounds':['Bounds']
   }
 
   console.log('Building Values')
@@ -148,7 +152,7 @@ const run = async () => {
       fs.writeFileSync(__dirname + `/../src/groups/CASNumber.json.js`, 'export default '+JSON.stringify(characteristicCASNumber, null, 2), 'utf8')
     }
     Object.keys(required).forEach(col => {
-      console.log('>', col)
+      console.log('>', field, '-', col)
       fs.writeFileSync(__dirname + `/../src/required/${requiredMapping[field]}-${requiredMapping[col].join('-')}.json`, JSON.stringify(required[col], null, 2), 'utf8')
       fs.writeFileSync(__dirname + `/../src/required/${requiredMapping[field]}-${requiredMapping[col].join('-')}.json.js`, 'export default '+JSON.stringify(required[col], null, 2), 'utf8')
     })
