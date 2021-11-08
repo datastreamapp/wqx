@@ -303,6 +303,8 @@ export default {
     "Presence of freshwater sponge (Y/N) (choice list)",
     "Presence of exotic species (Y/N) (choice list)",
     "Unnatural color (choice list)",
+    "Unnatural plant growth (choice list)",
+    "Unnatural algal growth (choice list)",
     "Sludge (choice list)",
     "Unnatural bottom deposits (choice list)",
     "Unnatural oil (choice list)",

@@ -177,7 +177,7 @@ export default {
     "geu/100ml",
     "geu/g",
     "gpg",
-    "gpm",
+    "gpm**",
     "gpm/ft",
     "grains",
     "ha",
