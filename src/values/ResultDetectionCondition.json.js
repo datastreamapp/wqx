@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultDetectionCondition.json",
   "title": "Result Detection Condition",
   "description": "",
   "type": "string",

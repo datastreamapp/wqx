@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/HydrologicCondition.json",
   "title": "Hydrologic Condition",
   "description": "",
   "type": "string",

@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/DetectionQuantitationLimitType.json",
   "title": "Detection Quantitation Limit Type",
   "description": "",
   "type": "string",

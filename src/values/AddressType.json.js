@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/AddressType.json",
   "title": "Address Type",
   "description": "",
   "type": "string",

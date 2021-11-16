@@ -1,4 +1,5 @@
 {
+  "$id": "https://epa.gov/wqx/SampleCollectionMethodContext.json",
   "title": "Sample Collection Method Context",
   "description": "",
   "type": "string",

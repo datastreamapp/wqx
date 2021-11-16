@@ -8,89 +8,51 @@ const writeFile = util.promisify(fs.writeFile);
 
 console.log('Building JSON Schema & JSON Table Schema');
 
-const srcGlob = __dirname+'/../src/*.json';
+//const valuesGlob = __dirname+'/../src/values/*.json';
+const parentDir = __dirname+'/../src'
+const parentGlob = parentDir+'/*.json';
 const jsonSchemaDir = __dirname+'/../dist/json-schema';
 //const jsonTableSchemaDir = __dirname+'/../dist/json-table-schema';
 
-glob(srcGlob)
-    .then((files) => {
-        const arr = [];
-        files.forEach((filePath) => {
-            const parts = path.parse(filePath);
-            const file = parts.base;
-            if (file.indexOf('definitions.values') === 0) { return; }    // skip definitions files
+const run = async () => {
+  // Collect common schemas
+  const definitions = []
+  // const valueFiles = await glob(valuesGlob)
+  // valueFiles.forEach((filePath) => {
+  //   const parts = path.parse(filePath);
+  //   const file = parts.base;
+  //   const json = require(file)
+  //   definitions.push(json)
+  // })
 
-            const jsonSchemaFile = jsonSchemaDir + '/' + file;
-            //const jsonTableSchemaFile = jsonTableSchemaDir +'/' + file;
+  // definitions
+  // await process(__dirname+'/../src/definitions.json', definitions)
+  // definitions.push(require(file))
 
-            const deref = $RefParser.dereference(filePath)
-                .then((schemaJSON) => {
-                    console.log('Processing:', file);
+  // schemas
+  const parentFiles = await glob(parentGlob)
+  await Promise.all(parentFiles.map((filePath) => {
+    const parts = path.parse(filePath);
+    const file = parts.base;
+    return process(file, definitions)
+  }))
 
-                    //console.log(schemaFile, schemaJSON);
-                    const arr = [
-                        writeFile(jsonSchemaFile, JSON.stringify(schemaJSON, null, 2), {encoding:'utf8'})
-                    ];
+  // Finish
+  console.log('Copy package.json');
+  const npm = require(__dirname+'/../package.json');
 
-                    // json-schema -> json-schema-table
-                    /*if (schemaJSON.hasOwnProperty('properties')) {
-                        const columns = Object.keys(schemaJSON.properties);
-                        const table = {
-                            fields: []
-                        };
-                        for (let i = 0, l = columns.length; i < l; i++) {
-                            const key = columns[i];
-                            const field = schemaJSON.properties[key];
-                            const column = {
-                                name: key,
-                                title: field.title,
-                                description: field.description,
-                                type: field.type,
-                                constraints: {
-                                    required: (schemaJSON.required.indexOf(key) !== -1) ? true : null
-                                }
-                            };
-                            if (field.hasOwnProperty('format')) {
-                                column.format = field.format;
-                                if (field.format === 'date-time') {
-                                    column.format = field.format.replace('-', '');
-                                }
-                            }
+  delete npm.scripts;
+  delete npm.devDependencies;
 
-                            const constraints = ['minLength', 'maxLength', 'minimum', 'maximum', 'pattern', 'enum'];
-                            for (let j = 0, m = constraints.length; j < m; j++) {
-                                if (field.hasOwnProperty(constraints[j])) {
-                                    column.constraints[constraints[j]] = field[constraints[j]];
-                                }
-                            }
+  fs.writeFileSync(__dirname+'/../dist/package.json', JSON.stringify(npm, null, 2), {encoding:'utf8'});
 
-                            table.fields.push(column);
-                        }
-                        arr.push(writeFile(jsonTableSchemaFile, JSON.stringify(table, null, 2), {encoding:'utf8'}));
-                    }*/
+  console.log('Done!');
+}
 
-                    return Promise.all(arr);
-                })
-                .catch((err) => {
-                    console.error('Error: deref', filePath, err);
-                });
-            arr.push(deref);
-        });
-        return Promise.all(arr);
-    })
-    .then(() => {
-        console.log('Done!');
-    })
-    .catch((err) => {
-        console.error('Error: glob', err);
-    });
-
-console.log('Copy package.json');
-const npm = require(__dirname+'/../package.json');
-
-delete npm.scripts;
-delete npm.devDependencies;
-
-fs.writeFileSync(__dirname+'/../dist/package.json', JSON.stringify(npm, null, 2), {encoding:'utf8'});
-
-console.log('Done!');
+const process = async(file, definitions) => {
+  console.log('Process', parentDir+'/'+file);
+  const schemaJSON = await $RefParser.dereference(parentDir+'/'+file, {})
+  console.log('Write', jsonSchemaDir + '/' + file);
+  writeFile(jsonSchemaDir + '/' + file, JSON.stringify(schemaJSON, null, 2), {encoding:'utf8'})
+}
+run()

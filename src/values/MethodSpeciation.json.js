@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/MethodSpeciation.json",
   "title": "Method Speciation",
   "description": "",
   "type": "string",

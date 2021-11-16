@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/GearProcedureUnit.json",
   "title": "Gear Procedure Unit",
   "description": "",
   "type": "string",

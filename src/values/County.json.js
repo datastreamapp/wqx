@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/County.json",
   "title": "County",
   "description": "",
   "type": "string",

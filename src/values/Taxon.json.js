@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/Taxon.json",
   "title": "Taxon",
   "description": "",
   "type": "string",

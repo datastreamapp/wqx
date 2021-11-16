@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/Assemblage.json",
   "title": "Assemblage",
   "description": "",
   "type": "string",

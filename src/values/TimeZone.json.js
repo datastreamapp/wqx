@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/TimeZone.json",
   "title": "Time Zone",
   "description": "",
   "type": "string",

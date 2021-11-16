@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/VerticalReferenceDatum.json",
   "title": "Vertical Reference Datum",
   "description": "",
   "type": "string",

@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/TaxonRank.json",
   "title": "Taxon Rank",
   "description": "",
   "type": "string",

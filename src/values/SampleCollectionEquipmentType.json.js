@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/SampleCollectionEquipmentType.json",
   "title": "Sample Collection Equipment Type",
   "description": "",
   "type": "string",

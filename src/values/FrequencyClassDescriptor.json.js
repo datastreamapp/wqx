@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/FrequencyClassDescriptor.json",
   "title": "Frequency Class Descriptor",
   "description": "",
   "type": "string",

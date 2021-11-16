@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/NetType.json",
   "title": "Net Type",
   "description": "",
   "type": "string",

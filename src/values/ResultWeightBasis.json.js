@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultWeightBasis.json",
   "title": "Result Weight Basis",
   "description": "",
   "type": "string",

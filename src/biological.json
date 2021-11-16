@@ -1,4 +1,5 @@
 {
+  "$id": "https://epa.gov/wqx/biological.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Biological",
   "description": "WQX Web Biological Results",

@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultMeasureQualifier.json",
   "title": "Result Measure Qualifier",
   "description": "",
   "type": "string",

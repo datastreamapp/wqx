@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ActivityGroupType.json",
   "title": "Activity Group Type",
   "description": "",
   "type": "string",

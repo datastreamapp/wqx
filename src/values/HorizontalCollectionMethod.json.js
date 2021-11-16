@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/HorizontalCollectionMethod.json",
   "title": "Horizontal Collection Method",
   "description": "",
   "type": "string",

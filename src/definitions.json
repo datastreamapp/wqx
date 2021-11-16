@@ -1,7 +1,7 @@
 {
+  "$id": "https://epa.gov/wqx/definitions.json",
   "title":"WQX Definitions",
   "description":"WQX Definitions",
-
   "ProjectID":{
     "title":"Project ID",
     "description":"Valid Project ID; separate multiple Projects with `\\`.",

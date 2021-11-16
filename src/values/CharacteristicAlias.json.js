@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/CharacteristicAlias.json",
   "title": "Characteristic Alias",
   "description": "",
   "type": "string",

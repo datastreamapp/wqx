@@ -1,4 +1,5 @@
 {
+  "$id": "https://epa.gov/wqx/activitymetric.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Activity Metric",
   "description": "WQX Web Activity Metric Results",

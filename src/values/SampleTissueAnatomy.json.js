@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/SampleTissueAnatomy.json",
   "title": "Sample Tissue Anatomy",
   "description": "",
   "type": "string",

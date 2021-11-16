@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ActivityMediaSubdivision.json",
   "title": "Activity Media Subdivision",
   "description": "",
   "type": "string",

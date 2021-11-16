@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/MonitoringLocationType.json",
   "title": "Monitoring Location Type",
   "description": "",
   "type": "string",

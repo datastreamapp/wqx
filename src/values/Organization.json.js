@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/Organization.json",
   "title": "Organization",
   "description": "",
   "type": "string",

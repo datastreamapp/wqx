@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/Characteristic.json",
   "title": "Characteristic",
   "description": "",
   "type": "string",

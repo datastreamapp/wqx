@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/WellType.json",
   "title": "Well Type",
   "description": "",
   "type": "string",

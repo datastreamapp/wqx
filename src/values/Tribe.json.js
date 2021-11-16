@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/Tribe.json",
   "title": "Tribe",
   "description": "",
   "type": "string",

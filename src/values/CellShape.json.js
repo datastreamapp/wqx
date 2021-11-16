@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/CellShape.json",
   "title": "Cell Shape",
   "description": "",
   "type": "string",

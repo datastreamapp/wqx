@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/VerticalCollectionMethod.json",
   "title": "Vertical Collection Method",
   "description": "",
   "type": "string",

@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/SampleCollectionMethod.json",
   "title": "Sample Collection Method",
   "description": "",
   "type": "string",

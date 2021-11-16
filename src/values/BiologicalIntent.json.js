@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/BiologicalIntent.json",
   "title": "Biological Intent",
   "description": "",
   "type": "string",

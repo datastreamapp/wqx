@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ToxicityTestType.json",
   "title": "Toxicity Test Type",
   "description": "",
   "type": "string",

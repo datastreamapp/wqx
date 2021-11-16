@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/CharacteristicPickListValue.json",
   "title": "Characteristic Pick List Value",
   "description": "",
   "type": "string",

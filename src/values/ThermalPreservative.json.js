@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ThermalPreservative.json",
   "title": "Thermal Preservative",
   "description": "",
   "type": "string",

@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/RelativeDepth.json",
   "title": "Relative Depth",
   "description": "",
   "type": "string",

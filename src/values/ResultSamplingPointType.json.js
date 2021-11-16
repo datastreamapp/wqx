@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultSamplingPointType.json",
   "title": "Result Sampling Point Type",
   "description": "",
   "type": "string",

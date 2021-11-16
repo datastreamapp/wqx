@@ -1,4 +1,5 @@
 {
+  "$id": "https://epa.gov/wqx/WellFormationType.json",
   "title": "Well Formation Type",
   "description": "",
   "type": "string",

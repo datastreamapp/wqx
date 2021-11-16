@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/SamplingDesignType.json",
   "title": "Sampling Design Type",
   "description": "",
   "type": "string",

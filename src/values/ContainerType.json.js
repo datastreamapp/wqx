@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ContainerType.json",
   "title": "Container Type",
   "description": "",
   "type": "string",

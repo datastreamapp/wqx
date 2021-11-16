@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultTimeBasis.json",
   "title": "Result Time Basis",
   "description": "",
   "type": "string",

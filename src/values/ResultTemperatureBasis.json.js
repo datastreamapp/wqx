@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultTemperatureBasis.json",
   "title": "Result Temperature Basis",
   "description": "",
   "type": "string",

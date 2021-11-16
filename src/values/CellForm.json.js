@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/CellForm.json",
   "title": "Cell Form",
   "description": "",
   "type": "string",

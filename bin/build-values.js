@@ -39,6 +39,7 @@ const run = async () => {
     const element = values.WQXDomainValueList.WQXElement[e].WQXElementRow
 
     jsonSchema[field] = {
+      $id: `https://epa.gov/wqx/${field}.json`,
       title: capitalCase(field),
       description: '',
       type: 'string',

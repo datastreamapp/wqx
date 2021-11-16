@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultStatisticalBase.json",
   "title": "Result Statistical Base",
   "description": "",
   "type": "string",

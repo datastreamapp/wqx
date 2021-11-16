@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/SampleFraction.json",
   "title": "Sample Fraction",
   "description": "",
   "type": "string",

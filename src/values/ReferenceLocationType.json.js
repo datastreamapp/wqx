@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ReferenceLocationType.json",
   "title": "Reference Location Type",
   "description": "",
   "type": "string",

@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/Habit.json",
   "title": "Habit",
   "description": "",
   "type": "string",

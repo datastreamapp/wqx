@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/ResultStatus.json",
   "title": "Result Status",
   "description": "",
   "type": "string",

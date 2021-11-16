@@ -1,4 +1,5 @@
 export default {
+  "$id": "https://epa.gov/wqx/LocalAquifer.json",
   "title": "Local Aquifer",
   "description": "",
   "type": "string",
