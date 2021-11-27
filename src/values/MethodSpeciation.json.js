@@ -14,6 +14,7 @@ export default {
     "as C",
     "as C3H6O2",
     "as CDOM",
+    "as CN",
     "as CO3",
     "as Ca",
     "as CaCO3",
@@ -33,6 +34,7 @@ export default {
     "as Gd",
     "as H",
     "as H2O",
+    "as H2S",
     "as HCO3",
     "as Hg",
     "as IWTU",
@@ -80,7 +82,8 @@ export default {
     "as Tl",
     "as U3O8",
     "as pH",
-    "as qPCR"
+    "as qPCR",
+    "unknown"
   ],
   "maxLength": 16
 }

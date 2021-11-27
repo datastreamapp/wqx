@@ -29352,6 +29352,7 @@ export default {
   "Nebrodes": "Not Assigned",
   "Nectoliparis": "Not Assigned",
   "Nectoliparis pelagicus": "Not Assigned",
+  "Nectoporus": "Not Assigned",
   "Nectopsyche": "Not Assigned",
   "Nectopsyche albida": "Not Assigned",
   "Nectopsyche candida": "Not Assigned",
