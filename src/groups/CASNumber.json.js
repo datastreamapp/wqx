@@ -7481,6 +7481,7 @@ export default {
   "Activities - Roads (choice list)": "",
   "Activities - Sewage Treatment (choice list)": "",
   "Activities - Surface Films (choice list)": "",
+  "Activities - Trash/Litter (Y/N) (choice list)": "",
   "Activities - Trash/Litter (choice list)": "",
   "Activities - Water Level Fluctuations (choice list)": "",
   "Activities - Water Withdrawal (choice list)": "",

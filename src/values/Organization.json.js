@@ -412,6 +412,7 @@ export default {
     "CORTINARANCHERIA_WQX",
     "COYOTEVAL_WQX",
     "CPNWATER",
+    "CPRW",
     "CRBC_WQX",
     "CRITEPO_WQX",
     "CRITFC_WQX",
