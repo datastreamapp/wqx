@@ -352,6 +352,7 @@ export default {
     "pt",
     "qt",
     "seconds",
+    "std*********",
     "tCaCO3/Kt",
     "tons",
     "tons/ac ft",
