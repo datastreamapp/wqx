@@ -32010,6 +32010,7 @@ export default {
     "Fluorene,2,4a-dihydro-",
     "Fluorene-d10",
     "Fluorescein",
+    "Fluorescent dissolved organic matter (FDOM)",
     "Fluoride",
     "Fluoride as f",
     "Fluorides",

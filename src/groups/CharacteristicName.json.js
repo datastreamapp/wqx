@@ -11315,6 +11315,7 @@ export default {
   "Fluorene,2,4A-Dihydro-": "Not Assigned",
   "Fluorene-d10": "Not Assigned",
   "Fluorescein": "Not Assigned",
+  "Fluorescent dissolved organic matter (FDOM)": "",
   "Fluoride": "Inorganics, Major, Non-metals",
   "Fluorinated triethylene glycol monomethyl ether": "PFAS,Perfluorinated Alkyl Substance",
   "Fluorine": "Inorganics, Major, Non-metals",

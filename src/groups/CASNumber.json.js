@@ -11315,6 +11315,7 @@ export default {
   "Fluorene,2,4A-Dihydro-": "59247-36-8",
   "Fluorene-d10": "81103-79-9",
   "Fluorescein": "2321-07-5",
+  "Fluorescent dissolved organic matter (FDOM)": "",
   "Fluoride": "16984-48-8",
   "Fluorinated triethylene glycol monomethyl ether": "147492-57-7",
   "Fluorine": "7782-41-4",
