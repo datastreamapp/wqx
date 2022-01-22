@@ -28,7 +28,7 @@
     "change-case": "4.1.2",
     "glob": "7.1.6",
     "json-schema-ref-parser": "9.0.6",
-    "node-fetch": "2.6.1",
+    "node-fetch": "3.1.1",
     "xml-js": "1.6.11"
   }
 }
