@@ -2,7 +2,13 @@
   "name": "wqx",
   "version": "3.0.39",
   "description": "Water Quality Exchange (WQX): JSON Schema",
+  "type": "module",
   "scripts": {
+    "prepare": "husky install",
+    "commit-msg": "commitlint --config commitlint.config.cjs --edit",
+    "pre-commit": "lint-staged",
+    "lint": "npm run lint:js",
+    "lint:js": "prettier --write **/*.js && standard --fix **/*.js",
     "download": "rm -f 'All Domain Values.xml' && curl https://cdx2.epa.gov/wqx/download/DomainValues/All.zip -H \"Accept: application/x-zip-compressed\" -H \"Accept-Encoding: br, gzip, deflate\"  -H \"Accept-Language: en\" -H \"User-Agent: DataStreamBot\" -o All.zip && unzip All.zip && rm All.zip",
     "build:values": "node --max-old-space-size=8192 bin/build-values.js",
     "build:schema": "node --max-old-space-size=8192 bin/build-schema.js",
@@ -25,10 +31,16 @@
   },
   "homepage": "https://github.com/gordonfn/wqx#readme",
   "devDependencies": {
+    "@commitlint/cli": "^16.0.0",
+    "@commitlint/config-conventional": "^16.0.0",
     "change-case": "4.1.2",
     "glob": "7.2.0",
     "json-schema-ref-parser": "9.0.9",
     "node-fetch": "3.2.0",
-    "xml-js": "1.6.11"
+    "xml-js": "1.6.11",
+    "husky": "^7.0.0",
+    "lint-staged": "^12.0.0",
+    "prettier": "^2.5.1",
+    "standard": "^16.0.0"
   }
 }

@@ -16,7 +16,7 @@ jobs:
         name: Set up Node.js
         uses: actions/setup-node@master
         with:
-          node-version: 14.x
+          node-version: 16.x
       -
         name: Create .npmrc
         run: |
@@ -33,9 +33,9 @@ jobs:
             ${{ runner.os }}-node-
 
       -
-        name: Use npm 7.5
+        name: Use npm 8
         run: |
-          npm install -g npm@7.5
+          npm install -g npm@8
           
       -
         name: Install dependencies
