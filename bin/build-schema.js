@@ -2,7 +2,7 @@ import { promisify } from 'util'
 import { parse, join } from 'path'
 import { writeFile } from 'fs/promises'
 import $RefParser from 'json-schema-ref-parser'
-import metadata from './../package.json'
+import metadata from './../package.json' // assert { type: 'json' }
 import glob from 'glob'
 const globPromise = promisify(glob)
 
