@@ -1,5 +1,5 @@
 import { readFile, writeFile } from 'fs/promises'
-import { xml2json } from 'xml-js'
+import { xml2js } from 'xml-js'
 import { capitalCase } from 'change-case'
 console.log('Parsing WQX All Domain Values XML ...')
 
@@ -13,7 +13,7 @@ const run = async () => {
     // xml = await fetch('https://cdx.epa.gov/wqx/download/DomainValues/All.zip').then(res => res.text())
   }
   console.log('Parsing XML')
-  const values = JSON.parse(xml2json(xml, { compact: true }))
+  const values = xml2js(xml, { compact: true })
 
   const requiredMapping = {
     ActivityType: 'ActivityType',
