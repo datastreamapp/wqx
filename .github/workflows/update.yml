@@ -61,7 +61,6 @@ jobs:
           git add -A
           git commit -a -m 'ci: update allowed values'
           npm version patch -m 'chore: bump version to %s'
-          git log
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/*/} --follow-tags --force --tags
       -
         if: env.change != 0

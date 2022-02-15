@@ -6,7 +6,7 @@
   "scripts": {
     "prepare": "husky install",
     "commit-msg": "commitlint --config commitlint.config.cjs --edit",
-    "pre-commit": "lint-staged",
+    "pre-commit": "lint-staged --allow-empty",
     "lint": "npm run lint:js",
     "lint:js": "prettier --write **/*.js && standard --fix **/*.js",
     "download": "rm -f 'All Domain Values.xml' && curl https://cdx2.epa.gov/wqx/download/DomainValues/All.zip -H \"Accept: application/x-zip-compressed\" -H \"Accept-Encoding: br, gzip, deflate\"  -H \"Accept-Language: en\" -H \"User-Agent: DataStreamBot\" -o All.zip && unzip All.zip && rm All.zip",
