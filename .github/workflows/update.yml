@@ -67,7 +67,7 @@ jobs:
         name: Publish
         run: |
           cp package.json dist/package.json
-          sed -i 's/huskey install//' dist/package.json
+          sed -i '' 's/huskey install//' dist/package.json
           npm publish ./dist
         env:
           NPM_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
