@@ -1,9 +1,11 @@
 import { promisify } from 'util'
-import { parse, join } from 'path'
-import { writeFile } from 'fs/promises'
+import { parse, join, dirname } from 'path'
+import { readFile, writeFile } from 'fs/promises'
 import $RefParser from 'json-schema-ref-parser'
-import metadata from './../package.json' // assert { type: 'json' }
 import glob from 'glob'
+
+import { fileURLToPath } from 'url'
+
 const globPromise = promisify(glob)
 
 console.log('Building JSON Schema & JSON Table Schema')
@@ -13,10 +15,15 @@ const parentDir = './src'
 const parentGlob = join(parentDir, '/*.json')
 const jsonSchemaDir = './dist/json-schema'
 
-delete metadata.scripts
-delete metadata.devDependencies
-
 const run = async () => {
+  const __dirname = dirname(fileURLToPath(import.meta.url))
+  const metadata = await readFile(join(__dirname, '/../package.json')).then(
+    (res) => JSON.parse(res)
+  )
+
+  delete metadata.scripts
+  delete metadata.devDependencies
+
   // Collect common schemas
   const definitions = []
   // const valueFiles = await glob(valuesGlob)
@@ -30,6 +37,17 @@ const run = async () => {
   // definitions
   // await process(__dirname+'/../src/definitions.json', definitions)
   // definitions.push(require(file))
+
+  const process = async (file) => {
+    console.log('Process', parentDir + '/' + file)
+    const schemaJSON = await $RefParser.dereference(join(parentDir, file), {})
+    console.log('Write', jsonSchemaDir + '/' + file)
+    await writeFile(
+      join(jsonSchemaDir, file),
+      JSON.stringify(schemaJSON, null, 2),
+      { encoding: 'utf8' }
+    )
+  }
 
   // schemas
   const parentFiles = await globPromise(parentGlob)
@@ -49,16 +67,4 @@ const run = async () => {
 
   console.log('Done!')
 }
-
-const process = async (file) => {
-  console.log('Process', parentDir + '/' + file)
-  const schemaJSON = await $RefParser.dereference(join(parentDir, file), {})
-  console.log('Write', jsonSchemaDir + '/' + file)
-  await writeFile(
-    join(jsonSchemaDir, file),
-    JSON.stringify(schemaJSON, null, 2),
-    { encoding: 'utf8' }
-  )
-}
-
 run()
