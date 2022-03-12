@@ -21633,6 +21633,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Pentyl sulfate': 'Not Assigned',
   Pentylcyclohexane: 'Not Assigned',
+  'Per- and polyfluoroalkyl substances': 'PFAS,Perfluorinated Alkyl Substance',
   'Percent Residue': 'Physical',
   'Percent Solids': 'Not Assigned',
   'Percent abundance': 'Not Assigned',
@@ -24149,6 +24150,7 @@ export default {
   'Reaction products with N-methylamine acetate, potassium hydroxide, .alpha.-fluoro-.omega.-iodopoly(perfluoroethylene)(n=4-8) and 2-propen-1-ol':
     'PFAS,Perfluorinated Alkyl Substance',
   'Reconstructed Mass': 'Physical',
+  'Redoximorphic Features (%)': 'Information',
   'Redoximorphic Features (choice list)': 'Information',
   'Redoximorphic Features Color: Chroma': 'Information',
   'Redoximorphic Features Color: Hue': 'Information',

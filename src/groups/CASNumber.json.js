@@ -18430,6 +18430,7 @@ export default {
   'Pentyl 4,4,5,5,6,6,7,7,7-nonafluoroheptanoate': '94345-13-8',
   'Pentyl sulfate': '',
   Pentylcyclohexane: '4292-92-6',
+  'Per- and polyfluoroalkyl substances': '',
   'Percent Residue': '',
   'Percent Solids': '',
   'Percent abundance': '',
@@ -20568,6 +20569,7 @@ export default {
   'Reaction products with N-methylamine acetate, potassium hydroxide, .alpha.-fluoro-.omega.-iodopoly(perfluoroethylene)(n=4-8) and 2-propen-1-ol':
     '104075-34-5',
   'Reconstructed Mass': '',
+  'Redoximorphic Features (%)': '',
   'Redoximorphic Features (choice list)': '',
   'Redoximorphic Features Color: Chroma': '',
   'Redoximorphic Features Color: Hue': '',
