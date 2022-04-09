@@ -685,6 +685,7 @@ export default {
   '.beta.-Hexachlorocyclohexane': 'Organics, Pesticide',
   '.beta.-Sitosterol': 'Organics, Other',
   '.delta.-Hexachlorocyclohexane': 'Organics, Pesticide',
+  '.gama.-Hexachlorocyclohexane': 'Not Assigned',
   '.gamma.-Butyrolactone': 'Not Assigned',
   '.gamma.-Chlordene': 'Organics, Pesticide',
   '.gamma.-Cyhalothrin': 'Organics, Pesticide',
@@ -15515,6 +15516,7 @@ export default {
   'Cocaine-D3': 'Organics, Other',
   Codeine: 'Organics, Other',
   'Codeine-d6': 'Organics, Other',
+  'Coefficient of Conservation': 'Information',
   Cohesion: 'Information',
   Colchicine: 'Not Assigned',
   'Colchicine-d6': 'Not Assigned',
@@ -23102,6 +23104,7 @@ export default {
   Progesterone: 'Organics, Other',
   'Progesterone-13C3': 'Not Assigned',
   'Progesterone-d9': 'Not Assigned',
+  Progestrone: 'Not Assigned',
   Proglumide: 'Not Assigned',
   Promecard: 'Not Assigned',
   Promethazine: 'Organics, Other',
@@ -26833,6 +26836,7 @@ export default {
   "p,p'-DDT-13C12": 'Not Assigned',
   "p,p'-DDT-d8": 'Not Assigned',
   "p,p'-Dibromodiphenyl ether": 'PFOA, Perfluorooctanoic Acid',
+  "p,p'-Methoxychlor": 'Not Assigned',
   'p-((Perfluoro-4-ethyl-3,4-dimethylhex-2-en-2-yl)oxy)-N-(3-(triethoxysilyl)propyl)benzenesulfonamide':
     'PFAS,Perfluorinated Alkyl Substance',
   'p-((Undecafluorohexenyl)oxy)benzenesulphonyl chloride':
