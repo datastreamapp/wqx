@@ -3839,8 +3839,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
     'PFOA, Perfluorooctanoic Acid',
-  '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-, ammonium salt (1:1)':
-    'PFAS,Perfluorinated Alkyl Substance',
   '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-, ion(1-)':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Decanesulfonyl chloride, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
@@ -4511,6 +4509,8 @@ export default {
   '1-Perfluoromethylcyclohexane-1-sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Perfluoropropylethanol': 'PFAS,Perfluorinated Alkyl Substance',
+  '1-Phenanthrenecarboxylic acid, 1,2,3,4,4a,4b,5,9,10,10a-decahydro-1,4a-dimethyl-7-(1-methylethyl)-, (1R-(1.alpha.,4a.beta., 4b.alpha.,10a.alpha.))-':
+    'Not Assigned',
   '1-Phenethyl-4-(phenylpropionylamino)piperidine': 'Organics, Other',
   '1-Phenoxy(3-(perfluoro-7-methyloctyl)propan-2-ol)':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -11480,6 +11480,8 @@ export default {
   '4-epitetracycline (ETC)': 'Not Assigned',
   '4-methyl-6-(2,2,3,3,4,4,5,5-octafluoropentoxy)pyrimidin-2-amine':
     'PFAS,Perfluorinated Alkyl Substance',
+  '4-methyl-6-(2-methyl-5-propan-2-ylphenyl)-2-(5-propan-2-yl-1H-indazol-4-yl)-7,8-dihydro-5H-1,6-naphthyridine':
+    'Not Assigned',
   '4-n-Nonylphenol diethoxylate-13C6': 'Not Assigned',
   '4-n-Nonylphenol monoethoxylate-13C6': 'Not Assigned',
   '4-n-Nonylphenol triethoxylate-13C6': 'Not Assigned',
@@ -12126,6 +12128,7 @@ export default {
   '7H-Perfluoroheptanamide': 'PFAS,Perfluorinated Alkyl Substance',
   '7H-Perfluoroheptanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
   '7H-Perfluoroheptanoyl chloride': 'PFAS,Perfluorinated Alkyl Substance',
+  '8(14)-Abietenic acid': 'Not Assigned',
   '8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-Pentadecafluorotetradec-6-ene':
     'PFAS,Perfluorinated Alkyl Substance',
   '8,8,9,9,9-Pentafluoro-7-(pentafluoroethyl)non-6-en-1-amine':
@@ -12153,6 +12156,8 @@ export default {
   '8-H-Perfluorooctanoate': 'PFAS,Perfluorinated Alkyl Substance',
   '8-H-Perfluorooctanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
   '8-Methyldecanoic acid': 'Not Assigned',
+  '8:2 Fluorotelomer sulfonate ammonium salt':
+    'PFAS,Perfluorinated Alkyl Substance',
   '8:2 Fluorotelomer thioether hydroxyammonium chloride':
     'PFAS,Perfluorinated Alkyl Substance',
   '8H,8H-Perfluoropentadecane-7,9-dione': 'PFAS,Perfluorinated Alkyl Substance',
@@ -12222,10 +12227,15 @@ export default {
   'ASB + Cation': 'Not Assigned',
   Abacavir: 'Not Assigned',
   Abamectin: 'Not Assigned',
+  'Abietic acid': 'Not Assigned',
   Abietylamine: 'Organics, Pesticide',
   'Abrupt lower boundary present (Y/N) (choicelist)': 'Information',
   'Absolute Humidity': 'Information',
+  'Absorbance at 250 nm': 'Not Assigned',
+  'Absorbance at 254 nm': 'Not Assigned',
   'Absorbance at 280 nanometers': 'Not Assigned',
+  'Absorbance at 350 nm': 'Not Assigned',
+  'Absorbance at 365 nm': 'Not Assigned',
   'Absorbance at 370 nanometers': 'Not Assigned',
   'Absorption coefficient at 412 nm': 'Not Assigned',
   'Absorption coefficient at 412 nm for tripton': 'Not Assigned',
@@ -12584,6 +12594,7 @@ export default {
   'Acifluorfen, sodium salt': 'Organics, Pesticide',
   Acinetobacter: 'Microbiological',
   Acridine: 'Organics, Pesticide',
+  'Acridine-d9': 'Not Assigned',
   Acrinathrin: 'PFAS,Perfluorinated Alkyl Substance',
   Acrolein: 'Organics, Pesticide',
   Acrylamide: 'Organics, Other',
@@ -12643,6 +12654,7 @@ export default {
   'Adenosine triphosphate': 'Not Assigned',
   'Adiponitrile, perfluoro': 'PFAS,Perfluorinated Alkyl Substance',
   'Adjusted gross alpha activity': 'Not Assigned',
+  'Adsorbable organic halides': 'Not Assigned',
   'Aeromonas hydrophila': 'Microbiological',
   'Aerosols, (nonflammable)': 'Not Assigned',
   Afidopyropen: 'Not Assigned',
@@ -13023,6 +13035,7 @@ export default {
   Arsenide: 'Not Assigned',
   Arsenite: 'Not Assigned',
   Arsine: 'Not Assigned',
+  'Arsonium, (carboxymethyl)trimethyl-, inner salt': 'Not Assigned',
   'Artifical substrate, redundacy index': 'Physical',
   'Asahiguard AG 310': 'PFOA, Perfluorooctanoic Acid',
   Asbestos: 'Not Assigned',
@@ -13746,6 +13759,7 @@ export default {
   'Benzene, 1-bromo-2-(1,1,2,3,3,3-hexafluoropropoxy)-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Benzene, 1-bromo-2-(4-bromophenoxy)-': 'Organics, PCBs',
+  'Benzene, 1-bromo-2-(trifluoromethyl)-': 'Not Assigned',
   'Benzene, 1-bromo-2-chloro-': 'Not Assigned',
   'Benzene, 1-bromo-3-(1,1,2,2-tetrafluoroethoxy)-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -15183,6 +15197,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Carbonic dichloride, reaction products with reduced ammonia-Me esters of reduced polymd. oxidized tetrafluoroethylene reaction product':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Carbonodithioic acid, O-ethyl ester': 'Not Assigned',
   Carbonyls: 'Not Assigned',
   Carbophenothion: 'Organics, Pesticide',
   'Carbophenothion-methyl': 'Organics, Pesticide',
@@ -15300,6 +15315,7 @@ export default {
   'Chlorine-36': 'Not Assigned',
   'Chlorine-36 counting error': 'Not Assigned',
   Chlorite: 'Organics, Other',
+  Chlormephos: 'Not Assigned',
   'Chloro(1,1,1,2,3,3-hexafluoropropan-2-yl)dimethylsilane':
     'PFAS,Perfluorinated Alkyl Substance',
   'Chloro(nonafluoro)cyclopentane': 'PFAS,Perfluorinated Alkyl Substance',
@@ -15392,6 +15408,7 @@ export default {
   'Chlorthal-dimethyl': 'Organics, Pesticide',
   Chlorthalidone: 'Not Assigned',
   Chlorthion: 'Organics, Pesticide',
+  Chlorthiophos: 'Not Assigned',
   'Cholest-5-en-3-one': 'Not Assigned',
   'Cholest-5-ene-3,7-diol, 25,26,26,26,27,27,27-heptafluoro-, (3.beta.,7.alpha.)-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -15611,6 +15628,7 @@ export default {
   'Copolymer of tetrafluoroethylene/hexafluoropropene/nonafluorobutyl trifluorovinyl ether':
     'PFAS,Perfluorinated Alkyl Substance',
   Copper: 'Inorganics, Minor, Metals',
+  'Copper 8-quinolinolate': 'Not Assigned',
   'Copper Sulfate Pentahydrate': 'Not Assigned',
   'Copper(1+) 1,1,2,2,3,3,4,4,4-nonafluorobutan-1-ide':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -15687,6 +15705,7 @@ export default {
   'Current (choice list)': 'Not Assigned',
   'Current direction': 'Physical',
   'Current speed': 'Physical',
+  Cyanate: 'Not Assigned',
   Cyanazine: 'Organics, Pesticide',
   'Cyanazine acid': 'Not Assigned',
   'Cyanazine-amide': 'Organics, Pesticide',
@@ -15697,6 +15716,7 @@ export default {
   "Cyanic acid, C,C'-[[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]di-4,1-phenylene] ester, homopolymer":
     'PFAS,Perfluorinated Alkyl Substance',
   Cyanide: 'Inorganics, Minor, Non-metals',
+  'Cyanide + Thiocyanate': 'Not Assigned',
   'Cyanide, available': 'Not Assigned',
   Cyanides: 'Not Assigned',
   'Cyanides amenable to chlorination (HCN & CN)': 'Not Assigned',
@@ -15706,6 +15726,7 @@ export default {
   'Cyanobacterial abundance from a phycoerythrin sensor (PE)': 'Not Assigned',
   'Cyanogen bromide': 'Not Assigned',
   'Cyanogen chloride': 'Not Assigned',
+  Cyanophos: 'Not Assigned',
   Cyantraniliprole: 'Organics, Pesticide',
   Cyazofamid: 'Not Assigned',
   Cyclamate: 'Not Assigned',
@@ -16202,6 +16223,7 @@ export default {
   Desmethyldiltiazem: 'Not Assigned',
   Desmethylnorflurazon: 'Organics, Pesticide',
   Desmethylvenlafaxine: 'Organics, Other',
+  Desmetryn: 'Not Assigned',
   Desmosterol: 'Not Assigned',
   'Desnitro-imidacloprid': 'Not Assigned',
   'Desnitro-imidacloprid, recoverable': 'Not Assigned',
@@ -16331,6 +16353,7 @@ export default {
   Dicapthon: 'Organics, Pesticide',
   Dichlobenil: 'Organics, Pesticide',
   Dichlofenthion: 'PFOA, Perfluorooctanoic Acid',
+  Dichlofluanid: 'Not Assigned',
   Dichlone: 'Organics, Pesticide',
   Dichloran: 'Organics, Pesticide',
   Dichlormid: 'Not Assigned',
@@ -16355,6 +16378,7 @@ export default {
   Dichlorobromomethane: 'Organics, Other',
   Dichlorobutane: 'Not Assigned',
   Dichlorobutene: 'Not Assigned',
+  'Dichlorodehydroabietic acid': 'Not Assigned',
   Dichlorodifluoromethane: 'Organics, Other',
   Dichlorodimethylmethoxybenzene: 'Not Assigned',
   Dichloroethane: 'Not Assigned',
@@ -16503,6 +16527,7 @@ export default {
   'Dihydroabietylamine acetate': 'Organics, Pesticide',
   Dihydrocholesterol: 'Not Assigned',
   Dihydrocodeine: 'Not Assigned',
+  'Dihydroisopimaric acid': 'Not Assigned',
   Dihydromorphine: 'Organics, Other',
   Dihydrosafrole: 'Not Assigned',
   Dihydrotestosterone: 'PFOA, Perfluorooctanoic Acid',
@@ -16788,6 +16813,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Eicosane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18-heptatriacontafluoro-20-iodo-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Eicosanoic acid': 'Not Assigned',
   'Eicosanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20,20-nonatriacontafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Eicosapentaenoic acid': 'Not Assigned',
@@ -17743,6 +17769,7 @@ export default {
   'Fluorene,2,4A-Dihydro-': 'Not Assigned',
   'Fluorene-d10': 'Not Assigned',
   Fluorescein: 'Not Assigned',
+  'Fluorescence index': 'Not Assigned',
   'Fluorescent dissolved organic matter (FDOM)': '',
   Fluoride: 'Inorganics, Major, Non-metals',
   'Fluorinated triethylene glycol monomethyl ether':
@@ -18813,6 +18840,7 @@ export default {
   'Jasmolin II': 'Not Assigned',
   'Jet Fuel A': 'Not Assigned',
   'Jet propulsion fuel - 4': 'Not Assigned',
+  Jodfenphos: 'Not Assigned',
   Kaolin: 'Not Assigned',
   Karbutilate: 'Not Assigned',
   Kerosene: 'PFOA, Perfluorooctanoic Acid',
@@ -19039,6 +19067,7 @@ export default {
   'Light, underwater incident + reflected': 'Physical',
   'Light, underwater reflected': 'Physical',
   Lignin: 'Organics, Other',
+  'Lignoceric Acid': 'Not Assigned',
   'Lignosulfonic acid': 'Not Assigned',
   'Lime (chemical), dolomitic': 'Inorganics, Major, Metals',
   Limonene: 'Organics, Other',
@@ -19743,6 +19772,7 @@ export default {
   'Mono(2-ethylhexyl) adipate': 'Not Assigned',
   Monobutyltin: 'Organics, Other',
   Monochlorobiphenyl: 'Not Assigned',
+  'Monochlorodehydroabietic acid': 'Not Assigned',
   'Monocot plant type present (Y/N) (choice list)': 'Information',
   Monocrotaline: 'Organics, Other',
   'Monocrotaline N-oxide': 'Organics, Other',
@@ -20543,6 +20573,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Nonadecane, 9-[(1,1,2,2-tetrafluoroethoxy)methyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Nonadecanoic acid': 'Not Assigned',
   'Nonafluoro(nitroso)cyclopentane': 'PFAS,Perfluorinated Alkyl Substance',
   'Nonafluoro(trifluoromethoxy)cyclopentane':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -21374,7 +21405,9 @@ export default {
   'Particle size, 3/4 inch (19.0mm)': 'Physical',
   'Particle size, 3/8 inch (9.525mm)': 'Physical',
   'Particle size, 3/8 inch (9.5mm)': 'Physical',
+  'Particle size, 30 mesh, (0.59 mm)': 'Not Assigned',
   'Particle size, 5/16 inch (8.0mm)': 'Physical',
+  'Particle size, 50 mesh, (0.297 mm)': 'Not Assigned',
   'Particle size, Hydrometer (.008 mm)': 'Physical',
   'Particle size, Hydrometer (.011 mm)': 'Physical',
   'Particle size, Hydrometer (.015 mm)': 'Physical',
@@ -22164,6 +22197,7 @@ export default {
   'Phenol dehydroabietylamine salt': 'Not Assigned',
   "Phenol, 2,2'-[(1R,2R)-1,2-cyclohexanediylbis[(E)-nitrilomethylidyne]]bis[6-(1,1-dimethylethyl)-4-(heptadecafluorooctyl)-":
     'PFAS,Perfluorinated Alkyl Substance',
+  'Phenol, 2,3-dichloro-6-methoxy-': 'Not Assigned',
   'Phenol, 2,4-bis(1,1-dimethylethyl)-6-methyl-': 'Not Assigned',
   'Phenol, 2,4-bis(1,1-dimethylpropyl)-': 'Not Assigned',
   'Phenol, 2,6-dibromo-': 'Not Assigned',
@@ -22233,6 +22267,7 @@ export default {
   'Phenol, 4-chloro-2-methoxy-': 'Not Assigned',
   'Phenol, 5-bromo-2-(1,1,2,2-tetrafluoroethoxy)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Phenol, dibromo-': 'Not Assigned',
   'Phenol-D6': 'Organics, Other',
   'Phenol-d5': 'Organics, Other',
   Phenolics: 'Not Assigned',
@@ -22538,6 +22573,7 @@ export default {
   'Piperonyl Sulfoxide': 'Not Assigned',
   'Piperonyl butoxide': 'Organics, Pesticide',
   Pirimicarb: 'Not Assigned',
+  'Pirimiphos-ethyl': 'Not Assigned',
   'Pirimiphos-methyl': 'Organics, Pesticide',
   Piroxicam: 'Not Assigned',
   Piscicola: 'Not Assigned',
@@ -23927,6 +23963,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   Quetiapine: 'Not Assigned',
   'Quetiapine fumarate': 'Organics, Other',
+  Quinalphos: 'Not Assigned',
   'Quinazoline, 1,4-dihydro-1-hydroxy-2-phenyl-4,4-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Quinazoline, 1-ethyl-1,4-dihydro-2,4,4-tris(trifluoromethyl)-':
@@ -24395,6 +24432,7 @@ export default {
   'Selenium-82': 'Stable Isotopes',
   Selenocyanate: 'Not Assigned',
   Selenomethionine: 'Not Assigned',
+  Selenosulfate: 'Not Assigned',
   Senecella: 'Not Assigned',
   Senecionine: 'Organics, Other',
   'Senecionine N-oxide': 'Organics, Other',
@@ -24858,6 +24896,7 @@ export default {
   'Specific conductivity': 'Physical',
   'Specific drawdown capacity': 'Physical',
   'Specific gravity': 'Physical',
+  'Spectral slope ratio': 'Not Assigned',
   Sphaerodoridae: 'Not Assigned',
   Sphaeroma: 'Not Assigned',
   Sphaeromatidae: 'Not Assigned',
@@ -25410,6 +25449,7 @@ export default {
   'Tetraethyl pyrophosphate': 'Organics, Pesticide',
   'Tetraethylammonium perfluoroisooctanesulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Tetraethylene glycol': 'Not Assigned',
   'Tetraethylene glycol monotetradecyl ether': 'Not Assigned',
   Tetraethyllead: 'Not Assigned',
   'Tetrafluoro(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-lambda~5~-phosphane':
@@ -25612,6 +25652,7 @@ export default {
   'Toluic acid': 'Not Assigned',
   Toluidine: 'Not Assigned',
   'Tolyl triazole': 'Not Assigned',
+  Tolylfluanid: 'Not Assigned',
   Tomopteridae: 'Not Assigned',
   Tonalide: 'Not Assigned',
   'Top of bank cross-sectional area': 'Physical',
@@ -26225,6 +26266,7 @@ export default {
   'Uranium-233/234': 'Radiochemical',
   'Uranium-234': 'Radiochemical',
   'Uranium-234/235/238': 'Radiochemical',
+  'Uranium-234/Uranium-238 ratio': 'Not Assigned',
   'Uranium-235': 'Radiochemical',
   'Uranium-236': 'Radiochemical',
   'Uranium-238': 'Radiochemical',

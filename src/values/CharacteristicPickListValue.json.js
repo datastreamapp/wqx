@@ -335,7 +335,7 @@ export default {
     'Soil Color Change after Exposure to Air (Y/N) (choicelist)',
     'Saturated/Noncohesive soils (Y/N) (choicelist)',
     'Impermeable Layer Present (Y/N) (choicelist)',
-    'Conditions Preventing Sampling',
+    'Monocot plant type present (Y/N) (choice list)',
     'Sludge (choice list)',
     'Unnatural bottom deposits (choice list)',
     'Unnatural oil (choice list)',

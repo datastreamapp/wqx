@@ -57,7 +57,7 @@ export default {
     'MD DNR',
     'MI DEQ SURFACE WATER',
     'MICROLOGY LABS',
-    'MODERN WATER',
+    'MODERN WATER***retired***use MWI',
     'MODIFIED COLITAG',
     'MWI',
     'NCASI',
@@ -113,5 +113,5 @@ export default {
     'WEST INC',
     'YSI'
   ],
-  maxLength: 20
+  maxLength: 32
 }

@@ -8,19 +8,41 @@
           "Ammonia-nitrogen",
           "Ammonium",
           "Ammonium nitrate",
+          "Argon-38/Argon-36 ratio",
+          "Argon-40/Argon-36 ratio",
+          "Carbon Delta 13",
+          "Carbon-13/Carbon-12 ratio",
+          "Deuterium",
+          "Deuterium, delta",
+          "Deuterium/Hydrogen ratio",
+          "Helium-3/helium-4 ratio",
           "Inorganic nitrogen (NO2, NO3, & NH3)",
           "Inorganic nitrogen (ammonia, nitrate and nitrite)",
           "Inorganic nitrogen (nitrate and nitrite)",
           "Kjeldahl nitrogen",
+          "Krypton-78/Krypton-84 ratio",
+          "Krypton-80/Krypton-84 ratio",
+          "Krypton-82/Krypton-84 ratio",
+          "Krypton-83/Krypton-84 ratio",
+          "Krypton-86/Krypton-84 ratio",
+          "Lithium-7/Lithium-6 ratio",
+          "Neon-20/Neon-22 ratio",
+          "Neon-21/Neon-22 ratio",
           "Nitrate",
           "Nitrate + Nitrite",
           "Nitrite",
           "Nitrogen",
+          "Nitrogen Delta 15",
           "Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",
+          "Nitrogen-15",
+          "Nitrogen-15/14 ratio",
           "Nutrient-nitrogen",
           "Organic Nitrogen",
           "Organic phosphorus",
           "Orthophosphate",
+          "Oxygen 18/oxygen 16 ratio in sulfate",
+          "Oxygen Delta 18",
+          "Oxygen-18/Oxygen-16 ratio",
           "Phosphate-phosphorus",
           "Phosphorus",
           "Phosphorus, Particulate Organic",
@@ -28,22 +50,39 @@
           "Polyphosphate",
           "Radium",
           "Soluble Reactive Phosphorus (SRP)",
+          "Strontium-87/Strontium-86, ratio",
+          "Sulfur-32",
+          "Sulfur-34",
+          "Sulfur-34/Sulfur-32 ratio",
+          "Sulfur-35",
           "Total Kjeldahl nitrogen",
           "Total Kjeldahl nitrogen (Organic N & NH3)",
           "Total Nitrogen, mixed forms",
           "Total Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",
           "Total Particulate Phosphorus",
-          "Total Phosphorus, mixed forms"
+          "Total Phosphorus, mixed forms",
+          "Uranium 238/234 ratio",
+          "Uranium-234/Uranium-238 ratio",
+          "Xenon-124/Xenon-132 ratio",
+          "Xenon-126/Xenon-132 ratio",
+          "Xenon-128/Xenon-132 ratio",
+          "Xenon-129/Xenon-132 ratio",
+          "Xenon-130/Xenon-132 ratio",
+          "Xenon-131/Xenon-132 ratio",
+          "Xenon-134/Xenon-132 ratio",
+          "Xenon-136/Xenon-132 ratio",
+          "delta Chromium-53/chromium-52 analytical uncertainty",
+          "delta carbon-13/carbon-12",
+          "delta chromium-53/chromium-52",
+          "delta helium-3/helium-4",
+          "delta helium-3/helium-4 error",
+          "delta strontium-88/strontium-86"
         ]
       }
     },
-    "required": [
-      "CharacteristicName"
-    ]
+    "required": ["CharacteristicName"]
   },
   "then": {
-    "required": [
-      "MethodSpeciation"
-    ]
+    "required": ["MethodSpeciation"]
   }
 }

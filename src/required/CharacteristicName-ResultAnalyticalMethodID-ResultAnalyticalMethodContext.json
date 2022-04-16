@@ -513,7 +513,7 @@
           "DCPA mono-acid degradate",
           "Dacthal Acid Metabolites",
           "Dalapon",
-          "Decabromodiphenyl ether",
+          "Decabromodiphenyl ether***retired***use Decabromodiphenyl oxide",
           "Decachlorobiphenyl",
           "Decanal",
           "Dehydronifedipine",
@@ -988,14 +988,9 @@
         ]
       }
     },
-    "required": [
-      "CharacteristicName"
-    ]
+    "required": ["CharacteristicName"]
   },
   "then": {
-    "required": [
-      "ResultAnalyticalMethodID",
-      "ResultAnalyticalMethodContext"
-    ]
+    "required": ["ResultAnalyticalMethodID", "ResultAnalyticalMethodContext"]
   }
 }
