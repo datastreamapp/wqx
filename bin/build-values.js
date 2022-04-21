@@ -1,6 +1,7 @@
 import { readFile, writeFile } from 'fs/promises'
 import { xml2js } from 'xml-js'
 import { capitalCase } from 'change-case'
+
 console.log('Parsing WQX All Domain Values XML ...')
 
 const run = async () => {
@@ -51,6 +52,7 @@ const run = async () => {
     }
     const group = {}
     const characteristicCASNumber = {}
+    const descriptions = {}
 
     const required = {}
     const deprecated = []
@@ -148,6 +150,11 @@ const run = async () => {
       } else {
         jsonSchema[field].enum.push(value)
       }
+
+      // Descriptions
+      if (Object.keys(rowObj).includes('Description')) {
+        descriptions[value] = rowObj.Description
+      }
     }
 
     console.log('Save', field)
@@ -212,6 +219,19 @@ const run = async () => {
           '-'
         )}.json.js`,
         'export default ' + JSON.stringify(required[col], null, 2),
+        'utf8'
+      )
+    }
+
+    if (Object.keys(descriptions).length) {
+      await writeFile(
+        `./src/descriptions/${field}.json`,
+        JSON.stringify(descriptions, null, 2),
+        'utf8'
+      )
+      await writeFile(
+        `./src/descriptions/${field}.json.js`,
+        'export default ' + JSON.stringify(descriptions, null, 2),
         'utf8'
       )
     }
