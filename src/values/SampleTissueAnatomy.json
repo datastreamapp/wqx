@@ -99,6 +99,7 @@
     "Whole Bird, Feathers, Skin On",
     "Whole Fish, Homog., Skin Off",
     "Whole Fish, Homog., Skin On",
+    "Whole Fish, No Stomach Contents",
     "Whole Fish,Alimentary Tract",
     "Whole Fish,BeheadGutted,SkinOn",
     "Whole Fish,BeheadGuttedSkinOff",
@@ -107,5 +108,5 @@
     "Wing",
     "Wood"
   ],
-  "maxLength": 30
+  "maxLength": 31
 }
