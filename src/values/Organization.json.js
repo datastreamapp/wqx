@@ -1152,6 +1152,7 @@ export default {
     'UC_REGION_USBOR_WQX',
     'UDAF',
     'UDWC_WQX',
+    'UH_CLEARLAKE',
     'UMC',
     'UMCRWWTF',
     'UMMP',

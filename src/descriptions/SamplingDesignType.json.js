@@ -1,0 +1,6 @@
+export default {
+  Probabilistic:
+    'Probabilistic - A probability sampling method is any method of sampling that utilizes some form of random selection. In order to have a random selection method, you must set up some process or procedure that assures that the different units in your population have equal probabilities of being chosen.',
+  Targeted:
+    'Targeted - A targeted sample is where a "sample" of the subject matter, be that people, plants/animals etc is selected using certain criteria, i.e. pregnant mothers between the ages of 25-30. Targeted samples are usually used by businesses or companies carrying out surveys on a particular group of people.'
+}
