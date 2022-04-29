@@ -19769,6 +19769,7 @@ export default {
   'Mixing Height': 'Information',
   'Mixing Speed': 'Information',
   Mobam: 'Not Assigned',
+  'Mobilized, riffle (%)': 'Information',
   Modafinil: 'Organics, Other',
   'Modafinil acid': 'Organics, Other',
   'Moisture content': 'Physical',

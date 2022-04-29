@@ -12959,6 +12959,7 @@ export default {
     'Mixing Height',
     'Mixing Speed',
     'Mobam',
+    'Mobilized, riffle (%)',
     'Modafinil',
     'Modafinil acid',
     'Moisture content',

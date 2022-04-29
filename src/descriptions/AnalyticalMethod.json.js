@@ -1526,8 +1526,7 @@ export default {
   410.2: '410.2 ~ EPA-NERL ; Chemical Oxygen Demand by Titrimetry',
   410.3:
     '410.3 ~ EPA-NERL ; Chemical Oxygen Demand in Saline Waters by Titrimetry',
-  410.4:
-    '410.4 ~ EPA-ORD / EPA-OST ; Chemical oxygen demand in water by colorimetry',
+  410.4: '',
   '410_M(A)': '',
   '410_M(B)': '',
   '4110-B': '4110B ~ Standard Methods ; Anions in Water by Ion Chromatography',
@@ -1707,7 +1706,7 @@ export default {
     '4500-NO3- F ~ Standard Methods ; Nitrate by Automated Cadmium Reduction Method',
   '4500-NO3(G)': '',
   '4500-NO3(H)':
-    '4500-NO3- H ~ Standard Methods ; Nitrate by Automated Hydrazine Reduction',
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7417/',
   '4500-NO3(I)': '',
   '4500-NO3- D***retired*// 4500-NO3 D': '',
   '4500-NO3- E***retired***4500-NO3(E)': '',
@@ -1720,8 +1719,7 @@ export default {
   '4500-NORG C':
     '4500-Norg C ~ Standard Methods ; Nitrogen, organic, in Water by Semi-Micro-Kjeldahl Method',
   '4500-O-B': '',
-  '4500-O-C':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7389/',
+  '4500-O-C': '4500-O C ~ Standard Methods ; Oxygen by Azide Modification',
   '4500-O-D': '',
   '4500-O-E': '',
   '4500-O-F': '',
