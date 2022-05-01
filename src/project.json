@@ -1,6 +1,6 @@
 {
   "$id": "https://epa.gov/wqx/project.json",
-  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema#",
   "title": "Projects",
   "description": "WQX Web Projects",
   "type": "object",
@@ -31,8 +31,5 @@
       "$ref": "./definitions.json#/ProjectAttachmentType"
     }
   },
-  "required": [
-    "Project ID",
-    "Project Name"
-  ]
+  "required": ["Project ID", "Project Name"]
 }
