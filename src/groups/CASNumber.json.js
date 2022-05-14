@@ -3084,6 +3084,7 @@ export default {
   '1-Decyn-4-ol, 5,5,6,6,7,7,8,8,9,9,10,10-dodecafluoro-': '124612-86-8',
   '1-Diaziridineethanamine, N,2-dimethyl-3,3-bis(trifluoromethyl)-, hydrochloride (1:1)':
     '106036-82-2',
+  '1-Docosanol': '661-19-8',
   '1-Dodecanaminium, N-(carboxymethyl)-3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-eicosafluoro-N,N-dimethyl-, inner salt':
     '171184-04-6',
   '1-Dodecanaminium, N-(carboxymethyl)-4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-nonadecafluoro-N,N-dimethyl-, inner salt':
@@ -7527,6 +7528,7 @@ export default {
     '88461-16-9',
   '2-Quinolineethanol, 6-(dimethylamino)-.alpha.,.alpha.-bis(trifluoromethyl)-':
     '102259-70-1',
+  '2-Tetradecene, (E)-': '35953-53-8',
   '2-Thiophenecarboxylic acid': '527-72-0',
   '2-Thiophenemethanol, .alpha.-[3,3,3-trifluoro-2-(trifluoromethyl)-1-propen-1-yl]-':
     '100482-55-1',
@@ -8420,6 +8422,7 @@ export default {
   '3-Chlorobiphenyl': '2051-61-8',
   '3-Chloromethoxy triclosan': '',
   '3-Chlorophenyl 4-nitrophenyl ether': '2303-23-3',
+  '3-Chloropropionic acid, dodecyl ester': '74316-16-8',
   '3-Chloropropionitrile': '542-76-7',
   '3-Cyclohexene-1-carboxylic acid': '4771-80-6',
   '3-Cyclohexene-1-carboxylic acid, 6-[(di-2-propen-1-ylamino)carbonyl]-, sodium salt (1:1), (1R,6R)-rel-, reaction product':
@@ -9950,6 +9953,7 @@ export default {
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
     '23068-06-6',
+  '9-Eicosene, (E)-': '74685-29-3',
   '9-Fluorenone': '486-25-9',
   '9-Fluorenone-d8': '',
   '9-H-Perfluorononanoic acid': '76-21-1',
@@ -9971,6 +9975,7 @@ export default {
     '185630-90-4',
   '9-Octadecenoic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester': '',
   '9-[(4,4,5,5,5-Pentafluoropentyl)sulfanyl]nonan-1-ol': '511545-94-1',
+  '9-aminoacridine': '90-45-9',
   '9-chlorohexadecafluoro-3-oxanone-1-sulfonic acid': '756426-58-1',
   '9-ethyl-9-borabicyclo[3.3.1]nonane': '52102-17-7',
   '9-n-Dodecyl[tetradecahydroanthracene]': '55401-75-7',
@@ -11666,6 +11671,7 @@ export default {
   'Benzo[b,j]fluoranthene': '',
   'Benzo[b,k]fluoranthene': '',
   'Benzo[b]chrysene': '',
+  'Benzo[b]fluoranthene': '205-99-2',
   'Benzo[b]fluoranthene, mixt with benzo[j]fluoranthene and benzo[k]fluoranthene':
     '',
   'Benzo[b]naphtho[2,1-d]thiophene': '239-35-0',
@@ -15389,6 +15395,7 @@ export default {
   'Heptafluorobutanoic acid-piperazine (1:1)': '375-04-2',
   'Heptafluorobutyric acid': '375-22-4',
   'Heptafluorobutyric acid hexadecyl ester': '6385-15-5',
+  'Heptafluorobutyric acid, n-pentade': '1000216-79-3',
   Heptafluoroethanamine: '354-80-3',
   'Heptafluoroisopropyl acrylate': '13057-08-4',
   'Heptafluoropropan-2-ol': '24427-67-6',
@@ -17364,6 +17371,7 @@ export default {
   'Naproxen-d3-13C1': '',
   Naptalam: '132-66-1',
   Narasin: '',
+  'Natural Gasoline': '8006-61-9',
   'Natural channel (%)': '',
   'Near bank stress': '',
   'Nearest Buoy Identifier (text)': '',
@@ -18374,6 +18382,7 @@ export default {
   'Pentadecafluorooctyl chloride': '335-64-8',
   Pentadecane: '629-62-9',
   'Pentadecane, 2,6,10-trimethyl-': '3892-00-0',
+  'Pentadecane, 8-hexyl-': '13475-75-7',
   'Pentadecanoic acid': '1002-84-2',
   'Pentadecanoic acid, methyl ester': '7132-64-1',
   Pentadecylbenzene: '2131-18-2',
@@ -22415,6 +22424,7 @@ export default {
   Triphenyltin: '892-20-6',
   Tripleuchlanis: '',
   'Tripropyl phosphate': '513-08-6',
+  'Tripropylene glycol monopropyl ether': '96077-04-2',
   'Tripropyltin chloride': '2279-76-7',
   Tripylidae: '',
   'Tris((perfluorohexyl)ethyl)stannane': '175354-32-2',
@@ -23027,6 +23037,7 @@ export default {
   'ethyl 2-bromo-2,3,3,3-tetrafluoropropanoate': '10186-73-9',
   'ethyl 2-ethoxy-2,3,3,3-tetrafluoropropanoate': '10186-66-0',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate': '6395-45-5',
+  'ethyl tert-butyl ether': '673-92-3',
   'gamma-Chlordane': '5566-34-7',
   'gamma-HCH (Lindane)': '58-89-9',
   'heptachlor epoxide A': '28044-83-9',
@@ -23222,6 +23233,7 @@ export default {
   'tert-Butyl formate': '762-75-4',
   'tert-Butyl heptafluorobutaneperoxoate': '91481-65-1',
   'tert-Butyl heptafluorobutanoate': '425-24-1',
+  'tert-Butyl methyl-d3 ether': '29366-08-3',
   'tert-Butyl pentafluoropropionate': '55258-28-1',
   'tert-Butyl tridecafluoroheptaneperoxoate': '83162-30-5',
   'tert-Butylbenzene': '98-06-6',

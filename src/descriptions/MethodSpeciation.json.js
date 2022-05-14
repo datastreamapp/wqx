@@ -1,5 +1,7 @@
 export default {
   None: 'None',
+  'as %CaCO3':
+    'PERCENT Calcium carbonate is a common substance found in rocks in all parts of the world, and is the main component of shells of marine organisms, snails, coal balls, pearls, and eggshells. It is the active ingredient in agricultural lime, and is created when Ca ions in hard water react with carbonate ions creating limescale.',
   'as ANC':
     "acid neutralizing capacity is a measure for the overall buffering capacity against acidification for a solution, e.g. surface water or soil water.\r\nANC is defined dynamically as the amount of acid needed to change the pH value from the sample's value to a chosen different value.",
   'as Al':

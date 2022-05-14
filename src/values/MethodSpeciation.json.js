@@ -5,6 +5,7 @@ export default {
   type: 'string',
   enum: [
     'None',
+    'as %CaCO3',
     'as ANC',
     'as Al',
     'as As',

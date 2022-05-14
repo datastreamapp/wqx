@@ -2803,6 +2803,7 @@ export default {
   '1-Decyn-4-ol, 5,5,6,6,7,7,8,8,9,9,10,10-dodecafluoro-': '',
   '1-Diaziridineethanamine, N,2-dimethyl-3,3-bis(trifluoromethyl)-, hydrochloride (1:1)':
     '',
+  '1-Docosanol': '',
   '1-Dodecanaminium, N-(carboxymethyl)-3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-eicosafluoro-N,N-dimethyl-, inner salt':
     '',
   '1-Dodecanaminium, N-(carboxymethyl)-4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-nonadecafluoro-N,N-dimethyl-, inner salt':
@@ -7184,6 +7185,7 @@ export default {
     '',
   '2-Quinolineethanol, 6-(dimethylamino)-.alpha.,.alpha.-bis(trifluoromethyl)-':
     '',
+  '2-Tetradecene, (E)-': '',
   '2-Thiophenecarboxylic acid': '; Request Date: 02-MAR-07',
   '2-Thiophenemethanol, .alpha.-[3,3,3-trifluoro-2-(trifluoromethyl)-1-propen-1-yl]-':
     '',
@@ -7998,6 +8000,7 @@ export default {
   '3-Chlorobiphenyl': 'Nemi.gov; Request Date: 02-MAR-07',
   '3-Chloromethoxy triclosan': 'NWIS',
   '3-Chlorophenyl 4-nitrophenyl ether': 'Nemi.gov; Request Date: 24-SEP-19',
+  '3-Chloropropionic acid, dodecyl ester': '',
   '3-Chloropropionitrile': 'Nemi.gov; Request Date: 25-SEP-19',
   '3-Cyclohexene-1-carboxylic acid': '; Request Date: 02-MAR-07',
   '3-Cyclohexene-1-carboxylic acid, 6-[(di-2-propen-1-ylamino)carbonyl]-, sodium salt (1:1), (1R,6R)-rel-, reaction product':
@@ -9412,6 +9415,7 @@ export default {
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
     '',
+  '9-Eicosene, (E)-': '',
   '9-Fluorenone': '',
   '9-Fluorenone-d8': 'NWIS',
   '9-H-Perfluorononanoic acid': '',
@@ -9434,6 +9438,7 @@ export default {
     '',
   '9-Octadecenoic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester': '',
   '9-[(4,4,5,5,5-Pentafluoropentyl)sulfanyl]nonan-1-ol': '',
+  '9-aminoacridine': '',
   '9-chlorohexadecafluoro-3-oxanone-1-sulfonic acid':
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   '9-ethyl-9-borabicyclo[3.3.1]nonane': '; Request Date: 21-NOV-14',
@@ -9769,7 +9774,8 @@ export default {
   'Acid - Base Potential': '; Request Date: 02-MAR-07',
   'Acid Generation Potential':
     'The oxidation of sulfide minerals.; Request Date: 02-MAR-07',
-  'Acid Neutralization Potential  as CaCO3 As %CaCO3': 'NWIS',
+  'Acid Neutralization Potential  as CaCO3 As %CaCO3***retired*** use Acid Neutralization Potential as CaCO3':
+    'NWIS characteristic is Acid Neutralization Potential as CaCO3  and speciation = as %CaCO3',
   'Acid Neutralization Potential Acidity (ANPA)':
     'The measure of the mineral acidity plus the acidity resulting from hydrolysis of polyvalent cations of iron and aluminum.; Request Date: 02-MAR-07',
   'Acid Neutralization Potential as CaCO3': '; Request Date: 02-MAR-07',
@@ -11227,6 +11233,7 @@ export default {
   'Benzo[b,k]fluoranthene': '; Request Date: 22-OCT-14',
   'Benzo[b]chrysene':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  'Benzo[b]fluoranthene': '',
   'Benzo[b]fluoranthene, mixt with benzo[j]fluoranthene and benzo[k]fluoranthene':
     '',
   'Benzo[b]naphtho[2,1-d]thiophene': '; Request Date: 24-MAR-14',
@@ -15150,6 +15157,7 @@ export default {
   'Heptafluorobutanoic acid-piperazine (1:1)': '',
   'Heptafluorobutyric acid': 'Request Date: 21-OCT-08',
   'Heptafluorobutyric acid hexadecyl ester': '',
+  'Heptafluorobutyric acid, n-pentade': '',
   Heptafluoroethanamine: '',
   'Heptafluoroisopropyl acrylate': '',
   'Heptafluoropropan-2-ol': '',
@@ -17167,6 +17175,7 @@ export default {
   'Naproxen-d3-13C1': 'NWIS',
   Naptalam: '; Request Date: 14-APR-15',
   Narasin: 'NWIS',
+  'Natural Gasoline': '',
   'Natural channel (%)': '',
   'Near bank stress': '',
   'Nearest Buoy Identifier (text)': '',
@@ -17407,7 +17416,7 @@ export default {
   'Number of seeds with worm holes': '; Request Date: 24-JUL-15',
   'Number of stalks per sample plant': '; Request Date: 24-JUL-15',
   'Number of valves': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
-  'Nutrient-nitrogen':
+  'Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N':
     'The nitrogen that may be utilized by organisms for growth and sustainability.EPA Workgroup QA; Request Date: 02-MAR-07',
   'Nylon deterioration': '',
   'N~1~,N~1~,N~5~,N~5~-Tetrakis(2-chloroethyl)-2,2,3,3,4,4-hexafluoropentane-1,5-diamine--hydrogen chloride (1/1)':
@@ -18282,6 +18291,7 @@ export default {
   'Pentadecafluorooctyl chloride': '',
   Pentadecane: '; Request Date: 02-MAR-07',
   'Pentadecane, 2,6,10-trimethyl-': '; Request Date: 26-JAN-18',
+  'Pentadecane, 8-hexyl-': '',
   'Pentadecanoic acid': '; Request Date: 02-MAR-07',
   'Pentadecanoic acid, methyl ester': '; Request Date: 02-MAR-07',
   Pentadecylbenzene: '; Request Date: 02-MAR-07',
@@ -22168,8 +22178,8 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Total Particulate Nitrogen': 'EPA Workgroup QA; Request Date: 07-MAR-13',
   'Total Particulate Organic Carbon': '; Request Date: 07-MAR-13',
-  'Total Particulate Organic Nitrogen':
-    'EPA Workgroup QA; Request Date: 11-AUG-15',
+  'Total Particulate Organic Nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N and fraction SUSPENDED':
+    'EPA Workgroup QA; TOTAL NITROGEN, MIXED FORMS with speciation AS N and sample fraction SUSPENDED; Request Date: 11-AUG-15',
   'Total Particulate Phosphorus':
     'EPA WorkGroup QA - Total Phosphorus, mixed forms (LsP+FeP+CaP+InOrgP+OrgP); Request Date: 22-JUL-15',
   'Total Pentachloro Biphenyls': '; Request Date: 19-MAY-10',
@@ -22537,6 +22547,7 @@ export default {
   Triphenyltin: '',
   Tripleuchlanis: 'NWIS',
   'Tripropyl phosphate': '',
+  'Tripropylene glycol monopropyl ether': '',
   'Tripropyltin chloride': '; Request Date: 01-MAY-14',
   Tripylidae: 'NWIS',
   'Tris((perfluorohexyl)ethyl)stannane': '',
@@ -23168,6 +23179,7 @@ export default {
   'ethyl 2-bromo-2,3,3,3-tetrafluoropropanoate': '',
   'ethyl 2-ethoxy-2,3,3,3-tetrafluoropropanoate': '',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate': '',
+  'ethyl tert-butyl ether': '',
   'gamma-Chlordane***retired***use 2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene':
     'Request Date: 11-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)',
   'gamma-HCH (Lindane)':
@@ -23345,9 +23357,10 @@ export default {
   'p-tert-butyl toluene': '',
   pH: 'is the abbreviation for “potential hydrogen” and the reading indicates the concentration of hydrogen ions in the water. Basically, it is the measure of how acidic or basic (alkaline) the water is.;Nemi.gov; Request Date: 02-MAR-07',
   'pH Saturated Paste': '; Request Date: 25-MAR-11',
-  'pH, lab':
+  'pH, lab***retired***use pH':
     'pH measured at laboratory.   WQX equivalent is Characteristic = pH and Activity Type= Routine sample; Request Date: 08-MAR-16',
-  'pH, saturated': '',
+  'pH, saturated***retired***use pH':
+    'pH measured at saturated.   WQX equivalent is Characteristic = pH and Activity Type= Routine sample; Request Date: 12-APR-21',
   'perfluorooctyl methacrylate': '',
   'phosphatase (corrected for carbon content)': '; Request Date: 24-NOV-09',
   'psi,psi-Carotene, 7,7,8,8,11,11,12,12,15,15-decahydro-':
@@ -23381,6 +23394,7 @@ export default {
   'tert-Butyl formate': '; Request Date: 08-AUG-11',
   'tert-Butyl heptafluorobutaneperoxoate': '',
   'tert-Butyl heptafluorobutanoate': '',
+  'tert-Butyl methyl-d3 ether': '',
   'tert-Butyl pentafluoropropionate': '',
   'tert-Butyl tridecafluoroheptaneperoxoate': '',
   'tert-Butylbenzene': 'Nemi.gov; Request Date: 02-MAR-07',

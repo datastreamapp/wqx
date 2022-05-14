@@ -1307,7 +1307,7 @@
           "Norethisterone",
           "Norethynodrel",
           "Nortriptyline",
-          "Nutrient-nitrogen",
+          "Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N",
           "O,O,O-Triethyl phosphorothioate",
           "O-(2,4-Dichlorophenyl) O-methyl isopropylphosphoramidothioate",
           "O-Ethyl O-(p-nitrophenyl) phenylphosphonothioate",
@@ -1814,13 +1814,9 @@
         ]
       }
     },
-    "required": [
-      "CharacteristicName"
-    ]
+    "required": ["CharacteristicName"]
   },
   "then": {
-    "required": [
-      "ResultSampleFraction"
-    ]
+    "required": ["ResultSampleFraction"]
   }
 }

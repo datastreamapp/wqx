@@ -1092,6 +1092,7 @@ export default {
     'SUMFS',
     'SUNENCO',
     'SUQUAMISH',
+    'SVR',
     'SWFMDDEP_WQX',
     'SWINOMISH',
     'SWO_OEP',

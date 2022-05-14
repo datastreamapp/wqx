@@ -3877,6 +3877,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Diaziridineethanamine, N,2-dimethyl-3,3-bis(trifluoromethyl)-, hydrochloride (1:1)':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1-Docosanol': 'Not Assigned',
   '1-Dodecanaminium, N-(carboxymethyl)-3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-eicosafluoro-N,N-dimethyl-, inner salt':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Dodecanaminium, N-(carboxymethyl)-4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-nonadecafluoro-N,N-dimethyl-, inner salt':
@@ -9097,6 +9098,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Quinolineethanol, 6-(dimethylamino)-.alpha.,.alpha.-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2-Tetradecene, (E)-': 'Not Assigned',
   '2-Thiophenecarboxylic acid': 'Not Assigned',
   '2-Thiophenemethanol, .alpha.-[3,3,3-trifluoro-2-(trifluoromethyl)-1-propen-1-yl]-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -10235,6 +10237,7 @@ export default {
   '3-Chlorobiphenyl': 'Organics, PCBs',
   '3-Chloromethoxy triclosan': 'Not Assigned',
   '3-Chlorophenyl 4-nitrophenyl ether': 'Not Assigned',
+  '3-Chloropropionic acid, dodecyl ester': 'Not Assigned',
   '3-Chloropropionitrile': 'Not Assigned',
   '3-Cyclohexene-1-carboxylic acid': 'Not Assigned',
   '3-Cyclohexene-1-carboxylic acid, 6-[(di-2-propen-1-ylamino)carbonyl]-, sodium salt (1:1), (1R,6R)-rel-, reaction product':
@@ -12190,6 +12193,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
     'PFAS,Perfluorinated Alkyl Substance',
+  '9-Eicosene, (E)-': 'Not Assigned',
   '9-Fluorenone': 'Not Assigned',
   '9-Fluorenone-d8': 'Not Assigned',
   '9-H-Perfluorononanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
@@ -12214,6 +12218,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '9-[(4,4,5,5,5-Pentafluoropentyl)sulfanyl]nonan-1-ol':
     'PFAS,Perfluorinated Alkyl Substance',
+  '9-aminoacridine': 'Not Assigned',
   '9-chlorohexadecafluoro-3-oxanone-1-sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '9-ethyl-9-borabicyclo[3.3.1]nonane': 'Not Assigned',
@@ -14090,6 +14095,7 @@ export default {
   'Benzo[b,j]fluoranthene': 'Organics, Other',
   'Benzo[b,k]fluoranthene': 'Organics, Other',
   'Benzo[b]chrysene': 'Organics, PCBs',
+  'Benzo[b]fluoranthene': 'Not Assigned',
   'Benzo[b]fluoranthene, mixt with benzo[j]fluoranthene and benzo[k]fluoranthene':
     'Organics, Other',
   'Benzo[b]naphtho[2,1-d]thiophene': 'Not Assigned',
@@ -18222,6 +18228,7 @@ export default {
   'Heptafluorobutyric acid': 'PFAS,Perfluorinated Alkyl Substance',
   'Heptafluorobutyric acid hexadecyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Heptafluorobutyric acid, n-pentade': 'Not Assigned',
   Heptafluoroethanamine: 'PFAS,Perfluorinated Alkyl Substance',
   'Heptafluoroisopropyl acrylate': 'PFAS,Perfluorinated Alkyl Substance',
   'Heptafluoropropan-2-ol': 'PFAS,Perfluorinated Alkyl Substance',
@@ -20471,6 +20478,7 @@ export default {
   'Naproxen-d3-13C1': 'Not Assigned',
   Naptalam: 'Not Assigned',
   Narasin: 'Not Assigned',
+  'Natural Gasoline': 'Not Assigned',
   'Natural channel (%)': 'Not Assigned',
   'Near bank stress': 'Physical',
   'Nearest Buoy Identifier (text)': 'Information',
@@ -21546,6 +21554,7 @@ export default {
   'Pentadecafluorooctyl chloride': 'PFAS,Perfluorinated Alkyl Substance',
   Pentadecane: 'Not Assigned',
   'Pentadecane, 2,6,10-trimethyl-': 'Not Assigned',
+  'Pentadecane, 8-hexyl-': 'Not Assigned',
   'Pentadecanoic acid': 'Not Assigned',
   'Pentadecanoic acid, methyl ester': 'Not Assigned',
   Pentadecylbenzene: 'Not Assigned',
@@ -26118,6 +26127,7 @@ export default {
   Triphenyltin: 'Organics, Pesticide',
   Tripleuchlanis: 'Not Assigned',
   'Tripropyl phosphate': 'Not Assigned',
+  'Tripropylene glycol monopropyl ether': 'Not Assigned',
   'Tripropyltin chloride': 'Not Assigned',
   Tripylidae: 'Not Assigned',
   'Tris((perfluorohexyl)ethyl)stannane': 'PFAS,Perfluorinated Alkyl Substance',
@@ -26799,6 +26809,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate':
     'PFAS,Perfluorinated Alkyl Substance',
+  'ethyl tert-butyl ether': 'Not Assigned',
   'gamma-Chlordane': 'Organics, Pesticide',
   'gamma-HCH (Lindane)': 'PFOA, Perfluorooctanoic Acid',
   'heptachlor epoxide A': 'Not Assigned',
@@ -27005,6 +27016,7 @@ export default {
   'tert-Butyl heptafluorobutaneperoxoate':
     'PFAS,Perfluorinated Alkyl Substance',
   'tert-Butyl heptafluorobutanoate': 'PFAS,Perfluorinated Alkyl Substance',
+  'tert-Butyl methyl-d3 ether': 'Not Assigned',
   'tert-Butyl pentafluoropropionate': 'PFAS,Perfluorinated Alkyl Substance',
   'tert-Butyl tridecafluoroheptaneperoxoate':
     'PFAS,Perfluorinated Alkyl Substance',
