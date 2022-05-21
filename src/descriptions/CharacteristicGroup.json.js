@@ -9,6 +9,7 @@ export default {
   Microbiological: '',
   'Not Assigned': '',
   Nutrient: '',
+  'Organics, BDEs': '',
   'Organics, Other': '',
   'Organics, PCBs': '',
   'Organics, Pesticide': '',
