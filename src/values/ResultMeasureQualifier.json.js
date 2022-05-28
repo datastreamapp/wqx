@@ -214,6 +214,7 @@ export default {
     'SM',
     'SS',
     'SSR',
+    'SSRV',
     'SUS',
     'T',
     'TMLF',

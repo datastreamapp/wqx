@@ -4738,8 +4738,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Dodecanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-tetracosafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
-  '1-Dodecanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-':
-    'PFAS,Perfluorinated Alkyl Substance',
   '1-Dodecanesulfonyl chloride, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Dodecanol': 'Not Assigned',
@@ -6128,6 +6126,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '10:2 Fluorotelomer sulfonamido propyl methyl amino acetic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '10:2 Fluorotelomer sulfonic acid': 'PFAS,Perfluorinated Alkyl Substance',
   '10:2 fluorotelomer sulfinyl propanamido dimethyl ethyl sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
   '10:2/12:2 Fluorotelomer phosphate diester':
@@ -26955,6 +26954,7 @@ export default {
   Perfluoropentanesulfonate: 'PFAS,Perfluorinated Alkyl Substance',
   Perfluoropentanoate: 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoropentanoate (anionic form)': 'PFOA, Perfluorooctanoic Acid',
+  'Perfluoropentanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoropentanoic anhydride': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoropentyl hydrogen sulfate': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoroperhydrobenzyl tetralin': 'PFAS,Perfluorinated Alkyl Substance',

@@ -3674,8 +3674,6 @@ export default {
     '34455-24-8',
   '1-Dodecanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-tetracosafluoro-':
     '134615-58-0',
-  '1-Dodecanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-':
-    '120226-60-0',
   '1-Dodecanesulfonyl chloride, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-':
     '27619-91-6',
   '1-Dodecanol': '112-53-8',
@@ -4881,6 +4879,7 @@ export default {
   '10:2 Fluorotelomer sulfide (1-methanol 2-methanol) propanoate': '',
   '10:2 Fluorotelomer sulfonamido propyl amine': '',
   '10:2 Fluorotelomer sulfonamido propyl methyl amino acetic acid': '',
+  '10:2 Fluorotelomer sulfonic acid': '120226-60-0',
   '10:2 fluorotelomer sulfinyl propanamido dimethyl ethyl sulfonate': '',
   '10:2/12:2 Fluorotelomer phosphate diester': '1158182-61-6',
   '10:4 Fluorotelomer betaine': '',
@@ -22570,6 +22569,7 @@ export default {
   Perfluoropentanesulfonate: '175905-36-9',
   Perfluoropentanoate: '45167-47-3',
   'Perfluoropentanoate (anionic form)': '45167-47-3',
+  'Perfluoropentanoic acid': '',
   'Perfluoropentanoic anhydride': '308-28-1',
   'Perfluoropentyl hydrogen sulfate': '',
   'Perfluoroperhydrobenzyl tetralin': '116265-66-8',

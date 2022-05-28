@@ -209,6 +209,7 @@
   "SM": "same method (USGS)",
   "SS": "Sample size difference",
   "SSR": "Surrogate standard acceptance criteria not met",
+  "SSRV": "Surrogate or spike recovery value associated with sample analyte or analytes",
   "SUS": "Result value is defined as suspect by data owner. (HV) High variability: questionable precision and accuracy",
   "T": "Hardness by Calculation Method - Standard Methods 2340B - 19th Ed ",
   "TMLF": "Time missing in logger file.",

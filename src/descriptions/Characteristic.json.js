@@ -3355,8 +3355,6 @@ export default {
     '',
   '1-Dodecanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-tetracosafluoro-':
     '',
-  '1-Dodecanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-':
-    '',
   '1-Dodecanesulfonyl chloride, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-':
     '',
   '1-Dodecanol': '; Request Date: 02-MAR-07',
@@ -4500,6 +4498,7 @@ export default {
   '10:2 Fluorotelomer sulfide (1-methanol 2-methanol) propanoate': '',
   '10:2 Fluorotelomer sulfonamido propyl amine': '',
   '10:2 Fluorotelomer sulfonamido propyl methyl amino acetic acid': '',
+  '10:2 Fluorotelomer sulfonic acid': '',
   '10:2 fluorotelomer sulfinyl propanamido dimethyl ethyl sulfonate': '',
   '10:2/12:2 Fluorotelomer phosphate diester': '',
   '10:4 Fluorotelomer betaine': '',
@@ -22337,6 +22336,7 @@ export default {
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   Perfluoropentanoate: 'Request Date: 30-JAN-14, cas# 2706-90-3',
   'Perfluoropentanoate (anionic form)': 'Request Date: 05-Dec-19',
+  'Perfluoropentanoic acid': '',
   'Perfluoropentanoic anhydride': '',
   'Perfluoropentyl hydrogen sulfate': '',
   'Perfluoroperhydrobenzyl tetralin': '',

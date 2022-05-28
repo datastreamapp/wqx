@@ -1010,6 +1010,7 @@ export default {
   PECHANGA_WQX: 'Pechanga Band of Luiseno Indians',
   PENOBSCOTINDIANNATIONDNR: ' (Tribal)',
   PGSTNATR_WQX: ' (Tribal)',
+  PHINIZYCENTERFORWATERSCIENCES: '',
   PICAYUNERANCHERIACWA106: 'Rancheria of the Chukchansi Indians; ',
   PICEANCE_LDR: 'Piceance Basin Colorado',
   PICURIS_PUEBLO: 'Picuris Pueblo',
