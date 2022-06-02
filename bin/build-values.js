@@ -117,6 +117,11 @@ const run = async () => {
         value = value.replaceAll(' ', ' ')
       }
 
+      if (['ethyl tert-butyl ether'].includes(value)) {
+        console.log(`Fixed mixed-case duplicate: "${value}`)
+        value = 'Ethyl tert-butyl ether'
+      }
+
       if (!value) {
         console.log(field, JSON.stringify(element[r], null, 2), rowObj)
       }
