@@ -107,8 +107,13 @@ const run = async () => {
         value = rowObj.Name || rowObj.AliasName
       }
 
+      if (value !== value.trim()) {
+        console.log(`Fixed trailing whitespace: "${value}"`)
+        value = value.trim()
+      }
+
       if (value.includes(' ')) {
-        console.log(`Fixed nbsp error: "${value}"`, value)
+        console.log(`Fixed nbsp: "${value}"`)
         value = value.replaceAll(' ', ' ')
       }
 
