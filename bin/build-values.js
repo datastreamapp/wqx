@@ -107,6 +107,11 @@ const run = async () => {
         value = rowObj.Name || rowObj.AliasName
       }
 
+      if (value.includes(' ')) {
+        console.log(`Fixed nbsp error: "${value}"`, value)
+        value = value.replaceAll(' ', ' ')
+      }
+
       if (!value) {
         console.log(field, JSON.stringify(element[r], null, 2), rowObj)
       }
