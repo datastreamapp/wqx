@@ -32,17 +32,17 @@
     "Field Sample Method",
     "GADNR Invert 2007 BM",
     "GADNR Invert 2007 CM",
-    "GWPD 1-Measuring water levels ",
+    "GWPD 1-Measuring water levels",
     "GWPD 17-Conducting",
-    "GWPD 2-Identifying ",
-    "GWPD 3-Establishing ",
+    "GWPD 2-Identifying",
+    "GWPD 3-Establishing",
     "Grab Sample Method",
-    "Groundwater technical procedures ",
-    "Guidance on Systematic Planning ",
+    "Groundwater technical procedures",
+    "Guidance on Systematic Planning",
     "HBMP 2012 Multihabitat Invert",
     "HBMP Invert Multihabitat",
     "Marion Invert 1999-2001",
-    "Method to estimate discharge ",
+    "Method to estimate discharge",
     "NAWQA Algal DTH 2002 (Wade)",
     "NAWQA Algal QMH 2002 (Wade)",
     "NAWQA Algal RTH 2002 (Wade)",
@@ -110,5 +110,5 @@
     "USGS WRIR 03–4331",
     "WRIR 98-4052 RHAB"
   ],
-  "maxLength": 33
+  "maxLength": 32
 }

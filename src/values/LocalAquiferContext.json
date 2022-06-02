@@ -4,8 +4,8 @@
   "description": "",
   "type": "string",
   "enum": [
-    "00, Atlantic coast from Maine ",
-    "75, Atlantic coast from North ",
+    "00, Atlantic coast from Maine",
+    "75, Atlantic coast from North",
     "77, Gulf of Mexico",
     "96, Lake Erie",
     "Alabama",
@@ -69,5 +69,5 @@
     "Wisconsin",
     "Wyoming"
   ],
-  "maxLength": 30
+  "maxLength": 29
 }

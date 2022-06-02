@@ -11,7 +11,7 @@ export default {
     'Drought',
     'Earthquake',
     'Flood',
-    'Glacial lake outbreak ',
+    'Glacial lake outbreak',
     'Hurricane',
     'Mudflow',
     'Not Determined (historical)',

@@ -4618,7 +4618,7 @@ export default {
   '1-Propene, 1,1-dichloro-2,3,3,3-tetrafluoro-': '2804-55-9',
   '1-Propene, 1,2,3,3,3-pentafluoro-': '2252-83-7',
   '1-Propene, 1,2,3,3,3-pentafluoro-, (1E)-': '1349853',
-  '1-Propene, 1,2,3,3,3-pentafluoro-, (1Z)-  ': '5528-43-8',
+  '1-Propene, 1,2,3,3,3-pentafluoro-, (1Z)-': '5528-43-8',
   '1-Propene, 1,2,3,3,3-pentafluoro-1-(1,2,3,3,3-pentafluoroprop-1-enoxy)-':
     '3823-94-7',
   '1-Propene, 1,2,3,3,3-pentafluoro-1-(trifluoromethoxy)-': '137741-09-4',
@@ -13596,7 +13596,7 @@ export default {
     '94157-91-2',
   'Benzamide, 2,6-difluoro-N-[[[3-methyl-4-[(1,1,2,2-tetrafluoroethyl)sulfonyl]phenyl]amino]carbonyl]-':
     '100341-27-3',
-  'Benzamide, 2,6-difluoro-N-[[[3-methyl-4-[(1,1,2,2-tetrafluoroethyl)thio]phenyl]amino]carbonyl]- ':
+  'Benzamide, 2,6-difluoro-N-[[[3-methyl-4-[(1,1,2,2-tetrafluoroethyl)thio]phenyl]amino]carbonyl]-':
     '100279-14-9',
   'Benzamide, 2,6-difluoro-N-[[[4-[(1,1,2,2-tetrafluoroethyl)thio]phenyl]amino]carbonyl]-':
     '100331-08-6',
@@ -13657,7 +13657,7 @@ export default {
     '94157-92-3',
   'Benzamide, N-[[[2-bromo-4-[(1,1,2,2-tetrafluoroethyl)sulfonyl]phenyl]amino]carbonyl]-2,6-difluoro-':
     '100341-66-0',
-  'Benzamide, N-[[[2-bromo-4-[(1,1,2,2-tetrafluoroethyl)thio]phenyl]amino]carbonyl]-2,6-difluoro- ':
+  'Benzamide, N-[[[2-bromo-4-[(1,1,2,2-tetrafluoroethyl)thio]phenyl]amino]carbonyl]-2,6-difluoro-':
     '100279-89-8',
   'Benzamide, N-[[[2-chloro-4-[(1,1,2,2-tetrafluoroethyl)sulfonyl]phenyl]amino]carbonyl]-2,6-difluoro-':
     '100341-22-8',
@@ -13876,8 +13876,6 @@ export default {
   'Benzene, 1-[1-[difluoro[(1,2,2-trifluoroethenyl)oxy]methyl]-1,2,2,2-tetrafluoroethoxy]-2,3,4,5,6-pentafluoro-, polymer with 1,1,2,2-tetrafluoroethene and 1,1,2-trifluoro-2-(trifluoromethoxy)ethene':
     '26658-70-8',
   'Benzene, 1-[1-bromo-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-2-methoxy-':
-    '34844-29-6',
-  'Benzene, 1-[1-bromo-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-2-methoxy- ':
     '70430-22-7',
   'Benzene, 1-[1-bromo-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-4-fluoro-':
     '67715-98-4',
@@ -15134,7 +15132,7 @@ export default {
     '68081-83-4',
   'Carbamic acid, N-(3,4-dichlorophenyl)-, 3-(4-fluorophenyl)-3-hydroxy-2-methyl-1,1-bis(trifluoromethyl)propyl ester':
     '100991-90-0',
-  'Carbamic acid, N-(3-nitrophenyl)-, 2,2,3,3-tetrafluoropropyl ester ':
+  'Carbamic acid, N-(3-nitrophenyl)-, 2,2,3,3-tetrafluoropropyl ester':
     '90687-70-0',
   'Carbamic acid, N-[1-(2-ethoxyethoxy)-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-, ethyl ester':
     '09/05/5226',
@@ -15995,7 +15993,7 @@ export default {
   'Cyclophosphamide-d4': '173547-45-0',
   Cyclopropane: '75-19-4',
   'Cyclopropane, (1,1,2,3,3,3-hexafluoropropyl)-': '57915-70-5',
-  'Cyclopropane, 1,1,2,2,3,3-hexafluoro-  ': '931-91-9',
+  'Cyclopropane, 1,1,2,2,3,3-hexafluoro-': '931-91-9',
   'Cyclopropane, 1,1,2,2-tetrafluoro-': '3899-71-6',
   'Cyclopropane, 1-(2-bromoethyl)-1,2,2,3,3-pentafluoro-': '168087-06-7',
   'Cyclopropane, ethyl-': '1191-96-4',
@@ -16040,7 +16038,7 @@ export default {
     '68227-20-3',
   'Cyclotetrasiloxane, 2,4,6,8-tetramethyl-, Si -mixed 3-(2-oxiranylmethoxy)propyl and 3-[2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(1,1, 2,2,3,3,3-heptafluoropropoxy)propoxy]propoxy]propyl and 2-(trimethoxysilyl)ethyl derivs.':
     '705291-24-3',
-  'Cyclotetrasiloxane, 2,4,6,8-tetramethyl-2-[3-[2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)propoxy]propoxy]propyl]-, Si-[3-(2-oxiranylmethoxy)propyl] derivs.  ':
+  'Cyclotetrasiloxane, 2,4,6,8-tetramethyl-2-[3-[2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)propoxy]propoxy]propyl]-, Si-[3-(2-oxiranylmethoxy)propyl] derivs.':
     '1005771-59-4',
   'Cyclotetrasiloxane, 2-(4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heptadecafluoroundecyl)-2,4,6,8-tetramethyl-, Si-[3-(oxiranylmethoxy)propyl] derivs.':
     '206886-57-9',
@@ -16220,7 +16218,7 @@ export default {
   Density: '',
   'Density as sigma-t': '',
   'Density of water at 20 deg C': '',
-  'Deoxycylindrospermopsin ': '344941-42-0',
+  Deoxycylindrospermopsin: '344941-42-0',
   'Deoxygenation constant': '',
   'Deoxygenation constant-carbon': '',
   'Deoxygenation constant-nitrogen': '',
@@ -16931,7 +16929,7 @@ export default {
   'Escherichia coli proportional contribution by wildlife (%)': '',
   Escitalopram: '128196-01-0',
   Esfenvalerate: '66230-04-4',
-  'Estr-4-en-3-one, 17-(acetyloxy)-7-[9-[(4,4,5,5,5-pentafluoropentyl)thio]nonyl]-, (7.alpha,17.beta.)- ':
+  'Estr-4-en-3-one, 17-(acetyloxy)-7-[9-[(4,4,5,5,5-pentafluoropentyl)thio]nonyl]-, (7.alpha,17.beta.)-':
     '415927-29-6',
   'Estra-1(10),2,4-trien-17-ol, 3-methoxy-7-[9-[(4,4,5,5,5-pentafluoropentyl)sulfinyl]nonyl]-, (7.alpha.,17.beta)-':
     '1221256-46-7',
@@ -16966,7 +16964,7 @@ export default {
   'Ethacrynic acid': '',
   Ethalfluralin: '55283-68-6',
   'Ethanamine, 1,1,2,2-tetrafluoro-N,N-bis(trifluoromethyl)-': '124008-98-6',
-  'Ethanamine, 1,1,2,2-tetrafluoro-N,N-dimethyl-  ': '1550-50-1',
+  'Ethanamine, 1,1,2,2-tetrafluoro-N,N-dimethyl-': '1550-50-1',
   'Ethanamine, 2-(diphenylmethoxy)-N,N-dimethyl-': '58-73-1',
   'Ethanamine, N,N-diethyl-1,1,2,2-tetrafluoro-': '680-63-7',
   'Ethanaminium, N,N,N-triethyl-, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonate (1:1)':
@@ -17085,7 +17083,7 @@ export default {
     '113366-08-8',
   'Ethanesulfonamide,N-(3-benzoylphenyl)-1,2,2,2-tetrafluoro-': '62261-65-8',
   'Ethanesulfonic acid, 1,1,2,2,2-pentafluoro-': '354-88-1',
-  'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-  ': '464-14-2',
+  'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-': '464-14-2',
   'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-2-((trifluoroethenyl)oxy)-, polymer with tetrafluoroethene':
     '111173-25-2',
   'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-2-[1,2,2-trifluoro-2-[(trifluoroethenyl)oxy]-1-(trifluomethyl)ethoxyl]-, sodium salt, polymer with tetrafluoroethene':
@@ -23797,7 +23795,7 @@ export default {
   'Propane, 1,1,1,2,3,3-hexafluoro-': '431-63-0',
   'Propane, 1,1,1,2,3,3-hexafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-3-[1,2,2-trifluoro-2-(1,2,2,2-tetrafluoroethoxy)-1-(trifluoromethyl)ethoxy]-':
     '3330-16-3',
-  'Propane, 1,1,1,2,3,3-hexafluoro-3-(2,2,2-trifluoroethoxy)-  ': '993-95-3',
+  'Propane, 1,1,1,2,3,3-hexafluoro-3-(2,2,2-trifluoroethoxy)-': '993-95-3',
   'Propane, 1,1,1,2,3,3-hexafluoro-3-(2,2,3,3-tetrafluoropropoxy)-':
     '65064-78-0',
   'Propane, 1,1,1,2,3,3-hexafluoro-3-(3,3,3-trifluoropropoxy)-': '845523-33-3',

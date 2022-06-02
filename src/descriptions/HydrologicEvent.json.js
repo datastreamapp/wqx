@@ -9,7 +9,7 @@ export default {
   Earthquake:
     "a sudden and violent shaking of the ground, as a result of movements within the earth's crust or volcanic action",
   Flood: '',
-  'Glacial lake outbreak ':
+  'Glacial lake outbreak':
     'a sudden release of water (Glacial Lake Outburst) from a lake fed by glacier melt that has formed at the side, in front, within, beneath, or on the surface of a glacier.',
   Hurricane: '',
   Mudflow: 'a fluid or hardened stream or avalanche of mud.',
