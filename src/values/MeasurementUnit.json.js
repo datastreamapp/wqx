@@ -27,7 +27,7 @@ export default {
     '#/mi2',
     '#/min',
     '#/ml',
-    '#/sec',
+    '#/sec*******',
     '#/um3',
     '#/yd2',
     '%',

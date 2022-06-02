@@ -1717,7 +1717,7 @@ export default {
   '4500-NORG E': '',
   '4500-NORGB':
     '4500-NorgB ~ Standard Methods ; Nitrogen, organic, in Water by Macro-Kjeldahl',
-  '4500-NORG C':
+  '4500-NORG C':
     '4500-Norg C ~ Standard Methods ; Nitrogen, organic, in Water by Semi-Micro-Kjeldahl Method',
   '4500-O-B': '',
   '4500-O-C': '4500-O C ~ Standard Methods ; Oxygen by Azide Modification',
@@ -1746,9 +1746,9 @@ export default {
     'URL: (page 19 on pdf): http://www.lachatinstruments.com/download/LL022-Rev-7.pdf',
   '4500-P-J': '',
   '4500-S-2 E***retired*** 4500-S2(E)': '',
-  '4500-S-2 E':
+  '4500-S-2 E':
     '4500-S-2 E ~ Standard Methods ; Sulfide in Water Gas Dialysis, Automated Methylene Blue Method',
-  '4500-S-2 F':
+  '4500-S-2 F':
     '4500-S-2 F ~ Standard Methods ; Sulfide in Water by Iodometric Method',
   '4500-S2 F***retired*** 4500-S2(F)': '',
   '4500-S2(D)': '4500-S2- D ~ Standard Methods ; Sulfide by Methylene Blue',

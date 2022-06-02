@@ -473,7 +473,7 @@ export default {
   CSKTPESTICIDE_WQX: 'Confederated Salish and Kootenai Tribes; ',
   CSKTRIBE: '',
   'CSR_EPA_CWA-106': 'Cold Springs Rancheria; ',
-  CSU_FISHERIESECOLOGYLAB: '',
+  'CSU-CIVIL&ENVIRONMENTAL-ENG': '',
   CTA_WQX: 'Craig Tribal Association;',
   CTCLUSI_WQX:
     'Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians;',

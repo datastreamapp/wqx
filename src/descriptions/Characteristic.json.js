@@ -17775,6 +17775,7 @@ export default {
   'Hepatitis-A virus': 'NWIS',
   'Heptabromodiphenyl ether': '',
   Heptachlor: 'Nemi.gov; Request Date: 22-JUL-14',
+  'Heptachlor and Heptachlor epoxide': '',
   'Heptachlor epoxide': 'Nemi.gov; Request Date: 22-JUL-14',
   'Heptachloro-2-norbornene': '; Request Date: 02-MAR-07',
   Heptachlorobiphenyl: '; Request Date: 02-MAR-07',
@@ -18182,6 +18183,7 @@ export default {
   Hydroxydimethenamid: 'NWIS',
   Hydroxyfluometuron: 'NWIS',
   Hydroxymetolachlor: 'NWIS',
+  Hydroxyphenols: '',
   Hydroxyphthalazinone: 'NWIS',
   Hydroxysimazine: 'Request Date: 15-Feb-19 (nps.gov cas# review)',
   Hydroxytebuthiuron: 'NWIS',
@@ -27166,7 +27168,7 @@ export default {
   'ethyl 2-bromo-2,3,3,3-tetrafluoropropanoate': '',
   'ethyl 2-ethoxy-2,3,3,3-tetrafluoropropanoate': '',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate': '',
-  'ethyl tert-butyl ether': '',
+  'ethyl tert-butyl ether': '',
   'gamma-Chlordane***retired***use 2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene':
     'Request Date: 11-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)',
   'gamma-HCH (Lindane)':
@@ -27387,7 +27389,7 @@ export default {
   'tert-Butyl formate': '; Request Date: 08-AUG-11',
   'tert-Butyl heptafluorobutaneperoxoate': '',
   'tert-Butyl heptafluorobutanoate': '',
-  'tert-Butyl methyl-d3 ether': '',
+  'tert-Butyl methyl-d3 ether': '',
   'tert-Butyl pentafluoropropionate': '',
   'tert-Butyl tridecafluoroheptaneperoxoate': '',
   'tert-Butylbenzene': 'Nemi.gov; Request Date: 02-MAR-07',

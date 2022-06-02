@@ -21817,6 +21817,7 @@ export default {
   'Hepatitis-A virus': 'Not Assigned',
   'Heptabromodiphenyl ether': 'Organics, PCBs',
   Heptachlor: 'Organics, Pesticide',
+  'Heptachlor and Heptachlor epoxide': 'Not Assigned',
   'Heptachlor epoxide': 'Organics, Pesticide',
   'Heptachloro-2-norbornene': 'Not Assigned',
   Heptachlorobiphenyl: 'Not Assigned',
@@ -22274,6 +22275,7 @@ export default {
   Hydroxydimethenamid: 'Not Assigned',
   Hydroxyfluometuron: 'Not Assigned',
   Hydroxymetolachlor: 'Not Assigned',
+  Hydroxyphenols: 'Not Assigned',
   Hydroxyphthalazinone: 'Not Assigned',
   Hydroxysimazine: 'Not Assigned',
   Hydroxytebuthiuron: 'Not Assigned',
@@ -32136,7 +32138,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate':
     'PFAS,Perfluorinated Alkyl Substance',
-  'ethyl tert-butyl ether': 'Not Assigned',
+  'ethyl tert-butyl ether': 'Not Assigned',
   'gamma-Chlordane': 'Organics, Pesticide',
   'gamma-HCH (Lindane)': 'PFOA, Perfluorooctanoic Acid',
   'heptachlor epoxide A': 'Not Assigned',
@@ -32352,7 +32354,7 @@ export default {
   'tert-Butyl heptafluorobutaneperoxoate':
     'PFAS,Perfluorinated Alkyl Substance',
   'tert-Butyl heptafluorobutanoate': 'PFAS,Perfluorinated Alkyl Substance',
-  'tert-Butyl methyl-d3 ether': 'Not Assigned',
+  'tert-Butyl methyl-d3 ether': 'Not Assigned',
   'tert-Butyl pentafluoropropionate': 'PFAS,Perfluorinated Alkyl Substance',
   'tert-Butyl tridecafluoroheptaneperoxoate':
     'PFAS,Perfluorinated Alkyl Substance',

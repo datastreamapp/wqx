@@ -22,7 +22,8 @@ export default {
   '#/mi2': 'Concentration Solution, Number per square mile',
   '#/min': 'Concentration Solution, number per minute',
   '#/ml': 'Concentration Solution, Number per milliliter',
-  '#/sec': 'Concentration Solution, number (Counts) per second',
+  '#/sec*******':
+    'Concentration Solution, number (Counts) per second ***retired***use counts/sec',
   '#/um3': 'Concentration Solution, Number per cubic micrometer',
   '#/yd2': 'Concentration Solution, Number per square yard',
   '%': 'Concentration Percentage, Percent',
