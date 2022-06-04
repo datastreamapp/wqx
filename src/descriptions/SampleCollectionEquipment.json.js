@@ -1,4 +1,5 @@
 export default {
+  '6 Inch Core': '',
   'A-Frame Net':
     'A-frame dip nets are mostly used for catching smelt and are based on a Native American design that has been used on the California coast for many thousands of years. ',
   'Activity Trap': '',
@@ -74,6 +75,7 @@ export default {
     'Used for collecting aquatic invertebrates and fish from the bank of a body of water. ',
   'Dip Pole': 'Dip Pole',
   'Disposable plastic scoop': 'A plastic samplign tool that is disposable.',
+  Diver: '',
   'Draw Down': '',
   'Drift Gill Net':
     'Vertical panels of netting that hang from a line with regularly spaced floaters that hold the line on the surface of the water. ',
@@ -145,6 +147,7 @@ export default {
     'For rocky-bottom stream sampling of macro, a kick net of 590 µm (a #30 mesh size) or 500 µm (#35 mesh size) is recommended. (Mesh size is usually measured in microns, µm. The higher the number, the coarser the mesh.)',
   'Kullenberg Gravity Corer':
     'The piston corer is a long, heavy tube plunged into the seafloor to extract samples of mud sediment. A piston inside the tube allows scientists to capture the longest possible samples, up to 90 feet in length. Kullenberg modifications, adding an internal piston that helps researchers gather even longer mud samples. ',
+  'Large Van Veen Grab': '',
   'Larval Light Fish Trap':
     'Passive sampling of a broad range of planktonic organisms',
   'Long Line':

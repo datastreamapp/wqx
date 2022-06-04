@@ -40538,7 +40538,7 @@ export default {
   'Ethyl phthalate': 'SRS List Provider',
   'Ethyl propionate': 'STANDARD NAME (Normalized)',
   'Ethyl sulfide': 'SRS List Provider',
-  'Ethyl tert-butyl ether': 'STANDARD NAME (Normalized)',
+  'Ethyl tert-butyl ether': 'national unique domain values',
   'Ethyl ziram': 'STANDARD NAME (Normalized)',
   'Ethyl, 1,1,2,2,2-pentafluoro-': 'national unique domain values',
   'Ethyl-difluoro-methyl-(1,1,2,2,2-pentafluoroethyl)-.lambda.5-phosphane':
@@ -54056,7 +54056,6 @@ export default {
     'national unique domain values',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate':
     'national unique domain values',
-  'ethyl tert-butyl ether': 'national unique domain values',
   'gamma-BHC (Lindane)': 'STORETW Provider',
   'gamma-Chlordane':
     'Retired Names: 2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene',

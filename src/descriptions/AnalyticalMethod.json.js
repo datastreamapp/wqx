@@ -4284,6 +4284,7 @@ export default {
   'PCB-006': '',
   'PCB-008': '',
   'PCB-009': '',
+  'PFAS ID36': 'Pace proprietary method: PFAS by Isotope Dilution',
   'PHOS-1': '',
   'PHOS-2': '',
   'PHOS-3': '',

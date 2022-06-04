@@ -17054,7 +17054,7 @@ export default {
   'Ethyl perfluoropentanyl ketone': '',
   'Ethyl perfluoroundecanoate': '',
   'Ethyl propionate': '; Request Date: 20-MAR-13',
-  'Ethyl tert-butyl ether': 'Nemi.gov; Request Date: 02-MAR-07',
+  'Ethyl tert-butyl ether': '',
   'Ethyl ziram': '; Request Date: 02-MAR-07',
   'Ethyl, 1,1,2,2,2-pentafluoro-': '',
   'Ethyl-difluoro-methyl-(1,1,2,2,2-pentafluoroethyl)-.lambda.5-phosphane': '',
@@ -27166,7 +27166,6 @@ export default {
   'ethyl 2-bromo-2,3,3,3-tetrafluoropropanoate': '',
   'ethyl 2-ethoxy-2,3,3,3-tetrafluoropropanoate': '',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate': '',
-  'ethyl tert-butyl ether': '',
   'gamma-Chlordane***retired***use 2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene':
     'Request Date: 11-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)',
   'gamma-HCH (Lindane)':

@@ -44609,7 +44609,6 @@ export default {
     'ethyl 2-bromo-2,3,3,3-tetrafluoropropanoate',
     'ethyl 2-ethoxy-2,3,3,3-tetrafluoropropanoate',
     'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate',
-    'ethyl tert-butyl ether',
     'gamma-BHC (Lindane)',
     'gamma-Chlordane',
     'gamma-Chlordane***retired***use 2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-in',

@@ -693,7 +693,7 @@ export default {
   KATRINA6_WQX: 'Water Quality Data',
   KATSPROJ_WQX: 'Water Quality Monitoring Data.',
   KAWNATON_WQX: 'Kaw Nation;',
-  KBICNRD_WQX: ' (Tribal)',
+  KBICNRD_WQX: '',
   KBOPWQP: ' (Tribal)',
   KBS: 'Kansas Biological Survey',
   KENAI_NWR: '',

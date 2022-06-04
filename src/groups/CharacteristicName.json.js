@@ -21130,7 +21130,7 @@ export default {
   'Ethyl perfluoropentanyl ketone': 'PFAS,Perfluorinated Alkyl Substance',
   'Ethyl perfluoroundecanoate': 'PFAS,Perfluorinated Alkyl Substance',
   'Ethyl propionate': 'Not Assigned',
-  'Ethyl tert-butyl ether': 'Organics, Other',
+  'Ethyl tert-butyl ether': 'Not Assigned',
   'Ethyl ziram': 'Not Assigned',
   'Ethyl, 1,1,2,2,2-pentafluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   'Ethyl-difluoro-methyl-(1,1,2,2,2-pentafluoroethyl)-.lambda.5-phosphane':
@@ -32136,7 +32136,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate':
     'PFAS,Perfluorinated Alkyl Substance',
-  'ethyl tert-butyl ether': 'Not Assigned',
   'gamma-Chlordane': 'Organics, Pesticide',
   'gamma-HCH (Lindane)': 'PFOA, Perfluorooctanoic Acid',
   'heptachlor epoxide A': 'Not Assigned',
