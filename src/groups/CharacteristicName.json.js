@@ -5099,6 +5099,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Methyl-3-octyl-1H-imidazolium perfluorobutanesulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1-Methyl-3-propylcyclohexane': 'Not Assigned',
   '1-Methyl-4-(nonadecafluorononyl)benzene':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Methyl-4-(pentafluoroethyl)benzene': 'PFAS,Perfluorinated Alkyl Substance',
@@ -5407,6 +5408,8 @@ export default {
   '1-Pentanol, 3,3,4,4,5,5,5-heptafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Pentanol, 3,3,4,5,5,5-hexafluoro-2-methyl-':
+    'PFAS,Perfluorinated Alkyl Substance',
+  '1-Pentanone, 1-(4-methoxyphenyl)-2-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Pentanone, 4,4,5,5-tetrafluoro-3-hydroxy-1-phenyl-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -7655,6 +7658,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2,2,3,4,5,5,6,6,6-Nonafluoro-3,4-bis(trifluoromethyl)hexanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2,2,3,4,6,6-Hexamethylheptane': 'Organics, Other',
   '2,2,3,4-Tetrafluoro-4-(trifluoromethyl)thiolane 1,1-dioxide':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,2,3,5,5,5-Hexafluoro-3,4,4-tris(trifluoromethyl)pentanoic acid':
@@ -9921,6 +9925,7 @@ export default {
   '2-Phenyl-2-propanol': 'Not Assigned',
   '2-Phenyldecane': 'Not Assigned',
   '2-Phenyldodecane': 'Not Assigned',
+  '2-Phenylethyl tert-butyl ether': 'Organics, Other',
   '2-Phenylnaphthalene': 'Not Assigned',
   '2-Phenylphenol': 'Organics, Other',
   '2-Phenyltetradecane': 'Not Assigned',
@@ -12731,6 +12736,7 @@ export default {
   '3-Hydroxy-3-methyl-4-pentyn-1-yl perfluoro-3,6,9,12,15-pentaoxaheptadecanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Hydroxycarbofuran': 'Organics, Pesticide',
+  '3-Hydroxymandelic acid': 'Organics, Other',
   '3-Iodo-1,1,2,2-tetrafluoropropyl trifluorovinyl ether':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Iodo-2-propynyl butyl carbamate': 'Organics, Other',
@@ -15441,6 +15447,7 @@ export default {
   'AMPA (glyphosate metabolite)': 'Organics, Pesticide',
   'AQI & Speciation Mass': 'Not Assigned',
   'ASB + Cation': 'Not Assigned',
+  'Aabomycin S': 'Not Assigned',
   Abacavir: 'Not Assigned',
   Abamectin: 'Not Assigned',
   'Abietic acid': 'Organics, Other',
@@ -19738,6 +19745,7 @@ export default {
   'Dextrorphan tartrate': 'Organics, Other',
   'Di(2-ethoxylhexyl) phthalate': 'Not Assigned',
   'Di(2-ethylhexyl) adipate': 'Organics, Other',
+  'Di(2-ethylhexyl) azelate': 'Not Assigned',
   'Di(2-ethylhexyl) phthalate': 'Stable Isotopes',
   'Di(dehydroabietyl)amine acetate': 'Not Assigned',
   'Di(propan-2-yl)(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)silane':
@@ -20062,6 +20070,7 @@ export default {
   'Dihydrotestosterone-d4': 'Not Assigned',
   'Diisobutyl phthalate': 'Organics, Pesticide',
   Diisobutylphenoxyethanol: 'Not Assigned',
+  'Diisodecyl phthalate': 'Not Assigned',
   'Diisononyl phthalate': 'Not Assigned',
   'Diisooctyl phthalate': 'Not Assigned',
   'Diisopentyl 2-[(2,2,3,3,4,4,4-heptafluorobutanoyl)amino]succinate':
@@ -21130,7 +21139,7 @@ export default {
   'Ethyl perfluoropentanyl ketone': 'PFAS,Perfluorinated Alkyl Substance',
   'Ethyl perfluoroundecanoate': 'PFAS,Perfluorinated Alkyl Substance',
   'Ethyl propionate': 'Not Assigned',
-  'Ethyl tert-butyl ether': 'Not Assigned',
+  'Ethyl tert-butyl ether': 'Organics, Other',
   'Ethyl ziram': 'Not Assigned',
   'Ethyl, 1,1,2,2,2-pentafluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   'Ethyl-difluoro-methyl-(1,1,2,2,2-pentafluoroethyl)-.lambda.5-phosphane':
@@ -22249,6 +22258,41 @@ export default {
   'Hydrogen phosphate': 'Not Assigned',
   'Hydrogen sulfide': 'Inorganics, Major, Non-metals',
   'Hydrograph limb (choice list)': 'Physical',
+  'Hydrologic Influence: Culverts (choice list)': 'Information',
+  'Hydrologic Influence: Groundwater (choice list)': 'Information',
+  'Hydrologic Influence: Lake (choice list)': 'Information',
+  'Hydrologic Influence: Other (choice list)': 'Information',
+  'Hydrologic Influence: Overbank flooding (choice list)': 'Information',
+  'Hydrologic Influence: Precipitation (choice list)': 'Information',
+  'Hydrologic Influence: Snowmelt (choice list)': 'Information',
+  'Hydrologic Influence: Springs (choice list)': 'Information',
+  'Hydrologic Influence: Stream Inflow (choice list)': 'Information',
+  'Hydrologic Influence: Tidal channel (choice list)': 'Information',
+  'Hydrologic Influence: Tidal surge (choice list)': 'Information',
+  'Hydrologic Stressors: Abandoned roads (choice list)': 'Information',
+  'Hydrologic Stressors: Animal Trampling (choice list)': 'Information',
+  'Hydrologic Stressors: Asphalt (choice list)': 'Information',
+  'Hydrologic Stressors: Berms (choice list)': 'Information',
+  'Hydrologic Stressors: Box (choice list)': 'Information',
+  'Hydrologic Stressors: Channelized Streams (choice list)': 'Information',
+  'Hydrologic Stressors: Compacted, non-aved surfaces (choice list)':
+    'Information',
+  'Hydrologic Stressors: Concrete (choice list)': 'Information',
+  'Hydrologic Stressors: Corrugated Pipe (choice list)': 'Information',
+  'Hydrologic Stressors: Damns (choice list)': 'Information',
+  'Hydrologic Stressors: Ditches (choice list)': 'Information',
+  'Hydrologic Stressors: Eroded foot paths (choice list)': 'Information',
+  'Hydrologic Stressors: Excavation/Dredging (choice list)': 'Information',
+  'Hydrologic Stressors: Field Drainage tiling (choice list)': 'Information',
+  'Hydrologic Stressors: Other (choice list)': 'Information',
+  'Hydrologic Stressors: Railroad bed (choice list)': 'Information',
+  'Hydrologic Stressors: Recent Sedimentation (choice list)': 'Information',
+  'Hydrologic Stressors: Roads (choice list)': 'Information',
+  'Hydrologic Stressors: Sewer outfall (choice list)': 'Information',
+  'Hydrologic Stressors: Standpipe outflow (choice list)': 'Information',
+  'Hydrologic Stressors: Trails (choice list)': 'Information',
+  'Hydrologic Stressors: Vehicle ruts (choice list)': 'Information',
+  'Hydrologic Stressors: Water supply (choice list)': 'Information',
   'Hydrolyzable phosphorus': 'Not Assigned',
   'Hydrolyzable phosphorus plus orthophosphate': 'Not Assigned',
   Hydromorphone: 'Organics, Other',
@@ -22376,6 +22420,22 @@ export default {
   'Intergravel Dissolved Oxygen': 'Physical',
   'Intermittent sections (choice list)': 'Not Assigned',
   'Inundated or Saturated in Pit (Y/N) (choicelist)': 'Information',
+  'Inundation Evidence: Algal mat or crust (choice list)': 'Information',
+  'Inundation Evidence: Aquatic invertebrates (choice list)': 'Information',
+  'Inundation Evidence: Biotic crust (choice list)': 'Information',
+  'Inundation Evidence: Drainage patterns (choice list)': 'Information',
+  'Inundation Evidence: Drift Deposits (choice list)': 'Information',
+  'Inundation Evidence: Iron deposits (choice list)': 'Information',
+  'Inundation Evidence: Marl deposits (choice list)': 'Information',
+  'Inundation Evidence: Moss trim lines (choice list)': 'Information',
+  'Inundation Evidence: Salt crust (choice list)': 'Information',
+  'Inundation Evidence: Sediment deposits (choice list)': 'Information',
+  'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)':
+    'Information',
+  'Inundation Evidence: Surface soil cracks (choice list)': 'Information',
+  'Inundation Evidence: True aquatic plants (choice list)': 'Information',
+  'Inundation Evidence: Water marks (choice list)': 'Information',
+  'Inundation Evidence: Water stained leaves (choice list)': 'Information',
   'Invasive species found (choice list)': 'Not Assigned',
   Iodide: 'Not Assigned',
   Iodine: 'Inorganics, Minor, Non-metals',
@@ -25077,6 +25137,7 @@ export default {
   'Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)': 'Nutrient',
   'Nitrogen-15': 'Stable Isotopes',
   'Nitrogen-15/14 ratio': 'Not Assigned',
+  'Nitrogen-15/Nitrogen-14 ratio': 'Physical',
   'Nitrogen/Phosphorus molar ratio': 'Not Assigned',
   'Nitrogenous biochemical oxygen demand': 'Physical',
   Nitroglycerin: 'Organics, Other',
@@ -25515,6 +25576,16 @@ export default {
   'Oseltamivir carboxylate': 'Not Assigned',
   Osmium: 'Inorganics, Minor, Metals',
   'Osmotic pressure': 'Physical',
+  'Other Hydrologic Evidence: Frost-heave hummocks (choice list)':
+    'Information',
+  'Other Hydrologic Evidence: Geomorphic position (choise list)': 'Information',
+  'Other Hydrologic Evidence: Microtopographic relief (choice list)':
+    'Information',
+  'Other Hydrologic Evidence: Raised ant mounds (choice list)': 'Information',
+  'Other Hydrologic Evidence: Shallow aquitard (choice list)': 'Information',
+  'Other Hydrologic Evidence: Sphagnum moss (choice list)': 'Information',
+  'Other Hydrologic Evidence: Stunted or stressed plants (choice list)':
+    'Information',
   'Otolith Collected (Y/N) (choice list)': 'Information',
   'Overhead Cover': 'Information',
   Oxacillin: 'Not Assigned',
@@ -30031,6 +30102,20 @@ export default {
   'Soil Metric Color (Moist): Hue': 'Information',
   'Soil Metric Color (Moist): Value': 'Information',
   'Soil Organic Features Present': 'Information',
+  'Soil Saturation Evidence: Crayfish burrows (choice list)': 'Information',
+  'Soil Saturation Evidence: Dry season water table (choice list)':
+    'Information',
+  'Soil Saturation Evidence: Fiddler crab burrows (choice list)': 'Information',
+  'Soil Saturation Evidence: Hydrogen sulfide odor (choice list)':
+    'Information',
+  'Soil Saturation Evidence: Oxidized rhizospheres along living roots (choice list)':
+    'Information',
+  'Soil Saturation Evidence: Presence of reduced iron (choice list)':
+    'Information',
+  'Soil Saturation Evidence: Recent iron reduction in tilled soils (choice list)':
+    'Information',
+  'Soil Saturation Evidence: Salt deposits (choice list)': 'Information',
+  'Soil Saturation Evidence: Thin muck surface (choice list)': 'Information',
   'Soil Texture: Organic (choice list)': 'Information',
   'Soil Water': 'Not Assigned',
   'Soil index, coefficient of haze (COH)': 'Not Assigned',
@@ -30363,6 +30448,7 @@ export default {
   'Sulfoxaflor-13C15N2': 'Organics, Other',
   'Sulfoxone sodium (Diazon)': 'Not Assigned',
   Sulfur: 'Inorganics, Major, Non-metals',
+  'Sulfur Delta 34': 'Physical',
   'Sulfur HCl Residue': 'Not Assigned',
   'Sulfur HNO3 Residue': 'Not Assigned',
   'Sulfur Organic Residual Mod': 'Organics, Other',
@@ -30403,6 +30489,9 @@ export default {
   'Sum of cations': 'Physical',
   Sumatriptan: 'Organics, Other',
   'Sumatriptan succinate': 'Not Assigned',
+  'Surface Observation: High water table (choice list)': 'Information',
+  'Surface Observation: Soil saturation (choice list)': 'Information',
+  'Surface Observation: Surface water (choice list)': 'Information',
   'Surface area': 'Physical',
   'Surface tension': 'Physical',
   Surfactants: 'Physical',
@@ -31378,6 +31467,7 @@ export default {
   'Tris(2-butoxyethyl) phosphate': 'Organics, Other',
   'Tris(2-chloroethyl) phosphate': 'Organics, Other',
   'Tris(2-ethylhexyl) phosphate': 'Not Assigned',
+  'Tris(2-ethylhexyl) trimellitate': 'Not Assigned',
   'Tris(2-methylpropyl) 3-(2,2,3,3,4,4,4-heptafluorobutanamido)propane-1,1,3-tricarboxylate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Tris(3,3,4,4,5,5,6,6,6-nonafluorohexyl)(phenyl)stannane':

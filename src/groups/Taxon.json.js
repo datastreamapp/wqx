@@ -40950,6 +40950,7 @@ export default {
   'Salvelinus maxillaris': 'Not Assigned',
   'Salvelinus murta': 'Not Assigned',
   'Salvelinus namaycush': 'Not Assigned',
+  'Salvelinus namaycush siscowet': 'Not Assigned',
   'Salvelinus namaycush x Salvelinus fontinalis': 'Not Assigned',
   'Salvelinus neiva': 'Not Assigned',
   'Salvelinus obtusus': 'Not Assigned',

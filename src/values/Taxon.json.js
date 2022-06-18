@@ -40927,6 +40927,7 @@ export default {
     'Salvelinus maxillaris',
     'Salvelinus murta',
     'Salvelinus namaycush',
+    'Salvelinus namaycush siscowet',
     'Salvelinus namaycush x Salvelinus fontinalis',
     'Salvelinus neiva',
     'Salvelinus obtusus',

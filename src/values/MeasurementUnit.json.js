@@ -384,6 +384,7 @@ export default {
     'uE/m2/sec',
     'uL',
     'uS/cm',
+    'uS/m',
     'uW/cm2',
     'ueq/L',
     'ug',

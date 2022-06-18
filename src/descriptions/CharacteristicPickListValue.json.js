@@ -177,6 +177,11 @@ export default {
     'Optimal, <10% of bottom affected by sediment deposition',
   'Wave height (WMO code 1555) (choice list)':
     'Description, WMO Code=9, wave height=4.5m',
+  'Hydrologic Stressors: Ditches (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Channelized Streams (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Recent Sedimentation (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Other (choice list)': 'Least stressful',
+  'Height Class Vegetation (choice list)': '>30.0m',
   'USGS NAWQA Substrate Type (choice list)': 'Small boulder',
   'Sediment, organic, classification (choice list)': 'Organic Fine Sand',
   'Stream width (choice list)': '>1.22m (>4ft)',
@@ -194,7 +199,38 @@ export default {
   'Flow, stream class (choice list)': 'Flow above 500 CFS.',
   'Soil Layer (choice list)':
     '5th soil layer - The C-Horizon or Saprolite, This layer is devoid of any organic matter and is made up of broken bedrock. This layer is also known as saprolite. The geological material present in this zone is cemented.',
-  'Height Class Vegetation (choice list)': '>30.0m',
+  'Hydrologic Influence: Stream Inflow (choice list)': 'Least influential',
+  'Hydrologic Influence: Springs (choice list)': 'Least influential',
+  'Hydrologic Influence: Lake (choice list)': 'Least influential',
+  'Hydrologic Influence: Precipitation (choice list)': 'Least influential',
+  'Hydrologic Influence: Groundwater (choice list)': 'Least influential',
+  'Hydrologic Influence: Culverts (choice list)': 'Least influential',
+  'Hydrologic Influence: Snowmelt (choice list)': 'Least influential',
+  'Hydrologic Influence: Overbank flooding (choice list)': 'Least influential',
+  'Hydrologic Influence: Tidal channel (choice list)': 'Least influential',
+  'Hydrologic Influence: Tidal surge (choice list)': 'Least influential',
+  'Hydrologic Influence: Other (choice list)': 'Least influential',
+  'Hydrologic Stressors: Berms (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Damns (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Railroad bed (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Roads (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Animal Trampling (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Vehicle ruts (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Trails (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Eroded foot paths (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Abandoned roads (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Asphalt (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Water supply (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Compacted, non-aved surfaces (choice list)':
+    'Least stressful',
+  'Hydrologic Stressors: Concrete (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Field Drainage tiling (choice list)':
+    'Least stressful',
+  'Hydrologic Stressors: Excavation/Dredging (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Sewer outfall (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Standpipe outflow (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Corrugated Pipe (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Box (choice list)': 'Least stressful',
   'Macrophytes covering streambed (emergent and submerged) (choice list)':
     'Macrophytes covering 76-100% of the streambed',
   'Filamentous Algae covering streambed (choice list)':
@@ -520,14 +556,18 @@ export default {
     'YES - Self describing.',
   'Redoximorphic Features (choice list)': 'Soft Masses',
   'Precipitation during activity (choice list)': 'Yes',
-  'Toxicity, sediment, species significant (choice list)':
-    'P-value & Result indicate test response is not significant',
+  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
   'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
   'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
     'Yes, there has been heavy rain within the last 7 days',
   'Sewage algae present (choice list)': 'Yes',
   'Invasive species found (choice list)': 'Yes',
+  'Toxicity, sediment, species significant (choice list)':
+    'P-value & Result indicate test response is not significant',
+  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
+    'Yes',
+  'Significant(choice list)': 'Test response significantly toxic',
   'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
     'P-value & Result indicate test response significantly toxic',
   'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
@@ -550,10 +590,6 @@ export default {
     'P-value & Result indicate test response is not significant',
   'Toxicity, sediment, Rhepoxynius abronius, significant (choice list)':
     'P-value & Result indicate test response is not significant',
-  'Significant(choice list)': 'Test response significantly toxic',
-  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
-    'Yes',
-  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
   'RBP Local Watershed NPS Pollution (choice list)':
     'Some potential sources of NPS pollution',
   'Depth, Secchi disk depth (choice list)':
@@ -562,6 +598,65 @@ export default {
     'Some potential sources of Non-point source pollution',
   'Lake suitability for recreation (choice list)':
     'Recreational use of lake fully supported',
+  'Surface Observation: Surface water (choice list)': 'Surface water present',
+  'Other Hydrologic Evidence: Frost-heave hummocks (choice list)':
+    'Frost-heave hummocks present',
+  'Surface Observation: Soil saturation (choice list)': 'Soil is saturated',
+  'Inundation Evidence: Water marks (choice list)': 'Water marks present',
+  'Inundation Evidence: Iron deposits (choice list)': 'Iron deposits present',
+  'Inundation Evidence: Water stained leaves (choice list)':
+    'Water stained leaves present',
+  'Inundation Evidence: Aquatic invertebrates (choice list)':
+    'Aquatic invertebrates present',
+  'Inundation Evidence: Sediment deposits (choice list)':
+    'Sediment deposits present',
+  'Inundation Evidence: Surface soil cracks (choice list)':
+    'Surface soil cracks present',
+  'Inundation Evidence: Drainage patterns (choice list)':
+    'Drainage patterns present',
+  'Inundation Evidence: True aquatic plants (choice list)':
+    'True aquatic plants present',
+  'Inundation Evidence: Drift Deposits (choice list)': 'Drift deposits present',
+  'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)':
+    'Sparesely vegetated concave surfaces present',
+  'Inundation Evidence: Salt crust (choice list)': 'Salt crust present',
+  'Inundation Evidence: Marl deposits (choice list)': 'Marl deposits present',
+  'Inundation Evidence: Algal mat or crust (choice list)':
+    'Algal mat or crust present',
+  'Inundation Evidence: Moss trim lines (choice list)':
+    'Moss trim lines present',
+  'Inundation Evidence: Biotic crust (choice list)': 'Biotic crust present',
+  'Soil Saturation Evidence: Hydrogen sulfide odor (choice list)':
+    'Hydrogen sulfide odor present',
+  'Soil Saturation Evidence: Dry season water table (choice list)':
+    'Dry season water table present',
+  'Soil Saturation Evidence: Oxidized rhizospheres along living roots (choice list)':
+    'Oxidized rhizospheres along living roots present',
+  'Soil Saturation Evidence: Presence of reduced iron (choice list)':
+    'Reduced iron present',
+  'Soil Saturation Evidence: Salt deposits (choice list)':
+    'Salt deposits present',
+  'Soil Saturation Evidence: Recent iron reduction in tilled soils (choice list)':
+    'Recent iron reduction in tilled soils present',
+  'Soil Saturation Evidence: Thin muck surface (choice list)':
+    'Thick muck surface present ',
+  'Soil Saturation Evidence: Crayfish burrows (choice list)':
+    'Crayfish burrows present',
+  'Soil Saturation Evidence: Fiddler crab burrows (choice list)':
+    'Fiddler crab burrows present',
+  'Other Hydrologic Evidence: Stunted or stressed plants (choice list)':
+    'Stunted or stessed plants present',
+  'Other Hydrologic Evidence: Geomorphic position (choise list)':
+    'Geomorphic position present',
+  'Other Hydrologic Evidence: Shallow aquitard (choice list)':
+    'Shallow aquitard present',
+  'Other Hydrologic Evidence: Microtopographic relief (choice list)':
+    'Microtopographic relief present',
+  'Other Hydrologic Evidence: Raised ant mounds (choice list)':
+    'Raised ant mounds present',
+  'Other Hydrologic Evidence: Sphagnum moss (choice list)':
+    'Sphagnum moss present',
+  'Surface Observation: High water table (choice list)': 'Water table is high',
   'Odor type (choice list)': 'Weak hydrogen sulfide',
   'Water Taste (choice list)': 'UnObjectionable',
   'Water Odor (choice list)': 'Odorless',

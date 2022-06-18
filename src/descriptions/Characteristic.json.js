@@ -3633,6 +3633,7 @@ export default {
   '1-Methyl-3-(pentafluoroethyl)benzene': '',
   '1-Methyl-3-(tridecafluorohexyl)piperidin-4-one': '',
   '1-Methyl-3-octyl-1H-imidazolium perfluorobutanesulfonate': '',
+  '1-Methyl-3-propylcyclohexane': '',
   '1-Methyl-4-(nonadecafluorononyl)benzene': '',
   '1-Methyl-4-(pentafluoroethyl)benzene': '',
   '1-Methyl-4-(tridecafluorohexyl)benzene': '',
@@ -3919,6 +3920,8 @@ export default {
   '1-Pentanol, 2,2,3,3,4,4,5,5-octafluoro-, compd. with acetic acid (1:1)': '',
   '1-Pentanol, 3,3,4,4,5,5,5-heptafluoro-': '',
   '1-Pentanol, 3,3,4,5,5,5-hexafluoro-2-methyl-': '',
+  '1-Pentanone, 1-(4-methoxyphenyl)-2-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
+    'nbsp',
   '1-Pentanone, 4,4,5,5-tetrafluoro-3-hydroxy-1-phenyl-': '',
   '1-Penten-3-one, 2-bromo-1-(bromoamino)-4,4,5,5-tetrafluoro-1-phenyl-': '',
   '1-Pentene': '; Request Date: 02-MAR-07',
@@ -4262,7 +4265,7 @@ export default {
   '1-Propene, 1,1-dichloro-2,3,3,3-tetrafluoro-': '',
   '1-Propene, 1,2,3,3,3-pentafluoro-': '',
   '1-Propene, 1,2,3,3,3-pentafluoro-, (1E)-': '',
-  '1-Propene, 1,2,3,3,3-pentafluoro-, (1Z)-': '',
+  '1-Propene, 1,2,3,3,3-pentafluoro-, (1Z)-': 'nbsp',
   '1-Propene, 1,2,3,3,3-pentafluoro-1-(1,2,3,3,3-pentafluoroprop-1-enoxy)-': '',
   '1-Propene, 1,2,3,3,3-pentafluoro-1-(trifluoromethoxy)-': '',
   '1-Propene, 1,2,3,3,4-pentafluoro-1-methoxy-': '',
@@ -5739,6 +5742,8 @@ export default {
   '2,2,3,4,4-Pentafluoro-4-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]butanoic acid':
     '',
   '2,2,3,4,5,5,6,6,6-Nonafluoro-3,4-bis(trifluoromethyl)hexanoic acid': '',
+  '2,2,3,4,6,6-Hexamethylheptane':
+    'https://sor.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=SRSITN&p_value=1734561',
   '2,2,3,4-Tetrafluoro-4-(trifluoromethyl)thiolane 1,1-dioxide': '',
   '2,2,3,5,5,5-Hexafluoro-3,4,4-tris(trifluoromethyl)pentanoic acid': '',
   '2,2,3,5,5,6,6,7,7,9,9,9-Dodecafluoro-4,8-dioxononanoic acid': '',
@@ -7531,6 +7536,7 @@ export default {
   '2-Phenyl-2-propanol': '; Request Date: 02-MAR-07',
   '2-Phenyldecane': '; Request Date: 02-MAR-07',
   '2-Phenyldodecane': '; Request Date: 02-MAR-07',
+  '2-Phenylethyl tert-butyl ether': '',
   '2-Phenylnaphthalene': '; Request Date: 14-APR-15',
   '2-Phenylphenol': '; Request Date: 09-JAN-08',
   '2-Phenyltetradecane': '; Request Date: 02-MAR-07',
@@ -9759,6 +9765,8 @@ export default {
   '3-Hydroxy-3-methyl-4-pentyn-1-yl perfluoro-3,6,9,12,15-pentaoxaheptadecanoate':
     '',
   '3-Hydroxycarbofuran': 'Nemi.gov; Request Date: 02-MAR-07',
+  '3-Hydroxymandelic acid':
+    'https://sor.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=SRSITN&p_value=1734349',
   '3-Iodo-1,1,2,2-tetrafluoropropyl trifluorovinyl ether': '',
   '3-Iodo-2-propynyl butyl carbamate': '',
   '3-Iodo-2-propynylbutylcarbamate': 'NWIS',
@@ -11792,6 +11800,7 @@ export default {
     'Request Date: 22-May-19 (nps.gov cas# review)',
   'AQI & Speciation Mass': '',
   'ASB + Cation': '; Request Date: 05-JUN-14',
+  'Aabomycin S': 'SEQUENCE NUMBER',
   Abacavir: '; Request Date: 02-FEB-15',
   Abamectin: '; Request Date: 01-APR-15',
   'Abietic acid': '',
@@ -13114,7 +13123,7 @@ export default {
   'Benzamide, N-[[[2-bromo-4-[(1,1,2,2-tetrafluoroethyl)sulfonyl]phenyl]amino]carbonyl]-2,6-difluoro-':
     '',
   'Benzamide, N-[[[2-bromo-4-[(1,1,2,2-tetrafluoroethyl)thio]phenyl]amino]carbonyl]-2,6-difluoro-':
-    '',
+    'nbsp',
   'Benzamide, N-[[[2-chloro-4-[(1,1,2,2-tetrafluoroethyl)sulfonyl]phenyl]amino]carbonyl]-2,6-difluoro-':
     '',
   'Benzamide, N-[[[2-chloro-4-[(1,1,2,2-tetrafluoroethyl)thio]phenyl]amino]carbonyl]-2,6-difluoro-':
@@ -14645,7 +14654,7 @@ export default {
     '',
   'Carbamic acid, N-(3,4-dichlorophenyl)-, 3-(4-fluorophenyl)-3-hydroxy-2-methyl-1,1-bis(trifluoromethyl)propyl ester':
     '',
-  'Carbamic acid, N-(3-nitrophenyl)-, 2,2,3,3-tetrafluoropropyl ester': '',
+  'Carbamic acid, N-(3-nitrophenyl)-, 2,2,3,3-tetrafluoropropyl ester': 'nbsp',
   'Carbamic acid, N-[1-(2-ethoxyethoxy)-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-, ethyl ester':
     '',
   'Carbamic acid, N-[1-(butoxymethylphosphinyl)-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-, ethylester':
@@ -15545,7 +15554,7 @@ export default {
   'Cyclophosphamide-d4': '; Request Date: 24-MAR-14',
   Cyclopropane: '',
   'Cyclopropane, (1,1,2,3,3,3-hexafluoropropyl)-': '',
-  'Cyclopropane, 1,1,2,2,3,3-hexafluoro-': '',
+  'Cyclopropane, 1,1,2,2,3,3-hexafluoro-': 'nbsp',
   'Cyclopropane, 1,1,2,2-tetrafluoro-': '',
   'Cyclopropane, 1-(2-bromoethyl)-1,2,2,3,3-pentafluoro-': '',
   'Cyclopropane, ethyl-': '; Request Date: 11-JAN-18',
@@ -15589,7 +15598,7 @@ export default {
   'Cyclotetrasiloxane, 2,4,6,8-tetramethyl-, Si -mixed 3-(2-oxiranylmethoxy)propyl and 3-[2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(1,1, 2,2,3,3,3-heptafluoropropoxy)propoxy]propoxy]propyl and 2-(trimethoxysilyl)ethyl derivs.':
     '',
   'Cyclotetrasiloxane, 2,4,6,8-tetramethyl-2-[3-[2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)propoxy]propoxy]propyl]-, Si-[3-(2-oxiranylmethoxy)propyl] derivs.':
-    '',
+    'nbsp',
   'Cyclotetrasiloxane, 2-(4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heptadecafluoroundecyl)-2,4,6,8-tetramethyl-, Si-[3-(oxiranylmethoxy)propyl] derivs.':
     '',
   'Cyclotetrasiloxane,2,2,4,4,6,6,8-heptamethyl-8-[3-(2,2,3,3-tetrafluoropropoxy)propyl]-':
@@ -15770,7 +15779,7 @@ export default {
     'The denisty of seawater at sea level.; Request Date: 31-JUL-09',
   'Density of water at 20 deg C': 'NWIS',
   Deoxycylindrospermopsin:
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+    'nbsp New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Deoxygenation constant':
     'The rate of oxygen consumption by aquatic organisms as they oxidize materials in an aquatic environment, expressed as a constant.; Request Date: 02-MAR-07',
   'Deoxygenation constant-carbon':
@@ -15850,6 +15859,7 @@ export default {
   'Dextrorphan tartrate': '; Request Date: 18-DEC-18',
   'Di(2-ethoxylhexyl) phthalate': 'NWIS',
   'Di(2-ethylhexyl) adipate': 'Nemi.gov; Request Date: 02-MAR-07',
+  'Di(2-ethylhexyl) azelate': '',
   'Di(2-ethylhexyl) phthalate':
     'Nemi.govRequest Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Di(dehydroabietyl)amine acetate': '; Request Date: 02-MAR-07',
@@ -16144,6 +16154,7 @@ export default {
   'Dihydrotestosterone-d4': 'Request Date: 30-Mar-13 (nps.gov cas# review)',
   'Diisobutyl phthalate': '; Request Date: 02-MAR-07',
   Diisobutylphenoxyethanol: '; Request Date: 02-MAR-07',
+  'Diisodecyl phthalate': '',
   'Diisononyl phthalate': '',
   'Diisooctyl phthalate': '; Request Date: 02-MAR-07',
   'Diisopentyl 2-[(2,2,3,3,4,4,4-heptafluorobutanoyl)amino]succinate': '',
@@ -16539,7 +16550,7 @@ export default {
   Escitalopram: '; Request Date: 30-MAY-13',
   Esfenvalerate: '; Request Date: 22-JUL-14',
   'Estr-4-en-3-one, 17-(acetyloxy)-7-[9-[(4,4,5,5,5-pentafluoropentyl)thio]nonyl]-, (7.alpha,17.beta.)-':
-    '',
+    'nbsp',
   'Estra-1(10),2,4-trien-17-ol, 3-methoxy-7-[9-[(4,4,5,5,5-pentafluoropentyl)sulfinyl]nonyl]-, (7.alpha.,17.beta)-':
     'PFOA',
   'Estra-1,3,5(10)-trien-17-one, 3-hydroxy-7-[9-[(4,4,5,5,5-pentafluoropentyl)sulfinyl]nonyl]-, (7.alpha.)-':
@@ -16573,7 +16584,7 @@ export default {
   'Ethacrynic acid': 'NWIS',
   Ethalfluralin: '; Request Date: 22-JUL-14',
   'Ethanamine, 1,1,2,2-tetrafluoro-N,N-bis(trifluoromethyl)-': '',
-  'Ethanamine, 1,1,2,2-tetrafluoro-N,N-dimethyl-': '',
+  'Ethanamine, 1,1,2,2-tetrafluoro-N,N-dimethyl-': 'nbsp',
   'Ethanamine, 2-(diphenylmethoxy)-N,N-dimethyl-':
     'Nemi.govRequest Date: 01-JUL-11| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Ethanamine, N,N-diethyl-1,1,2,2-tetrafluoro-': '',
@@ -16688,7 +16699,7 @@ export default {
     '',
   'Ethanesulfonamide,N-(3-benzoylphenyl)-1,2,2,2-tetrafluoro-': '',
   'Ethanesulfonic acid, 1,1,2,2,2-pentafluoro-': '',
-  'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-': '',
+  'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-': 'nbsp',
   'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-2-((trifluoroethenyl)oxy)-, polymer with tetrafluoroethene':
     '',
   'Ethanesulfonic acid, 1,1,2,2-tetrafluoro-2-[1,2,2-trifluoro-2-[(trifluoroethenyl)oxy]-1-(trifluomethyl)ethoxyl]-, sodium salt, polymer with tetrafluoroethene':
@@ -17054,7 +17065,7 @@ export default {
   'Ethyl perfluoropentanyl ketone': '',
   'Ethyl perfluoroundecanoate': '',
   'Ethyl propionate': '; Request Date: 20-MAR-13',
-  'Ethyl tert-butyl ether': '',
+  'Ethyl tert-butyl ether': 'nbsp Nemi.gov; Request Date: 02-MAR-07',
   'Ethyl ziram': '; Request Date: 02-MAR-07',
   'Ethyl, 1,1,2,2,2-pentafluoro-': '',
   'Ethyl-difluoro-methyl-(1,1,2,2,2-pentafluoroethyl)-.lambda.5-phosphane': '',
@@ -18156,6 +18167,40 @@ export default {
   'Hydrogen phosphate': 'Request Date: 1-May-15 (nps.gov cas# review)',
   'Hydrogen sulfide': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Hydrograph limb (choice list)': '; Request Date: 02-MAR-07',
+  'Hydrologic Influence: Culverts (choice list)': '',
+  'Hydrologic Influence: Groundwater (choice list)': '',
+  'Hydrologic Influence: Lake (choice list)': '',
+  'Hydrologic Influence: Other (choice list)': '',
+  'Hydrologic Influence: Overbank flooding (choice list)': '',
+  'Hydrologic Influence: Precipitation (choice list)': '',
+  'Hydrologic Influence: Snowmelt (choice list)': '',
+  'Hydrologic Influence: Springs (choice list)': '',
+  'Hydrologic Influence: Stream Inflow (choice list)': '',
+  'Hydrologic Influence: Tidal channel (choice list)': '',
+  'Hydrologic Influence: Tidal surge (choice list)': '',
+  'Hydrologic Stressors: Abandoned roads (choice list)': '',
+  'Hydrologic Stressors: Animal Trampling (choice list)': '',
+  'Hydrologic Stressors: Asphalt (choice list)': '',
+  'Hydrologic Stressors: Berms (choice list)': '',
+  'Hydrologic Stressors: Box (choice list)': '',
+  'Hydrologic Stressors: Channelized Streams (choice list)': '',
+  'Hydrologic Stressors: Compacted, non-aved surfaces (choice list)': '',
+  'Hydrologic Stressors: Concrete (choice list)': '',
+  'Hydrologic Stressors: Corrugated Pipe (choice list)': '',
+  'Hydrologic Stressors: Damns (choice list)': '',
+  'Hydrologic Stressors: Ditches (choice list)': '',
+  'Hydrologic Stressors: Eroded foot paths (choice list)': '',
+  'Hydrologic Stressors: Excavation/Dredging (choice list)': '',
+  'Hydrologic Stressors: Field Drainage tiling (choice list)': '',
+  'Hydrologic Stressors: Other (choice list)': '',
+  'Hydrologic Stressors: Railroad bed (choice list)': '',
+  'Hydrologic Stressors: Recent Sedimentation (choice list)': '',
+  'Hydrologic Stressors: Roads (choice list)': '',
+  'Hydrologic Stressors: Sewer outfall (choice list)': '',
+  'Hydrologic Stressors: Standpipe outflow (choice list)': '',
+  'Hydrologic Stressors: Trails (choice list)': '',
+  'Hydrologic Stressors: Vehicle ruts (choice list)': '',
+  'Hydrologic Stressors: Water supply (choice list)': '',
   'Hydrolyzable phosphorus': 'NWIS',
   'Hydrolyzable phosphorus plus orthophosphate': 'NWIS',
   Hydromorphone: '; Request Date: 18-DEC-18',
@@ -18289,6 +18334,21 @@ export default {
   'Intergravel Dissolved Oxygen': '; Request Date: 18-OCT-18',
   'Intermittent sections (choice list)': '',
   'Inundated or Saturated in Pit (Y/N) (choicelist)': '',
+  'Inundation Evidence: Algal mat or crust (choice list)': '',
+  'Inundation Evidence: Aquatic invertebrates (choice list)': '',
+  'Inundation Evidence: Biotic crust (choice list)': '',
+  'Inundation Evidence: Drainage patterns (choice list)': '',
+  'Inundation Evidence: Drift Deposits (choice list)': '',
+  'Inundation Evidence: Iron deposits (choice list)': '',
+  'Inundation Evidence: Marl deposits (choice list)': '',
+  'Inundation Evidence: Moss trim lines (choice list)': '',
+  'Inundation Evidence: Salt crust (choice list)': '',
+  'Inundation Evidence: Sediment deposits (choice list)': '',
+  'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)': '',
+  'Inundation Evidence: Surface soil cracks (choice list)': '',
+  'Inundation Evidence: True aquatic plants (choice list)': '',
+  'Inundation Evidence: Water marks (choice list)': '',
+  'Inundation Evidence: Water stained leaves (choice list)': '',
   'Invasive species found (choice list)': '; Request Date: 05-JUL-17',
   Iodide: '; Request Date: 22-JUL-14',
   Iodine: '; Request Date: 22-JUL-14',
@@ -20641,6 +20701,7 @@ export default {
     'EPA Workgroup QA; Request Date: 02-APR-09',
   'Nitrogen-15': 'Nitrogen, atomic number 7.; Request Date: 02-MAR-07',
   'Nitrogen-15/14 ratio': '; Request Date: 02-MAR-07',
+  'Nitrogen-15/Nitrogen-14 ratio': '',
   'Nitrogen/Phosphorus molar ratio': '; Request Date: 20-NOV-13',
   'Nitrogenous biochemical oxygen demand':
     'The amount of oxygen required for the microbial oxidation of ammonia and nitrite contaminants in water over a given incubation period at a specified temperature.; Request Date: 22-JUL-14',
@@ -21052,6 +21113,13 @@ export default {
   Osmium: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Osmotic pressure':
     'Osmotic pressure is the pressure exerted by the flow of water through a semi-permeable membrane separating two solutions with different concentrations of solute.; Request Date: 02-MAR-07',
+  'Other Hydrologic Evidence: Frost-heave hummocks (choice list)': '',
+  'Other Hydrologic Evidence: Geomorphic position (choise list)': '',
+  'Other Hydrologic Evidence: Microtopographic relief (choice list)': '',
+  'Other Hydrologic Evidence: Raised ant mounds (choice list)': '',
+  'Other Hydrologic Evidence: Shallow aquitard (choice list)': '',
+  'Other Hydrologic Evidence: Sphagnum moss (choice list)': '',
+  'Other Hydrologic Evidence: Stunted or stressed plants (choice list)': '',
   'Otolith Collected (Y/N) (choice list)': '',
   'Overhead Cover': '; Request Date: 29-JUN-10',
   Oxacillin: '; Request Date: 10-JUL-13',
@@ -23568,7 +23636,7 @@ export default {
   'Propane, 1,1,1,2,3,3-hexafluoro-': '',
   'Propane, 1,1,1,2,3,3-hexafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-3-[1,2,2-trifluoro-2-(1,2,2,2-tetrafluoroethoxy)-1-(trifluoromethyl)ethoxy]-':
     '',
-  'Propane, 1,1,1,2,3,3-hexafluoro-3-(2,2,2-trifluoroethoxy)-': '',
+  'Propane, 1,1,1,2,3,3-hexafluoro-3-(2,2,2-trifluoroethoxy)-': 'nbsp',
   'Propane, 1,1,1,2,3,3-hexafluoro-3-(2,2,3,3-tetrafluoropropoxy)-': '',
   'Propane, 1,1,1,2,3,3-hexafluoro-3-(3,3,3-trifluoropropoxy)-': '',
   'Propane, 1,1,1,2,3,3-hexafluoro-3-(fluoromethoxy)-': '',
@@ -25139,6 +25207,17 @@ export default {
   'Soil Metric Color (Moist): Hue': '',
   'Soil Metric Color (Moist): Value': '',
   'Soil Organic Features Present': '',
+  'Soil Saturation Evidence: Crayfish burrows (choice list)': '',
+  'Soil Saturation Evidence: Dry season water table (choice list)': '',
+  'Soil Saturation Evidence: Fiddler crab burrows (choice list)': '',
+  'Soil Saturation Evidence: Hydrogen sulfide odor (choice list)': '',
+  'Soil Saturation Evidence: Oxidized rhizospheres along living roots (choice list)':
+    '',
+  'Soil Saturation Evidence: Presence of reduced iron (choice list)': '',
+  'Soil Saturation Evidence: Recent iron reduction in tilled soils (choice list)':
+    '',
+  'Soil Saturation Evidence: Salt deposits (choice list)': '',
+  'Soil Saturation Evidence: Thin muck surface (choice list)': '',
   'Soil Texture: Organic (choice list)': '',
   'Soil Water': '; Request Date: 22-JUL-14',
   'Soil index, coefficient of haze (COH)': '; Request Date: 07-JUN-18',
@@ -25487,6 +25566,7 @@ export default {
   'Sulfoxaflor-13C15N2': '',
   'Sulfoxone sodium (Diazon)': 'Request Date: 7-Sep-19 (nps.gov cas# review)',
   Sulfur: '; Request Date: 22-JUL-14',
+  'Sulfur Delta 34': '',
   'Sulfur HCl Residue': '; Request Date: 22-JUL-14',
   'Sulfur HNO3 Residue': '; Request Date: 22-JUL-14',
   'Sulfur Organic Residual Mod': '; Request Date: 22-JUL-14',
@@ -25528,6 +25608,9 @@ export default {
     'The sum of positively charged ions in a water sample, principally calcium, magnesium, potassium, and sodium.; Request Date: 02-MAR-07',
   Sumatriptan: '; Request Date: 22-JUL-14',
   'Sumatriptan succinate': '; Request Date: 11-JAN-16',
+  'Surface Observation: High water table (choice list)': '',
+  'Surface Observation: Soil saturation (choice list)': '',
+  'Surface Observation: Surface water (choice list)': '',
   'Surface area':
     'The area of the external surfaces of an object, usually measured in units of area such as square inches, feet, cm, etc.; Request Date: 02-MAR-07',
   'Surface tension':
@@ -26478,6 +26561,7 @@ export default {
   'Tris(2-butoxyethyl) phosphate': 'Nemi.gov; Request Date: 02-MAR-07',
   'Tris(2-chloroethyl) phosphate': 'Nemi.gov; Request Date: 02-MAR-07',
   'Tris(2-ethylhexyl) phosphate': '',
+  'Tris(2-ethylhexyl) trimellitate': '',
   'Tris(2-methylpropyl) 3-(2,2,3,3,4,4,4-heptafluorobutanamido)propane-1,1,3-tricarboxylate':
     '',
   'Tris(3,3,4,4,5,5,6,6,6-nonafluorohexyl)(phenyl)stannane': '',
