@@ -40704,7 +40704,7 @@ export default {
     'Ancyronyx variegata',
     'Ancyronyx variegata***retired***use Ancyronyx variegatus',
     'Ancyronyx variegatus',
-    'Ancyronyx variegatus*',
+    'Ancyronyx variegatus**',
     'Andean pampas grass',
     "Anderson's lupine",
     'Andersonia',
