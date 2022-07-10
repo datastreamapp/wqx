@@ -9,7 +9,8 @@
     "pre-commit": "lint-staged --allow-empty",
     "lint": "npm run lint:js",
     "lint:js": "prettier --write **/*.js && standard --fix **/*.js",
-    "download": "rm -f 'All Domain Values.xml' && curl https://cdx2.epa.gov/wqx/download/DomainValues/All.zip -H \"Accept: application/x-zip-compressed\" -H \"Accept-Encoding: br, gzip, deflate\"  -H \"Accept-Language: en\" -H \"User-Agent: DataStreamBot\" -o All.zip && unzip All.zip && rm All.zip",
+    "download-next": "rm -f 'All Domain Values.xml' && curl https://cdx2.epa.gov/wqx/download/DomainValues/All.zip -H \"Accept: application/x-zip-compressed\" -H \"Accept-Encoding: br, gzip, deflate\"  -H \"Accept-Language: en\" -H \"User-Agent: DataStreamBot\" -o All.zip && unzip All.zip && rm All.zip",
+    "download": "rm -f 'All Domain Values.xml' && curl https://cdx.epa.gov/wqx/download/DomainValues/All.zip -H \"Accept: application/x-zip-compressed\" -H \"Accept-Encoding: br, gzip, deflate\"  -H \"Accept-Language: en\" -H \"User-Agent: DataStreamBot\" -o All.zip && unzip All.zip && rm All.zip",
     "build:values": "node --max-old-space-size=8192 --experimental-json-modules bin/build-values.js",
     "build:schema": "node --max-old-space-size=8192 --experimental-json-modules bin/build-schema.js",
     "build": "mkdir -p dist/json-schema && npm run build:values && npm run build:schema && cp -r src/deprecated dist/ && cp -r src/groups dist/ && cp -r src/required dist/ && cp -r src/values dist/ && cp -r src/descriptions dist/"
@@ -31,14 +32,14 @@
   },
   "homepage": "https://github.com/gordonfn/wqx#readme",
   "devDependencies": {
-    "@commitlint/cli": "^16.0.0",
-    "@commitlint/config-conventional": "^16.0.0",
-    "change-case": "4.1.2",
-    "glob": "7.2.0",
-    "json-schema-ref-parser": "9.0.9",
-    "xml-js": "1.6.11",
-    "husky": "^7.0.0",
-    "lint-staged": "^12.0.0",
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "change-case": "^4.1.2",
+    "glob": "^8.0.0",
+    "json-schema-ref-parser": "^9.0.9",
+    "xml-js": "^1.6.11",
+    "husky": "^8.0.0",
+    "lint-staged": "^13.0.0",
     "prettier": "^2.5.1",
     "standard": "^17.0.0"
   }
