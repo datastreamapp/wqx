@@ -501,7 +501,7 @@ export default {
   8029: '',
   8031: '8031 ~ EPA-RCA ; Acrylonitrile in Water Using Gas Chromatography',
   8032: '',
-  8033: '8033 ~ EPA-RCA ; Acetonitrile in Aqueous Matrices Using Gas Chromatography with Nitrogen-Phosphorus Detection',
+  8033: '',
   8034: '',
   8037: '',
   8038: '',
@@ -2094,6 +2094,8 @@ export default {
   '8015A': '',
   '8015B': '',
   '8015C': '8015C ~ EPA-RCA ; Nonhalogenated Organics by GC-FID',
+  '8015D':
+    '8015D ~ USEPA ; https://www.epa.gov/esam/epa-method-8015d-sw-846-nonhalogenated-organics-using-gcfid',
   '8015DRO': '',
   '8015M':
     'Recommended for determining total petroleum hydrocarbons in soils, sediments, and solid wastes. 8015M is a known modification of Method 8015B that provides an analysis of motor oil range organics. Sources: http://ocdimage.emnrd.state.nm.us/imaging/filestore/SantaFeAdmin/CF/259041/15239_58_CF.pdf https://www.sigmaaldrich.com/technical-documents/articles/analytical-applications/gc/us-epa-method-8015-modified-gc-analysis-of-gasoline-range-organics-gro-g005229.html',
@@ -3125,6 +3127,8 @@ export default {
   D7237:
     'Standard Test Method for Free Cyanide and Aquatic Free Cyanide with Flow Injection Analysis (FIA) Utilizing Gas Diffusion Separation and Amperometric Detection',
   D7284: '',
+  'D7315-07a':
+    'D7315-07a ~ ASTM ; Standard Test Method for Determination of Turbidity Above 1 Turbidity Unit (TU) in Static Mode',
   'D7315-12':
     'D7315-12 ~ ASTM ; Standard Test Method for Determination of Turbidity Above 1 Turbidity Unit (TU) in Static Mode',
   'D7511-12': 'https://www.astm.org/DATABASE.CART/HISTORICAL/D7511-12.htm',

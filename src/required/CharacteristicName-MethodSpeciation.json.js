@@ -90,6 +90,9 @@ export default {
     required: ['CharacteristicName']
   },
   then: {
+    properties: {
+      MethodSpeciation: {}
+    },
     required: ['MethodSpeciation']
   }
 }

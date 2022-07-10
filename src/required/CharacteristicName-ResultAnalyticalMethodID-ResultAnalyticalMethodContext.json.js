@@ -998,6 +998,10 @@ export default {
     required: ['CharacteristicName']
   },
   then: {
+    properties: {
+      ResultAnalyticalMethodID: {},
+      ResultAnalyticalMethodContext: {}
+    },
     required: ['ResultAnalyticalMethodID', 'ResultAnalyticalMethodContext']
   }
 }

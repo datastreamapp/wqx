@@ -1,19 +1,16 @@
 export default {
-  "if": {
-    "properties": {
-      "FrequencyClassType": {
-        "enum": [
-          "Measured Characteristic"
-        ]
+  if: {
+    properties: {
+      FrequencyClassType: {
+        enum: ['Measured Characteristic']
       }
     },
-    "required": [
-      "FrequencyClassType"
-    ]
+    required: ['FrequencyClassType']
   },
-  "then": {
-    "required": [
-      "Bounds"
-    ]
+  then: {
+    properties: {
+      Bounds: {}
+    },
+    required: ['Bounds']
   }
 }

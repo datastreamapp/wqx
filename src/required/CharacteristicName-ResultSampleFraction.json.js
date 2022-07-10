@@ -1824,6 +1824,9 @@ export default {
     required: ['CharacteristicName']
   },
   then: {
+    properties: {
+      ResultSampleFraction: {}
+    },
     required: ['ResultSampleFraction']
   }
 }

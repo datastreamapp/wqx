@@ -3983,7 +3983,7 @@ export default {
   '1-Methylanthracene': '610-48-0',
   '1-Methylchrysene': '3351-28-8',
   '1-Methylcyclohexene': '591-49-1',
-  '1-Methylethyl perfluorobutanimidoate': '837264',
+  '1-Methylethyl perfluorobutanimidoate': '4192-05-6.',
   '1-Methylfluoranthene': '',
   '1-Methylfluorene': '1730-37-6',
   '1-Methylindan': '767-58-8',
@@ -5184,6 +5184,8 @@ export default {
   '1H-Pyrazole-3-carbonitrile, 4,5-dihydro-4,4-bis(trifluoromethyl)-':
     '61859-93-6',
   '1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(tr':
+    '205650-65-3',
+  '1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethyl)-':
     '205650-65-3',
   '1H-Pyrazole-3-carboxamide, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-':
     '',
@@ -6584,6 +6586,7 @@ export default {
   '2,4,5-Trichlorotoluene': '6639-30-1',
   '2,4,5-Trimethylaniline': '137-17-7',
   '2,4,5-Trimethylbenzoic acid': '528-90-5',
+  '2,4,5-Trimethylphenol': '496-78-6',
   '2,4,6,6,7,7-Hexafluoro-1,5-dimethoxy-8-oxabicyclo[3.2.1]octan-3-one':
     '65594-12-9',
   '2,4,6,8,10-Pentaoxadodecan-12-oyl fluoride, 1,1,1,3,3,5,5,7,7,9,9,11,11-tridecafluoro-':
@@ -11947,6 +11950,8 @@ export default {
     '308-37-2',
   '5-Amino-1-2,6-dichloro-4-trifluoromethylphenyl-4-trifluoromethylthiopyrazole-3-carbonit':
     '120067-83-6',
+  '5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile':
+    '120067-83-6',
   '5-Aminosalicylic acid': '',
   '5-Benzamido-2,4-dibromo-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     '862133-37-7',
@@ -13500,9 +13505,11 @@ export default {
   'Bacillus thuringiensis israelensis': '',
   'Bacillus thuringiensis kurstaki': '',
   'Bacillus thuringiensis kurstaki BMP123': '',
+  'Bacillus thuringiensis kurstaki EG2348': '',
   'Bacillus thuringiensis kurstaki EG2371': '',
   'Bacillus thuringiensis kurstaki EG2424': '',
   'Bacillus thuringiensis kurstaki HD1, D-endotoxin, cry1A(b)': '',
+  'Bacillus thuringiensis morrisoni, lepidopteran active': '',
   'Bacillus thuringiensis tenebrionis': '',
   Bacitracin: '1405-87-4',
   'Back Water (Y/N) (choice list)': '',
@@ -14044,6 +14051,8 @@ export default {
   'Benzenemethanol, .alpha.-(aminomethyl)-3-(1,1,2,2-tetrafluoroethoxy)-, hydrochloride (1:1)':
     '70143-78-1',
   'Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, hydrochloride (1:1), (.':
+    '154-41-6',
+  'Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, hydrochloride (1:1), (.alpha.S)-rel-':
     '154-41-6',
   'Benzenemethanol, .alpha.-[(1S)-1-(methylamino)ethyl]-, (.alpha.S)-':
     '90-82-4',
@@ -20858,6 +20867,7 @@ export default {
     '90179-38-7',
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     '85228-95-1',
+  'N-ethyl Perfluorooctane sulfonamide': '4151-50-2',
   'N-ethyl perfluorooctanesulfonamidoacetic acid': '2991-50-6',
   'N-ethyl-2-[[[[3-[[[[3-[[[[3-[[[2-[ethyl[(perfluorooctyl)sulfonyl]amino]ethoxy]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]oxy]-N,N-dimethylethanaminium':
     '100066-53-3',
@@ -21891,13 +21901,21 @@ export default {
   'Particle size, Hydrometer (.015 mm)': '',
   'Particle size, Hydrometer (.026 mm)': '',
   'Particle size, Hydrometer (.040 mm)': '',
+  'Particle size, Hydrometer (0.0014mm)': '',
   'Particle size, Hydrometer (0.001mm)': '',
+  'Particle size, Hydrometer (0.0033mm)': '',
   'Particle size, Hydrometer (0.004mm)': '',
+  'Particle size, Hydrometer (0.0065mm)': '',
   'Particle size, Hydrometer (0.007mm)': '',
+  'Particle size, Hydrometer (0.0092mm)': '',
   'Particle size, Hydrometer (0.010mm)': '',
+  'Particle size, Hydrometer (0.0129mm)': '',
   'Particle size, Hydrometer (0.014mm)': '',
   'Particle size, Hydrometer (0.023mm)': '',
+  'Particle size, Hydrometer (0.0242mm)': '',
+  'Particle size, Hydrometer (0.0337mm)': '',
   'Particle size, Hydrometer (0.036mm)': '',
+  'Particle size, Hydrometer (0.0467mm)': '',
   'Particle size, Sieve No. 04, 4 mesh, (4.75mm)': '',
   'Particle size, Sieve No. 05, 5 mesh, (4.00mm)': '',
   'Particle size, Sieve No. 06, 6 mesh, (3.35mm)': '',
@@ -22593,6 +22611,7 @@ export default {
   Perfluorooctanamide: '423-54-1',
   Perfluorooctanamidine: '307-31-3',
   'Perfluorooctane amido amine': '376-23-8',
+  'Perfluorooctane sulfonamide': '754-91-6',
   'Perfluorooctane sulfonamide amino carboxylates': '',
   'Perfluorooctane sulfonamido ammonium bromide': '73149-44-7',
   'Perfluorooctane sulfonic acid': '1763-23-1',
@@ -23672,6 +23691,7 @@ export default {
   'Potassium perfluorooctanesulfonate': '2795-39-3',
   'Potassium permanganate': '7722-64-7',
   'Potassium sulfate': '7778-80-5',
+  'Potassium thiocyanate': '333-20-0',
   'Potassium tridecafluoroheptanoate': '21049-36-5',
   'Potassium trifluoro(pentafluoroethyl)borate(1-)': '476639-90-4',
   'Potassium trifluorotris(perfluoroethyl)phosphate': '123215-04-3',
@@ -26860,6 +26880,7 @@ export default {
   'Water Taste (choice list)': '',
   'Water appearance (text)': '',
   'Water content of snow': '',
+  'Water level': '',
   'Water level (probe)': '',
   'Water level in relation to reference point': '',
   'Water level in well during pumping, MSL': '',
@@ -27247,6 +27268,7 @@ export default {
   'cis-Perfluoromethylpropyl-(4-methylcyclohexyl)-amine': '',
   'cis-Permethric acid': '',
   'cis-Permethrin-13C6': '',
+  'cis-Propenylbenzene': '766-90-5',
   'cis-Propiconazole': '',
   'cis/trans-2-Butene': '107-01-7',
   'cis/trans-2-Hexene': '592-43-8',
@@ -27511,6 +27533,7 @@ export default {
   'trans-Permethric acid': '',
   'trans-Permethrin-13C6': '',
   'trans-Permethrin-d6': '',
+  'trans-Propenylbenzene': '873-66-5',
   'trans-Propiconazole': '',
   'trans-Stilbene': '',
   'tributyl(2-methoxypropyl)phosphanium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate':
