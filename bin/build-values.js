@@ -82,8 +82,13 @@ const run = async () => {
                 required: [requiredMapping[field]]
               },
               then: {
+                properties: {},
                 required: requiredMapping[col.colname]
               }
+            }
+            // required to allow use of strict
+            for (const property of requiredMapping[col.colname]) {
+              required[col.colname].then.properties[property] = {}
             }
           }
         }
