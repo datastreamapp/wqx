@@ -51,14 +51,13 @@
         ]
       }
     },
-    "required": [
-      "ActivityType"
-    ]
+    "required": ["ActivityType"]
   },
   "then": {
-    "required": [
-      "ResultAnalyticalMethodID",
-      "ResultAnalyticalMethodContext"
-    ]
+    "properties": {
+      "ResultAnalyticalMethodID": {},
+      "ResultAnalyticalMethodContext": {}
+    },
+    "required": ["ResultAnalyticalMethodID", "ResultAnalyticalMethodContext"]
   }
 }

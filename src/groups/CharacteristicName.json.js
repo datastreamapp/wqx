@@ -6516,6 +6516,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(tr':
     'Organics, Pesticide',
+  '1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethyl)-':
+    'Not Assigned',
   '1H-Pyrazole-3-carboxamide, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-':
     'Not Assigned',
   '1H-Pyrazole-4-carbonitrile, 4,5-dihydro-5,5-bis(trifluoromethyl)-':
@@ -8279,6 +8281,7 @@ export default {
   '2,4,5-Trichlorotoluene': 'Organics, Other',
   '2,4,5-Trimethylaniline': 'Not Assigned',
   '2,4,5-Trimethylbenzoic acid': 'Not Assigned',
+  '2,4,5-Trimethylphenol': 'Not Assigned',
   '2,4,6,6,7,7-Hexafluoro-1,5-dimethoxy-8-oxabicyclo[3.2.1]octan-3-one':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,4,6,8,10-Pentaoxadodecan-12-oyl fluoride, 1,1,1,3,3,5,5,7,7,9,9,11,11-tridecafluoro-':
@@ -14815,6 +14818,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '5-Amino-1-2,6-dichloro-4-trifluoromethylphenyl-4-trifluoromethylthiopyrazole-3-carbonit':
     'Organics, Pesticide',
+  '5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile':
+    'Not Assigned',
   '5-Aminosalicylic acid': 'Not Assigned',
   '5-Benzamido-2,4-dibromo-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -16597,10 +16602,12 @@ export default {
   'Bacillus thuringiensis israelensis': 'Microbiological',
   'Bacillus thuringiensis kurstaki': 'Microbiological',
   'Bacillus thuringiensis kurstaki BMP123': 'Microbiological',
+  'Bacillus thuringiensis kurstaki EG2348': 'Not Assigned',
   'Bacillus thuringiensis kurstaki EG2371': 'Microbiological',
   'Bacillus thuringiensis kurstaki EG2424': 'Microbiological',
   'Bacillus thuringiensis kurstaki HD1, D-endotoxin, cry1A(b)':
     'Microbiological',
+  'Bacillus thuringiensis morrisoni, lepidopteran active': 'Not Assigned',
   'Bacillus thuringiensis tenebrionis': 'Microbiological',
   Bacitracin: 'Not Assigned',
   'Back Water (Y/N) (choice list)': 'Not Assigned',
@@ -17234,6 +17241,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, hydrochloride (1:1), (.':
     'PFOA, Perfluorooctanoic Acid',
+  'Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, hydrochloride (1:1), (.alpha.S)-rel-':
+    'Not Assigned',
   'Benzenemethanol, .alpha.-[(1S)-1-(methylamino)ethyl]-, (.alpha.S)-':
     'Organics, Other',
   'Benzenemethanol, 2,5-dimethyl-.alpha.,.alpha.-bis(trifluoromethyl)-':
@@ -19690,7 +19699,7 @@ export default {
   'Depth of pond or reservoir in feet': 'Not Assigned',
   'Depth of water column': 'Physical',
   'Depth to water from rim of well casing': 'Not Assigned',
-  'Depth to water level below land surface': 'Not Assigned',
+  'Depth to water level below land surface': 'Information',
   'Depth, Net Beginning': 'Information',
   'Depth, Net End': 'Information',
   'Depth, Photic zone includes bottom (Y/N) (choice list)': 'Not Assigned',
@@ -19701,7 +19710,7 @@ export default {
   'Depth, bottom': 'Information',
   'Depth, data-logger (non-ported)': 'Information',
   'Depth, data-logger (ported)': 'Information',
-  'Depth, from below top of casing to water level': 'Not Assigned',
+  'Depth, from below top of casing to water level': 'Information',
   'Depth, from bottom of the sediment core': 'Not Assigned',
   'Depth, from end of the sediment core': 'Not Assigned',
   'Depth, from ground surface to well water level': 'Information',
@@ -21721,7 +21730,7 @@ export default {
   'Gross-Uranium': 'Radiochemical',
   'Ground Coverage Bare (choice list)': 'Physical',
   'Ground Coverage Herbaceous (choice list)': 'Physical',
-  'Groundwater level': 'Not Assigned',
+  'Groundwater level': 'Physical',
   Growth: 'Physical',
   'Growth/Biomass': 'Not Assigned',
   Guaiacol: 'Organics, Other',
@@ -22696,7 +22705,7 @@ export default {
   'Lake recreational suitability (choice list)': 'Physical',
   'Lake suitability for recreation (choice list)': 'Physical',
   'Lake surface condition (choice list)': 'Not Assigned',
-  'Lake water level (choice list)': 'Not Assigned',
+  'Lake water level (choice list)': 'Information',
   Lamivudine: 'Organics, Other',
   Lamotrigine: 'Organics, Other',
   'Lamotrigine-N-2-beta-D-glucuronide': 'Not Assigned',
@@ -24954,6 +24963,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     'PFAS,Perfluorinated Alkyl Substance',
+  'N-ethyl Perfluorooctane sulfonamide': 'Not Assigned',
   'N-ethyl perfluorooctanesulfonamidoacetic acid':
     'PFOA, Perfluorooctanoic Acid',
   'N-ethyl-2-[[[[3-[[[[3-[[[[3-[[[2-[ethyl[(perfluorooctyl)sulfonyl]amino]ethoxy]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]oxy]-N,N-dimethylethanaminium':
@@ -26056,13 +26066,21 @@ export default {
   'Particle size, Hydrometer (.015 mm)': 'Physical',
   'Particle size, Hydrometer (.026 mm)': 'Physical',
   'Particle size, Hydrometer (.040 mm)': 'Physical',
+  'Particle size, Hydrometer (0.0014mm)': 'Physical',
   'Particle size, Hydrometer (0.001mm)': 'Physical',
+  'Particle size, Hydrometer (0.0033mm)': 'Physical',
   'Particle size, Hydrometer (0.004mm)': 'Physical',
+  'Particle size, Hydrometer (0.0065mm)': 'Physical',
   'Particle size, Hydrometer (0.007mm)': 'Physical',
+  'Particle size, Hydrometer (0.0092mm)': 'Physical',
   'Particle size, Hydrometer (0.010mm)': 'Physical',
+  'Particle size, Hydrometer (0.0129mm)': 'Physical',
   'Particle size, Hydrometer (0.014mm)': 'Physical',
   'Particle size, Hydrometer (0.023mm)': 'Physical',
+  'Particle size, Hydrometer (0.0242mm)': 'Physical',
+  'Particle size, Hydrometer (0.0337mm)': 'Physical',
   'Particle size, Hydrometer (0.036mm)': 'Physical',
+  'Particle size, Hydrometer (0.0467mm)': 'Physical',
   'Particle size, Sieve No. 04, 4 mesh, (4.75mm)': 'Physical',
   'Particle size, Sieve No. 05, 5 mesh, (4.00mm)': 'Physical',
   'Particle size, Sieve No. 06, 6 mesh, (3.35mm)': 'Physical',
@@ -26976,6 +26994,7 @@ export default {
   Perfluorooctanamide: 'PFAS,Perfluorinated Alkyl Substance',
   Perfluorooctanamidine: 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorooctane amido amine': 'PFAS,Perfluorinated Alkyl Substance',
+  'Perfluorooctane sulfonamide': 'Not Assigned',
   'Perfluorooctane sulfonamide amino carboxylates':
     'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorooctane sulfonamido ammonium bromide':
@@ -28161,6 +28180,7 @@ export default {
   'Potassium perfluorooctanesulfonate': 'PFAS,Perfluorinated Alkyl Substance',
   'Potassium permanganate': 'Inorganics, Minor, Non-metals',
   'Potassium sulfate': 'Not Assigned',
+  'Potassium thiocyanate': 'Not Assigned',
   'Potassium tridecafluoroheptanoate': 'PFAS,Perfluorinated Alkyl Substance',
   'Potassium trifluoro(pentafluoroethyl)borate(1-)':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -30244,15 +30264,12 @@ export default {
   'Stream recreational suitability (choice list)': 'Physical',
   'Stream stage': 'Physical',
   'Stream velocity (choice list)': 'Physical',
-  'Stream water level': 'Not Assigned',
-  'Stream water level elevation above Guam Vertical Datum of 2004':
-    'Not Assigned',
+  'Stream water level': 'Physical',
+  'Stream water level elevation above Guam Vertical Datum of 2004': 'Physical',
   'Stream water level elevation above Virgin Islands Vertical Datum of 2009':
-    'Not Assigned',
-  'Stream water level elevation above local mean sea level (LMSL)':
-    'Not Assigned',
-  'Stream water level elevation, above Puerto Rico Datum of 2002':
-    'Not Assigned',
+    'Physical',
+  'Stream water level elevation above local mean sea level (LMSL)': 'Physical',
+  'Stream water level elevation, above Puerto Rico Datum of 2002': 'Physical',
   'Stream wetted width': 'Physical',
   'Stream width (choice list)': 'Physical',
   'Stream width measure': 'Physical',
@@ -30893,7 +30910,7 @@ export default {
   'Tidal elevation': 'Not Assigned',
   'Tidal stage': 'Not Assigned',
   'Tidal stage elevation': 'Not Assigned',
-  'Tidal water level': 'Not Assigned',
+  'Tidal water level': 'Physical',
   'Tide cycle duration': 'Physical',
   'Tide cycle time': 'Physical',
   'Tide range': 'Physical',
@@ -31755,6 +31772,7 @@ export default {
   'Water Taste (choice list)': 'Physical',
   'Water appearance (text)': 'Physical',
   'Water content of snow': 'Physical',
+  'Water level': 'Physical',
   'Water level (probe)': 'Physical',
   'Water level in relation to reference point': 'Physical',
   'Water level in well during pumping, MSL': 'Physical',
@@ -32198,6 +32216,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'cis-Permethric acid': 'Not Assigned',
   'cis-Permethrin-13C6': 'Not Assigned',
+  'cis-Propenylbenzene': 'Not Assigned',
   'cis-Propiconazole': 'Not Assigned',
   'cis/trans-2-Butene': 'Not Assigned',
   'cis/trans-2-Hexene': 'Not Assigned',
@@ -32481,6 +32500,7 @@ export default {
   'trans-Permethric acid': 'Not Assigned',
   'trans-Permethrin-13C6': 'Not Assigned',
   'trans-Permethrin-d6': 'Not Assigned',
+  'trans-Propenylbenzene': 'Not Assigned',
   'trans-Propiconazole': 'Not Assigned',
   'trans-Stilbene': 'Not Assigned',
   'tributyl(2-methoxypropyl)phosphanium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate':

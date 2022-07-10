@@ -25,7 +25,8 @@ export default {
   'Birge Closing Net':
     'For vertical and horizontal sampling within a specific zone. Has long inlet cone. Used for vertical and horizontal sampling within a specific zone of water. Consists of 2 truncated cones connected at their bases.',
   'Black Light Trap': '',
-  'Block Net': '',
+  'Block Net':
+    'block net used to funnel species downstream through a narrow opening so that they can be enumerated using sonar.',
   'Boat-Mounted Electroshock':
     'Sometimes called a stunboat the boat itself is the cathode, and the anode(s) are generally mounted off the bow. Electricity flowing between the cathode and anode. This affects the movement of the fish so that they swim toward the anode, where they can be caught.',
   'Bod Dredge': '',
@@ -93,7 +94,8 @@ export default {
     'The process of sending an electrical current through a body of water to stun fish for the purpose of colleting information on the health and composition of a fish population.',
   'Emergence Trap':
     'Emergence Trap is designed to float on the surface of a pond or other water body and will trap adult insects as they emerge from the water. This trap is ideal for estimating the population densities of insect species.',
-  'English Umbrella Net': '',
+  'English Umbrella Net':
+    'A rectangular net 200 cm on a side and 300 cm long made from 0.22 mm nylon mesh is designed to fit through a hole in an ice flow closed, and open once underneath. A messenger is used to close the mouth opening at a specific depth prior to retrieval though the ice',
   'Erwin Piston Corer':
     'A piston corer is a long, heavy tube plunged into the seafloor to extract samples of mud sediment. A piston inside the tube allows scientists to capture the longest possible samples, up to 90 feet in length. ',
   'Ewing Gravity Corer':
@@ -117,7 +119,8 @@ export default {
     'Gravity corers are widely used for the collection of the smallest marine metazoans (meiofauna) from subtidal grounds. The gravity corer is basically a weighted tube mounted within a frame that descends by gravity from the research vessel to the sea floor, where it penetrates the sediment to a given depth, filling the tube with sediment in the process. ',
   'Hand Corer':
     "A hand-held benthic corer uses a plumber's pipe test plug to create suction. The test plug excludes water, detritus, aquatic plants, and creates suction that holds substrate in the barrel of the corer.",
-  'Hanging Bag': '',
+  'Hanging Bag':
+    'Sampling bags are used to collect and contain samples of solids and liquids for laboratory tests. ',
   'Herring Trawl': 'A trawl to collect herring.',
   'Hess Sampler':
     'Hess-type stream samplers are intended for sampling macrobenthos in shallow, flowing waters. They are cylindrical with enclosed sides and an open top. They function similarly to the surber-type samplers but are capable of sampling gravel and small cobble bottoms.',
@@ -132,6 +135,8 @@ export default {
   'Hydraulic Grab': '',
   'Hydraulic Push Core/Geoprobe': '',
   Hydroacoustics: '',
+  Hydrometer:
+    'A hydrometer or lactometer is an instrument used for measuring density or relative density of liquids based on the concept of buoyancy. hydrometer, device for measuring some characteristics of a liquid, such as its density (weight per unit volume) or specific gravity (weight per unit volume compared with water).',
   'Hydroplastic (PVC) Corer':
     'a pvc device having a hollow cylindrical drill or tube, used for taking samples of earth, rock, etc., from below the surface of the ground or ocean bottom.',
   'Ice Auger':
@@ -147,7 +152,8 @@ export default {
     'For rocky-bottom stream sampling of macro, a kick net of 590 µm (a #30 mesh size) or 500 µm (#35 mesh size) is recommended. (Mesh size is usually measured in microns, µm. The higher the number, the coarser the mesh.)',
   'Kullenberg Gravity Corer':
     'The piston corer is a long, heavy tube plunged into the seafloor to extract samples of mud sediment. A piston inside the tube allows scientists to capture the longest possible samples, up to 90 feet in length. Kullenberg modifications, adding an internal piston that helps researchers gather even longer mud samples. ',
-  'Large Van Veen Grab': '',
+  'Large Van Veen Grab':
+    'The Van Veen grab is designed for collecting sediment samples in fresh and marine water, from soft or medium-hard bottoms like sand, gravel, consolidated marl or clay. It consists of two buckets connected by a hinge. ',
   'Larval Light Fish Trap':
     'Passive sampling of a broad range of planktonic organisms',
   'Long Line':
@@ -291,7 +297,8 @@ export default {
   'Split Spoon':
     'Split Spoon Samplers are ideal for surface sampling or sampling at various depths. Split spoon samplers split apart along the length of the tube to allow a for a true cross section evaluation and gentle sample removal.',
   'Square-Mouth Net': '',
-  'Stainless Steel Spoon': '',
+  'Stainless Steel Spoon':
+    'Stainless Steel Spoon has a number of properties: it is very strong even at high temperatures, resistant to water and, most importantly, resistant to rust.',
   'Stationary Drop Net': '',
   'Still Camera': '',
   'Stop Net': '',

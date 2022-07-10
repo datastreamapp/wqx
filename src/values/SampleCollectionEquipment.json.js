@@ -86,6 +86,7 @@ export default {
     'Hydraulic Grab',
     'Hydraulic Push Core/Geoprobe',
     'Hydroacoustics',
+    'Hydrometer',
     'Hydroplastic (PVC) Corer',
     'Ice Auger',
     'Insect Trap',

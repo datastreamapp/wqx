@@ -4806,6 +4806,8 @@ export default {
   '1H-Pyrazole-3-carbonitrile, 4,5-dihydro-4,4-bis(trifluoromethyl)-': '',
   '1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(tr***retired***use Fipronil Desulfinyl':
     'Request Date: 28-Apr-19 (nps.gov cas# review)',
+  '1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethyl)-':
+    '',
   '1H-Pyrazole-3-carboxamide, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-':
     'NWIS',
   '1H-Pyrazole-4-carbonitrile, 4,5-dihydro-5,5-bis(trifluoromethyl)-': '',
@@ -6280,6 +6282,7 @@ export default {
   '2,4,5-Trichlorotoluene': '',
   '2,4,5-Trimethylaniline': '; Request Date: 14-APR-15',
   '2,4,5-Trimethylbenzoic acid': '; Request Date: 02-MAR-07',
+  '2,4,5-Trimethylphenol': '',
   '2,4,6,6,7,7-Hexafluoro-1,5-dimethoxy-8-oxabicyclo[3.2.1]octan-3-one': '',
   '2,4,6,8,10-Pentaoxadodecan-12-oyl fluoride, 1,1,1,3,3,5,5,7,7,9,9,11,11-tridecafluoro-':
     '',
@@ -11337,6 +11340,8 @@ export default {
   '5-Amino-1,1,1,2,2,3,3-heptafluoroheptan-4-ol-hydrogen chloride (1:1)': '',
   '5-Amino-1-2,6-dichloro-4-trifluoromethylphenyl-4-trifluoromethylthiopyrazole-3-carbonit***retired***use Fipronil Sulfide':
     'Request Date: 30-May-19 5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile***retired***use Fipronil Sulfide (nps.gov cas# review)',
+  '5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile':
+    '',
   '5-Aminosalicylic acid': 'NWIS',
   '5-Benzamido-2,4-dibromo-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     '',
@@ -12945,10 +12950,12 @@ export default {
   'Bacillus thuringiensis israelensis': '; Request Date: 02-MAR-07',
   'Bacillus thuringiensis kurstaki': '; Request Date: 02-MAR-07',
   'Bacillus thuringiensis kurstaki BMP123': '; Request Date: 02-MAR-07',
+  'Bacillus thuringiensis kurstaki EG2348': '',
   'Bacillus thuringiensis kurstaki EG2371': '; Request Date: 02-MAR-07',
   'Bacillus thuringiensis kurstaki EG2424': '; Request Date: 02-MAR-07',
   'Bacillus thuringiensis kurstaki HD1, D-endotoxin, cry1A(b)':
     '; Request Date: 02-MAR-07',
+  'Bacillus thuringiensis morrisoni, lepidopteran active': '',
   'Bacillus thuringiensis tenebrionis': '; Request Date: 02-MAR-07',
   Bacitracin:
     'A complex combination of polypeptides produced by the metabolic processes of Bacillus subtilis and licheniformis.; Request Date: 02-MAR-07',
@@ -13529,6 +13536,8 @@ export default {
     '',
   'Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, hydrochloride (1:1), (.***retired***use Phenylpropanolamine hydrochloride':
     'Request Date: 6-Dec-13 (nps.gov cas# review)| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, hydrochloride (1:1), (.alpha.S)-rel-':
+    '',
   'Benzenemethanol, .alpha.-[(1S)-1-(methylamino)ethyl]-, (.alpha.S)-':
     '; Request Date: 05-DEC-12',
   'Benzenemethanol, 2,5-dimethyl-.alpha.,.alpha.-bis(trifluoromethyl)-': '',
@@ -20510,6 +20519,7 @@ export default {
     '',
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     '',
+  'N-ethyl Perfluorooctane sulfonamide': '',
   'N-ethyl perfluorooctanesulfonamidoacetic acid': 'Request Date: 09-MAY-17',
   'N-ethyl-2-[[[[3-[[[[3-[[[[3-[[[2-[ethyl[(perfluorooctyl)sulfonyl]amino]ethoxy]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]oxy]-N,N-dimethylethanaminium':
     '',
@@ -21627,13 +21637,21 @@ export default {
   'Particle size, Hydrometer (.015 mm)': '; Request Date: 18-APR-13',
   'Particle size, Hydrometer (.026 mm)': '; Request Date: 18-APR-13',
   'Particle size, Hydrometer (.040 mm)': '; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0014mm)': '',
   'Particle size, Hydrometer (0.001mm)': '; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0033mm)': '',
   'Particle size, Hydrometer (0.004mm)': '; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0065mm)': '',
   'Particle size, Hydrometer (0.007mm)': '; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0092mm)': '',
   'Particle size, Hydrometer (0.010mm)': '; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0129mm)': '',
   'Particle size, Hydrometer (0.014mm)': '; Request Date: 18-APR-13',
   'Particle size, Hydrometer (0.023mm)': '; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0242mm)': '',
+  'Particle size, Hydrometer (0.0337mm)': '',
   'Particle size, Hydrometer (0.036mm)': '; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0467mm)': '',
   'Particle size, Sieve No. 04, 4 mesh, (4.75mm)': '; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 05, 5 mesh, (4.00mm)': '; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 06, 6 mesh, (3.35mm)': '; Request Date: 02-MAR-07',
@@ -22358,6 +22376,7 @@ export default {
   Perfluorooctanamide: '',
   Perfluorooctanamidine: '',
   'Perfluorooctane amido amine': '',
+  'Perfluorooctane sulfonamide': '',
   'Perfluorooctane sulfonamide amino carboxylates': '',
   'Perfluorooctane sulfonamido ammonium bromide': '',
   'Perfluorooctane sulfonic acid': 'Request Date: 21-OCT-08',
@@ -23435,6 +23454,7 @@ export default {
   'Potassium perfluorooctanesulfonate': '',
   'Potassium permanganate': '; Request Date: 02-MAR-07',
   'Potassium sulfate': '; Request Date: 02-MAR-07',
+  'Potassium thiocyanate': '',
   'Potassium tridecafluoroheptanoate': '',
   'Potassium trifluoro(pentafluoroethyl)borate(1-)': '',
   'Potassium trifluorotris(perfluoroethyl)phosphate': '',
@@ -26832,6 +26852,7 @@ export default {
     'A text description of water appearance.; Request Date: 02-MAR-07',
   'Water content of snow':
     'The amount of water in snow.; Request Date: 02-MAR-07',
+  'Water level': 'Water level at sample collection time',
   'Water level (probe)': '; Request Date: 02-MAR-07',
   'Water level in relation to reference point': '; Request Date: 06-NOV-12',
   'Water level in well during pumping, MSL': '; Request Date: 02-MAR-07',
@@ -27225,6 +27246,7 @@ export default {
   'cis-Perfluoromethylpropyl-(4-methylcyclohexyl)-amine': '',
   'cis-Permethric acid': 'NWIS',
   'cis-Permethrin-13C6': 'NWIS',
+  'cis-Propenylbenzene': '',
   'cis-Propiconazole': '; Request Date: 10-SEP-14',
   'cis/trans-2-Butene': '',
   'cis/trans-2-Hexene': '',
@@ -27512,6 +27534,7 @@ export default {
   'trans-Permethric acid': 'NWIS',
   'trans-Permethrin-13C6': 'NWIS',
   'trans-Permethrin-d6': 'NWIS',
+  'trans-Propenylbenzene': '',
   'trans-Propiconazole': '; Request Date: 10-SEP-14',
   'trans-Stilbene': 'NWIS',
   'tributyl(2-methoxypropyl)phosphanium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate':

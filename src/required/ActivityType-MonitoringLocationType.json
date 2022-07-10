@@ -33,13 +33,12 @@
         ]
       }
     },
-    "required": [
-      "ActivityType"
-    ]
+    "required": ["ActivityType"]
   },
   "then": {
-    "required": [
-      "MonitoringLocationType"
-    ]
+    "properties": {
+      "MonitoringLocationType": {}
+    },
+    "required": ["MonitoringLocationType"]
   }
 }
