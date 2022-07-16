@@ -582,6 +582,7 @@ export default {
     'HBMI_WQX',
     'HDRINC_WQX',
     'HEPD_WQX',
+    'HERRERA_ENVIRONMENTAL',
     'HI301H_WQX',
     'HIA_WQX',
     'HIEPO_WQX',

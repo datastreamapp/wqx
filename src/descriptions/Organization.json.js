@@ -636,6 +636,7 @@ export default {
   HBMI_WQX: ' (Tribal)',
   HDRINC_WQX: '',
   HEPD_WQX: '',
+  HERRERA_ENVIRONMENTAL: '',
   HI301H_WQX: 'Water Quality Monitoring Datta',
   HIA_WQX: 'Water Quality Data',
   HIEPO_WQX: 'Water Quality Monitoring for TMDL Program',
@@ -711,7 +712,7 @@ export default {
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX:
     'Klamath Tribes Natural Resources Department; Protection of the natural-resource related rights guaranteed to the tribes in the treaty of 1864 is largely the responsibility of the Natural Resources Department. This department aids the Klamath Tribes mission by protecting preserving and enhancing natural resources.',
-  KNA: '',
+  KNA: 'Test organization for Kisters NA for the QuickDrops project.',
   KNRD_WQX: 'Kalispel Natural Resources Department Tribal (Washington);',
   KS_GEOWATER_CTR: '',
   KWMNDATA_WQX:
@@ -827,7 +828,7 @@ export default {
   MEDEP_WQX: 'Maine Dept of Env Protection.',
   MEIYINWUSUNYPLATTSBURGH: '',
   MENOM_WQX: '',
-  MERI: 'Our mission is to provide the scientific community, policy makers, and the public with the knowledge and predictive understanding necessary to conserve, protect, and manage the District ecosystems and the services they provide.',
+  MERI: 'Meadowlands Environmental Research Institute, Our mission is to provide the scientific community, policy makers, and the public with the knowledge and predictive understanding necessary to conserve, protect, and manage the District ecosystems and the services they provide.',
   MERRIMACK_RIVER_WATERSHED_WQX: '',
   MESKWAKI_DNR: 'Meskwaki Department of Natural Resources;',
   METC_WQX: 'Metropolitan Council (Minnesota)',
