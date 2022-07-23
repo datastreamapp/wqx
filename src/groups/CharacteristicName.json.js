@@ -5118,6 +5118,7 @@ export default {
   '1-Methylanthracene': 'Not Assigned',
   '1-Methylchrysene': 'Not Assigned',
   '1-Methylcyclohexene': 'Not Assigned',
+  '1-Methyldibenzothiophene': 'Not Assigned',
   '1-Methylethyl perfluorobutanimidoate': 'PFAS,Perfluorinated Alkyl Substance',
   '1-Methylfluoranthene': 'Not Assigned',
   '1-Methylfluorene': 'Organics, Other',
@@ -6442,13 +6443,13 @@ export default {
   '1H-1,2,4-Triazol-5-amine, 1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-N-ethyl-3-(1,1,2,2,2-pentafluoroethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1H-1,2,4-Triazole': 'Not Assigned',
+  '1H-1,2,4-Triazole, 1-[(2R)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
+    'PFAS,Perfluorinated Alkyl Substance',
+  '1H-1,2,4-Triazole, 1-[(2S)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
+    'PFAS,Perfluorinated Alkyl Substance',
   '1H-1,2,4-Triazole, 3-(heptadecafluorooctyl)-5-methyl-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1H-1,2,4-Triazole,1-[[2-(2,4-dichlorophenyl)-4-(1,1,2,2-tetrafluoroethyl)-1,3-dioxolan-2-yl]methyl]-':
-    'PFAS,Perfluorinated Alkyl Substance',
-  '1H-1,2,4-Triazole,���1-[(2R)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
-    'PFAS,Perfluorinated Alkyl Substance',
-  '1H-1,2,4-Triazole,���1-[(2S)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1H-1,2,4-Triazole-3-carboxamide, 1-[4-chloro-3-[(2,2,3,3,3-pentafluoropropoxy)methyl]phenyl]-5-phenyl-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -10078,11 +10079,11 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   "2-Propenoic acid, 1,1'-(2,2,3,3,4,4-hexafluoro-1,5-pentanediyl) ester":
     'PFAS,Perfluorinated Alkyl Substance',
+  '2-Propenoic acid, 1,1-(2,2,3,3,4,4,5,5-octafluoro-1,6-hexanediyl) ester, homopolymer':
+    'PFAS,Perfluorinated Alkyl Substance',
+  '2-Propenoic acid, 1,1-[2,2-bis[difluoro[1,1,2,2-tetrafluoro-3-[(1-oxo-2-propen-1-yl)oxy]propoxy]methyl]-1,1,3,3-tetrafluoro-1,3-propan ediyl]bis[oxy(2,2,3,3-tetrafluoro-3,1-propanediyl)] ester':
+    'PFAS,Perfluorinated Alkyl Substance',
   '2-Propenoic acid, 1,1-dimethylethyl ester, polymer with 4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole and tetrafluoroethene':
-    'PFAS,Perfluorinated Alkyl Substance',
-  '2-Propenoic acid, 1,1���-(2,2,3,3,4,4,5,5-octafluoro-1,6-hexanediyl) ester, homopolymer':
-    'PFAS,Perfluorinated Alkyl Substance',
-  '2-Propenoic acid, 1,1���-[2,2-bis[difluoro[1,1,2,2-tetrafluoro-3-[(1-oxo-2-propen-1-yl)oxy]propoxy]methyl]-1,1,3,3-tetrafluoro-1,3-propan ediyl]bis[oxy(2,2,3,3-tetrafluoro-3,1-propanediyl)] ester':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Propenoic acid, 1,6-hexanediyl ester': 'Not Assigned',
   '2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester':
@@ -11804,7 +11805,7 @@ export default {
   '3,3-Dimethylbutan-2-yl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3-Dimethylhexane': 'Not Assigned',
-  '3,3���-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]':
+  '3,3-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]':
     'PFAS,Perfluorinated Alkyl Substance',
   "3,4',5-Trichlorobiphenyl": 'Organics, PCBs',
   "3,4'-Bis(heptadecafluorooctyl)-2,2'-bithiophene":
@@ -18324,10 +18325,14 @@ export default {
   'C1-C4 Chrysenes': 'Organics, Other',
   'C1-C4 Fluoranthenes': 'Organics, Other',
   'C1-C4 Phenanthrenes': 'Organics, Other',
+  'C1-Chrysenes': 'Not Assigned',
+  'C1-Decalins': 'Not Assigned',
+  'C1-Dibenzo[a,h]anthracenes': 'Not Assigned',
   'C1-Dibenzothiophenes': 'Organics, Other',
   'C1-Fluoranthenes/pyrenes': 'Organics, Other',
   'C1-Fluorenes': 'Organics, Other',
   'C1-MW 228 PAH': 'Not Assigned',
+  'C1-Naphthobenzothiophenes': 'Not Assigned',
   'C1-Phenanthrenes/anthracenes': 'Organics, Other',
   'C10 Hydrocarbons': 'Organics, Other',
   'C10-16-Alkyldimethylamines oxides': 'Organics, Other',
@@ -18355,31 +18360,48 @@ export default {
   'C2-Benzo[a]anthracenes/chrysenes': 'Organics, Other',
   'C2-Benzofluoranthenes/benzopyrenes': 'Organics, Other',
   'C2-Benzopyrenes/perylenes': 'Not Assigned',
+  'C2-Benzothiophenes': 'Not Assigned',
   'C2-Biphenyls': 'Organics, Other',
   'C2-Chrysenes': 'Organics, Other',
+  'C2-Decalins': 'Not Assigned',
+  'C2-Dibenzo[a,h]anthracenes': 'Not Assigned',
   'C2-Dibenzothiophenes': 'Organics, Other',
   'C2-Fluoranthenes/pyrenes': 'Organics, Other',
   'C2-Fluorenes': 'Organics, Other',
   'C2-Naphthalenes': 'Organics, Other',
+  'C2-Naphthobenzothiophenes': 'Not Assigned',
   'C2-Phenanthrenes/anthracenes': 'Organics, Other',
   'C20 Hydrocarbons': 'Organics, Other',
+  'C20-TAS': 'Not Assigned',
   'C21-C34 Aliphatics': 'Organics, Other',
   'C21-C34 Aromatics': 'Organics, Other',
+  'C21-TAS': 'Not Assigned',
   'C22 Hydrocarbons': 'Organics, Other',
   'C23-C32 Hydrocarbons': 'Organics, Other',
   'C24 Hydrocarbons': 'Organics, Other',
   'C24-C36 Hydrocarbons': 'Organics, Other',
   'C26 Hydrocarbons': 'Organics, Other',
+  'C26(20R)-TAS': 'Not Assigned',
+  'C26(20S)-TAS': 'Not Assigned',
+  'C27(20R)-TAS': 'Not Assigned',
+  'C27(20S)-TAS': 'Not Assigned',
   'C28 Hydrocarbons': 'Organics, Other',
+  'C28(20R)-TAS': 'Not Assigned',
+  'C28(20S)-TAS': 'Not Assigned',
   'C29 Hydrocarbons': 'Organics, Other',
+  'C29-Hopane': 'Not Assigned',
   'C3-Benzenes, propyl': 'Organics, Other',
   'C3-Benzo[a]anthracenes/chrysenes': 'Organics, Other',
   'C3-Benzopyrenes/perylenes': 'Not Assigned',
+  'C3-Benzothiophenes': 'Not Assigned',
   'C3-Chrysenes': 'Organics, Other',
+  'C3-Decalins': 'Not Assigned',
+  'C3-Dibenzo(a,h)anthracenes': 'Not Assigned',
   'C3-Dibenzothiophenes': 'Organics, Other',
   'C3-Fluoranthenes/pyrenes': 'Organics, Other',
   'C3-Fluorenes': 'Organics, Other',
   'C3-Naphthalenes': 'Organics, Other',
+  'C3-Naphthobenzothiophenes': 'Not Assigned',
   'C3-Phenanthrenes/anthracenes': 'Organics, Other',
   'C30 Hydrocarbons': 'Organics, Other',
   'C30-Hopane': 'Organics, Other',
@@ -18392,13 +18414,16 @@ export default {
   'C4-Benzenes, butyl': 'Organics, Other',
   'C4-Benzo[a]anthracenes/chrysenes': 'Organics, Other',
   'C4-Benzopyrenes/perylenes': 'Not Assigned',
+  'C4-Benzothiophenes': 'Not Assigned',
   'C4-C6 Aliphatics': 'Organics, Other',
   'C4-C9 Alkenes': 'Not Assigned',
   'C4-Chrysenes': 'Organics, Other',
+  'C4-Decalins': 'Not Assigned',
   'C4-Dibenzothiophenes': 'Organics, Other',
   'C4-Fluoranthenes/pyrenes': 'Organics, Other',
   'C4-Fluorene': 'Organics, Other',
   'C4-Naphthalenes': 'Organics, Other',
+  'C4-Naphthobenzothiophenes': 'Not Assigned',
   'C4-Phenanthrenes/anthracenes': 'Organics, Other',
   'C5-Benzenes, pentyl': 'Organics, Other',
   'C5-Benzo[a]anthracenes/chrysenes': 'Not Assigned',
@@ -20365,6 +20390,7 @@ export default {
   'Dry Bulk Density of Soils': 'Physical',
   'Dry Solids at 105 C': 'Physical',
   'Dry Solids at 60 C': 'Physical',
+  'Dry content': 'Not Assigned',
   'Dry deposition': 'Information',
   'Dry period preceding precipitation': 'Information',
   Dulcin: 'Not Assigned',
@@ -20826,6 +20852,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Ethene, 1,1,2,2-tetrafluoro-, oxidized, polymd., reduced, fluorinated, reduced, 3-[[4-[dimethyl[2-(trimethoxysilyl]ethyl':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1 -oxybis[ethene]':
+    'PFAS,Perfluorinated Alkyl Substance',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1,2-trifluoro-2-(1,1,2,2,2-pentafluoroethoxy)ethene':
     'PFAS,Perfluorinated Alkyl Substance',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1-difluoroethene':
@@ -20833,8 +20861,6 @@ export default {
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1-difluoroethene and 1,1,2-trifluoro-2-(trifluoromethoxy)ethene':
     'PFAS,Perfluorinated Alkyl Substance',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1-difluoroethene, ethene and 1,1,2-trifluoro-2-(trifluoromethoxy)ethene':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1���-oxybis[ethene]':
     'PFAS,Perfluorinated Alkyl Substance',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,2,2-trifluoro-2-(trifluoromethoxy)ethene':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -22843,6 +22869,8 @@ export default {
   'Linoleic acid': 'Organics, Other',
   Linuron: 'Organics, Pesticide',
   'Linuron-d6': 'Organics, Other',
+  'Lipid (dry) content': 'Not Assigned',
+  'Lipid (wet) content': 'Not Assigned',
   Lipids: 'Organics, Other',
   'Liquid limit': 'Physical',
   'Liquid water content, snowpack': 'Not Assigned',
@@ -24053,23 +24081,23 @@ export default {
   'N,N-Dimethyloctadecylamine': 'Not Assigned',
   'N,N-Dimethyloctylamine': 'Not Assigned',
   'N,N-Dimethylstearamide': 'Not Assigned',
+  'N,N-[1,6-Hexanediylbis[(2-oxo-3,5-oxazolidinediyl)methylene]]bis[N-methyl-perfluoro-1-octanesulfonamide]':
+    'PFAS,Perfluorinated Alkyl Substance',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-decanesulfonamide] ammonium salt':
+    'PFAS,Perfluorinated Alkyl Substance',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-dodecanesulfonamide] ammonium salt':
+    'PFAS,Perfluorinated Alkyl Substance',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-hexanesulfonamide] ammonium salt':
+    'PFAS,Perfluorinated Alkyl Substance',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-tetradecanesulfonamide] ammonium salt':
+    'PFAS,Perfluorinated Alkyl Substance',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluorodecanesulfonamide]':
+    'PFAS,Perfluorinated Alkyl Substance',
   'N,N-bis(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonylamine lithium salt':
     'PFAS,Perfluorinated Alkyl Substance',
   'N,N-diethylethanaminium ((perfluorooctyl)ethyl)phosphonate (1:1)':
     'PFAS,Perfluorinated Alkyl Substance',
   'N,N-dimethyl-2-[(perfluorododecanoyl)amino]ethan-1-amine N-oxide':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'N,N���-[1,6-Hexanediylbis[(2-oxo-3,5-oxazolidinediyl)methylene]]bis[N-methyl-perfluoro-1-octanesulfonamide]':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-decanesulfonamide] ammonium salt':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-dodecanesulfonamide] ammonium salt':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-hexanesulfonamide] ammonium salt':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-tetradecanesulfonamide] ammonium salt':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluorodecanesulfonamide]':
     'PFAS,Perfluorinated Alkyl Substance',
   'N-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)cyclohexanecarboxamide':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -25536,6 +25564,7 @@ export default {
   'Oil slick severity, choice list': 'Not Assigned',
   'Okadaic acid': 'Not Assigned',
   Oleamide: 'Organics, Other',
+  'Oleanane, (18.alpha.)-': 'Not Assigned',
   'Oleandomycin phosphate': 'Organics, Other',
   'Oleic acid': 'Organics, Other',
   Olivetol: 'Not Assigned',
@@ -25738,14 +25767,17 @@ export default {
   'PBDE-156/169': 'Not Assigned',
   'PCB congener 202-13C12': 'Not Assigned',
   'PCB-100/194': 'Organics, PCBs',
+  'PCB-105/127': 'Not Assigned',
   'PCB-105/132': 'Organics, PCBs',
   'PCB-105/132/153': 'Organics, PCBs',
+  'PCB-106/107': 'Not Assigned',
   'PCB-106/118': 'Organics, PCBs',
   'PCB-107/108': 'Organics, PCBs',
   'PCB-107/109': 'Organics, PCBs',
   'PCB-107/123': 'Not Assigned',
   'PCB-107/124': 'Organics, PCBs',
   'PCB-108/112': 'Organics, PCBs',
+  'PCB-108/118': 'Not Assigned',
   'PCB-108/124': 'Organics, PCBs',
   'PCB-109/123': 'Organics, PCBs',
   'PCB-110 + 2,4-DDD': 'Organics, PCBs',
@@ -25753,8 +25785,10 @@ export default {
   'PCB-110/120': 'Organics, Other',
   'PCB-111/115': 'Organics, PCBs',
   'PCB-112/119': 'Organics, PCBs',
+  'PCB-114/122': 'Not Assigned',
   'PCB-114/131': 'Organics, PCBs',
   'PCB-115/87': 'Organics, PCBs',
+  'PCB-116/117': 'Not Assigned',
   'PCB-116/125': 'Organics, PCBs',
   'PCB-117/116/85/110/115': 'Organics, PCBs',
   'PCB-117/136': 'Organics, PCBs',
@@ -25788,6 +25822,7 @@ export default {
   'PCB-132/153': 'Organics, PCBs',
   'PCB-132/161': 'Organics, PCBs',
   'PCB-132/168': 'Organics, PCBs',
+  'PCB-133/134': 'Not Assigned',
   'PCB-133/142': 'Organics, PCBs',
   'PCB-133/149': 'Organics, PCBs',
   "PCB-134 + 4,4'-DDD": 'Organics, PCBs',
@@ -25797,6 +25832,7 @@ export default {
   'PCB-135/151': 'Organics, PCBs',
   'PCB-135/151/154': 'Organics, PCBs',
   'PCB-136/148': 'Organics, PCBs',
+  'PCB-136/154': 'Not Assigned',
   'PCB-137/164': 'Organics, PCBs',
   'PCB-137/176': 'Organics, PCBs',
   "PCB-137/176 +  4,4'-DDD": 'Organics, PCBs',
@@ -25808,6 +25844,8 @@ export default {
   'PCB-139/140': 'Organics, PCBs',
   'PCB-139/149': 'Organics, PCBs',
   'PCB-141/179': 'Organics, PCBs',
+  'PCB-142/146/161': 'Not Assigned',
+  'PCB-145/148': 'Not Assigned',
   'PCB-146 + Nonachlor,cis-': 'Organics, PCBs',
   'PCB-146/165': 'Organics, PCBs',
   'PCB-147/149': 'Organics, PCBs',
@@ -25833,6 +25871,7 @@ export default {
   'PCB-171/202': 'Organics, PCBs',
   'PCB-172/192': 'Organics, PCBs',
   'PCB-172/197': 'Organics, PCBs',
+  'PCB-178/186': 'Not Assigned',
   'PCB-18/30': 'Organics, PCBs',
   'PCB-18/32': 'Organics, PCBs',
   'PCB-180/193': 'Organics, PCBs',
@@ -25870,6 +25909,7 @@ export default {
   'PCB-4/10': 'Organics, PCBs',
   'PCB-40/103': 'Organics, PCBs',
   'PCB-40/41/71': 'Organics, PCBs',
+  'PCB-40/57': 'Not Assigned',
   'PCB-40/71': 'Organics, PCBs',
   'PCB-41/64': 'Organics, PCBs',
   'PCB-41/64/68': 'Organics, PCBs',
@@ -25884,6 +25924,7 @@ export default {
   'PCB-43/73': 'Organics, PCBs',
   'PCB-44/47/65': 'Organics, PCBs',
   'PCB-45/51': 'Organics, PCBs',
+  'PCB-46/69/73': 'Not Assigned',
   'PCB-47/104': 'Organics, PCBs',
   'PCB-47/48': 'Organics, PCBs',
   'PCB-47/48/75': 'Organics, PCBs',
@@ -25934,9 +25975,11 @@ export default {
   'PCB-83/108': 'Organics, PCBs',
   'PCB-83/109': 'Not Assigned',
   'PCB-83/119': 'Organics, PCBs',
+  'PCB-83/120': 'Not Assigned',
   'PCB-83/99': 'Organics, PCBs',
   'PCB-84 + Chlordane(5)': 'Organics, PCBs',
   'PCB-84/89/92': 'Organics, PCBs',
+  'PCB-84/90/101': 'Not Assigned',
   'PCB-84/92': 'Organics, PCBs',
   "PCB-85 + 4,4'-DDE": 'Organics, PCBs',
   'PCB-85/110': 'Organics, PCBs',
@@ -25951,6 +25994,7 @@ export default {
   'PCB-86/87/97/111/117/125': 'Organics, PCBs',
   'PCB-86/97': 'Organics, PCBs',
   'PCB-86/97/117': 'Organics, PCBs',
+  'PCB-86/97/125': 'Not Assigned',
   'PCB-87/111': 'Organics, PCBs',
   'PCB-87/111/115': 'Organics, PCBs',
   'PCB-87/115': 'Organics, PCBs',
@@ -25958,6 +26002,7 @@ export default {
   'PCB-87/117/125': 'Organics, PCBs',
   'PCB-88/121': 'Organics, PCBs',
   'PCB-88/91': 'Organics, PCBs',
+  'PCB-89/113': 'Not Assigned',
   'PCB-89/90/101': 'Organics, PCBs',
   'PCB-90/101': 'Organics, PCBs',
   'PCB-90/101 + Chlordane(5)': 'Organics, PCBs',
@@ -25966,6 +26011,7 @@ export default {
   'PCB-92/84': 'Organics, PCBs',
   'PCB-93/100': 'Organics, PCBs',
   'PCB-93/95': 'Organics, PCBs',
+  'PCB-93/95/121': 'Not Assigned',
   'PCB-93/95/98/100/102': 'Organics, PCBs',
   'PCB-93/95/98/102': 'Organics, PCBs',
   'PCB-93/98/100/102': 'Organics, PCBs',
@@ -25973,6 +26019,7 @@ export default {
   'PCB-95/100': 'Organics, PCBs',
   'PCB-95/93/100': 'Not Assigned',
   'PCB-95/98/102': 'Organics, PCBs',
+  'PCB-96/103': 'Not Assigned',
   'PCB-97 + Chlordane(7)': 'Organics, PCBs',
   'PCB-97/116/117': 'Not Assigned',
   'PCB-98/102': 'Organics, PCBs',
@@ -27947,9 +27994,9 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Poly[oxy[methyl(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silylene]]':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.?-[1,6-hexanediylbis[imino[1-fluoro-2-oxo-1-(triflu':
+  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.,.alpha.-[phosphinidynetris[oxy[1-fluoro-1-(trifluoromethyl)-2,1-ethanediyl]]]tris[.omega.-(1,1,2,2,3,3,3-heptafluoropropoxy)-':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.���,.alpha.������-[phosphinidynetris[oxy[1-fluoro-1-(trifluoromethyl)-2,1-ethanediyl]]]tris[.omega.-(1,1,2,2,3,3,3-heptafluoropropoxy)-':
+  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.?-[1,6-hexanediylbis[imino[1-fluoro-2-oxo-1-(triflu':
     'PFAS,Perfluorinated Alkyl Substance',
   'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.-(1,1,2,2,2-pentafluoroethyl)-.omega.-[tetrafluoro(trifluoromethyl)ethoxy]-':
     'PFAS,Perfluorinated Alkyl Substance',

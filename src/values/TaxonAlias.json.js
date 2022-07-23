@@ -38774,6 +38774,7 @@ export default {
     'Allotropa***retired***use Allotropa (Ericaceae), Allotropa (Sceliotrachelinae)',
     'Alluaudomyia',
     'Alluaudomyia needhami',
+    'Alluaudomyia paraspina',
     'Allurus macrurus',
     'Allurus tetragonurus',
     'Almutaster pauciflorus',

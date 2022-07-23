@@ -3649,6 +3649,7 @@ export default {
   '1-Methylanthracene': 'Request Date: 1-Sep-12 (nps.gov cas# review)',
   '1-Methylchrysene': '; Request Date: 31-MAR-14',
   '1-Methylcyclohexene': '',
+  '1-Methyldibenzothiophene': '',
   '1-Methylethyl perfluorobutanimidoate': '',
   '1-Methylfluoranthene': 'NWIS',
   '1-Methylfluorene': 'Nemi.gov; Request Date: 02-MAR-07',
@@ -4747,12 +4748,12 @@ export default {
   '1H-1,2,4-Triazol-5-amine, 1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-N-ethyl-3-(1,1,2,2,2-pentafluoroethyl)-':
     '',
   '1H-1,2,4-Triazole': 'NWIS',
+  '1H-1,2,4-Triazole, 1-[(2R)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
+    '',
+  '1H-1,2,4-Triazole, 1-[(2S)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
+    '',
   '1H-1,2,4-Triazole, 3-(heptadecafluorooctyl)-5-methyl-': '',
   '1H-1,2,4-Triazole,1-[[2-(2,4-dichlorophenyl)-4-(1,1,2,2-tetrafluoroethyl)-1,3-dioxolan-2-yl]methyl]-':
-    '',
-  '1H-1,2,4-Triazole,���1-[(2R)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
-    '',
-  '1H-1,2,4-Triazole,���1-[(2S)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
     '',
   '1H-1,2,4-Triazole-3-carboxamide, 1-[4-chloro-3-[(2,2,3,3,3-pentafluoropropoxy)methyl]phenyl]-5-phenyl-':
     '',
@@ -7646,11 +7647,11 @@ export default {
   '2-Propenoic acid, .gamma.-.omega.-perfluoro-C8-20-alkyl esters, polymer with polyethylene glycol monomethacrylate and polypropylene glycol monomethacrylate':
     '',
   "2-Propenoic acid, 1,1'-(2,2,3,3,4,4-hexafluoro-1,5-pentanediyl) ester": '',
+  '2-Propenoic acid, 1,1-(2,2,3,3,4,4,5,5-octafluoro-1,6-hexanediyl) ester, homopolymer':
+    '',
+  '2-Propenoic acid, 1,1-[2,2-bis[difluoro[1,1,2,2-tetrafluoro-3-[(1-oxo-2-propen-1-yl)oxy]propoxy]methyl]-1,1,3,3-tetrafluoro-1,3-propan ediyl]bis[oxy(2,2,3,3-tetrafluoro-3,1-propanediyl)] ester':
+    '',
   '2-Propenoic acid, 1,1-dimethylethyl ester, polymer with 4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole and tetrafluoroethene':
-    '',
-  '2-Propenoic acid, 1,1���-(2,2,3,3,4,4,5,5-octafluoro-1,6-hexanediyl) ester, homopolymer':
-    '',
-  '2-Propenoic acid, 1,1���-[2,2-bis[difluoro[1,1,2,2-tetrafluoro-3-[(1-oxo-2-propen-1-yl)oxy]propoxy]methyl]-1,1,3,3-tetrafluoro-1,3-propan ediyl]bis[oxy(2,2,3,3-tetrafluoro-3,1-propanediyl)] ester':
     '',
   '2-Propenoic acid, 1,6-hexanediyl ester': '; Request Date: 11-JAN-18',
   '2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester': '',
@@ -9095,7 +9096,7 @@ export default {
   '3,3-Dimethylbutan-2-yl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     '',
   '3,3-Dimethylhexane': '; Request Date: 02-MAR-07',
-  '3,3���-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]': '',
+  '3,3-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]': '',
   "3,4',5-Trichlorobiphenyl": 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
   "3,4'-Bis(heptadecafluorooctyl)-2,2'-bithiophene": '',
   "3,4'-DIBDE": '; Request Date: 22-JUL-14',
@@ -14462,11 +14463,15 @@ export default {
   'C1-C4 Fluoranthenes':
     'Fluoranthenes with alkyl substituents ranging from one to four saturated carbon atoms, including methyl, ethyl, propyl, tetramethyl or a combination of these substituents.Nemi.gov; Request Date: 02-MAR-07',
   'C1-C4 Phenanthrenes': 'Nemi.gov; Request Date: 02-MAR-07',
+  'C1-Chrysenes': '',
+  'C1-Decalins': '',
+  'C1-Dibenzo[a,h]anthracenes': '',
   'C1-Dibenzothiophenes': '; Request Date: 08-MAR-16',
   'C1-Fluoranthenes/pyrenes':
     'Any mixture of methyl Fluoranthenes/pyrenes.; Request Date: 02-MAR-07',
   'C1-Fluorenes***retired***use Methylfluorene': '; Request Date: 01-APR-13',
   'C1-MW 228 PAH': 'NWIS',
+  'C1-Naphthobenzothiophenes': '',
   'C1-Phenanthrenes/anthracenes':
     'Any mixture of methyl Phenanthrenes/anthracenes.; Request Date: 02-MAR-07',
   'C10 Hydrocarbons': '; Request Date: 02-MAR-07',
@@ -14497,8 +14502,11 @@ export default {
   'C2-Benzo[a]anthracenes/chrysenes': '; Request Date: 31-MAR-14',
   'C2-Benzofluoranthenes/benzopyrenes': '; Request Date: 31-MAR-14',
   'C2-Benzopyrenes/perylenes': 'NWIS',
+  'C2-Benzothiophenes': '',
   'C2-Biphenyls': '; Request Date: 31-MAR-14',
   'C2-Chrysenes': 'Any ethyl or dimethylchrysene.; Request Date: 02-MAR-07',
+  'C2-Decalins': '',
+  'C2-Dibenzo[a,h]anthracenes': '',
   'C2-Dibenzothiophenes':
     'Any ethyl or dimethyldibenzothiophene; Request Date: 02-MAR-07',
   'C2-Fluoranthenes/pyrenes':
@@ -14506,23 +14514,36 @@ export default {
   'C2-Fluorenes': 'Any ethyl or dimethylfluorene.; Request Date: 02-MAR-07',
   'C2-Naphthalenes':
     'Any ethyl or dimethylnaphthalene.; Request Date: 02-MAR-07',
+  'C2-Naphthobenzothiophenes': '',
   'C2-Phenanthrenes/anthracenes':
     'Any mixture of ethyl or dimethyl Phenanthrenes/anthracenes; Request Date: 02-MAR-07',
   'C20 Hydrocarbons': '; Request Date: 02-MAR-07',
+  'C20-TAS': '',
   'C21-C34 Aliphatics': '; Request Date: 03-AUG-10',
   'C21-C34 Aromatics': '; Request Date: 03-AUG-10',
+  'C21-TAS': '',
   'C22 Hydrocarbons': '; Request Date: 02-MAR-07',
   'C23-C32 Hydrocarbons': '; Request Date: 12-MAR-15',
   'C24 Hydrocarbons': '; Request Date: 02-MAR-07',
   'C24-C36 Hydrocarbons': '; Request Date: 12-MAR-15',
   'C26 Hydrocarbons': '; Request Date: 02-MAR-07',
+  'C26(20R)-TAS': '',
+  'C26(20S)-TAS': '',
+  'C27(20R)-TAS': '',
+  'C27(20S)-TAS': '',
   'C28 Hydrocarbons': '; Request Date: 02-MAR-07',
+  'C28(20R)-TAS': '',
+  'C28(20S)-TAS': '',
   'C29 Hydrocarbons': '; Request Date: 02-MAR-07',
+  'C29-Hopane': '',
   'C3-Benzenes, propyl': '; Request Date: 26-JAN-18',
   'C3-Benzo[a]anthracenes/chrysenes': '; Request Date: 31-MAR-14',
   'C3-Benzopyrenes/perylenes': 'NWIS',
+  'C3-Benzothiophenes': '',
   'C3-Chrysenes':
     'Any propylchrysene or chrysene with a combination of methyl and ethyl subtituents that total 3 carbon atoms.; Request Date: 02-MAR-07',
+  'C3-Decalins': '',
+  'C3-Dibenzo(a,h)anthracenes': '',
   'C3-Dibenzothiophenes':
     'Any propyldibenzothiophene or dibenzothiophene with a combination of methyl and ethyl subtituents that total 3 carbon atoms.; Request Date: 02-MAR-07',
   'C3-Fluoranthenes/pyrenes':
@@ -14531,6 +14552,7 @@ export default {
     'Any propylfluorene or fluorene with a combination of methyl and ethyl subtituents that total 3 carbon atoms.; Request Date: 02-MAR-07',
   'C3-Naphthalenes':
     'Any propylnapththalene or naphthalene with a combination of methyl and ethyl subtituents that total 3 carbon atoms.; Request Date: 02-MAR-07',
+  'C3-Naphthobenzothiophenes': '',
   'C3-Phenanthrenes/anthracenes':
     'Any mixture of Phenanthrenes/anthracenes with methyl, ethyl, or propyl substitutes that total three carbons.; Request Date: 02-MAR-07',
   'C30 Hydrocarbons': '; Request Date: 02-MAR-07',
@@ -14545,15 +14567,18 @@ export default {
   'C4-Benzenes, butyl': '; Request Date: 26-JAN-18',
   'C4-Benzo[a]anthracenes/chrysenes': '; Request Date: 31-MAR-14',
   'C4-Benzopyrenes/perylenes': 'NWIS',
+  'C4-Benzothiophenes': '',
   'C4-C6 Aliphatics': '; Request Date: 03-AUG-10',
   'C4-C9 Alkenes': '',
   'C4-Chrysenes':
     'Any butylchrysene or chrysene with a combination of alkyl substituents that total 4 carbon atoms.; Request Date: 02-MAR-07',
+  'C4-Decalins': '',
   'C4-Dibenzothiophenes': '; Request Date: 03-AUG-10',
   'C4-Fluoranthenes/pyrenes': '; Request Date: 31-MAR-14',
   'C4-Fluorene': '',
   'C4-Naphthalenes':
     'Any butylnaphthalene or naphthalene with a combination of alkyl substituents that total 4 carbon atoms.; Request Date: 02-MAR-07',
+  'C4-Naphthobenzothiophenes': '',
   'C4-Phenanthrenes/anthracenes':
     'Any mixtures of Phenanthrenes/anthracenes with any combination of four carbon substituents.; Request Date: 02-MAR-07',
   'C5-Benzenes, pentyl': '; Request Date: 26-JAN-18',
@@ -16433,6 +16458,7 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Dry Solids at 60 C':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  'Dry content': '',
   'Dry deposition': '',
   'Dry period preceding precipitation':
     'The duration of a dry period prior to a precipitation event.; Request Date: 02-MAR-07',
@@ -16831,6 +16857,7 @@ export default {
     '',
   'Ethene, 1,1,2,2-tetrafluoro-, oxidized, polymd., reduced, fluorinated, reduced, 3-[[4-[dimethyl[2-(trimethoxysilyl]ethyl':
     '',
+  'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1 -oxybis[ethene]': '',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1,2-trifluoro-2-(1,1,2,2,2-pentafluoroethoxy)ethene':
     '',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1-difluoroethene': '',
@@ -16838,7 +16865,6 @@ export default {
     '',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1-difluoroethene, ethene and 1,1,2-trifluoro-2-(trifluoromethoxy)ethene':
     '',
-  'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1���-oxybis[ethene]': '',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,2,2-trifluoro-2-(trifluoromethoxy)ethene':
     '',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with ethene': '',
@@ -18780,6 +18806,8 @@ export default {
   'Linoleic acid': '; Request Date: 02-MAR-07',
   Linuron: 'Nemi.gov; Request Date: 22-JUL-14',
   'Linuron-d6': 'NWIS',
+  'Lipid (dry) content': '',
+  'Lipid (wet) content': '',
   Lipids: '; Request Date: 22-JUL-14',
   'Liquid limit': '; Request Date: 30-APR-15',
   'Liquid water content, snowpack': 'NWIS',
@@ -19811,21 +19839,21 @@ export default {
   'N,N-Dimethyloctadecylamine': '; Request Date: 14-APR-15',
   'N,N-Dimethyloctylamine': '; Request Date: 14-APR-15',
   'N,N-Dimethylstearamide': '; Request Date: 02-MAR-07',
+  'N,N-[1,6-Hexanediylbis[(2-oxo-3,5-oxazolidinediyl)methylene]]bis[N-methyl-perfluoro-1-octanesulfonamide]':
+    '',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-decanesulfonamide] ammonium salt':
+    '',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-dodecanesulfonamide] ammonium salt':
+    '',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-hexanesulfonamide] ammonium salt':
+    '',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-tetradecanesulfonamide] ammonium salt':
+    '',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluorodecanesulfonamide]':
+    '',
   'N,N-bis(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonylamine lithium salt': '',
   'N,N-diethylethanaminium ((perfluorooctyl)ethyl)phosphonate (1:1)': '',
   'N,N-dimethyl-2-[(perfluorododecanoyl)amino]ethan-1-amine N-oxide': '',
-  'N,N���-[1,6-Hexanediylbis[(2-oxo-3,5-oxazolidinediyl)methylene]]bis[N-methyl-perfluoro-1-octanesulfonamide]':
-    '',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-decanesulfonamide] ammonium salt':
-    '',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-dodecanesulfonamide] ammonium salt':
-    '',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-hexanesulfonamide] ammonium salt':
-    '',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-tetradecanesulfonamide] ammonium salt':
-    '',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluorodecanesulfonamide]':
-    '',
   'N-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)cyclohexanecarboxamide': '',
   'N-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)cyclopent-2-ene-1-carboxamide':
     '',
@@ -21067,6 +21095,7 @@ export default {
   'Oil slick severity, choice list': 'NWIS',
   'Okadaic acid': 'NWIS',
   Oleamide: '; Request Date: 02-MAR-07',
+  'Oleanane, (18.alpha.)-': '',
   'Oleandomycin phosphate': '; Request Date: 02-MAR-07',
   'Oleic acid': '; Request Date: 02-MAR-07',
   Olivetol: '; Request Date: 08-APR-19',
@@ -21255,14 +21284,17 @@ export default {
   'PBDE-156/169': '; Request Date: 18-OCT-18',
   'PCB congener 202-13C12': 'NWIS',
   'PCB-100/194': '; Request Date: 30-MAY-13',
+  'PCB-105/127': '',
   'PCB-105/132': 'GLENDA Biological Data Migration; Request Date: 07-JUL-17',
   'PCB-105/132/153': '; Request Date: 02-MAR-07',
+  'PCB-106/107': '',
   'PCB-106/118': '; Request Date: 03-AUG-10',
   'PCB-107/108': '; Request Date: 08-AUG-14',
   'PCB-107/109': '; Request Date: 03-AUG-10',
   'PCB-107/123': '; Request Date: 07-JUN-18',
   'PCB-107/124': '; Request Date: 05-MAY-12',
   'PCB-108/112': '; Request Date: 03-AUG-10',
+  'PCB-108/118': '',
   'PCB-108/124':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-109/123': 'GLENDA Biological Data Migration; Request Date: 07-JUL-17',
@@ -21271,9 +21303,11 @@ export default {
   'PCB-110/120': '',
   'PCB-111/115': '; Request Date: 03-AUG-10',
   'PCB-112/119': '; Request Date: 08-AUG-14',
+  'PCB-114/122': '',
   'PCB-114/131':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-115/87': '; Request Date: 21-FEB-19',
+  'PCB-116/117': '',
   'PCB-116/125': '; Request Date: 17-FEB-12',
   'PCB-117/116/85/110/115':
     'NJDEP Division of Water Monitoring & Standards; Request Date: 11-JUL-16',
@@ -21313,6 +21347,7 @@ export default {
   'PCB-132/153': '; Request Date: 02-MAR-07',
   'PCB-132/161': '; Request Date: 03-AUG-10',
   'PCB-132/168': '; Request Date: 26-AUG-13',
+  'PCB-133/134': '',
   'PCB-133/142': '; Request Date: 03-AUG-10',
   'PCB-133/149': '; Request Date: 17-FEB-12',
   "PCB-134 + 4,4'-DDD": '; Request Date: 22-JUL-14',
@@ -21322,6 +21357,7 @@ export default {
   'PCB-135/151': '; Request Date: 22-JUL-14',
   'PCB-135/151/154': '; Request Date: 05-MAY-12',
   'PCB-136/148': '; Request Date: 08-AUG-14',
+  'PCB-136/154': '',
   'PCB-137/164':
     'NJDEP Division of Water Monitoring & Standards; Request Date: 11-JUL-16',
   'PCB-137/176': '; Request Date: 02-MAR-07',
@@ -21334,6 +21370,8 @@ export default {
   'PCB-139/140': '; Request Date: 05-MAY-12',
   'PCB-139/149': '; Request Date: 03-AUG-10',
   'PCB-141/179': '; Request Date: 02-MAR-07',
+  'PCB-142/146/161': '',
+  'PCB-145/148': '',
   'PCB-146 + Nonachlor,cis-': '; Request Date: 27-FEB-14',
   'PCB-146/165': '; Request Date: 03-AUG-10',
   'PCB-147/149': '; Request Date: 05-MAY-12',
@@ -21362,6 +21400,7 @@ export default {
   'PCB-172/192':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-172/197': '; Request Date: 02-MAR-07',
+  'PCB-178/186': '',
   'PCB-18/30': '; Request Date: 05-MAY-12',
   'PCB-18/32': '',
   'PCB-180/193': '; Request Date: 05-MAY-12',
@@ -21402,6 +21441,7 @@ export default {
   'PCB-4/10': '; Request Date: 02-MAR-07',
   'PCB-40/103': 'GLENDA Biological Data Migration; Request Date: 07-JUL-17',
   'PCB-40/41/71': '; Request Date: 02-MAR-07',
+  'PCB-40/57': '',
   'PCB-40/71': '; Request Date: 03-AUG-10',
   'PCB-41/64': '; Request Date: 02-MAR-07',
   'PCB-41/64/68':
@@ -21419,6 +21459,7 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-44/47/65': '; Request Date: 05-MAY-12',
   'PCB-45/51': '; Request Date: 05-MAY-12',
+  'PCB-46/69/73': '',
   'PCB-47/104': 'GLENDA Biological Data Migration; Request Date: 07-JUL-17',
   'PCB-47/48': '; Request Date: 02-MAR-07',
   'PCB-47/48/75': '; Request Date: 30-MAY-13',
@@ -21473,9 +21514,11 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-83/109': '; Request Date: 21-MAR-19',
   'PCB-83/119': 'GLENDA Biological Data Migration; Request Date: 07-JUL-17',
+  'PCB-83/120': '',
   'PCB-83/99': '; Request Date: 05-MAY-12',
   'PCB-84 + Chlordane(5)': '; Request Date: 30-MAY-13',
   'PCB-84/89/92': 'GLENDA Biological Data Migration; Request Date: 07-JUL-17',
+  'PCB-84/90/101': '',
   'PCB-84/92': '; Request Date: 02-MAR-07',
   "PCB-85 + 4,4'-DDE": '; Request Date: 22-JUL-14',
   'PCB-85/110': '; Request Date: 17-FEB-12',
@@ -21493,6 +21536,7 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-86/97': '; Request Date: 17-FEB-12',
   'PCB-86/97/117': '; Request Date: 08-AUG-14',
+  'PCB-86/97/125': '',
   'PCB-87/111': '; Request Date: 17-FEB-12',
   'PCB-87/111/115': '; Request Date: 30-MAY-13',
   'PCB-87/115': '; Request Date: 02-MAR-07',
@@ -21501,6 +21545,7 @@ export default {
   'PCB-88/121':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-88/91': '; Request Date: 05-MAY-12',
+  'PCB-89/113': '',
   'PCB-89/90/101':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-90/101': '; Request Date: 02-MAR-07',
@@ -21511,6 +21556,7 @@ export default {
   'PCB-93/100': '; Request Date: 03-AUG-10',
   'PCB-93/95':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
+  'PCB-93/95/121': '',
   'PCB-93/95/98/100/102': '; Request Date: 05-MAY-12',
   'PCB-93/95/98/102':
     'Kalispel Natural Resources Department; Request Date: 02-FEB-17',
@@ -21520,6 +21566,7 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 07-JUL-17',
   'PCB-95/93/100': '; Request Date: 21-MAR-19',
   'PCB-95/98/102': '; Request Date: 03-AUG-10',
+  'PCB-96/103': '',
   'PCB-97 + Chlordane(7)': '; Request Date: 30-MAY-13',
   'PCB-97/116/117': '; Request Date: 21-MAR-19',
   'PCB-98/102': '; Request Date: 03-AUG-10',
@@ -23251,9 +23298,9 @@ export default {
   "Poly[oxy[2-methyl-2-[(2,2,3,3,3-pentafluoropropoxy)methyl]-1,3-propanediyl]], .alpha.,.alpha.'-(2,2-dimethyl-1,3-propanediyl)bis[.omega.-hydroxy-":
     '',
   'Poly[oxy[methyl(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silylene]]': '',
-  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.?-[1,6-hexanediylbis[imino[1-fluoro-2-oxo-1-(triflu':
+  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.,.alpha.-[phosphinidynetris[oxy[1-fluoro-1-(trifluoromethyl)-2,1-ethanediyl]]]tris[.omega.-(1,1,2,2,3,3,3-heptafluoropropoxy)-':
     '',
-  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.���,.alpha.������-[phosphinidynetris[oxy[1-fluoro-1-(trifluoromethyl)-2,1-ethanediyl]]]tris[.omega.-(1,1,2,2,3,3,3-heptafluoropropoxy)-':
+  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.?-[1,6-hexanediylbis[imino[1-fluoro-2-oxo-1-(triflu':
     '',
   'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.-(1,1,2,2,2-pentafluoroethyl)-.omega.-[tetrafluoro(trifluoromethyl)ethoxy]-':
     '',

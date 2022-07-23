@@ -1260,6 +1260,7 @@ export default {
     'Allotropa (Sceliotrachelinae)',
     'Alluaudomyia',
     'Alluaudomyia needhami',
+    'Alluaudomyia paraspina',
     'Almutaster pauciflorus',
     'Almyracuma',
     'Almyracuma bacescui',

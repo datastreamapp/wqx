@@ -3983,6 +3983,7 @@ export default {
   '1-Methylanthracene': '610-48-0',
   '1-Methylchrysene': '3351-28-8',
   '1-Methylcyclohexene': '591-49-1',
+  '1-Methyldibenzothiophene': '31317-07-4',
   '1-Methylethyl perfluorobutanimidoate': '4192-05-6.',
   '1-Methylfluoranthene': '',
   '1-Methylfluorene': '1730-37-6',
@@ -5124,13 +5125,13 @@ export default {
   '1H-1,2,4-Triazol-5-amine, 1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-N-ethyl-3-(1,1,2,2,2-pentafluoroethyl)-':
     '128887-17-2',
   '1H-1,2,4-Triazole': '',
+  '1H-1,2,4-Triazole, 1-[(2R)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
+    '131320-41-7',
+  '1H-1,2,4-Triazole, 1-[(2S)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
+    '131320-42-8',
   '1H-1,2,4-Triazole, 3-(heptadecafluorooctyl)-5-methyl-': '667873-26-9',
   '1H-1,2,4-Triazole,1-[[2-(2,4-dichlorophenyl)-4-(1,1,2,2-tetrafluoroethyl)-1,3-dioxolan-2-yl]methyl]-':
     '134695-73-1',
-  '1H-1,2,4-Triazole,���1-[(2R)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
-    '131320-41-7',
-  '1H-1,2,4-Triazole,���1-[(2S)-2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-':
-    '131320-42-8',
   '1H-1,2,4-Triazole-3-carboxamide, 1-[4-chloro-3-[(2,2,3,3,3-pentafluoropropoxy)methyl]phenyl]-5-phenyl-':
     '119126-15-7',
   '1H-Azepine, 1-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]hexahydro-':
@@ -8043,12 +8044,12 @@ export default {
     '224790-97-0',
   "2-Propenoic acid, 1,1'-(2,2,3,3,4,4-hexafluoro-1,5-pentanediyl) ester":
     '678-95-5',
+  '2-Propenoic acid, 1,1-(2,2,3,3,4,4,5,5-octafluoro-1,6-hexanediyl) ester, homopolymer':
+    '153893-38-0',
+  '2-Propenoic acid, 1,1-[2,2-bis[difluoro[1,1,2,2-tetrafluoro-3-[(1-oxo-2-propen-1-yl)oxy]propoxy]methyl]-1,1,3,3-tetrafluoro-1,3-propan ediyl]bis[oxy(2,2,3,3-tetrafluoro-3,1-propanediyl)] ester':
+    '912841-29-3',
   '2-Propenoic acid, 1,1-dimethylethyl ester, polymer with 4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole and tetrafluoroethene':
     '851389-08-7',
-  '2-Propenoic acid, 1,1���-(2,2,3,3,4,4,5,5-octafluoro-1,6-hexanediyl) ester, homopolymer':
-    '153893-38-0',
-  '2-Propenoic acid, 1,1���-[2,2-bis[difluoro[1,1,2,2-tetrafluoro-3-[(1-oxo-2-propen-1-yl)oxy]propoxy]methyl]-1,1,3,3-tetrafluoro-1,3-propan ediyl]bis[oxy(2,2,3,3-tetrafluoro-3,1-propanediyl)] ester':
-    '912841-29-3',
   '2-Propenoic acid, 1,6-hexanediyl ester': '13048-33-4',
   '2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester':
     '2160-89-6',
@@ -9559,7 +9560,7 @@ export default {
   '3,3-Dimethylbutan-2-yl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     '107368-63-8',
   '3,3-Dimethylhexane': '563-16-6',
-  '3,3���-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]': '1428-40-6',
+  '3,3-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]': '1428-40-6',
   "3,4',5-Trichlorobiphenyl": '38444-88-1',
   "3,4'-Bis(heptadecafluorooctyl)-2,2'-bithiophene": '677033-16-8',
   "3,4'-DIBDE": '6842-62-2',
@@ -14973,10 +14974,14 @@ export default {
   'C1-C4 Chrysenes': '',
   'C1-C4 Fluoranthenes': '',
   'C1-C4 Phenanthrenes': '',
+  'C1-Chrysenes': '',
+  'C1-Decalins': '',
+  'C1-Dibenzo[a,h]anthracenes': '',
   'C1-Dibenzothiophenes': '',
   'C1-Fluoranthenes/pyrenes': '',
   'C1-Fluorenes': '26914-17-0',
   'C1-MW 228 PAH': '',
+  'C1-Naphthobenzothiophenes': '',
   'C1-Phenanthrenes/anthracenes': '',
   'C10 Hydrocarbons': '93924-41-5',
   'C10-16-Alkyldimethylamines oxides': '70592-80-2',
@@ -15004,31 +15009,48 @@ export default {
   'C2-Benzo[a]anthracenes/chrysenes': '',
   'C2-Benzofluoranthenes/benzopyrenes': '',
   'C2-Benzopyrenes/perylenes': '',
+  'C2-Benzothiophenes': '',
   'C2-Biphenyls': '',
   'C2-Chrysenes': '',
+  'C2-Decalins': '',
+  'C2-Dibenzo[a,h]anthracenes': '',
   'C2-Dibenzothiophenes': '',
   'C2-Fluoranthenes/pyrenes': '',
   'C2-Fluorenes': '',
   'C2-Naphthalenes': '',
+  'C2-Naphthobenzothiophenes': '',
   'C2-Phenanthrenes/anthracenes': '',
   'C20 Hydrocarbons': '93924-54-0',
+  'C20-TAS': '81943-50-2',
   'C21-C34 Aliphatics': '',
   'C21-C34 Aromatics': '',
+  'C21-TAS': '',
   'C22 Hydrocarbons': '93924-56-2',
   'C23-C32 Hydrocarbons': '',
   'C24 Hydrocarbons': '',
   'C24-C36 Hydrocarbons': '',
   'C26 Hydrocarbons': '',
+  'C26(20R)-TAS': '80382-29-2',
+  'C26(20S)-TAS': '',
+  'C27(20R)-TAS': '',
+  'C27(20S)-TAS': '80382-29-2',
   'C28 Hydrocarbons': '',
+  'C28(20R)-TAS': '',
+  'C28(20S)-TAS': '80382-33-8',
   'C29 Hydrocarbons': '',
+  'C29-Hopane': '53584-60-4',
   'C3-Benzenes, propyl': '',
   'C3-Benzo[a]anthracenes/chrysenes': '',
   'C3-Benzopyrenes/perylenes': '',
+  'C3-Benzothiophenes': '',
   'C3-Chrysenes': '',
+  'C3-Decalins': '',
+  'C3-Dibenzo(a,h)anthracenes': '',
   'C3-Dibenzothiophenes': '',
   'C3-Fluoranthenes/pyrenes': '',
   'C3-Fluorenes': '',
   'C3-Naphthalenes': '',
+  'C3-Naphthobenzothiophenes': '',
   'C3-Phenanthrenes/anthracenes': '',
   'C30 Hydrocarbons': '',
   'C30-Hopane': '',
@@ -15041,13 +15063,16 @@ export default {
   'C4-Benzenes, butyl': '',
   'C4-Benzo[a]anthracenes/chrysenes': '',
   'C4-Benzopyrenes/perylenes': '',
+  'C4-Benzothiophenes': '',
   'C4-C6 Aliphatics': '',
   'C4-C9 Alkenes': '',
   'C4-Chrysenes': '',
+  'C4-Decalins': '',
   'C4-Dibenzothiophenes': '',
   'C4-Fluoranthenes/pyrenes': '',
   'C4-Fluorene': '',
   'C4-Naphthalenes': '',
+  'C4-Naphthobenzothiophenes': '',
   'C4-Phenanthrenes/anthracenes': '',
   'C5-Benzenes, pentyl': '',
   'C5-Benzo[a]anthracenes/chrysenes': '',
@@ -16839,6 +16864,7 @@ export default {
   'Dry Bulk Density of Soils': '',
   'Dry Solids at 105 C': '',
   'Dry Solids at 60 C': '',
+  'Dry content': '',
   'Dry deposition': '',
   'Dry period preceding precipitation': '',
   Dulcin: '150-69-6',
@@ -17227,6 +17253,8 @@ export default {
     '1378309-01-3',
   'Ethene, 1,1,2,2-tetrafluoro-, oxidized, polymd., reduced, fluorinated, reduced, 3-[[4-[dimethyl[2-(trimethoxysilyl]ethyl':
     '1431551-16-4',
+  'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1 -oxybis[ethene]':
+    '102646-47-9',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1,2-trifluoro-2-(1,1,2,2,2-pentafluoroethoxy)ethene':
     '31784-04-0',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1-difluoroethene': '25684-76-8',
@@ -17234,8 +17262,6 @@ export default {
     '56357-87-0',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1-difluoroethene, ethene and 1,1,2-trifluoro-2-(trifluoromethoxy)ethene':
     '107810-71-9',
-  'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,1���-oxybis[ethene]':
-    '102646-47-9',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with 1,2,2-trifluoro-2-(trifluoromethoxy)ethene':
     '26425-79-6',
   'Ethene, 1,1,2,2-tetrafluoro-, polymer with ethene': '25038-71-5',
@@ -19072,6 +19098,8 @@ export default {
   'Linoleic acid': '60-33-3',
   Linuron: '330-55-2',
   'Linuron-d6': '',
+  'Lipid (dry) content': '',
+  'Lipid (wet) content': '',
   Lipids: '66455-18-3',
   'Liquid limit': '',
   'Liquid water content, snowpack': '',
@@ -20115,24 +20143,24 @@ export default {
   'N,N-Dimethyloctadecylamine': '124-28-7',
   'N,N-Dimethyloctylamine': '7378-99-6',
   'N,N-Dimethylstearamide': '3886-90-6',
+  'N,N-[1,6-Hexanediylbis[(2-oxo-3,5-oxazolidinediyl)methylene]]bis[N-methyl-perfluoro-1-octanesulfonamide]':
+    '116250-61-4',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-decanesulfonamide] ammonium salt':
+    '118337-76-1',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-dodecanesulfonamide] ammonium salt':
+    '118337-77-2',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-hexanesulfonamide] ammonium salt':
+    '118337-75-0',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-tetradecanesulfonamide] ammonium salt':
+    '118337-78-3',
+  'N,N-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluorodecanesulfonamide]':
+    '83903-91-7',
   'N,N-bis(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonylamine lithium salt':
     '119229-99-1',
   'N,N-diethylethanaminium ((perfluorooctyl)ethyl)phosphonate (1:1)':
     '92678-96-1',
   'N,N-dimethyl-2-[(perfluorododecanoyl)amino]ethan-1-amine N-oxide':
     '200636-70-0',
-  'N,N���-[1,6-Hexanediylbis[(2-oxo-3,5-oxazolidinediyl)methylene]]bis[N-methyl-perfluoro-1-octanesulfonamide]':
-    '116250-61-4',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-decanesulfonamide] ammonium salt':
-    '118337-76-1',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-dodecanesulfonamide] ammonium salt':
-    '118337-77-2',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-hexanesulfonamide] ammonium salt':
-    '118337-75-0',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluoro-1-tetradecanesulfonamide] ammonium salt':
-    '118337-78-3',
-  'N,N���-[Phosphinicobis(oxy-2,1-ethanediyl)]bis[N-ethyl-perfluorodecanesulfonamide]':
-    '83903-91-7',
   'N-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)cyclohexanecarboxamide':
     '1440968-37-5',
   'N-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)cyclopent-2-ene-1-carboxamide':
@@ -21393,6 +21421,7 @@ export default {
   'Oil slick severity, choice list': '',
   'Okadaic acid': '',
   Oleamide: '301-02-0',
+  'Oleanane, (18.alpha.)-': '30759-92-3',
   'Oleandomycin phosphate': '7060-74-4',
   'Oleic acid': '112-80-1',
   Olivetol: '500-66-3',
@@ -21573,14 +21602,17 @@ export default {
   'PBDE-156/169': '',
   'PCB congener 202-13C12': '',
   'PCB-100/194': '',
+  'PCB-105/127': '',
   'PCB-105/132': '',
   'PCB-105/132/153': '',
+  'PCB-106/107': '',
   'PCB-106/118': '',
   'PCB-107/108': '',
   'PCB-107/109': '',
   'PCB-107/123': '',
   'PCB-107/124': '',
   'PCB-108/112': '',
+  'PCB-108/118': '',
   'PCB-108/124': '',
   'PCB-109/123': '',
   'PCB-110 + 2,4-DDD': '',
@@ -21588,8 +21620,10 @@ export default {
   'PCB-110/120': '',
   'PCB-111/115': '',
   'PCB-112/119': '',
+  'PCB-114/122': '',
   'PCB-114/131': '',
   'PCB-115/87': '',
+  'PCB-116/117': '',
   'PCB-116/125': '',
   'PCB-117/116/85/110/115': '',
   'PCB-117/136': '',
@@ -21623,6 +21657,7 @@ export default {
   'PCB-132/153': '',
   'PCB-132/161': '',
   'PCB-132/168': '',
+  'PCB-133/134': '',
   'PCB-133/142': '',
   'PCB-133/149': '',
   "PCB-134 + 4,4'-DDD": '',
@@ -21632,6 +21667,7 @@ export default {
   'PCB-135/151': '',
   'PCB-135/151/154': '',
   'PCB-136/148': '',
+  'PCB-136/154': '',
   'PCB-137/164': '',
   'PCB-137/176': '',
   "PCB-137/176 +  4,4'-DDD": '',
@@ -21643,6 +21679,8 @@ export default {
   'PCB-139/140': '',
   'PCB-139/149': '',
   'PCB-141/179': '',
+  'PCB-142/146/161': '',
+  'PCB-145/148': '',
   'PCB-146 + Nonachlor,cis-': '',
   'PCB-146/165': '',
   'PCB-147/149': '',
@@ -21668,6 +21706,7 @@ export default {
   'PCB-171/202': '',
   'PCB-172/192': '',
   'PCB-172/197': '',
+  'PCB-178/186': '',
   'PCB-18/30': '',
   'PCB-18/32': '',
   'PCB-180/193': '',
@@ -21705,6 +21744,7 @@ export default {
   'PCB-4/10': '',
   'PCB-40/103': '',
   'PCB-40/41/71': '',
+  'PCB-40/57': '',
   'PCB-40/71': '',
   'PCB-41/64': '',
   'PCB-41/64/68': '',
@@ -21719,6 +21759,7 @@ export default {
   'PCB-43/73': '',
   'PCB-44/47/65': '',
   'PCB-45/51': '',
+  'PCB-46/69/73': '',
   'PCB-47/104': '',
   'PCB-47/48': '',
   'PCB-47/48/75': '',
@@ -21769,9 +21810,11 @@ export default {
   'PCB-83/108': '',
   'PCB-83/109': '',
   'PCB-83/119': '',
+  'PCB-83/120': '',
   'PCB-83/99': '',
   'PCB-84 + Chlordane(5)': '',
   'PCB-84/89/92': '',
+  'PCB-84/90/101': '',
   'PCB-84/92': '',
   "PCB-85 + 4,4'-DDE": '',
   'PCB-85/110': '',
@@ -21786,6 +21829,7 @@ export default {
   'PCB-86/87/97/111/117/125': '',
   'PCB-86/97': '',
   'PCB-86/97/117': '',
+  'PCB-86/97/125': '',
   'PCB-87/111': '',
   'PCB-87/111/115': '',
   'PCB-87/115': '',
@@ -21793,6 +21837,7 @@ export default {
   'PCB-87/117/125': '',
   'PCB-88/121': '',
   'PCB-88/91': '',
+  'PCB-89/113': '',
   'PCB-89/90/101': '',
   'PCB-90/101': '',
   'PCB-90/101 + Chlordane(5)': '',
@@ -21801,6 +21846,7 @@ export default {
   'PCB-92/84': '',
   'PCB-93/100': '',
   'PCB-93/95': '',
+  'PCB-93/95/121': '',
   'PCB-93/95/98/100/102': '',
   'PCB-93/95/98/102': '',
   'PCB-93/98/100/102': '',
@@ -21808,6 +21854,7 @@ export default {
   'PCB-95/100': '',
   'PCB-95/93/100': '',
   'PCB-95/98/102': '',
+  'PCB-96/103': '',
   'PCB-97 + Chlordane(7)': '',
   'PCB-97/116/117': '',
   'PCB-98/102': '',
@@ -23491,10 +23538,10 @@ export default {
   "Poly[oxy[2-methyl-2-[(2,2,3,3,3-pentafluoropropoxy)methyl]-1,3-propanediyl]], .alpha.,.alpha.'-(2,2-dimethyl-1,3-propanediyl)bis[.omega.-hydroxy-":
     '449177-99-5',
   'Poly[oxy[methyl(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silylene]]': '115287-18-8',
+  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.,.alpha.-[phosphinidynetris[oxy[1-fluoro-1-(trifluoromethyl)-2,1-ethanediyl]]]tris[.omega.-(1,1,2,2,3,3,3-heptafluoropropoxy)-':
+    '2247153-51-9',
   'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.?-[1,6-hexanediylbis[imino[1-fluoro-2-oxo-1-(triflu':
     '1198429-17-2',
-  'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.,.alpha.���,.alpha.������-[phosphinidynetris[oxy[1-fluoro-1-(trifluoromethyl)-2,1-ethanediyl]]]tris[.omega.-(1,1,2,2,3,3,3-heptafluoropropoxy)-':
-    '2247153-51-9',
   'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.-(1,1,2,2,2-pentafluoroethyl)-.omega.-[tetrafluoro(trifluoromethyl)ethoxy]-':
     '60164-51-4',
   'Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.-(1,1,2,2,3,3,3-heptafluoropropyl)-.omega.-[1,2,2,2-tetrafC':
