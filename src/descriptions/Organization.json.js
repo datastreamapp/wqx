@@ -453,7 +453,7 @@ export default {
   CONCORDIA_COLLEGE: 'Concordia College (Minnesota)',
   CONFLUENCE: 'Confluence Compliance Companies, LLC',
   CONNRIVERCONSERVANCY: 'Connecticut River Conservancy',
-  CONSERVATION_COMMISSION: '',
+  CONSERVATION_COMMISSION: 'Oklahoma Conservation Commission',
   COOSWA: 'Volunteer Monitoring Group',
   COQUILLETRIBE_WQX: 'Coquille Indian Tribe;',
   COQUILLE_WA: 'Current VolMon group',

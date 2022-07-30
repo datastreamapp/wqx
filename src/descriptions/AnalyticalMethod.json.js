@@ -3058,6 +3058,7 @@ export default {
   D5316:
     'D5316 ~ ASTM ; 1,2-Dibromoethane and 1,2-Dibromo-3-Chloropropane in Water',
   D5317: 'D5317 ~ ASTM ; Chlorinated Organic Acids in Water',
+  D5368: 'D5368 ~ ASTM ; https://www.astm.org/standards/d5368',
   D5388: 'D5388 ~ ASTM ; Discharge, Indirect, by Step-Backwater',
   D5389: 'D5389 ~ ASTM ; Flow Measurments by Acoustic Velocity Meter (AVM)',
   D5390: 'D5390 ~ ASTM ; Flow Measurement with Palmer-Bowlus Flume',

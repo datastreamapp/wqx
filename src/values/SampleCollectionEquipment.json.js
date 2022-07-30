@@ -17,6 +17,7 @@ export default {
     'Benthic Corer (Other)',
     'Benthic Dredge (Other)',
     'Benthic Grab (Other)',
+    'Benthic Kick Net',
     'Birge Closing Net',
     'Black Light Trap',
     'Block Net',

@@ -22,6 +22,8 @@ export default {
     'A towed sampling tool that captures benthic organisms in the substrate.',
   'Benthic Grab (Other)':
     'Grab sampling is the simple process of bringing up surface sediments from the seafloor. Once it is launched, the jaws of the grab sampler open and it descends to the seafloor. A spring closes the jaws, and they trap sediments or loose substrate. The grab sampler is then brought up to the surface where its contents are studied in detail',
+  'Benthic Kick Net':
+    'Benthic Kick Net used for sampling benthic macroinvertebrates',
   'Birge Closing Net':
     'For vertical and horizontal sampling within a specific zone. Has long inlet cone. Used for vertical and horizontal sampling within a specific zone of water. Consists of 2 truncated cones connected at their bases.',
   'Black Light Trap': '',
