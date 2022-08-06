@@ -48,6 +48,10 @@ export default {
   'Fish Cover - Boulders (choice list)': '4=Very Heavy (>75%)',
   'Woody Understory shrubs (choice list)': '4 = Very Heavy (>75%)',
   'Wind Speed Severity (choice list)': 'Gale or Stronger',
+  'Habitat Cover, Periphyton (choice list)': 'dominant, >50% periphyton',
+  'Habitat Cover, Filamentous Algae (choice list)':
+    'dominant, >50% filamentous algae',
+  'Habitat Cover, Macrophytes (choice list)': 'dominant, >50% macrophytes',
   'Micro Algae Stream Reach Thickness Average': 'Too Deep',
   'Wind Speed (choice list)': '>20 mph',
   'Periphyton, substrate rock/bank encrustation (choice list)':
