@@ -16265,6 +16265,7 @@ export default {
   'Deoxygenation constant-carbon': '',
   'Deoxygenation constant-nitrogen': '',
   Deoxynivalenol: '',
+  'Deposits in Water': '',
   Depth: '',
   'Depth from surface to lower boundary of soil layer': '',
   'Depth of pond or reservoir in feet': '',

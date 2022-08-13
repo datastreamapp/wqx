@@ -15,8 +15,9 @@
     "Net/Non-Tow",
     "Net/Vertical Tow",
     "Soil Sampler",
+    "Suspended Sediment Sampler",
     "Trap/Substrate",
     "Water Sampler"
   ],
-  "maxLength": 19
+  "maxLength": 26
 }

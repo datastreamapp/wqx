@@ -15822,6 +15822,7 @@ export default {
   'Deoxygenation constant-nitrogen':
     'The rate of oxygen consumption by aquatic organisms as they oxidize nitrogen-containing materials in an aquatic environment, expressed as a constant.; Request Date: 02-MAR-07',
   Deoxynivalenol: 'NWIS',
+  'Deposits in Water': '',
   Depth:
     'The distance from the top to the bottom of an object, measured in units of length.; Request Date: 02-MAR-07',
   'Depth from surface to lower boundary of soil layer': '',

@@ -71,6 +71,8 @@ export default {
     'Also occasionally called an anchor seine, consists of a conical net with two long wings with a bag where the fish collect. Drag lines extend from the wings, and are long so they can surround an area. A seine hangs vertically in the water with its bottom edge held down by weights and its top edge buoyed by floats. Seine nets can be deployed from the shore as a beach seine, or from a boat.',
   'Dart Corer (Gravity)':
     'A bottom-sampling device that penetrates a few centimeters to several meters below the seafloor. To obtain samples of surficial sediments, a piston core or gravity core “dart”, a weighted tube, is dropped to the ocean floor and recovered with an attached wire line. ',
+  'Depth-integrating SuspendedWadingSampler':
+    'Depth-integrating samplers accumulate a water-sediment sample in a pint-size milk bottle as they are lowered to the streambed and raised back to the surface at a uniform rate of transit.',
   'Dietz-Lafond Grab':
     'A grab sampler used to obtain bottom samples from the seabed.',
   'Diffusion Gradient in Thin Film': 'Diffusion Gradient in Thin Film',
@@ -207,6 +209,8 @@ export default {
   'Plexiglass Trap': '',
   'Plummet Net':
     'Plummet nets are a down-fishing zooplankton sampler that has no mouth obstructions and is cinched shut when the desired depth is reached. ',
+  'Point-integrating suspended sampler':
+    'Point-integrating samplers accumulate a water-sediment sample at any selected point in a stream.',
   'Polar Orga. Chem. Integrative Sampler':
     '(POCIS) is a passive sampling device which allows for the in situ collection of a time-integrated average of hydrophilic organic contaminants developed by researchers with the United States Geological Survey in Columbia, Missouri.',
   'Polyethylene wipe': '',
@@ -234,6 +238,8 @@ export default {
   'Pump/Rotary': '',
   'Pump/Submersible': '',
   'Pump/Turbine': '',
+  'Pumping suspended sampler':
+    'The pumping sampler is designed to obtain a continuous record of sediment concentration by sampling at a fixed point at specific intervals.',
   'Purse Seine Net':
     'A purse seine is a large wall of netting deployed around an entire area or school of fish. The seine has floats along the top line with a lead line threaded through rings along the bottom. Once a school of fish is located, a skiff encircles the school with the net. The lead line is then pulled in, "pursing" the net closed on the bottom, preventing fish from escaping by swimming downward.',
   'Push Net':
@@ -287,6 +293,8 @@ export default {
     'A method of fishing that involves pulling a fishing net through the water behind one or more boats to collect shrimp. The net that is used for trawling is called a trawl.',
   'Simple Conical Net': '',
   'Single-Vessel Operated Tow Net': '',
+  'Single-stage suspended sampler':
+    'The single-stage sampler was developed to obtain suspended sediment data in flashy streams, particularly those located in remote areas.',
   'Smith-McIntire Grab':
     'The Smith McIntyre Grab is designed to collect ocean sediment with a sampling area of 0.1m sq. This grab is mounted on a stainless steel frame suspended from a pair of lowering cables (bridles) attached to the bucket arms. ',
   'Sodium Cyanide':
