@@ -18355,14 +18355,16 @@ export default {
     'The carbon containing compounds in water which are not organic compounds, carbonate and bicarbonate species primarily.Nemi.gov; Request Date: 02-MAR-07',
   'Inorganic fraction': '',
   'Inorganic monomeric aluminum': '; Request Date: 02-MAR-07',
-  'Inorganic nitrogen': 'NWIS',
   'Inorganic nitrogen (NO2, NO3, & NH3)':
     'EPA Workgroup QA; Request Date: 21-FEB-17',
-  'Inorganic nitrogen (ammonia, nitrate and nitrite)':
+  'Inorganic nitrogen (ammonia, nitrate and nitrite)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)':
     'EPA Workgroup QA; Request Date: 09-JAN-14',
-  'Inorganic nitrogen (nitrate and nitrite and ammonia)': 'NWIS',
-  'Inorganic nitrogen (nitrate and nitrite)':
+  'Inorganic nitrogen (nitrate and nitrite and ammonia)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)':
+    'NWIS',
+  'Inorganic nitrogen (nitrate and nitrite) ***retired***use Nitrate + Nitrite':
     'EPA Workgroup QA; Request Date: 02-MAR-07',
+  'Inorganic nitrogen***retired***use Inorganic nitrogen (NO2, NO3, & NH3)':
+    'NWIS',
   'Inorganic phosphorus': 'EPA Workgroup QA; Request Date: 12-MAY-16',
   Inpyrfluxam: '',
   'Instream Cover (%)': '',
@@ -20733,7 +20735,8 @@ export default {
   Nitrofen: '; Request Date: 22-JUL-14',
   Nitrofurantoin: '; Request Date: 02-MAR-07',
   Nitrogen: 'EPA Workgroup QA; Request Date: 02-MAR-07',
-  'Nitrogen Delta 15': '; Request Date: 22-JUL-14',
+  'Nitrogen Delta 15 ***retired*** use Nitrogen-15/Nitrogen-14 ratio':
+    '; Request Date: 22-JUL-14',
   'Nitrogen dioxide': '; Request Date: 02-MAR-07',
   'Nitrogen ion': '; Request Date: 22-JUL-14',
   'Nitrogen mustard (HN-1)': 'Nemi.gov; Request Date: 25-SEP-19',
@@ -20747,7 +20750,8 @@ export default {
   'Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)':
     'EPA Workgroup QA; Request Date: 02-APR-09',
   'Nitrogen-15': 'Nitrogen, atomic number 7.; Request Date: 02-MAR-07',
-  'Nitrogen-15/14 ratio': '; Request Date: 02-MAR-07',
+  'Nitrogen-15/14 ratio ***retired*** use Nitrogen-15/Nitrogen-14 ratio':
+    '; Request Date: 02-MAR-07',
   'Nitrogen-15/Nitrogen-14 ratio': '',
   'Nitrogen/Phosphorus molar ratio': '; Request Date: 20-NOV-13',
   'Nitrogenous biochemical oxygen demand':
@@ -22728,7 +22732,7 @@ export default {
   Phosmetoxon: '; Request Date: 22-JUL-14',
   Phosphamidon: '; Request Date: 22-JUL-14',
   'Phosphamidon-E': '; Request Date: 20-NOV-18',
-  'Phosphate-phosphorus':
+  'Phosphate-phosphorus ***retired*** use Total Phosphorus, mixed forms':
     'Tha measure of phosphorus present as phosphate.; Request Date: 22-JUL-14',
   'Phosphated pesticides':
     'Any phosphate-containing substances capable of preventing, destroying, repelling, or mitigating any pest.; Request Date: 02-MAR-07',
