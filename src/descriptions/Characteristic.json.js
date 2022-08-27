@@ -12323,6 +12323,7 @@ export default {
   'Algae, substrate rock/bank cover (choice list)': '; Request Date: 02-MAR-07',
   'Algae, yellow-green (phylum xanthophyta) density':
     'The mass or weight of yellow-green algae (phylum xanthophyta) per unit volume of water.; Request Date: 02-MAR-07',
+  'Algal Bloom Severity (choice list)': '',
   'Algal growth potential':
     'The potential in a given system for the growth of algae.; Request Date: 02-MAR-07',
   'Aliphatics fraction': '; Request Date: 02-MAR-07',
@@ -12549,6 +12550,7 @@ export default {
     'Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Anthraquinone (8CI)':
     'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Anthropogenic stream alteration (choice list)': '',
   Antimony: 'Nemi.gov; Request Date: 02-MAR-07',
   'Antimony potassium tartrate': '; Request Date: 02-MAR-07',
   'Antimony, triphenylbis[(2,2,2-trifluoroacetyl)oxy]-': 'PFAS removal',
@@ -17763,6 +17765,7 @@ export default {
   'Habitat Cover, other (%)': '',
   'Habitat Total Score': '; Request Date: 25-AUG-16',
   'Habitat Type (choice list)': '; Request Date: 11-APR-17',
+  'Habitat cover, brush and log (%)': '',
   'Habitat rating (choice list)': '; Request Date: 17-DEC-10',
   'Habitat rating, % of ideal': '; Request Date: 15-MAR-11',
   Hafnium: '; Request Date: 02-MAR-07',
@@ -18162,6 +18165,7 @@ export default {
   'Human norovirus': 'NWIS',
   'Hyaluronic acid': '',
   'Hydraulic Oil': '; Request Date: 10-DEC-15',
+  'Hydraulic Structure (choice list)': '',
   'Hydraulic radius': '',
   Hydrazine: '; Request Date: 02-MAR-07',
   'Hydrazine, (2,2,3,3-tetrafluoropropyl)-': '',
@@ -18243,7 +18247,8 @@ export default {
   'Hydrologic Stressors: Vehicle ruts (choice list)': '',
   'Hydrologic Stressors: Water supply (choice list)': '',
   'Hydrolyzable phosphorus': 'NWIS',
-  'Hydrolyzable phosphorus plus orthophosphate': 'NWIS',
+  'Hydrolyzable phosphorus plus orthophosphate***retired***use Phosphorus, hydrolyzable plus orthophosphate':
+    'NWIS',
   Hydromorphone: '; Request Date: 18-DEC-18',
   'Hydromorphone hydrochloride': '; Request Date: 22-JUL-14',
   'Hydronium ion': '',
@@ -25068,6 +25073,7 @@ export default {
   'Slime-forming bacteria': 'NWIS',
   'Slow Riffle': '; Request Date: 14-MAY-10',
   'Sludge (choice list)': '; Request Date: 02-JUL-19',
+  'Sludge Depth': '',
   'Sludge, substrate rock/bank cover - severity (choice list)':
     '; Request Date: 02-MAR-07',
   'Small Boulder 256 - 512mm': '',

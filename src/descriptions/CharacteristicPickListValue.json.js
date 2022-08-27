@@ -48,6 +48,7 @@ export default {
   'Fish Cover - Boulders (choice list)': '4=Very Heavy (>75%)',
   'Woody Understory shrubs (choice list)': '4 = Very Heavy (>75%)',
   'Wind Speed Severity (choice list)': 'Gale or Stronger',
+  'Hydraulic Structure (choice list)': 'Other',
   'Habitat Cover, Periphyton (choice list)': 'dominant, >50% periphyton',
   'Habitat Cover, Filamentous Algae (choice list)':
     'dominant, >50% filamentous algae',
@@ -181,6 +182,8 @@ export default {
     'Optimal, <10% of bottom affected by sediment deposition',
   'Wave height (WMO code 1555) (choice list)':
     'Description, WMO Code=9, wave height=4.5m',
+  'Hydrologic Stressors: Corrugated Pipe (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Box (choice list)': 'Least stressful',
   'Hydrologic Stressors: Ditches (choice list)': 'Least stressful',
   'Hydrologic Stressors: Channelized Streams (choice list)': 'Least stressful',
   'Hydrologic Stressors: Recent Sedimentation (choice list)': 'Least stressful',
@@ -203,6 +206,7 @@ export default {
   'Flow, stream class (choice list)': 'Flow above 500 CFS.',
   'Soil Layer (choice list)':
     '5th soil layer - The C-Horizon or Saprolite, This layer is devoid of any organic matter and is made up of broken bedrock. This layer is also known as saprolite. The geological material present in this zone is cemented.',
+  'Anthropogenic stream alteration (choice list)': 'Other',
   'Hydrologic Influence: Stream Inflow (choice list)': 'Least influential',
   'Hydrologic Influence: Springs (choice list)': 'Least influential',
   'Hydrologic Influence: Lake (choice list)': 'Least influential',
@@ -233,8 +237,6 @@ export default {
   'Hydrologic Stressors: Excavation/Dredging (choice list)': 'Least stressful',
   'Hydrologic Stressors: Sewer outfall (choice list)': 'Least stressful',
   'Hydrologic Stressors: Standpipe outflow (choice list)': 'Least stressful',
-  'Hydrologic Stressors: Corrugated Pipe (choice list)': 'Least stressful',
-  'Hydrologic Stressors: Box (choice list)': 'Least stressful',
   'Macrophytes covering streambed (emergent and submerged) (choice list)':
     'Macrophytes covering 76-100% of the streambed',
   'Filamentous Algae covering streambed (choice list)':
@@ -250,10 +252,10 @@ export default {
     '5=Severely high algae levels & scums, odors, or fish kill',
   'Stream physical appearance (choice list)':
     'Other (use Result Comment for description)',
-  'Lake recreational suitability (choice list)':
-    '5=Swimming & aesthetics nearly impossible due to algae',
   'Stream recreational suitability (choice list)':
     '5=Recreation and aesthetic enjoyment nearly impossible',
+  'Lake recreational suitability (choice list)':
+    '5=Swimming & aesthetics nearly impossible due to algae',
   'Tide stage (choice list)':
     'Not Applicable - Self Describing. (not a tidal stream)',
   'RBP Instream Cover (choice list)': '<10% MIXED - Self describing.',
@@ -301,13 +303,14 @@ export default {
     'RESIDENTIAL - Self describing.',
   'Stream Unit Type (choice list)': 'Trench pool',
   'RBP2, Sediment/Substrate, Odors (choice list)': 'Sewage',
-  'Sediment/ Substrate Odors (choice list)': 'SEWAGE - Self describing.',
   'RBP Sediment Odors (choice list)': 'SEWAGE - Self describing.',
+  'Sediment/ Substrate Odors (choice list)': 'SEWAGE - Self describing.',
   'Lake Depth Strata (choice list)': 'Transects thermocline',
   'RBP2, Aquatic Vegetation, Dominant Type & Species (choice list)':
     'Rooted submergent (use Result Comment for species list)',
   'Beaver (choice list)': 'Rare',
   'Dominant Land Use (choice list)': 'Urban',
+  'Odor type (choice list)': 'Weak hydrogen sulfide',
   'Channel Constraint (choice list)':
     'Channel very constrained in V-shaped valley (i.e. it is very unlikely to spread out over valley or erode a new channel during flood)',
   'Snag surf (choice list)': 'SB = Smooth, no algae',
@@ -334,13 +337,13 @@ export default {
   'RBP Pool Substrate (choice list)': 'SAND/MUD/CLA - Self describing.',
   'RBP Turbidity Code (choice list)': 'TURBID - Self describing.',
   'RBP2, Water Quality, Turbidity (choice list)': 'Turbid',
-  'RBP2, Stream Character, Stream Type (choice list)': 'Warmwater stream',
   'RBP Stream Type (choice list)': 'WARMWATER - Self describing.',
+  'RBP2, Stream Character, Stream Type (choice list)': 'Warmwater stream',
   'Bank Stability, Right (choice list)': 'Bank is uncovered and unstable',
   'Bank Stability, Left (choice list)': 'Bank is uncovered and unstable',
   'USDA Soil Texture Classification (choice list)': 'Silty Clay Loam',
-  'Subsystem classification stream type (choice list)': 'Stained',
   'Sky Code (CA SWAMP) (choice list)': 'Smoky',
+  'Subsystem classification stream type (choice list)': 'Stained',
   'Substrate Type (choice list)': 'Self-describing',
   'Flow at reach constriction (choice list)': 'Not applicable',
   'Lake water level (choice list)':
@@ -449,6 +452,7 @@ export default {
   'Optical Brighteners (choice list)': 'Weakly Positive',
   'Beaver Flow Modification (choice list)': 'None',
   'RBP Frequency of Riffles (choice list)': 'Suboptimal 11-15',
+  'Algal Bloom Severity (choice list)': 'Slight Algal Bloom',
   'Soil Texture: Organic (choice list)': 'Peat',
   'Point Source Pollution - Outfall Pipe Present (Y/N) (choice list)': 'Yes',
   'Point Source Pollution - Outfall Pipe Discharging (Y/N) (choice list)':
@@ -661,13 +665,12 @@ export default {
   'Other Hydrologic Evidence: Sphagnum moss (choice list)':
     'Sphagnum moss present',
   'Surface Observation: High water table (choice list)': 'Water table is high',
-  'Odor type (choice list)': 'Weak hydrogen sulfide',
   'Water Taste (choice list)': 'UnObjectionable',
   'Water Odor (choice list)': 'Odorless',
   'RBP2, Instream Features, Canopy Cover (choice list)': 'Shaded',
   'RBP Canopy Cover (choice list)': 'SHADED - Self describing.',
+  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Substrate in reach (choice list)': 'silt',
   'Dominant Pool Substrate (choice list)': 'silt',
-  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Run Substrate (choice list)': 'silt'
 }

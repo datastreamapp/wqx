@@ -283,6 +283,7 @@ export default [
   'Hexadecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-hentriacontafluoro-***retired***use Perfluoropalmitic acid',
   'Hexanoic acid, 2,2,3,3,4,4,5,5,6,6,6-undecafluoro-***retired***use Perfluorohexanoic acid',
   "Hornblende amphibole***retired***use 2,5,2',5'-Tetrachlorobiphenyl",
+  'Hydrolyzable phosphorus plus orthophosphate***retired***use Phosphorus, hydrolyzable plus orthophosphate',
   'Ibuprofen***retired***use Benzeneacetic acid, .alpha.-methyl-4-(2-methylpropyl)-',
   'Inorganic nitrogen (ammonia, nitrate and nitrite)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)',
   'Inorganic nitrogen (nitrate and nitrite and ammonia)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)',
