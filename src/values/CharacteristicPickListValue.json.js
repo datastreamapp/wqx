@@ -41,6 +41,7 @@ export default {
     'Habitat Cover, Periphyton (choice list)',
     'Habitat Cover, Filamentous Algae (choice list)',
     'Habitat Cover, Macrophytes (choice list)',
+    'Pool Depth (choice list)',
     'Micro Algae Stream Reach Thickness Average',
     'Wind Speed (choice list)',
     'Periphyton, substrate rock/bank encrustation (choice list)',

@@ -979,6 +979,7 @@ export default {
     'RCA',
     'RCE WRP',
     'RCESLM',
+    'REDCLAYSTATEPARK-TN',
     'REDCLIFF_WQX',
     'REDDINGRANCHERIA_WQX',
     'REDLAKE_WQX',

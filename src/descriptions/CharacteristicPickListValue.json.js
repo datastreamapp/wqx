@@ -53,6 +53,7 @@ export default {
   'Habitat Cover, Filamentous Algae (choice list)':
     'dominant, >50% filamentous algae',
   'Habitat Cover, Macrophytes (choice list)': 'dominant, >50% macrophytes',
+  'Pool Depth (choice list)': '> 1 m',
   'Micro Algae Stream Reach Thickness Average': 'Too Deep',
   'Wind Speed (choice list)': '>20 mph',
   'Periphyton, substrate rock/bank encrustation (choice list)':
