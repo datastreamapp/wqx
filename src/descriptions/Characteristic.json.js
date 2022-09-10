@@ -12323,6 +12323,7 @@ export default {
   'Algae, substrate rock/bank cover (choice list)': '; Request Date: 02-MAR-07',
   'Algae, yellow-green (phylum xanthophyta) density':
     'The mass or weight of yellow-green algae (phylum xanthophyta) per unit volume of water.; Request Date: 02-MAR-07',
+  'Algae-Phycocyanin': '',
   'Algal Bloom Severity (choice list)': '',
   'Algal growth potential':
     'The potential in a given system for the growth of algae.; Request Date: 02-MAR-07',
@@ -14856,6 +14857,7 @@ export default {
   Ceterizine: 'NWIS',
   'Cetirizine dihydrochloride': 'NWIS',
   'Chamber area': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
+  'Changes in Stream depth and Velocity patterns (Y/N) (Choice list)': '',
   'Channel Alteration':
     'A description indicating whether or not the area around the sampling reach or station is channelized. Channel alteration is present when artificial embankments, riprap, and other forms of artificial bank stabilization or structures are present;; Request Date: 25-AUG-16',
   'Channel Constraining Feature (choice list)': '; Request Date: 04-OCT-18',
@@ -17278,6 +17280,7 @@ export default {
   'Fipronil-13C4-15N2': 'NWIS',
   'FireMaster BP 6': '; Request Date: 02-MAR-07',
   'Firmly attached algae or submerged veg (choice list)': '',
+  'Fish - Passage Barrier (Y/N) (Choice list)': '',
   'Fish Anomalies - Deformities': '; Request Date: 02-MAR-07',
   'Fish Anomalies - Erosions': '; Request Date: 02-MAR-07',
   'Fish Anomalies - Lesions': '; Request Date: 02-MAR-07',
@@ -18902,8 +18905,10 @@ export default {
   'Lorazepam-D4': '; Request Date: 17-APR-14',
   Losartan: 'NWIS',
   'Losartan-d3': 'NWIS',
+  'Loss of instream cover (Y/N) (Choice list)': '',
   Lovastatin: 'NWIS',
   'Lovastatin acid': 'NWIS',
+  'Low Flow alterations (Y/N) (Choice list)': '',
   'Low bank height': '',
   'Low bank height ratio': '',
   'Low-level Mercury': 'Request Date: 7-Apr-18 (nps.gov cas# review)',
@@ -20787,6 +20792,7 @@ export default {
     'Toxin produced by blue green algae.Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Nomegestrol acetate': 'NWIS',
   'Non-Asbestos Fiber/Material': '; Request Date: 09-MAR-15',
+  'Non-Native Fish, Shellfish, or Zooplankton (Y/N) (Choice list)': '',
   'Non-apatite inorganic phosphorus': '; Request Date: 19-FEB-13',
   'Non-lipid organic matter': '; Request Date: 03-AUG-10',
   'Non-plankton algae severity (choice list)':
@@ -21178,6 +21184,8 @@ export default {
   Osmium: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Osmotic pressure':
     'Osmotic pressure is the pressure exerted by the flow of water through a semi-permeable membrane separating two solutions with different concentrations of solute.; Request Date: 02-MAR-07',
+  'Other Flow Alterations (Y/N) (Choice List)': '',
+  'Other Habitat Conditions (Y/N) (Choice List)': '',
   'Other Hydrologic Evidence: Frost-heave hummocks (choice list)': '',
   'Other Hydrologic Evidence: Geomorphic position (choise list)': '',
   'Other Hydrologic Evidence: Microtopographic relief (choice list)': '',
@@ -22922,6 +22930,7 @@ export default {
   Phyllodocidae: 'NWIS',
   Phylloicus: 'NWIS',
   Phylocentropus: 'NWIS',
+  'Physical Substrate Habitat Alterations (Y/N) (Choice List)': '',
   Physocypria: 'NWIS',
   Phytane: '; Request Date: 02-MAR-07',
   Phytoactin: '; Request Date: 02-MAR-07',
@@ -25495,6 +25504,7 @@ export default {
   'Stream width (choice list)':
     'National Park Service, contact nps.gov; Request Date: 02-JUN-16',
   'Stream width measure': '; Request Date: 02-MAR-07',
+  'Stream-side or littoral vegetative cover alteration (Y/N) (Choice list)': '',
   Streptococcus: 'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   Streptognatha: 'NWIS',
   Streptomycin: '; Request Date: 02-MAR-07',
@@ -26997,6 +27007,7 @@ export default {
   'Well condition (choice list)': '; Request Date: 08-NOV-13',
   'Wet Bulk Density of Soils':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  'Wetland Habitat alteration (Y/N) (Choice list)': '',
   'Wetted Width': 'NRSA; Request Date: 01-SEP-16',
   'Whirling Disease Present (Y/N) (choice list)': '',
   'Whole effluent toxicity': '; Request Date: 26-JAN-18',

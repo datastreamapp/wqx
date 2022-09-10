@@ -124,6 +124,7 @@ export default {
     'cfu/gdw',
     'cfu/ml',
     'cm',
+    'cm-1',
     'cm/sec',
     'cm2',
     'cm3',

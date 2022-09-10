@@ -1391,6 +1391,7 @@ export default {
   WEARTH_WQX: 'White Earth Band of Chippewa (MN);',
   WETLAB: 'Western Environmental Testing Laboratory; ',
   WFWQC_UT: 'Wasatch Front Water Quality Council Utah',
+  WHATCOMCD: '',
   WHATCOMCD_WQX: 'Whatcom Conservation District',
   WHATCOM_WQX: 'Whatcom County Public Works',
   WHITEMOUNTAIN_WQX: 'White Mountain Apache Tribe;',

@@ -227,7 +227,6 @@ export default [
   'Apomotis chaetodon***retired***use Enneacanthus chaetodon',
   'Aprodon***retired***use Lycodes',
   'Arabis glabra***retired***use Turritis glabra',
-  'Arachnida***retired***use Arachnida',
   'Archiannelida***retired***use Canalipalpata',
   'Archilestes californica***retired***use Archilestes californicus',
   'Arctiidae***retired***use Arctiinae',

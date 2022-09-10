@@ -1240,6 +1240,7 @@ export default {
     'WEARTH_WQX',
     'WETLAB',
     'WFWQC_UT',
+    'WHATCOMCD',
     'WHATCOMCD_WQX',
     'WHATCOM_WQX',
     'WHITEMOUNTAIN_WQX',

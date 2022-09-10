@@ -3078,7 +3078,7 @@ export default {
     'Arachis hypogaea',
     'Arachnactis',
     'Arachnanthus',
-    'Arachnida***retired***use Arachnida',
+    'Arachnida',
     'Arachnochloris',
     'Araeopidius',
     'Araeopidius monachus',

@@ -17,7 +17,8 @@
     "SYSTEMATIC NAME",
     "TAXON COMMON NAME",
     "WQP COMPARABLE NAME",
-    "WQX SYNONYM REGISTRY (validation)"
+    "WQX SYNONYM REGISTRY (validation)",
+    "empty reserved"
   ],
   "maxLength": 33
 }

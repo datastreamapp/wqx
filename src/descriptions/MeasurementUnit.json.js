@@ -125,6 +125,7 @@ export default {
   'cfu/gdw': 'Concentration Solution, Colony Forming Units per gram dryweight',
   'cfu/ml': 'Concentration Solution, Colony Forming Units per Milliliters',
   cm: 'Length Distance, Centimeters',
+  'cm-1': 'Concentration Solution, Inverse centimeters or per centimeters',
   'cm/sec': 'Speed Velocity, Centimeters per second',
   cm2: 'Area, Square centimeters',
   cm3: 'Volume, Cubic centimeters',

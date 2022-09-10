@@ -253,10 +253,10 @@ export default {
     '5=Severely high algae levels & scums, odors, or fish kill',
   'Stream physical appearance (choice list)':
     'Other (use Result Comment for description)',
-  'Stream recreational suitability (choice list)':
-    '5=Recreation and aesthetic enjoyment nearly impossible',
   'Lake recreational suitability (choice list)':
     '5=Swimming & aesthetics nearly impossible due to algae',
+  'Stream recreational suitability (choice list)':
+    '5=Recreation and aesthetic enjoyment nearly impossible',
   'Tide stage (choice list)':
     'Not Applicable - Self Describing. (not a tidal stream)',
   'RBP Instream Cover (choice list)': '<10% MIXED - Self describing.',
@@ -340,8 +340,8 @@ export default {
   'RBP2, Water Quality, Turbidity (choice list)': 'Turbid',
   'RBP Stream Type (choice list)': 'WARMWATER - Self describing.',
   'RBP2, Stream Character, Stream Type (choice list)': 'Warmwater stream',
-  'Bank Stability, Right (choice list)': 'Bank is uncovered and unstable',
   'Bank Stability, Left (choice list)': 'Bank is uncovered and unstable',
+  'Bank Stability, Right (choice list)': 'Bank is uncovered and unstable',
   'USDA Soil Texture Classification (choice list)': 'Silty Clay Loam',
   'Sky Code (CA SWAMP) (choice list)': 'Smoky',
   'Subsystem classification stream type (choice list)': 'Stained',
@@ -495,6 +495,17 @@ export default {
     'Yes, Impermeable layer present',
   'Monocot plant type present (Y/N) (choice list)':
     'Yes, Plant type is Monocot',
+  'Stream-side or littoral vegetative cover alteration (Y/N) (Choice list)':
+    'Yes',
+  'Wetland Habitat alteration (Y/N) (Choice list)': 'Yes',
+  'Changes in Stream depth and Velocity patterns (Y/N) (Choice list)': 'Yes',
+  'Fish - Passage Barrier (Y/N) (Choice list)': 'Yes',
+  'Loss of instream cover (Y/N) (Choice list)': 'Yes',
+  'Low Flow alterations (Y/N) (Choice list)': 'Yes',
+  'Non-Native Fish, Shellfish, or Zooplankton (Y/N) (Choice list)': 'Yes',
+  'Other Flow Alterations (Y/N) (Choice List)': 'Yes',
+  'Physical Substrate Habitat Alterations (Y/N) (Choice List)': 'Yes',
+  'Other Habitat Conditions (Y/N) (Choice List)': 'Yes',
   'Sludge (choice list)': 'Yes',
   'Unnatural bottom deposits (choice list)': 'Yes',
   'Unnatural oil (choice list)': 'Yes',
