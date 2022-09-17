@@ -3,8 +3,6 @@
   "title": "Taxon Group",
   "description": "",
   "type": "string",
-  "enum": [
-    "Not Assigned"
-  ],
+  "enum": ["Fish/Nekton", "Not Assigned"],
   "maxLength": 12
 }

@@ -9,6 +9,7 @@ export default {
     'EPA ID (SUBSTANCE REGISTRY #)',
     'ITIS TAXON SERIAL NUMBER',
     'MOLECULAR WEIGHT',
+    'NOAA - National Center for Environm',
     'NWIS PARM CODE',
     'RETIRED NAME',
     'STANDARDIZE NAME (Normalized)',
@@ -17,8 +18,7 @@ export default {
     'SYSTEMATIC NAME',
     'TAXON COMMON NAME',
     'WQP COMPARABLE NAME',
-    'WQX SYNONYM REGISTRY (validation)',
-    'empty reserved'
+    'WQX SYNONYM REGISTRY (validation)'
   ],
-  maxLength: 33
+  maxLength: 35
 }

@@ -12979,14 +12979,17 @@ export default {
   'Bacteria, slime-forming': '; Request Date: 10-SEP-14',
   Balsalazide:
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  'Bank Angle': '',
   'Bank Erosion, Left': '; Request Date: 26-AUG-13',
   'Bank Erosion, Right': '; Request Date: 26-AUG-13',
+  'Bank Side Measured': '',
   'Bank Slope, Left': '; Request Date: 26-AUG-13',
   'Bank Slope, Right': '; Request Date: 26-AUG-13',
   'Bank Stability LDB': '; Request Date: 25-AUG-16',
   'Bank Stability RDB': '; Request Date: 25-AUG-16',
   'Bank Stability, Left (choice list)': '; Request Date: 11-APR-17',
   'Bank Stability, Right (choice list)': '; Request Date: 11-APR-17',
+  'Bank Undercut': '',
   'Bank class (choice list)': '; Request Date: 08-JUN-10',
   'Bank class, Left (choice list)': '; Request Date: 08-JUN-10',
   'Bank class, Right (choice list)': '; Request Date: 08-JUN-10',
@@ -13020,6 +13023,7 @@ export default {
   'Battery voltage': '; Request Date: 30-MAR-17',
   'Beam Attenuation (Seabird)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  Bearing: '',
   Beauvericin: 'NWIS',
   'Beaver (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Beaver Flow Modification (choice list)': 'NRSA; Request Date: 11-APR-17',
@@ -14671,6 +14675,7 @@ export default {
   'Canopy Cover': 'NRSA; Request Date: 01-SEP-16',
   'Canopy Cover, Left Bank': '; Request Date: 26-AUG-13',
   'Canopy Cover, Right Bank': '; Request Date: 26-AUG-13',
+  'Canopy Measure': '',
   'Canopy Measure Center Down': '; Request Date: 29-JUN-10',
   'Canopy Measure Center Left': '; Request Date: 04-OCT-18',
   'Canopy Measure Center Right': '; Request Date: 04-OCT-18',
@@ -14863,9 +14868,11 @@ export default {
   'Channel Constraining Feature (choice list)': '; Request Date: 04-OCT-18',
   'Channel Constraining Features (choice list)': '; Request Date: 04-OCT-18',
   'Channel Constraint (choice list)': '; Request Date: 04-OCT-18',
+  'Channel Constraint - Can See Over Bank': '',
   'Channel Development': '',
   'Channel Flow Status':
     'A measure of the amount of exposed channel substrate expressed as a percentage of the total channel area divided by the area of channel bottom covered by water within a stream, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 25-AUG-16',
+  'Channel Habitat Code': '',
   'Channel Length in Contact with Constraining Feature':
     '; Request Date: 04-OCT-18',
   'Channel Pattern (choice list)': '; Request Date: 04-OCT-18',
@@ -15832,6 +15839,8 @@ export default {
   'Deposits in Water': '',
   Depth:
     'The distance from the top to the bottom of an object, measured in units of length.; Request Date: 02-MAR-07',
+  'Depth by Pole': '',
+  'Depth by Sonar': '',
   'Depth from surface to lower boundary of soil layer': '',
   'Depth of pond or reservoir in feet': 'NWIS',
   'Depth of water column': '; Request Date: 23-APR-15',
@@ -16345,6 +16354,19 @@ export default {
   Diquat: 'Nemi.gov; Request Date: 02-MAR-07',
   'Diquat dibromide': '; Request Date: 02-MAR-07',
   'Discharge (stage unknown)': '',
+  'Discharge - NBO - Depth, Lower Section': '',
+  'Discharge - NBO - Depth, Middle Section': '',
+  'Discharge - NBO - Depth, Upper Section': '',
+  'Discharge - NBO - Float Distance': '',
+  'Discharge - NBO - Float Time': '',
+  'Discharge - NBO - Width, Lower Section': '',
+  'Discharge - NBO - Width, Middle Section': '',
+  'Discharge - NBO - Width, Upper Section': '',
+  'Discharge - Timed Filling - Time': '',
+  'Discharge - Timed Filling - Volume': '',
+  'Discharge - Velocity Area Depth': '',
+  'Discharge - Velocity Area Distance From Bank': '',
+  'Discharge Method': '',
   'Discharge, Mine': '; Request Date: 21-MAR-14',
   'Discharge, River/Stream': '14; Request Date: 21-MAR-14',
   'Discoloration (Y/N) (choice list)': '; Request Date: 24-MAR-14',
@@ -16374,6 +16396,7 @@ export default {
   'Dissolved oxygen uptake': '; Request Date: 02-MAR-07',
   'Distance From Left Bank': '1; Request Date: 04-OCT-18',
   'Distance From Right Bank': '',
+  'Distance from Shore to Riparian': '',
   'Distance from/to': '; Request Date: 02-MAR-07',
   'Distannoxane, 1,1,3,3-tetraethenyl-1,3-bis[(2,2,2-trifluoroacetyl)oxy]-':
     'PFAS removal',
@@ -16507,6 +16530,7 @@ export default {
     'Wisconsin DNR - Rehwald, Matt - DNR <Matt.Rehwald@wisconsin.gov>; Request Date: 05-OCT-16',
   'Elapsed Time Since Last Measurement': '; Request Date: 26-AUG-13',
   'Electromotive force': 'Nemi.gov; Request Date: 25-SEP-19',
+  Elevation: '',
   'Elevation, MSL': '; Request Date: 02-MAR-07',
   'Elevation, aquifer top, MSL': '; Request Date: 02-MAR-07',
   'Elevation, groundwater surface, MSL': '; Request Date: 02-MAR-07',
@@ -16518,6 +16542,7 @@ export default {
   Embeddedness:
     'An assessment of the extent to which rocks (gravel, cobble, and boulders) and snags are covered or sunken into the silt, sand, or mud of the stream bottom.; Request Date: 02-MAR-07',
   'Embeddedness, riffle (%)': '; Request Date: 15-MAR-11',
+  Embededness: '',
   Emergence: 'Nemi.gov; Request Date: 24-SEP-19',
   'Emergent, aquatic vegetation along bank (choice list)': '',
   'Emergent, aquatic vegetation in channel (choice list)': '',
@@ -18408,6 +18433,9 @@ export default {
   'Inundation Evidence: True aquatic plants (choice list)': '',
   'Inundation Evidence: Water marks (choice list)': '',
   'Inundation Evidence: Water stained leaves (choice list)': '',
+  'Invasive Species Identification Confidence': '',
+  'Invasive Species Name': '',
+  'Invasive Species Prevalence': '',
   'Invasive species found (choice list)': '; Request Date: 05-JUL-17',
   Iodide: '; Request Date: 22-JUL-14',
   Iodine: '; Request Date: 22-JUL-14',
@@ -18704,22 +18732,66 @@ export default {
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:1.5-5m)':
     '; Request Date: 04-OCT-18',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:15-30m)':
+    '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:5-15m)':
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:>15m)':
     '; Request Date: 04-OCT-18',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:>30m)':
+    '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:1.5-5m)':
     '; Request Date: 04-OCT-18',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:15-30m)':
+    '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:5-15m)':
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:>15m)':
     '; Request Date: 04-OCT-18',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:>30m)':
+    '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:1.5-5m)':
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:5-15m)':
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:>15m)':
     '; Request Date: 04-OCT-18',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:>30m)':
+    '',
   'Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.1-<0.3m; Len:1.5-5m)':
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.1-<0.3m; Len:5-15m)':
@@ -18747,6 +18819,8 @@ export default {
   'Larkspur alkaloid': '; Request Date: 02-MAR-07',
   'Larvae in Gill Chambers or Attached to Abdomen': '; Request Date: 31-MAR-15',
   Lasalocid: 'NWIS',
+  'Latitude, Bank': '',
+  'Latitude, Midstream': '',
   'Lauric acid': '1; Request Date: 02-MAR-07',
   'Lauryl acrylate': '',
   Lauryldiethanolamine: '; Request Date: 08-APR-19',
@@ -18886,6 +18960,11 @@ export default {
   'Lithium-7/Lithium-6 ratio': '; Request Date: 02-MAR-07',
   'Lithology code': '; Request Date: 30-MAY-13',
   'Littoral Cover Complexity Index': '; Request Date: 07-MAR-16',
+  'Littoral Substrate - Bottom Dominant': '',
+  'Littoral Substrate - Bottom Secondary': '',
+  'Littoral Substrate - Bottom, Method of Determining': '',
+  'Littoral Substrate - Shore Dominant': '',
+  'Littoral Substrate - Shore Secondary': '',
   'Littoral-Riparian Cover Complexity Index': '; Request Date: 07-MAR-16',
   'Live centric diatoms': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   'Live pennate diatoms': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
@@ -18895,6 +18974,8 @@ export default {
   Lomefloxacin: '; Request Date: 01-JUL-11',
   Lomustine: '; Request Date: 24-MAR-14',
   Longifolene: 'Nemi.gov; Request Date: 25-SEP-19',
+  'Longitude, Bank': '',
+  'Longitude, Midstream': '',
   'Longitudinal Distribution': '; Request Date: 21-JUL-17',
   'Loosely attached filamentous algae (choice list)': '',
   'Loosely sorbed Phosphorus (LSP)': '; Request Date: 12-JAN-16',
@@ -21113,6 +21194,7 @@ export default {
   'Odor type (choice list)':
     'National Park Service, contact nps.gov; Request Date: 21-JUL-16',
   'Odor, atmospheric': 'NWIS',
+  'Off Channel (Y/N) (Choicelist)': '',
   Ofloxacin: '1; Request Date: 02-MAR-07',
   'Oil and Grease': '; Request Date: 02-MAR-07',
   'Oil and Grease surface slick/sheen (Y/N) (choice list)':
@@ -24578,6 +24660,8 @@ export default {
   Ramipril: '; Request Date: 27-OCT-17',
   Ranitidine: 'Nemi.gov; Request Date: 22-JUL-14',
   'Rank Sum': '; Request Date: 20-SEP-11',
+  'Reach Length, Downstream': '',
+  'Reach Length, Upstream': '',
   'Reaction product of potassium acrylate with 1-perfluoro[n-alkyl(C6,8,10,12,14,16,18)]-2-iodoethane, it consists predominantly of 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluorodecyl acrylate':
     '',
   'Reaction products with N-methylamine acetate, potassium hydroxide, .alpha.-fluoro-.omega.-iodopoly(perfluoroethylene)(n=4-8) and 2-propen-1-ol':
@@ -25115,10 +25199,21 @@ export default {
   'Sinuosity length line': '',
   Sipunculoidea: 'NWIS',
   Sitagliptin: '; Request Date: 02-FEB-15',
+  'Site Sampleability Detail': '',
+  'Site Sampleability Status': '',
+  'Site Verified By GPS': '',
+  'Site Verified By Local Contact': '',
+  'Site Verified By Other': '',
+  'Site Verified By Roads': '',
+  'Site Verified By Signs': '',
+  'Site Verified By Topographic Map': '',
+  'Site Visit Number': '',
   'Sky Code (CA SWAMP) (choice list)':
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',
   Slavina: 'NWIS',
   'Slime-forming bacteria': 'NWIS',
+  'Slope/Bearing Method': '',
+  'Slope/Bearing Proportion': '',
   'Slow Riffle': '; Request Date: 14-MAY-10',
   'Sludge (choice list)': '; Request Date: 02-JUL-19',
   'Sludge Depth': '',
@@ -25134,6 +25229,7 @@ export default {
   Smithsonidrilus: 'NWIS',
   Smittia: 'NWIS',
   Smoke: '',
+  Snag: '',
   'Snag surf (choice list)': 'GRE; Request Date: 11-APR-17',
   Snag_diam: 'GRE; Request Date: 01-SEP-16',
   Snag_dist: 'GRE; Request Date: 01-SEP-16',
@@ -25585,6 +25681,8 @@ export default {
   'Substrate Embeddedness': '',
   'Substrate Origin': '',
   'Substrate Quality': '',
+  'Substrate Size Class, Midpoint': '',
+  'Substrate Size Class, Transect': '',
   'Substrate Subdominant, Transect (choice list)': '; Request Date: 26-AUG-13',
   'Substrate Type (choice list)':
     'National Park Service, contact nps.gov; Request Date: 04-JUN-15',
@@ -26043,7 +26141,13 @@ export default {
   'Thallium-201': '; Request Date: 23-JAN-15',
   'Thallium-205': '',
   'Thallium-208': 'Thallium, atomic number 81.; Request Date: 02-MAR-07',
+  'Thalweg Bar Present': '',
+  'Thalweg Bar Width': '',
   'Thalweg Depth': '; Request Date: 04-OCT-18',
+  'Thalweg Depth by Pole': '',
+  'Thalweg Depth by Sonar': '',
+  'Thalweg Increment': '',
+  'Thalweg Wetted Width': '',
   'Thalweg elevation': '',
   Thebaine: '; Request Date: 22-JUL-14',
   Thecamoeba: '; Request Date: 02-MAR-07',
@@ -26404,6 +26508,8 @@ export default {
   'Trans-2-Butene': '; Request Date: 03-JUL-08',
   'Trans-2-Pentene': '; Request Date: 03-JUL-08',
   Transect: '',
+  'Transect Spacing - Actual': '',
+  'Transect Spacing - Intended': '',
   'Transit Rate, sampler': '; Request Date: 30-MAY-13',
   'Transmittance, Horizontal':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
@@ -26894,6 +27000,7 @@ export default {
   'Vegetative Protection RDB': '; Request Date: 25-AUG-16',
   'Velocity - stream': '; Request Date: 02-MAR-07',
   'Velocity Depth Regime': '; Request Date: 25-AUG-16',
+  'Velocity of intake': '',
   'Velocity-discharge': '; Request Date: 02-MAR-07',
   'Venice Salinity Category (choice list)': '; Request Date: 21-JUL-17',
   Venlafaxine: '; Request Date: 10-JUL-13',

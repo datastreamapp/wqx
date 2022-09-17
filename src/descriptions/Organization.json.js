@@ -715,7 +715,7 @@ export default {
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX:
     'Klamath Tribes Natural Resources Department; Protection of the natural-resource related rights guaranteed to the tribes in the treaty of 1864 is largely the responsibility of the Natural Resources Department. This department aids the Klamath Tribes mission by protecting preserving and enhancing natural resources.',
-  KNA: 'Test organization for Kisters NA for the QuickDrops project!',
+  KNA: 'Test organization for Kisters NA for the QuickDrops project.',
   KNRD_WQX: 'Kalispel Natural Resources Department Tribal (Washington);',
   KS_GEOWATER_CTR: '',
   KWMNDATA_WQX:
@@ -1293,6 +1293,7 @@ export default {
   TRILWWTF: 'Colorado',
   TRINIDADRANCHERIAEPA: 'Trinidad Rancheria;',
   TRTUL_WQX: 'Tulalip Tribes; ',
+  TRUEELEMENTS_QI_WQX: '',
   TSWQC_WQX:
     'The TSWQC_WQX organization is for data collected under the direction of the Tri-State Water Quality Council.',
   TTFFX: '',

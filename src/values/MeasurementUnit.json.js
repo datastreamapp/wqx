@@ -159,6 +159,7 @@ export default {
     'ft-candles',
     'ft-lbs',
     'ft/day',
+    'ft/mile',
     'ft/min',
     'ft/sec',
     'ft2',

@@ -13527,14 +13527,17 @@ export default {
   'Bacteria, nitrifiers': '',
   'Bacteria, slime-forming': '',
   Balsalazide: '',
+  'Bank Angle': '',
   'Bank Erosion, Left': '',
   'Bank Erosion, Right': '',
+  'Bank Side Measured': '',
   'Bank Slope, Left': '',
   'Bank Slope, Right': '',
   'Bank Stability LDB': '',
   'Bank Stability RDB': '',
   'Bank Stability, Left (choice list)': '',
   'Bank Stability, Right (choice list)': '',
+  'Bank Undercut': '',
   'Bank class (choice list)': '',
   'Bank class, Left (choice list)': '',
   'Bank class, Right (choice list)': '',
@@ -13566,6 +13569,7 @@ export default {
   Bases: '',
   'Battery voltage': '',
   'Beam Attenuation (Seabird)': '',
+  Bearing: '',
   Beauvericin: '',
   'Beaver (choice list)': '',
   'Beaver Flow Modification (choice list)': '',
@@ -15156,6 +15160,7 @@ export default {
   'Canopy Cover': '',
   'Canopy Cover, Left Bank': '',
   'Canopy Cover, Right Bank': '',
+  'Canopy Measure': '',
   'Canopy Measure Center Down': '',
   'Canopy Measure Center Left': '',
   'Canopy Measure Center Right': '',
@@ -15344,8 +15349,10 @@ export default {
   'Channel Constraining Feature (choice list)': '',
   'Channel Constraining Features (choice list)': '',
   'Channel Constraint (choice list)': '',
+  'Channel Constraint - Can See Over Bank': '',
   'Channel Development': '',
   'Channel Flow Status': '',
+  'Channel Habitat Code': '',
   'Channel Length in Contact with Constraining Feature': '',
   'Channel Pattern (choice list)': '',
   'Channel Sinuosity': '',
@@ -16274,6 +16281,8 @@ export default {
   Deoxynivalenol: '',
   'Deposits in Water': '',
   Depth: '',
+  'Depth by Pole': '',
+  'Depth by Sonar': '',
   'Depth from surface to lower boundary of soil layer': '',
   'Depth of pond or reservoir in feet': '',
   'Depth of water column': '',
@@ -16762,6 +16771,19 @@ export default {
   Diquat: '2764-72-9',
   'Diquat dibromide': '85-00-7',
   'Discharge (stage unknown)': '',
+  'Discharge - NBO - Depth, Lower Section': '',
+  'Discharge - NBO - Depth, Middle Section': '',
+  'Discharge - NBO - Depth, Upper Section': '',
+  'Discharge - NBO - Float Distance': '',
+  'Discharge - NBO - Float Time': '',
+  'Discharge - NBO - Width, Lower Section': '',
+  'Discharge - NBO - Width, Middle Section': '',
+  'Discharge - NBO - Width, Upper Section': '',
+  'Discharge - Timed Filling - Time': '',
+  'Discharge - Timed Filling - Volume': '',
+  'Discharge - Velocity Area Depth': '',
+  'Discharge - Velocity Area Distance From Bank': '',
+  'Discharge Method': '',
   'Discharge, Mine': '',
   'Discharge, River/Stream': '',
   'Discoloration (Y/N) (choice list)': '',
@@ -16786,6 +16808,7 @@ export default {
   'Dissolved oxygen uptake': '',
   'Distance From Left Bank': '',
   'Distance From Right Bank': '',
+  'Distance from Shore to Riparian': '',
   'Distance from/to': '',
   'Distannoxane, 1,1,3,3-tetraethenyl-1,3-bis[(2,2,2-trifluoroacetyl)oxy]-':
     '54807-82-8',
@@ -16909,6 +16932,7 @@ export default {
   'Eicosatrienoic acid': '1783-84-2',
   'Elapsed Time Since Last Measurement': '',
   'Electromotive force': '',
+  Elevation: '',
   'Elevation, MSL': '',
   'Elevation, aquifer top, MSL': '',
   'Elevation, groundwater surface, MSL': '',
@@ -16919,6 +16943,7 @@ export default {
   'Emamectin benzoate': '155569-91-8',
   Embeddedness: '',
   'Embeddedness, riffle (%)': '',
+  Embededness: '',
   Emergence: '',
   'Emergent, aquatic vegetation along bank (choice list)': '',
   'Emergent, aquatic vegetation in channel (choice list)': '',
@@ -18736,6 +18761,9 @@ export default {
   'Inundation Evidence: True aquatic plants (choice list)': '',
   'Inundation Evidence: Water marks (choice list)': '',
   'Inundation Evidence: Water stained leaves (choice list)': '',
+  'Invasive Species Identification Confidence': '',
+  'Invasive Species Name': '',
+  'Invasive Species Prevalence': '',
   'Invasive species found (choice list)': '',
   Iodide: '20461-54-5',
   Iodine: '7553-56-2',
@@ -19008,21 +19036,65 @@ export default {
     '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:1.5-5m)':
     '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:15-30m)':
+    '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:5-15m)':
     '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:>15m)':
     '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:>30m)':
+    '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:1.5-5m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:15-30m)':
     '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:5-15m)':
     '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:>15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:>30m)':
     '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:1.5-5m)':
     '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:5-15m)':
     '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:>15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:>30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:15-30m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:5-15m)':
+    '',
+  'Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:>30m)':
     '',
   'Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.1-<0.3m; Len:1.5-5m)':
     '',
@@ -19051,6 +19123,8 @@ export default {
   'Larkspur alkaloid': '41710-20-7',
   'Larvae in Gill Chambers or Attached to Abdomen': '',
   Lasalocid: '',
+  'Latitude, Bank': '',
+  'Latitude, Midstream': '',
   'Lauric acid': '143-07-7',
   'Lauryl acrylate': '2156-97-0',
   Lauryldiethanolamine: '1541-67-9',
@@ -19178,6 +19252,11 @@ export default {
   'Lithium-7/Lithium-6 ratio': '',
   'Lithology code': '',
   'Littoral Cover Complexity Index': '',
+  'Littoral Substrate - Bottom Dominant': '',
+  'Littoral Substrate - Bottom Secondary': '',
+  'Littoral Substrate - Bottom, Method of Determining': '',
+  'Littoral Substrate - Shore Dominant': '',
+  'Littoral Substrate - Shore Secondary': '',
   'Littoral-Riparian Cover Complexity Index': '',
   'Live centric diatoms': '',
   'Live pennate diatoms': '',
@@ -19187,6 +19266,8 @@ export default {
   Lomefloxacin: '98079-51-7',
   Lomustine: '13010-47-4',
   Longifolene: '475-20-7',
+  'Longitude, Bank': '',
+  'Longitude, Midstream': '',
   'Longitudinal Distribution': '',
   'Loosely attached filamentous algae (choice list)': '',
   'Loosely sorbed Phosphorus (LSP)': '',
@@ -21436,6 +21517,7 @@ export default {
   'Odor threshold number': '',
   'Odor type (choice list)': '',
   'Odor, atmospheric': '',
+  'Off Channel (Y/N) (Choicelist)': '',
   Ofloxacin: '82419-36-1',
   'Oil and Grease': '',
   'Oil and Grease surface slick/sheen (Y/N) (choice list)': '',
@@ -24478,7 +24560,7 @@ export default {
   Pyrethrins: '8003-34-7',
   'Pyrethroid insecticides': '',
   Pyriclor: '1970-40-7',
-  Pyridaben: '',
+  Pyridaben: '96489-71-3',
   Pyridafol: '40020-01-7',
   'Pyridazine, 3,6-diphenyl-4-[2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-':
     '62284-34-8',
@@ -24738,6 +24820,8 @@ export default {
   Ramipril: '87333-19-5',
   Ranitidine: '66357-35-5',
   'Rank Sum': '',
+  'Reach Length, Downstream': '',
+  'Reach Length, Upstream': '',
   'Reaction product of potassium acrylate with 1-perfluoro[n-alkyl(C6,8,10,12,14,16,18)]-2-iodoethane, it consists predominantly of 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluorodecyl acrylate':
     '509086-57-1',
   'Reaction products with N-methylamine acetate, potassium hydroxide, .alpha.-fluoro-.omega.-iodopoly(perfluoroethylene)(n=4-8) and 2-propen-1-ol':
@@ -25247,9 +25331,20 @@ export default {
   'Sinuosity length line': '',
   Sipunculoidea: '',
   Sitagliptin: '486460-32-6',
+  'Site Sampleability Detail': '',
+  'Site Sampleability Status': '',
+  'Site Verified By GPS': '',
+  'Site Verified By Local Contact': '',
+  'Site Verified By Other': '',
+  'Site Verified By Roads': '',
+  'Site Verified By Signs': '',
+  'Site Verified By Topographic Map': '',
+  'Site Visit Number': '',
   'Sky Code (CA SWAMP) (choice list)': '',
   Slavina: '',
   'Slime-forming bacteria': '',
+  'Slope/Bearing Method': '',
+  'Slope/Bearing Proportion': '',
   'Slow Riffle': '',
   'Sludge (choice list)': '',
   'Sludge Depth': '',
@@ -25264,6 +25359,7 @@ export default {
   Smithsonidrilus: '',
   Smittia: '',
   Smoke: '',
+  Snag: '',
   'Snag surf (choice list)': '',
   Snag_diam: '',
   Snag_dist: '',
@@ -25693,6 +25789,8 @@ export default {
   'Substrate Embeddedness': '',
   'Substrate Origin': '',
   'Substrate Quality': '',
+  'Substrate Size Class, Midpoint': '',
+  'Substrate Size Class, Transect': '',
   'Substrate Subdominant, Transect (choice list)': '',
   'Substrate Type (choice list)': '',
   'Substrate, clay, medium': '',
@@ -26126,7 +26224,13 @@ export default {
   'Thallium-201': '15064-65-0',
   'Thallium-205': '14280-49-0',
   'Thallium-208': '14913-50-9',
+  'Thalweg Bar Present': '',
+  'Thalweg Bar Width': '',
   'Thalweg Depth': '',
+  'Thalweg Depth by Pole': '',
+  'Thalweg Depth by Sonar': '',
+  'Thalweg Increment': '',
+  'Thalweg Wetted Width': '',
   'Thalweg elevation': '',
   Thebaine: '115-37-7',
   Thecamoeba: '',
@@ -26442,6 +26546,8 @@ export default {
   'Trans-2-Butene': '624-64-6',
   'Trans-2-Pentene': '646-04-8',
   Transect: '',
+  'Transect Spacing - Actual': '',
+  'Transect Spacing - Intended': '',
   'Transit Rate, sampler': '',
   'Transmittance, Horizontal': '',
   'Transparency, Secchi tube with disk': '',
@@ -26922,6 +27028,7 @@ export default {
   'Vegetative Protection RDB': '',
   'Velocity - stream': '',
   'Velocity Depth Regime': '',
+  'Velocity of intake': '',
   'Velocity-discharge': '',
   'Venice Salinity Category (choice list)': '',
   Venlafaxine: '93413-69-5',

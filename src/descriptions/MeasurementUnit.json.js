@@ -161,6 +161,7 @@ export default {
   'ft-candles': 'Light Intensity, foot candles',
   'ft-lbs': 'Energy, foot pounds',
   'ft/day': 'Speed Velocity, Feet per day',
+  'ft/mile': 'Slope, feet per mile',
   'ft/min': 'Speed Velocity, Feet per minute',
   'ft/sec': 'Speed Velocity, Feet per second',
   ft2: 'Area, Square feet',
