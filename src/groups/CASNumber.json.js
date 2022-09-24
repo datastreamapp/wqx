@@ -16808,6 +16808,7 @@ export default {
   'Dissolved oxygen uptake': '',
   'Distance From Left Bank': '',
   'Distance From Right Bank': '',
+  'Distance along transect': '',
   'Distance from Shore to Riparian': '',
   'Distance from/to': '',
   'Distannoxane, 1,1,3,3-tetraethenyl-1,3-bis[(2,2,2-trifluoroacetyl)oxy]-':
@@ -25039,6 +25040,7 @@ export default {
   'Scotchgard PM 930': '923298-12-8',
   Scyphozoa: '',
   'Sea waves severity (choice list)': '',
+  'Seagrass Cover (choice list)': '',
   'Seagrass coverage': '',
   'Seagrass height': '',
   Secbumeton: '26259-45-0',
@@ -25343,6 +25345,7 @@ export default {
   'Sky Code (CA SWAMP) (choice list)': '',
   Slavina: '',
   'Slime-forming bacteria': '',
+  Slope: '',
   'Slope/Bearing Method': '',
   'Slope/Bearing Proportion': '',
   'Slow Riffle': '',

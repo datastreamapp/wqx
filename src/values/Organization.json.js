@@ -1134,6 +1134,7 @@ export default {
     'TIMSSD',
     'TJRI',
     'TLBP_WQX',
+    'TLGVWQMPROGRAM',
     'TLINGIT-HAIDA',
     'TMBLM_WQX',
     'TMTC_WQX',

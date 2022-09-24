@@ -16396,6 +16396,7 @@ export default {
   'Dissolved oxygen uptake': '; Request Date: 02-MAR-07',
   'Distance From Left Bank': '1; Request Date: 04-OCT-18',
   'Distance From Right Bank': '',
+  'Distance along transect': 'NARS Mobile',
   'Distance from Shore to Riparian': '',
   'Distance from/to': '; Request Date: 02-MAR-07',
   'Distannoxane, 1,1,3,3-tetraethenyl-1,3-bis[(2,2,2-trifluoroacetyl)oxy]-':
@@ -24903,6 +24904,7 @@ export default {
   'Scotchgard PM 930': '',
   Scyphozoa: 'NWIS',
   'Sea waves severity (choice list)': '; Request Date: 02-MAR-07',
+  'Seagrass Cover (choice list)': '',
   'Seagrass coverage': '; Request Date: 09-MAR-15',
   'Seagrass height': '; Request Date: 09-MAR-15',
   Secbumeton: '; Request Date: 22-JUL-14',
@@ -25212,6 +25214,7 @@ export default {
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',
   Slavina: 'NWIS',
   'Slime-forming bacteria': 'NWIS',
+  Slope: 'NARS Mobile',
   'Slope/Bearing Method': '',
   'Slope/Bearing Proportion': '',
   'Slow Riffle': '; Request Date: 14-MAY-10',

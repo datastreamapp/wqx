@@ -20326,6 +20326,7 @@ export default {
   'Dissolved oxygen uptake': 'Physical',
   'Distance From Left Bank': 'Physical',
   'Distance From Right Bank': 'Information',
+  'Distance along transect': 'Information',
   'Distance from Shore to Riparian': 'Information',
   'Distance from/to': 'Information',
   'Distannoxane, 1,1,3,3-tetraethenyl-1,3-bis[(2,2,2-trifluoroacetyl)oxy]-':
@@ -29742,6 +29743,7 @@ export default {
   'Scotchgard PM 930': 'PFOA, Perfluorooctanoic Acid',
   Scyphozoa: 'Not Assigned',
   'Sea waves severity (choice list)': 'Information',
+  'Seagrass Cover (choice list)': 'Information',
   'Seagrass coverage': 'Information',
   'Seagrass height': 'Not Assigned',
   Secbumeton: 'Organics, Pesticide',
@@ -30066,6 +30068,7 @@ export default {
   'Sky Code (CA SWAMP) (choice list)': 'Not Assigned',
   Slavina: 'Not Assigned',
   'Slime-forming bacteria': 'Not Assigned',
+  Slope: 'Information',
   'Slope/Bearing Method': 'Information',
   'Slope/Bearing Proportion': 'Information',
   'Slow Riffle': 'Information',
