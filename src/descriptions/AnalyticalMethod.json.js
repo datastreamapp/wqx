@@ -174,7 +174,7 @@ export default {
   1550: '',
   1551: '',
   1600: '',
-  1601: '1601 ~ EPA-OW ; Coliphage in water by two-step enrichment procedure',
+  1601: '',
   1602: '1602 ~ EPA-OW ; Coliphage in water by single agar layer (SAL)',
   1603: '',
   1604: '',
@@ -197,6 +197,7 @@ export default {
   1623: '1623 ~ EPA-MICRO ; Cryptosporidium and giardia by filtration/IMS/FA microscopy',
   1624: '1624 ~ EPA-EAD ; Volatile Organic Compounds by GC/MS',
   1625: '1625 ~ EPA-EAD ; Semivolatiles - Base/Neutrals, Acid Extractable, GC/MS',
+  1628: '',
   1630: '1630 ~ EPA-EAD ; Methyl Mercury in Water',
   1631: '1631 ~ EPA-EAD ; Mercury in Water Using CVAFS',
   1632: '1632 ~ EPA-EAD ; Chemical Speciation of Arsenic in Water and Tissue',
@@ -648,7 +649,7 @@ export default {
   10027: '',
   10028: '',
   10029:
-    'Coliforms: Membrane Filtration (simultaneous detection) In: Hach Analytical Procedures. m-ColiBlue24 Broth Procedure for Membrane Filtration. Hach Product Literature #8433. Hach: Loveland, CO. Dec.',
+    '10029 ~ Hach Co. ; E. coli by m-ColiBlue24 Broth Procedure for Membrane Filtration',
   10031: '',
   10071: '',
   10072: '',
@@ -867,7 +868,8 @@ export default {
     '130 ~ NOAA NST ; Capillary gas chromatography analysis for organic contaminates in marine sediments.',
   130.01:
     '130.01 ~ NOAA NST ; Organic contaminates in marine animal tissues by GC-FPD',
-  130.1: '130.1 ~ EPA-NERL ; Total Hardness by Spectrophotometer',
+  130.1:
+    '130.1 ~ NOAA NST ; Organic contaminants in marine sediments by GC-ECD',
   130.11:
     '130.11 ~ NOAA NST ; Organic contaminants in marine animal tissues by GC-ECD',
   130.2: '130.2 ~ NOAA NST ; Dioxins and Furans in marine sediments by GC-MS',

@@ -906,6 +906,7 @@ export default {
   NCWQR: '',
   NEIARCD_WQX: '',
   NEIWPCC: '',
+  NEKCKGREENTEAMGROUNDWORKNRG: '',
   NEWRIVERCONSERVANCY: 'New River Conservancy',
   NEZPERCETRIBE_WQX:
     'Nez Perce Tribe; Water Resources Department WQX Data Exchange',

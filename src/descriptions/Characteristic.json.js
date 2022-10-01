@@ -12570,6 +12570,7 @@ export default {
   'Aquatic Habitat Changes Present': '',
   'Aquatic Plant Cover, substrate rock/bank cover (choice list)':
     '; Request Date: 05-JUL-17',
+  'Aquatic Vegetation Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Aquatic Vegetation, Density': 'NWIS',
   'Aquatic Vegetation, Type': 'NWIS',
   'Aquatic buffer area': 'NLA; Request Date: 18-MAR-16',
@@ -14237,6 +14238,7 @@ export default {
   'Bromoxynil-13C6': '; Request Date: 22-JUL-14',
   Bromuconazole: 'NWIS',
   'Brush Cover (%)': '',
+  'Brush Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   Bufencarb: 'NWIS',
   Bulan: '; Request Date: 02-MAR-07',
   'Bulan mixt. with 2-nitro-1,1-bis(p-chlorophenyl)propane':
@@ -15196,6 +15198,7 @@ export default {
   Coal: '; Request Date: 02-MAR-07',
   'Coal tar':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
+  'Coarse Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Coarse Mass': '',
   Cobalt: '; Request Date: 22-JUL-14',
   'Cobalt and compounds':
@@ -15896,6 +15899,7 @@ export default {
     'Request Date: 11-Sep-14 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Desulfinylfipronil amide': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   'Detergent, severity (choice list)': '; Request Date: 02-MAR-07',
+  'Detritus Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Detritus, coarse particle organic matter':
     'A description of the organic substrate type within a habitat consisting of detritus (sticks, wood, and coarse plant material), as defined by the second Rapid Bioassessment Protocols (RBP2)..; Request Date: 17-OCT-17',
   Deuterium: '; Request Date: 17-AUG-15',
@@ -17293,6 +17297,7 @@ export default {
   'Final Void Ratio':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   Finasteride: 'NWIS',
+  'Fine Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Fines < 2 mm': '',
   'Fines < 2 mm, reach pebble count (%)': '; Request Date: 15-MAR-11',
   'Fines < 2 mm, riffle pebble count (%)': '; Request Date: 15-MAR-11',
@@ -21196,6 +21201,7 @@ export default {
     'National Park Service, contact nps.gov; Request Date: 21-JUL-16',
   'Odor, atmospheric': 'NWIS',
   'Off Channel (Y/N) (Choicelist)': '',
+  'Offensive Conditions': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   Ofloxacin: '1; Request Date: 02-MAR-07',
   'Oil and Grease': '; Request Date: 02-MAR-07',
   'Oil and Grease surface slick/sheen (Y/N) (choice list)':
@@ -24806,6 +24812,7 @@ export default {
   'Rocky Substrate (choice list)': '; Request Date: 14-MAY-10',
   Roederiodes: 'NWIS',
   Ronnel: '; Request Date: 22-JUL-14',
+  'Root Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Root weight': '; Request Date: 24-JUL-15',
   'Rooted or floating plants restrict access to waterbody (Y/N) (choice list)':
     '',
@@ -26008,6 +26015,7 @@ export default {
   'Terrace height': '; Request Date: 08-JUN-10',
   'Terrace width': '; Request Date: 08-JUN-10',
   'Terrestrial Habitat Changes Present': '',
+  'Terrestrial Vegetation Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   Testosterone: 'Nemi.gov; Request Date: 22-JUL-14',
   'Testosterone glucuronide': 'NWIS',
   'Testosterone sulfate': 'NWIS',
