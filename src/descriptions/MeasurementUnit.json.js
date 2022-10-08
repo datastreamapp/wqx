@@ -135,6 +135,8 @@ export default {
   'cm3/min': 'Flow, Cubic centimeters per minute',
   'cm3/sec': 'Flow, Cubic centimeters per second',
   code: 'Picklist or Choicelist, Please see http://waterdata.usgs.gov/nwis/qwdata?codes_table26_help#62955',
+  copies: 'Concentration Solution, copies (ie viral load)',
+  'copies/ml': 'Concentration Solution, copies per milliliters (ie viral load)',
   count: 'Quantity, Count',
   'counts/sec': 'Concentration Solution, Counts per second',
   'd/h/m/s': 'Time, Days/hours/minutes/seconds',
@@ -241,6 +243,8 @@ export default {
   'lm/ft2': 'Light Intensity, lumens per square foot',
   'lm/m2': 'Light Intensity, lumens per square meter',
   'loc-sec': 'Direction or angle, Locational seconds (latitude/longitude)',
+  'log10 copies':
+    'Concentration Solution, Log10 copies (If Loga b = x, then a^x=b)',
   lumens: 'Light Intensity, lumens',
   m: 'Length Distance, Meters',
   'm-1': 'Concentration Solution, Inverse meters or per meters',

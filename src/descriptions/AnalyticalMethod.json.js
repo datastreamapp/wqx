@@ -2802,7 +2802,7 @@ export default {
   D1890: 'D1890 ~ ASTM ; Beta Activity in Water',
   D1941: '',
   D1943: 'D1943 ~ ASTM ; Alpha Particle Radioactivity of Water',
-  D1976: 'https://www.astm.org/Standards/D1976.htm',
+  D1976: 'D1976 ~ ASTM ; Elements in Water by ICP-AES',
   D2035: '',
   'D2036(A)':
     'D2036A ~ ASTM ; Cyanides, Total, after Distillation (Test Method A)',
@@ -3050,6 +3050,7 @@ export default {
   'D515(A)': '',
   'D515(B)': '',
   D516: 'D516 ~ ASTM ; Sulfate in Water by Turbidimitry',
+  'D516-16': 'D516-16 ~ ASTM ; https://www.astm.org/d0516-16.html',
   'D516-90': '',
   D5173: '',
   D5174:
