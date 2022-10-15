@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/LocalAquiferContext.json',
+  $id: 'https://epa.gov/wqx/LocalAquiferContext',
   title: 'Local Aquifer Context',
   description: '',
   type: 'string',

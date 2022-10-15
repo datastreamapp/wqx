@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/SampleTissueAnatomy.json",
+  "$id": "https://epa.gov/wqx/SampleTissueAnatomy",
   "title": "Sample Tissue Anatomy",
   "description": "",
   "type": "string",

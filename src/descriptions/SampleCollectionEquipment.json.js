@@ -267,6 +267,8 @@ export default {
   Rotenone:
     'Rotenone is an odorless, colorless, crystalline isoflavone used as a broad-spectrum insecticide, piscicide, and pesticide. It occurs naturally in the seeds and stems of several plants, such as the jicama vine plant, and the roots of several members of Fabaceae.',
   'Roving Drop Net': '',
+  'SPATT Bags':
+    'A porous synthetic resin filled sachet used to measure biotoxins',
   'Scoop Fish Grab': '',
   'Seabird CTD profiler':
     'An instrument that measures water parameters as it travels through the water.',

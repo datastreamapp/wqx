@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/CharacteristicGroup.json',
+  $id: 'https://epa.gov/wqx/CharacteristicGroup',
   title: 'Characteristic Group',
   description: '',
   type: 'string',

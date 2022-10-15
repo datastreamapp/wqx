@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/TaxonGroup.json',
+  $id: 'https://epa.gov/wqx/TaxonGroup',
   title: 'Taxon Group',
   description: '',
   type: 'string',

@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/AliasType.json',
+  $id: 'https://epa.gov/wqx/AliasType',
   title: 'Alias Type',
   description: '',
   type: 'string',

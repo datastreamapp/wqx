@@ -1,11 +1,8 @@
 {
-  "$id": "https://epa.gov/wqx/ToxicityTestType.json",
+  "$id": "https://epa.gov/wqx/ToxicityTestType",
   "title": "Toxicity Test Type",
   "description": "",
   "type": "string",
-  "enum": [
-    "Acute",
-    "Chronic"
-  ],
+  "enum": ["Acute", "Chronic"],
   "maxLength": 7
 }

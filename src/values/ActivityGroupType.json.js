@@ -1,15 +1,8 @@
 export default {
-  "$id": "https://epa.gov/wqx/ActivityGroupType.json",
-  "title": "Activity Group Type",
-  "description": "",
-  "type": "string",
-  "enum": [
-    "Field Set",
-    "Other",
-    "QC Sample",
-    "Replicate",
-    "Subsample",
-    "Trip"
-  ],
-  "maxLength": 9
+  $id: 'https://epa.gov/wqx/ActivityGroupType',
+  title: 'Activity Group Type',
+  description: '',
+  type: 'string',
+  enum: ['Field Set', 'Other', 'QC Sample', 'Replicate', 'Subsample', 'Trip'],
+  maxLength: 9
 }

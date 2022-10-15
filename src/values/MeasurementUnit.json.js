@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/MeasurementUnit.json',
+  $id: 'https://epa.gov/wqx/MeasurementUnit',
   title: 'Measurement Unit',
   description: '',
   type: 'string',

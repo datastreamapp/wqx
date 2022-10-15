@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/SampleCollectionEquipment.json',
+  $id: 'https://epa.gov/wqx/SampleCollectionEquipment',
   title: 'Sample Collection Equipment',
   description: '',
   type: 'string',
@@ -168,6 +168,7 @@ export default {
     'Rosette Sampler',
     'Rotenone',
     'Roving Drop Net',
+    'SPATT Bags',
     'Scoop Fish Grab',
     'Seabird CTD profiler',
     'Secchi Disk',

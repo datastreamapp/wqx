@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/LocalAquifer.json",
+  "$id": "https://epa.gov/wqx/LocalAquifer",
   "title": "Local Aquifer",
   "description": "",
   "type": "string",

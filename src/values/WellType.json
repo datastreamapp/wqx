@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/WellType.json",
+  "$id": "https://epa.gov/wqx/WellType",
   "title": "Well Type",
   "description": "",
   "type": "string",

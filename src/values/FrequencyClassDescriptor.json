@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/FrequencyClassDescriptor.json",
+  "$id": "https://epa.gov/wqx/FrequencyClassDescriptor",
   "title": "Frequency Class Descriptor",
   "description": "",
   "type": "string",

@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/AnalyticalMethodContext.json',
+  $id: 'https://epa.gov/wqx/AnalyticalMethodContext',
   title: 'Analytical Method Context',
   description: '',
   type: 'string',

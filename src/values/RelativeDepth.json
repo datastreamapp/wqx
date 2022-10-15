@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/RelativeDepth.json",
+  "$id": "https://epa.gov/wqx/RelativeDepth",
   "title": "Relative Depth",
   "description": "",
   "type": "string",

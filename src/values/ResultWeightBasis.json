@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/ResultWeightBasis.json",
+  "$id": "https://epa.gov/wqx/ResultWeightBasis",
   "title": "Result Weight Basis",
   "description": "",
   "type": "string",

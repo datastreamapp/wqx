@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/County.json",
+  "$id": "https://epa.gov/wqx/County",
   "title": "County",
   "description": "",
   "type": "string",

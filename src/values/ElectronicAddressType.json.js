@@ -1,12 +1,8 @@
 export default {
-  "$id": "https://epa.gov/wqx/ElectronicAddressType.json",
-  "title": "Electronic Address Type",
-  "description": "",
-  "type": "string",
-  "enum": [
-    "Email",
-    "Internet",
-    "Intranet"
-  ],
-  "maxLength": 8
+  $id: 'https://epa.gov/wqx/ElectronicAddressType',
+  title: 'Electronic Address Type',
+  description: '',
+  type: 'string',
+  enum: ['Email', 'Internet', 'Intranet'],
+  maxLength: 8
 }

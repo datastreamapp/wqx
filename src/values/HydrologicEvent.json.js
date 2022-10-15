@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/HydrologicEvent.json',
+  $id: 'https://epa.gov/wqx/HydrologicEvent',
   title: 'Hydrologic Event',
   description: '',
   type: 'string',

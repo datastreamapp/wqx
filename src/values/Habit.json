@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/Habit.json",
+  "$id": "https://epa.gov/wqx/Habit",
   "title": "Habit",
   "description": "",
   "type": "string",

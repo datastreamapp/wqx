@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/AnalyticalMethod.json',
+  $id: 'https://epa.gov/wqx/AnalyticalMethod',
   title: 'Analytical Method',
   description: '',
   type: 'string',

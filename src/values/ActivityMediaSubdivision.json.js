@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/ActivityMediaSubdivision.json',
+  $id: 'https://epa.gov/wqx/ActivityMediaSubdivision',
   title: 'Activity Media Subdivision',
   description: '',
   type: 'string',
@@ -23,6 +23,7 @@ export default {
     'Fecal material',
     'Filter Residue',
     'Finished Water',
+    'First flush',
     'Foam',
     'Geologic gases',
     'Groundwater',

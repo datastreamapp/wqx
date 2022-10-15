@@ -1,12 +1,8 @@
 export default {
-  "$id": "https://epa.gov/wqx/AddressType.json",
-  "title": "Address Type",
-  "description": "",
-  "type": "string",
-  "enum": [
-    "Location",
-    "Mailing",
-    "Shipping"
-  ],
-  "maxLength": 8
+  $id: 'https://epa.gov/wqx/AddressType',
+  title: 'Address Type',
+  description: '',
+  type: 'string',
+  enum: ['Location', 'Mailing', 'Shipping'],
+  maxLength: 8
 }

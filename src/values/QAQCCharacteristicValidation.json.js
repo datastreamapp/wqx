@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/QAQCCharacteristicValidation.json',
+  $id: 'https://epa.gov/wqx/QAQCCharacteristicValidation',
   title: 'Qaqc Characteristic Validation',
   description: '',
   type: 'string',

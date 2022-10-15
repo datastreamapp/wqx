@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/ResultTemperatureBasis.json",
+  "$id": "https://epa.gov/wqx/ResultTemperatureBasis",
   "title": "Result Temperature Basis",
   "description": "",
   "type": "string",

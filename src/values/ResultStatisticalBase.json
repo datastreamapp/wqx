@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/ResultStatisticalBase.json",
+  "$id": "https://epa.gov/wqx/ResultStatisticalBase",
   "title": "Result Statistical Base",
   "description": "",
   "type": "string",

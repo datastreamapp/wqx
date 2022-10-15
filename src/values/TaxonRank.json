@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/TaxonRank.json",
+  "$id": "https://epa.gov/wqx/TaxonRank",
   "title": "Taxon Rank",
   "description": "",
   "type": "string",

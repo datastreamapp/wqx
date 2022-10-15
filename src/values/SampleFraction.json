@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/SampleFraction.json",
+  "$id": "https://epa.gov/wqx/SampleFraction",
   "title": "Sample Fraction",
   "description": "",
   "type": "string",

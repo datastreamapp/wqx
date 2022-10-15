@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/HydrologicCondition.json",
+  "$id": "https://epa.gov/wqx/HydrologicCondition",
   "title": "Hydrologic Condition",
   "description": "",
   "type": "string",

@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/TimeZone.json",
+  "$id": "https://epa.gov/wqx/TimeZone",
   "title": "Time Zone",
   "description": "",
   "type": "string",

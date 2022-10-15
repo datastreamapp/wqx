@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/ActivityType.json",
+  "$id": "https://epa.gov/wqx/ActivityType",
   "title": "Activity Type",
   "description": "",
   "type": "string",

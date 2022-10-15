@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/VerticalCollectionMethod.json",
+  "$id": "https://epa.gov/wqx/VerticalCollectionMethod",
   "title": "Vertical Collection Method",
   "description": "",
   "type": "string",

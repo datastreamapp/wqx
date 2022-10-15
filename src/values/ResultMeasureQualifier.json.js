@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/ResultMeasureQualifier.json',
+  $id: 'https://epa.gov/wqx/ResultMeasureQualifier',
   title: 'Result Measure Qualifier',
   description: '',
   type: 'string',

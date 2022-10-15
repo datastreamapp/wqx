@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/ResultStatus.json",
+  "$id": "https://epa.gov/wqx/ResultStatus",
   "title": "Result Status",
   "description": "",
   "type": "string",

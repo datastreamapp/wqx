@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/Organization.json',
+  $id: 'https://epa.gov/wqx/Organization',
   title: 'Organization',
   description: '',
   type: 'string',

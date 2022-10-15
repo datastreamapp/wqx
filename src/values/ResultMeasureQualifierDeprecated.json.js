@@ -1,5 +1,5 @@
 export default {
-  $id: 'https://epa.gov/wqx/ResultMeasureQualifierDeprecated.json',
+  $id: 'https://epa.gov/wqx/ResultMeasureQualifierDeprecated',
   title: 'Result Measure Qualifier Deprecated',
   description: '',
   type: 'string',

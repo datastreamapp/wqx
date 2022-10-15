@@ -1,5 +1,5 @@
 {
-  "$id": "https://epa.gov/wqx/BiologicalIntent.json",
+  "$id": "https://epa.gov/wqx/BiologicalIntent",
   "title": "Biological Intent",
   "description": "",
   "type": "string",
