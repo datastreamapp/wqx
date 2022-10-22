@@ -282,6 +282,7 @@ export default {
     'BCHMI_WQX',
     'BCUTAHLAB',
     'BEAR_CRK_WQX',
+    'BENTON_SWCD',
     'BERGERGROUP',
     'BERRY',
     'BESD',
