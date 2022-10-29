@@ -420,7 +420,7 @@
   "umol/S/m2": "Viscosity, Micromoles per siemen per square meter",
   "umol/g": "Concentration Percentage, Micromoles per gram",
   "umol/kg": "Concentration Molar, Micromoles per kilogram",
-  "umol/m2/s": "Viscosity, Micromolesr square meter per second",
+  "umol/m2/s": "Viscosity, Micromoles square meter per second. For Light, photosynthetic active radiation (PAR). A unit of measure of the amount of light hitting a surface that is in the range of 400-700 nanometers.",
   "units/cm": "Concentration Solution, Units per centimeter, for UV absorbance",
   "units/m": "Concentration Solution, Units per metre, for UV absorbance",
   "volts": "Power, Electro-motive force, volts",

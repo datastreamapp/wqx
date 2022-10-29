@@ -12147,7 +12147,7 @@ export default {
   'Acid - Base Potential': '; Request Date: 02-MAR-07',
   'Acid Generation Potential':
     'The oxidation of sulfide minerals.; Request Date: 02-MAR-07',
-  'Acid Neutralization Potential  as CaCO3 As %CaCO3***retired*** use Acid Neutralization Potential as CaCO3':
+  'Acid Neutralization Potential  as CaCO3 As %CaCO3***retired***use Acid Neutralization Potential as CaCO3':
     'NWIS characteristic is Acid Neutralization Potential as CaCO3  and speciation = as %CaCO3',
   'Acid Neutralization Potential Acidity (ANPA)':
     'The measure of the mineral acidity plus the acidity resulting from hydrolysis of polyvalent cations of iron and aluminum.; Request Date: 02-MAR-07',
@@ -15411,6 +15411,7 @@ export default {
   'Curium-244': 'Curium, atomic number 96.; Request Date: 02-MAR-07',
   'Curium-245': '; Request Date: 25-MAR-10',
   'Current (choice list)': '; Request Date: 04-JUN-15',
+  'Current Precipitation (choice list)': '',
   'Current direction':
     'The direction of a current with respect to a given point of reference.; Request Date: 02-MAR-07',
   'Current speed':
@@ -16375,6 +16376,7 @@ export default {
   'Discharge - Timed Filling - Volume': '',
   'Discharge - Velocity Area Depth': '',
   'Discharge - Velocity Area Distance From Bank': '',
+  'Discharge Description (text)': '',
   'Discharge Method': '',
   'Discharge, Mine': '; Request Date: 21-MAR-14',
   'Discharge, River/Stream': '14; Request Date: 21-MAR-14',
@@ -20858,7 +20860,7 @@ export default {
   Nitrofen: '; Request Date: 22-JUL-14',
   Nitrofurantoin: '; Request Date: 02-MAR-07',
   Nitrogen: 'EPA Workgroup QA; Request Date: 02-MAR-07',
-  'Nitrogen Delta 15 ***retired*** use Nitrogen-15/Nitrogen-14 ratio':
+  'Nitrogen Delta 15***retired***use Nitrogen-15/Nitrogen-14 ratio':
     '; Request Date: 22-JUL-14',
   'Nitrogen dioxide': '; Request Date: 02-MAR-07',
   'Nitrogen ion': '; Request Date: 22-JUL-14',
@@ -20873,7 +20875,7 @@ export default {
   'Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)':
     'EPA Workgroup QA; Request Date: 02-APR-09',
   'Nitrogen-15': 'Nitrogen, atomic number 7.; Request Date: 02-MAR-07',
-  'Nitrogen-15/14 ratio ***retired*** use Nitrogen-15/Nitrogen-14 ratio':
+  'Nitrogen-15/14 ratio***retired***use Nitrogen-15/Nitrogen-14 ratio':
     '; Request Date: 02-MAR-07',
   'Nitrogen-15/Nitrogen-14 ratio': '',
   'Nitrogen/Phosphorus molar ratio': '; Request Date: 20-NOV-13',
@@ -22860,7 +22862,7 @@ export default {
   Phosmetoxon: '; Request Date: 22-JUL-14',
   Phosphamidon: '; Request Date: 22-JUL-14',
   'Phosphamidon-E': '; Request Date: 20-NOV-18',
-  'Phosphate-phosphorus ***retired*** use Total Phosphorus, mixed forms':
+  'Phosphate-phosphorus***retired***use Total Phosphorus, mixed forms':
     'Tha measure of phosphorus present as phosphate.; Request Date: 22-JUL-14',
   'Phosphated pesticides':
     'Any phosphate-containing substances capable of preventing, destroying, repelling, or mitigating any pest.; Request Date: 02-MAR-07',
@@ -23729,6 +23731,7 @@ export default {
     'EPA Substance Registry System - www.epa.gov/srs; Request Date: 22-MAY-18',
   Prionocera: 'NWIS',
   Prionocypris: 'NWIS',
+  'Prior Precipitation (text)': '',
   'Priority pollutants': 'NWIS',
   Pristane: '; Request Date: 02-MAR-07',
   'Pristane/Phytane Ratio': '; Request Date: 26-AUG-13',
@@ -25227,6 +25230,7 @@ export default {
   Sipunculoidea: 'NWIS',
   Sitagliptin: '; Request Date: 02-FEB-15',
   'Site Disturbance (text)': '',
+  'Site Disturbance Evident (choice list)': '',
   'Site Erosion (text)': '',
   'Site Sampleability Detail': '',
   'Site Sampleability Status': '',
@@ -25559,12 +25563,15 @@ export default {
   'Spring, Flow Affected (choice list)': '',
   'Spring, Flow Modification (choice list)': '',
   'Spring, Flow Modification Active (Y/N) (choice list)': '',
+  'Spring, Flow Status (choice list)': '',
   'Spring, Flowing Channel Length': '',
   'Spring, Flowing Channel Length > 50 Meters (Y/N) (choice list)': '',
+  'Spring, Measurable Discharge (Y/N) (choice list)': '',
   'Spring, Multiple Orifices (Y/N) (choice list)': '',
   'Spring, Orifice Description (text)': '',
   'Spring, Other Springs Within 0.5 Miles (Y/N) (choice list)': '',
   'Spring, Site Area': '',
+  'Spring, Visual Estimate of Mixing (choice list)': '',
   Squalene: '; Request Date: 02-SEP-16',
   Squatinella: 'NWIS',
   Stactobiella: 'NWIS',

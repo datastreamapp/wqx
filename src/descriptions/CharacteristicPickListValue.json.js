@@ -405,6 +405,7 @@ export default {
   'Emergent, aquatic vegetation along bank (choice list)': 'Sparse',
   'Firmly attached algae or submerged veg (choice list)': 'Sparse',
   'Bankful Angle (choice list)': 'V - Very Steep',
+  'Spring, Flow Status (choice list)': 'Still/Pooled',
   'Sex (choice list)': 'Male',
   'RBP2, Water Quality, Water Surface Oils (choice list)': 'Slick',
   'RBP Water Surface Oils (choice list)': 'SLICK - Self describing.',
@@ -417,9 +418,10 @@ export default {
     'Trees are the dominant species present',
   'Habitat rating (choice list)':
     'Less than the 25th percentile of reference condition',
+  'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
   'RBP2, Watershed, Local Erosion (choice list)':
     'Light/Slight local watershed erosion',
-  'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
+  'Current Precipitation (choice list)': 'Snow',
   'General flow pattern (choice list)': 'Not applicable',
   'Intermittent sections (choice list)': 'Not applicable',
   'Slope Variability (choice list)':
@@ -472,6 +474,7 @@ export default {
   'Bank erosion stability (choice list)':
     "Unstable. Many eroded areas. Frequent 'raw' areas.",
   'Optical Brighteners (choice list)': 'Weakly Positive',
+  'Spring, Visual Estimate of Mixing (choice list)': 'Well',
   'Beaver Flow Modification (choice list)': 'None',
   'RBP Frequency of Riffles (choice list)': 'Suboptimal 11-15',
   'Spring, Channel Dominant Discharge Type (choice list)':
@@ -518,6 +521,8 @@ export default {
     'Yes, Impermeable layer present',
   'Macrophytes Extend Lakeward (choice list)':
     'Yes, Macrophytes extend lakeward',
+  'Spring, Measurable Discharge (Y/N) (choice list)': 'Yes',
+  'Site Disturbance Evident (choice list)': 'Yes',
   'Monocot plant type present (Y/N) (choice list)':
     'Yes, Plant type is Monocot',
   'Stream-side or littoral vegetative cover alteration (Y/N) (Choice list)':
