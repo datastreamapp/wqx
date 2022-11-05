@@ -300,6 +300,7 @@ export default {
     'ml/l/hr',
     'ml/m3',
     'ml/min',
+    'ml/sec',
     'mm',
     'mm2',
     'mm3',

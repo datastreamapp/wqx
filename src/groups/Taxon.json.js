@@ -45253,6 +45253,7 @@ export default {
   'Surirella linearis': 'Not Assigned',
   'Surirella linearis var. constricta': 'Not Assigned',
   'Surirella linearis var. helvetica': 'Not Assigned',
+  'Surirella litoralis': 'Not Assigned',
   'Surirella minuta': 'Not Assigned',
   'Surirella muelleri': 'Not Assigned',
   'Surirella nervosa': 'Not Assigned',

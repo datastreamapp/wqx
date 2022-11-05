@@ -45230,6 +45230,7 @@ export default {
     'Surirella linearis',
     'Surirella linearis var. constricta',
     'Surirella linearis var. helvetica',
+    'Surirella litoralis',
     'Surirella minuta',
     'Surirella muelleri',
     'Surirella nervosa',

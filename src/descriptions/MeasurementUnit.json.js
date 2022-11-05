@@ -307,6 +307,7 @@ export default {
   'ml/l/hr': 'Viscosity, Milliliters per liter per hour',
   'ml/m3': 'Concentration Percentage, Milliliters per cubic meter',
   'ml/min': 'Flow, Milliliters per minute',
+  'ml/sec': 'Flow, Milliliters per second',
   mm: 'Length Distance, Millimeters',
   mm2: 'Area, Square millimeters',
   mm3: 'Volume, Cubic millimeters',

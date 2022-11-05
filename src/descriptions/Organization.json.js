@@ -1217,7 +1217,7 @@ export default {
   SOUTHUTE: '',
   SOU_WQX: 'Southern Oregon University',
   SPC: 'Volunteer Monitoring Group',
-  SPIRITLK: ' (Tribal)',
+  SPIRITLK: '',
   SQUAXIN: '',
   SRBCI: 'Santa Rosa Band of Cahuilla Indians water quality',
   SRCD: 'Biomonitoring Program that monitors chemical, physical and biological aspects of local creeks',
