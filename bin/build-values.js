@@ -52,6 +52,7 @@ const run = async () => {
     }
     const group = {}
     const characteristicCASNumber = {}
+    const characteristicAliases = {}
     const descriptions = {}
 
     const required = {}
@@ -112,16 +113,24 @@ const run = async () => {
         value = rowObj.Name || rowObj.AliasName
       }
 
-      if (value !== value.trim()) {
+      if (value !== value.trimStart()) {
+        console.log(`Fixed leading whitespace: "${value}"`)
+        value = value.trimStart()
+      }
+
+      if (value !== value.trimEnd()) {
         console.log(`Fixed trailing whitespace: "${value}"`)
-        value = value.trim()
+        value = value.trimEnd()
       }
 
       if (value.includes(' ')) {
         console.log(`Fixed nbsp: "${value}"`)
         value = value.replaceAll(' ', ' ')
+        // in case at end
+        value = value.trim()
       }
 
+      // Special case(s)
       if (['ethyl tert-butyl ether'].includes(value)) {
         console.log(`Fixed mixed-case duplicate: "${value}`)
         value = 'Ethyl tert-butyl ether'
@@ -149,6 +158,14 @@ const run = async () => {
       if (Object.keys(rowObj).includes('CASNumber')) {
         characteristicCASNumber[value.split('***retired***')[0]] =
           rowObj.CASNumber
+      }
+      // Group CharacteristicName Aliases
+      if (Object.keys(rowObj).includes('AliasName')) {
+        // Remove mapping to same value
+        const alias = rowObj.AliasName.replaceAll(' ', ' ').trim()
+        if (alias !== value) {
+          characteristicAliases[alias] = value
+        }
       }
 
       // Required
@@ -222,6 +239,18 @@ const run = async () => {
       await writeFile(
         './src/groups/CASNumber.json.js',
         'export default ' + JSON.stringify(characteristicCASNumber, null, 2),
+        'utf8'
+      )
+    }
+    if (Object.keys(characteristicAliases).length) {
+      await writeFile(
+        './src/groups/CharacteristicNameAliases.json',
+        JSON.stringify(characteristicAliases, null, 2),
+        'utf8'
+      )
+      await writeFile(
+        './src/groups/CharacteristicNameAliases.json.js',
+        'export default ' + JSON.stringify(characteristicAliases, null, 2),
         'utf8'
       )
     }
