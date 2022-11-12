@@ -486,6 +486,7 @@ export default {
     'EMAP_GRE',
     'EMSWCD',
     'ENVIROB1_WQX',
+    'ENVIROSCIENCEASSOC',
     'EOR_WQX',
     'EPA-C_WQX',
     'EPA-EAID-R3_WQX',

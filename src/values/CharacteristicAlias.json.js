@@ -63945,6 +63945,8 @@ export default {
     'N-Hexyl-perfluorooctanesulfonamide',
     'N-Hexylperfluorobutanesulfonamide',
     'N-MORPHOLINIUM NONAFLUOROBUTANESULFONATE',
+    'N-MeFOSA',
+    'N-MeFOSE',
     'N-Methyl (perfluoropentyl)sulfonamidoacetic acid',
     'N-Methyl 2-chlorophenyl carbamate',
     'N-Methyl perfluoro-1-decane sulfonamide',
