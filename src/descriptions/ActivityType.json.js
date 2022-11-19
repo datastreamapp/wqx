@@ -55,6 +55,8 @@ export default {
     'Lab Control Standard - A standard, certified by an outside agency, used to measure the bias in a procedure. For certain constituents and matrices use NIST Standard Reference Materials when available. The purpose of duplicates is to test for laboratory bias. Duplicate samples are used to assess variance of the total method including sampling and analysis.',
   'Quality Control Sample-Lab Duplicate':
     'One of two samples taken from the same population and carried through all steps of the sampling and analytical procedures in an identical manner. Duplicate samples are used to assess variance of the total method including sampling and analysis.',
+  'Quality Control Sample-Lab Duplicate 2':
+    'The second of two samples taken from the same population and carried through all steps of the sampling and analytical procedures in an identical manner. Duplicate samples are used to assess variance of the total method including sampling and analysis.',
   'Quality Control Sample-Lab Initial Calib Certified Reference Material':
     'A certified standard reference material purchased from an outside vendor.',
   'Quality Control Sample-Lab Initial Calibration Verification':

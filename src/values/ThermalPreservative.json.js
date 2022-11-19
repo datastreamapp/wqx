@@ -12,6 +12,7 @@ export default {
     'Frozen (0 deg C)',
     'None',
     'Refrigerated (4 deg C)',
+    'Refrigerated (6 deg C)',
     'Unspecified',
     'Wet Ice (4 deg C)'
   ],

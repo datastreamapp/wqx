@@ -17,6 +17,7 @@ export default {
           'Quality Control Sample-Lab Control Standard',
           'Quality Control Sample-Lab Control Standard Duplicate',
           'Quality Control Sample-Lab Duplicate',
+          'Quality Control Sample-Lab Duplicate 2',
           'Quality Control Sample-Lab Matrix Spike',
           'Quality Control Sample-Lab Re-Analysis',
           'Quality Control Sample-Lab Spike',

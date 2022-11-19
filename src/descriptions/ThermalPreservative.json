@@ -7,6 +7,7 @@
   "Frozen (0 deg C)": "Sampled is placed in a 0 deg C environment.",
   "None": "No physical preservation employed.",
   "Refrigerated (4 deg C)": "Sample is placed in a refrigerator and stored there.",
+  "Refrigerated (6 deg C)": "Sample is placed in a refrigerator and stored there.",
   "Unspecified": "Unspecified",
   "Wet Ice (4 deg C)": "Sample is stored with ice, usually in a cooler."
 }

@@ -933,6 +933,7 @@ export default {
     'PREEM',
     'PREP',
     'PREQB_GW_WQX',
+    'PRINCETONHYDRO',
     'PRTWQX',
     'PR_BEACH_WQX',
     'PR_COAST_WQX',

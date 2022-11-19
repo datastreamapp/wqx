@@ -262,6 +262,28 @@ export default {
     'large volume of refuse (tires/carts) common',
   'Salt Appearance at Waters Edge (choice list)':
     'banks covered with salt crusts',
+  'Recreation Use Disturbance (choice list)':
+    'No recreation use disturbance of geomorphic surface',
+  'Livestock Trampling or Grazing Disturbance (choice list)':
+    'No livestock trampling or grazing disturbance of geomorphic surface',
+  'Wildlife Trampling or Grazing Disturbance (choice list)':
+    'No wildlife trampling or grazing disturbance of geomorphic surface',
+  'Insect Infestation Disturbance (choice list)':
+    'No insect infestation disturbance of geomorphic surface',
+  'Exotic Plant Removal Disturbance (choice list)':
+    'No exotic plant removal disturbance of geomorphic surface',
+  'Other Disturbance (choice list)':
+    'No other disturbance of geomorphic surface',
+  'Trail Disturbance (choice list)':
+    'No trail disturbance of geomorphic surface',
+  'Road or Track Disturbance (choice list)':
+    'No road or track disturbance of geomorphic surface',
+  'Recent Fire Disturbance (choice list)':
+    'No recent fire disturbance of geomorphic surface',
+  'Beaver Activity Disturbance (choice list)':
+    'No beaver activity disturbance of geomorphic surface',
+  'Recent Flooding Disturbance (choice list)':
+    'No recent flooding disturbance of geomorphic surface',
   'Lake physical appearance (choice list)':
     '5=Severely high algae levels & scums, odors, or fish kill',
   'Stream physical appearance (choice list)':
@@ -272,8 +294,8 @@ export default {
     '5=Recreation and aesthetic enjoyment nearly impossible',
   'Tide stage (choice list)':
     'Not Applicable - Self Describing. (not a tidal stream)',
-  'RBP Instream Cover (choice list)': '<10% MIXED - Self describing.',
   'RBP Bottom Substrate (choice list)': '<10% MIXED - Self describing.',
+  'RBP Instream Cover (choice list)': '<10% MIXED - Self describing.',
   'RBP Bank Vegetative Stability, Left (choice list)':
     'W>18M - Self describing.',
   'RBP Bank Vegetative Stability, Right (choice list)':
@@ -281,6 +303,12 @@ export default {
   'Stream Physical Appearance, Minnesota (choice list)':
     'Cloudy brown from sediment and green from algae growth',
   'RBP Channel Sinuosity (choice list)': 'CHANNELIZED - Self describing.',
+  'Rill/Gully Erosion Class (choice list)':
+    'No removal of soil along drainage lines due to surface run-off of geomorphic surface',
+  'Bank Instability Erosion Class (choice list)':
+    'No actively eroding, near vertical cut-banks along channels or pools of geomorphic surface',
+  'Pedestal Development Erosion Class (choice list)':
+    'No elevated surfaces within spring perimeter have lost connection to groundwater level of geomorphic surface',
   'RBP Embeddedness (choice list)': '<25% GRAVL - Self describing.',
   'RBP Channel Flow Status (choice list)': 'MINIMAL EXP. - Self describing.',
   'RBP Bank Stability, Right (choice list)': '<5% - Self describing.',
@@ -298,27 +326,28 @@ export default {
     'Terrace (i.e. channel is constrained by its own incision into river/stream gravel/soil deposits)',
   'Channel Pattern (choice list)': 'One Channel',
   'Riparian vegetation composition (choice list)': 'Shrubs and Mixed',
-  'Flow, stream stage (choice list)': 'Normal',
   'Flow, severity (choice list)': 'Normal',
-  'RBP2, Sediment/Substrate, Oils (choice list)': 'Slight',
+  'Flow, stream stage (choice list)': 'Normal',
   'RBP Sediment Oils (choice list)': 'SLIGHT - Self describing.',
+  'RBP2, Sediment/Substrate, Oils (choice list)': 'Slight',
   'Cloud type (choice list)': 'Not determined, Clouds obscured',
   'Life stage (choice list)': 'Fish between hatching and yolk absorption.',
   'Bank class, Left (choice list)': 'Vegetated-Stabilized',
   'Bank class, Right (choice list)': 'Vegetated-Stabilized',
   'Bank class (choice list)': 'Vegetated-Stabilized',
+  'Land form (choice list)': 'Wetlands-meadow',
   'Land Form, Right (choice list)': 'Wetlands-meadow',
   'Land form, Left (choice list)': 'Wetlands-meadow',
-  'Land form (choice list)': 'Wetlands-meadow',
   'Primary/ Secondary surrounding landuse (choice list)': 'Wetland',
   'RBP2, Watershed, Predominant Surrounding Landuse (choice list)':
     'Residential',
   'RBP Predominant Surrounding Land Use (choice list)':
     'RESIDENTIAL - Self describing.',
   'Stream Unit Type (choice list)': 'Trench pool',
-  'Sediment/ Substrate Odors (choice list)': 'SEWAGE - Self describing.',
-  'RBP Sediment Odors (choice list)': 'SEWAGE - Self describing.',
+  'Geomorphic Surface Type (choice list)': 'Upland',
   'RBP2, Sediment/Substrate, Odors (choice list)': 'Sewage',
+  'RBP Sediment Odors (choice list)': 'SEWAGE - Self describing.',
+  'Sediment/ Substrate Odors (choice list)': 'SEWAGE - Self describing.',
   'Lake Depth Strata (choice list)': 'Transects thermocline',
   'RBP2, Aquatic Vegetation, Dominant Type & Species (choice list)':
     'Rooted submergent (use Result Comment for species list)',
@@ -343,15 +372,15 @@ export default {
   'Woody Ground Coverage Type (choice list)': 'N= No woody vegetation',
   'Channel form (choice list)': 'Unconstrained-predominantly single channel',
   'Substrate (choice list)': 'XB - Large boulders ',
-  'RBP2, Water Quality, Water Odors (choice list)': 'Sewage',
   'RBP Water Odors (choice list)': 'SEWAGE - Self describing.',
+  'RBP2, Water Quality, Water Odors (choice list)': 'Sewage',
   'Lake surface condition (choice list)':
     'Wave action rough, whitecaps present',
   'RBP2, Sediment/Substrate, Deposits (choice list)': 'Sludge',
   'RBP Epifaunal Substrate (choice list)': 'SAND/MUD/CLA - Self describing.',
   'RBP Pool Substrate (choice list)': 'SAND/MUD/CLA - Self describing.',
-  'RBP Turbidity Code (choice list)': 'TURBID - Self describing.',
   'RBP2, Water Quality, Turbidity (choice list)': 'Turbid',
+  'RBP Turbidity Code (choice list)': 'TURBID - Self describing.',
   'RBP Stream Type (choice list)': 'WARMWATER - Self describing.',
   'RBP2, Stream Character, Stream Type (choice list)': 'Warmwater stream',
   'Bank Stability, Left (choice list)': 'Bank is uncovered and unstable',
@@ -613,18 +642,14 @@ export default {
     'YES - Self describing.',
   'Redoximorphic Features (choice list)': 'Soft Masses',
   'Precipitation during activity (choice list)': 'Yes',
-  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
+  'Toxicity, sediment, species significant (choice list)':
+    'P-value & Result indicate test response is not significant',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
   'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
   'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
     'Yes, there has been heavy rain within the last 7 days',
   'Sewage algae present (choice list)': 'Yes',
   'Invasive species found (choice list)': 'Yes',
-  'Toxicity, sediment, species significant (choice list)':
-    'P-value & Result indicate test response is not significant',
-  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
-    'Yes',
-  'Significant(choice list)': 'Test response significantly toxic',
   'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
     'P-value & Result indicate test response significantly toxic',
   'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
@@ -647,6 +672,10 @@ export default {
     'P-value & Result indicate test response is not significant',
   'Toxicity, sediment, Rhepoxynius abronius, significant (choice list)':
     'P-value & Result indicate test response is not significant',
+  'Significant(choice list)': 'Test response significantly toxic',
+  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
+    'Yes',
+  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
   'RBP Local Watershed NPS Pollution (choice list)':
     'Some potential sources of NPS pollution',
   'Depth, Secchi disk depth (choice list)':
@@ -719,8 +748,8 @@ export default {
   'RBP Canopy Cover (choice list)': 'SHADED - Self describing.',
   'RBP2, Instream Features, Canopy Cover (choice list)': 'Shaded',
   'Spring, Flow Affected (choice list)': 'Stopped',
-  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Substrate in reach (choice list)': 'silt',
+  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Pool Substrate (choice list)': 'silt',
   'Dominant Run Substrate (choice list)': 'silt'
 }

@@ -9,6 +9,8 @@ export default {
   None: 'No physical preservation employed.',
   'Refrigerated (4 deg C)':
     'Sample is placed in a refrigerator and stored there.',
+  'Refrigerated (6 deg C)':
+    'Sample is placed in a refrigerator and stored there.',
   Unspecified: 'Unspecified',
   'Wet Ice (4 deg C)': 'Sample is stored with ice, usually in a cooler.'
 }
