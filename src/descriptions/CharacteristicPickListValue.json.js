@@ -61,6 +61,8 @@ export default {
     'P=Present, Present but observed outside the riparian plot area',
   'Human Influence: Orchard (choice list)':
     'P=Present, Present but observed outside the riparian plot area',
+  'Species Individual Count (choice list)':
+    'Species observed and present but not counted',
   'Habitat Cover, Periphyton (choice list)': 'dominant, >50% periphyton',
   'Habitat Cover, Filamentous Algae (choice list)':
     'dominant, >50% filamentous algae',
@@ -262,10 +264,10 @@ export default {
     'large volume of refuse (tires/carts) common',
   'Salt Appearance at Waters Edge (choice list)':
     'banks covered with salt crusts',
+  'Surface Cover, Species (choice list)':
+    '95% or greater canopy coverage of surface',
   'Recreation Use Disturbance (choice list)':
     'No recreation use disturbance of geomorphic surface',
-  'Livestock Trampling or Grazing Disturbance (choice list)':
-    'No livestock trampling or grazing disturbance of geomorphic surface',
   'Wildlife Trampling or Grazing Disturbance (choice list)':
     'No wildlife trampling or grazing disturbance of geomorphic surface',
   'Insect Infestation Disturbance (choice list)':
@@ -280,10 +282,12 @@ export default {
     'No road or track disturbance of geomorphic surface',
   'Recent Fire Disturbance (choice list)':
     'No recent fire disturbance of geomorphic surface',
-  'Beaver Activity Disturbance (choice list)':
-    'No beaver activity disturbance of geomorphic surface',
   'Recent Flooding Disturbance (choice list)':
     'No recent flooding disturbance of geomorphic surface',
+  'Beaver Activity Disturbance (choice list)':
+    'No beaver activity disturbance of geomorphic surface',
+  'Livestock Trampling or Grazing Disturbance (choice list)':
+    'No livestock trampling or grazing disturbance of geomorphic surface',
   'Lake physical appearance (choice list)':
     '5=Severely high algae levels & scums, odors, or fish kill',
   'Stream physical appearance (choice list)':
@@ -303,12 +307,12 @@ export default {
   'Stream Physical Appearance, Minnesota (choice list)':
     'Cloudy brown from sediment and green from algae growth',
   'RBP Channel Sinuosity (choice list)': 'CHANNELIZED - Self describing.',
+  'Pedestal Development Erosion Class (choice list)':
+    'No elevated surfaces within spring perimeter have lost connection to groundwater level of geomorphic surface',
   'Rill/Gully Erosion Class (choice list)':
     'No removal of soil along drainage lines due to surface run-off of geomorphic surface',
   'Bank Instability Erosion Class (choice list)':
     'No actively eroding, near vertical cut-banks along channels or pools of geomorphic surface',
-  'Pedestal Development Erosion Class (choice list)':
-    'No elevated surfaces within spring perimeter have lost connection to groundwater level of geomorphic surface',
   'RBP Embeddedness (choice list)': '<25% GRAVL - Self describing.',
   'RBP Channel Flow Status (choice list)': 'MINIMAL EXP. - Self describing.',
   'RBP Bank Stability, Right (choice list)': '<5% - Self describing.',

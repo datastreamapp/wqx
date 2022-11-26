@@ -25519,6 +25519,7 @@ export default {
   'Sorbitol-fermenting Bifidobacteria': '; Request Date: 21-OCT-15',
   Sotalol: '; Request Date: 22-JUL-14',
   Specaria: 'NWIS',
+  'Species Individual Count (choice list)': '',
   'Species Rank':
     'The assigned risk of a species extinction used to determine conservation priorities.; Request Date: 02-MAR-07',
   'Species Relative Density***retired***use Relative Density Species':
@@ -25922,6 +25923,7 @@ export default {
     'The sum of positively charged ions in a water sample, principally calcium, magnesium, potassium, and sodium.; Request Date: 02-MAR-07',
   Sumatriptan: '; Request Date: 22-JUL-14',
   'Sumatriptan succinate': '; Request Date: 11-JAN-16',
+  'Surface Cover, Species (choice list)': '',
   'Surface Observation: High water table (choice list)': '',
   'Surface Observation: Soil saturation (choice list)': '',
   'Surface Observation: Surface water (choice list)': '',

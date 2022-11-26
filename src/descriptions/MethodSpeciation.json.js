@@ -15,7 +15,7 @@ export default {
   'as Br':
     'Bromine is a chemical element with atomic number 35. and atomic weight 79.904 u ± 0.001 u.  It is the third-lightest halogen.',
   'as C':
-    'Carbon is a chemical element with atomic number 6. and atomic weight 12.011 u Â± 0.0006 u. It is the first element in group 14 (carbon group).',
+    'Carbon is a chemical element with atomic number 6. and atomic weight 12.011 u  0.0006 u. It is the first element in group 14 (carbon group).',
   'as C3H6O2':
     'Methyl acetate, also known as MeOAc, acetic acid methyl ester or methyl ethanoate, is a carboxylate ester with the formula CHâ‚ƒCOOCHâ‚ƒ. Molar mass: 74.08 g/mol',
   'as CDOM':
@@ -43,6 +43,8 @@ export default {
     'Color or colour is the characteristic of human visual perception described through color categories.. Specify the color at which analyte is determined.  For research purposes or when analyte values are to be compared  among laboratories, vary or modify the analyte measure value of a given water over a wide range and record each corresponding color response.',
   'as Cr':
     'Chromium is a chemical element with atomic number 24, and atomic weight 51.9961 u ± 0.0006 u. It is the first element in group 6.',
+  'as Cu':
+    'Copper is a chemical element with the symbol Cu and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color',
   'as DPA':
     'Docosapentaenoic acid designates any straight chain 22:5 fatty acid, that is a straight chain open chain type of polyunsaturated fatty acid which contains 22 carbons and 5 double bonds',
   'as EPARD_Z':

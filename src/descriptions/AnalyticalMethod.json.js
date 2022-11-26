@@ -48,7 +48,7 @@ export default {
   504: '',
   505: '505 ~ EPA-NERL ; Pesticides and PCBs in Water GC-ECD',
   506: '506 ~ EPA-NERL ; Phthalate and Adipate Esters in Water by GCPID',
-  507: 'Standard Methods (19th ed.) 507 (dissolved oxygen depletion) mg/L',
+  507: '507 ~ EPA-TSC/NERL ; Pesticides in Water Using GCNPD',
   508: '508 ~ EPA-TSC/NERL ; Chlorinated Pesticides in Water Using GCECD',
   509: '509 ~ EPA-NERL ; Ethylene thiourea in water using GC with a N-P detector',
   513: '',
@@ -1838,7 +1838,8 @@ export default {
   515.3: '515.3 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GC/ECD',
   515.4: '515.4 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GCECD',
   '520011SAES': '',
-  '5210-B': '5210B ~ Standard Methods ; BOD: 5-Day Test',
+  '5210-B':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/5715/',
   '5210-C': '',
   '5220-B': '',
   '5220-C': '5220C ~ Standard Methods ; COD by Closed Reflux, Titration',
@@ -1860,9 +1861,10 @@ export default {
     '531.1 ~ EPA-TSC/NERL ; Carbamates in Water Using HPLC w/ Post-Column Derivitization',
   531.2:
     '531.2 ~ EPA-OGWDW/TSC ; N-Methylcarbamoyloximes and N-Methylcarbamates in Water by HPLC with Post Column Derivitization',
-  '5310-B': 'https://www.nemi.gov/methods/method_summary/5717/',
+  '5310-B':
+    '5310B ~ Standard Methods ; Total organic carbon by High-Temperature Combustion',
   '5310-C':
-    '5310C ~ APHA; Total organic carbon by Persulfate-UV or Heated-Persulfate Oxidation Method',
+    '5310C ~ Standard Methods ; Total organic carbon by Persulfate-UV or Heated-Persulfate Oxidation',
   '5310-D': '5310 D ~ Standard Methods ; TOC by Wet Oxidation',
   '5320-B': '',
   '535 (ITMS)':
@@ -4701,6 +4703,8 @@ export default {
   'SAMP-U,RA': 'Samp-U,Ra ~ DOE EML ; Uranium and Radium in Water',
   'SE-01': '',
   'SE-03': 'Se-03 ~ DOE EML ; Americium, Plutonium and Uranium in Water',
+  'SFAM01.1':
+    'SFAM01.1 ~ USEPA ; https://www.epa.gov/clp/superfund-analytical-methods-sfam011 The Superfund CLP Organic and Inorganic analytical services are presented in the Superfund Analytical Methods (SFAM01.1) Statement of Work (SOW). This SOW defines the analytical methods for the isolation, detection, and quantitative measurement of 54 Trace Volatiles [5 analytes by Selected Ion Monitoring (SIM)], 54 Low/Medium Volatiles, 71 Semivolatiles (20 analytes by SIM), 21 Pesticides, 9 Aroclors, 23 metals (including Mercury), Cyanide, Anions, Hexavalent Chromium, and Total Organic Carbon (TOC) in aqueous/water, soil/sediment, waste, or wipe samples as applicable. In addition, the SOW specifies procedures for percent solids, pH and the leaching of samples by the Toxicity Characteristic Leaching Procedures (TCLP) and the Synthetic Precipitation Leaching Procedure (SPLP).',
   SFSAS_1: '',
   SFSAS_10: '',
   SFSAS_11: '',

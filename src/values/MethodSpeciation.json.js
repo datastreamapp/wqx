@@ -27,6 +27,7 @@ export default {
     'as Co',
     'as Color',
     'as Cr',
+    'as Cu',
     'as DPA',
     'as EPARD_Z',
     'as EPARU_Z',
