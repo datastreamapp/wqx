@@ -48,7 +48,7 @@ export default {
   504: '',
   505: '505 ~ EPA-NERL ; Pesticides and PCBs in Water GC-ECD',
   506: '506 ~ EPA-NERL ; Phthalate and Adipate Esters in Water by GCPID',
-  507: '507 ~ EPA-TSC/NERL ; Pesticides in Water Using GCNPD',
+  507: 'Standard Methods (19th ed.) 507 (dissolved oxygen depletion) mg/L',
   508: '508 ~ EPA-TSC/NERL ; Chlorinated Pesticides in Water Using GCECD',
   509: '509 ~ EPA-NERL ; Ethylene thiourea in water using GC with a N-P detector',
   513: '',
@@ -1534,7 +1534,8 @@ export default {
   410.2: '410.2 ~ EPA-NERL ; Chemical Oxygen Demand by Titrimetry',
   410.3:
     '410.3 ~ EPA-NERL ; Chemical Oxygen Demand in Saline Waters by Titrimetry',
-  410.4: '',
+  410.4:
+    '410.4 ~ EPA-ORD / EPA-OST ; Chemical oxygen demand in water by colorimetry',
   '410_M(A)': '',
   '410_M(B)': '',
   '4110-B': '4110B ~ Standard Methods ; Anions in Water by Ion Chromatography',
@@ -1675,11 +1676,12 @@ export default {
   '4500-NH3 B': '4500-NH3 B ~ Standard Methods ; Ammonia by Titration',
   '4500-NH3 B PRE':
     '4500-NH3 B ~ Standard Methods ; Ammonia: Preliminary Distillation Step',
-  '4500-NH3 C': '4500-NH3 C ~ Standard Methods ; Ammonia by Titration',
+  '4500-NH3 C':
+    'Ammonia is titrated with standard sulfiuric acid using a mixed indicator of methyl red and methylene blue.',
   '4500-NH3 D':
-    '4500-NH3 D ~ Standard Methods ; Ammonia by Selective Electrode',
+    'The ammonia-selective electrode uses a hydrophobic gas-permeable membrane to separate the sample solution from an electrode internal solution of ammonium chloride. ',
   '4500-NH3 E':
-    '4500-NH3 E ~ Standard Methods ; Ammonia by Selective Electrode Methods Using Known Addition',
+    'This method is applicable to the measurement of 0.03 to 1400 mg NH3-N/L in potable and surface waters and domestic and industrial wastes. High concentrations of dissolved ions affect the measurement, but color and turbidity do not. Sample distillation is unnecessary.',
   '4500-NH3 G***retired*** 4500-NH3(G)':
     '4500-NH3 G ~ Standard Methods ; Ammonia by Automated Phenate',
   '4500-NH3 H':
@@ -1694,6 +1696,8 @@ export default {
   '4500-NH3(G)': 'https://www.nemi.gov/methods/method_summary/7410/',
   '4500-NH3(H)***retired*** 4500-NH3 H':
     'https://www.nemi.gov/methods/method_summary/9697/',
+  '4500-NH3 G':
+    'Alkaline phenol and hypochlorite react with ammonia to form indophenol blue that is proportional to the ammonia concentration. The blue color formed is intensified with sodium nitroprusside.',
   '4500-NO2': '',
   '4500-NO2 - B***retired**4500-NO2(B)': '',
   '4500-NO2(B)': '4500-NO2- B ~ Standard Methods ; Nitrite by Colorimetry',
@@ -1715,7 +1719,7 @@ export default {
     '4500-NO3- F ~ Standard Methods ; Nitrate by Automated Cadmium Reduction Method',
   '4500-NO3(G)': '',
   '4500-NO3(H)':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7417/',
+    '4500-NO3- H ~ Standard Methods ; Nitrate by Automated Hydrazine Reduction',
   '4500-NO3(I)': '',
   '4500-NO3- D***retired*// 4500-NO3 D': '',
   '4500-NO3- E***retired***4500-NO3(E)': '',
@@ -1838,8 +1842,7 @@ export default {
   515.3: '515.3 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GC/ECD',
   515.4: '515.4 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GCECD',
   '520011SAES': '',
-  '5210-B':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/5715/',
+  '5210-B': '5210B ~ Standard Methods ; BOD: 5-Day Test',
   '5210-C': '',
   '5220-B': '',
   '5220-C': '5220C ~ Standard Methods ; COD by Closed Reflux, Titration',
@@ -1873,6 +1876,8 @@ export default {
     '535 (TQMS) ~ EPA-ORD / EPA-OST ; Chloroacetanilide and other acetamide herbicide degradates by solid phase extraction and liquid chromatography with tandem mass spectrometry with Triple Quadrupole MS',
   537.1:
     'https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryId=343042',
+  '537M':
+    'Modified, The 1996 amendments to the Safe Drinking Water Act (SDWA) required EPA to establish a Contaminant Candidate List (CCL), that contains a list of drinking water contaminants that the Agency will consider for future regulation. EPA must make a regulatory determination on a minimum of five contaminants every five years. The first CCL was published in 1998, and updates were anticipated every five years thereafter. One of the key pieces of information that must be available in order to make a regulatory determination is nationwide occurrence data for the chemical contaminants under consideration. Historically, EPA has collected the necessary occurrence data under its Unregulated Contaminant Monitoring Regulations (UCMR). Under the UCMR, monitoring is conducted at selected drinking water utilities for specific contaminants of interest. The chemical analyses are usually performed by the utilities or by commercial laboratories. To meet the requirements of monitoring under the UCMR program, the analytical methods developed should be specific, sensitive, and practical enough for application in commercial laboratories. This task will focus on the development of analytical methods for chemicals identified on future CCLs or emerging contaminants not yet listed on the CCL. These methods will be used for the collection of occurrence data under future UCMRs.',
   '54002B':
     '54002B ~ Abraxis ; Benomyl and Carbendazim in water by Immunoassay, Microtiter Plate',
   '54003A': '',
@@ -3167,6 +3172,8 @@ export default {
   'D888-05': 'Supersede  by ASTM D888 - 18',
   'D888-12':
     'D888-12 ~ ASTM ;  Test Method A - Titrimetric Procedure-High Level ; Test Method B - Instrumental Probe Procedure Electrochemical ;   Test Method C - Instrumental Probe Procedure Luminescence-Based Sensor  https://www.astm.org/DATABASE.CART/HISTORICAL/D888-12.htm',
+  'D888-18':
+    'These test methods cover the determination of dissolved oxygen in water. Three test methods are given as follows: Test Method A-Titrimetric Procedure-High Level, Test Method B-Instrumental Probe Procedure-Electrochemical, Test Method C-Instrumental Probe Procedure-Luminescence-Based Sensor',
   'D888-18(A)':
     'https://reference.globalspec.com/standard/4472867/astm-d888-18',
   'D888-18(B)':

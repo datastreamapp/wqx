@@ -16104,6 +16104,7 @@ export default {
   Diclofenac: '; Request Date: 22-JUL-14',
   'Diclofenac, 4-hydroxy': '; Request Date: 19-JUN-14',
   'Diclofenac-d4': 'NWIS',
+  Diclofop: '',
   'Diclofop methyl':
     'Request Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Diclofop-methyl***retired***use Diclofop methyl':
@@ -18180,6 +18181,7 @@ export default {
   'Hexyl 2-ethylhexyl phthalate': '',
   'Hexyl heptafluorobutanoate': '',
   'Hexylene Glycol': '; Request Date: 11-JAN-18',
+  Hexythiazox: '',
   'High-temperature coal tar pitch': '; Request Date: 24-MAY-10',
   'Hilsenhoff Biotic Index': '; Request Date: 02-MAR-07',
   'Hind Femur Length': '',
@@ -23677,6 +23679,7 @@ export default {
   'Potassium undecafluorohexanoate': '',
   'Potassium-39': '',
   'Potassium-40': 'Potassium, atomic number 19.; Request Date: 22-JUL-14',
+  'Potential Solar Radiation (% Time Shading Absent)': '',
   'Potential Sources': '',
   Potthastia: 'NWIS',
   'Power plant load':
@@ -26696,6 +26699,7 @@ export default {
     'Request Date: 22-May-19 (nps.gov cas# review)',
   'Triclocarban-13C6': 'Request Date: 25-Mar-14 (nps.gov cas# review)',
   Triclopyr: 'Nemi.gov; Request Date: 22-JUL-14',
+  'Triclopyr-butotyl': '',
   Triclosan: 'Nemi.gov; Request Date: 02-MAR-07',
   'Triclosan methyl ether': 'Request Date: 30-May-13 (nps.gov cas# review)',
   'Triclosan,C13H10Cl2O- derivative':
@@ -27201,6 +27205,8 @@ export default {
   'Wetland Habitat alteration (Y/N) (choice list)': '',
   'Wetted Width': 'NRSA; Request Date: 01-SEP-16',
   'Whirling Disease Present (Y/N) (choice list)': '',
+  'White ice thickness':
+    'Formed when snow accumulates on ice, melts, and refreezes, and when rain falls on snow creating slush and refreezing',
   'Whole effluent toxicity': '; Request Date: 26-JAN-18',
   Width:
     'The distance from one surface to another surface of an object.; Request Date: 02-MAR-07',

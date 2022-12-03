@@ -13,6 +13,10 @@ export default {
     'A repeated measurement of different field samples collected to control sensitivity typically for a specific instrument/sensor in order calculate the alternative measurement sensitivity (AMS+).  AMS+ is defined as the standard deviation of 7 measurements of samples collected very closely in time and space times the two-sided critical t-value for 99% confidence.',
   'Quality Control Field Calibration Check':
     'A standard independently prepared ( different source, different analyst) from the calibration standards and run after the original calibration to verify the original calibration.  There is usually one calibration  check standard per batch.',
+  'Quality Control Field Msr/Obs Post-Calibration':
+    'Measurements against a specified standard post calibration.',
+  'Quality Control Field Msr/Obs Pre-Calibration':
+    'Initial measurements against a specified standard prior to calibration.',
   'Quality Control Field Replicate Habitat Assessment':
     'A habitat measurement or evaluation collected to assess the reproducibility of the sampling technique.',
   'Quality Control Field Replicate Msr/Obs':

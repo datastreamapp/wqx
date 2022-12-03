@@ -6,6 +6,8 @@ export default {
           'Field Msr/Obs',
           'Field Msr/Obs-Habitat Assessment',
           'Field Msr/Obs-Portable Data Logger',
+          'Quality Control Field Msr/Obs Post-Calibration',
+          'Quality Control Field Msr/Obs Pre-Calibration',
           'Quality Control Field Replicate Habitat Assessment',
           'Quality Control Field Replicate Msr/Obs',
           'Quality Control Field Replicate Portable Data Logger',
