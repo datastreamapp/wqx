@@ -716,6 +716,7 @@ export default {
   KERBERCREEK: 'Kerber Creek watershed for BLM Natural Resource; ',
   KICKAPOO: '',
   KICKAPOO07: 'Kickapoo Tribe in Kansas;',
+  KINGCOENVIROLAB: '',
   KINGCOUNTY: '',
   KIOWA_WQX: 'Kiowa Tribe of Oklahoma; Kiowa Tribe of Oklahoma',
   KITSAPCHD_WQX: '',
@@ -977,7 +978,7 @@ export default {
   OCDWEP_WQX: 'Onondaga County Department of Water Environment Protection',
   OESERLSCA_WQX:
     'Region 10: Oeser Property, Little Squalicum Creek Area, Bellingham, WA',
-  OGLALAST: ' (Tribal)',
+  OGLALAST: '',
   OHDDAGW:
     'Ambient water quality program in OH Division of Drinking and Ground Waters',
   'OH_KY_IN-WSC': 'Continuous Water Quality Data',
@@ -1074,8 +1075,6 @@ export default {
   QUECHAN_WQX: 'Quechan Indian Tribe;',
   QUILEUTE_WQX: '',
   QVIR: 'Quartz Valley Indian Reservation;',
-  QVIR_WQXRETIRED_DELETED:
-    '_DELETEDQuartz Valley Indian Reservation - Env. Dept. (California);',
   R0910: '',
   R10BLACKBUTTEMINE:
     'The Black Butte Mine is a former mercury mine located in southern Lane County in the Coast Fork Willamette River Basin.',
@@ -1390,6 +1389,8 @@ export default {
   WASHNVCA_WQX: '',
   WASIT: 'STILLAGUAMISH NATURAL RESOURCES DEPARTMENT',
   WATERANDAIR: 'www.waterandair.com',
+  WATERKEEPER:
+    'Waterkeeper Alliance is a worldwide network of environmental organizations founded in 1999, in response to a growing movement of organizations with such names as Riverkeeper, Baykeeper and Soundkeeper.',
   WATERLDF_WQX: 'Lac Du Flambeau Band of Lake Superior Chippewa Indians DNR; ',
   WATERQUALITYPORTAL: 'www.waterqualitydata.us',
   WAYNE_STATE_UNIVERSITY: '',
