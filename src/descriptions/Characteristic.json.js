@@ -16576,6 +16576,7 @@ export default {
   Ergosterol: 'Nemi.gov; Request Date: 25-SEP-19',
   'Eroded Fins Present (Y/N) (choice list)':
     'National Park Service, contact nps.gov; Request Date: 08-JUN-16',
+  'Erosion Causes': '',
   'Erythritol anhydride': 'Nemi.gov; Request Date: 25-SEP-19',
   Erythromycin: 'Nemi.gov; Request Date: 02-MAR-07',
   'Erythromycin A dihydrate': '',
@@ -20966,6 +20967,7 @@ export default {
   Nonivamide: '; Request Date: 08-APR-19',
   'Nonmethane organic compounds': '; Request Date: 01-JUL-11',
   'Nonoxynol-6': '; Request Date: 08-APR-19',
+  'Nonpoint source pollution sources': '',
   'Nonyl sulfate': 'NWIS',
   Nonylphenol: '; Request Date: 22-JUL-14',
   'Nonylphenol diethoxylate': '; Request Date: 22-JUL-14',
@@ -22121,6 +22123,7 @@ export default {
   'Perfluoro-1-decanol': '',
   'Perfluoro-1-decene': '',
   'Perfluoro-1-dodecanesulfonamide': '',
+  'Perfluoro-1-dodecanesulfonate': '',
   'Perfluoro-1-dodecanol, 1-(dihydrogen phosphate), sodium salt (1:2)': '',
   'Perfluoro-1-ethyl-2-methylcyclohexane': '',
   'Perfluoro-1-ethyl-3-propoxycyclohexane': '',
@@ -24491,6 +24494,7 @@ export default {
   'RBP2, Habitat type, bedrock (%)': '; Request Date: 02-MAR-07',
   'RBP2, Habitat type, canopy (%)': '; Request Date: 02-MAR-07',
   'RBP2, Habitat type, general comments': '; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, glide (%)': '',
   'RBP2, Habitat type, gravel-cobble (%)': '; Request Date: 02-MAR-07',
   'RBP2, Habitat type, large woody debris (%)': '; Request Date: 02-MAR-07',
   'RBP2, Habitat type, leaf packs (%)': '; Request Date: 27-FEB-18',
@@ -27179,6 +27183,7 @@ export default {
   'Weak acids':
     'A substance that partially ionizes in water to give hydrogen ions in solution.; Request Date: 02-MAR-07',
   'Weak, dissociable cyanide': '1;GLENDA - 01/2020',
+  'Weather Condition past 24 hours': '',
   'Weather comments (text)': '; Request Date: 02-MAR-07',
   'Weather condition (WMO code 4501) (choice list)':
     '; Request Date: 02-MAR-07',

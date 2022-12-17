@@ -8,6 +8,9 @@ export default {
   947757: 'Confederated Tribes of Coos, Lower Umpqua and Siulsaw Indians; ',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
+  '***ACIC_WQX_DELETED_REMOVED':
+    '_DELETEDAk-Chin Indian Community Environmental Protection Department;',
+  '***MASSW_DELETED_REMOVED': '',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -252,8 +255,6 @@ export default {
     'Tribal Environmental Protection Agency for the Augustine Band of Cahuilla Indians',
   ABSHAWNEE: 'Absentee Shawnee Tribe of Oklahoma',
   ACBCI_WQX: 'Agua Caliente Band of Cahuilla Indians; ',
-  ACIC_WQX_DELETED:
-    '_DELETEDAk-Chin Indian Community Environmental Protection Department;',
   ACOMA_PUEBLO_WQX: 'Pueblo of Acoma; Pueblo of Acoma',
   ADGGS: 'Alaska Division of Geological & Geophysical Surveys',
   ADVENTURESCIENTISTS:
@@ -1255,7 +1256,7 @@ export default {
   SWO_OEP: '',
   SWQC: "The Summit Water Quality Committee (SWQC) is a watershed organization formalized by intergovernmental agreement.  Members include the Towns, County and major municipal dischargers (permits # CO-0021598, CO-0020451, CO-0020826, CO-0029955, CO-0021539) in Summit County Colorado. SWQC's focus is on providing definitive environmental assessments of the Blue River Watershed, including Dillon and Green Mountain Reservoirs and promoting pollution control.",
   SWRCB: '',
-  SYCEO_WQX: ' (Tribal)',
+  SYCEO_WQX: '',
   'T-BIOPSS': 'Washington Department of Fish and Wildlife (WDFW)',
   TABLEMOUNTAINRANCHERIA_WQX: 'Table Mountain Rancheria;',
   TAKSHANUK: 'Takshanuk Watershed Council Water Quality Monitoring',

@@ -4,6 +4,8 @@ export default {
   description: '',
   type: 'string',
   enum: [
+    '***ACIC_WQX_DELETED_REMOVED',
+    '***MASSW_DELETED_REMOVED',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -230,7 +232,6 @@ export default {
     'ABCI_WQX',
     'ABSHAWNEE',
     'ACBCI_WQX',
-    'ACIC_WQX_DELETED',
     'ACOMA_PUEBLO_WQX',
     'ADGGS',
     'ADVENTURESCIENTISTS',

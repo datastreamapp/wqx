@@ -54,6 +54,7 @@ export default {
     'LEGENDRE',
     'LUDLUM',
     'LaMOTTE',
+    'MASSWATER',
     'MD DNR',
     'MI DEQ SURFACE WATER',
     'MICROLOGY LABS',

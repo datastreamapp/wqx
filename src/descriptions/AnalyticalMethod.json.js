@@ -1473,6 +1473,8 @@ export default {
   '351.3(B)': '',
   '351.3(C)': '',
   351.4: '351.4 ~ EPA-NERL ; TKN by ISE',
+  '3510C':
+    'https://www.epa.gov/hw-sw846/sw-846-test-method-3510c-separatory-funnel-liquid-liquid-extraction',
   352.1: '352.1 ~ EPA-NERL ; Nitrate by Colorimetry',
   '3520C': '3520C ~ EPA-RCA ; Continuous Liquid-Liquid Extraction of Organics',
   353.1: '353.1 ~ EPA-NERL ; Nitrate-Nitrite by Colorimetry',
@@ -2639,6 +2641,8 @@ export default {
     'BIOO-1018 ~ Bioo Scientific ; Malachite Green Water Test - column-based',
   BREVELCMS: 'BreveLCMS ~ EPA-OW ; Brevetoxin in water by LCMS',
   BTEX: 'https://www.pacelabs.com/assets/documents/Environmental/capabilities-2015.pdf',
+  Basket:
+    'This method involves the collection of a surface water sample using a bucket or bottle within a basket, typically lowered from a bridge. This is a generic method intended for use by MassWateR users.',
   'Benthic macroinvertebrates':
     'Environmental Monitoring and Assessment Program (EMAP) Laboratory Methods Manual Estuaries',
   'C-001-1': '',
@@ -3275,6 +3279,7 @@ export default {
   'GWPD WELL':
     'H ~ USGS ; Method to estimate discharge from a pumped well by use of a circular orifice weir',
   GWTP: 'B ~ USGS ; Groundwater technical procedures of the U.S. Geological Survey',
+  Grab: 'This method involves the collection of a surface water sample by dipping a water bottle from shore, boat, or while wading. This is a generic method intended for use by MassWateR users.',
   'H-01': '',
   'H-02': '',
   'H-03': '',
@@ -4635,6 +4640,7 @@ export default {
     'Lead-210 is isolated from most interferences. Its progeny 210Bi is separated from 210Pb, and the beta activity is measured by atomic absorption spectrometer radiometrically after ingrowth.\r\nhttps://www.nemi.gov/methods/method_pdf/4844/',
   'Percent Moisture':
     'Biological Tissue Analysis - Percent Moisture  In House SOP, https://www.pacelabs.com/environmental-services/specialty-services/biological-tissue-analysis/methods.html',
+  Pole: 'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users.',
   'QUALITY ASSESSMENT':
     'Data Quality Assessment: Statistical Methods for Practitioners ~ EPA-QUALITY ; U.S. Environmental Protection Agency',
   'R-001-1': '',
@@ -4931,6 +4937,8 @@ export default {
     'WI DNR BMI Kick ~ WDNR Fish Habitat ; Guidelines for Collecting Macroinvertebrate Samples from Wadable Streams in Wisconsin',
   WRTDS:
     'Weighted Regressions on Time, Discharge, and Season (WRTDS), with an Application to Chesapeake Bay River Inputs ~ USGS ; Hirsch, R.M., Moyer, D.L., and Archfield, S.A',
+  'Water Sampling Device':
+    'This method involves the collection of a water sample by lowering a sampling container to depth and using a physical or mechanical method of closing the container (e.g., Lamotte, Rosette, Van Dorn). This is a generic method intended for use by MassWateR users.',
   XENO: '',
   'X_89_176(N)': '',
   'X_89_176(P)': ''

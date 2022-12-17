@@ -1,10 +1,14 @@
 export default {
   'Blank-adjusted method detect limit': 'Blank-adjusted method detect limit',
+  'Blank-adjusted reporting limit':
+    'Greater than or equal to two times the blank-adjusted method detect limit. The probability of falsely reporting a non-detection blank-adjusted limit is predicted to be less than or equal to 1 percent.',
   'Contract Detection Limit':
     'Minimum level of detection acceptable under the contract Statement of Work (SOW). However, laboratory-derived IDLs (adjusted for sample size, dilution and moisture) are used for reporting limits',
   'Contract Quantitation Limit':
     '- Minimum level of reliable quantitation acceptable under the contract Statement of Work (SOW).',
   'Daily detection limit': 'Daily detection limit',
+  'Detection limit by DQCALC':
+    'Lowest concentration, with 90% confidence, will be exceeded no more than 1 percent when a blank sample is measured. Detection limit by DLDQC is the critical level "Lc" by ASTM D6091, nearly equal MDL.',
   'Drinking Water Maximum':
     'Maximum Contaminant Levels (MCLs) is the legal threshold limit on the amount of a substance that is allowed in public water systems under the Safe Drinking Water Act.',
   'Estimated Detection Level':
@@ -36,12 +40,16 @@ export default {
     'Minimum Reporting Level is the smallest measured concentration of a constituent that can be reliably measured using a given analytical method',
   'Practical Quantitation Limit': 'Practical Quantitation Limit (PQL)',
   'Reporting limit': 'Reporting limit',
+  'Reporting limit by DQCALC':
+    'Greater than or equal to two times the detection limit by DQCALC, where the detection limit by DQCALC is the critical level "Lc" by ASTM D6091. DQCALC software used to determine limits (ASTM D7510-10)',
   'Required detection limit':
     'New term from the Federal Register ... to be investigated',
   'Sample Detection Limit':
     'Sample Detection Limit (SDL) - The MDL adjusted to reflect sample-specific actions such as dilution or use of smaller aliquot sizes, or to report results on a dry-weight basis.',
   'Sample-Specific Quantitation Limit':
     'The largest or smallest concentration that an instrument can reliably detect for a specific sample.',
+  'Sample-specific critical level':
+    'The calculated and reported value below which a radiochemistry result is considered a non-detection. ',
   'Sample-specific min detect conc':
     'The smallest concentration that an instrument can reliably detect for a specific sample.',
   'Specified in workplan': 'Specified in workplan... requested by GLENDA',
