@@ -75,6 +75,8 @@ export default {
     'A known mass of target analyte added to a blank sample or subsample in the laboratory. The pupose of a laboratory spike is to show that sample preperation procedures do not contribute to loss of analytes.',
   'Quality Control Sample-Lab Spike Duplicate':
     'A known mass of target analyte added to a blank sample or subsample in the laboratory. The purpose of a laboratory spike is to show that sample preparation procedures do not contribute to loss of analytes.',
+  'Quality Control Sample-Lab Spike Target':
+    'The reference expected value when a known mass of target analyte is added to a blank sample or subsample in the laboratory. The purpose of a laboratory spike is to show that sample preparation procedures do not contribute to loss of analytes.',
   'Quality Control Sample-Lab Spike of a Lab Blank':
     'The lab blank (method blank) is prepared in the lab to represent the matrix as closely as possible, then spiked with known concentrations of the analytes.',
   'Quality Control Sample-Lab Split':
@@ -99,6 +101,16 @@ export default {
     'A sample (i.e., test sample or control sample/standard) with known analyte concentration used either singly or in replicate, as appropriate, to monitor method performance characteristics. ',
   'Quality Control Sample-Trip Blank':
     'Trip blanks are test samples of analyte-free media taken from the laboratory to the sampling site and returned to the laboratory unopened. They are used to measure cross-contamination from the container and preservative during transport, field handling, and storage. Usually, at least one trip blank should be prepared for each sample type per trip.',
+  'Quality Control-Calibration Check':
+    'The resulting value for a standard run during or after field work to verify that an instrument has maintained its calibration.',
+  'Quality Control-Calibration Check Buffer':
+    'A standard run during or after field work to verify that an instrument has maintained its calibration.',
+  'Quality Control-Meter Lab Blank':
+    'Lab Blanks are analyte-free matrices prepared in the lab and measured with a portable meter or logger to check for meter contamination or bias.  Examples are zero DO standard and distilled water for conductivity.',
+  'Quality Control-Meter Lab Duplicate':
+    'One of two samples taken from the same matrix and measured with different portable meters or loggers and/or by different personnel. Duplicates are used to assess variance of the meters or measurement process.',
+  'Quality Control-Meter Lab Duplicate 2':
+    'The second of two samples taken from the same matrix and measured with different portable meters or loggers and/or by different personnel. Duplicates are used to assess variance of the meters or measurement process.',
   'Quality Control-Negative Control':
     'The process to control the quality of measurement with absence of analyte or habitat is negative control.',
   'Sample-Composite With Parents':

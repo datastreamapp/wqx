@@ -555,6 +555,8 @@ export default {
   'Macrophytes Extend Lakeward (choice list)':
     'Yes, Macrophytes extend lakeward',
   'Spring, Measurable Discharge (Y/N) (choice list)': 'Yes',
+  'Practicing Erosion control (Y/N) (choice list)':
+    'Yes, Erosion Control is being Practiced',
   'Site Disturbance Evident (choice list)': 'Yes',
   'Sanitary Waste (Y/N) (choice List)': 'Yes',
   'Monocot plant type present (Y/N) (choice list)':

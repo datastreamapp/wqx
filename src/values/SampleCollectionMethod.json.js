@@ -31,7 +31,7 @@ export default {
     'BS0333',
     'BS0334',
     'BS0335',
-    'Basket',
+    'Basket-MassWateR',
     'CABIN 2012',
     'CABIN 2012 (Inverts)',
     'CABR_BPTCC',
@@ -152,7 +152,7 @@ export default {
     'GOGA_GRAB',
     'GOGA_L1_S',
     'GOGA_L1_W',
-    'GRAB',
+    'GRAB-MDEQ-WQ',
     'GRBA_BIO',
     'GRBA_GRAB',
     'GRBA_SEM',
@@ -237,8 +237,8 @@ export default {
     'GWPD 17-Conducting',
     'GWPD 2-Identifying',
     'GWPD 3-Establishing',
-    'Grab',
     'Grab Sample Method',
+    'Grab-MassWateR',
     'Groundwater technical procedures',
     'Guidance on Systematic Planning',
     'HAFO0001',
@@ -350,7 +350,7 @@ export default {
     'PNAMP 2007',
     'PNAMP Invert Analysis',
     'PNAMP Invert Collection',
-    'Pole',
+    'Pole-MassWateR',
     'REDW_AND',
     'REDW_APSSS',
     'REDW_BATTE',
@@ -533,7 +533,8 @@ export default {
     'WRST_EPSED',
     'WRST_EPWIL',
     'WRST_MAC_1',
-    'Water Sampling Device'
+    'Wade-MassWateR',
+    'Water Sampling Device-MassWateR'
   ],
   maxLength: 32
 }

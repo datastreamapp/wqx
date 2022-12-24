@@ -26,7 +26,7 @@ export default {
   'CERCLA Superfund Site':
     'The Superfund site assessment process evaluates potential or confirmed releases of hazardous substances that may pose a threat to human health or the environment using the Hazard Ranking System (HRS) criteria guide',
   'Canal Drainage':
-    ' As a channel drainage system it is designed to eliminate the need for further pipework systems to be installed in parallel to the drainage, reducing the environmental impact of production as well as improving water collection.',
+    'As a channel drainage system it is designed to eliminate the need for further pipework systems to be installed in parallel to the drainage, reducing the environmental impact of production as well as improving water collection.',
   'Canal Irrigation':
     'Irrigation canals are the main waterways that bring irrigation water from a water source to the areas to be irrigated. They can be lined with concrete, brick, stone, or a flexible membrane to prevent seepage and erosion.',
   'Canal Transport':
@@ -46,12 +46,14 @@ export default {
     'A constructed wetland (CW) is an artificial wetland to treat municipal or industrial wastewater, greywater or stormwater runoff. It may also be designed for land reclamation after mining, or as a mitigation step for natural areas lost to land development.Constructed wetlands are engineered systems that use natural functions vegetation, soil, and organisms to treat wastewater',
   Estuary:
     'a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\r\nEstuaries form a transition zone between river environments and maritime environments. \r\nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.\r\n',
+  'Estuary-Freshwater':
+    'Freshwater estuaries are semi-enclosed areas of the Great Lakes in which lake and river water mix, forming a transition zone between river and lake environments that are chemically distinct',
   'Facility Industrial':
-    ' a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal; "the price of the house included all utilities',
+    'a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal; "the price of the house included all utilities',
   'Facility Municipal Sewage (POTW)':
     'Treatment works treating domestic sewage means a POTW or any other sewage sludge or waste water treatment devices or systems, regardless of ownership (including federal facilities), used in the storage, treatment, recycling, and reclamation of municipal or domestic sewage, including land dedicated for the disposal of sewage sludge. This definition does not include septic tanks or similar devices.',
   'Facility Other':
-    ' a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as Reclaimed water can supply needed water for some purposes Reclaimed wastewater frees up fresh water that can be used somewhere else, such as for drinking water',
+    'a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as Reclaimed water can supply needed water for some purposes Reclaimed wastewater frees up fresh water that can be used somewhere else, such as for drinking water',
   'Facility Privately Owned Non-industrial':
     'Privately owned treatment works means any device or system which is (a) used to treat wastes from any facility whose operator is not the operator of the treatment works',
   'Facility Public Water Supply (PWS)':
@@ -64,7 +66,8 @@ export default {
     'An infiltration gallery is a structure including perforated conduits in gravel to expedite transfer of water to or from a soil.',
   'Gas-Condensate':
     'Natural-gas condensate, also called natural gas liquids, is a low-density mixture of hydrocarbon liquids that are present as gaseous components in the raw natural gas produced from many natural gas fields. ',
-  'Gas-Engine': '',
+  'Gas-Engine':
+    'A gas engine is an internal combustion engine that runs on a gaseous fuel, such as coal gas, producer gas, biogas, landfill gas or natural gas.',
   'Gas-Extraction':
     'Oil and Gas Extraction is the exploration and production of petroleum and natural gas from wells. The industry generates wastewater from the water extracted from the geological formations and from chemicals used during exploration, well drilling and production of oil and gas.',
   'Gas-Flare':
@@ -159,7 +162,7 @@ export default {
   'Waste Pit':
     'A mud pit in which a supply of drilling fluid has been stored. Also, a waste pit, usually an excavated, earthen-walled pit. It may be lined with plastic to prevent soil contamination.',
   'Waste Sewer': 'a waste pipe that carries away sewage or surface water',
-  Well: ' An excavation or structure created in the ground by digging, driving, or drilling to access liquid resources, usually water.',
+  Well: 'An excavation or structure created in the ground by digging, driving, or drilling to access liquid resources, usually water.',
   'Wetland Estuarine-Ditch':
     'Open water estuary, bay, sound Vegetated and non-vegetated brackish and saltwater ditch',
   'Wetland Estuarine-Emergent':

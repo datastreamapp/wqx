@@ -22,6 +22,7 @@ export default {
           'Quality Control Sample-Lab Re-Analysis',
           'Quality Control Sample-Lab Spike',
           'Quality Control Sample-Lab Spike Duplicate',
+          'Quality Control Sample-Lab Spike Target',
           'Quality Control Sample-Lab Split',
           'Quality Control Sample-Lab Surrogate Control Standard',
           'Quality Control Sample-Lab Surrogate Control Standard Duplicate',

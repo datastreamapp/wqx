@@ -10,6 +10,9 @@ export default {
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
   '***ACIC_WQX_DELETED_REMOVED':
     '_DELETEDAk-Chin Indian Community Environmental Protection Department;',
+  '***DELETED_RENAME-RE-USETCEH': 'Thurston County Environmental Health',
+  '***DELETED_RENAME-THCOENVHWA_WQX':
+    'Division of Thuston County Public Health and Social Services',
   '***MASSW_DELETED_REMOVED': '',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
@@ -34,8 +37,7 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX':
-    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
+  '11NPSWRD_WQX': '',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -723,7 +725,7 @@ export default {
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX:
     'Klamath Tribes Natural Resources Department; Protection of the natural-resource related rights guaranteed to the tribes in the treaty of 1864 is largely the responsibility of the Natural Resources Department. This department aids the Klamath Tribes mission by protecting preserving and enhancing natural resources.',
-  KNA: '',
+  KNA: 'Matthews',
   KNRD_WQX: 'Kalispel Natural Resources Department Tribal (Washington);',
   KS_GEOWATER_CTR: '',
   KWMNDATA_WQX:
@@ -1261,7 +1263,6 @@ export default {
   TABLEMOUNTAINRANCHERIA_WQX: 'Table Mountain Rancheria;',
   TAKSHANUK: 'Takshanuk Watershed Council Water Quality Monitoring',
   TAOSPBLO_WQX: 'Pueblo of Taos',
-  TCEH: 'Thurston County Environmental Health',
   TCEQMAIN:
     'The Texas Commission on Environmental Quality (TCEQ) is the environmental agency for the state',
   TDECDOE_WQX: 'DOE Oversight Office',
@@ -1274,8 +1275,6 @@ export default {
   TEST_SD: '',
   TETRATECH: '',
   TGENVIRO: '',
-  THCOENVHWA_WQX:
-    'Division of Thuston County Public Health and Social Services',
   THD_LAB: 'Tennessee Department of Health Division of Laboratory Services',
   THORNTON_WQX: 'Water Quality Monitoring Data',
   THURSTONCOUNTY: 'Thurston County PHSS',

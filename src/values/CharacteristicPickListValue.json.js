@@ -414,6 +414,7 @@ export default {
     'Impermeable Layer Present (Y/N) (choicelist)',
     'Macrophytes Extend Lakeward (choice list)',
     'Spring, Measurable Discharge (Y/N) (choice list)',
+    'Practicing Erosion control (Y/N) (choice list)',
     'Site Disturbance Evident (choice list)',
     'Sanitary Waste (Y/N) (choice List)',
     'Monocot plant type present (Y/N) (choice list)',

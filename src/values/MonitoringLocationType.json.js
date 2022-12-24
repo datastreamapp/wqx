@@ -28,6 +28,7 @@ export default {
     'Constructed Water Transport Structure',
     'Constructed Wetland',
     'Estuary',
+    'Estuary-Freshwater',
     'Facility Industrial',
     'Facility Municipal Sewage (POTW)',
     'Facility Other',

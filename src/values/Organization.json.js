@@ -5,6 +5,8 @@ export default {
   type: 'string',
   enum: [
     '***ACIC_WQX_DELETED_REMOVED',
+    '***DELETED_RENAME-RE-USETCEH',
+    '***DELETED_RENAME-THCOENVHWA_WQX',
     '***MASSW_DELETED_REMOVED',
     '0800257_WQX',
     '0800597_WQX',
@@ -1120,7 +1122,6 @@ export default {
     'TABLEMOUNTAINRANCHERIA_WQX',
     'TAKSHANUK',
     'TAOSPBLO_WQX',
-    'TCEH',
     'TCEQMAIN',
     'TDECDOE_WQX',
     'TDECWPC_WQX',
@@ -1132,7 +1133,6 @@ export default {
     'TEST_SD',
     'TETRATECH',
     'TGENVIRO',
-    'THCOENVHWA_WQX',
     'THD_LAB',
     'THORNTON_WQX',
     'THURSTONCOUNTY',
@@ -1334,5 +1334,5 @@ export default {
     'YUROKTEP_WQX',
     'ZIAPUEBLO_WQX'
   ],
-  maxLength: 30
+  maxLength: 32
 }

@@ -2185,6 +2185,8 @@ export default {
   '8260D': '',
   '8260D (SIM)':
     'Selected ion monitoring (SIM) is a major application for GC-MS and allows the instrument to be used in its most sensitive mode for quantitative measurements.',
+  '8260M':
+    "Total Petroleum Hydrocarbons - Gasoline Range (TPH-g) are relatively short hydrocarbons that easily evaporate and are flammable. Total Petroleum Hydrocarbons - (TPH-d) are medium length hydrocarbons that don't evaporate as well as the smaller compounds, but do produce a lot of energy when burned.",
   '8270B(S)': ' in Sediment',
   '8270B(W)': ' in Water',
   '8270C': '',

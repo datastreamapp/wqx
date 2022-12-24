@@ -42,7 +42,7 @@ export default {
   BS0333: 'https://www.nemi.gov/methods/method_summary/12374/',
   BS0334: 'https://www.nemi.gov/methods/method_summary/12375/',
   BS0335: 'https://www.nemi.gov/methods/method_summary/12351/',
-  Basket:
+  'Basket-MassWateR':
     'This method involves the collection of a surface water sample using a bucket or bottle within a basket, typically lowered from a bridge. This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
   'CABIN 2012': 'https://www.nemi.gov/protocols/protocol_summary/621/',
   'CABIN 2012 (Inverts)': 'https://www.nemi.gov/methods/method_summary/12444/',
@@ -250,7 +250,7 @@ export default {
     'At all sites except Crissy Marsh, bed-sediment samples were collected in areas of active deposition, using a stainless-steel scoop to transfer the top 2 cm of undisturbed stream bottom into 500-mL, pre-cleaned, baked glass jars. At the Crissy Marsh site, depositional sediment was collected using an Ekman grab sampler, and the top 2 cm were transferred to a 500-mL, pre-cleaned glass jar using a stainless-steel scoop. Samples were then transported on ice to the USGS Sacramento Laboratory and were stored frozen at ?20°C until analysis (which occurred within 6 months).',
   GOGA_L1_W:
     "Water flow and channel depth were used to determine the sampling method. For those sites with low flow and narrow, shallow channels (Coyote Creek, Nyhan Creek, Dragonfly Creek, Tennessee Hollow Creek, and Milagra Creek), 'grab' samples were collected mid-channel by dipping a 1-L baked, amber-glass bottle below the water surface. Samples from Lobos Creek, Rodeo Creek, Redwood Creek, and Sanchez Creek, which had higher flows and were wider and deeper, were collected as integrated samples (width and depth) using a Teflon bottle attached to a wading rod (Wilde and Radtke, 1998). Immediately after sampling, the water was transferred from the Teflon bottle into a 1-L baked amber-glass bottle. Water flow in Tennessee Hollow Creek was very low during the February and April sampling events, and as a result, water was collected using a small peristaltic pump, with Teflon tubing, to pump the water directly into a 1-L baked amber-glass bottle. All samples were immediately placed on ice for transport to the USGS Sacramento Laboratory where they were refrigerated prior to processing for analysis. Analysis occurred within 24 hours of sampling.",
-  GRAB: '',
+  'GRAB-MDEQ-WQ': '',
   GRBA_BIO:
     'One preserved and one non-preserved sample bottle provided by lab are taken out in the field. The non-preserved sample is rinsed three times with sample water and the preserved sample bottle is filled with sample water. The non-preserved sample bottle is then filled with sample water. Water sample is kept as cool as possible using a cooler if possible. Samples are stored in the refridgerator in the RM office until they can be shipped to the lab for analysis.',
   GRBA_GRAB:
@@ -407,8 +407,9 @@ export default {
   'GWPD 17-Conducting': 'http://pubs.usgs.gov/tm/1a1/pdf/GWP17.pdf',
   'GWPD 2-Identifying': 'http://pubs.usgs.gov/tm/1a1/pdf/GWPD2.pdf',
   'GWPD 3-Establishing': 'http://pubs.usgs.gov/tm/1a1/pdf/GWPD3.pdf',
-  Grab: 'This method involves the collection of a surface water sample by dipping a water bottle from shore, boat, or while wading. This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
   'Grab Sample Method': 'https://www.nj.gov/dep/srp/guidance/fspm/',
+  'Grab-MassWateR':
+    'This method involves the collection of a surface water sample by dipping a water bottle from shore, boat, or while wading. This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
   'Groundwater technical procedures':
     'http://pubs.usgs.gov/tm/1a1/pdf/tm1-a1.pdf',
   'Guidance on Systematic Planning':
@@ -613,7 +614,8 @@ export default {
   'PNAMP Invert Analysis': 'https://www.nemi.gov/methods/method_summary/12580/',
   'PNAMP Invert Collection':
     'https://www.nemi.gov/methods/method_summary/12579/',
-  Pole: 'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
+  'Pole-MassWateR':
+    'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
   REDW_AND:
     'A 1000 ml unfiltered water sample was taken from the center of the stream in an opaque Nalgene bottle.',
   REDW_APSSS:
@@ -959,6 +961,8 @@ export default {
   WRST_EPWIL:
     'All willow samples were collected from Nabesna on August 13, 1997. Samples of two willow species, Salix Alaxensis and Salix Glauca, were collected by compositing leaves from new-growth (1997) stems. At each sample site, samples from approximately five willow bushes of a single species within a 30 ft (9 m) radius were composited and placed in a tightly woven, breathable, 5.5 in by 10.5 in Hubco bag. If both willow species were present at a given site, Salix Glauca was the species collected. Samples were collected at numerous points on the Nabesna mill tailings, on a traverse about 3000 ft (910 m) downstream of the mill tailings, and on a traverse about 4400 ft (1340 m) lateral to the mill tailings.',
   WRST_MAC_1: 'Grab samples were collected in 4-oz polyethylene bottles.',
-  'Water Sampling Device':
+  'Wade-MassWateR':
+    'Sample collected in-stream while wading in from bank. Sample taken in water bottle with "scoop" method 6-12 inches below surface in flowing current.',
+  'Water Sampling Device-MassWateR':
     'This method involves the collection of a water sample by lowering a sampling container to depth and using a physical or mechanical method of closing the container (e.g., Lamotte, Rosette, Van Dorn). This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/'
 }

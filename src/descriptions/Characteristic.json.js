@@ -8776,6 +8776,7 @@ export default {
   '2H-Pyrido[1,2-a]-1,3,5-triazine, 4-methyl-2,2-bis(trifluoromethyl)-': '',
   '2H-Tetrazole-2-acetic acid, 5-[3-[4-(2-bromo-5-fluorophenoxy)-1-piperidinyl]-5-isoxazolyl]-, compd. with 2,2,2-trifluoro':
     'PFAS removal',
+  '3&4-Methylphenol***retired***use m and p-Methylphenol': '',
   '3(2H)-Furanone, 2-(1,1-dimethylethyl)dihydro-5-hydroxy-2-methyl-5-(1,1,2,2-tetrafluoroethyl)-':
     '',
   '3(2H)-Furanone, dihydro-2-hydroxy-2-methyl-5,5-bis(trifluoromethyl)-': '',
@@ -15341,6 +15342,7 @@ export default {
   Cresol: '; Request Date: 22-JUL-14',
   Cristabalite: '',
   'Crocidolite Asbestos': '; Request Date: 03-JUL-08',
+  'Cross Section': '',
   'Cross-section Depth': '; Request Date: 14-MAY-10',
   Crotonaldehyde: '; Request Date: 07-JUN-18',
   Crotoxyphos: '; Request Date: 20-NOV-07',
@@ -18045,6 +18047,7 @@ export default {
   'Hexanamide, 6-[2,4-bis(1,1-dimethylpropyl)phenoxy]-N-[3-hydroxy-4-[(octafluoro-1-oxopentyl)amino]phenyl]- (9CI)':
     '',
   Hexane: '; Request Date: 22-JUL-14',
+  'Hexane Extractable Material (HEM)': '',
   'Hexane extraction percent fat': '; Request Date: 30-MAY-13',
   'Hexane, 1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-6-iodo-': '',
   'Hexane, 1,1,1,2,2,3,3,4,4,5,6,6,6-tridecafluoro-5-(trifluoromethyl)-': '',
@@ -18992,6 +18995,7 @@ export default {
   Lutetium: '; Request Date: 02-MAR-07',
   'M-Diethylbenzene': '; Request Date: 03-JUL-08',
   MBAS: '; Request Date: 02-MAR-07',
+  'MBAs as LAS, mol wt 340***retired***use MBAS': '',
   'MC 1 (part of chlordane total)': '; Request Date: 30-MAY-13',
   'MC 2 (part of chlordane total)': '; Request Date: 30-MAY-13',
   'MC 3 (part of chlordane total)': '; Request Date: 30-MAY-13',
@@ -21004,6 +21008,7 @@ export default {
   'Norwalk virus': 'NWIS',
   Novaluron: 'NWIS',
   Noviflumuron: '',
+  'Number of Boats': '',
   'Number of Tolerance Species all Plots': '',
   'Number of individuals***retired***use Individuals examined, actual number':
     '; Request Date: 27-MAR-19',
@@ -23678,6 +23683,7 @@ export default {
   'Power plant production':
     'The actual production of electrical power from a plant, in megawatts.; Request Date: 02-MAR-07',
   'Power, stream': '; Request Date: 30-MAY-13',
+  'Practicing Erosion control (Y/N) (choice list)': '',
   Prallethrin: '; Request Date: 24-MAR-14',
   Praseodymium: '; Request Date: 22-JUL-14',
   'Praseodymium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.kappa.O3,.kappa.O5)-':
@@ -24802,6 +24808,7 @@ export default {
   'Riparian - Roads or rails (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Riparian - Row crops (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Riparian - Trash (choice list)': 'NRSA; Request Date: 11-APR-17',
+  'Riparian Area Description': '',
   'Riparian Cover Complexity Index': '; Request Date: 07-MAR-16',
   'Riparian Disturbance Intensity-Extent Index': '; Request Date: 07-MAR-16',
   'Riparian Erosion': '',
@@ -26074,6 +26081,7 @@ export default {
   'Terephthalic acid': '; Request Date: 08-APR-19',
   Terphenyl: '; Request Date: 22-JUL-14',
   'Terphenyl-d14': '; Request Date: 23-APR-15',
+  'Terphenyl-dl4': '',
   Terpineol: '; Request Date: 02-MAR-07',
   Terpinolene: '',
   'Terrace height': '; Request Date: 08-JUN-10',
@@ -26236,6 +26244,8 @@ export default {
   'Theophylline-13C1-15N2': '; Request Date: 24-MAR-14',
   'Thermal discharge':
     'The heat content or thermal content of a discharge, usually reported in BTUs per unit time or volume.; Request Date: 02-MAR-07',
+  'Thermocline Present':
+    'https://cdx.epa.gov/wqx/download/DomainValues/ActivityRelativeDepth.CSV',
   Theromyzon: 'NWIS',
   Thiabendazole: 'Nemi.gov; Request Date: 22-JUL-14',
   'Thiabendazole-d4': 'Request Date: 3-Feb-15 (nps.gov cas# review)',
@@ -27201,6 +27211,7 @@ export default {
   'Whirling Disease Present (Y/N) (choice list)': '',
   'White ice thickness':
     'Formed when snow accumulates on ice, melts, and refreezes, and when rain falls on snow creating slush and refreezing',
+  'White mineral oil (petroleum)': '',
   'Whole effluent toxicity': '; Request Date: 26-JAN-18',
   Width:
     'The distance from one surface to another surface of an object.; Request Date: 02-MAR-07',

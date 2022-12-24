@@ -77,7 +77,7 @@ export default {
   'as K':
     'Potassium is a chemical element with  atomic number 194, and atomic weight 39.0983 u ± 0.0006 u. It is the first element in group 1 (alkali metals).',
   'as LAS':
-    'Linear Alkylbenzene Sulfonate (LAS) Standard, 1mL = 1mg LAS, 1000ppm LAS, Ricca Chemical',
+    'Linear Alkylbenzene Sulfonate (LAS) Standard, 1mL = 1mg LAS, 1000ppm LAS, Ricca Chemical. Linear alkylbenzene sulfonate (LAS) is a cytotoxic synthetic anionic surfactant widely present in the environment due to its large-scale production and intensive use in the detergency field.',
   'as Mg':
     'Magnesium is a chemical element with atomic number 12, and atomic weight 24.305 u ± 0.002 u. It is group 2, or alkaline earth metals.',
   'as N':

@@ -11293,6 +11293,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2H-Tetrazole-2-acetic acid, 5-[3-[4-(2-bromo-5-fluorophenoxy)-1-piperidinyl]-5-isoxazolyl]-, compd. with 2,2,2-trifluoro':
     'PFOS, Perfluorooctane Sulfonate',
+  '3&4-Methylphenol': 'Not Assigned',
   '3(2H)-Furanone, 2-(1,1-dimethylethyl)dihydro-5-hydroxy-2-methyl-5-(1,1,2,2-tetrafluoroethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '3(2H)-Furanone, dihydro-2-hydroxy-2-methyl-5,5-bis(trifluoromethyl)-':
@@ -19083,6 +19084,7 @@ export default {
   Cresol: 'Organics, Other',
   Cristabalite: 'Not Assigned',
   'Crocidolite Asbestos': 'Not Assigned',
+  'Cross Section': 'Information',
   'Cross-section Depth': 'Information',
   Crotonaldehyde: 'Not Assigned',
   Crotoxyphos: 'Organics, Pesticide',
@@ -22026,6 +22028,7 @@ export default {
   'Hexanamide, 6-[2,4-bis(1,1-dimethylpropyl)phenoxy]-N-[3-hydroxy-4-[(octafluoro-1-oxopentyl)amino]phenyl]- (9CI)':
     'PFAS,Perfluorinated Alkyl Substance',
   Hexane: 'Organics, Other',
+  'Hexane Extractable Material (HEM)': 'Not Assigned',
   'Hexane extraction percent fat': 'Not Assigned',
   'Hexane, 1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-6-iodo-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -22976,6 +22979,7 @@ export default {
   Lutetium: 'Inorganics, Minor, Metals',
   'M-Diethylbenzene': 'Not Assigned',
   MBAS: 'Not Assigned',
+  'MBAs as LAS, mol wt 340': 'Not Assigned',
   'MC 1 (part of chlordane total)': 'Organics, Pesticide',
   'MC 2 (part of chlordane total)': 'Organics, Pesticide',
   'MC 3 (part of chlordane total)': 'Organics, Pesticide',
@@ -25365,6 +25369,7 @@ export default {
   'Norwalk virus': 'Not Assigned',
   Novaluron: 'Not Assigned',
   Noviflumuron: 'PFAS,Perfluorinated Alkyl Substance',
+  'Number of Boats': 'Information',
   'Number of Tolerance Species all Plots': 'Information',
   'Number of individuals': 'Physical',
   'Number of pedicels per sample plant': 'Physical',
@@ -28306,6 +28311,7 @@ export default {
   'Power plant load': 'Physical',
   'Power plant production': 'Physical',
   'Power, stream': 'Physical',
+  'Practicing Erosion control (Y/N) (choice list)': 'Information',
   Prallethrin: 'Not Assigned',
   Praseodymium: 'Inorganics, Minor, Metals',
   'Praseodymium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.kappa.O3,.kappa.O5)-':
@@ -29545,6 +29551,7 @@ export default {
   'Riparian - Roads or rails (choice list)': 'Not Assigned',
   'Riparian - Row crops (choice list)': 'Not Assigned',
   'Riparian - Trash (choice list)': 'Not Assigned',
+  'Riparian Area Description': 'Information',
   'Riparian Cover Complexity Index': 'Physical',
   'Riparian Disturbance Intensity-Extent Index': 'Physical',
   'Riparian Erosion': 'Physical',
@@ -30828,6 +30835,7 @@ export default {
   'Terephthalic acid': 'Not Assigned',
   Terphenyl: 'Not Assigned',
   'Terphenyl-d14': 'Organics, Other',
+  'Terphenyl-dl4': 'Not Assigned',
   Terpineol: 'Organics, Pesticide',
   Terpinolene: 'Not Assigned',
   'Terrace height': 'Physical',
@@ -31003,6 +31011,7 @@ export default {
   Theophylline: 'Organics, Other',
   'Theophylline-13C1-15N2': 'Not Assigned',
   'Thermal discharge': 'Physical',
+  'Thermocline Present': '',
   Theromyzon: 'Not Assigned',
   Thiabendazole: 'Organics, Pesticide',
   'Thiabendazole-d4': 'Not Assigned',
@@ -32002,6 +32011,7 @@ export default {
   'Wetted Width': 'Physical',
   'Whirling Disease Present (Y/N) (choice list)': 'Information',
   'White ice thickness': 'Physical',
+  'White mineral oil (petroleum)': 'Not Assigned',
   'Whole effluent toxicity': 'Not Assigned',
   Width: 'Physical',
   Wiedemannia: 'Not Assigned',
