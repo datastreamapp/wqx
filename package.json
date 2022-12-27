@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com/gordonfn/wqx.git"
+    "url": "git+https://git@github.com/datastreamapp/wqx.git"
   },
   "keywords": [
     "EPA",
@@ -27,9 +27,9 @@
   "author": "willfarrell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gordonfn/wqx/issues"
+    "url": "https://github.com/datastreamapp/wqx/issues"
   },
-  "homepage": "https://github.com/gordonfn/wqx#readme",
+  "homepage": "https://github.com/datastreamapp/wqx#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.0.0",
     "@commitlint/config-conventional": "^17.0.0",
