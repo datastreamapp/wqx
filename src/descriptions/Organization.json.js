@@ -13,7 +13,6 @@ export default {
   '***DELETED_RENAME-RE-USETCEH': 'Thurston County Environmental Health',
   '***DELETED_RENAME-THCOENVHWA_WQX':
     'Division of Thuston County Public Health and Social Services',
-  '***MASSW_DELETED_REMOVED': '',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -786,6 +785,8 @@ export default {
   MASSBAYS: '',
   MASSBAYS01: 'Massachusetts Bays National Estuary Program',
   MASSDEP: 'DWM/WPP',
+  MASSWATER_WQX:
+    'MassWateR is an R-based data analysis tool developed by MassBays NEP, and used by non-profit environmental organizations across Massachusetts to QA/QC, analyze, and format their data for submission to WQX. There are three custom import configurations as well as sample collection methods designed to facilitate MassWateR users interaction with WQX.',
   MATTOLERESTORATIONCOUNCIL: 'Water Quality Monitoring Data',
   MATTOLE_SALMON: '',
   MAULFOSTER_WQX: '',
@@ -1348,7 +1349,7 @@ export default {
   USFSWHITEMT: '',
   USFWS_ALASKA: 'US Fish and Wildlife Service - Alaska Region',
   USFWS_NM_WQX: 'Water Quality Monitoring Data',
-  USGS: '',
+  USGS: 'Missouri Department of Natural Resources',
   'USGS-AK': 'USGS Alaska Water Science Center',
   'USGS-AR': '',
   'USGS-MN': 'USGS Minnesota Water Science Center',
