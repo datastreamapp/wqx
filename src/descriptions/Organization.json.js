@@ -1263,6 +1263,7 @@ export default {
   'T-BIOPSS': 'Washington Department of Fish and Wildlife (WDFW)',
   TABLEMOUNTAINRANCHERIA_WQX: 'Table Mountain Rancheria;',
   TAKSHANUK: 'Takshanuk Watershed Council Water Quality Monitoring',
+  TAMUCC: 'Texas A&M University-Corpus Christi',
   TAOSPBLO_WQX: 'Pueblo of Taos',
   TCEQMAIN:
     'The Texas Commission on Environmental Quality (TCEQ) is the environmental agency for the state',

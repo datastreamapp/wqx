@@ -1121,6 +1121,7 @@ export default {
     'T-BIOPSS',
     'TABLEMOUNTAINRANCHERIA_WQX',
     'TAKSHANUK',
+    'TAMUCC',
     'TAOSPBLO_WQX',
     'TCEQMAIN',
     'TDECDOE_WQX',
