@@ -4653,6 +4653,8 @@ export default {
   Pole: 'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users.',
   'QUALITY ASSESSMENT':
     'Data Quality Assessment: Statistical Methods for Practitioners ~ EPA-QUALITY ; U.S. Environmental Protection Agency',
+  'Quanti-Tray/2000':
+    'IDEXX Quanti-Tray/2000 is designed to give quantitated bacterial counts of 100 ml samples using IDEXX Defined Substrate Technology reagent products.',
   'R-001-1': '',
   'R-002-1': '',
   'R-004-1': '',

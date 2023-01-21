@@ -4048,6 +4048,7 @@ export default {
     'Percent Moisture',
     'Pole',
     'QUALITY ASSESSMENT',
+    'Quanti-Tray/2000',
     'R-001-1',
     'R-002-1',
     'R-004-1',
