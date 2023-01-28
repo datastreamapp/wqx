@@ -109,6 +109,7 @@ export default {
     'SK',
     'TN',
     'TX',
+    'UM',
     'UT',
     'VA',
     'VI',
