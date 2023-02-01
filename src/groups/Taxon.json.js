@@ -18955,8 +18955,6 @@ export default {
   'Gomphoneis herculeana var. loweii': 'Not Assigned',
   'Gomphoneis herculeana var. robusta': 'Not Assigned',
   'Gomphoneis herculeanum var. robusta': 'Not Assigned',
-  'Gomphoneis herculeanum***retired^^^ use Gomphoneis herculeana':
-    'Not Assigned',
   'Gomphoneis mammilla': 'Not Assigned',
   'Gomphoneis minuta': 'Not Assigned',
   'Gomphoneis olivacea': 'Not Assigned',
@@ -45383,6 +45381,7 @@ export default {
   'Surirella tenera var. nervosa': 'Not Assigned',
   'Surirella tenuis': 'Not Assigned',
   'Surirella turgida': 'Not Assigned',
+  'Surirella undulata': 'Not Assigned',
   'Surirella utahensis': 'Not Assigned',
   'Surirella venusta': 'Not Assigned',
   'Surirella visurgis': 'Not Assigned',

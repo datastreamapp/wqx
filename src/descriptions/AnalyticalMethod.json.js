@@ -135,7 +135,7 @@ export default {
   1002: '',
   1003: '',
   1004: '',
-  1005: 'http://www.tceq.state.tx.us/assets/public/compliance/compliance_support/qa/1005_final.pdf',
+  1005: '',
   1006: '',
   1007: '',
   1008: '',
@@ -831,6 +831,7 @@ export default {
   '1002-8-2009': '',
   '1002.0': '',
   '1002G': '',
+  '100P': '100P EPA ASB.pdf',
   '101A': '',
   '10200-F': '',
   '10200-G': '',
@@ -1063,7 +1064,8 @@ export default {
   '213.1_M': '',
   213.2: '213.2 ~ EPA-NERL ; Cadmium by GFAA',
   '213.2_M': '',
-  '2130-B': '2130 B ~ Standard Methods ; Turbidity by Nephelometry',
+  '2130-B':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/9645/',
   215.1: '215.1 ~ EPA-NERL ; Calcium by Flame AA',
   '215.1_M': '',
   215.2: '215.2 ~ EPA-NERL ; Calcium by Titrimetry',
@@ -1092,7 +1094,7 @@ export default {
   '220.2_M': '',
   221.1: '',
   '2241-2': '',
-  231.1: '231.1 ~ EPA-NERL ; Gold by Flame AA',
+  231.1: '',
   231.2: '231.2 ~ EPA-NERL ; Gold by Graphite Furnace AA',
   '2310 B': '2310B / 2310 B ~ Standard Methods ; Acidity by Titration',
   '2320 B': '',
@@ -1122,7 +1124,7 @@ export default {
   '243.1_M': '',
   243.2: '243.2 ~ EPA-NERL ; Manganese by Graphite Furnace AA',
   '243.2_M': '',
-  245.1: '245.1 ~ EPA-NERL ; Mercury by CVAA',
+  245.1: 'in Water',
   '245.1_M': '',
   245.2: '245.2 ~ EPA-NERL ; Mercury by CVAA (Automated)',
   '245.2_M': '',
@@ -1462,7 +1464,8 @@ export default {
   '350_M(B)': '',
   '350_M(C)': '',
   351.1: '351.1 ~ EPA-NERL ; TKN by Automated Colorimetry',
-  351.2: '',
+  351.2:
+    '351.2 ~ EPA-ORD / EPA-OST ; Total Kjeldahl nitrogen in water by semiautomated colorimetry',
   '351.3 (ELECTRODE)':
     '351.3 (Electrode) ~ EPA-NERL ; Total Kjeldahl Nitrogen by Potentiometry',
   '351.3 (TITRATION)':
@@ -1536,8 +1539,7 @@ export default {
   410.2: '410.2 ~ EPA-NERL ; Chemical Oxygen Demand by Titrimetry',
   410.3:
     '410.3 ~ EPA-NERL ; Chemical Oxygen Demand in Saline Waters by Titrimetry',
-  410.4:
-    '410.4 ~ EPA-ORD / EPA-OST ; Chemical oxygen demand in water by colorimetry',
+  410.4: '',
   '410_M(A)': '',
   '410_M(B)': '',
   '4110-B': '4110B ~ Standard Methods ; Anions in Water by Ion Chromatography',
@@ -1721,7 +1723,7 @@ export default {
     '4500-NO3- F ~ Standard Methods ; Nitrate by Automated Cadmium Reduction Method',
   '4500-NO3(G)': '',
   '4500-NO3(H)':
-    '4500-NO3- H ~ Standard Methods ; Nitrate by Automated Hydrazine Reduction',
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7417/',
   '4500-NO3(I)': '',
   '4500-NO3- D***retired*// 4500-NO3 D': '',
   '4500-NO3- E***retired***4500-NO3(E)': '',
@@ -1753,7 +1755,8 @@ export default {
   '4500-P-D': '',
   '4500-P-E':
     'Not current version URL: https://www.nemi.gov/methods/method_summary/7436/',
-  '4500-P-F': '',
+  '4500-P-F':
+    '4500-P F ~ Standard Methods ; Phosphorus by Automated Ascorbic Acid Reduction',
   '4500-P-G': '',
   '4500-P-H': '',
   '4500-P-I':
@@ -1784,7 +1787,7 @@ export default {
   '4500-SI(F)': '',
   '4500-SI(G)': '',
   '4500-SIO2 C':
-    '4500-SiO2 C ~ Standard Methods ; Silica by Molybdosilicate Method',
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7411/',
   '4500-SIO2 D':
     '4500-SiO2 D ~ Standard Methods ; Silica by Heteropoly Blue Method',
   '4500-SIO2 E':
@@ -3400,6 +3403,7 @@ export default {
     'I-1735 ~ USGS-NWQL ; Sodium, dissolved, atomic absorption spectrometric',
   'I-1750-85':
     'I-1750-85 ~ USGS-NWQL ; Solids, dissolved, residue on evaporation at 180 degrees C, gravimetric',
+  'I-1750-89': 'I-1750-89 ~ USGS-NWQL ',
   'I-1751-85': 'http://nwql.usgs.gov/Public/rpt.shtml?TWRI-5-A1',
   'I-1752-85': '',
   'I-1753':
@@ -3417,6 +3421,8 @@ export default {
   'I-2030-85': 'I-2030-85 ~ USGS-NWQL ; Alkalinity of water samples',
   'I-2030-89': 'I-2030-89 ~ USGS-NWQL ; Alkalinity of water samples',
   'I-2057***retired*** I2057': '',
+  'I-2057-85': 'I-2057-85 ~ USGS-NWQL ',
+  'I-2057-89': 'I-2057-89 ~ USGS-NWQL ',
   'I-2058***retired*** I2058': '',
   'I-2062***retired*** I2062': '',
   'I-2063-98':
@@ -3463,6 +3469,7 @@ export default {
   'I-2547-11': '',
   'I-2548-11': '',
   'I-2587-85': 'I-2587-85 ~ USGS-NWQL ; pH of Water Samples, Automated',
+  'I-2587-89': 'I-2587-89 ~ USGS-NWQL ',
   'I-2598-85':
     'I-2598-85 ~ USGS-NWQL ; Phosphorus, orthoposphate in water by automated discrete colorimetry, phosphomolybdate',
   'I-2601-90':
@@ -3583,8 +3590,10 @@ export default {
   'I-4403': 'I-4403 ~ USGS-NWQL ; Lead, whole water recoverable, GFAA',
   'I-4464-01':
     'I-4464-01 ~ USGS-NWQL ; Organic plus Inorganic Mercury in Unfiltered Natural Water by Cold-Vapor AFS',
+  'I-4471-92': 'I-4471-92 ~ USGS-NWQL ',
   'I-4471-97':
     'I-4471-97 ~ USGS-NWQL ; Metals in Water by Inductively Coupled Plasma/Optical Emission Spectrometry, Whole-Water Recoverable',
+  'I-4472-92': 'I-4472-92 ~ USGS-NWQL ',
   'I-4472-97':
     'I-4472-97 ~ USGS-NWQL ; Metals in Water by Inductively Coupled Plasma/Mass Spectrometer, Whole-Water Recoverable',
   'I-4503': 'I-4503 ~ USGS-NWQL ; Nickel, whole water recoverable, GFAA',
@@ -4645,6 +4654,8 @@ export default {
   Pole: 'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users.',
   'QUALITY ASSESSMENT':
     'Data Quality Assessment: Statistical Methods for Practitioners ~ EPA-QUALITY ; U.S. Environmental Protection Agency',
+  'Quanti-Tray/2000':
+    'IDEXX Quanti-Tray/2000 is designed to give quantitated bacterial counts of 100 ml samples using IDEXX Defined Substrate Technology reagent products.',
   'R-001-1': '',
   'R-002-1': '',
   'R-004-1': '',
