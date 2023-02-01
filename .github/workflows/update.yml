@@ -13,22 +13,18 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
-      -
-        name: Checkout
+      - name: Checkout
         uses: actions/checkout@v2
-      -
-        name: Set up Node.js 16.x
+      - name: Set up Node.js 18.x
         uses: actions/setup-node@master
         with:
-          node-version: 16.x
-      -
-        name: Create .npmrc
+          node-version: 18.x
+      - name: Create .npmrc
         run: |
           echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      -
-        name: Cache npm
+      - name: Cache npm
         uses: actions/cache@v2
         with:
           path: ~/.npm
@@ -36,27 +32,22 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      -
-        name: Use npm 8
+      - name: Use npm 8
         run: |
           npm install -g npm@8
-          
-      -
-        name: Install dependencies
+
+      - name: Install dependencies
         run: |
           npm install
-      -
-        name: Download and rebuild allowed values
+      - name: Download and rebuild allowed values
         run: |
           npm run download
           npm run build
-      -
-        name: Check for file changes
+      - name: Check for file changes
         run: |
           git status --porcelain
           echo "change=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
-      -
-        if: env.change != 0
+      - if: env.change != 0
         name: Commit & push changes
         run: |
           git config --local user.name ${{ github.actor }}
@@ -65,8 +56,7 @@ jobs:
           git commit -a -m 'ci: update allowed values'
           npm version patch -m 'chore: bump version to %s'
           git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/*/} --follow-tags --force --tags
-      -
-        if: env.change != 0
+      - if: env.change != 0
         name: Publish
         run: |
           cp package.json dist/package.json
