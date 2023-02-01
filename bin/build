@@ -9,10 +9,9 @@ pre () {
 
 deref () {
 	src=$1
-	opts=${*:2}
 	
 	cd src
-	ajv deref ${src}.build.json ${opts} -o ${src}.build.json
+	ajv deref ${src}.build.json -o ${src}.build.json
 	cd ..
 }
 
