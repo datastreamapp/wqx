@@ -1,4 +1,4 @@
 export default {
-  '**/*.js': ['prettier --write', 'standard --fix'],
-  'src/**/*.{json}': ['prettier --write']
+  '{src,bin}/**/*.js': ['prettier --write', 'standard --fix'],
+  'src/**/*.json': ['prettier --write']
 }

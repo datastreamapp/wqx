@@ -8,7 +8,7 @@
     "commit-msg": "commitlint --config commitlint.config.cjs --edit",
     "pre-commit": "lint-staged --allow-empty",
     "lint": "npm run lint:js && npm run lint:json",
-    "lint:js": "prettier --write **/*.js && standard --fix **/*.js",
+    "lint:js": "prettier --write {src,bin}/**/*.js && standard --fix {src,bin}/**/*.js",
     "lint:json": "prettier --write src/**/*.json",
     "download": "./bin/download.sh",
     "build:values": "node --max-old-space-size=8192 --experimental-json-modules bin/build-values.js",
