@@ -1,0 +1,50 @@
+#!/usr/bin/env sh
+
+maxEnumLength=1200
+
+pre () {
+	src=$1
+	cp src/${src}.json src/${src}.build.json
+}
+
+deref () {
+	src=$1
+	opts=${*:2}
+	
+	cd src
+	ajv deref ${src}.build.json ${opts} -o ${src}.build.json
+	cd ..
+}
+
+clean () {
+	src=$1
+	cmd='del(.. | .["$vocabulary"]?, .["$id"]?, .["$comment"]?)'
+	
+	id=$(jq -r '.["$id"]' src/${src}.build.json)
+	jq "${cmd}" src/${src}.build.json > src/${src}.build.tmp.json
+	mv src/${src}.build.tmp.json src/${src}.build.json
+	jq --arg id ${id} '{"$id":$id} + .' src/${src}.build.json > src/${src}.build.tmp.json
+	mv src/${src}.build.tmp.json src/${src}.build.json
+}
+
+post () {
+	src=$1
+	mv src/${src}.build.json dist/json-schema/${src}.json
+}
+
+build () {
+	pre $1
+	deref $1
+	clean $1
+	post $1
+}
+
+build activitymetric 
+build biological-habitat
+build biological
+build definitions
+build habitat
+build instantaneous
+build location
+build physical-chemistry
+build project
