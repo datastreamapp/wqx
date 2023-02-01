@@ -1,4 +1,4 @@
 export default {
-  '**/!(charset|digest|schema).js': ['prettier --write', 'standard --fix'],
-  '**/*.{json}': ['prettier --write']
+  '**/*.js': ['prettier --write', 'standard --fix'],
+  'src/**/*.{json}': ['prettier --write']
 }

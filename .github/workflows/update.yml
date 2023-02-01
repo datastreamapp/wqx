@@ -43,6 +43,7 @@ jobs:
         run: |
           npm run download
           npm run build
+          npm run lint
       - name: Check for file changes
         run: |
           git status --porcelain
