@@ -460,6 +460,7 @@ export default {
   '(E)-5H-Perfluorooct-6-ene-1-sulfonic acid': '',
   '(E)-6-Methyl-3-undecene': '; Request Date: 02-MAR-07',
   '(E)-6H-Perfluoronon-7-ene-1-sulfonic acid': '',
+  '(E)-Cinnamic acid': '(E)-Cinnamic acid',
   '(E)-Dimethomorph': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   '(E)-Hex-2-en-4-yne': 'Minnesota IT Services at MPCA ',
   '(E)-Oct-2-ene': 'Minnesota IT Services at MPCA ',
@@ -1998,7 +1999,7 @@ export default {
   '1,2,3,5,6,7-Hexachloronaphthalene': 'NWIS',
   '1,2,3,5,6,8-Hexachloronaphthalene': '; Request Date: 18-OCT-18',
   '1,2,3,5,6-Pentachloro-1,1,2,3,4,4,5,6,6-nonafluorohexane': '',
-  '1,2,3,5,7,8-Hexachloronaphthalene': '; Request Date: 31-JUL-15',
+  '1,2,3,5,7,8-Hexachloronaphthalene': '1,2,3,5,7,8-Hexachloronaphthalene ',
   '1,2,3,5-Tetrachlorobenzene': '; Request Date: 02-MAR-07',
   '1,2,3,5-Tetrachloronaphthalene': 'NWIS',
   '1,2,3,5-Tetramethylbenzene': '; Request Date: 02-MAR-07',
@@ -2033,6 +2034,7 @@ export default {
   '1,2,3-Trichloro-4,5-dimethoxybenzene': 'NWIS',
   '1,2,3-Trichloro-4-nitrobenzene': '; Request Date: 24-SEP-19',
   '1,2,3-Trichlorobenzene': 'Nemi.gov; Request Date: 02-MAR-07',
+  '1,2,3-Trichloronaphthalene': '1,2,3-Trichloronaphthalene',
   '1,2,3-Trichloropropane': 'Nemi.gov; Request Date: 02-MAR-07',
   '1,2,3-Trimethylbenzene': '; Request Date: 02-MAR-07',
   '1,2,3-Trimethylcyclopentane': '; Request Date: 31-JUL-15',
@@ -2134,6 +2136,7 @@ export default {
   '1,2-Bis(2-chloroethoxy)ethane': '; Request Date: 02-MAR-07',
   '1,2-Bis(2-methyl-5-phenyl-3-thienyl)perfluorocyclopentene': '',
   '1,2-Bis(chlorosulfanyl)-1,1,2,2-tetrafluoroethane': '',
+  '1,2-Bis(pentabromophenyl)ethane': '1,2-Bis(pentabromophenyl)ethane',
   '1,2-Bis(pentafluoroethoxy)benzene': '',
   '1,2-Bis[di(propan-2-yloxy)phosphoryl]-3,3,4,4,5,5-hexafluorocyclopentene':
     '',
@@ -2176,6 +2179,8 @@ export default {
   '1,2-Dichloro-4-(trifluoromethyl)benzene': 'NWIS',
   '1,2-Dichloro-4-iodoperfluorobutane': '',
   '1,2-Dichlorobenzene-d4': '; Request Date: 29-NOV-11',
+  '1,2-Dichlorobenzene/1,4-dichlorobenzene':
+    '1,2-Dichlorobenzene/1,4-dichlorobenzene',
   '1,2-Dichlorobutane': '; Request Date: 02-MAR-07',
   '1,2-Dichlorodecafluorocyclohexane': '',
   '1,2-Dichloroethane': 'Nemi.gov; Request Date: 02-MAR-07',
@@ -2426,6 +2431,7 @@ export default {
   '1,3-Dinitroso-5-nitro-1,3,5-triazacyclohexane': 'NWIS',
   '1,3-Dioxan-2-amine,N,N-diethyl-2-(1,2,2,2-tetrafluoroethyl)-': '',
   '1,3-Dioxan-2-amine,N,N-diethyl-4-methyl-2-(1,2,2,2-tetrafluoroethyl)-': '',
+  '1,3-Dioxane': '1,3-dioxane',
   '1,3-Dioxane, 6-methyl-2,2,4,4-tetrakis(trifluoromethyl)-': '',
   '1,3-Dioxolan-2-amine, N,N,4-triethyl-2-(1,2,2,2-tetrafluoroethyl)-': '',
   '1,3-Dioxolan-2-amine, N,N-diethyl-4-methyl-2-(1,2,2,2-tetrafluoroethyl)-':
@@ -3222,6 +3228,8 @@ export default {
   '1-Chloro-1-[chloro(difluoro)methoxy]-1,2,2,2-tetrafluoroethane': '',
   '1-Chloro-2,2,3,3,4,4,5,5-octafluoro-1-isocyanatopentane': '',
   '1-Chloro-2,2,3,3-tetrafluorocyclobutane': '',
+  '1-Chloro-2,2-bis(4-chlorophenyl)ethene':
+    '1-Chloro-2,2-bis(4-chlorophenyl)ethene',
   '1-Chloro-2,2-dimethylpropane': '; Request Date: 02-MAR-07',
   '1-Chloro-2,3,3,4,4,5,5,6,6-nonafluorocyclohex-1-ene': '',
   '1-Chloro-2,3,3,4,4-pentafluorocyclobut-1-ene': '',
@@ -4495,6 +4503,7 @@ export default {
   '10-Chlorocarbamazepine': 'NWIS',
   '10-H-Perfluorodecanoic acid': '',
   '10-Hydrido-perfluoroundecane-1-sulfonic acid': '',
+  '10-Hydroxy-amitriptyline': '10-Hydroxy-amitriptyline',
   '10:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '10:2 Fluorotelomer dimethyl ethyl betaine': '',
   '10:2 Fluorotelomer ketone sulfonate': '',
@@ -4664,6 +4673,7 @@ export default {
   '15-H-Perfluoropentadecanoic acid': '',
   '16,16,17,17,18,18,19,19,20,20,21,21,22,22,22-Pentadecafluoro-3,6,9,12,15-pentaoxadocosan-1-ol':
     '',
+  '16-Epiestriol-2,4-d2': '16-Epiestriol-2,4-d2',
   '16-Epiestriol-d2': '; Request Date: 29-MAR-13',
   '16-H-Perfluorohexadecanoate': '',
   '16-H-Perfluorohexadecanoic acid': '',
@@ -4671,6 +4681,10 @@ export default {
   '17-H-Perfluoroheptadecanoate': '',
   '17-H-Perfluoroheptadecanoic acid': '',
   '17-Oxoestra-1,3,5(10)-trien-3-yl heptafluorobutanoate': '',
+  '17-alpha-Estradiol': '17-alpha-Estradiol',
+  '17-alpha-Estradiol-2,4-d2': '17-alpha-Estradiol-2,4-d2',
+  '17-alpha-Ethynylestradiol-2,4,16,16-d4':
+    '17-alpha-Ethynylestradiol-2,4,16,16-d4',
   '17-beta-Estradiol 17-glucuronide': 'NWIS',
   '17-beta-Estradiol 17-sulfate': 'NWIS',
   '17-beta-Estradiol 3-sulfate': 'NWIS',
@@ -6351,6 +6365,7 @@ export default {
   '2,4-D-d3': 'NWIS',
   '2,4-DB': 'Nemi.gov; Request Date: 02-MAR-07',
   '2,4-DIBDE': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
+  '2,4-Di-tert-amylphenol': '2,4-Di-tert-pentylphenol',
   '2,4-Diamino-6-nitrotoluene': 'NWIS',
   '2,4-Dibromo-3,3,4,4-tetrafluorobut-1-ene': '',
   "2,4-Dibromodiphenyl ether***retired***use 2,4'-DIBDE":
@@ -6687,6 +6702,8 @@ export default {
   '2-(Heptafluoropropyl)quinoline': '',
   '2-(Methyl((nonafluorobutyl)sulfonyl)amino)ethyl octacosanoate': '',
   '2-(Methylamino)-2-((nonafluorobutyl)sulfonyl)ethyl prop-2-enoate': '',
+  '2-(Methylsulfonyl)-4-(trifluoromethyl)benzoic acid':
+    'Diketonitrile-isoxaflutole benzoic acid analog',
   '2-(Methylsulfonyl)-4-(trifluoromethyl)benzoic acid (diketonitrile-isoxaflutole benzoic acid analog)':
     'NWIS',
   '2-(Methylthio)benzothiazole': '; Request Date: 02-MAR-07',
@@ -7183,6 +7200,7 @@ export default {
   '2-Ethyl-6-methylaniline': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   '2-Ethyl-m-xylene': 'Request Date: 3-Mar-07 (nps.gov cas# review)',
   '2-Ethyl-p-xylene': '; Request Date: 02-MAR-07',
+  '2-Ethylhexanal': '2-Ethylhexanal',
   '2-Ethylhexanoic acid': '; Request Date: 02-MAR-07',
   '2-Ethylhexanol': '; Request Date: 02-MAR-07',
   '2-Ethylhexyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate': '',
@@ -7273,9 +7291,13 @@ export default {
   '2-Hydroxy-3-oxo-3-[[3-(perfluoroundecyl)propanoyl]sulfanyl]propanoic acid':
     '',
   '2-Hydroxy-4-(n-octyloxy)benzophenone': 'NWIS',
+  '2-Hydroxy-4-isopropylamino-6-amino-s-triazine':
+    '2-Hydroxy-4-isopropylamino-6-amino-s-triazine',
   '2-Hydroxy-4-methoxybenzophenone': '; Request Date: 02-MAR-07',
   '2-Hydroxy-4-methyl-N-(1-oxo-3H-2-benzofuran-5-yl)-2-(1,1,2,2,2-pentafluoroethyl)-4-phenylpentanamide':
     '',
+  '2-Hydroxy-6-ethylamino-4-amino-s-triazine':
+    '2-Hydroxy-6-ethylamino-4-amino-s-triazine',
   '2-Hydroxy-N,N,N-trimethyl-3-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctane-1-sulfinyl)propan-1-aminium':
     '',
   '2-Hydroxy-N,N,N-trimethyl-3-[(perfluorobutyl)ethylthio]-1-propanaminium': '',
@@ -8466,6 +8488,7 @@ export default {
   '2-[2-(1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluorohexane-1-sulfonyl)ethenyl]thiophene':
     '',
   '2-[2-(2,2,3,3,4,4,4-Heptafluorobutoxy)ethoxy]ethan-1-ol': '',
+  '2-[2-(4-Nonylphenoxy)ethoxy]ethanol': '4-Nonylphenol diethoxylate',
   '2-[2-(Perfluorobutyl)ethylsulfanyl]acetic acid': '',
   '2-[2-(Perfluorododecyl)ethylsulfanyl]acetic acid': '',
   '2-[2-(Perfluorotetradecyl)ethoxyethoxy]ethanol': '',
@@ -9159,6 +9182,8 @@ export default {
   '3,4-Dichloro-perfluoro-1-methylbutyl perfluoro-2-propoxypropanoate': '',
   '3,4-Dichloroaniline': '; Request Date: 02-MAR-07',
   '3,4-Dichloroaniline-2,6-d2': 'NWIS',
+  '3,4-Dichlorobenzotrifluoride':
+    '1,2-Dichloro-4-(trifluoromethyl)benzene (3,4-Dichlorobenzotrifluoride)',
   '3,4-Dichlorobiphenyl': 'Nemi.gov; Request Date: 02-MAR-07',
   '3,4-Dichloroguaiacol': '; Request Date: 30-APR-15',
   '3,4-Dichloronitrobenzene': 'Nemi.gov; Request Date: 24-SEP-19',
@@ -10781,6 +10806,8 @@ export default {
   '4-Chloro-3,3,4,4-tetrafluoro-1-iodobut-1-ene': '',
   '4-Chloro-3,3,4,4-tetrafluorobutanal': '',
   '4-Chloro-3,5-dimethylphenol': '; Request Date: 22-JUL-14',
+  '4-Chloro-3,5-dinitrobenzotrifluoride':
+    '2-Chloro-1,3-dinitro-5-(trifluoromethyl)benzene (4-Chloro-3,5-dinitrobenzotrifluoride)',
   '4-Chloro-3-(heptafluoropropyl)-5-methylpyrazole': '',
   '4-Chloro-3-(heptafluoropropyl)-5-phenylpyrazole': '',
   '4-Chloro-3-hydroxyaniline': 'NWIS',
@@ -10823,11 +10850,16 @@ export default {
     'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '4-Epianhydrochlortetracycline (EATC)':
     'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  '4-Epianhydrochlortetracycline hydrochloride':
+    '4-Epianhydrochlortetracycline hydrochloride',
   '4-Epianhydrotetracycline': '; Request Date: 10-JUL-13',
   '4-Epianhydrotetracycline hydrochloride': 'NWIS',
   '4-Epichlortetracycline':
     'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)',
+  '4-Epichlortetracycline hydrochloride':
+    '4-Epichlortetracycline hydrochloride',
   '4-Epioxytetracycline': 'NWIS',
+  '4-Epitetracycline hydrochloride': '4-Epitetracycline hydrochloride',
   '4-Ethyl-1,2,2,3,3,4,5,5,6,6-decafluorocyclohexane-1-sulfonate': '',
   '4-Ethyl-2,2,6,6-tetramethylheptane': '',
   '4-Ethyl-2-(heptafluoropropyl)pyrimidine-5-carboxylic acid': '',
@@ -10878,6 +10910,7 @@ export default {
   '4-Hydroxy-3-(hydroxyimino)-4-(nonafluorobutyl)-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one':
     '',
   '4-Hydroxy-4-methyl-2-pentanone': '; Request Date: 02-MAR-07',
+  '4-Hydroxy-chlorothalonil': '4-Hydroxy-chlorothalonil',
   '4-Hydroxybenzophenone': 'NWIS',
   '4-Hydroxybenzotriazole': '; Request Date: 07-NOV-14',
   '4-Hydroxychlorothalonil': '',
@@ -11465,6 +11498,7 @@ export default {
   '5-[N-(4-Carboxybutyl)perfluorooctanesulfonamido]pentanoic acid': '',
   '5-[[Dimethyl(3-(perfluorohexyl)propyl)silyl]oxy]-3-methyl-1-pentyn-3-ol': '',
   '5-alpha-Androstanedione': 'NWIS',
+  '5-alpha-Dihydrotestosterone': '5-alpha-Dihydrotestosterone',
   '5-bromo-4,4,5,5-tetrafluoropentan-1-ol': '',
   '5-fluoro-2-methyl-6-(pentafluoroethyl)pyrimidin-4(1h)-one': '',
   '5-methylbenzotriazole***retired***use 5-Tolyltriazole':
@@ -11785,6 +11819,12 @@ export default {
   '>=C10 Alkenes': '',
   'A mixture of: bis[4-diphenylsulfoniumphenyl]sulfide-bishexafluoroantimonate; thiophenoxyphenylsulfonium hexafluoroantimonate':
     '',
+  "A'-Neo-22,29,30-trinorgammacerane, (17.alpha.)-":
+    '17alpha(H)-22,29,30-Trisnorhopane',
+  "A'-Neo-30-norgammacerane, (21.beta.)-": '17beta(H),21alpha(H)-30-Norhopane',
+  "A'-Neogammacerane": '17beta(H),21beta(H)-Hopane',
+  "A'-Neogammacerane, (17.alpha.)-": '17alpha(H),21beta(H)-Hopane',
+  "A'-Neogammacerane, (21.beta.)-": '17beta(H),21alpha(H)-Hopane',
   'AB-PINACA 4-hydroxypentyl': '; Request Date: 22-AUG-17',
   'AD-67 antidote': 'NWIS',
   AHTN: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -11884,6 +11924,8 @@ export default {
     '',
   'Acetamide, 2-(diethylamino)-N-(2,6-dimethylphenyl)-':
     '; Request Date: 30-MAY-13',
+  'Acetamide, 2-chloro-N-(2,6-diethylphenyl)-':
+    '2-Chloro-N-(2,6-diethylphenyl)acetamide',
   'Acetamide, 2-chloro-N-methyl-N-[4-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]phenyl]-':
     '',
   'Acetamide, 2-iodo-N-[4-[2,2,2-trifluoro-1,1-bis(trifluoromethyl)ethyl]phenyl]-':
@@ -12103,7 +12145,9 @@ export default {
   'Acetochlor ESA': '; Request Date: 22-JUL-14',
   'Acetochlor OA': '; Request Date: 22-JUL-14',
   'Acetochlor OXA': '',
+  'Acetochlor oxanilic acid': 'Acetochlor oxanilic acid',
   'Acetochlor sulfinylacetic acid': 'NWIS',
+  'Acetochlor sulfonic acid': 'Acetochlor sulfonic acid',
   'Acetochlor sulfynilacetic acid': 'NWIS',
   'Acetochlor-d11': 'NWIS',
   Acetohexamide: 'NWIS',
@@ -12129,6 +12173,8 @@ export default {
   'Acetyl norfentanyl': '; Request Date: 18-DEC-18',
   'Acetyl norfentanyl (hydrochloride)': '; Request Date: 06-AUG-18',
   'Acetyl tributyl citrate': '; Request Date: 08-APR-19',
+  'Acetyl-hexamethyl-tetrahydro-naphthalene':
+    'Acetyl-hexamethyl-tetrahydro-naphthalene',
   Acetylene: '; Request Date: 03-JUL-08',
   'Acibenzolar-S-methyl': '; Request Date: 29-NOV-10',
   'Acid - Base Potential': '; Request Date: 02-MAR-07',
@@ -12239,6 +12285,7 @@ export default {
   Alachlor: 'Nemi.gov; Request Date: 02-MAR-07',
   'Alachlor ESA': '; Request Date: 22-JUL-14',
   'Alachlor OA': '; Request Date: 22-JUL-14',
+  'Alachlor oxanilic acid': 'Alachlor oxanilic acid',
   'Alachlor sulfinylacetic acid': 'NWIS',
   'Alachlor sulfynilacetic acid': 'NWIS',
   'Alachlor-d13': 'NWIS',
@@ -12364,6 +12411,7 @@ export default {
   'Alpha radiation': 'Nemi.gov; Request Date: 24-SEP-19',
   'Alpha-terpinene': '',
   Alprazolam: '; Request Date: 22-JUL-14',
+  'Alprazolam-(phenyl-d5)': 'Alprazolam-(phenyl-d5)',
   'Alprazolam-D5': '; Request Date: 22-JUL-14',
   Altitude:
     'The height of an object above a standard reference point, such as sea level.; Request Date: 02-MAR-07',
@@ -12504,9 +12552,9 @@ export default {
   Anabasine: '; Request Date: 02-MAR-07',
   Anatoxin: 'Toxin produced by blue green algae.; Request Date: 02-MAR-07',
   'Anatoxin-A': '; Request Date: 14-SEP-15',
+  'Anatoxin-a equivalents': 'Anatoxin-a equivalents',
   Androstane: 'Request Date: 2-May-14 (nps.gov cas# review)',
-  'Androstane, (5.alpha.)-':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Androstane, (5.alpha.)-': '5-alpha-Androstane',
   'Androstenedione-d7': '; Request Date: 29-MAR-13',
   Androsterone: '; Request Date: 01-JUL-11',
   'Androsterone glucuronide': 'NWIS',
@@ -12665,6 +12713,7 @@ export default {
   Atraton: 'Nemi.gov; Request Date: 02-MAR-07',
   Atrazine: 'Nemi.gov; Request Date: 02-MAR-07',
   'Atrazine-13C3': 'NWIS',
+  'Atrazine-d5': 'Atrazine-d5',
   'Atrazine-d5 (ethyl-d5)': '; Request Date: 03-DEC-12',
   'Atterberg Classification': '; Request Date: 30-APR-15',
   'Atterberg Limits': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
@@ -13303,6 +13352,8 @@ export default {
     '; Request Date: 27-MAR-19',
   "Benzene, 1,2,3-tribromo-5-(3,4-dibromophenoxy)-***retired***use 3,3',4,4',5-PEBDE":
     'Request Date: 13-Apr-13 (nps.gov cas# review)',
+  'Benzene, 1,2,3-trichloro-4,5-dimethoxy-':
+    '1,2,3-Trichloro-4,5-dimethoxybenzene (3,4,5-Trichloroveratrole)',
   'Benzene, 1,2,3-trimethoxy-': '; Request Date: 24-SEP-19',
   'Benzene, 1,2,4,5-tetrachloro- and/or 1,2,3,5-Tetrachlorobenzene':
     '; Request Date: 22-JUL-14',
@@ -13585,6 +13636,8 @@ export default {
     'PFAS removal',
   'Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)- 2-(methylsulfonyl)-.beta.- oxo-4-(trifluoromethyl)-':
     '; Request Date: 01-JUL-11',
+  'Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)-2-(methylsulfonyl)-.beta.-oxo-4-(trifluoromethyl)-':
+    'Diketonitrile-isoxaflutole',
   'Benzenepropanoic acid, .beta.-amino-3-(1,1,2,2-tetrafluoroethoxy)-': '',
   'Benzenepropanol, -chloro-3-nitro-.alpha.,.alpha.-bis(trifluoromethyl)-': '',
   'Benzenepropanol, .alpha.,.alpha.-bis(trifluoromethyl)-': '',
@@ -13714,6 +13767,8 @@ export default {
     '',
   'Benzoic acid, 2,3,4,5-tetrachloro-6-[[[3-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]oxy]phenyl]amino]carbonyl]-, potassium salt (1:1)':
     '',
+  'Benzoic acid, 2-(methylsulfonyl)-4-(trifluoromethyl)-, methyl ester':
+    'Isoxaflutole methylbenzoate RPA204',
   'Benzoic acid, 2-(phenylthio)-, 2,2,2-trifluoro-1-phenyl-1-(trifluoromethyl)ethyl ester+E955':
     '',
   'Benzoic acid, 2-chloro-4-fluoro-5-(2-methoxy-6-oxo-4-(pentafluoroethyl)-1(6H)-pyrimidinyl)-, 1-methyl ethyl ester':
@@ -14245,6 +14300,7 @@ export default {
   'Busulfan-d8': '; Request Date: 24-MAR-14',
   'But-2-en-1-yl 2-fluoro-3-methyl-2-(trifluoromethyl)pent-4-enoate': '',
   'But-3-en-2-yl 2-fluoro-2-(trifluoromethyl)hex-4-enoate': '',
+  Butabarbital: 'Butabarbital',
   Butacarb: 'NWIS',
   Butachlor: 'Nemi.gov; Request Date: 02-MAR-07',
   'Butachlor ESA': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
@@ -14624,6 +14680,7 @@ export default {
   'CFC-113': 'Request Date: 22-JUL-14',
   'CFC-113a': '; Request Date: 02-MAR-07',
   'CFC-114': 'Request Date: 22-JUL-14',
+  'CFC-115': 'Chloropentafluoroethane',
   'CFC-12':
     '1040;Nemi.govRequest Date: 22-JUL-14| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'COWM2 DNA marker': '; Request Date: 08-OCT-19',
@@ -14636,6 +14693,7 @@ export default {
   Cadusaphos: 'NWIS',
   'Caesium perfluoroheptanoate': '',
   Caffeine: 'Nemi.gov; Request Date: 22-JUL-14',
+  'Caffeine-(trimethyl-13C3)': 'Caffeine-(trimethyl-13C3)',
   'Caffeine-13C': 'Request Date: 30-Mar-13 (nps.gov cas# review)',
   'Caffeine-d9': 'NWIS',
   'Caffeine-trimethyl-13C3': '; Request Date: 22-JUL-14',
@@ -14760,6 +14818,7 @@ export default {
   'Carbofuran-13C6': '; Request Date: 11-MAR-19',
   'Carbofuran-7-phenol': 'NWIS',
   'Carbofuran-D3': '; Request Date: 22-JUL-14',
+  'Carbofuran-d3 (N-methyl-d3)': 'Carbofuran-d3 (N-methyl-d3)',
   Carbon: 'Nemi.gov; Request Date: 02-MAR-07',
   'Carbon Delta': '',
   'Carbon Delta 13': '1; Request Date: 14-JUN-18',
@@ -14857,6 +14916,7 @@ export default {
   'Cesium-137': 'Cesium, atomic number 55.Nemi.gov; Request Date: 22-JUL-14',
   'Cesium-144': 'NWIS',
   Ceterizine: 'NWIS',
+  Cetirizine: 'Cetirizine',
   'Cetirizine dihydrochloride': 'NWIS',
   'Chamber area': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   'Changes in Stream depth and Velocity patterns (Y/N) (choice list)': '',
@@ -15088,6 +15148,10 @@ export default {
   'Cholestan-3-ol, 5,6-epoxy-25,26,26,26,27,27,27-heptafluoro-, (3.beta.,5.beta.,6.beta.)-':
     '',
   Cholestane: '; Request Date: 14-APR-15',
+  'Cholestane, (5.alpha.)-':
+    '(20R)-5.alpha.(H),14.alpha.(H),17.alpha.(H)-Cholestane',
+  'Cholestane, 4-methyl-, (4?,5?)-':
+    '4alpha-Methyl-5alpha(H),14alpha(H),17alpha(H)-cholestane (C28)',
   Cholesterol: 'Nemi.gov; Request Date: 22-JUL-14',
   'Cholesterol, pentafluoropropionate': '',
   'Cholesterol-d7': '; Request Date: 29-MAR-13',
@@ -15184,6 +15248,7 @@ export default {
     'NWIS',
   'Clothianidin-D3-Neg': 'surrogates',
   'Clothianidin-d3': '1; Request Date: 11-FEB-19',
+  'Clothianidin-d3 (N-methyl-d3)': 'Clothianidin-d3 (N-methyl-d3)',
   Clotrimazole: '; Request Date: 24-MAR-14',
   'Clotrimazole-d5': '; Request Date: 24-MAR-14',
   'Cloud cover':
@@ -15729,6 +15794,7 @@ export default {
     'Request Date: 4-Dec-12 (nps.gov cas# review)',
   'DCPA mono-acid degradate': 'Nemi.gov; Request Date: 24-SEP-19',
   'DCPA-d6': 'NWIS',
+  'DCPA-d6 (dimethyl-d6)': 'DCPA-d6 (dimethyl-d6)',
   DCPU: 'NWIS',
   "DDD, o,o'-, o,p'-, and p,p'- isomers": '; Request Date: 22-JUL-14',
   "DDD, o,p'- and p,p'- isomers": '; Request Date: 22-JUL-14',
@@ -15853,6 +15919,7 @@ export default {
   Deltamethrin: '; Request Date: 22-JUL-14',
   'Deltamethrin mixt. with Tralomethrin': '; Request Date: 24-MAR-14',
   Demeclocycline: '; Request Date: 10-JUL-13',
+  'Demethyl fluometuron': 'Demethyl fluometuron',
   'Demethyl hexazinone B': 'NWIS',
   Demethylfluometuron: '; Request Date: 14-FEB-19',
   Demeton: '; Request Date: 22-JUL-14',
@@ -15910,6 +15977,8 @@ export default {
   'Des-N-isopropyl isofenphos': 'NWIS',
   'Des-N-isopropyl isofenphos oxygen analog': 'NWIS',
   'Desacetyl diltiazem': 'NWIS',
+  'Desamino metribuzin': 'Desamino metribuzin',
+  'Desamino-diketo metribuzin': 'Desamino-diketo metribuzin',
   'Desethyl-desisopropyl Atrazine***retired***use 2-Chloro-4,6-diamino-s-triazine':
     'Request Date: 7-Jun-15 (nps.gov cas# review)',
   'Desethylatrazine (iso-propyl-D7)': '; Request Date: 11-FEB-19',
@@ -15934,6 +16003,7 @@ export default {
   Desulfinylfipronil:
     'Request Date: 11-Sep-14 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Desulfinylfipronil amide': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
+  Desvenlafaxine: 'Desvenlafaxine',
   'Detergent, severity (choice list)': '; Request Date: 02-MAR-07',
   'Detritus Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Detritus, coarse particle organic matter':
@@ -15996,6 +16066,7 @@ export default {
   'Diatom conversion factor': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   Diatoms:
     'Unicellular algae, some of which are colonial, green or brownish in color, containing chlorophyll, and with siliceous and often highly sculptured cell walls.; Request Date: 22-JUL-14',
+  Diatrizoate: 'Diatrizoate',
   'Diatrizoic acid': '; Request Date: 24-MAR-14',
   'Diatrizoic acid-d6': 'Request Date: 25-Mar-14 (nps.gov cas# review)',
   Diazepam: '; Request Date: 22-JUL-14',
@@ -16005,6 +16076,7 @@ export default {
     'Request Date: 30-JAN-14| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Diazinon-D10':
     'Request Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Diazinon-d10 (diethyl-d10)': 'Diazinon-d10 (diethyl-d10)',
   Diazoxon: '; Request Date: 22-JUL-14',
   'Dibenz(a,h)+(a,c) Anthracene': '; Request Date: 31-JAN-18',
   'Dibenz[a,c]anthracen***retired***use Dibenz[a,c]anthracene':
@@ -16204,6 +16276,7 @@ export default {
   'Diethylmethoxy(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)silane': '',
   'Diethylstilbesterol glucuronide': 'NWIS',
   Diethylstilbestrol: '; Request Date: 02-MAR-07',
+  'Diethylstilbestrol glucuronide': 'Diethylstilbestrol glucuronide',
   'Diethylstilbestrol glucuronide (DES-GlcA)': 'NWIS',
   Difenoconazole: '; Request Date: 01-AUG-13',
   'Difenoconazole-D4': 'surrogates',
@@ -16458,6 +16531,7 @@ export default {
   'Disulfoton oxon sulfone': 'NWIS',
   'Disulfoton oxon sulfoxide': 'NWIS',
   'Disulfoton sulfone': 'Request Date: 3-Mar-07 (nps.gov cas# review)',
+  'Disulfoton sulfoxide': 'Disulfoton sulfoxide',
   Dithiopyr: '; Request Date: 08-OCT-19',
   Diuron: 'Nemi.gov; Request Date: 22-JUL-14',
   'Diuron Metabolite': '; Request Date: 22-JUL-14',
@@ -16630,12 +16704,15 @@ export default {
   'Epifaunal Substrate':
     'A physical description of the epifaunal substrate including clay/bedrock, mud/clay, gravel/sand, and others, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 25-AUG-16',
   Epiisochlorotetracycline: 'NWIS',
+  Epioxytetracycline: 'Epioxytetracycline',
   Epitestosterone: '; Request Date: 01-JUL-11',
+  Epitetracycline: 'Epitetracycline',
   Eprosartan: '; Request Date: 27-OCT-17',
   Equilenin: 'Nemi.gov; Request Date: 02-MAR-07',
   'Equilenin sulfate': 'NWIS',
   Equilin: '; Request Date: 02-MAR-07',
   'Equilin sulfate': 'NWIS',
+  'Equilin-2,4,16,16-d4': 'Equilin-2,4,16,16-d4',
   'Equilin-d4': '; Request Date: 24-MAR-14',
   Equol: '; Request Date: 10-JUL-13',
   Erbium: '; Request Date: 22-JUL-14',
@@ -16649,6 +16726,7 @@ export default {
   Erythromycin: 'Nemi.gov; Request Date: 02-MAR-07',
   'Erythromycin A dihydrate': '',
   'Erythromycin-H20': '; Request Date: 01-JUL-11',
+  'Erythromycin-H2O': 'Erythromycin-H2O',
   'Erythromycin-H2O-13C2': '; Request Date: 24-MAR-14',
   'Erythromycin-anhydro': 'Nemi.gov; Request Date: 30-MAY-13',
   Escherichia: 'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
@@ -16896,6 +16974,8 @@ export default {
     '',
   'Ethanol, mixt. with 1,1,2-trichloro-1,2,2-trifluoroethane': '',
   'Ethanol-d': '; Request Date: 02-MAR-07',
+  'Ethanone, 1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)-':
+    '1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)ethanone (OTNE)',
   'Ethanone, 1-(2,3-dihydro-1,1,2,3,3,6-hexamethyl-1H-inden-5-yl)-':
     '; Request Date: 05-DEC-12',
   'Ethanone, 1-(2,4-dichlorophenyl)-': '; Request Date: 21-NOV-14',
@@ -17301,6 +17381,7 @@ export default {
   Fenarimol: 'Nemi.gov; Request Date: 22-JUL-14',
   Fenbendazole: '; Request Date: 22-JUL-14',
   Fenbuconazole: '; Request Date: 01-AUG-13',
+  'Fenbutatin oxide': 'Fenbutatin oxide',
   'Fenbutatin-oxide': '; Request Date: 01-APR-15',
   Fenchone: '; Request Date: 02-MAR-07',
   Fenhexamid: '',
@@ -17315,6 +17396,7 @@ export default {
   Fenpyrazamine: 'NWIS',
   Fenpyroximate: 'NWIS',
   Fensulfothion: 'Nemi.gov; Request Date: 22-JUL-14',
+  Fentanyl: 'Fentanyl',
   Fenthion: 'Nemi.gov; Request Date: 22-JUL-14',
   'Fenthion sulfone': 'NWIS',
   'Fenthion sulfone oxygen analog': 'NWIS',
@@ -17348,6 +17430,7 @@ export default {
   'Fipronil Sulfide':
     'Request Date: 29-MAY-19| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Fipronil Sulfone': '; Request Date: 22-JUL-14',
+  'Fipronil amide': 'Fipronil amide',
   'Fipronil sulfonate': 'NWIS',
   'Fipronil-13C4-15N2': 'NWIS',
   'FireMaster BP 6': '; Request Date: 02-MAR-07',
@@ -17448,6 +17531,8 @@ export default {
   Flufenacet: '; Request Date: 29-NOV-10',
   'Flufenacet ESA': 'Request Date: 26-Sep-19 Nemi.gov (nps.gov cas# review)',
   'Flufenacet OA': '; Request Date: 01-JUL-11',
+  'Flufenacet oxanilic acid': 'Flufenacet oxanilic acid',
+  'Flufenacet sulfonic acid': 'Flufenacet sulfonic acid',
   Fluindapyr: 'NWIS',
   Flumequine: '; Request Date: 10-JUL-13',
   Flumetralin: 'Nemi.gov; Request Date: 25-SEP-19',
@@ -17545,6 +17630,7 @@ export default {
   'Formic acid': '; Request Date: 02-MAR-07',
   'Formic acid, compd. with 2,2,3,4,4,4-hexafluoro-1-butanol (1:1)': '',
   'Formic acid--3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctan-1-ol (1/1)': '',
+  Formonentin: 'Formonentin',
   Formononetin: '; Request Date: 10-JUL-13',
   'Fosamine-ammonium': '; Request Date: 02-MAR-07',
   'Fractionated particulate size': '; Request Date: 07-JUN-18',
@@ -17608,6 +17694,7 @@ export default {
   'GFD DNA marker (purified)': '; Request Date: 08-OCT-19',
   'GULL2 DNA marker': '; Request Date: 08-OCT-19',
   'GULL2 DNA marker (purified)': '; Request Date: 08-OCT-19',
+  Gabapentin: 'Gabapentin',
   Gadolinium: '; Request Date: 22-JUL-14',
   'Gage height***retired***use Height, gage': '; Request Date: 27-MAR-19',
   Galactosan: '',
@@ -17617,6 +17704,7 @@ export default {
   'Gamma linolenic acid':
     'Wisconsin DNR - Rehwald, Matt - DNR <Matt.Rehwald@wisconsin.gov>; Request Date: 05-OCT-16',
   'Gamma radiation': 'NWIS',
+  'Gamma-cyhalothrin': 'gamma-Cyhalothrin',
   Garlon: '',
   'Gas Range Organics (C6-C10)': '; Request Date: 26-JAN-18',
   'Gas bubble severity (choice list)': '; Request Date: 02-MAR-07',
@@ -17814,6 +17902,7 @@ export default {
   'HCFC-122a': '; Request Date: 12-MAR-15',
   'HCFC-123': '; Request Date: 02-MAR-07',
   'HCFC-123A': '; Request Date: 03-JUL-08',
+  'HCFC-142b': '1-Chloro-1,1-difluoroethane',
   'HCFC-21': '; Request Date: 02-MAR-07',
   'HCFC-22':
     'Request Date: 22-JUL-14| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -17905,6 +17994,7 @@ export default {
   'Helium-3/helium-4 ratio': 'NWIS',
   'Helium-4': 'NWIS',
   Helleborein: '; Request Date: 02-MAR-07',
+  'Hellium-3': 'Helium-3/helium-4',
   Heneicosane: '; Request Date: 02-MAR-07',
   'Henicosafluoroundec-7-ene-1-sulfonic acid': '',
   'Hentriacontafluorohexadecanoate anion': '',
@@ -18033,6 +18123,7 @@ export default {
     'Request Date: 25-MAR-10| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Hexachlorobenzene:
     'Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Hexachlorobenzene-13C6': 'Hexachlorobenzene-13C6',
   Hexachlorobenzine:
     'Request Date: 23-Jul-14 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Hexachlorobiphenyl: '; Request Date: 02-MAR-07',
@@ -18043,6 +18134,7 @@ export default {
   'Hexachlorodibenzo-p-dioxin': '; Request Date: 02-MAR-07',
   Hexachlorodibenzofuran: '; Request Date: 22-JUL-14',
   Hexachloroethane: 'Nemi.gov; Request Date: 22-JUL-14',
+  Hexachloronaphthalene: 'Hexachloronaphthalenes',
   Hexachlorophene: '; Request Date: 22-JUL-14',
   Hexachloropropene: 'Nemi.gov; Request Date: 22-JUL-14',
   Hexaconazole: '',
@@ -18376,6 +18468,7 @@ export default {
   'Ibuprofen***retired***use Benzeneacetic acid, .alpha.-methyl-4-(2-methylpropyl)-':
     'Request Date: 2-Aug-19 (nps.gov cas# review)',
   'Ibuprofen-13C3': '; Request Date: 22-JUL-14',
+  'Ibuprofen-d3': 'Ibuprofen-d3',
   'Ice cover, floating or solid - severity (choice list)':
     '; Request Date: 02-MAR-07',
   'Ice cover, floating or solid, as % area estimate': '14;',
@@ -18397,6 +18490,7 @@ export default {
   'Imidacloprid desnitro': 'NWIS',
   'Imidacloprid desnitro-olefin': '; Request Date: 13-MAY-15',
   'Imidacloprid desnitro-olefin hydrochloride': '; Request Date: 13-MAY-15',
+  'Imidacloprid urea': 'Imidacloprid urea',
   'Imidacloprid-d4': '; Request Date: 11-FEB-19',
   'Imidacloprid-olefin': '; Request Date: 13-MAY-15',
   'Imidacloprid-urea': 'Request Date: 14-May-15 (nps.gov cas# review)',
@@ -18545,6 +18639,7 @@ export default {
   'Iprodione amide': 'NWIS',
   'Iprodione isomer': 'NWIS',
   'Iprodione metabolite': 'NWIS',
+  'Iprodione metabolite rp30228': 'Iprodione metabolite rp30228',
   'Iprodione urea': 'NWIS',
   'Iprodione-d5': 'NWIS',
   Irbesartan: '; Request Date: 27-OCT-17',
@@ -18588,6 +18683,7 @@ export default {
   'Isobutylene-Tetrafluoroethylene copolymer': '',
   Isobutyraldehyde: '; Request Date: 02-MAR-07',
   'Isobutyric acid': '; Request Date: 01-MAY-13',
+  Isochlorotetracycline: 'Isochlorotetracycline',
   Isochlortetracycline:
     'Request Date: 2-Oct-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Isocyanic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester': '',
@@ -18661,6 +18757,9 @@ export default {
   'Kojic acid': '; Request Date: 02-MAR-07',
   'Kresoxim-methyl': '; Request Date: 02-NOV-12',
   'Kresoxim-methyl metabolote': 'NWIS',
+  'Kresoxim-methyl metabolote BF490-1': 'Kresoxim-methyl metabolote BF490-1',
+  'Kresoxim-methyl metabolote BF490-2': 'Kresoxim-methyl metabolote BF490-2',
+  'Kresoxim-methyl metabolote BF490-9': 'Kresoxim-methyl metabolote BF490-9',
   Krypton: 'NWIS',
   'Krypton-78': 'NWIS',
   'Krypton-78/Krypton-84 error': 'NWIS',
@@ -18686,6 +18785,7 @@ export default {
   'L-3,4-Dihydroxyphenylalanine': 'NWIS',
   "L-Alaninamide, glycyl-N-(2-mercaptoethyl)-, 2,2'-disulfide bis(trifluoroacetate)":
     'PFAS removal',
+  'L-Alanine, 3-(methylamino)-': 'beta-N-Methylamino-L-alanine',
   'L-Alanine-7-amido-4-methylcoumarin':
     'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'L-Arginine-7-amido-4-methylcoumarin':
@@ -18708,6 +18808,7 @@ export default {
     'PFAS removal',
   'L-Proline, 4,4-difluoro-, compd. with2,2,2-trifluoroacetic acid (1:1)':
     'PFAS removal',
+  'L-Thyroxine': 'Levothyroxine',
   'L-alanine (corrected for carbon content)': '; Request Date: 24-NOV-09',
   'L-arginine aminopeptidase (corrected for carbon content)':
     '; Request Date: 24-NOV-09',
@@ -19608,6 +19709,8 @@ export default {
     'Request Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Metolachlor OA': '; Request Date: 22-JUL-14',
   'Metolachlor hydroxy morpholinone': 'NWIS',
+  'Metolachlor oxanilic acid': 'Metolachlor oxanilic acid',
+  'Metolachlor sulfonic acid': 'Metolachlor sulfonic acid',
   'Metolachlor-d6': '1;NWIS',
   Metolcarb: 'NWIS',
   Metoprolol: '; Request Date: 22-JUL-14',
@@ -19616,6 +19719,7 @@ export default {
   'Metribuzin DA': '; Request Date: 22-JUL-14',
   'Metribuzin DADK': '; Request Date: 22-JUL-14',
   'Metribuzin DK': '; Request Date: 22-JUL-14',
+  'Metribuzin diketo': 'Metribuzin diketo',
   Metrizoate: 'NWIS',
   Metronidazole: '; Request Date: 24-MAR-14',
   'Metronidazole-d4': '; Request Date: 24-MAR-14',
@@ -20775,6 +20879,7 @@ export default {
   Naegleria: 'TAXON: Animalia Kingdom; Request Date: 02-MAR-07',
   Naled: '; Request Date: 22-JUL-14',
   'Nalidixic acid': '; Request Date: 02-MAR-07',
+  'Nandrolone-16,16,17-d3': 'Nandrolone-16,16,17-d3',
   'Nandrolone-d3': '; Request Date: 29-MAR-13',
   Naphtha:
     'Refined, partly refined, or unrefined petroleum products produced by the distillation of natural gas.  It consists of hydrocarbons having carbon numbers predominantly in the range of C5 through C6; Request Date: 02-MAR-07',
@@ -20866,6 +20971,7 @@ export default {
   Niclosamide: '; Request Date: 01-APR-15',
   Nicosulfuron: '; Request Date: 02-MAR-07',
   'Nicosulfuron-d6': 'NWIS',
+  'Nicosulfuron-d6 (dimethoxy-d6)': 'Nicosulfuron-d6 (dimethoxy-d6)',
   Nicotinamide: '; Request Date: 22-JUL-14',
   Nicotine: '; Request Date: 09-JAN-08',
   'Nicotinic acid': '; Request Date: 02-MAR-07',
@@ -21040,6 +21146,7 @@ export default {
   'Nonyl sulfate': 'NWIS',
   Nonylphenol: '; Request Date: 22-JUL-14',
   'Nonylphenol diethoxylate': '; Request Date: 22-JUL-14',
+  'Nonylphenoxyacetic acid': 'Nonylphenoxyacetic acid',
   Norbuprenorphine: '; Request Date: 30-MAY-13',
   Norcarfentanil: '; Request Date: 06-AUG-18',
   'Norcarfentanil (hydrochloride)': '; Request Date: 29-OCT-18',
@@ -21050,6 +21157,7 @@ export default {
   'Norethindrone-d6': '; Request Date: 24-OCT-19',
   Norethisterone: '; Request Date: 02-MAR-07',
   Norethynodrel: '; Request Date: 02-MAR-07',
+  Norfentanyl: 'Norfentanyl',
   Norfloxacin: '; Request Date: 01-JUL-11',
   Norfluoxetine: '1; Request Date: 10-JUL-13',
   'Norfluoxetine oxalate': '; Request Date: 22-JUL-14',
@@ -21319,6 +21427,7 @@ export default {
   Orthosulfamuron: 'NWIS',
   Oryzalin: '; Request Date: 22-JUL-14',
   Oseltamivir: '; Request Date: 02-FEB-15',
+  'Oseltamivir acid': 'Oseltamivir acid',
   'Oseltamivir carboxylate': 'NWIS',
   Osmium: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Osmotic pressure':
@@ -22797,6 +22906,8 @@ export default {
     '; Request Date: 02-MAR-07',
   'Phenanthrene, 1,1,2,2,3,3,4,4,4a,4b,5,5,6,6,7,7,8,8,8a,9,9,10,10,10a-tetracosafluorotetradecahydro-':
     '',
+  'Phenanthrene, tetracosafluorotetradecahydro-':
+    'Tetracosafluorotetradecahydrophenanthrene',
   'Phenanthrene, tetracosafluorotetradecahydro-, homopolymer': 'PFAS removal',
   'Phenanthrene-1,4-dione': 'NWIS',
   'Phenanthrene-d10': '; Request Date: 22-JUL-14',
@@ -22852,6 +22963,7 @@ export default {
     '',
   "Phenol, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis[2-nitro-":
     '',
+  "Phenol, 4,4'-methylenebis-": "4,4'-Bisphenol F",
   'Phenol, 4,5-dichloro-2-methoxy-': '; Request Date: 20-MAY-10',
   'Phenol, 4-(1,1,2,2-tetrafluoroethoxy)-': '',
   'Phenol, 4-(2,2,3,3,4,4,5,5-octafluoropentyl)-': '',
@@ -22886,6 +22998,7 @@ export default {
   'Phenyl(tridecafluorohexyl)iodanium tetrafluoridoborate(1-)': '',
   'Phenyl(tridecafluorohexyl)iodanium trifluoromethanesulfonate': '',
   'Phenyl-.beta.-D-glucuronide': 'NWIS',
+  'Phenyl-beta-D-glucuronide': 'Phenyl-beta-D-glucuronide',
   'Phenyl[({[(5,5,6,6,7,7,8,8,9,9,10,10,10-tridecafluoro-2-methyldecan-2-yl)oxy]carbonyl}oxy)imino]acetonitrile':
     '',
   Phenylacetaldehyde: '; Request Date: 02-MAR-07',
@@ -23835,11 +23948,15 @@ export default {
   Profluralin: '; Request Date: 22-JUL-14',
   Progesterone: 'Nemi.gov; Request Date: 02-MAR-07',
   'Progesterone-13C3': '; Request Date: 29-MAR-13',
+  'Progesterone-2,2,4,6,6,17a,21,21,21-d9':
+    'Progesterone-2,2,4,6,6,17a,21,21,21-d9',
+  'Progesterone-2,3,4-13C3': 'Progesterone-2,3,4-13C3',
   'Progesterone-d9': '; Request Date: 29-MAR-13',
   Progestrone: '',
   Proglumide: 'NWIS',
   'Proline, 1-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)sulfonyl]-, lithium salt':
     '',
+  Promecarb: 'Promecarb',
   Promecard: '; Request Date: 10-SEP-18',
   Promethazine: '; Request Date: 22-JUL-14',
   'Promethazine-d4': '; Request Date: 24-MAR-14',
@@ -23859,6 +23976,7 @@ export default {
   Propachlor: 'Nemi.gov; Request Date: 22-JUL-14',
   'Propachlor ESA': '; Request Date: 22-JUL-14',
   'Propachlor OA': '; Request Date: 22-JUL-14',
+  'Propachlor oxanilic acid': 'Propachlor oxanilic acid',
   Propadiene: '',
   Propamocarb: '; Request Date: 08-APR-19',
   'Propan-2-yl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate': '',
@@ -24192,6 +24310,7 @@ export default {
     '',
   'Propanoic acid, 2-[bis[(2,2,2-trifluoroacetyl)oxy]phosphinyl]-, methyl ester':
     'PFAS removal',
+  'Propanoic acid, 2-bromo-': '2-Bromopropionic acid',
   'Propanoic acid, 2-bromo-3,3,3-trifluoro-2-(trifluoromethyl)-, ethyl ester':
     '',
   'Propanoic acid, 3,3,3-trifluoro-, 2,2,3,3-tetrafluoropropyl ester': '',
@@ -24426,6 +24545,7 @@ export default {
     'Request Date: 06-JUN-14| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Pyrasulfotole Technical': 'Request Date: 2-Apr-15 (nps.gov cas# review)',
   Pyrausta: 'NWIS',
+  'Pyrazine, 2-methoxy-3-(2-methylpropyl)-': '2-Isobutyl-3-methoxypyrazine',
   'Pyrazine, 2-methoxy-5-methyl-': '; Request Date: 25-MAR-10',
   Pyrazon: '; Request Date: 02-MAR-07',
   Pyrene: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -25027,6 +25147,7 @@ export default {
   'Secchi, Horizontal Distance':
     'GLEON database url: http://gleon.org/; Request Date: 17-MAR-16',
   Secernentea: 'NWIS',
+  Secobarbital: 'Secobarbital',
   'Secobarbital-d5': 'NWIS',
   Seconal: '; Request Date: 22-JUL-14',
   'Second PCB total for IADN':
@@ -25702,6 +25823,8 @@ export default {
   Stictochironomus: 'NWIS',
   'Stigmast-4-en-3-one': 'NWIS',
   'Stigmastan-3.beta.-ol': 'Nemi.gov; Request Date: 02-MAR-07',
+  'Stigmastane, 4-methyl-, (4.alpha.,5.alpha.)-':
+    '4alpha-Methyl-24R-ethyl-5alpha(H),14alpha(H),17alpha(H)-cholestane (C30)',
   Stigmastanol: '',
   Stigmasterol: 'Nemi.gov; Request Date: 25-SEP-19',
   Stilobezzia: 'NWIS',
@@ -25857,6 +25980,7 @@ export default {
   'Sulfamethazine-13C6': '; Request Date: 24-MAR-14',
   Sulfamethizole: 'Nemi.gov; Request Date: 10-JUL-13',
   Sulfamethoxazole: 'Nemi.gov; Request Date: 02-MAR-07',
+  'Sulfamethoxazole-(phenyl-13C6)': 'Sulfamethoxazole-(phenyl-13C6)',
   'Sulfamethoxazole-13C6': '; Request Date: 22-JUL-14',
   Sulfanilamide: 'Nemi.gov; Request Date: 10-JUL-13',
   Sulfapyridine: '',
@@ -26087,12 +26211,15 @@ export default {
   'Tebuconazole tert-Butylhydroxy': 'NWIS',
   'Tebuconazole-d6': 'NWIS',
   Tebufenozide: '; Request Date: 29-NOV-10',
+  Tebupirimfos: 'Tebupirimfos',
   'Tebupirimphos oxon': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   Tebuthiuron: 'Nemi.gov; Request Date: 22-JUL-14',
   'Tebuthiuron TP 104': 'NWIS',
   'Tebuthiuron TP 106': 'NWIS',
   'Tebuthiuron TP 109 (OH)': 'NWIS',
   'Tebuthiuron Transformation Product 108': 'NWIS',
+  'Tebuthiuron Transformation Product 109':
+    'Tebuthiuron Transformation Product 109',
   Technetium: '; Request Date: 09-JAN-08',
   'Technetium-99': 'Technetium, atomic number 43.; Request Date: 22-JUL-14',
   'Technitium-99':
@@ -26161,6 +26288,7 @@ export default {
   Testosterone: 'Nemi.gov; Request Date: 22-JUL-14',
   'Testosterone glucuronide': 'NWIS',
   'Testosterone sulfate': 'NWIS',
+  'Testosterone-2,2,4,6,6-d5': 'Testosterone-2,2,4,6,6-d5',
   'Testosterone-d3': 'NWIS',
   'Testosterone-d5': '; Request Date: 29-MAR-13',
   Testudinella: 'NWIS',
@@ -26189,6 +26317,7 @@ export default {
   Tetrachloroethylene:
     '1040;Request Date: 22-JUL-14| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Tetrachloroguaiacol: '; Request Date: 02-MAR-07',
+  Tetrachloronaphthalene: 'Tetrachloronaphthalenes',
   Tetrachlorophenol: '; Request Date: 22-JUL-14',
   Tetrachlorophthalonitrile: 'NWIS',
   Tetrachlorvinphos: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -26482,6 +26611,7 @@ export default {
     '; Request Date: 04-OCT-18',
   'Torrent Scouring-There are gravel or cobble berms (little levees) above bankfull level (Y/N) (choice list)':
     '; Request Date: 04-OCT-18',
+  Torsemide: 'Torsemide',
   Tortricidae: 'NWIS',
   'Total Atmospheric': '',
   'Total BHCs + Lindane': '; Request Date: 07-NOV-14',
@@ -26836,6 +26966,7 @@ export default {
   'Triethylammonium perfluorohexane sulfonate': '',
   'Triethylammonium perfluorooctane sulfonate': '',
   'Triethylammonium perfluoropentane sulfonate': '',
+  'Triethylene glycol': 'Triethylene glycol',
   'Triethylene glycol dimethyl ether': '; Request Date: 02-MAR-07',
   'Triethylene glycol monobutyl ether': '; Request Date: 02-MAR-07',
   'Triethylene glycol monotetradecyl ether': 'NWIS',
@@ -26850,6 +26981,7 @@ export default {
   Trifluralin: 'Nemi.gov; Request Date: 02-MAR-07',
   'Trifluralin-d10': 'NWIS',
   'Trifluralin-d14': 'NWIS',
+  'Trifluralin-d14 (di-n-propyl-d14)': 'Trifluralin-d14 (di-n-propyl-d14)',
   'Triflusulfuron methyl': 'NWIS',
   Trihalomethanes: '1; Request Date: 02-MAR-07',
   'Trihalomethanes (four), total': 'Nemi.gov; Request Date: 25-SEP-19',
@@ -27121,6 +27253,8 @@ export default {
   "Urea, N,N-dimethyl-N'-[3-(1,1,2,2-tetrafluoroethoxy)phenyl]-": '',
   "Urea, N-(2-chloroethyl)-N'-(2,2,3,3,4,4,5,5,6,6-decafluorocyclohexyl)-N-nitroso-":
     '',
+  "Urea, N-(3,4-dichlorophenyl)-N'-methyl-":
+    "N-(3,4-Dichlorophenyl)-N'-methylurea",
   "Urea, N-[4-(2-phenyldiazenyl)phenyl]-N'-[2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl]-":
     '',
   'Urea, [3-(trifluoromethyl)phenyl]-': 'NWIS',
@@ -27379,6 +27513,7 @@ export default {
   "Yttrium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.beta.O,.beta.O')-":
     '',
   'Yttrium-90': 'Yttrium, atomic number 39.; Request Date: 02-MAR-07',
+  'Yttrium-91': 'Yttrium-91',
   'Yttrium-91m': 'NWIS',
   'Z-bis(perfluoro-n-hexyl)-1,2-ethylene': '',
   Zafirlukast: 'NWIS',
@@ -27462,6 +27597,10 @@ export default {
   "[1,1'-Biphenyl]-2-yl heptafluorobutanoate": '',
   "[1,1'-Biphenyl]-4,4'-dimethanol,.alpha.,.alpha.alpha.',.alpha.'-tetrakis(trifluoromethyl)-":
     '',
+  "[1,1'-Biphenyl]-4-ol, 2,2',3,4',5,5'-hexachloro-":
+    "2,2',3,4',5,5'-Hexachloro-4-biphenylol (4-Hydroxy-2,2',3,4',5,5'-hexachlorobiphenyl)",
+  "[1,1'-Biphenyl]-4-ol, 2,3,3',4',5-pentachloro-":
+    "2,3,3',4',5-Pentachloro-4-biphenylol (4-Hydroxy-2,3,3',4',5-pentachlorobiphenyl)",
   '[1,1,1,2,2,3,3,4,4,5,5,6,6,16,16,17,17,18,18,19,19,20,20,21,21,21-Hexacosafluoro-12-(4,4,5,5,6,6,7,7,8,8,9,9,9-tridecafluorononyl)henicos-11-en-10-yl]-lambda~2~-stannanyl':
     '',
   '[1,1,2,2-Tetrafluoro-2-(trifluoromethoxy)ethoxy]acetic acid': '',
@@ -27564,9 +27703,15 @@ export default {
   'algal entity density': '; Request Date: 07-DEC-09',
   'alpha-(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-Heptadecafluorononyl)aziridine-1-ethanol':
     '',
+  'alpha-1,2,5,6-Tetrabromocyclooctane': 'alpha-1,2,5,6-Tetrabromocyclooctane',
   'alpha-Amyrin': 'NWIS',
+  'alpha-Apo-oxytetracycline': 'alpha-Apo-oxytetracycline',
+  'alpha-Deltamethrin': 'alpha-Deltamethrin',
+  'alpha-Endosulfan-d4': 'alpha-Endosulfan-d4',
   'alpha-HCH (aLindane)':
     'Request Date: 11-Jul-17 GLENDA BioData 1978 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'alpha-HCH-13C6': 'alpha-HCH-13C6',
+  'alpha-HCH-d6': 'alpha-HCH-d6',
   'alpha-Hydroxyalprazolam': 'NWIS',
   'alpha-Isomethyl ionone': 'NWIS',
   'alpha-Perfluoropropyl omega-perfluoroethyl poly(perfluoropropylene oxide)':
@@ -27583,16 +27728,20 @@ export default {
   'b-D-xylosidase (corrected for carbon content)': '; Request Date: 24-NOV-09',
   'b-N-acetylglucosaminidase (corrected for carbon content)':
     '; Request Date: 24-NOV-09',
+  'beta-1,2,5,6-Tetrabromocyclooctane': 'beta-1,2,5,6-Tetrabromocyclooctane',
   'beta-Alanine, N-(4-piperidinylmethyl)-, 2,2,3,3,4,4,5,5-octafluoro-6-[(1-oxo-2-propen-1-yl)oxy]hexyl ester':
     '',
   'beta-Alanine, N-[3-(methylamino)propyl]-, 2,2,3,3,4,4,5,5-octafluoro-6-[(1-oxo-2-propen-1-yl)oxy]hexyl ester':
     '',
   'beta-Alanine, N-ethyl-N-[(heptadecafluorooctyl)sulfonyl]-, ethenyl ester':
     '',
+  'beta-Apo-oxytetracycline': 'beta-Apo-oxytetracycline',
+  'beta-Endosulfan-d4': 'beta-Endosulfan-d4',
   'beta-Estradiol 3-benzoate': 'Nemi.gov; Request Date: 26-SEP-19',
   'beta-Pinene': '; Request Date: 30-APR-15',
   'beta-Propiolactone': 'Nemi.gov; Request Date: 25-SEP-19',
   'beta-Zearalenol': 'NWIS',
+  'beta-cyfluthrin': 'beta-Cyfluthrin',
   'beta.Pinene & 1,2,3- trimethylbenzene': '',
   'bis((Perfluorobutyl)ethyl) carbonate': '',
   'bis(2,2,3,3,4,4,5,5-octafluoropentyl) 3-methylpentanedioate': '',
@@ -27758,6 +27907,7 @@ export default {
     'Request Date: 9-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'o,p-DDT':
     'Request Date: 9-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'o,p-xylene': 'o-Xylene/p-xylene',
   'o-Anisidine': '; Request Date: 14-APR-15',
   'o-Chloroaniline': '; Request Date: 02-MAR-07',
   'o-Chloronitrobenzene': '; Request Date: 02-MAR-07',
@@ -27798,6 +27948,8 @@ export default {
   "p,p'-DDT-d8": 'NWIS',
   "p,p'-Dibromodiphenyl ether":
     'Request Date: 01-APR-14| Organics, PCBs ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  "p,p'-Dichlorodiphenyl sulfone":
+    "4,4'-Dichlorodiphenyl sulfone (1,1'-Sulfonylbis(4-chlorobenzene))",
   "p,p'-Methoxychlor": '',
   'p-((Perfluoro-4-ethyl-3,4-dimethylhex-2-en-2-yl)oxy)-N-(3-(triethoxysilyl)propyl)benzenesulfonamide':
     '',
