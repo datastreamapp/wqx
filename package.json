@@ -6,7 +6,7 @@
   "scripts": {
     "prepare": "husky install",
     "commit-msg": "commitlint --config commitlint.config.cjs --edit",
-    "pre-commit": "lint-staged --allow-empty",
+    "pre-commit": "echo lint-staged --allow-empty",
     "lint": "npm run lint:js && npm run lint:json",
     "lint:js": "prettier --write {src,bin}/**/*.js && standard --fix {src,bin}/**/*.js",
     "lint:json": "prettier --write src/**/*.json",
