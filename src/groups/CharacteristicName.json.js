@@ -9759,6 +9759,7 @@ export default {
   '2-Methylpyrene': 'Organics, Other',
   '2-Methylpyridine': 'Organics, Other',
   '2-Methyltetradecane': 'Not Assigned',
+  '2-Methylundecane': 'Not Assigned',
   '2-N-[4-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)-2-methylphenyl]benzene-1,2-dicarboxamide':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,12,12a-hexahydro-3,10,11,12a-tetrahydroxy-6-methyl-1,12-dioxo-, hydrochloride (1:1), (4R,4aS,12aS)-':
@@ -12520,6 +12521,7 @@ export default {
   '3-Butyl-1-methyl-1H-imidazolium N,N-bis(perfluorobutanesulfonyl)amide':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Carboxy mefenamic acid': 'Not Assigned',
+  '3-Carene': 'Not Assigned',
   '3-Chloro-1,1,1,2,2-pentafluoro-3-(1,1,2,2-tetrafluoroethoxy)propane':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Chloro-1,1,1,2,4,4,5,5,5-nonafluoropent-2-ene':
@@ -13576,6 +13578,7 @@ export default {
   '4,4-Dimethyl-3-oxo-2-[2-(2,2,3,3-tetrafluoro-2,3-dihydro-1,4-benzodioxin-6-yl)hydrazinylidene]pentanenitrile':
     'PFAS,Perfluorinated Alkyl Substance',
   '4,4-Dimethylcyclopentene': 'Not Assigned',
+  '4,4-Dipropylheptane': 'Not Assigned',
   '4,4-Methylenedianiline': 'Not Assigned',
   '4,4-dimethyloxetan-2-one': 'Not Assigned',
   '4,5,5,5-Tetrafluoro-2-iodo-4-(trifluoromethyl)pent-2-en-1-ol':
@@ -21248,6 +21251,7 @@ export default {
   Ethylbenzene: 'Organics, Other',
   Ethylcyclobutane: 'Not Assigned',
   Ethylcyclohexane: 'Not Assigned',
+  Ethylcyclopentane: 'Not Assigned',
   'Ethyldioxy, 1,2,2,2-tetrafluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   'Ethyldioxy, pentafluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   Ethylene: 'Organics, Other',
@@ -22299,6 +22303,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Hexyl 2-ethylhexyl phthalate': 'Not Assigned',
   'Hexyl heptafluorobutanoate': 'PFAS,Perfluorinated Alkyl Substance',
+  Hexylcyclohexane: 'Not Assigned',
   'Hexylene Glycol': 'Not Assigned',
   Hexythiazox: 'Organics, Pesticide',
   'High-temperature coal tar pitch': 'Organics, Pesticide',
@@ -22952,6 +22957,7 @@ export default {
   'Larkspur alkaloid': 'Not Assigned',
   'Larvae in Gill Chambers or Attached to Abdomen': 'Not Assigned',
   Lasalocid: 'Not Assigned',
+  'Last 7 days weather cloud cover': 'Not Assigned',
   'Latitude, Bank': 'Information',
   'Latitude, Midstream': 'Information',
   'Lauric acid': 'Organics, Pesticide',
@@ -25576,6 +25582,7 @@ export default {
   'Observed Recreational Use - Fishing (Y/N) (choice list)': 'Physical',
   'Observed Recreational Use - Other (Y/N) (choice list)': 'Physical',
   'Observed Recreational Use - Swimming (Y/N) (choice list)': 'Physical',
+  'Obstructions (Y/N) (choice list)': 'Not Assigned',
   'Octabromodiphenyl ether': 'Organics, Other',
   Octachlorobiphenyl: 'Organics, Other',
   Octachlorocyclopentene: 'Not Assigned',
@@ -28493,6 +28500,8 @@ export default {
   'Precipitation 36hr prior to monitoring event amount': 'Not Assigned',
   'Precipitation 48hr prior to monitoring event (choice list)': 'Physical',
   'Precipitation 48hr prior to monitoring event amount': 'Physical',
+  'Precipitation 7 days prior to monitoring event (Y/N) (choice list)':
+    'Not Assigned',
   'Precipitation 72hr prior to monitoring event amount': 'Not Assigned',
   'Precipitation 96hr prior to monitoring event amount': 'Not Assigned',
   'Precipitation Last 24hrs (CA SWAMP) (choice list)': 'Not Assigned',
@@ -32167,6 +32176,8 @@ export default {
   'Water Taste (choice list)': 'Physical',
   'Water appearance (text)': 'Physical',
   'Water content of snow': 'Physical',
+  'Water flow compared to most recent conditions (choice list)': 'Not Assigned',
+  'Water flow compared to normal conditions (choice list)': 'Not Assigned',
   'Water level': 'Physical',
   'Water level (probe)': 'Physical',
   'Water level in relation to reference point': 'Physical',
@@ -32187,6 +32198,7 @@ export default {
   'Weather comments (text)': 'Physical',
   'Weather condition (WMO code 4501) (choice list)': 'Physical',
   'Weather condition (WMO code 4677) (choice list)': 'Physical',
+  'Weather condition past 7 days': 'Not Assigned',
   Weight: 'Physical',
   'Weight, volatile portion': 'Physical',
   'Well condition (choice list)': 'Not Assigned',
@@ -32202,6 +32214,7 @@ export default {
   Wierzejskiella: 'Not Assigned',
   Wigrella: 'Not Assigned',
   'Wildlife Trampling or Grazing Disturbance (choice list)': 'Information',
+  'Wildlife present (Y/N) (choice list)': 'Not Assigned',
   'Wind Condition (choice list)': 'Not Assigned',
   'Wind Speed (choice list)': 'Not Assigned',
   'Wind Speed Severity (choice list)': 'Not Assigned',

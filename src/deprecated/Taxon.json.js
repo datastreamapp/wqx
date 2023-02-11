@@ -5821,7 +5821,6 @@ export default [
   'Polycentropus cinereus***retired***use Plectrocnemia cinerea',
   'Polycentropus crassicornis***retired***use Plectrocnemia crassicornis',
   'Polycentropus remotus***retired***use Plectrocnemia remota',
-  'Polychaeta',
   'Polyclemus brasiliensis***retired***use Paralonchurus brasiliensis',
   'Polyclemus***retired***use Paralonchurus',
   'Polycystidae***retired***use Polycystididae',

@@ -460,6 +460,9 @@ export default {
   'Current Precipitation (choice list)': 'Snow',
   'General flow pattern (choice list)': 'Not applicable',
   'Intermittent sections (choice list)': 'Not applicable',
+  'Water flow compared to normal conditions (choice list)': 'Normal conditions',
+  'Water flow compared to most recent conditions (choice list)':
+    'Normal conditions',
   'Slope Variability (choice list)':
     '1-2 changes, e.g., a rheocrene spring with steep banks',
   'Activities - Power Plants (choice list)': 'None',
@@ -561,6 +564,9 @@ export default {
   'Spring, Measurable Discharge (Y/N) (choice list)': 'Yes',
   'Practicing Erosion control (Y/N) (choice list)':
     'Yes, Erosion Control is being Practiced',
+  'Precipitation 7 days prior to monitoring event (Y/N) (choice list)': 'Yes',
+  'Wildlife present (Y/N) (choice list)': 'Yes',
+  'Obstructions (Y/N) (choice list)': 'Yes',
   'Site Disturbance Evident (choice list)': 'Yes',
   'Sanitary Waste (Y/N) (choice List)': 'Yes',
   'Monocot plant type present (Y/N) (choice list)':

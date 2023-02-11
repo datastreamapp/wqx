@@ -7477,6 +7477,7 @@ export default {
   '2-Methylpyrene': '; Request Date: 14-APR-15',
   '2-Methylpyridine': 'Nemi.gov; Request Date: 02-MAR-07',
   '2-Methyltetradecane': '; Request Date: 23-APR-15',
+  '2-Methylundecane': '',
   '2-N-[4-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)-2-methylphenyl]benzene-1,2-dicarboxamide':
     '',
   '2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,12,12a-hexahydro-3,10,11,12a-tetrahydroxy-6-methyl-1,12-dioxo-, hydrochloride (1:1), (4R,4aS,12aS)-':
@@ -9680,6 +9681,7 @@ export default {
     '',
   '3-Butyl-1-methyl-1H-imidazolium N,N-bis(perfluorobutanesulfonyl)amide': '',
   '3-Carboxy mefenamic acid': '; Request Date: 03-DEC-12',
+  '3-Carene': '',
   '3-Chloro-1,1,1,2,2-pentafluoro-3-(1,1,2,2-tetrafluoroethoxy)propane': '',
   '3-Chloro-1,1,1,2,4,4,5,5,5-nonafluoropent-2-ene': '',
   '3-Chloro-1,1,1,5,5,5-hexamethyl-3-((perfluorohexyl)ethyl)trisiloxane': '',
@@ -10491,6 +10493,7 @@ export default {
   '4,4-Dimethyl-3-oxo-2-[2-(2,2,3,3-tetrafluoro-2,3-dihydro-1,4-benzodioxin-6-yl)hydrazinylidene]pentanenitrile':
     '',
   '4,4-Dimethylcyclopentene': 'Minnesota IT Services at MPCA ',
+  '4,4-Dipropylheptane': '',
   '4,4-Methylenedianiline': '',
   '4,4-dimethyloxetan-2-one': '',
   '4,5,5,5-Tetrafluoro-2-iodo-4-(trifluoromethyl)pent-2-en-1-ol': '',
@@ -17273,6 +17276,7 @@ export default {
   Ethylbenzene: 'Nemi.gov; Request Date: 22-JUL-14',
   Ethylcyclobutane: '',
   Ethylcyclohexane: '; Request Date: 20-MAR-15',
+  Ethylcyclopentane: '',
   'Ethyldioxy, 1,2,2,2-tetrafluoro-': '',
   'Ethyldioxy, pentafluoro-': '',
   Ethylene: '; Request Date: 22-JUL-14',
@@ -18302,6 +18306,7 @@ export default {
   'Hexyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate': '',
   'Hexyl 2-ethylhexyl phthalate': '',
   'Hexyl heptafluorobutanoate': '',
+  Hexylcyclohexane: '',
   'Hexylene Glycol': '; Request Date: 11-JAN-18',
   Hexythiazox: '',
   'High-temperature coal tar pitch': '; Request Date: 24-MAY-10',
@@ -18981,6 +18986,7 @@ export default {
   'Larkspur alkaloid': '; Request Date: 02-MAR-07',
   'Larvae in Gill Chambers or Attached to Abdomen': '; Request Date: 31-MAR-15',
   Lasalocid: 'NWIS',
+  'Last 7 days weather cloud cover': '',
   'Latitude, Bank': '',
   'Latitude, Midstream': '',
   'Lauric acid': '1; Request Date: 02-MAR-07',
@@ -21234,6 +21240,7 @@ export default {
     '; Request Date: 11-APR-17',
   'Observed Recreational Use - Swimming (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
+  'Obstructions (Y/N) (choice list)': '',
   'Octabromodiphenyl ether': '12;',
   Octachlorobiphenyl: '; Request Date: 22-JUL-14',
   Octachlorocyclopentene: '; Request Date: 02-MAR-07',
@@ -23889,6 +23896,7 @@ export default {
     'NJDEP Division of Water Monitoring & Standards; Request Date: 02-MAR-07',
   'Precipitation 48hr prior to monitoring event amount':
     'NJDEP Division of Water Monitoring & Standards; Request Date: 02-MAR-07',
+  'Precipitation 7 days prior to monitoring event (Y/N) (choice list)': '',
   'Precipitation 72hr prior to monitoring event amount':
     '; Request Date: 31-JUL-18',
   'Precipitation 96hr prior to monitoring event amount':
@@ -27376,6 +27384,8 @@ export default {
     'A text description of water appearance.; Request Date: 02-MAR-07',
   'Water content of snow':
     'The amount of water in snow.; Request Date: 02-MAR-07',
+  'Water flow compared to most recent conditions (choice list)': '',
+  'Water flow compared to normal conditions (choice list)': '',
   'Water level': 'Water level at sample collection time',
   'Water level (probe)': '; Request Date: 02-MAR-07',
   'Water level in relation to reference point': '; Request Date: 06-NOV-12',
@@ -27403,6 +27413,7 @@ export default {
     '; Request Date: 02-MAR-07',
   'Weather condition (WMO code 4677) (choice list)':
     '; Request Date: 02-MAR-07',
+  'Weather condition past 7 days': '',
   Weight:
     'The mass of an object measured in units of mass such as grams, pounds, tons, etc.; Request Date: 02-MAR-07',
   'Weight, volatile portion':
@@ -27423,6 +27434,7 @@ export default {
   Wierzejskiella: 'NWIS',
   Wigrella: 'NWIS',
   'Wildlife Trampling or Grazing Disturbance (choice list)': '',
+  'Wildlife present (Y/N) (choice list)': '',
   'Wind Condition (choice list)': '; Request Date: 11-APR-17',
   'Wind Speed (choice list)':
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',

@@ -924,6 +924,8 @@ export default {
   NEZPERCETRIBE_WQX:
     'Nez Perce Tribe; Water Resources Department WQX Data Exchange',
   NFRIA: 'Water Quality Monitoring Data',
+  NGRREC_GREON:
+    'Continuous water quality monitoring along the rivers and reservoirs in Illinois and the Mississippi River',
   NIAMLARB1_WQX: '',
   NISQUALLY: 'Nisqually Water Quality; ',
   NIT_WQX: 'Narragansett  Indian Tribe',
