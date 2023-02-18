@@ -3,6 +3,6 @@ export default {
   title: 'Sampling Design Type',
   description: '',
   type: 'string',
-  enum: ['Probabilistic', 'Targeted'],
-  maxLength: 13
+  enum: ['Probabilistic', 'Target+Probabilistic', 'Targeted'],
+  maxLength: 20
 }

@@ -11654,6 +11654,7 @@ export default {
   '6H-1,3,5-Oxathiazine, 4-phenyl-2,2,6,6-tetrakis(trifluoromethyl)-': '',
   '6H-Perfluoroheptanesulfonic acid': '',
   '6H-Perfluorohex-1-ene': '',
+  '6PPD-quinone': '',
   '7,12-Benzo[a]anthracenquinone': 'NWIS',
   '7,12-Benzoanthracenquinone': 'NWIS',
   '7,12-Dimethylbenz[a]anthracene': 'Nemi.gov; Request Date: 02-MAR-07',

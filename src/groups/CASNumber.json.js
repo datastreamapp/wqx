@@ -12246,6 +12246,7 @@ export default {
     '57014-91-2',
   '6H-Perfluoroheptanesulfonic acid': '2089109-57-7',
   '6H-Perfluorohex-1-ene': '1767-94-8',
+  '6PPD-quinone': '2754428-18-5',
   '7,12-Benzo[a]anthracenquinone': '',
   '7,12-Benzoanthracenquinone': '',
   '7,12-Dimethylbenz[a]anthracene': '57-97-6',

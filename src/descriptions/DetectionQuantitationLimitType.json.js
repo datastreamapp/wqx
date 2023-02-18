@@ -57,7 +57,7 @@ export default {
     'That component of uncertainty which arises from imprecision. www.iaea.org/OurWork/ST/NE/NEFW/WTS-Networks/IDN/idnfiles/Wkp_on_Development_WM,WasteCharacterization_Clearance/Day3/12.Statistics_GREY.pdf',
   'Systematic Uncertainty':
     'That component of uncertainty which arises from biases. www.iaea.org/OurWork/ST/NE/NEFW/WTS-Networks/IDN/idnfiles/Wkp_on_Development_WM,WasteCharacterization_Clearance/Day3/12.Statistics_GREY.pdf',
-  'Taxanomic Loss Threshold': 'Taxanomic Loss Threshold',
+  'Taxonomic Loss Threshold': 'Taxonomic Loss Threshold',
   'Upper Calibration Limit':
     "Highest concentration that can be reliably measured. The highest calibration standard in the lab's initial calibration curve adjusted for initial sample volume or weight",
   'Upper Quantitation Limit':

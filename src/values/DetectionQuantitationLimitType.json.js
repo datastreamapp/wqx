@@ -36,7 +36,7 @@ export default {
     'Specified in workplan',
     'Statistical Uncertainty',
     'Systematic Uncertainty',
-    'Taxanomic Loss Threshold',
+    'Taxonomic Loss Threshold',
     'Upper Calibration Limit',
     'Upper Quantitation Limit',
     'Upper Reporting Limit',
