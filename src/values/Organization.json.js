@@ -4,9 +4,10 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    '***ACIC_WQX_DELETED_REMOVED',
-    '***DELETED_RENAME-RE-USETCEH',
-    '***DELETED_RENAME-THCOENVHWA_WQX',
+    '****W_WQX_DELETED_REMOVED',
+    '***TC_WQX_DELETED_REMOVED',
+    '**T_WQX_DELETED_REMOVED',
+    '*A_WQX_DELETED_REMOVED',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -369,6 +370,7 @@ export default {
     'CHEMEHUEVI_WQX',
     'CHEROKEEMD',
     'CHEROKEE_WQX',
+    'CHESAPEAKBAYNERR',
     'CHEYENNEWSD1',
     'CHEYRIVR',
     'CHICKALOONNATIVEVILLAGE_WQX',
@@ -1256,7 +1258,6 @@ export default {
     'WETLAB',
     'WFWQC_UT',
     'WHATCOMCD',
-    'WHATCOMCD_WQX',
     'WHATCOM_WQX',
     'WHITEMOUNTAIN_WQX',
     'WICHITAEPA_WQX',
@@ -1338,5 +1339,5 @@ export default {
     'YUROKTEP_WQX',
     'ZIAPUEBLO_WQX'
   ],
-  maxLength: 32
+  maxLength: 30
 }

@@ -4,7 +4,12 @@
   "description": "",
   "type": "string",
   "enum": [
+    "Algae EDH",
+    "Aquatic plants EDH",
     "Biological",
+    "Biological, Counts",
+    "Biological, Fish",
+    "Cyanotoxins, Phytotoxins",
     "Habitat",
     "Information",
     "Inorganics, Major, Metals",
@@ -21,12 +26,16 @@
     "PFAS,Perfluorinated Alkyl Substance",
     "PFOA, Perfluorooctanoic Acid",
     "PFOS, Perfluorooctane Sulfonate",
+    "Periphyton",
     "Physical",
+    "Physical, Habitat",
+    "Phytoplankton, Cyanobacteria, Photosynthetic Pigments",
     "Population/Community",
+    "Productivity",
     "Radiochemical",
     "Sediment",
     "Stable Isotopes",
     "Toxicity"
   ],
-  "maxLength": 35
+  "maxLength": 53
 }

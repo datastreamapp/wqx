@@ -1,5 +1,10 @@
 export default {
+  'Algae EDH': 'Environmental Determinants of Health',
+  'Aquatic plants EDH': 'Environmental Determinants of Health',
   Biological: '',
+  'Biological, Counts': '',
+  'Biological, Fish': '',
+  'Cyanotoxins, Phytotoxins': '',
   Habitat: '',
   Information: '',
   'Inorganics, Major, Metals': '',
@@ -18,8 +23,12 @@ export default {
     'renamed from PFOS, Perfluorooctane Sulfonate',
   'PFOS, Perfluorooctane Sulfonate':
     'renamed from PFOA, Perfluorooctanoic Acid',
+  Periphyton: '',
   Physical: '',
+  'Physical, Habitat': '',
+  'Phytoplankton, Cyanobacteria, Photosynthetic Pigments': '',
   'Population/Community': '',
+  Productivity: '',
   Radiochemical: '',
   Sediment: '',
   'Stable Isotopes': '',

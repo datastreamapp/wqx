@@ -8,11 +8,12 @@ export default {
   947757: 'Confederated Tribes of Coos, Lower Umpqua and Siulsaw Indians; ',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '***ACIC_WQX_DELETED_REMOVED':
-    '_DELETEDAk-Chin Indian Community Environmental Protection Department;',
-  '***DELETED_RENAME-RE-USETCEH': 'Thurston County Environmental Health',
-  '***DELETED_RENAME-THCOENVHWA_WQX':
+  '****W_WQX_DELETED_REMOVED': 'Whatcom Conservation District',
+  '***TC_WQX_DELETED_REMOVED': 'Thurston County Environmental Health',
+  '**T_WQX_DELETED_REMOVED':
     'Division of Thuston County Public Health and Social Services',
+  '*A_WQX_DELETED_REMOVED':
+    '_DELETEDAk-Chin Indian Community Environmental Protection Department;',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -407,6 +408,7 @@ export default {
   CHEMEHUEVI_WQX: 'Chemehuevi Indian Tribe; ',
   CHEROKEEMD: 'Colorado',
   CHEROKEE_WQX: 'Cherokee Nation (Oklahoma);',
+  CHESAPEAKBAYNERR: '',
   CHEYENNEWSD1: '',
   CHEYRIVR: ' (Tribal)',
   CHICKALOONNATIVEVILLAGE_WQX: 'Chickaloon Native Village;',
@@ -749,7 +751,7 @@ export default {
     'Lincoln Soil and Water Conservation District *Contact - Audrey Sweet',
   LDEQ319: 'Louisiana Department of Environmental Quality',
   LDFWATER2007: 'Water Quality Monitoring Data.',
-  LEECHLAK_WQX: 'Leech Lake Band of Ojibwe;',
+  LEECHLAK_WQX: '',
   LEIGHROCKS: 'Contact Name: Leigh Lager',
   LEVELOCK: 'Levelock Village Council;',
   LEWWTP_WQX: 'Water Quality Monitoring Data',
@@ -1003,7 +1005,7 @@ export default {
   OKWRB_WQX: 'Water Quality',
   OLMS: "Non-profit dedicated to the protection of Ohio's lakes and their watershed",
   ONEIDA_WQX: 'Oneida Nation',
-  OOPBLO: 'Ohkay Owingeh Pueblo; Pueblo of Ohkay Owingeh, NM',
+  OOPBLO: 'Pueblo of Ohkay Owingeh, New Mexico',
   ORDNRMRLSTD_GI:
     'USEPA Office of Research and Development, National Risk Management Research Laboratory',
   OREGONDEQ: '',
@@ -1410,7 +1412,6 @@ export default {
   WETLAB: 'Western Environmental Testing Laboratory; ',
   WFWQC_UT: 'Wasatch Front Water Quality Council Utah',
   WHATCOMCD: '',
-  WHATCOMCD_WQX: 'Whatcom Conservation District',
   WHATCOM_WQX: 'Whatcom County Public Works',
   WHITEMOUNTAIN_WQX: 'White Mountain Apache Tribe;',
   WICHITAEPA_WQX:

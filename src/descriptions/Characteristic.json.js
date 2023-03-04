@@ -12278,10 +12278,10 @@ export default {
   Afidopyropen: '; Request Date: 08-OCT-19',
   Aflatoxins: 'Toxic metabolites produced by fungi.; Request Date: 02-MAR-07',
   Age: 'The length of time something has existed.; Request Date: 02-MAR-07',
-  'Age, Otoliths (Fish)': '; Request Date: 02-MAR-07',
-  'Age, Scales (Fish)': '; Request Date: 02-MAR-07',
-  'Age, Spines (Fish)': '; Request Date: 02-MAR-07',
-  'Age, Vertebra (Fish)': '; Request Date: 02-MAR-07',
+  'Age, Otoliths (Fish)': 'Physical,14; Request Date: 02-MAR-07',
+  'Age, Scales (Fish)': 'Physical,14; Request Date: 02-MAR-07',
+  'Age, Spines (Fish)': 'Physical,14; Request Date: 02-MAR-07',
+  'Age, Vertebra (Fish)': 'Physical,14; Request Date: 02-MAR-07',
   'Aggressive index': '; Request Date: 24-SEP-08',
   Air: 'NWIS',
   'Air entrained':
@@ -12346,25 +12346,27 @@ export default {
   'Aldrin + dieldrin mix, unspecified': '; Request Date: 02-MAR-07',
   Alendronate: 'NWIS',
   'Algae, all groups, density':
-    'The mass or weight of all algal groups per unit volume of water.; Request Date: 02-MAR-07',
+    'Physical,14; The mass or weight of all algal groups per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, blue-green (phylum cyanophyta) density':
-    'The mass or weight of blue-green algae (phylum cyanophyta) per unit volume of water.; Request Date: 02-MAR-07',
-  'Algae, blue-green (phylum cyanophyta) percent': '; Request Date: 10-MAY-17',
+    'Physical,14; The mass or weight of blue-green algae (phylum cyanophyta) per unit volume of water.; Request Date: 02-MAR-07',
+  'Algae, blue-green (phylum cyanophyta) percent':
+    'Physical,14; Request Date: 10-MAY-17',
   'Algae, brown (phylum phaeophyta) density':
-    'The mass or weight of brown  (phylum phaeophyta) per unit volume of water.; Request Date: 02-MAR-07',
+    'Physical,14; The mass or weight of brown  (phylum phaeophyta) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, golden-brown (phylum chrysophyta) density':
-    'The mass or weight of golden-brown algae (phylum chrysophyta) per unit volume of water.; Request Date: 02-MAR-07',
+    'Physical,14; The mass or weight of golden-brown algae (phylum chrysophyta) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, green (phylum chlorophyta) density':
-    'The mass or weight of green (phylum chorophya) per unit volume of water.; Request Date: 02-MAR-07',
+    'Physical,14; The mass or weight of green (phylum chorophya) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, red (phylum rhodophyta) density':
-    'The mass or weight of  red algae (phylum rhodophyta) per unit volume of water.; Request Date: 02-MAR-07',
-  'Algae, substrate rock/bank cover (choice list)': '; Request Date: 02-MAR-07',
+    'Physical,14; The mass or weight of  red algae (phylum rhodophyta) per unit volume of water.; Request Date: 02-MAR-07',
+  'Algae, substrate rock/bank cover (choice list)':
+    'Physical,14; Request Date: 02-MAR-07',
   'Algae, yellow-green (phylum xanthophyta) density':
-    'The mass or weight of yellow-green algae (phylum xanthophyta) per unit volume of water.; Request Date: 02-MAR-07',
-  'Algae-Phycocyanin': '',
-  'Algal Bloom Severity (choice list)': '',
+    'Physical,14; The mass or weight of yellow-green algae (phylum xanthophyta) per unit volume of water.; Request Date: 02-MAR-07',
+  'Algae-Phycocyanin': 'Physical,4; ',
+  'Algal Bloom Severity (choice list)': 'Physical,14;',
   'Algal growth potential':
-    'The potential in a given system for the growth of algae.; Request Date: 02-MAR-07',
+    'Biological,2; The potential in a given system for the growth of algae.; Request Date: 02-MAR-07',
   'Aliphatics fraction': '; Request Date: 02-MAR-07',
   'Alkaline phosphatase': '; Request Date: 22-JUL-14',
   Alkalinity:
@@ -12582,7 +12584,7 @@ export default {
     'Extractives and their physically modified derivatives.  Pimpinella anisum, Umbelliferae.; Request Date: 02-MAR-07',
   Anisole: '; Request Date: 02-MAR-07',
   'Annual erosion rate': '',
-  'Annulus Radius, Scales (Fish)': '',
+  'Annulus Radius, Scales (Fish)': 'Physical,14; ',
   Anthanthrene: 'Request Date: 1-Sep-12 (nps.gov cas# review)',
   'Anthophyllite asbestos': '; Request Date: 09-MAR-15',
   Anthracene: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -12608,8 +12610,8 @@ export default {
   Apramycin: '; Request Date: 02-MAR-07',
   'Aquatic Bacteria': 'Nemi.gov; Request Date: 26-SEP-19',
   'Aquatic Habitat Changes Present': '',
-  'Aquatic Macrophytes - Emergent': '',
-  'Aquatic Macrophytes - Floating': '',
+  'Aquatic Macrophytes - Emergent': 'Information,4; ',
+  'Aquatic Macrophytes - Floating': 'Information,4; ',
   'Aquatic Plant Cover, substrate rock/bank cover (choice list)':
     '; Request Date: 05-JUL-17',
   'Aquatic Vegetation Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
@@ -13950,25 +13952,25 @@ export default {
   'Biomass, benthic':
     'The amount or weight of organisms that live within a specific volume or area on the bottom of a waterbody.; Request Date: 02-MAR-07',
   'Biomass, chlorophycota':
-    'The amount or weight of chlorophycota (green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of chlorophycota (green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, chrysophyta':
-    'The amount or weight of chrysophyta (golden algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of chrysophyta (golden algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, cryptophycophyta':
-    'The amount or weight of cryptophycophyta (cryptomonads) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of cryptophycophyta (cryptomonads) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, cyanophycota':
-    'The amount or weight of cyanophycota (blue-green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of cyanophycota (blue-green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, drift macroinvertebrates':
     'The amount or weight of organisms without a backbone that are large enough to be seen without magnification that are suspended or drifting within a given volume or area of water.; Request Date: 02-MAR-07',
   'Biomass, euglenophycota':
-    'The amount or weight of euglenophycophyta (euglenoids) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of euglenophycophyta (euglenoids) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, periphyton':
-    'The amount or weight of periphyton (attached algae) that live within a specific volume or area of an ecosystem.Nemi.gov; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of periphyton (attached algae) that live within a specific volume or area of an ecosystem.Nemi.gov; Request Date: 02-MAR-07',
   'Biomass, phytoplankton':
-    'The amount or weight of phytoplankton (microscopic plants) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of phytoplankton (microscopic plants) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, plankton':
     'The amount or weight of plankton (microscopic plants and animals) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, pyrrophycophyta':
-    'The amount or weight of pyrrhophycophyta (dinoflagellates) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; The amount or weight of pyrrhophycophyta (dinoflagellates) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, species 25-30 mm size class': '; Request Date: 19-MAR-19',
   'Biomass, species 30-35 mm size class': '; Request Date: 19-MAR-19',
   'Biomass, species 35-40 mm size class': '; Request Date: 19-MAR-19',
@@ -13978,7 +13980,7 @@ export default {
   'Biomass, zooplankton':
     'The amount or weight of zooplankton (small floating or weakly swimming animals) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass/chlorophyll ratio':
-    'A ratio comparing the total biomass to the mass of chlorophyll in an ecosystem.; Request Date: 02-MAR-07',
+    'Physical,14; A ratio comparing the total biomass to the mass of chlorophyll in an ecosystem.; Request Date: 02-MAR-07',
   Biopermethrin: 'Nemi.gov; Request Date: 24-SEP-19',
   'Biovolume per individual': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   Biphenyl: '; Request Date: 02-MAR-07',
@@ -14888,7 +14890,7 @@ export default {
   'Cast (choice list)': '',
   'Catchment basin area': 'NLA; Request Date: 17-MAR-16',
   Catechol: '; Request Date: 02-MAR-07',
-  'Categorical Diatom Thickness': '',
+  'Categorical Diatom Thickness': 'Sediment,17;',
   'Cation exchange capacity': '; Request Date: 17-OCT-08',
   'Cations-Anions':
     'Positively charged ions-negatively charged ions.; Request Date: 02-MAR-07',
@@ -14933,7 +14935,7 @@ export default {
   'Channel Development': '',
   'Channel Flow Status':
     'A measure of the amount of exposed channel substrate expressed as a percentage of the total channel area divided by the area of channel bottom covered by water within a stream, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 25-AUG-16',
-  'Channel Habitat Code': '',
+  'Channel Habitat Code': 'Information,4;',
   'Channel Length in Contact with Constraining Feature':
     '; Request Date: 04-OCT-18',
   'Channel Pattern (choice list)': '; Request Date: 04-OCT-18',
@@ -15075,10 +15077,11 @@ export default {
   Chlorophacinone: '; Request Date: 01-APR-15',
   Chlorophene: 'NWIS',
   Chlorophenol: '; Request Date: 22-JUL-14',
-  Chlorophyll: '; Request Date: 22-JUL-14',
-  'Chlorophyll a': 'Nemi.gov; Request Date: 22-JUL-14',
-  'Chlorophyll a (probe relative fluorescence)': '; Request Date: 02-MAR-07',
-  'Chlorophyll a (probe)': '; Request Date: 02-MAR-07',
+  Chlorophyll: 'Biological,2;  Request Date: 22-JUL-14',
+  'Chlorophyll a': 'Biological,2; Nemi.gov; Request Date: 22-JUL-14',
+  'Chlorophyll a (probe relative fluorescence)':
+    'Biological,2; Request Date: 02-MAR-07',
+  'Chlorophyll a (probe)': 'Biological,2; Request Date: 02-MAR-07',
   'Chlorophyll a (probe) concentration, Chlorophyte (green algae)':
     'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review)',
   'Chlorophyll a (probe) concentration, Cryptophyta (cryptophytes)':
@@ -15090,25 +15093,25 @@ export default {
   'Chlorophyll a (probe) concentration, Xanthophyte (yellow algae)':
     'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review)',
   'Chlorophyll a - Periphyton (attached)':
-    'Request Date: 12-Mar-13 (nps.gov cas# review)',
+    'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review)',
   'Chlorophyll a - Phytoplankton (suspended)':
-    'Request Date: 12-Mar-13 (nps.gov cas# review)',
+    'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review)',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)':
     '; Request Date: 10-APR-17',
   'Chlorophyll a, corrected for pheophytin':
-    'Request Date: 23-Jul-14 (nps.gov cas# review)',
+    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Chlorophyll a, free of pheophytin':
-    'Request Date: 23-Jul-14 (nps.gov cas# review)',
+    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Chlorophyll a, index (YES/NO) (choice list)': '; Request Date: 10-APR-17',
-  'Chlorophyll a, pheophytin correction unspecified': '',
+  'Chlorophyll a, pheophytin correction unspecified': 'Biological,2; ',
   'Chlorophyll a, uncorrected for pheophytin':
-    'Request Date: 23-Jul-14 (nps.gov cas# review)',
-  'Chlorophyll b': 'Nemi.gov; Request Date: 02-MAR-07',
-  'Chlorophyll c': '; Request Date: 02-MAR-07',
+    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review)',
+  'Chlorophyll b': 'Biological,2; Nemi.gov; Request Date: 02-MAR-07',
+  'Chlorophyll c': 'Biological,2; Request Date: 02-MAR-07',
   'Chlorophyll c1': 'Nemi.gov; Request Date: 26-SEP-19',
   'Chlorophyll c1 + c2': 'Nemi.gov; Request Date: 26-SEP-19',
   'Chlorophyll c2': 'Nemi.gov; Request Date: 26-SEP-19',
-  'Chlorophyll/Pheophytin ratio': '; Request Date: 02-MAR-07',
+  'Chlorophyll/Pheophytin ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
   Chloropicrin: '; Request Date: 22-JUL-14',
   Chloroprene: 'Nemi.gov; Request Date: 22-JUL-14',
   Chloropropylate: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
@@ -15205,7 +15208,7 @@ export default {
   Ciprofibrate: 'NWIS',
   Ciprofloxacin: '; Request Date: 02-MAR-07',
   'Ciprofloxacin-13C3-15N': '; Request Date: 24-MAR-14',
-  'Circulus Count (Fish)': '',
+  'Circulus Count (Fish)': 'Physical,14; ',
   'Cis-2-Butene': '; Request Date: 03-JUL-08',
   'Cis-2-Pentene': '; Request Date: 03-JUL-08',
   Citalopram: '; Request Date: 10-JUL-13',
@@ -15214,7 +15217,7 @@ export default {
   Citrobacter: 'TAXON: Monera Kingdom; Request Date: 22-JUL-14',
   Citronellol: 'NWIS',
   'Cl-Perfluoroheptanoate': '',
-  'Cladophora, visual observation': '',
+  'Cladophora, visual observation': 'Information,4;',
   Clarithromycin: '; Request Date: 10-JUL-13',
   'Clavibacter xyli cynodontis, producing BTK D-Endotoxin':
     '; Request Date: 02-MAR-07',
@@ -15318,22 +15321,23 @@ export default {
   'Condition class, based on thresholds':
     'NLA OEModel; Request Date: 31-MAY-16',
   'Condition class, chemical (Chlorophyll a)':
-    'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 03-MAR-16',
+    'Physical,4; Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 03-MAR-16',
   'Condition class, chemical (Conductivity/Salinity)':
     'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 03-MAR-16',
   'Condition class, chemical (acid neutralizing capacity)':
     'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 03-MAR-16',
-  'Condition class, diatom index': 'NLA Sediment; Request Date: 18-JUL-16',
+  'Condition class, diatom index':
+    'Physical,4; NLA Sediment; Request Date: 18-JUL-16',
   'Condition class, nutrient (Total Nitrogen)':
     'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 03-MAR-16',
   'Condition class, nutrient (Total Phosphorus)':
     'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 03-MAR-16',
   'Condition class, recreational (Microcystin > RL)':
-    'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 14-JUN-16',
+    'Information,4; Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 14-JUN-16',
   'Condition class, recreational (Microcystin)':
-    'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 14-JUN-16',
+    'Information,4; Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 14-JUN-16',
   'Condition class, recreational Cyanobacteria (bluegreen)':
-    'Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 14-JUN-16',
+    'Physical,4; Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 14-JUN-16',
   'Conditions Preventing Sampling': '',
   Conductance: '',
   Conductivity: '; Request Date: 24-MAR-10',
@@ -15424,10 +15428,10 @@ export default {
   Coumestrol: '; Request Date: 10-JUL-13',
   Count: '; Request Date: 18-JUL-08',
   'Count%': '; Request Date: 10-JUL-13',
-  'Count, species': '',
-  'Count, species 25-30 mm size class': '; Request Date: 19-MAR-19',
-  'Count, species 30-35 mm size class': '; Request Date: 19-MAR-19',
-  'Count, species 35-40 mm size class': '; Request Date: 19-MAR-19',
+  'Count, species': 'Information,4',
+  'Count, species 25-30 mm size class': 'Physical,14; Request Date: 19-MAR-19',
+  'Count, species 30-35 mm size class': 'Physical,14; Request Date: 19-MAR-19',
+  'Count, species 35-40 mm size class': 'Physical,14; Request Date: 19-MAR-19',
   'Count, species 40-45 mm size class':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Count, species 45-50 mm size class': '',
@@ -15495,7 +15499,7 @@ export default {
   Cyanides: 'Nemi.gov; Request Date: 24-SEP-19',
   'Cyanides amenable to chlorination (HCN & CN)': '; Request Date: 02-MAR-07',
   'Cyanobacteria fluorescence of phycoerythrin (fPE)': 'NWIS',
-  'Cyanobacteria, visual observation': '',
+  'Cyanobacteria, visual observation': 'Physical,4; ',
   'Cyanobacterial abundance from a phycocyanin sensor (PC)': 'NWIS',
   'Cyanobacterial abundance from a phycoerythrin sensor (PE)': 'NWIS',
   'Cyanogen bromide': 'NWIS',
@@ -16066,10 +16070,11 @@ export default {
   'Diammonium 4,4,5,5,6,7,7,7-octafluoro-6-(trifluoromethyl)-1-heptanol phosphate':
     '',
   'Diammonium 6:2 fluorotelomer phosphate monoester': '',
-  'Diatom condition index': 'NLA Sediment; Request Date: 18-JUL-16',
+  'Diatom condition index':
+    'Physical,14; NLA Sediment; Request Date: 18-JUL-16',
   'Diatom conversion factor': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   Diatoms:
-    'Unicellular algae, some of which are colonial, green or brownish in color, containing chlorophyll, and with siliceous and often highly sculptured cell walls.; Request Date: 22-JUL-14',
+    'Microbiological,9; Unicellular algae, some of which are colonial, green or brownish in color, containing chlorophyll, and with siliceous and often highly sculptured cell walls.; Request Date: 22-JUL-14',
   Diatrizoate: 'Diatrizoate',
   'Diatrizoic acid': '; Request Date: 24-MAR-14',
   'Diatrizoic acid-d6': 'Request Date: 25-Mar-14 (nps.gov cas# review)',
@@ -16585,7 +16590,7 @@ export default {
   'Dodecyl mercaptan': '; Request Date: 02-MAR-07',
   'Dodecyl sulfate': 'NWIS',
   Dodecylbenzene: '; Request Date: 02-MAR-07',
-  'Dominant Habitat Type': '; Request Date: 10-SEP-11',
+  'Dominant Habitat Type': 'Information,4; Request Date: 10-SEP-11',
   'Dominant Land Use (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Dominant Pool Substrate (choice list)': '',
   'Dominant Run Substrate (choice list)': '',
@@ -17441,11 +17446,11 @@ export default {
   'FireMaster BP 6': '; Request Date: 02-MAR-07',
   'Firmly attached algae or submerged veg (choice list)': '',
   'Fish - Passage Barrier (Y/N) (choice list)': '',
-  'Fish Anomalies - Deformities': '; Request Date: 02-MAR-07',
-  'Fish Anomalies - Erosions': '; Request Date: 02-MAR-07',
-  'Fish Anomalies - Lesions': '; Request Date: 02-MAR-07',
-  'Fish Anomalies - Multiples': '; Request Date: 02-MAR-07',
-  'Fish Anomalies - Tumors': '; Request Date: 02-MAR-07',
+  'Fish Anomalies - Deformities': 'Physical,14; Request Date: 02-MAR-07',
+  'Fish Anomalies - Erosions': 'Physical,14; Request Date: 02-MAR-07',
+  'Fish Anomalies - Lesions': 'Physical,14; Request Date: 02-MAR-07',
+  'Fish Anomalies - Multiples': 'Physical,14; Request Date: 02-MAR-07',
+  'Fish Anomalies - Tumors': 'Physical,14; Request Date: 02-MAR-07',
   'Fish Cover - Artificial Structures (choice list)':
     '; Request Date: 04-OCT-18',
   'Fish Cover - Boulders (choice list)': '; Request Date: 04-OCT-18',
@@ -17459,23 +17464,23 @@ export default {
   'Fish Cover - Undercut Banks (choice list)': '; Request Date: 04-OCT-18',
   'Fish Cover - Woody debris >0.3m (BIG) (choice list)':
     '; Request Date: 04-OCT-18',
-  'Fish Description (text)': '',
+  'Fish Description (text)': 'Information,4;',
   'Fish Kill (Y/N) (choice list)': '',
-  'Fish Kill, Severity (choice list)': '; Request Date: 02-MAR-07',
-  'Fish Recaptured (Y/N) (choice list)': '',
-  'Fish Status After Sampling (choice list)': '',
+  'Fish Kill, Severity (choice list)': 'Physical,14; Request Date: 02-MAR-07',
+  'Fish Recaptured (Y/N) (choice list)': 'Information,4; ',
+  'Fish Status After Sampling (choice list)': 'Information,4;',
   'Fish Tag Number (text)':
-    'this is intended for recording PIT or Floy tag numbers used to track individual fish in-situ.',
+    'Information,4; this is intended for recording PIT or Floy tag numbers used to track individual fish in-situ.',
   'Fish community': '; Request Date: 01-OCT-19',
   'Fish condition factor':
-    'A factor to describe the physical condition of a fish.; Request Date: 02-MAR-07',
+    'Physical,14; A factor to describe the physical condition of a fish.; Request Date: 02-MAR-07',
   'Fish fork length':
-    'The length of a fish measured from the tip of the snout to the posterior end of the middle caudal rays.; Request Date: 02-MAR-07',
+    'Physical,14; The length of a fish measured from the tip of the snout to the posterior end of the middle caudal rays.; Request Date: 02-MAR-07',
   'Fish kill observation':
-    'An assessment of a fish kill event based on general observations.; Request Date: 02-MAR-07',
-  'Fish presence (choice list)': '; Request Date: 17-DEC-10',
+    'Physical,14; An assessment of a fish kill event based on general observations.; Request Date: 02-MAR-07',
+  'Fish presence (choice list)': 'Information,4; Request Date: 17-DEC-10',
   'Fish standard length':
-    'The length of a fish from the front of the upper lip to the posterior end of the vertebral column (the last element of which, the hypural plate, is somewhat broadened and forms the bony support for the caudal fin rays).; Request Date: 02-MAR-07',
+    'Biological,2; The length of a fish from the front of the upper lip to the posterior end of the vertebral column (the last element of which, the hypural plate, is somewhat broadened and forms the bony support for the caudal fin rays).; Request Date: 02-MAR-07',
   'Fixed dissolved solids':
     'The weight of the solid remaining after a well-mixed sample is filtered through a standard glass filter, the resultant filtrate evaporated and dried to a constant weight at 103-105 deg C. and then ignited at 550 +/ 50 deg C.; Request Date: 02-MAR-10',
   'Fixed suspended solids':
@@ -17487,7 +17492,8 @@ export default {
   'Floating Detergent/Soap - Severity (choice list)':
     '; Request Date: 02-MAR-07',
   'Floating Garbage Severity (choice list)': '; Request Date: 02-MAR-07',
-  'Floating algae mat - severity (choice list)': '; Request Date: 02-MAR-07',
+  'Floating algae mat - severity (choice list)':
+    'Physical,14; Request Date: 02-MAR-07',
   'Floating debris (Y/N) (choice list)': '; Request Date: 24-MAR-14',
   'Floating debris - severity (choice list)': '; Request Date: 02-MAR-07',
   'Floating foam/suds (Y/N) (choice list)': '; Request Date: 24-MAR-14',
@@ -17869,7 +17875,7 @@ export default {
   'Gravel 8 - 64 mm': '',
   'Gravimetric water content': '; Request Date: 03-AUG-10',
   'Grazing or other Habitat Disruptive Pressure (choice list)':
-    '; Request Date: 06-MAR-12',
+    'Information,4; Request Date: 06-MAR-12',
   'Grid count': '; Request Date: 26-APR-10',
   Griseofulvin: 'NWIS',
   'Gross alpha radioactivity, (Americium-241 ref std)':
@@ -17938,17 +17944,17 @@ export default {
   'HFE-356mmz1': '',
   'HUMM2 DNA Marker': '; Request Date: 08-OCT-19',
   'HUMM2 DNA Marker (purified)': '; Request Date: 08-OCT-19',
-  'Habitat Cover Extent': '',
-  'Habitat Cover Type': '',
-  'Habitat Cover, Filamentous Algae (choice list)': '',
-  'Habitat Cover, Macrophytes (choice list)': '',
-  'Habitat Cover, Periphyton (choice list)': '',
-  'Habitat Cover, other (%)': '',
+  'Habitat Cover Extent': 'Physical,14;',
+  'Habitat Cover Type': 'Physical,14;',
+  'Habitat Cover, Filamentous Algae (choice list)': 'Information,4;',
+  'Habitat Cover, Macrophytes (choice list)': 'Information,4;',
+  'Habitat Cover, Periphyton (choice list)': 'Information,4;',
+  'Habitat Cover, other (%)': 'Physical,14;',
   'Habitat Total Score': '; Request Date: 25-AUG-16',
   'Habitat Type (choice list)': '; Request Date: 11-APR-17',
-  'Habitat cover, brush and log (%)': '',
-  'Habitat rating (choice list)': '; Request Date: 17-DEC-10',
-  'Habitat rating, % of ideal': '; Request Date: 15-MAR-11',
+  'Habitat cover, brush and log (%)': 'Physical,14;',
+  'Habitat rating (choice list)': 'Information,4; Request Date: 17-DEC-10',
+  'Habitat rating, % of ideal': 'Information,4; Request Date: 15-MAR-11',
   Hafnium: '; Request Date: 02-MAR-07',
   'Hafnium-175': 'NWIS',
   'Hafnium-181': 'NWIS',
@@ -17989,7 +17995,7 @@ export default {
   Height:
     'The elevation above a given reference point.; Request Date: 02-MAR-07',
   'Height (From Surface)': '; Request Date: 04-MAY-15',
-  'Height Class Vegetation (choice list)': '',
+  'Height Class Vegetation (choice list)': 'Information,4;',
   'Height, gage':
     'Watersheds-based Monitoring and Interoperable Data Platforms; Request Date: 03-OCT-16',
   Helium: '; Request Date: 02-MAR-07',
@@ -18578,7 +18584,7 @@ export default {
   'Intergravel Dissolved Oxygen': '; Request Date: 18-OCT-18',
   'Intermittent sections (choice list)': '',
   'Inundated or Saturated in Pit (Y/N) (choicelist)': '',
-  'Inundation Evidence: Algal mat or crust (choice list)': '',
+  'Inundation Evidence: Algal mat or crust (choice list)': 'Physical,4; ',
   'Inundation Evidence: Aquatic invertebrates (choice list)': '',
   'Inundation Evidence: Biotic crust (choice list)': '',
   'Inundation Evidence: Drainage patterns (choice list)': '',
@@ -18588,9 +18594,10 @@ export default {
   'Inundation Evidence: Moss trim lines (choice list)': '',
   'Inundation Evidence: Salt crust (choice list)': '',
   'Inundation Evidence: Sediment deposits (choice list)': '',
-  'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)': '',
+  'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)':
+    'Information,4;',
   'Inundation Evidence: Surface soil cracks (choice list)': '',
-  'Inundation Evidence: True aquatic plants (choice list)': '',
+  'Inundation Evidence: True aquatic plants (choice list)': 'Information,4;',
   'Inundation Evidence: Water marks (choice list)': '',
   'Inundation Evidence: Water stained leaves (choice list)': '',
   'Invasive Species Identification Confidence': '',
@@ -19010,8 +19017,8 @@ export default {
   'Left Bank Angle': '; Request Date: 04-OCT-18',
   'Left Bank Undercut': '; Request Date: 04-OCT-18',
   Length: 'The distance from end to end of an object.; Request Date: 02-MAR-07',
-  'Length, Partial (Fish)': '; Request Date: 08-DEC-16',
-  'Length, Total (Fish)': '; Request Date: 02-MAR-07',
+  'Length, Partial (Fish)': 'Physical,14; Request Date: 08-DEC-16',
+  'Length, Total (Fish)': 'Physical,14; Request Date: 02-MAR-07',
   'Length, total':
     'The total length measured in units of length.; Request Date: 02-MAR-07',
   Leptophos: '; Request Date: 20-NOV-07',
@@ -19025,7 +19032,7 @@ export default {
   Levorphanol: '; Request Date: 18-DEC-18',
   Levothyroxin: 'NWIS',
   'Life stage (choice list)': '; Request Date: 02-MAR-07',
-  'Life style/habitat': '; Request Date: 30-MAY-13',
+  'Life style/habitat': 'Physical,14; Request Date: 30-MAY-13',
   'Light Absorption Coeffiecient': '',
   'Light aliphatic solvent naphtha (petroleum)': '',
   'Light attenuation at measurement depth':
@@ -19138,8 +19145,10 @@ export default {
   'Littoral Substrate - Shore Dominant': '',
   'Littoral Substrate - Shore Secondary': '',
   'Littoral-Riparian Cover Complexity Index': '; Request Date: 07-MAR-16',
-  'Live centric diatoms': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
-  'Live pennate diatoms': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
+  'Live centric diatoms':
+    'Physical,14; GLENDA BioData 1978; Request Date: 27-FEB-17',
+  'Live pennate diatoms':
+    'Physical,14; GLENDA BioData 1978; Request Date: 27-FEB-17',
   'Livestock Trampling or Grazing Disturbance (choice list)': '',
   'Lloyd - Zar - Karr Species Diversity Index': '; Request Date: 05-MAY-12',
   'Local Conditions': '',
@@ -19197,9 +19206,9 @@ export default {
   Macroinvertebrates:
     'Animals large enough to be seen without magnification that have no backbone.; Request Date: 02-MAR-07',
   'Macrophyte cover': '',
-  'Macrophytes Extend Lakeward (choice list)': '',
+  'Macrophytes Extend Lakeward (choice list)': 'Information,4; ',
   'Macrophytes covering streambed (emergent and submerged) (choice list)':
-    '; Request Date: 17-DEC-10',
+    'Information,4; Request Date: 17-DEC-10',
   Magnesium: '; Request Date: 02-MAR-07',
   'Magnesium bromide 1,1,2,2,3,3,4,4,4-nonafluorobutan-1-ide (1/1/1)': '',
   'Magnesium bromide 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctan-1-ide (1/1/1)':
@@ -19291,7 +19300,7 @@ export default {
   'Mercury-202': '',
   Meropenem: '; Request Date: 02-MAR-07',
   Merphos: 'Nemi.gov; Request Date: 22-JUL-14',
-  'Mesh Bar Size (Fish)': '',
+  'Mesh Bar Size (Fish)': 'Information,4;',
   'Mesh Type (choice list)': '',
   'Mesityl oxide': '; Request Date: 02-MAR-07',
   'Mesosulfuron-methyl': '; Request Date: 29-NOV-10',
@@ -19739,47 +19748,48 @@ export default {
   Miconazole: '; Request Date: 10-JUL-13',
   'Micro Algae Stream Reach Thickness Average': '; Request Date: 01-AUG-18',
   Microcystin:
-    'Toxin produced by blue green algae & bacteria.Toxin produced by blue green algae ; Request Date: 22-JUL-14',
+    'Organics, Other,11; Toxin produced by blue green algae & bacteria.Toxin produced by blue green algae ; Request Date: 22-JUL-14',
   'Microcystin AR':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Microcystin FR':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Microcystin HilR':
-    'MDEQ - http://www.enzolifesciences.com/ALX-350-177/microcystin-hilr/; Request Date: 13-APR-18',
+    'Organics, Other,11; MDEQ - http://www.enzolifesciences.com/ALX-350-177/microcystin-hilr/; Request Date: 13-APR-18',
   'Microcystin HtyR':
-    'MDEQ - http://www.enzolifesciences.com/ALX-350-174/microcystin-htyr/; Request Date: 13-APR-18',
-  'Microcystin LA': '; Request Date: 15-APR-15',
-  'Microcystin LF': '; Request Date: 05-OCT-15',
-  'Microcystin LR': 'Microcystin zLR; Request Date: 09-JAN-08',
-  'Microcystin LR [D-Leu1]': '; Request Date: 18-MAR-19',
-  'Microcystin LR [DAsp3]': '; Request Date: 18-MAR-19',
-  'Microcystin LR [Dha7]': '; Request Date: 18-MAR-19',
-  'Microcystin LR, Desmethyl': '; Request Date: 08-OCT-19',
-  'Microcystin LW': '; Request Date: 05-OCT-15',
-  'Microcystin LY': '; Request Date: 06-JAN-16',
+    'Organics, Other,11; MDEQ - http://www.enzolifesciences.com/ALX-350-174/microcystin-htyr/; Request Date: 13-APR-18',
+  'Microcystin LA': 'Organics, Other,11; Request Date: 15-APR-15',
+  'Microcystin LF': 'Organics, Other,11; Request Date: 05-OCT-15',
+  'Microcystin LR':
+    'Organics, Other,11; Microcystin zLRRequest Date: 09-JAN-08',
+  'Microcystin LR [D-Leu1]': 'Organics, Other,11; Request Date: 18-MAR-19',
+  'Microcystin LR [DAsp3]': 'Organics, Other,11; Request Date: 18-MAR-19',
+  'Microcystin LR [Dha7]': 'Organics, Other,11; Request Date: 18-MAR-19',
+  'Microcystin LR, Desmethyl': 'Organics, Other,11; Request Date: 08-OCT-19',
+  'Microcystin LW': 'Organics, Other,11; Request Date: 05-OCT-15',
+  'Microcystin LY': 'Organics, Other,11; Request Date: 06-JAN-16',
   'Microcystin MR (or Munkn)':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Microcystin ND':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
-  'Microcystin RR': '; Request Date: 15-APR-15',
-  'Microcystin RR [DAsp3]': '; Request Date: 18-MAR-19',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+  'Microcystin RR': 'Organics, Other,11; Request Date: 15-APR-15',
+  'Microcystin RR [DAsp3]': 'Organics, Other,11; Request Date: 18-MAR-19',
   'Microcystin WR':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
-  'Microcystin YR': '; Request Date: 15-APR-15',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+  'Microcystin YR': 'Organics, Other,11; Request Date: 15-APR-15',
   'Microcystin dLR':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Microcystin dRR':
-    'MDEQ - http://www.chemnet.com/cas/fr/131022-02-1/7-desmethylmicrocystin-RR.html; Request Date: 13-APR-18',
-  'Microcystin dm': '',
-  'Microcystin dmRR': '',
+    'Organics, Other,11; MDEQ - http://www.chemnet.com/cas/fr/131022-02-1/7-desmethylmicrocystin-RR.html; Request Date: 13-APR-18',
+  'Microcystin dm': 'Organics, Other,11; ',
+  'Microcystin dmRR': 'Organics, Other,11; ',
   'Microcystin mLR':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Microcystin mRR':
-    'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
+    'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Microcystin/nodularin genes mcyE/ndaF': 'NWIS',
   Microcystins:
-    'or cyanoginosins—are a class of toxins produced by certain freshwater cyanobacteria, commonly known as blue-green algae.; Request Date: 20-MAY-16',
-  'Microcystins and nodularins': '; Request Date: 08-JUN-17',
+    'Organics, Other,11; or cyanoginosins—are a class of toxins produced by certain freshwater cyanobacteria, commonly known as blue-green algae.; Request Date: 20-MAY-16',
+  'Microcystins and nodularins': 'Organics, Other,11; Request Date: 08-JUN-17',
   'Microcystins/nodularin': 'NWIS',
   'Microhabitat Type - Plant': '; Request Date: 05-JUL-17',
   'Microhabitat Type - Pool': '; Request Date: 05-JUL-17',
@@ -19825,7 +19835,7 @@ export default {
   Monochloroguaicols: '1;',
   Monochlorophenols: '1;',
   Monochlorovanillins: '1;',
-  'Monocot plant type present (Y/N) (choice list)': '',
+  'Monocot plant type present (Y/N) (choice list)': 'Information,4; ',
   Monocrotaline: '; Request Date: 22-AUG-17',
   'Monocrotaline N-oxide': '; Request Date: 22-AUG-17',
   Monocrotophos: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -21049,17 +21059,18 @@ export default {
   Nivalenol: 'NWIS',
   Nizatidine: '; Request Date: 02-FEB-15',
   Nodularin:
-    'Toxin produced by blue green algae.Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Organics, Other,11; Toxin produced by blue green algae.Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Nomegestrol acetate': 'NWIS',
   'Non-Asbestos Fiber/Material': '; Request Date: 09-MAR-15',
-  'Non-Native Fish, Shellfish, or Zooplankton (Y/N) (choice list)': '',
+  'Non-Native Fish, Shellfish, or Zooplankton (Y/N) (choice list)':
+    'Information,4;',
   'Non-apatite inorganic phosphorus': '; Request Date: 19-FEB-13',
   'Non-lipid organic matter': '; Request Date: 03-AUG-10',
   'Non-plankton algae severity (choice list)':
     'A descriptor used to describe non-plankton algae, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Non-purgeable Organic Carbon (NPOC)': '; Request Date: 25-JUL-16',
   'Non-settleable solids': 'NWIS',
-  'Non-viable seed count': '; Request Date: 24-JUL-15',
+  'Non-viable seed count': 'Physical,14; Request Date: 24-JUL-15',
   'Non-viable seed weight': '; Request Date: 24-JUL-15',
   Nonabromophenoxybenzene:
     'Request Date: 2-Feb-14 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -21236,7 +21247,7 @@ export default {
   'Observed Recreational Use - Boating (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
   'Observed Recreational Use - Fishing (Y/N) (choice list)':
-    '; Request Date: 11-APR-17',
+    'Physical,14; Request Date: 11-APR-17',
   'Observed Recreational Use - Other (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
   'Observed Recreational Use - Swimming (Y/N) (choice list)':
@@ -21442,7 +21453,7 @@ export default {
     'Osmotic pressure is the pressure exerted by the flow of water through a semi-permeable membrane separating two solutions with different concentrations of solute.; Request Date: 02-MAR-07',
   'Other Disturbance (choice list)': '',
   'Other Flow Alterations (Y/N) (choice List)': '',
-  'Other Habitat Conditions (Y/N) (choice List)': '',
+  'Other Habitat Conditions (Y/N) (choice List)': 'Information,4;',
   'Other Hydrologic Evidence: Frost-heave hummocks (choice list)': '',
   'Other Hydrologic Evidence: Geomorphic position (choise list)': '',
   'Other Hydrologic Evidence: Microtopographic relief (choice list)': '',
@@ -22235,8 +22246,8 @@ export default {
   'Pentyl sulfate': 'NWIS',
   Pentylcyclohexane: '; Request Date: 13-AUG-18',
   'Per- and polyfluoroalkyl substances': '',
-  'Percent Cover Vegetation (%)': '',
-  'Percent Coverage Sum Vegetation': '',
+  'Percent Cover Vegetation (%)': 'Information,4;',
+  'Percent Coverage Sum Vegetation': 'Information,4;',
   'Percent Residue':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Percent Solids': '; Request Date: 12-JAN-15',
@@ -22865,9 +22876,9 @@ export default {
   Pericoma: 'NWIS',
   Perindopril: 'NWIS',
   Periphyton:
-    'Microscopic underwater plants and animals that are firmly attached to solid surfaces such as rocks, logs, pilings, and other structures.; Request Date: 22-JUL-14',
-  'Periphyton biovolume': '; Request Date: 07-DEC-09',
-  'Periphyton productivity': '; Request Date: 02-MAR-07',
+    'Biological,2; Microscopic underwater plants and animals that are firmly attached to solid surfaces such as rocks, logs, pilings, and other structures.; Request Date: 22-JUL-14',
+  'Periphyton biovolume': 'Physical,14; Request Date: 07-DEC-09',
+  'Periphyton productivity': 'Microbiological,2; Request Date: 02-MAR-07',
   'Periphyton, substrate rock/bank encrustation (choice list)':
     '; Request Date: 02-MAR-07',
   Permethrin: '; Request Date: 22-JUL-14',
@@ -22900,8 +22911,10 @@ export default {
   Pfiesteria: 'TAXON: Plantae Kingdom; Request Date: 02-MAR-07',
   'Pfiesteria piscicida': 'TAXON: Plantae Kingdom; Request Date: 02-MAR-07',
   Phaenopsectra: 'NWIS',
-  'Phaeophytin - Periphyton (attached)': '; Request Date: 11-MAR-13',
-  'Phaeophytin - Phytoplankton (suspended)': '; Request Date: 11-MAR-13',
+  'Phaeophytin - Periphyton (attached)':
+    'Biological,2; Request Date: 11-MAR-13',
+  'Phaeophytin - Phytoplankton (suspended)':
+    'Biological,2;  Request Date: 11-MAR-13',
   Phalacrocera: 'NWIS',
   Phanocelia: 'NWIS',
   Phantolide: '',
@@ -23024,10 +23037,10 @@ export default {
   Phenylurea: 'NWIS',
   Phenytoin:
     'Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  Pheophytin: '',
-  'Pheophytin a': '; Request Date: 02-MAR-07',
-  'Pheophytin ratio': '; Request Date: 02-MAR-07',
-  'Pheophytin/Chlorophyll ratio': '; Request Date: 02-MAR-07',
+  Pheophytin: 'Biological,2; ',
+  'Pheophytin a': 'Biological,2; Request Date: 02-MAR-07',
+  'Pheophytin ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
+  'Pheophytin/Chlorophyll ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
   'Pheopigments of Chlorophyll': 'Nemi.gov; Request Date: 25-SEP-19',
   Pherbellia: 'NWIS',
   Philobdella: 'NWIS',
@@ -23221,7 +23234,7 @@ export default {
   'Phthalic anhydride': '; Request Date: 02-MAR-07',
   Phthalide: '; Request Date: 02-MAR-07',
   'Phthalocyanine, tetrakis(pentadecafluoroheptyl)-, copper deriv.': '',
-  Phycocyanin: '1; Request Date: 06-MAR-14',
+  Phycocyanin: 'Organics, Other,11; Request Date: 06-MAR-14',
   'Phycocyanin (probe relative fluorescence)': '; Request Date: 08-OCT-19',
   'Phycocyanin (probe)': '; Request Date: 08-OCT-19',
   Phycocyanins: 'NWIS',
@@ -23232,20 +23245,21 @@ export default {
   Phyllodocidae: 'NWIS',
   Phylloicus: 'NWIS',
   Phylocentropus: 'NWIS',
-  'Physical Substrate Habitat Alterations (Y/N) (choice List)': '',
+  'Physical Substrate Habitat Alterations (Y/N) (choice List)':
+    'Information,4;',
   Physocypria: 'NWIS',
   Phytane: '; Request Date: 02-MAR-07',
   Phytoactin: '; Request Date: 02-MAR-07',
   Phytol: '; Request Date: 14-APR-15',
   Phytoplankton:
-    'Aggregate of plants and plant-like organisms in plankton.; Request Date: 02-MAR-07',
-  'Phytoplankton Density': '; Request Date: 10-JUL-13',
-  'Phytoplankton Relative Density': '; Request Date: 10-JUL-13',
-  'Phytoplankton biovolume': '; Request Date: 02-MAR-07',
+    'Physical,14; Aggregate of plants and plant-like organisms in plankton.; Request Date: 02-MAR-07',
+  'Phytoplankton Density': 'Physical,14; Request Date: 10-JUL-13',
+  'Phytoplankton Relative Density': 'Physical,14; Request Date: 10-JUL-13',
+  'Phytoplankton biovolume': 'Physical,14; Request Date: 02-MAR-07',
   'Phytoplankton collected (Y/N) (choice list)': 'NLA; Request Date: 11-APR-17',
-  'Phytoplankton productivity': '; Request Date: 02-MAR-07',
+  'Phytoplankton productivity': 'Microbiological,9; Request Date: 02-MAR-07',
   'Phytoplankton, settling volume':
-    'The measured volume of settled phytoplankton in a given volume of water sample after a specified settling time.; Request Date: 02-MAR-07',
+    'Physical,14; The measured volume of settled phytoplankton in a given volume of water sample after a specified settling time.; Request Date: 02-MAR-07',
   Picarbutrazox: 'NWIS',
   'Picarbutrazox TZ-1E': '',
   Picene: 'NWIS',
@@ -23762,11 +23776,12 @@ export default {
   'Pool, Silt-Muck (%)': '',
   'Population Estimate':
     'Tennessee Department of Environment & Conservation Division of Water  - Linda Cartwright; Request Date: 08-AUG-16',
-  'Population diversity, fish, # of species': '; Request Date: 02-MAR-07',
+  'Population diversity, fish, # of species':
+    'Physical,14; Request Date: 02-MAR-07',
   'Population diversity, macroinvertebrates, # of species':
     '; Request Date: 02-MAR-07',
   'Population diversity, phytoplankton, # of species':
-    '; Request Date: 02-MAR-07',
+    'Physical,14; Request Date: 02-MAR-07',
   'Population diversity, zooplankton, # of species':
     '; Request Date: 02-MAR-07',
   Porifera: 'NWIS',
@@ -23921,7 +23936,7 @@ export default {
   Pressure: '14; Request Date: 17-JUN-13',
   'Presumptive Aeromonas': 'NWIS',
   'Primary productivity':
-    'The net flux of carbon from the atmosphere into green plants per unit time. NPP refers to a rate process, i.e. the amount of vegetable matter produced (net primary production)  per day, week, or year.; Request Date: 02-MAR-07',
+    'Physical,14; The net flux of carbon from the atmosphere into green plants per unit time. NPP refers to a rate process, i.e. the amount of vegetable matter produced (net primary production)  per day, week, or year.; Request Date: 02-MAR-07',
   'Primary/ Secondary surrounding landuse (choice list)':
     '; Request Date: 24-AUG-10',
   Primidone: '; Request Date: 30-MAY-13',
@@ -23950,9 +23965,10 @@ export default {
   Procymidone: '1;Nemi.gov; Request Date: 25-SEP-19',
   Prodiamesa: 'NWIS',
   Prodiamine: '; Request Date: 28-MAY-15',
-  'Productivity, Bacterial Carbon Production': '; Request Date: 26-AUG-13',
+  'Productivity, Bacterial Carbon Production':
+    'Physical,14; Request Date: 26-AUG-13',
   'Productivity, photosynthetic rate, carbon production':
-    'A measure of plant productivity based on the rate of photosynthesis or the production of carbohydrates.; Request Date: 02-MAR-07',
+    'Physical,14; A measure of plant productivity based on the rate of photosynthesis or the production of carbohydrates.; Request Date: 02-MAR-07',
   Profenofos: '; Request Date: 02-MAR-07',
   Profluralin: '; Request Date: 22-JUL-14',
   Progesterone: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -24635,15 +24651,15 @@ export default {
   'RBP Bank Stability, Sum of L/R Bank Scores (choice list)':
     '; Request Date: 06-MAR-12',
   'RBP Bank Vegetative Protection, Left (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP Bank Vegetative Protection, Right (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP Bank Vegetative Protection, Sum of L/R Bank Scores (choice list)':
-    '; Request Date: 06-MAR-12',
+    'Information,4; Request Date: 06-MAR-12',
   'RBP Bank Vegetative Stability, Left (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP Bank Vegetative Stability, Right (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP Bottom Substrate (choice list)': '; Request Date: 02-MAR-07',
   'RBP Canopy Cover (choice list)': '; Request Date: 02-MAR-07',
   'RBP Channel Alteration (choice list)': '; Request Date: 02-MAR-07',
@@ -24663,7 +24679,7 @@ export default {
   'RBP Predominant Surrounding Land Use (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP Riparian Vegetative Zone Width, Sum of L/R Bank Scores (choice list)':
-    '; Request Date: 06-MAR-12',
+    'Information,4; Request Date: 06-MAR-12',
   'RBP Sediment Deposition (choice list)': '; Request Date: 02-MAR-07',
   'RBP Sediment Odors (choice list)': '; Request Date: 02-MAR-07',
   'RBP Sediment Oils (choice list)': '; Request Date: 02-MAR-07',
@@ -24689,27 +24705,35 @@ export default {
   'RBP Water Odors (choice list)': '; Request Date: 02-MAR-07',
   'RBP Water Surface Oils (choice list)': '; Request Date: 02-MAR-07',
   'RBP2, Aquatic Vegetation, Dominant Type & Species (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Aquatic vegetation, portion of reach with AV (%)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, bedrock (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, canopy (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, general comments': '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, bedrock (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, canopy (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, general comments':
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Habitat type, glide (%)': '',
-  'RBP2, Habitat type, gravel-cobble (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, large woody debris (%)': '; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, gravel-cobble (%)':
+    'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, large woody debris (%)':
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Habitat type, leaf packs (%)': '; Request Date: 27-FEB-18',
-  'RBP2, Habitat type, other (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, plants, roots (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, pools (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, riffle (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, run (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, sand (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, sand-silt-mud-muck (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, small woody debris (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, snags (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, submerged macrophytes (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, vegetated banks (%)': '; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, other (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, plants, roots (%)':
+    'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, pools (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, riffle (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, run (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, sand (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, sand-silt-mud-muck (%)':
+    'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, small woody debris (%)':
+    'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, snags (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, submerged macrophytes (%)':
+    'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, vegetated banks (%)':
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, High G, Bank Stability, Left Bank (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, High G, Bank Stability, Right Bank (choice list)':
@@ -24723,19 +24747,20 @@ export default {
   'RBP2, High G, Frequency of Riffles (or bends) (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, High G, Riparian Vegetative Zone Width, Left Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, High G, Riparian Vegetative Zone Width, Right Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, High G, Sediment Deposition (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, High G, Vegetative Protection, Left Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, High G, Vegetative Protection, Right Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, High G, Velocity/Depth Regime (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, High G, habitat assessment total rating': '; Request Date: 25-MAR-14',
-  'RBP2, High G, habitat assessment total score': '; Request Date: 02-MAR-07',
+  'RBP2, High G, habitat assessment total score':
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Instream Features, Canopy Cover (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, Instream Features, Channelized (Y/N) (choice list)':
@@ -24774,18 +24799,19 @@ export default {
   'RBP2, Low G, Riparian Veg. Zone Width, Sum of L/R Bank (choice list)':
     '; Request Date: 26-AUG-13',
   'RBP2, Low G, Riparian Vegetative Zone Width, Left Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Low G, Riparian Vegetative Zone Width, Right Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Low G, Sediment Deposition (choice list)': '; Request Date: 02-MAR-07',
   'RBP2, Low G, Vegetative Protection, Left Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Low G, Vegetative Protection, Right Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Low G, Vegetative Protection, Sum of L/R Bank Scores (choice list)':
-    '; Request Date: 26-AUG-13',
+    'Information,4; Request Date: 26-AUG-13',
   'RBP2, Low G, habitat assessment total rating': '; Request Date: 25-MAR-14',
-  'RBP2, Low G, habitat assessment total score': '; Request Date: 02-MAR-07',
+  'RBP2, Low G, habitat assessment total score':
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Mid G, Bank Stability, Left Bank (choice list)':
     '; Request Date: 13-FEB-13',
   'RBP2, Mid G, Bank Stability, Right Bank (choice list)':
@@ -24799,19 +24825,20 @@ export default {
   'RBP2, Mid G, Pool Substrate Characterization (choice list)':
     '; Request Date: 13-FEB-13',
   'RBP2, Mid G, Riparian Vegetative Zone Width, Left Bank (choice list)':
-    '; Request Date: 13-FEB-13',
+    'Information,4; Request Date: 13-FEB-13',
   'RBP2, Mid G, Riparian Vegetative Zone Width, Right Bank (choice list)':
-    '; Request Date: 13-FEB-13',
+    'Information,4; Request Date: 13-FEB-13',
   'RBP2, Mid G, Sediment Deposition (choice list)': '; Request Date: 13-FEB-13',
   'RBP2, Mid G, Vegetative Protection, Left Bank (choice list)':
-    '; Request Date: 13-FEB-13',
+    'Information,4; Request Date: 13-FEB-13',
   'RBP2, Mid G, Vegetative Protection, Right Bank (choice list)':
-    '; Request Date: 13-FEB-13',
+    'Information,4; Request Date: 13-FEB-13',
   'RBP2, Mid G, Velocity/Depth Regime (choice list)':
     '; Request Date: 13-FEB-13',
-  'RBP2, Mid G, habitat assessment total score': '; Request Date: 13-FEB-13',
+  'RBP2, Mid G, habitat assessment total score':
+    'Information,4; Request Date: 13-FEB-13',
   'RBP2, Riparian Vegetation, Dominant Species Present (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Information,4; Request Date: 02-MAR-07',
   'RBP2, Sediment/Substrate, Deposits (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
@@ -25029,7 +25056,8 @@ export default {
   'Riparian Zone Right Bank Plant Cover - Shrubs/Low Trees':
     '; Request Date: 05-JUL-17',
   'Riparian Zone Right Bank Plant Cover - Trees': '; Request Date: 05-JUL-17',
-  'Riparian vegetation composition (choice list)': '; Request Date: 24-AUG-10',
+  'Riparian vegetation composition (choice list)':
+    'Information,4; Request Date: 24-AUG-10',
   'Riparian vegetation density (choice list)':
     'National Park Service, contact nps.gov; Request Date: 21-JUL-16',
   'Riparian vegetation, dominant species present':
@@ -25110,7 +25138,7 @@ export default {
   'Sample time, elapsed': '; Request Date: 07-JUN-18',
   'Samples, gas': '',
   Sand: '; Request Date: 02-MAR-07',
-  'Sand/Substrate Habitat Type (%)': '; Request Date: 14-MAY-10',
+  'Sand/Substrate Habitat Type (%)': 'Information,4; Request Date: 14-MAY-10',
   'Sandaracopimaric acid': '1; Request Date: 30-APR-15',
   'Sandy Substrate (choice list)': '; Request Date: 14-MAY-10',
   'Sanitary Waste (Y/N) (choice List)': '',
@@ -25127,9 +25155,9 @@ export default {
     'Toxin produced by red tide dinoflagellates.Nemi.gov; Request Date: 22-JUL-14',
   'Saxitoxin gene sxtA': 'NWIS',
   Saxitoxins: 'NWIS',
-  'Scale Card Number (Fish) (text)': '',
-  'Scale Focus Radius (Fish)': '',
-  'Scale Radius (Fish)': '',
+  'Scale Card Number (Fish) (text)': 'Information,4;',
+  'Scale Focus Radius (Fish)': 'Physical,14; ',
+  'Scale Radius (Fish)': 'Physical,14; ',
   Scandium: '; Request Date: 22-JUL-14',
   'Scandium-46': '; Request Date: 25-MAR-10',
   'Scaphirhynchus platorynchus': 'NWIS',
@@ -25876,7 +25904,8 @@ export default {
   'Stream width (choice list)':
     'National Park Service, contact nps.gov; Request Date: 02-JUN-16',
   'Stream width measure': '; Request Date: 02-MAR-07',
-  'Stream-side or littoral vegetative cover alteration (Y/N) (choice list)': '',
+  'Stream-side or littoral vegetative cover alteration (Y/N) (choice list)':
+    'Information,4;',
   Streptococcus: 'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   Streptognatha: 'NWIS',
   Streptomycin: '; Request Date: 02-MAR-07',
@@ -25910,7 +25939,8 @@ export default {
   'Styrene and o-xylene': '',
   'Styrene oxide': '; Request Date: 02-MAR-07',
   'Submerged Cover (%)': '; Request Date: 29-JUN-10',
-  'Submerged Vegetation Habitat Type (%)': '; Request Date: 14-MAY-10',
+  'Submerged Vegetation Habitat Type (%)':
+    'Information,4; Request Date: 14-MAY-10',
   Subsample_A: 'GLENDA Biological Data Migration; Request Date: 14-APR-17',
   Subsample_B: 'GLENDA Biological Data Migration; Request Date: 14-APR-17',
   'Substrate (choice list)': 'NRSA; Request Date: 10-APR-17',
@@ -25951,7 +25981,7 @@ export default {
   'Substrate - silt, very fine': '; Request Date: 02-MAR-07',
   'Substrate - silt/clay mix': '; Request Date: 02-MAR-07',
   'Substrate - submerged logs': '; Request Date: 02-MAR-07',
-  'Substrate - submerged vegetation': '; Request Date: 02-MAR-07',
+  'Substrate - submerged vegetation': 'Information,4; Request Date: 02-MAR-07',
   'Substrate Description (text)': '; Request Date: 05-SEP-17',
   'Substrate Dominant, Channel (choice list)': '; Request Date: 26-AUG-13',
   'Substrate Dominant, Transect (choice list)': '; Request Date: 26-AUG-13',
@@ -26293,7 +26323,8 @@ export default {
   'Terrace height': '; Request Date: 08-JUN-10',
   'Terrace width': '; Request Date: 08-JUN-10',
   'Terrestrial Habitat Changes Present': '',
-  'Terrestrial Vegetation Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
+  'Terrestrial Vegetation Jabs':
+    'Information,4; Tyler Ostrovecky <tylero@goldsystems.com>',
   Testosterone: 'Nemi.gov; Request Date: 22-JUL-14',
   'Testosterone glucuronide': 'NWIS',
   'Testosterone sulfate': 'NWIS',
@@ -27297,8 +27328,10 @@ export default {
   Vannella: '; Request Date: 02-MAR-07',
   Vannellidae: '; Request Date: 02-MAR-07',
   Vedaprofen: 'NWIS',
-  'Vegetation Density, Nudds Board Left': '; Request Date: 26-AUG-13',
-  'Vegetation Density, Nudds Board Right': '; Request Date: 26-AUG-13',
+  'Vegetation Density, Nudds Board Left':
+    'Information,4; Request Date: 26-AUG-13',
+  'Vegetation Density, Nudds Board Right':
+    'Information,4; Request Date: 26-AUG-13',
   'Vegetative Protection LDB': '; Request Date: 25-AUG-16',
   'Vegetative Protection RDB': '; Request Date: 25-AUG-16',
   'Velocity - stream': '; Request Date: 02-MAR-07',
@@ -27376,7 +27409,7 @@ export default {
   'Wastewater relative fluorescence (fWW)': 'NWIS',
   Water: '; Request Date: 02-MAR-07',
   'Water Clarity': '',
-  'Water Column Habitat Type (%)': '; Request Date: 14-MAY-10',
+  'Water Column Habitat Type (%)': 'Information,4; Request Date: 14-MAY-10',
   'Water Odor (choice list)': '; Request Date: 26-AUG-13',
   'Water Pressure': '; Request Date: 26-AUG-13',
   'Water Residence Time': '',
@@ -27422,7 +27455,7 @@ export default {
   'Well condition (choice list)': '; Request Date: 08-NOV-13',
   'Wet Bulk Density of Soils':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
-  'Wetland Habitat alteration (Y/N) (choice list)': '',
+  'Wetland Habitat alteration (Y/N) (choice list)': 'Information,4;',
   'Wetted Width': 'NRSA; Request Date: 01-SEP-16',
   'Whirling Disease Present (Y/N) (choice list)': '',
   'White ice thickness':
@@ -27713,7 +27746,7 @@ export default {
   'a-D-galactosidase (corrected for carbon content)':
     '; Request Date: 24-NOV-09',
   'a-D-glucosidase (corrected for carbon content)': '; Request Date: 24-NOV-09',
-  'algal entity density': '; Request Date: 07-DEC-09',
+  'algal entity density': 'Microbiological,9; Request Date: 07-DEC-09',
   'alpha-(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-Heptadecafluorononyl)aziridine-1-ethanol':
     '',
   'alpha-1,2,5,6-Tetrabromocyclooctane': 'alpha-1,2,5,6-Tetrabromocyclooctane',
