@@ -15796,11 +15796,11 @@ export default {
   'Active channel width': 'Physical',
   'Activities - Algal Mats (choice list)': 'Not Assigned',
   'Activities - Algal bloom (Y/N) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Activities - Algal mats (Y/N) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Activities - Algal scum (Y/N) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Activities - Angling Pressure (choice list)': 'Not Assigned',
   'Activities - Bridge/Culverts (choice list)': 'Not Assigned',
   'Activities - Channelization (choice list)': 'Not Assigned',
@@ -15921,29 +15921,26 @@ export default {
   Aldrin: 'Organics, Pesticide',
   'Aldrin + dieldrin mix, unspecified': 'Organics, Pesticide',
   Alendronate: 'Not Assigned',
-  'Algae, all groups, density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Algae, all groups, density': 'Biological, Algae, Phytoplankton',
   'Algae, blue-green (phylum cyanophyta) density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Algae, blue-green (phylum cyanophyta) percent':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria',
   'Algae, brown (phylum phaeophyta) density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria',
   'Algae, golden-brown (phylum chrysophyta) density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Algae, green (phylum chlorophyta) density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Algae, red (phylum rhodophyta) density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
+  'Algae, red (phylum rhodophyta) density': 'Biological, Algae, Phytoplankton',
   'Algae, substrate rock/bank cover (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Algae, yellow-green (phylum xanthophyta) density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Algae-Phycocyanin': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Algal Bloom Severity (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Algal growth potential':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
+  'Algae-Phycocyanin':
+    'Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin',
+  'Algal Bloom Severity (choice list)': 'Biological, Algae, Phytoplankton',
+  'Algal growth potential': 'Biological, Algae, Phytoplankton',
   'Aliphatics fraction': 'Organics, Other',
   'Alkaline phosphatase': 'Not Assigned',
   Alkalinity: 'Physical',
@@ -15954,7 +15951,7 @@ export default {
   'Alkalinity, total': 'Physical',
   'Alkane mix C10-C34': 'Not Assigned',
   'Alkanes, Petroleum': 'Not Assigned',
-  'Alkanes, Plant Wax': 'Not Assigned',
+  'Alkanes, Plant Wax': 'Biological, Plants',
   'Alkanes, total': 'Not Assigned',
   'Alkenes, C4-20 .alpha.-, .gamma.-.omega.-perfluoro':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -16210,10 +16207,10 @@ export default {
   Apramycin: 'Not Assigned',
   'Aquatic Bacteria': 'Not Assigned',
   'Aquatic Habitat Changes Present': 'Physical, Habitat',
-  'Aquatic Macrophytes - Emergent': 'Aquatic plants EDH',
-  'Aquatic Macrophytes - Floating': 'Aquatic plants EDH',
+  'Aquatic Macrophytes - Emergent': 'Biological, Aquatic Plants',
+  'Aquatic Macrophytes - Floating': 'Biological, Aquatic Plants',
   'Aquatic Plant Cover, substrate rock/bank cover (choice list)':
-    'Not Assigned',
+    'Biological, Aquatic Plants',
   'Aquatic Vegetation Jabs': 'Information',
   'Aquatic Vegetation, Density': 'Not Assigned',
   'Aquatic Vegetation, Type': 'Not Assigned',
@@ -17603,23 +17600,17 @@ export default {
   'Bioluminescence (%)': 'Physical',
   Biomass: 'Physical',
   'Biomass, benthic': 'Physical',
-  'Biomass, chlorophycota':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Biomass, chrysophyta':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Biomass, cryptophycophyta':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Biomass, cyanophycota':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Biomass, chlorophycota': 'Biological, Algae, Phytoplankton',
+  'Biomass, chrysophyta': 'Biological, Algae, Phytoplankton',
+  'Biomass, cryptophycophyta': 'Biological, Algae, Phytoplankton',
+  'Biomass, cyanophycota': 'Biological, Algae, Phytoplankton',
   'Biomass, drift macroinvertebrates': 'Physical',
-  'Biomass, euglenophycota':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Biomass, periphyton': 'Periphyton',
-  'Biomass, phytoplankton':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Biomass, euglenophycota': 'Biological, Algae, Phytoplankton',
+  'Biomass, periphyton':
+    'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
+  'Biomass, phytoplankton': 'Biological, Algae, Phytoplankton',
   'Biomass, plankton': 'Physical',
-  'Biomass, pyrrophycophyta':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Biomass, pyrrophycophyta': 'Biological, Algae, Phytoplankton',
   'Biomass, species 25-30 mm size class': 'Physical',
   'Biomass, species 30-35 mm size class': 'Physical',
   'Biomass, species 35-40 mm size class': 'Physical',
@@ -17627,7 +17618,7 @@ export default {
   'Biomass, species 45-50 mm size class': 'Not Assigned',
   'Biomass, zooplankton': 'Physical',
   'Biomass/chlorophyll ratio':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   Biopermethrin: 'Not Assigned',
   'Biovolume per individual': 'Not Assigned',
   Biphenyl: 'Organics, Other',
@@ -18465,10 +18456,8 @@ export default {
   'Caffeine-13C': 'Organics, Other',
   'Caffeine-d9': 'Not Assigned',
   'Caffeine-trimethyl-13C3': 'Organics, Other',
-  'Calcareous green algae':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Calcareous red algae':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Calcareous green algae': 'Biological, Algae, Phytoplankton',
+  'Calcareous red algae': 'Biological, Algae, Phytoplankton',
   Calcium: 'Inorganics, Major, Metals',
   'Calcium (3E)-6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-5-oxooct-3-en-3-olate (3Z)-6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-5-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -18657,15 +18646,14 @@ export default {
   'Carfentrazone-ethyl': 'Organics, Pesticide',
   Carisoprodol: 'Organics, Other',
   Carmustine: 'Not Assigned',
-  Carotenoids: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  Carotenoids: 'Biological, Algae, Phytoplankton',
   'Caroxin F': 'PFAS,Perfluorinated Alkyl Substance',
   Carprofen: 'Not Assigned',
   Cashmeran: 'Organics, Other',
   'Cast (choice list)': 'Information',
   'Catchment basin area': 'Information',
   Catechol: 'Organics, Pesticide',
-  'Categorical Diatom Thickness':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Categorical Diatom Thickness': 'Biological, Algae, Phytoplankton',
   'Cation exchange capacity': 'Physical',
   'Cations-Anions': 'Physical',
   Cefotaxime: 'Not Assigned',
@@ -18854,45 +18842,44 @@ export default {
   Chlorophacinone: 'Not Assigned',
   Chlorophene: 'Not Assigned',
   Chlorophenol: 'Organics, Other',
-  Chlorophyll: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll a': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  Chlorophyll: 'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
+  'Chlorophyll a': 'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a (probe relative fluorescence)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae,Phytoplankton,Cyanobacteria,Photosynthetic',
   'Chlorophyll a (probe)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a (probe) concentration, Chlorophyte (green algae)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a (probe) concentration, Cryptophyta (cryptophytes)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a (probe) concentration, Cyanobacteria (bluegreen)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae,Phytoplankton,Cyanobacteria,Photosynthetic',
   'Chlorophyll a (probe) concentration, Dinophyta (diatoms)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a (probe) concentration, Xanthophyte (yellow algae)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll a - Periphyton (attached)': 'Periphyton',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
+  'Chlorophyll a - Periphyton (attached)':
+    'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
   'Chlorophyll a - Phytoplankton (suspended)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, corrected for pheophytin':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, free of pheophytin':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, index (YES/NO) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, pheophytin correction unspecified':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, uncorrected for pheophytin':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll b': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll c': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll c1': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll c1 + c2':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll c2': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Chlorophyll/Pheophytin ratio':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
+  'Chlorophyll b': 'Biological, Photosynthetic Pigments',
+  'Chlorophyll c': 'Biological, Photosynthetic Pigments',
+  'Chlorophyll c1': 'Biological, Photosynthetic Pigments',
+  'Chlorophyll c1 + c2': 'Biological, Photosynthetic Pigments',
+  'Chlorophyll c2': 'Biological, Photosynthetic Pigments',
+  'Chlorophyll/Pheophytin ratio': 'Biological, Photosynthetic Pigments',
   Chloropicrin: 'Organics, Pesticide',
   Chloroprene: 'Organics, Other',
   Chloropropylate: 'Organics, Pesticide',
@@ -18999,7 +18986,7 @@ export default {
   Citrobacter: 'Microbiological',
   Citronellol: 'Not Assigned',
   'Cl-Perfluoroheptanoate': 'PFAS,Perfluorinated Alkyl Substance',
-  'Cladophora, visual observation': 'Algae EDH',
+  'Cladophora, visual observation': 'Biological, Algae, Phytoplankton',
   Clarithromycin: 'Not Assigned',
   'Clavibacter xyli cynodontis, producing BTK D-Endotoxin': 'Microbiological',
   Clenbuterol: 'Organics, Other',
@@ -19085,18 +19072,17 @@ export default {
   'Condition class, Riparian Vegetation': 'Information',
   'Condition class, based on thresholds': 'Information',
   'Condition class, chemical (Chlorophyll a)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Photosynthetic Pigments',
   'Condition class, chemical (Conductivity/Salinity)': 'Information',
   'Condition class, chemical (acid neutralizing capacity)': 'Information',
-  'Condition class, diatom index':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Condition class, diatom index': 'Biological, Algae, Phytoplankton',
   'Condition class, nutrient (Total Nitrogen)': 'Information',
   'Condition class, nutrient (Total Phosphorus)': 'Information',
   'Condition class, recreational (Microcystin > RL)':
     'Cyanotoxins, Phytotoxins',
   'Condition class, recreational (Microcystin)': 'Cyanotoxins, Phytotoxins',
   'Condition class, recreational Cyanobacteria (bluegreen)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria',
   'Conditions Preventing Sampling': 'Information',
   Conductance: 'Not Assigned',
   Conductivity: 'Physical',
@@ -19259,13 +19245,12 @@ export default {
   Cyanides: 'Not Assigned',
   'Cyanides amenable to chlorination (HCN & CN)': 'Not Assigned',
   'Cyanobacteria fluorescence of phycoerythrin (fPE)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Cyanobacteria, visual observation':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin',
+  'Cyanobacteria, visual observation': 'Biological, Algae, Cyanobacteria',
   'Cyanobacterial abundance from a phycocyanin sensor (PC)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin',
   'Cyanobacterial abundance from a phycoerythrin sensor (PE)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin',
   'Cyanogen bromide': 'Not Assigned',
   'Cyanogen chloride': 'Not Assigned',
   Cyanophos: 'Inorganics, Minor, Non-metals',
@@ -19669,10 +19654,8 @@ export default {
   'Ddifluorotris(pentafluoroethyl)phosphorane':
     'PFAS,Perfluorinated Alkyl Substance',
   Dead: 'Physical',
-  'Dead centric diatoms':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Dead pennate diatoms':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Dead centric diatoms': 'Biological, Algae, Phytoplankton',
+  'Dead pennate diatoms': 'Biological, Algae, Phytoplankton',
   'Decabromobiphenyl ether(DBBE)': 'Organics, Other',
   'Decabromodiphenyl ether': 'Organics, Other',
   'Decabromodiphenyl oxide': 'Organics, Other',
@@ -19910,11 +19893,9 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Diammonium 6:2 fluorotelomer phosphate monoester':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Diatom condition index':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Diatom conversion factor':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  Diatoms: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Diatom condition index': 'Biological, Algae, Phytoplankton',
+  'Diatom conversion factor': 'Biological, Algae, Phytoplankton',
+  Diatoms: 'Biological, Algae, Phytoplankton',
   Diatrizoate: 'Organics, Other',
   'Diatrizoic acid': 'Not Assigned',
   'Diatrizoic acid-d6': 'Not Assigned',
@@ -21349,7 +21330,7 @@ export default {
     'Not Assigned',
   'Excavated, trapezoidal channel (%)': 'Not Assigned',
   'Exchangeable phosphorus': 'Physical',
-  'Exotic Plant Removal Disturbance (choice list)': 'Information',
+  'Exotic Plant Removal Disturbance (choice list)': 'Biological, Plants',
   'Extended diesel range organics C10-C36': 'Organics, Other',
   'External condition (text)': 'Not Assigned',
   'Extract volume': 'Not Assigned',
@@ -21443,9 +21424,10 @@ export default {
   'Ferulic acid': 'Not Assigned',
   Fexofenadine: 'Not Assigned',
   'Field or Lab Anomaly': 'Not Assigned',
-  'Filamentous Algae Cover': 'Sediment',
-  'Filamentous Algae covering streambed (choice list)': 'Information',
-  'Filamentous Presence': 'Sediment',
+  'Filamentous Algae Cover': 'Biological, Habitat, Filamentous Algae',
+  'Filamentous Algae covering streambed (choice list)':
+    'Biological, Habitat, Filamentous Algae',
+  'Filamentous Presence': 'Biological, Habitat, Filamentous Algae',
   'Filter Contamination Mass': 'Physical',
   'Final Void Ratio': 'Physical',
   Finasteride: 'Not Assigned',
@@ -21461,7 +21443,8 @@ export default {
   'Fipronil sulfonate': 'Not Assigned',
   'Fipronil-13C4-15N2': 'Not Assigned',
   'FireMaster BP 6': 'Organics, PCBs',
-  'Firmly attached algae or submerged veg (choice list)': 'Not Assigned',
+  'Firmly attached algae or submerged veg (choice list)':
+    'Biological, Habitat, Algae, Aquatic Plants',
   'Fish - Passage Barrier (Y/N) (choice list)': 'Information',
   'Fish Anomalies - Deformities': 'Biological, Fish',
   'Fish Anomalies - Erosions': 'Biological, Fish',
@@ -21471,7 +21454,8 @@ export default {
   'Fish Cover - Artificial Structures (choice list)': 'Not Assigned',
   'Fish Cover - Boulders (choice list)': 'Not Assigned',
   'Fish Cover - Brush/Woody Debris <0.3m (SMALL) (choice list)': 'Not Assigned',
-  'Fish Cover - Filamentous Algae (choice list)': 'Not Assigned',
+  'Fish Cover - Filamentous Algae (choice list)':
+    'Biological, Fish Habitat, Filamentous Algae',
   'Fish Cover - Live Trees or Roots (choice list)': 'Not Assigned',
   'Fish Cover - Macrophytes (choice list)': 'Not Assigned',
   'Fish Cover - Overhanging Veg. <=1m of Surface (choice list)': 'Not Assigned',
@@ -21498,7 +21482,7 @@ export default {
   'Floating Detergent/Soap - Severity (choice list)': 'Physical',
   'Floating Garbage Severity (choice list)': 'Physical',
   'Floating algae mat - severity (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Floating debris (Y/N) (choice list)': 'Physical',
   'Floating debris - severity (choice list)': 'Physical',
   'Floating foam/suds (Y/N) (choice list)': 'Physical',
@@ -21659,7 +21643,7 @@ export default {
   'FtS 4:2 ion': 'PFAS,Perfluorinated Alkyl Substance',
   'FtS 6:2 ion': 'PFAS,Perfluorinated Alkyl Substance',
   'FtS 8:2 ion': 'PFAS,Perfluorinated Alkyl Substance',
-  Fucoxanthin: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  Fucoxanthin: 'Biological, Algae, Phytoplankton',
   'Fuel oil #5': 'Organics, Other',
   'Fuel oil #6': 'Organics, Other',
   'Fuel oil no. 1': 'Organics, Other',
@@ -21887,8 +21871,8 @@ export default {
   'Ground Coverage Bare (choice list)': 'Physical',
   'Ground Coverage Herbaceous (choice list)': 'Physical',
   'Groundwater level': 'Physical',
-  Growth: 'Physical',
-  'Growth/Biomass': 'Productivity',
+  Growth: 'Biological, Primary Production',
+  'Growth/Biomass': 'Biological, Primary Production',
   Guaiacol: 'Organics, Other',
   Guaifenesin: 'Not Assigned',
   'Guanidine, N-[6-phenyl-4,4-bis(trifluoromethyl)-4H-1,3,5-oxadiazin-2-yl]-':
@@ -21936,7 +21920,8 @@ export default {
   'HUMM2 DNA Marker (purified)': 'Not Assigned',
   'Habitat Cover Extent': 'Physical, Habitat',
   'Habitat Cover Type': 'Physical, Habitat',
-  'Habitat Cover, Filamentous Algae (choice list)': 'Physical, Habitat',
+  'Habitat Cover, Filamentous Algae (choice list)':
+    'Biological, Habitat, Filamentous Algae',
   'Habitat Cover, Macrophytes (choice list)': 'Physical, Habitat',
   'Habitat Cover, Periphyton (choice list)': 'Physical, Habitat',
   'Habitat Cover, other (%)': 'Physical, Habitat',
@@ -21969,7 +21954,7 @@ export default {
   'Hardness, magnesium': 'Physical',
   'Hardness, non-carbonate': 'Physical',
   'Harmful Algal Blooms Present (Y/N) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Cyanobacteria',
   Hartmannella: 'Microbiological',
   'Hartmannella limax': 'Microbiological',
   'Hartmannella vermiformis': 'Microbiological',
@@ -22571,7 +22556,7 @@ export default {
   'Indeno[1,2,3-cd]pyrene': 'Organics, Other',
   'Indeno[1,2,3-cd]pyrene-d12': 'Organics, Other',
   'Index sample for diatom condition index (YES/NO) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   Indigo: 'Not Assigned',
   Indium: 'Inorganics, Minor, Metals',
   'Indium, hydroxybis(2,2,2-trifluoroacetato-.kappa.O)-':
@@ -22611,7 +22596,7 @@ export default {
   'Intermittent sections (choice list)': 'Not Assigned',
   'Inundated or Saturated in Pit (Y/N) (choicelist)': 'Information',
   'Inundation Evidence: Algal mat or crust (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Inundation Evidence: Aquatic invertebrates (choice list)': 'Information',
   'Inundation Evidence: Biotic crust (choice list)': 'Information',
   'Inundation Evidence: Drainage patterns (choice list)': 'Information',
@@ -22624,7 +22609,8 @@ export default {
   'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)':
     'Physical, Habitat',
   'Inundation Evidence: Surface soil cracks (choice list)': 'Information',
-  'Inundation Evidence: True aquatic plants (choice list)': 'Physical, Habitat',
+  'Inundation Evidence: True aquatic plants (choice list)':
+    'Biological, Habitat, Plants',
   'Inundation Evidence: Water marks (choice list)': 'Information',
   'Inundation Evidence: Water stained leaves (choice list)': 'Information',
   'Invasive Species Identification Confidence': 'Information',
@@ -23160,10 +23146,8 @@ export default {
   'Littoral Substrate - Shore Dominant': 'Information',
   'Littoral Substrate - Shore Secondary': 'Information',
   'Littoral-Riparian Cover Complexity Index': 'Physical',
-  'Live centric diatoms':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Live pennate diatoms':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Live centric diatoms': 'Biological, Algae, Phytoplankton',
+  'Live pennate diatoms': 'Biological, Algae, Phytoplankton',
   'Livestock Trampling or Grazing Disturbance (choice list)': 'Information',
   'Lloyd - Zar - Karr Species Diversity Index': 'Physical',
   'Local Conditions': 'Information',
@@ -23174,7 +23158,8 @@ export default {
   'Longitude, Bank': 'Information',
   'Longitude, Midstream': 'Information',
   'Longitudinal Distribution': 'Information',
-  'Loosely attached filamentous algae (choice list)': 'Not Assigned',
+  'Loosely attached filamentous algae (choice list)':
+    'Biological, Habitat, Filamentous Algae',
   'Loosely sorbed Phosphorus (LSP)': 'Not Assigned',
   Loperamide: 'Not Assigned',
   Loratadine: 'Organics, Other',
@@ -23209,7 +23194,7 @@ export default {
   MDMA: 'Organics, Other',
   'MIOX micaceous iron oxide': 'Not Assigned',
   'Macro Algae Stream Reach Coverage Average':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Habitat, Algae, Phytoplankton',
   'Macrohabitat Type - Channel Crossover': 'Physical, Habitat',
   'Macrohabitat Type - Constrained Channel': 'Physical, Habitat',
   'Macrohabitat Type - Inside Bend': 'Physical, Habitat',
@@ -23220,9 +23205,9 @@ export default {
   'Macrohabitat Type - Unconstrained Channel': 'Physical, Habitat',
   Macroinvertebrates: 'Biological',
   'Macrophyte cover': 'Biological',
-  'Macrophytes Extend Lakeward (choice list)': 'Aquatic plants EDH',
+  'Macrophytes Extend Lakeward (choice list)': 'Biological, Aquatic Plants',
   'Macrophytes covering streambed (emergent and submerged) (choice list)':
-    'Aquatic plants EDH',
+    'Biological, Aquatic Plants',
   Magnesium: 'Inorganics, Major, Metals',
   'Magnesium bromide 1,1,2,2,3,3,4,4,4-nonafluorobutan-1-ide (1/1/1)':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -23867,7 +23852,7 @@ export default {
   'Mica group minerals': 'Not Assigned',
   Miconazole: 'Not Assigned',
   'Micro Algae Stream Reach Thickness Average':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Habitat, Algae, Phytoplankton',
   Microcystin: 'Cyanotoxins, Phytotoxins',
   'Microcystin AR': 'Cyanotoxins, Phytotoxins',
   'Microcystin FR': 'Cyanotoxins, Phytotoxins',
@@ -23898,7 +23883,7 @@ export default {
   Microcystins: 'Cyanotoxins, Phytotoxins',
   'Microcystins and nodularins': 'Cyanotoxins, Phytotoxins',
   'Microcystins/nodularin': 'Cyanotoxins, Phytotoxins',
-  'Microhabitat Type - Plant': 'Physical, Habitat',
+  'Microhabitat Type - Plant': 'Biological, Habitat, Aquatic Plants',
   'Microhabitat Type - Pool': 'Physical, Habitat',
   'Microhabitat Type - Riffle': 'Physical, Habitat',
   'Microhabitat Type - Root': 'Physical, Habitat',
@@ -23939,7 +23924,8 @@ export default {
   Monochloroguaicols: 'Organics, Other',
   Monochlorophenols: 'Organics, Other',
   Monochlorovanillins: 'Organics, Other',
-  'Monocot plant type present (Y/N) (choice list)': 'Aquatic plants EDH',
+  'Monocot plant type present (Y/N) (choice list)':
+    'Biological, Aquatic Plants',
   Monocrotaline: 'Organics, Other',
   'Monocrotaline N-oxide': 'Organics, Other',
   Monocrotophos: 'Organics, Pesticide',
@@ -25437,7 +25423,7 @@ export default {
     'Biological, Fish',
   'Non-apatite inorganic phosphorus': 'Information',
   'Non-lipid organic matter': 'Information',
-  'Non-plankton algae severity (choice list)': 'Physical',
+  'Non-plankton algae severity (choice list)': 'Biological, Algae',
   'Non-purgeable Organic Carbon (NPOC)': 'Organics, Other',
   'Non-settleable solids': 'Not Assigned',
   'Non-viable seed count': 'Biological, Counts',
@@ -25594,11 +25580,11 @@ export default {
   'Number of Boats': 'Information',
   'Number of Tolerance Species all Plots': 'Information',
   'Number of individuals': 'Physical',
-  'Number of pedicels per sample plant': 'Physical',
+  'Number of pedicels per sample plant': 'Biological, Plants',
   'Number of sampling points': 'Not Assigned',
   'Number of seeds with ergots': 'Physical',
   'Number of seeds with worm holes': 'Physical',
-  'Number of stalks per sample plant': 'Physical',
+  'Number of stalks per sample plant': 'Biological, Plants',
   'Number of valves': 'Physical',
   'Nutrient-nitrogen': 'Nutrient',
   'Nylon deterioration': 'Information',
@@ -25861,7 +25847,7 @@ export default {
   'Other Hydrologic Evidence: Shallow aquitard (choice list)': 'Information',
   'Other Hydrologic Evidence: Sphagnum moss (choice list)': 'Information',
   'Other Hydrologic Evidence: Stunted or stressed plants (choice list)':
-    'Information',
+    'Biological, Habitat, Plants',
   'Otolith Collected (Y/N) (choice list)': 'Information',
   'Overhead Cover': 'Information',
   Oxacillin: 'Not Assigned',
@@ -27189,7 +27175,6 @@ export default {
   'Perfluorodecane sulfonic anhydride': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorodecane-1-sulfinic acid': 'PFAS,Perfluorinated Alkyl Substance',
   Perfluorodecanesulfonate: 'PFAS,Perfluorinated Alkyl Substance',
-  'Perfluorodecanesulfonic acid *******': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorodecanesulfonic acid ': 'PFAS,Perfluorinated Alkyl Substance',
   Perfluorodecanoate: 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorodecanoate (anionic form)': 'Organics, Other',
@@ -27434,9 +27419,11 @@ export default {
   PeriSubSoft: 'Not Assigned',
   Pericoma: 'Not Assigned',
   Perindopril: 'Not Assigned',
-  Periphyton: 'Periphyton',
-  'Periphyton biovolume': 'Periphyton',
-  'Periphyton productivity': 'Periphyton',
+  Periphyton: 'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
+  'Periphyton biovolume':
+    'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
+  'Periphyton productivity':
+    'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
   'Periphyton, substrate rock/bank encrustation (choice list)':
     'Physical, Habitat',
   Permethrin: 'Organics, Pesticide',
@@ -27478,8 +27465,7 @@ export default {
   'Pfiesteria piscicida': 'Microbiological',
   Phaenopsectra: 'Not Assigned',
   'Phaeophytin - Periphyton (attached)': 'Physical, Habitat',
-  'Phaeophytin - Phytoplankton (suspended)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Phaeophytin - Phytoplankton (suspended)': 'Biological, Algae, Cyanobacteria',
   Phalacrocera: 'Not Assigned',
   Phanocelia: 'Not Assigned',
   Phantolide: 'Organics, Other',
@@ -27624,13 +27610,14 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   Phenylurea: 'Not Assigned',
   Phenytoin: 'Organics, Other',
-  Pheophytin: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Pheophytin a': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Pheophytin ratio': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  Pheophytin: 'Biological, Algae, Cyanobacteria',
+  'Pheophytin a': 'Biological, Algae, Cyanobacteria',
+  'Pheophytin ratio':
+    'Biological, Algae, Cyanobacteria, Photosynthetic Pigments',
   'Pheophytin/Chlorophyll ratio':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria, Photosynthetic Pigments',
   'Pheopigments of Chlorophyll':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria, Photosynthetic Pigments',
   Pherbellia: 'Not Assigned',
   Philobdella: 'Not Assigned',
   Philocasca: 'Not Assigned',
@@ -27849,16 +27836,17 @@ export default {
   Phthalide: 'Organics, Pesticide',
   'Phthalocyanine, tetrakis(pentadecafluoroheptyl)-, copper deriv.':
     'Organics, Other',
-  Phycocyanin: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  Phycocyanin: 'Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin',
   'Phycocyanin (probe relative fluorescence)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin',
   'Phycocyanin (probe)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  Phycocyanins: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  Phycoerythrin: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Phycoerythrin (PE)': 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin',
+  Phycocyanins: 'Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin',
+  Phycoerythrin: 'Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin',
+  'Phycoerythrin (PE)':
+    'Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin',
   'Phycoerythrin fluorescence (fPE)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin',
   Phyllodocida: 'Not Assigned',
   Phyllodocidae: 'Not Assigned',
   Phylloicus: 'Not Assigned',
@@ -27869,18 +27857,14 @@ export default {
   Phytane: 'Organics, Other',
   Phytoactin: 'Not Assigned',
   Phytol: 'Not Assigned',
-  Phytoplankton: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Phytoplankton Density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Phytoplankton Relative Density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Phytoplankton biovolume':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  Phytoplankton: 'Biological, Algae, Phytoplankton',
+  'Phytoplankton Density': 'Biological, Algae, Phytoplankton',
+  'Phytoplankton Relative Density': 'Biological, Algae, Phytoplankton',
+  'Phytoplankton biovolume': 'Biological, Algae, Phytoplankton',
   'Phytoplankton collected (Y/N) (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Phytoplankton productivity': 'Productivity',
-  'Phytoplankton, settling volume':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
+  'Phytoplankton productivity': 'Biological, Primary Production',
+  'Phytoplankton, settling volume': 'Biological, Algae, Phytoplankton',
   Picarbutrazox: 'Organics, Pesticide',
   'Picarbutrazox TZ-1E': 'Organics, Pesticide',
   Picene: 'Not Assigned',
@@ -27889,7 +27873,7 @@ export default {
   'Picloram triisopropanolamine salt': 'Organics, Pesticide',
   'Picloram-isooctyl': 'Organics, Pesticide',
   'Picloram-potassium': 'Organics, Pesticide',
-  Picocyanobacteria: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  Picocyanobacteria: 'Biological, Algae, Cyanobacteria',
   Picoxystrobin: 'Organics, Pesticide',
   'Picric acid': 'Organics, Other',
   Picrotoxin: 'Not Assigned',
@@ -27929,9 +27913,9 @@ export default {
   Placobdella: 'Not Assigned',
   Planariidae: 'Not Assigned',
   Plankton: 'Microbiological',
-  Planktothrix: 'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
-  'Plant height (Above water)': 'Physical',
-  'Plant height (Total)': 'Physical',
+  Planktothrix: 'Biological, Algae, Cyanobacteria',
+  'Plant height (Above water)': 'Biological, Plants',
+  'Plant height (Total)': 'Biological, Plants',
   'Plastic limit': 'Physical',
   'Plasticity index': 'Physical',
   Platinum: 'Inorganics, Minor, Metals',
@@ -28418,7 +28402,7 @@ export default {
   'Population diversity, fish, # of species': 'Biological, Fish',
   'Population diversity, macroinvertebrates, # of species': 'Physical',
   'Population diversity, phytoplankton, # of species':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton',
   'Population diversity, zooplankton, # of species': 'Physical',
   Porifera: 'Not Assigned',
   Portunidae: 'Not Assigned',
@@ -28590,7 +28574,7 @@ export default {
   'Presence of freshwater sponge (Y/N) (choice list)': 'Not Assigned',
   Pressure: 'Organics, Pesticide',
   'Presumptive Aeromonas': 'Not Assigned',
-  'Primary productivity': 'Productivity',
+  'Primary productivity': 'Biological, Primary Production',
   'Primary/ Secondary surrounding landuse (choice list)': 'Information',
   Primidone: 'Organics, Other',
   'Primisulfuron-methyl': 'Organics, Pesticide',
@@ -28617,8 +28601,9 @@ export default {
   Procymidone: 'Organics, Pesticide',
   Prodiamesa: 'Not Assigned',
   Prodiamine: 'Not Assigned',
-  'Productivity, Bacterial Carbon Production': 'Productivity',
-  'Productivity, photosynthetic rate, carbon production': 'Productivity',
+  'Productivity, Bacterial Carbon Production': 'Biological, Carbon Production',
+  'Productivity, photosynthetic rate, carbon production':
+    'Biological, Carbon Production',
   Profenofos: 'Organics, Pesticide',
   Profluralin: 'Organics, Pesticide',
   Progesterone: 'Organics, Other',
@@ -29553,7 +29538,7 @@ export default {
   'RBP2, Habitat type, large woody debris (%)': 'Physical, Habitat',
   'RBP2, Habitat type, leaf packs (%)': 'Physical, Habitat',
   'RBP2, Habitat type, other (%)': 'Physical, Habitat',
-  'RBP2, Habitat type, plants, roots (%)': 'Physical, Habitat',
+  'RBP2, Habitat type, plants, roots (%)': 'Biological, Habitat, Plants',
   'RBP2, Habitat type, pools (%)': 'Physical, Habitat',
   'RBP2, Habitat type, riffle (%)': 'Physical, Habitat',
   'RBP2, Habitat type, run (%)': 'Physical, Habitat',
@@ -29814,19 +29799,24 @@ export default {
   'Riparian Width LDB': 'Not Assigned',
   'Riparian Width RDB': 'Not Assigned',
   'Riparian Width, Both Banks': 'Physical',
-  'Riparian Zone Left Bank Plant Cover - Exposed Soil': 'Not Assigned',
-  'Riparian Zone Left Bank Plant Cover - Grass Low Plants': 'Physical, Habitat',
+  'Riparian Zone Left Bank Plant Cover - Exposed Soil':
+    'Biological, Habitat, Plants',
+  'Riparian Zone Left Bank Plant Cover - Grass Low Plants':
+    'Biological, Habitat, Plants',
   'Riparian Zone Left Bank Plant Cover - Other (rip rap, concrete, etc)':
-    'Not Assigned',
-  'Riparian Zone Left Bank Plant Cover - Shrubs/Low Trees': 'Not Assigned',
-  'Riparian Zone Left Bank Plant Cover - Trees': 'Not Assigned',
-  'Riparian Zone Right Bank Plant Cover - Exposed Soil': 'Not Assigned',
+    'Biological, Habitat, Plants',
+  'Riparian Zone Left Bank Plant Cover - Shrubs/Low Trees':
+    'Biological, Habitat, Plants',
+  'Riparian Zone Left Bank Plant Cover - Trees': 'Biological, Habitat, Plants',
+  'Riparian Zone Right Bank Plant Cover - Exposed Soil':
+    'Biological, Habitat, Plants',
   'Riparian Zone Right Bank Plant Cover - Grass Low Plants':
-    'Physical, Habitat',
+    'Biological, Habitat, Plants',
   'Riparian Zone Right Bank Plant Cover - Other (rip rap, concrete, etc)':
-    'Not Assigned',
-  'Riparian Zone Right Bank Plant Cover - Shrubs/Low Trees': 'Not Assigned',
-  'Riparian Zone Right Bank Plant Cover - Trees': 'Not Assigned',
+    'Biological, Habitat, Plants',
+  'Riparian Zone Right Bank Plant Cover - Shrubs/Low Trees':
+    'Biological, Habitat, Plants',
+  'Riparian Zone Right Bank Plant Cover - Trees': 'Biological, Habitat, Plants',
   'Riparian vegetation composition (choice list)': 'Physical, Habitat',
   'Riparian vegetation density (choice list)': 'Physical, Habitat',
   'Riparian vegetation, dominant species present': 'Physical, Habitat',
@@ -29845,7 +29835,7 @@ export default {
   'Root Jabs': 'Information',
   'Root weight': 'Physical',
   'Rooted or floating plants restrict access to waterbody (Y/N) (choice list)':
-    'Physical, Habitat',
+    'Biological, Habitat, Plants',
   'Rosgen Stream Type': 'Information',
   Rossiana: 'Not Assigned',
   Rosuvastatin: 'Not Assigned',
@@ -29905,6 +29895,8 @@ export default {
   'Salmonella typhimurium': 'Microbiological',
   'Salt Appearance at Waters Edge (choice list)': 'Information',
   Samarium: 'Inorganics, Minor, Metals',
+  'Sample analytical volume': 'Information',
+  'Sample analytical weight': 'Information',
   'Sample collection general mode (choice list)': 'Not Assigned',
   'Sample time, elapsed': 'Not Assigned',
   'Samples, gas': 'Not Assigned',
@@ -29998,7 +29990,7 @@ export default {
   Sethoxydim: 'Organics, Pesticide',
   Setodes: 'Not Assigned',
   'Settleable solids': 'Physical',
-  'Sewage algae present (choice list)': 'Not Assigned',
+  'Sewage algae present (choice list)': 'Biological, Algae',
   'Sex (choice list)': 'Biological',
   'Shade, Left': 'Information',
   'Shade, Right': 'Information',
@@ -30798,8 +30790,8 @@ export default {
   'Substrate Size Class, Transect': 'Information',
   'Substrate Subdominant, Transect (choice list)': 'Information',
   'Substrate Type (choice list)': 'Not Assigned',
-  'Substrate algae color': 'Not Assigned',
-  'Substrate algae, %': 'Not Assigned',
+  'Substrate algae color': 'Biological, Algae',
+  'Substrate algae, %': 'Biological, Algae',
   'Substrate, clay, medium': 'Information',
   'Substrate-bedrock': 'Information',
   'Subsystem classification stream type (choice list)': 'Information',
@@ -30963,8 +30955,8 @@ export default {
   'Surface Observation: High water table (choice list)': 'Information',
   'Surface Observation: Soil saturation (choice list)': 'Information',
   'Surface Observation: Surface water (choice list)': 'Information',
-  'Surface algae color': 'Not Assigned',
-  'Surface algae, %': 'Not Assigned',
+  'Surface algae color': 'Biological, Algae',
+  'Surface algae, %': 'Biological, Algae',
   'Surface area': 'Physical',
   'Surface tension': 'Physical',
   Surfactants: 'Physical',
@@ -32105,16 +32097,15 @@ export default {
   'Undrained Shear Strength': 'Not Assigned',
   Undulambia: 'Not Assigned',
   'Unknown Arsenic Species': 'Physical',
-  'Unnatural algal growth (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'Unnatural algal growth (choice list)': 'Biological, Algae, Phytoplankton',
   'Unnatural bottom deposits (choice list)': 'Not Assigned',
   'Unnatural color (choice list)': 'Physical',
   'Unnatural floating debris (choice list)': 'Not Assigned',
   'Unnatural odor (choice list)': 'Not Assigned',
   'Unnatural oil (choice list)': 'Not Assigned',
-  'Unnatural plant growth (choice list)': 'Not Assigned',
+  'Unnatural plant growth (choice list)': 'Biological, Plants',
   'Unnatural plant or algal growth (choice list)':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Aquatic Plants',
   'Unnatural turbidity (choice list)': 'Not Assigned',
   Uranium: 'Radiochemical',
   'Uranium 238/234 ratio': 'Not Assigned',
@@ -32627,8 +32618,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'a-D-galactosidase (corrected for carbon content)': 'Not Assigned',
   'a-D-glucosidase (corrected for carbon content)': 'Not Assigned',
-  'algal entity density':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+  'algal entity density': 'Biological, Algae, Phytoplankton',
   'alpha-(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-Heptadecafluorononyl)aziridine-1-ethanol':
     'PFAS,Perfluorinated Alkyl Substance',
   'alpha-1,2,5,6-Tetrabromocyclooctane': 'Organics, Other',
@@ -32945,7 +32935,7 @@ export default {
   'potassium pentafluoroethane-1-sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
   'psi,psi-Carotene, 7,7,8,8,11,11,12,12,15,15-decahydro-':
-    'Phytoplankton, Cyanobacteria, Photosynthetic Pigments',
+    'Biological, Algae, Phytoplankton, Aquatic Plants',
   'rac-(1,5R,6S,9S,10R)-Pentabromocyclododecene': 'Not Assigned',
   'rac-10,11-Dihydro-10,11-dihydroxy carbamazepine': 'Not Assigned',
   'rac-Clopidogrel carboxylic acid': 'Not Assigned',

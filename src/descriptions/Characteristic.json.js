@@ -15217,7 +15217,7 @@ export default {
   Citrobacter: 'TAXON: Monera Kingdom; Request Date: 22-JUL-14',
   Citronellol: 'NWIS',
   'Cl-Perfluoroheptanoate': '',
-  'Cladophora, visual observation': 'Information,4;',
+  'Cladophora, visual observation': 'Information,4;;',
   Clarithromycin: '; Request Date: 10-JUL-13',
   'Clavibacter xyli cynodontis, producing BTK D-Endotoxin':
     '; Request Date: 02-MAR-07',
@@ -22640,8 +22640,6 @@ export default {
   'Perfluorodecane sulfonic anhydride': '',
   'Perfluorodecane-1-sulfinic acid': '',
   Perfluorodecanesulfonate: '',
-  'Perfluorodecanesulfonic acid **********retired***use 1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro-':
-    '',
   'Perfluorodecanesulfonic acid ***retired***use 1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro':
     'Request Date: 19-Nov-18 (nps.gov cas# 375-22-4 review)',
   Perfluorodecanoate: 'Request Date: 01-APR-13, cas# 73829-36-4',
@@ -25134,6 +25132,10 @@ export default {
   'Salmonella typhimurium': '',
   'Salt Appearance at Waters Edge (choice list)': '; Request Date: 17-DEC-10',
   Samarium: '; Request Date: 22-JUL-14',
+  'Sample analytical volume':
+    'Activity metadata; recommend using the DetectionQuantitatonLimitType, ***MeasureValue, ***Unit, and CommentText fields to capture these analytical volumes at the Result level, alongside their associated measure values',
+  'Sample analytical weight':
+    'Activity metadata; recommend using the DetectionQuantitatonLimitType, ***MeasureValue, ***Unit, and CommentText fields to capture these analytical volumes at the Result level, alongside their associated measure values',
   'Sample collection general mode (choice list)': '',
   'Sample time, elapsed': '; Request Date: 07-JUN-18',
   'Samples, gas': '',

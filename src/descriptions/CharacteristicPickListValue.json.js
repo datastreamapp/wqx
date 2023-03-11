@@ -75,12 +75,12 @@ export default {
   'Surface algae, %': 'Surface algae cover >0-25%',
   'Substrate algae, %': 'Substrate algae cover >0-25%',
   'Macro Algae Stream Reach Coverage Average': 'Too Deep',
+  'Periphyton, substrate rock/bank encrustation (choice list)':
+    'Periphyton encrustation 81 - 99% of substrate',
   'Moss Stream Reach Coverage Average (choice list)': 'Too Deep',
   'Sludge, substrate rock/bank cover - severity (choice list)':
     'Sludge cover 81 - 99% of substrate',
   'Aquatic Plant Cover, substrate rock/bank cover (choice list)': '81-99%',
-  'Periphyton, substrate rock/bank encrustation (choice list)':
-    'Periphyton encrustation 81 - 99% of substrate',
   'Forest Age (choice list)': '>75 yrs',
   'RBP2, High G, Epifaunal Substrate/Available Cover (choice list)':
     'Optimal, > 70% of substrate favorable for colonization',
@@ -268,6 +268,8 @@ export default {
     'banks covered with salt crusts',
   'Surface Cover, Species (choice list)':
     '95% or greater canopy coverage of surface',
+  'Recent Flooding Disturbance (choice list)':
+    'No recent flooding disturbance of geomorphic surface',
   'Recent Fire Disturbance (choice list)':
     'No recent fire disturbance of geomorphic surface',
   'Road or Track Disturbance (choice list)':
@@ -284,12 +286,10 @@ export default {
     'No insect infestation disturbance of geomorphic surface',
   'Exotic Plant Removal Disturbance (choice list)':
     'No exotic plant removal disturbance of geomorphic surface',
-  'Other Disturbance (choice list)':
-    'No other disturbance of geomorphic surface',
-  'Recent Flooding Disturbance (choice list)':
-    'No recent flooding disturbance of geomorphic surface',
   'Beaver Activity Disturbance (choice list)':
     'No beaver activity disturbance of geomorphic surface',
+  'Other Disturbance (choice list)':
+    'No other disturbance of geomorphic surface',
   'Lake physical appearance (choice list)':
     '5=Severely high algae levels & scums, odors, or fish kill',
   'Stream physical appearance (choice list)':
@@ -300,11 +300,11 @@ export default {
     '5=Recreation and aesthetic enjoyment nearly impossible',
   'Tide stage (choice list)':
     'Not Applicable - Self Describing. (not a tidal stream)',
-  'RBP Bottom Substrate (choice list)': '<10% MIXED - Self describing.',
   'RBP Instream Cover (choice list)': '<10% MIXED - Self describing.',
-  'RBP Bank Vegetative Stability, Right (choice list)':
-    'W>18M - Self describing.',
+  'RBP Bottom Substrate (choice list)': '<10% MIXED - Self describing.',
   'RBP Bank Vegetative Stability, Left (choice list)':
+    'W>18M - Self describing.',
+  'RBP Bank Vegetative Stability, Right (choice list)':
     'W>18M - Self describing.',
   'Stream Physical Appearance, Minnesota (choice list)':
     'Cloudy brown from sediment and green from algae growth',
@@ -671,12 +671,12 @@ export default {
   'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
     'P-value & Result indicate test response significantly toxic',
   'Invasive species found (choice list)': 'Yes',
-  'Sewage algae present (choice list)': 'Yes',
   'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
     'Yes, there has been heavy rain within the last 7 days',
   'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
   'Toxicity, sediment, species significant (choice list)':
     'P-value & Result indicate test response is not significant',
+  'Sewage algae present (choice list)': 'Yes',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
   'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
   'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':

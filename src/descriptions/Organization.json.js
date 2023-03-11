@@ -8,7 +8,6 @@ export default {
   947757: 'Confederated Tribes of Coos, Lower Umpqua and Siulsaw Indians; ',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '****W_WQX_DELETED_REMOVED': 'Whatcom Conservation District',
   '***TC_WQX_DELETED_REMOVED': 'Thurston County Environmental Health',
   '**T_WQX_DELETED_REMOVED':
     'Division of Thuston County Public Health and Social Services',
@@ -409,6 +408,7 @@ export default {
   CHEROKEEMD: 'Colorado',
   CHEROKEE_WQX: 'Cherokee Nation (Oklahoma);',
   CHESAPEAKBAYNERR: '',
+  CHESAPEAKEMONITORINGCOOP: '',
   CHEYENNEWSD1: '',
   CHEYRIVR: ' (Tribal)',
   CHICKALOONNATIVEVILLAGE_WQX: 'Chickaloon Native Village;',
@@ -1416,6 +1416,8 @@ export default {
   WHITEMOUNTAIN_WQX: 'White Mountain Apache Tribe;',
   WICHITAEPA_WQX:
     'Wichita and Affiliated Tribes Of Oklahoma; Wichita and Affiliated Tribes Of Oklahoma',
+  WIDATCP_WQX:
+    'Wisconsin Department of Agriculture, Trade and Consumer Protection',
   WIDNR_WQX: 'Wisconsin Department of Natural Resources.',
   WILLOWCREEK: 'CDSN - Willow Creek Reclamation Committee',
   WINDWARDENV_WQX: 'WindwardEnvironmental',

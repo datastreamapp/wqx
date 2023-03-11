@@ -4,7 +4,6 @@
   "description": "",
   "type": "string",
   "enum": [
-    "****W_WQX_DELETED_REMOVED",
     "***TC_WQX_DELETED_REMOVED",
     "**T_WQX_DELETED_REMOVED",
     "*A_WQX_DELETED_REMOVED",
@@ -371,6 +370,7 @@
     "CHEROKEEMD",
     "CHEROKEE_WQX",
     "CHESAPEAKBAYNERR",
+    "CHESAPEAKEMONITORINGCOOP",
     "CHEYENNEWSD1",
     "CHEYRIVR",
     "CHICKALOONNATIVEVILLAGE_WQX",
@@ -1261,6 +1261,7 @@
     "WHATCOM_WQX",
     "WHITEMOUNTAIN_WQX",
     "WICHITAEPA_WQX",
+    "WIDATCP_WQX",
     "WIDNR_WQX",
     "WILLOWCREEK",
     "WINDWARDENV_WQX",

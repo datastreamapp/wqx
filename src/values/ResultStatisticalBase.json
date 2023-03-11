@@ -4,6 +4,7 @@
   "description": "",
   "type": "string",
   "enum": [
+    "1 Pctl",
     "10 Pctl",
     "15 Pctl",
     "2-Sigma CSU",

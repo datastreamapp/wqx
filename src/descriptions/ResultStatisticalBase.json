@@ -1,4 +1,5 @@
 {
+  "1 Pctl": "A 1st percentile says that 1% of the time data points are below that value and 99% of the time they are above that value.",
   "10 Pctl": "the 10th percentile is the value (or score) below which 10% of the observations may be found.",
   "15 Pctl": "the 15th percentile is the value (or score) below which 15% of the observations may be found.",
   "2-Sigma CSU": "2-Sigma CSU",
