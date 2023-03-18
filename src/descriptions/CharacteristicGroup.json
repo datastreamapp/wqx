@@ -1,6 +1,4 @@
 {
-  "Algae EDH": "Environmental Determinants of Health",
-  "Aquatic plants EDH": "Environmental Determinants of Health",
   "Biological": "",
   "Biological, Algae": "",
   "Biological, Algae, Cyanobacteria": "",
@@ -34,7 +32,7 @@
   "Inorganics, Minor, Metals": "",
   "Inorganics, Minor, Non-metals": "",
   "Microbiological": "",
-  "Not Assigned": "",
+  "Not Assigned": "Not Assigned values for field.",
   "Nutrient": "",
   "Organics, BDEs": "",
   "Organics, Other": "",

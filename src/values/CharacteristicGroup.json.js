@@ -4,8 +4,6 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    'Algae EDH',
-    'Aquatic plants EDH',
     'Biological',
     'Biological, Algae',
     'Biological, Algae, Cyanobacteria',
