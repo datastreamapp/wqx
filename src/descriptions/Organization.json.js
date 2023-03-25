@@ -6,11 +6,9 @@ export default {
   939785:
     'This is a duplicate organization setup for the NHDES and does not contain any data. It is strictly used for testing only.',
   947757: 'Confederated Tribes of Coos, Lower Umpqua and Siulsaw Indians; ',
+  1121575: 'Water Quality Monitoring Data',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '***TC_WQX_DELETED_REMOVED': 'Thurston County Environmental Health',
-  '**T_WQX_DELETED_REMOVED':
-    'Division of Thuston County Public Health and Social Services',
   '*A_WQX_DELETED_REMOVED':
     '_DELETEDAk-Chin Indian Community Environmental Protection Department;',
   '0800257_WQX': 'Water quality',
@@ -543,6 +541,7 @@ export default {
   EOR_WQX: '',
   'EPA-C_WQX': 'CBP (TEST/Staging Environment)',
   'EPA-EAID-R3_WQX': '',
+  'EPA-FSB-R3_WQX': '',
   'EPA-WPD-R3_WQX': 'EPA Region 3 TMDL Program',
   EPAORD: 'EPA Office of Research and Development',
   EPAORD_WQX: 'EPA Office of Research and Development',
@@ -905,6 +904,7 @@ export default {
   MUSCOGEE_CREEK: 'Muscogee Creek Nation; ',
   MUSCONETCONGORG_WQX: '',
   MWA1: 'The Musconetcong Watershed Association (MWA) is a non-profit organization incorporated in 1992 to protect and enhance the Musconetcong River and its related resources. MWA members are part of a network of individuals, families and organizations that care about the Musconetcong River and its watershed.',
+  MWRA_WQX: 'MWRA/ Environmental Quality Department',
   MWRDSTOR_WQX:
     'Water Quality Monitoring: 100 East Erie Street, Chicago, IL 60611  (312) 751-5600',
   MWRD_WQX: 'Water Quality Monitoring Data and SPCURE member',

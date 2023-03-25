@@ -931,6 +931,8 @@ export default {
   '1625(BNW)': '',
   '1625(S)': ' in Sediment',
   '1625(T)': '',
+  '1630 Mod':
+    '1630 MOD~ EPA-EAD ; Methyl Mercury in Water, Method 1630: Methyl Mercury in Water by Distillation, Aqueous Ethylation, Purge and Trap, and Cold Vapor Atomic Fluorescence Spectrometry as described in https://www.epa.gov/sites/default/files/2015-08/documents/method_1630_1998.pdf . And then modified as described in Guidance for Implementing the January 2001 Methylmercury Water Quality Criterion (EPA 823-R-10-001) which can be found at https://www.epa.gov/sites/default/files/2019-02/documents/guidance-implement-methylmercury-2001.pdf . Table C1 in Appendix C describes the technique for the modification involving digesting tissue with acid solution and neutralizing with acetate buffer.',
   '1631A': '',
   '1631B':
     'http://nepis.epa.gov/Exe/ZyNET.exe/40001EQ2.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1995+Thru+1999&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C95thru99%5CTxt%5C00000022%5C40001EQ2.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL',
