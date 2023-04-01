@@ -17950,6 +17950,7 @@ export default {
   'Habitat Cover, Macrophytes (choice list)': 'Information,4;',
   'Habitat Cover, Periphyton (choice list)': 'Information,4;',
   'Habitat Cover, other (%)': 'Physical,14;',
+  'Habitat Quality (choice list)': '',
   'Habitat Total Score': '; Request Date: 25-AUG-16',
   'Habitat Type (choice list)': '; Request Date: 11-APR-17',
   'Habitat cover, brush and log (%)': 'Physical,14;',
@@ -23310,6 +23311,7 @@ export default {
   'Plant height (Total)': '; Request Date: 24-JUL-15',
   'Plastic limit': '; Request Date: 30-APR-15',
   'Plasticity index': '; Request Date: 30-APR-15',
+  Plastics: '',
   Platinum: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   Platycentropus: 'NWIS',
   Platygymnopa: 'NWIS',
@@ -23922,6 +23924,7 @@ export default {
   'Precipitation event duration':
     'The length of time, in hours or minutes, a precipitation event lasts.; Request Date: 02-MAR-07',
   'Precipitation volume': '',
+  'Precipitation, how heavy (choice list)': '',
   'Precipitation, time since event':
     'The length of time that has elapsed since a precipitation event.; Request Date: 02-MAR-07',
   Prednisolone: '; Request Date: 22-JUL-14',
@@ -25888,6 +25891,7 @@ export default {
   'Stream depth (choice list)':
     'National Park Service, contact nps.gov; Request Date: 02-JUN-16',
   'Stream flow': 'NWIS',
+  'Stream flow (choice list)': '',
   'Stream flow, instantaneous': 'NWIS',
   'Stream flow, mean. daily': 'NWIS',
   'Stream physical appearance (choice list)': '; Request Date: 02-MAR-07',

@@ -9,8 +9,8 @@ export default {
   1121575: 'Water Quality Monitoring Data',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '*A_WQX_DELETED_REMOVED':
-    '_DELETEDAk-Chin Indian Community Environmental Protection Department;',
+  '*RENAME-REUSE_CLINCHVALLEYSECD_WQX':
+    '*rename-reuseClinch Valley Soil & Water Conservation District',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -438,6 +438,7 @@ export default {
   CLALLAMCODCD: '',
   CLALLAMCOUNTYDCD: '',
   CLALLAMCOUNTYEH_WQX: 'Clallam County Environmental Health Services',
+  CLINCHVALLEYSWCD_WQX: '',
   CLPWC: 'Volunteer Monitoring Group',
   CMCNRMI_WQX:
     'The Natural Resource Management (NRM) academic program at Colorado Mountain College offers an associate degree in Natural Resource Management.  Students are provided with the opportunity to work on real life environmental projects in class and through paid jobs with the NRM Field Institute. NRM has been involved in over 50 environmental projects partnering with the USFS, USGS, US BLM, USFWS, CPW, and numerous regional and local governments and organizations.',
@@ -882,6 +883,7 @@ export default {
     'The MONT_DEQ_WQX organization is a static, historic dataset with the majority of data originating from the Storease database.',
   MONT_PPL_WQX:
     'The MONT_PPL_WQX organization is for data collected by PPL Montana.',
+  MOOREINSTITUTEPLASTICPOLLUTION_WQX: '',
   MOORETOWNEPO: 'Mooretown Rancheria water quality monitoring',
   MORONGO1_WQX: '',
   MPSLML: 'Marine Pollution Studies Lab at Moss Landing Marine Laboratories,',
@@ -1347,6 +1349,7 @@ export default {
   'USBR-WCAO': 'Bureau of Reclamation Western Colorado Area Office',
   USCOEKY: 'US Army Corps of Engineers District',
   USDACA: '',
+  USDAFORESTSVCREGION9: '',
   USEPAREGION9: 'USEPA Region 9',
   USEPA_CORALREEFS_WQX: '',
   USEPA_REGION8: '',

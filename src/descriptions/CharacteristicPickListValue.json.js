@@ -370,6 +370,7 @@ export default {
   'Substrate Dominant, Transect (choice list)': '',
   'Cloud cover (choice list)': 'Scattered. 10 % to 50 % sky cover.',
   'Sample collection general mode (choice list)': 'Instream/Wading',
+  'Stream flow (choice list)': 'Moderate',
   'Seagrass Cover (choice list)': '<50% cover',
   'Bank conditions - A': 'Vegetated bank',
   'Riparian vegetation density (choice list)': 'Very dense',
@@ -407,8 +408,8 @@ export default {
   'Channel depositional character (choice list)': 'Unknown',
   'Cast (choice list)': 'Field probe is cast up',
   'Precipitation (CA SWAMP) (choice list)': 'Snow',
-  'Stream velocity (choice list)': 'Torrent',
   'Well condition (choice list)': 'WET',
+  'Stream velocity (choice list)': 'Torrent',
   'Wind direction from (choice list)': 'West, 270 degrees',
   'Bank vegetative stability (choice list)':
     'Poor. Less than 25 % of streambank covered by vegetation.',
@@ -445,6 +446,7 @@ export default {
   'Sex (choice list)': 'Male',
   'RBP2, Water Quality, Water Surface Oils (choice list)': 'Slick',
   'RBP Water Surface Oils (choice list)': 'SLICK - Self describing.',
+  'Habitat Quality (choice list)': 'Very Poor quality',
   'Sediment (choice list)': '0.425-2mm',
   'Gillnet Selectivity (choice list)': 'Held by mesh around the body',
   'RBP2, Stream Character, Stream Origin (choice list)':
@@ -454,10 +456,11 @@ export default {
     'Trees are the dominant species present',
   'Habitat rating (choice list)':
     'Less than the 25th percentile of reference condition',
-  'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
   'RBP2, Watershed, Local Erosion (choice list)':
     'Light/Slight local watershed erosion',
+  'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
   'Current Precipitation (choice list)': 'Snow',
+  'Precipitation, how heavy (choice list)': 'Moderate precipitation',
   'General flow pattern (choice list)': 'Not applicable',
   'Intermittent sections (choice list)': 'Not applicable',
   'Water flow compared to normal conditions (choice list)': 'Normal conditions',

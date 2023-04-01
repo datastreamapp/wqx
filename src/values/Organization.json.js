@@ -4,7 +4,7 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    '*A_WQX_DELETED_REMOVED',
+    '*RENAME-REUSE_CLINCHVALLEYSECD_WQX',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -395,6 +395,7 @@ export default {
     'CLALLAMCODCD',
     'CLALLAMCOUNTYDCD',
     'CLALLAMCOUNTYEH_WQX',
+    'CLINCHVALLEYSWCD_WQX',
     'CLPWC',
     'CMCNRMI_WQX',
     'CMCPD',
@@ -791,6 +792,7 @@ export default {
     'MOAPA_WQX',
     'MONT_DEQ_WQX',
     'MONT_PPL_WQX',
+    'MOOREINSTITUTEPLASTICPOLLUTION_WQX',
     'MOORETOWNEPO',
     'MORONGO1_WQX',
     'MPSLML',
@@ -1199,6 +1201,7 @@ export default {
     'USBR-WCAO',
     'USCOEKY',
     'USDACA',
+    'USDAFORESTSVCREGION9',
     'USEPAREGION9',
     'USEPA_CORALREEFS_WQX',
     'USEPA_REGION8',
@@ -1341,5 +1344,5 @@ export default {
     'YUROKTEP_WQX',
     'ZIAPUEBLO_WQX'
   ],
-  maxLength: 30
+  maxLength: 34
 }
