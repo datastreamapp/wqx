@@ -17,9 +17,11 @@ export default {
   Filterable:
     'That portion of the analyte which is in or absorbed to material which passes through the filter during sample filtration.',
   'Filtered, field':
-    'Performed in field. +/ Pertains to constituents in a water sample passed through a filter membrane of specified pore diameter, 0.45 µm or less for inorganic analytes and 0.7 µm for organic analytes.',
+    'Performed in the field. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
   'Filtered, lab':
-    'Performed in lab. +/ Pertains to constituents in a water sample passed through a filter membrane of specified pore diameter, 0.45 µm or less for inorganic analytes and 0.7 µm for organic analytes.',
+    'Performed in the lab. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
+  'Filtered, non-specific':
+    'Performed location not specified. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
   Fixed:
     'That portion of the analyte found in the liquid layer above a precipitate produced from the sample.',
   'Free Available':
@@ -28,7 +30,7 @@ export default {
   Leachable:
     'An analyte capable of being removed from a substance by a percolating liquid.',
   'Non-Filterable (Particle)':
-    'That portion of the analyte which is extracted from the liquid medium by filtration.',
+    'That portion of the analyte which is extracted from the SAMPLE medium by filtration.',
   'Non-settleable':
     'That portion of the analyte which is in or absorbed to particles remaining in suspension in the sample container after a settling process.',
   'Non-volatile':
@@ -41,6 +43,7 @@ export default {
     'The portion of the analyte which semi-easily enter the air as gases from some solids or liquids.',
   Settleable:
     'That portion of the analyte which is found in or absorbed to that part of the sample which has settled (fallen out of suspension) to the bottom of the sample container.',
+  Sieved: 'Pertains to constituents in a sample passed through a mesh sieve.',
   'Strong Acid Diss':
     'Strong Acid Dissociable, analyte that is released from analyte containing compounds under highly acidic conditions.',
   Supernate:

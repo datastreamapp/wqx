@@ -18000,6 +18000,7 @@ export default {
   'Bromoxynil octanoate': 'Not Assigned',
   'Bromoxynil-13C6': 'Organics, Pesticide',
   Bromuconazole: 'Not Assigned',
+  'Brown spot fungal disease severity': 'Not Assigned',
   'Brush Cover (%)': 'Physical',
   'Brush Jabs': 'Information',
   Bufencarb: 'Not Assigned',
@@ -19464,6 +19465,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopentanol, 2-(1,1,1,3,3,3-hexafluoro-2-hydroxy-2-propyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  Cyclopentanone: 'Not Assigned',
   'Cyclopentanone, 2,2-dibromo-5-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopentanone, 2,5-bis(2,2,3,3,4,4,5,5,5-nonafluoro-1-oxopentyl)-':
@@ -23159,6 +23161,7 @@ export default {
   'Longitude, Bank': 'Information',
   'Longitude, Midstream': 'Information',
   'Longitudinal Distribution': 'Information',
+  'Loons, visual observation': 'Not Assigned',
   'Loosely attached filamentous algae (choice list)':
     'Biological, Habitat, Filamentous Algae',
   'Loosely sorbed Phosphorus (LSP)': 'Not Assigned',
@@ -25582,6 +25585,7 @@ export default {
   'Number of Tolerance Species all Plots': 'Information',
   'Number of individuals': 'Physical',
   'Number of pedicels per sample plant': 'Biological, Plants',
+  'Number of rice stalks': 'Not Assigned',
   'Number of sampling points': 'Not Assigned',
   'Number of seeds with ergots': 'Physical',
   'Number of seeds with worm holes': 'Physical',
@@ -28575,6 +28579,7 @@ export default {
     'Organics, Other',
   'Presence of exotic species (Y/N) (choice list)': 'Not Assigned',
   'Presence of freshwater sponge (Y/N) (choice list)': 'Not Assigned',
+  'Presence of pathogens or pests': 'Not Assigned',
   Pressure: 'Organics, Pesticide',
   'Presumptive Aeromonas': 'Not Assigned',
   'Primary productivity': 'Biological, Primary Production',

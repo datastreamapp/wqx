@@ -466,6 +466,7 @@ export default {
   'Water flow compared to normal conditions (choice list)': 'Normal conditions',
   'Water flow compared to most recent conditions (choice list)':
     'Normal conditions',
+  'Brown spot fungal disease severity': 'Low, 50% or less coverage',
   'Slope Variability (choice list)':
     '1-2 changes, e.g., a rheocrene spring with steep banks',
   'Activities - Power Plants (choice list)': 'None',
@@ -570,6 +571,7 @@ export default {
   'Precipitation 7 days prior to monitoring event (Y/N) (choice list)': 'Yes',
   'Wildlife present (Y/N) (choice list)': 'Yes',
   'Obstructions (Y/N) (choice list)': 'Yes',
+  'Presence of pathogens or pests': 'Yes, present',
   'Site Disturbance Evident (choice list)': 'Yes',
   'Sanitary Waste (Y/N) (choice List)': 'Yes',
   'Monocot plant type present (Y/N) (choice list)':

@@ -14291,6 +14291,7 @@ export default {
   'Bromoxynil octanoate': '; Request Date: 01-APR-15',
   'Bromoxynil-13C6': '; Request Date: 22-JUL-14',
   Bromuconazole: 'NWIS',
+  'Brown spot fungal disease severity': '',
   'Brush Cover (%)': '',
   'Brush Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   Bufencarb: 'NWIS',
@@ -15658,6 +15659,7 @@ export default {
     '',
   "Cyclopentanol, 1,1'-dioxybis[2,2,3,3,4,4,5,5-octafluoro-": '',
   'Cyclopentanol, 2-(1,1,1,3,3,3-hexafluoro-2-hydroxy-2-propyl)-': '',
+  Cyclopentanone: '',
   'Cyclopentanone, 2,2-dibromo-5-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     '',
   'Cyclopentanone, 2,5-bis(2,2,3,3,4,4,5,5,5-nonafluoro-1-oxopentyl)-': '',
@@ -19160,6 +19162,7 @@ export default {
   'Longitude, Bank': '',
   'Longitude, Midstream': '',
   'Longitudinal Distribution': '; Request Date: 21-JUL-17',
+  'Loons, visual observation': '',
   'Loosely attached filamentous algae (choice list)': '',
   'Loosely sorbed Phosphorus (LSP)': '; Request Date: 12-JAN-16',
   Loperamide: '; Request Date: 02-FEB-15',
@@ -21205,6 +21208,7 @@ export default {
   'Number of individuals***retired***use Individuals examined, actual number':
     '; Request Date: 27-MAR-19',
   'Number of pedicels per sample plant': '; Request Date: 24-JUL-15',
+  'Number of rice stalks': '',
   'Number of sampling points': '; Request Date: 10-SEP-14',
   'Number of seeds with ergots': '; Request Date: 24-JUL-15',
   'Number of seeds with worm holes': '; Request Date: 24-JUL-15',
@@ -23934,6 +23938,7 @@ export default {
     'Request Date: 02-MAR-07| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Presence of exotic species (Y/N) (choice list)': '',
   'Presence of freshwater sponge (Y/N) (choice list)': '',
+  'Presence of pathogens or pests': '',
   Pressure: '14; Request Date: 17-JUN-13',
   'Presumptive Aeromonas': 'NWIS',
   'Primary productivity':
