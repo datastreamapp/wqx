@@ -24,7 +24,7 @@ The Gordon Foundation transformed the WQX from its original XML format to json t
 
 In 2018, [The Gordon Foundation](http://gordonfoundation.ca) led a comprehensive review process to determine how this model could be adapted to best meet the needs of diverse water monitoring initiatives in Canada. The result is DataStream’s WQX Open Data Schema ([DS-WQX](https://github.com/gordonfn/schema)). 
 
-DataStream ([www.DataStream.org](http://gordonfoundation.ca/initiatives/datastream)) is an online open-access platform for sharing water quality data in Canada. It is led nationally by The Gordon Foundation and carried out in collaboration with regional partners and monitoring networks. To date, over 3 million water quality observations have been published on DataStream by watershed groups, Indigenous organizations, researchers and governments at all levels. 
+DataStream ([www.DataStream.org](http://gordonfoundation.ca/initiatives/datastream)) is an online open-access platform for sharing water quality data in Canada. It is was developed by The Gordon Foundation and carried out in collaboration with regional partners and monitoring networks. 
 
 ## Install
 ```bash
