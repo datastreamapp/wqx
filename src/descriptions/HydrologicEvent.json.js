@@ -20,7 +20,8 @@ export default {
   Snowmelt: '',
   Spill: '',
   'Spring breakup': '',
-  Storm: '',
+  Storm:
+    'a violent atmospheric disturbance, characterized by low barometric pressure, cloud cover, precipitation, strong winds, and possibly lightning and thunder',
   'Tidal action': '',
   'Under ice cover': '',
   'Volcanic action': ''

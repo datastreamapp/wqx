@@ -899,6 +899,7 @@ export default {
     'OOPBLO',
     'ORDNRMRLSTD_GI',
     'OREGONDEQ',
+    'OREGONODA_WQX',
     'OSAGENTN',
     'OSAGENTN_WQX',
     'OST_SHPD',

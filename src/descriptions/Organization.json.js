@@ -1013,6 +1013,7 @@ export default {
   ORDNRMRLSTD_GI:
     'USEPA Office of Research and Development, National Risk Management Research Laboratory',
   OREGONDEQ: '',
+  OREGONODA_WQX: '',
   OSAGENTN: 'Osage Nation Environmental and Natural Resources Dept; ',
   OSAGENTN_WQX: 'Osage Nation; Osage Nation',
   OST_SHPD: '',

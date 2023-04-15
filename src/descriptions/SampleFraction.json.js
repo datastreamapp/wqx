@@ -16,12 +16,12 @@ export default {
   Field: 'Performed in field.',
   Filterable:
     'That portion of the analyte which is in or absorbed to material which passes through the filter during sample filtration.',
+  'Filtered field and/or lab':
+    'Filtering may have been performed in the field, lab, or both. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
   'Filtered, field':
     'Performed in the field. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
   'Filtered, lab':
     'Performed in the lab. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
-  'Filtered, non-specific':
-    'Performed location not specified. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
   Fixed:
     'That portion of the analyte found in the liquid layer above a precipitate produced from the sample.',
   'Free Available':

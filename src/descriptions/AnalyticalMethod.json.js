@@ -499,6 +499,7 @@ export default {
   8023: '',
   8024: '',
   8025: '',
+  8026: 'https://www.hach.com/p-cuver-2-copper-reagent-accuvac-ampules-pk25/2504025',
   8027: '',
   8029: '',
   8030: '',
@@ -933,7 +934,7 @@ export default {
   '1625(T)': '',
   '1630 Mod':
     '1630 MOD~ EPA-EAD ; Methyl Mercury in Water, Method 1630: Methyl Mercury in Water by Distillation, Aqueous Ethylation, Purge and Trap, and Cold Vapor Atomic Fluorescence Spectrometry as described in https://www.epa.gov/sites/default/files/2015-08/documents/method_1630_1998.pdf . And then modified as described in Guidance for Implementing the January 2001 Methylmercury Water Quality Criterion (EPA 823-R-10-001) which can be found at https://www.epa.gov/sites/default/files/2019-02/documents/guidance-implement-methylmercury-2001.pdf . Table C1 in Appendix C describes the technique for the modification involving digesting tissue with acid solution and neutralizing with acetate buffer.',
-  '1631A': '',
+  '1631A': 'http://www.tekran.com/files/EPA_1631_Appendix_for_Solids.pdf',
   '1631B':
     'http://nepis.epa.gov/Exe/ZyNET.exe/40001EQ2.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1995+Thru+1999&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C95thru99%5CTxt%5C00000022%5C40001EQ2.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL',
   '1631E': '',
@@ -1126,7 +1127,8 @@ export default {
   '243.1_M': '',
   243.2: '243.2 ~ EPA-NERL ; Manganese by Graphite Furnace AA',
   '243.2_M': '',
-  245.1: 'in Water',
+  245.1:
+    'https://www.epa.gov/sites/default/files/2015-06/documents/epa-245.1.pdf',
   '245.1_M': '',
   245.2: '245.2 ~ EPA-NERL ; Mercury by CVAA (Automated)',
   '245.2_M': '',
@@ -1528,7 +1530,7 @@ export default {
   '380-75WE': '',
   '390-A': '',
   '3A': '',
-  '3C': '',
+  '3C': 'https://www.epa.gov/sites/production/files/2017-08/documents/method_3c.pdf',
   '3H-01': '',
   '3H-02': '',
   '3H-03': '',
@@ -3151,10 +3153,11 @@ export default {
     'Standard Test Method for Determination of Dissolved Alkali and Alkaline Earth Cations and Ammonium in Water and Wastewater by Ion Chromatography. https://www.astm.org/Standards/D6919.htm Active Standard ASTM D6919 | Developed by Subcommittee: D19.05 Book of Standards Volume: 11.02',
   D698: '',
   'D7065-11':
-    'Standard Test Method for Determination of Nonylphenol, Bisphenol A, p-tert -Octylphenol, Nonylphenol Monoethoxylate and Nonylphenol Diethoxylate in Environmental Waters by Gas Chromatography Mass Spectrometry',
+    'Standard Test Method for Determination of Nonylphenol, Bisphenol A, p-tert -Octylphenol, Nonylphenol Monoethoxylate and Nonylphenol Diethoxylate in Environmental Waters by Gas Chromatography Mass Spectrometry. http://www.astm.org/Standards/D7065.htm',
   D7237:
     'Standard Test Method for Free Cyanide and Aquatic Free Cyanide with Flow Injection Analysis (FIA) Utilizing Gas Diffusion Separation and Amperometric Detection',
-  D7284: '',
+  D7284:
+    'https://infostore.saiglobal.com/en-us/Standards/ASTM-D-7284-2013-154898_SAIG_ASTM_ASTM_2648150/',
   'D7315-07a':
     'D7315-07a ~ ASTM ; Standard Test Method for Determination of Turbidity Above 1 Turbidity Unit (TU) in Static Mode',
   'D7315-12':
@@ -3195,7 +3198,7 @@ export default {
     'Colorimetric Indigo Carmine, Test Method A. Gilbert, T. W., Behymer, T. D., Casta±eda, H. B., Determination of Dissolved Oxygen in Natural and Wastewaters, American Laboratory, March 1982, pp. 119-134.',
   'D888-92(A)': '',
   'D93-07': '',
-  'D93-08': '',
+  'D93-08': 'http://www.astm.org/DATABASE.CART/HISTORICAL/D93-08.htm',
   'D93-79':
     'Standard Test Methods for Flash Point by Pensky-Martens Closed Cup Tester. https://www.astm.org/Standards/D93',
   'D93-80':

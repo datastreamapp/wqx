@@ -66,6 +66,7 @@ export default {
     'median is the middle point of a number set, in which half the numbers are above the median and half are below.',
   Minimum: 'the smallest or the least value in a given set of data.',
   Mode: 'The mode of a set of data values is the value that appears most often.',
+  N: 'N represents the total number of individuals or cases in the population',
   'Percent Similarity': 'Percent Similarity',
   'Percent diff from true':
     'a percentage deviation or a measure of difference between the observed value of a variable and some reference value',
@@ -78,6 +79,8 @@ export default {
   'Quartile Deviation':
     'The quartile deviation is a slightly better measure of absolute dispersion than the range. But it ignores the observation on the tails.',
   'RAD Error': 'Inherent Error in Radiological Instruments',
+  Range:
+    'the range is the spread of your data from the lowest to the highest value in the distribution. It is the simplest measure of variability',
   Ratio:
     'the quantitative relation between two amounts showing the number of times one value contains or is contained within the other.',
   'Relative percent diff':
