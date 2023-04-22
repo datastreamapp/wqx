@@ -25809,6 +25809,7 @@ export default {
   'Organic carbon': 'Organics, Other',
   'Organic compounds': 'Organics, Other',
   'Organic halides, total -- SWDA NPDWR': 'Organics, Other',
+  'Organic matter': 'Organics, Other',
   'Organic monomeric aluminum': 'Organics, Other',
   'Organic phosphorus': 'Nutrient',
   'Organic selenium': 'Organics, Other',

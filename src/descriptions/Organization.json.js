@@ -9,8 +9,6 @@ export default {
   1121575: 'Water Quality Monitoring Data',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '*RENAME-REUSE_CLINCHVALLEYSECD_WQX':
-    '*rename-reuseClinch Valley Soil & Water Conservation District',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -968,6 +966,7 @@ export default {
   NJ_MSU: '',
   NKUWATER_WQX:
     'Water Quality Monitoring Data:Consortia working with local groups including the Licking Watershed Watch.',
+  NMW_WQX: '',
   NNB: 'Volunteer Monitoring Group',
   NNEPA: 'Navajo Nation; ',
   NOAA_CORALREEFS_WQX: '',

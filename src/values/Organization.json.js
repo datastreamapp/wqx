@@ -4,7 +4,6 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    '*RENAME-REUSE_CLINCHVALLEYSECD_WQX',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -859,6 +858,7 @@ export default {
     'NJWSA',
     'NJ_MSU',
     'NKUWATER_WQX',
+    'NMW_WQX',
     'NNB',
     'NNEPA',
     'NOAA_CORALREEFS_WQX',

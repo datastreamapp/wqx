@@ -21423,6 +21423,7 @@ export default {
   'Organic compounds':
     'Carbon-containing compounds that are found in living things and in products derived from living things. Some organic compounds are not found in nature, but are the product of synthesis.; Request Date: 12-JAN-16',
   'Organic halides, total -- SWDA NPDWR': 'NWIS',
+  'Organic matter': 'organic matter, in medium: sediment, water, etc..',
   'Organic monomeric aluminum': 'NWIS',
   'Organic phosphorus':
     'Organic phosphorus compounds are complex molecules such as phytin, phospholipids, and nucleic acids.; Request Date: 22-JUL-14',
