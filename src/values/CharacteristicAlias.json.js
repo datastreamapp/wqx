@@ -59448,6 +59448,7 @@ export default {
     'Biphenyl, 3,5-Dichloro-',
     'Biphenyl, hexabromo- (technical grade)',
     "Biphenyl-2,2',3,3',4,4',5,5',6,6'-d10",
+    'Biphenyl-d10',
     "Biphenyldiol, 2,2'-dibromohexafluoro-",
     "Biphenyldiol, 3,3'-dibromohexafluoro-",
     'Birdin',

@@ -27,6 +27,8 @@ export default {
     'Laboratory Reporting Level - formerly referred to as Non-Detection Value',
   'Long Term Method Detection Level':
     'is a modification of the defintion of the method detection limit (MDL). It includes a more thorough capture of laboratory variability, and is calculated using three different possible data assessments',
+  'Lower 95% Confidence Limit':
+    'Lower limit of 95% confidence limit, the below point estimate within which the true value ',
   'Lower Quantitation Limit':
     'Lower Limit of Quantitation(LLQ) Generally the same as EQL. ',
   'Lower Reporting Limit': 'Lower Reporting Limit',
@@ -58,6 +60,8 @@ export default {
   'Systematic Uncertainty':
     'That component of uncertainty which arises from biases. www.iaea.org/OurWork/ST/NE/NEFW/WTS-Networks/IDN/idnfiles/Wkp_on_Development_WM,WasteCharacterization_Clearance/Day3/12.Statistics_GREY.pdf',
   'Taxonomic Loss Threshold': 'Taxonomic Loss Threshold',
+  'Upper 95% Confidence Limit':
+    'Upper limit of 95% confidence limit, the above point estimate within which the true value ',
   'Upper Calibration Limit':
     "Highest concentration that can be reliably measured. The highest calibration standard in the lab's initial calibration curve adjusted for initial sample volume or weight",
   'Upper Quantitation Limit':
