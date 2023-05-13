@@ -15406,6 +15406,7 @@ export default {
   'Absorbance at 250 nm': 'Physical',
   'Absorbance at 254 nm': 'Physical',
   'Absorbance at 280 nanometers': 'Not Assigned',
+  'Absorbance at 330 nm': 'Physical',
   'Absorbance at 350 nm': 'Physical',
   'Absorbance at 365 nm': 'Physical',
   'Absorbance at 370 nanometers': 'Not Assigned',

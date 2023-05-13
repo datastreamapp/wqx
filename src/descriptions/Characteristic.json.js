@@ -11847,6 +11847,7 @@ export default {
   'Absorbance at 250 nm': '1;',
   'Absorbance at 254 nm': '1;',
   'Absorbance at 280 nanometers': 'NWIS',
+  'Absorbance at 330 nm': 'Absorbance at 330 nm',
   'Absorbance at 350 nm': '1;',
   'Absorbance at 365 nm': '1;',
   'Absorbance at 370 nanometers': 'NWIS',
