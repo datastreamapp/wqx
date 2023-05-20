@@ -9745,6 +9745,7 @@ export default {
   '3,6,9,12-Tetraoxapentadecanoyl fluoride, 2,4,4,5,7,7,8,10,10,11,13,13,14,14,15,15,15-heptadecafluoro-2,5,8,11-tetrakis(trifluoromethyl)-':
     '34761-47-2',
   '3,6-Bis(heptafluoropropyl)-1,2,4,5-tetrazine': '5585-47-7',
+  '3,6-Dichlorosalicylic Acid': '3401-80-7',
   '3,6-Dihydro-1,3,6-trioxo[1]benzothiopyrano[2,3-e]isoindol-2-yl perfluorobutanesulfonate':
     '639827-04-6',
   '3,6-Dihydro-8-(1-methylethyl)-1,3,6-trioxo[1]benzothiopyrano[2,3-e]isoindol-2-yl perfluorobutanesulfonate':
@@ -20000,6 +20001,7 @@ export default {
   'Mica group minerals': '12001-26-2',
   Miconazole: '22916-47-8',
   'Micro Algae Stream Reach Thickness Average': '',
+  'Microalgae Cover': '',
   Microcystin: '77238-39-2',
   'Microcystin AR': '138258-91-0',
   'Microcystin FR': '111982-70-8',

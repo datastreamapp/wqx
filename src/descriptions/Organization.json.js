@@ -50,7 +50,7 @@ export default {
   '21CAOCSD_WQX': 'Water quality monitoring data',
   '21COL001_WQX':
     'Colorado DPHE Water Quality Control Division data migrated from legacy STORET',
-  '21DEBCH': "Delaware's environmental organization",
+  '21DEBCH': 'Delaware environmental agency',
   '21DELAWQ_WQX': 'Division of Water  Environmental Laboratory Section',
   '21FLACEP_WQX': 'Water Quality Monitoring Data',
   '21FLACST_WQX': 'Water Quality Monitoring Data',

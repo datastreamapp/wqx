@@ -80,6 +80,8 @@ export default {
   'Gas-Temporary': 'a gas capable of liquefaction',
   'Great Lake':
     'The Great Lakes, also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River.',
+  Intertidal:
+    'denoting the area of a seashore which is covered at high tide and uncovered at low tide',
   Lake: 'A lake is an area filled with water, localized in a basin, that is surrounded by land, apart from any river or other outlet that serves to feed or drain the lake',
   Land: 'Land, sometimes referred to as dry land, is the solid surface of Earth that is not permanently covered by water.',
   'Land Flood Plain':
@@ -154,6 +156,7 @@ export default {
     'A Facility to measure systematically concentrations of pollutants in ambient air. Synonym: Air quality measurement station.',
   'Storm Sewer':
     'A system designed to carry rainfall runoff and other drainage.',
+  Subtidal: 'Refers to the area where the seabed is below the lowest tide',
   Sump: 'A sump is a shallow borehole (no well construction) that intersects the water table',
   'Survey Monument':
     'Boundary monuments are placed at every corner of the property, including any angle or change of direction of the boundary line.',

@@ -1,5 +1,5 @@
 export default {
-  Biological: '',
+  Biological: '<http://hydro.geodab.eu/hydro-ontology/concept/2512>',
   'Biological, Algae': '',
   'Biological, Algae, Cyanobacteria': '',
   'Biological, Algae, Cyanobacteria, Photosynthetic Pigments': '',
@@ -14,8 +14,9 @@ export default {
   'Biological, Aquatic Plants': '',
   'Biological, Carbon Production': '',
   'Biological, Counts': '',
-  'Biological, Fish': '',
-  'Biological, Fish Habitat, Filamentous Algae': '',
+  'Biological, Fish': '<http://hydro.geodab.eu/hydro-ontology/concept/3806>',
+  'Biological, Fish Habitat, Filamentous Algae':
+    '<http://hydro.geodab.eu/hydro-ontology/concept/3806>',
   'Biological, Habitat, Algae, Aquatic Plants': '',
   'Biological, Habitat, Algae, Phytoplankton': '',
   'Biological, Habitat, Aquatic Plants': '',
@@ -27,17 +28,21 @@ export default {
   'Cyanotoxins, Phytotoxins': '',
   Habitat: '',
   Information: '',
-  'Inorganics, Major, Metals': '',
-  'Inorganics, Major, Non-metals': '',
-  'Inorganics, Minor, Metals': '',
-  'Inorganics, Minor, Non-metals': '',
-  Microbiological: '',
+  'Inorganics, Major, Metals':
+    '<http://hydro.geodab.eu/hydro-ontology/concept/2268>',
+  'Inorganics, Major, Non-metals':
+    '<http://hydro.geodab.eu/hydro-ontology/concept/2276>',
+  'Inorganics, Minor, Metals':
+    '<http://hydro.geodab.eu/hydro-ontology/concept/2300>',
+  'Inorganics, Minor, Non-metals':
+    '<http://hydro.geodab.eu/hydro-ontology/concept/2360>',
+  Microbiological: '<http://hydro.geodab.eu/hydro-ontology/concept/2512>',
   'Not Assigned': 'Not Assigned values for field.',
-  Nutrient: '',
+  Nutrient: '<http://hydro.geodab.eu/hydro-ontology/concept/2381>',
   'Organics, BDEs': '',
-  'Organics, Other': '',
-  'Organics, PCBs': '',
-  'Organics, Pesticide': '',
+  'Organics, Other': '<http://hydro.geodab.eu/hydro-ontology/concept/42>',
+  'Organics, PCBs': '<http://hydro.geodab.eu/hydro-ontology/concept/1282>',
+  'Organics, Pesticide': '<http://hydro.geodab.eu/hydro-ontology/concept/1833>',
   'PFAS,Perfluorinated Alkyl Substance': '',
   'PFOA, Perfluorooctanoic Acid':
     'renamed from PFOS, Perfluorooctane Sulfonate',
@@ -47,10 +52,11 @@ export default {
   Physical: '',
   'Physical, Habitat': '',
   'Phytoplankton, Cyanobacteria, Photosynthetic Pigments': '',
-  'Population/Community': '',
+  'Population/Community':
+    '<http://hydro.geodab.eu/hydro-ontology/concept/4824>',
   Productivity: '',
-  Radiochemical: '',
+  Radiochemical: '<http://hydro.geodab.eu/hydro-ontology/concept/2428>',
   Sediment: '',
-  'Stable Isotopes': '',
+  'Stable Isotopes': '<http://hydro.geodab.eu/hydro-ontology/concept/5001>',
   Toxicity: ''
 }

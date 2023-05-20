@@ -11992,6 +11992,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3,6-Bis(heptafluoropropyl)-1,2,4,5-tetrazine':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3,6-Dichlorosalicylic Acid': 'Not Assigned',
   '3,6-Dihydro-1,3,6-trioxo[1]benzothiopyrano[2,3-e]isoindol-2-yl perfluorobutanesulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,6-Dihydro-8-(1-methylethyl)-1,3,6-trioxo[1]benzothiopyrano[2,3-e]isoindol-2-yl perfluorobutanesulfonate':
@@ -23858,6 +23859,7 @@ export default {
   Miconazole: 'Not Assigned',
   'Micro Algae Stream Reach Thickness Average':
     'Biological, Habitat, Algae, Phytoplankton',
+  'Microalgae Cover': 'Not Assigned',
   Microcystin: 'Cyanotoxins, Phytotoxins',
   'Microcystin AR': 'Cyanotoxins, Phytotoxins',
   'Microcystin FR': 'Cyanotoxins, Phytotoxins',

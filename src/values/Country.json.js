@@ -10,6 +10,7 @@ export default {
     '0R',
     '0S',
     '3G',
+    '3M',
     '5C',
     '5M',
     'AC',
