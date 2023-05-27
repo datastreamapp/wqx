@@ -95,6 +95,8 @@ export default {
     'GT',
     'GXB',
     'H',
+    'H2',
+    'H3',
     'HE',
     'HH',
     'HIB',

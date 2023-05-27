@@ -90,6 +90,8 @@
   "GT": "The listed result is greater than the upper quantitation limit for either the analytical method or the meter used for the measurement. Equivalent to the Legacy STORET Remark Code of L: Actual Value is known to be greater than the value given.",
   "GXB": "Estimated Value, greater than 10x blank",
   "H": "Holding time exceeded: ",
+  "H2": "Extraction or preparation was conducted outside of the recognized method holding time.",
+  "H3": "Sample was received or analysis requested beyond the recognized method holding time.",
   "HE": "value extrapolated at high end",
   "HH": "Out High",
   "HIB": "Likely Biased High",

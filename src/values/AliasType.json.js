@@ -11,6 +11,7 @@ export default {
     'MOLECULAR WEIGHT',
     'NOAA - National Center for Environm',
     'NWIS PARM CODE',
+    'ONTOLOGY - HYDRO.GEODAB.EU',
     'RETIRED NAME',
     'STANDARDIZE NAME (Normalized)',
     'STORET CHARACTERISTIC NAME',
