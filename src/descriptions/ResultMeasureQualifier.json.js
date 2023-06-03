@@ -5,6 +5,9 @@ export default {
   ')': 'sample specific MDC (Minimum Detectable Change) above contractual MDC',
   '*': 'Sample was warm when received',
   '+': 'Recovery is outside acceptance limits and/or RPD exceeds control limits',
+  '2-5B':
+    'Result was between 2-5 times the blank concentration - set to Detected Not Quantified',
+  '<2B': 'Result was <2 times the blank concentration - set to Not Detected',
   '=': 'Equal To',
   A: 'Compound not analyzed',
   AC: 'sample variability described see activity comment for more details',
@@ -41,6 +44,8 @@ export default {
   CSR: 'Calibration standard acceptance criteria not met',
   CUG: 'CC U G; Co-eluting congener, the analyte was not detected in the sample at the estimated detection limit and lock mass interference present',
   D: 'Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required.  ',
+  'D>T':
+    'Result dissolved concentration was greater than its total and the absolute difference was greater than or equal to the total MDL - set to Detected Not Quantified',
   DE: 'Serial dilution acceptance criteria not met.',
   DEC: 'Value Decensored -  reconstruct or remove the objectionable values of a measurement set',
   DI: 'Dilution required',

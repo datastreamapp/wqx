@@ -6391,6 +6391,9 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1H,1H,2H,2H-Perfluorotetradecyltriethoxysilane':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1H,1H,2H,2H-perfluoro-1-[1,2-13C2]decanesulfonate': 'Not Assigned',
+  '1H,1H,2H,2H-perfluoro-1-[1,2-13C2]hexanesulfonate': 'Not Assigned',
+  '1H,1H,2H,2H-perfluoro-1-[1,2-13C2]octanesulfonate': 'Not Assigned',
   '1H,1H,2H-Perfluoro(4,7,10,13,16-pentamethyl-5,8,11,14,17-pentaoxaeicos-1-ene)':
     'PFAS,Perfluorinated Alkyl Substance',
   '1H,1H,3H-Perfluoro(2,4-dimethylpentan-1-ol)':
@@ -6580,6 +6583,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2(1H)-Quinoxalinone, 3-(pentafluoroethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2(3)-tert-Butyl-methoxyphenol': 'Not Assigned',
   '2(3H)-Benzothiazolone': 'Not Assigned',
   '2(3H)-Furanone, 3,3,4,4-tetrafluorodihydro-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -6783,6 +6787,7 @@ export default {
   "2,2',4,4',5,5'-Hexabromo-1,1-biphenyl": 'Organics, PCBs',
   "2,2',4,4',5,5'-Hexabromobiphenyl": 'Not Assigned',
   "2,2',4,4',5,5'-Hexabromodiphenyl ether": 'Organics, Other',
+  "2,2',4,4',5,5'-Hexabromodiphenyl ether-13C12": 'Not Assigned',
   "2,2',4,4',5,5'-Hexachlorobiphenyl": 'Organics, PCBs',
   "2,2',4,4',5,6'-Hexabromodiphenyl ether": 'Organics, Other',
   "2,2',4,4',5,6'-Hexachlorobiphenyl": 'Organics, PCBs',
@@ -8316,6 +8321,7 @@ export default {
   '2,4-D, triisopropanolamine salt': 'Not Assigned',
   '2,4-D-13C6': 'Organics, Pesticide',
   '2,4-D-d3': 'Not Assigned',
+  '2,4-D/2,4-D methyl ester': 'Not Assigned',
   '2,4-DB': 'Information',
   '2,4-DIBDE': 'Organics, PCBs',
   '2,4-Di-tert-amylphenol': 'Organics, Other',
@@ -12750,6 +12756,7 @@ export default {
   '3-Pentene-2,2-diol,1,1,1,3,5,5,5-heptafluoro-4-(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Pentyn-1-ol': 'Not Assigned',
+  '3-Perfluoroheptyl propanoate': 'Not Assigned',
   '3-Perfluorohexyl-2-hydroxypropyl acrylate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Perfluoropropyl propanoate': 'Not Assigned',
@@ -13134,6 +13141,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3-methyl-4-(2,2,3,3,4,4,5,5,5-nonafluoropentyl)cyclopentane-1,1-dicarboxylic Acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3-perfluoropentyl propanoate': 'Not Assigned',
   '3-{(2-Carboxyethyl)[(undecafluoropentyl)sulfonyl]amino}-N-(carboxymethyl)-N,N-dimethylpropan-1-aminium':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-{(Perfluorobutanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
@@ -14189,6 +14197,7 @@ export default {
   '4-Methylbenzene-1-sulfonic acid--5,5,6,6,7,7,8,8,8-nonafluorooctan-1-ol (1/1)':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-Methylbenzotriazole': 'Not Assigned',
+  '4-Methylbenzotriazole-d3': 'Not Assigned',
   '4-Methylbiphenyl': 'Not Assigned',
   '4-Methylchrysene': 'Not Assigned',
   '4-Methyldecane': 'Not Assigned',
@@ -14226,6 +14235,7 @@ export default {
   '4-Nonylphenol monoethoxylates': 'Organics, Other',
   '4-Nonylphenol nonaethoxylate': 'Not Assigned',
   '4-Nonylphenol nonaethoxylates': 'Not Assigned',
+  '4-Nonylphenol octadecaethoxylate': 'Not Assigned',
   '4-Nonylphenol octadecaethoxylates': 'Not Assigned',
   '4-Nonylphenol octaethoxylate': 'Not Assigned',
   '4-Nonylphenol octaethoxylates': 'Not Assigned',
@@ -14235,6 +14245,7 @@ export default {
   '4-Nonylphenol pentaethoxylates': 'Organics, Other',
   '4-Nonylphenol tetradecaethoxylate': 'Not Assigned',
   '4-Nonylphenol tetradecaethoxylates': 'Not Assigned',
+  '4-Nonylphenol tetraethoxylate': 'Not Assigned',
   '4-Nonylphenol tetraethoxylates': 'Organics, Other',
   '4-Nonylphenol tridecaethoxylate': 'Not Assigned',
   '4-Nonylphenol tridecaethoxylates': 'Not Assigned',
@@ -14432,6 +14443,9 @@ export default {
   '4-n-Octylphenol monoethoxylate-13C6': 'Not Assigned',
   '4-n-Octylphenol-13C6': 'Not Assigned',
   '4-perfluoroisopropylaniline': 'PFAS,Perfluorinated Alkyl Substance',
+  '4-tert-Octylphenol pentaethoxylate': 'Not Assigned',
+  '4-tert-Octylphenol tetraethoxylate': 'Not Assigned',
+  '4-tert-Octylphenol triethoxylate': 'Not Assigned',
   '4-{(E)-[4-(Heptafluoropropyl)phenyl]diazenyl}-N,N-dimethylaniline':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-{3-[(2,2,3,3,3-Pentafluoropropyl)amino]propyl}benzene-1,2-diol':
@@ -14960,6 +14974,7 @@ export default {
   '5H-Perfluoropentanal': 'PFAS,Perfluorinated Alkyl Substance',
   '5a-Dihydrotestosterone': 'Organics, Other',
   '5b(H)-Cholane': 'Not Assigned',
+  '5beta(H)-Cholane': 'Not Assigned',
   '6,11,14,17-Tetraoxa-7-silaeicos-1-yn-3-ol, 7,7-dibutyl-13,15,15,16,18,18,19,19,20,20,20-undecafluoro-3-methyl-13,16-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '6,13-Bis(heptadecafluorooctyl)pentacene':
@@ -15151,6 +15166,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '6:2 Fluorotelomer sulfonamido propyl methyl amino acetic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '6:2 Fluorotelomersulfonate': 'Not Assigned',
   '6:2 fluorotelomer dimethyl ethyl betaine':
     'PFAS,Perfluorinated Alkyl Substance',
   '6:4 Fluorotelomer sulfonic acid': 'PFAS,Perfluorinated Alkyl Substance',
@@ -15337,6 +15353,7 @@ export default {
   '9-(Perfluoromethoxy)perfluorononane sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Chloro-perfluorononanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
+  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': 'Not Assigned',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
@@ -15350,6 +15367,7 @@ export default {
   '9-Hexadecenoic acid': 'Not Assigned',
   '9-Hexadecenoic acid, (9Z)-': 'Not Assigned',
   '9-Hydroxyrespiridone': 'Not Assigned',
+  '9-Hydroxyrisperidone-d4': 'Not Assigned',
   '9-Iodoperfluoro-3-oxanonanesulphonyl fluoride':
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Methylanthracene': 'Organics, Other',
@@ -15406,13 +15424,20 @@ export default {
   Abietylamine: 'Organics, Pesticide',
   'Abrupt lower boundary present (Y/N) (choicelist)': 'Information',
   'Absolute Humidity': 'Information',
+  'Absolute pressure': 'Not Assigned',
   'Absorbance at 250 nm': 'Physical',
   'Absorbance at 254 nm': 'Physical',
-  'Absorbance at 280 nanometers': 'Not Assigned',
+  'Absorbance at 280 nm': 'Not Assigned',
   'Absorbance at 330 nm': 'Physical',
   'Absorbance at 350 nm': 'Physical',
   'Absorbance at 365 nm': 'Physical',
-  'Absorbance at 370 nanometers': 'Not Assigned',
+  'Absorbance at 370 nm': 'Not Assigned',
+  'Absorbance at 412 nm': 'Not Assigned',
+  'Absorbance at 440 nm': 'Physical',
+  'Absorbance at 488 nm': 'Not Assigned',
+  'Absorbance at 510 nm': 'Not Assigned',
+  'Absorbance at 532 nm': 'Not Assigned',
+  'Absorbance at 555 nm': 'Not Assigned',
   'Absorption coefficient at 412 nm': 'Not Assigned',
   'Absorption coefficient at 412 nm for tripton': 'Not Assigned',
   'Absorption coefficient at 440 nm': 'Not Assigned',
@@ -15437,6 +15462,7 @@ export default {
   'Absorption coefficient at 650 nm for tripton': 'Not Assigned',
   'Absorption coefficient at 676 nm': 'Not Assigned',
   'Absorption coefficient at 676 nm for tripton': 'Not Assigned',
+  'Absorption spectral slope (Sag)': 'Not Assigned',
   Abundance: 'Biological',
   'Acanthamoeba astronyxis': 'Microbiological',
   'Acanthamoeba castellanii': 'Not Assigned',
@@ -15468,6 +15494,7 @@ export default {
   Acesulfame: 'Organics, Other',
   'Acesulfame K': 'Not Assigned',
   'Acesulfame-K': 'Not Assigned',
+  'Acesulfame-d4': 'Not Assigned',
   Acetaldehyde: 'Organics, Other',
   Acetaldol: 'Not Assigned',
   Acetamide: 'Organics, Other',
@@ -15502,8 +15529,10 @@ export default {
   'Acetaminophen-d3': 'Organics, Other',
   Acetamiprid: 'Organics, Pesticide',
   'Acetamiprid-13C6': 'Not Assigned',
+  'Acetamiprid-d3': 'Not Assigned',
   'Acetate ion': 'Not Assigned',
   Acetazolamide: 'Not Assigned',
+  'Acetazolamide-d3': 'Not Assigned',
   'Acetic acid': 'Organics, Other',
   'Acetic acid ethenyl ester, polymer with ethene, 3,3,4,4,5,5,6,6,6-nonafluoro-1-hexene and 1,1,2,2-tetrafluoroethene':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -32088,7 +32117,6 @@ export default {
   'UU Triaxial Deviator Stress': 'Not Assigned',
   'UU Triaxial Strain': 'Not Assigned',
   'UV 254': 'Physical',
-  'UV Absorbance at 440 nm': 'Physical',
   'UV Absorption, relative conc. of organic constituents': 'Physical',
   'UV Carbon': 'Organics, Other',
   'Ultraviolet Carbon': 'Organics, Other',

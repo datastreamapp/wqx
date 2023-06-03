@@ -111,6 +111,7 @@ export default {
     'Gill netting is the capture of fish by entanglement in a fabric mesh that is not actively moved by man or machine.  Experimental gill nets usually have several 4.5- to 15-m panels of various mesh sizes, thus reducing the potential for size selectivity.',
   'Fish Weir':
     'Fish weir an obstruction placed in tidal waters, or wholly or partially across a river, to direct the passage of, or trap fish.',
+  'Flow Meter': 'Measures the flow of water',
   'Free Fall Grab':
     'A scissors-type, free-fall grab is disclosed for picking up ground samples from a sea bed.',
   'Fry Trap': '',
@@ -378,6 +379,7 @@ export default {
   'WBH-96':
     'A weighted bottle sampler that is a stainless steel metal housing used to secure a bottle for sampling in streams with a velocity too low for isokinetic samplers. Usually an open mouth bottle or a bottle with a US D-77 or US D-95 cap without a nozzle is used. The metal housing has holes drilled near the top for a rope line that is used to secure the bottle and deploy the sampler. It should always be documented that a sample taken with the weighted bottle sampler is not an isokinetic sample.',
   'Water Bottle': 'Bottle used for sampling water.',
+  'Water Level Gage': 'Measures water level',
   'Water Sampler (Other)':
     'a water sampler (vertical water bottle) is used for general water sampling in lakes, channels, wells and the sea',
   'Whirl-pak bag':
