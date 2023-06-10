@@ -32,7 +32,8 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX': '',
+  '11NPSWRD_WQX':
+    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -1199,6 +1200,7 @@ export default {
   SEATTLERIVER_WQX:
     'river sediment chemistry results collected for the City of Seattle.',
   SELDOVIA: 'Seldovia Village Tribe (SVT); ',
+  SENECA_WQX: '',
   SFBED_WQX: 'South Fork Band Environmental Department',
   SFNOES_WQX: ' (Tribal)',
   SHELLYAB_WQX: 'Water Quality Monitoring Data.',
@@ -1240,6 +1242,7 @@ export default {
   SQUAXIN: '',
   SRBCI: 'Santa Rosa Band of Cahuilla Indians water quality',
   SRCD: 'Biomonitoring Program that monitors chemical, physical and biological aspects of local creeks',
+  SRCFLENV_WQX: '',
   SRMTAKNY_WQX: 'St. Regis Mohawk Tribe (New York); ',
   SRMTWRP_WQX: 'St. Regis Mohawk Tribe Environment Div Water Resource Progrm;',
   SRPMIC: '',

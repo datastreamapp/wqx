@@ -101,14 +101,34 @@ export default {
     'Nickel is a chemical element with the symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile. It is one of only four elements that are magnetic at or near room temperature, the others being iron, cobalt and gadolinium.',
   'as O2':
     'Oxygen is a chemical element with atomic number 8, and atomic weight 15.999 u Â± 0.0006 u. It is a member of the chalcogen group and By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.',
+  'as OD412':
+    'Optical density, also referred to as absorbance, wavelength of 412 nm',
+  'as OD440':
+    'Optical density, also referred to as absorbance, wavelength of 440 nm',
+  'as OD450':
+    'Optical density, also referred to as absorbance, wavelength of 450 nm',
+  'as OD470':
+    'Optical density, also referred to as absorbance, wavelength of 470 nm',
   'as OD480': 'Optical density, wavelength of 480 nm',
+  'as OD488':
+    'Optical density, also referred to as absorbance, wavelength of 488 nm',
   'as OD510': 'Optical density, wavelength of 510 nm',
+  'as OD532':
+    'Optical density, also referred to as absorbance, wavelength of 532 nm',
+  'as OD555':
+    'Optical density, also referred to as absorbance, wavelength of 555 nm',
+  'as OD590':
+    'Optical density, also referred to as absorbance, wavelength of 590 nm',
   'as OD630': 'Optical density, wavelength of 630 nm',
   'as OD645': 'Optical density, wavelength of 645 nm',
   'as OD647': 'Optical density, wavelength of 647 nm',
+  'as OD650':
+    'Optical density, also referred to as absorbance, wavelength of 650 nm',
   'as OD663': 'Optical density, wavelength of 663 nm',
   'as OD664': 'Optical density, wavelength of 664 nm',
   'as OD665': 'Optical density, wavelength of 665 nm',
+  'as OD676':
+    'Optical density, also referred to as absorbance, wavelength of 676 nm',
   'as OD750': 'Optical density, wavelength of 750 nm',
   'as OH':
     'Hydroxide is a diatomic anion with chemical formula OHâˆ’ and Molar mass: 17.01 gÂ·molâˆ’1. It consists of an oxygen and hydrogen atom held together by a covalent bond, and carries a negative electric charge. It is an important but usually minor constituent of water. It functions as a base.',
