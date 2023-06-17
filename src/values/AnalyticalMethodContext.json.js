@@ -96,6 +96,7 @@ export default {
     'UC-DAVIS',
     'UCD',
     'USDA',
+    'USDA/ARS',
     'USDOC/NOAA',
     'USDOE/ASD',
     'USDOE/EML',

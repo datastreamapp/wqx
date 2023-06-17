@@ -4129,6 +4129,18 @@ export default {
   'NRSA13 Fish (Wade)': '',
   'NRSA13Microcys(Boat)': '',
   'NRSA13Microcys(Wade)': '',
+  NSTL_WQ1:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSTL_WQ1',
+  'NSTL_WQ1.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSTL_WQ1.1',
+  NSTL_WQ2:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSTL_WQ2',
+  NSTL_WQ3:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSTL_WQ3',
+  NSTL_WQ4:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSTL_WQ4',
+  NSTL_WQ6:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSTL_WQ6',
   'NUM ECOLOGY':
     'Numerical Ecology: Developments in Environmental Modelling ~  ; Legendre, P. and Legendre, L.',
   'Nitrate via V(III) reduction': '',

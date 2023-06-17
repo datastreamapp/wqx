@@ -367,6 +367,7 @@ export default {
   CALTRANS_WQX: '',
   CALWR_WQX:
     'DWR is responsible for the operation of the State Water Project, including the California Aqueduct.  DWR also monitors surface and groundwater at locations throughout California.',
+  CAPECOD_REG_WQ: '',
   CAPECRD_WQX: 'Water Quality Monitoring Data',
   CARGILLMS_WQX: 'Cargill Meat Solutions (aka. Fort Morgan Beef Plant)',
   CATAWBA: ' (Tribal)',
@@ -1240,6 +1241,7 @@ export default {
   SPC: 'Volunteer Monitoring Group',
   SPIRITLK: '',
   SQUAXIN: '',
+  SRA: 'staging',
   SRBCI: 'Santa Rosa Band of Cahuilla Indians water quality',
   SRCD: 'Biomonitoring Program that monitors chemical, physical and biological aspects of local creeks',
   SRCFLENV_WQX: '',
@@ -1491,7 +1493,7 @@ export default {
   WVDEPNPS: '',
   WVDEP_WIB_WQX:
     'West Virginia Department of Environmental Protection Watershed Improvement Branch',
-  WVDEP_WQX: 'State of WV Ambient Water Quality',
+  WVDEP_WQX: 'State of WV Ambient Surface Water Quality Programs',
   WVSU_AERS:
     'High frequency data in three locations along the Kanawha River, WV measuring temperature, pH, DO, NO3, Cl, ORP, specific conductance, turbidity',
   WVSU_WQX: 'West Virginia State University',
