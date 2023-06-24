@@ -36,7 +36,7 @@ export default {
           'Nitrogen Delta 15***retired***use Nitrogen-15/Nitrogen-14 ratio',
           'Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)',
           'Nitrogen-15',
-          'Nitrogen-15/14 ratio***retired***use Nitrogen-15/Nitrogen-14 ratio',
+          'Nitrogen-15/Nitrogen-14 ratio',
           'Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N',
           'Organic Nitrogen',
           'Organic phosphorus',

@@ -485,6 +485,7 @@ export default {
   CSKTRIBE: '',
   'CSR_EPA_CWA-106': 'Cold Springs Rancheria; ',
   'CSU-CIVIL&ENVIRONMENTAL-ENG': '',
+  CSU_AWQP: '',
   CTA_WQX: 'Craig Tribal Association;',
   CTCLUSI_WQX:
     'Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians;',
@@ -732,6 +733,7 @@ export default {
     'Klamath Tribes Natural Resources Department; Protection of the natural-resource related rights guaranteed to the tribes in the treaty of 1864 is largely the responsibility of the Natural Resources Department. This department aids the Klamath Tribes mission by protecting preserving and enhancing natural resources.',
   KNA: 'Matthews',
   KNRD_WQX: 'Kalispel Natural Resources Department Tribal (Washington);',
+  KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
   KS_GEOWATER_CTR: '',
   KWMNDATA_WQX:
     'The Keystone Watershed Monitoring Network (KWMN) is an umbrella organization for volunteer monitors in Pennsylvania. The mission of the KWMN is to promote volunteer monitoring to protect and improve the quality of Pennsylvania watersheds.',

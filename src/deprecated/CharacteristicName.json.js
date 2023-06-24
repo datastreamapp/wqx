@@ -294,7 +294,6 @@ export default [
   'Monomethylarsonic acid***retired***use Methylarsonic acid',
   'N-ethylperfluoro-1-octanesulfonamide***retired***use Sulfluramid',
   'Nitrogen Delta 15***retired***use Nitrogen-15/Nitrogen-14 ratio',
-  'Nitrogen-15/14 ratio***retired***use Nitrogen-15/Nitrogen-14 ratio',
   'Nitrogen/Phosphorus molar ratio',
   'Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-***retired***use Perfluorononanoic acid',
   'Norethindrone***retired***use Norethisterone',
