@@ -48,7 +48,7 @@ export default {
   504: '',
   505: '505 ~ EPA-NERL ; Pesticides and PCBs in Water GC-ECD',
   506: '506 ~ EPA-NERL ; Phthalate and Adipate Esters in Water by GCPID',
-  507: 'Standard Methods (19th ed.) 507 (dissolved oxygen depletion) mg/L',
+  507: '507 ~ EPA-TSC/NERL ; Pesticides in Water Using GCNPD',
   508: '508 ~ EPA-TSC/NERL ; Chlorinated Pesticides in Water Using GCECD',
   509: '509 ~ EPA-NERL ; Ethylene thiourea in water using GC with a N-P detector',
   513: '',
@@ -1851,7 +1851,8 @@ export default {
   515.3: '515.3 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GC/ECD',
   515.4: '515.4 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GCECD',
   '520011SAES': '',
-  '5210-B': '5210B ~ Standard Methods ; BOD: 5-Day Test',
+  '5210-B':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/5715/',
   '5210-C': '',
   '5220-B': '',
   '5220-C': '5220C ~ Standard Methods ; COD by Closed Reflux, Titration',
@@ -1875,8 +1876,7 @@ export default {
     '531.2 ~ EPA-OGWDW/TSC ; N-Methylcarbamoyloximes and N-Methylcarbamates in Water by HPLC with Post Column Derivitization',
   '5310-B':
     '5310B ~ Standard Methods ; Total organic carbon by High-Temperature Combustion',
-  '5310-C':
-    '5310C ~ Standard Methods ; Total organic carbon by Persulfate-UV or Heated-Persulfate Oxidation',
+  '5310-C': '',
   '5310-D': '5310 D ~ Standard Methods ; TOC by Wet Oxidation',
   '5320-B': '',
   '535 (ITMS)':
@@ -2722,6 +2722,24 @@ export default {
   'CR-01': '',
   'CSRS GW':
     'Computerized Stratified Random Site-Selection Approaches for Design of a Ground-Water-Quality Sampling Network ~ USGS ; Scott, Jonathon C.',
+  'CSWQ_WQ1.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ2',
+  'CSWQ_WQ2.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ2.1',
+  'CSWQ_WQ3.0MEC':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ3.0MEC',
+  'CSWQ_WQ3.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
+  'CSWQ_WQ4.302':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ4.302',
+  'CSWQ_WQ6.0MEC':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
+  'CSWQ_WQ6.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
+  'CSWQ_WQ7.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ07',
+  'CSWQ_WQ7.1MEC':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ7.1MEC',
   'CTM-001': '',
   'CTM-002': '',
   'CTM-004': '',
@@ -3986,13 +4004,13 @@ export default {
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ08',
   IDUSR_WQ09:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ09',
+  IDUSR_WQ09reserved:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ10',
   IDUSR_WQ10:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ10',
   IDUSR_WQ10reserved:
-    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ10',
-  IDUSR_WQ11:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ11',
-  IDUSR_WQ11reserved:
+  IDUSR_WQ11:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ11',
   'IM-002-1': '',
   'IM-003-1': '',
@@ -4201,6 +4219,34 @@ export default {
   'NRSA13 Fish (Wade)': '',
   'NRSA13Microcys(Boat)': '',
   'NRSA13Microcys(Wade)': '',
+  NSL_WQ10:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ2',
+  NSL_WQ11:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ2',
+  NSL_WQ13:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ13',
+  NSL_WQ14:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ14',
+  NSL_WQ15:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ2',
+  NSL_WQ16:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ16',
+  NSL_WQ17:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ17',
+  NSL_WQ18:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ18',
+  NSL_WQ4:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ4',
+  NSL_WQ5:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ5',
+  NSL_WQ6:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ6',
+  NSL_WQ7:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ7',
+  NSL_WQ8:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ8',
+  NSL_WQ9:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ2',
   NSTL_WQ1:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSTL_WQ1',
   'NSTL_WQ1.1':
@@ -4353,6 +4399,28 @@ export default {
   OH100R: 'OH100R ~ DOE ; TCLP Acidic Semivolatiles Using HPLC',
   OHC: '',
   'OIA-1677': 'OIA-1677 ~ O-I-Analytical ; Cyanide by Amperometry',
+  OKGRL_LM04:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM04',
+  'OKGRL_LM120.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM120.1',
+  'OKGRL_LM215.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM215.1',
+  'OKGRL_LM242.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM242.1',
+  'OKGRL_LM258.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM258.1',
+  'OKGRL_LM273.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM273.1',
+  'OKGRL_LM350.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM350.1',
+  'OKGRL_LM351.2':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
+  'OKGRL_LM353.2':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM353.2',
+  'OKGRL_LMWQ1.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ1.1',
+  OKGRL_LMWQ2:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ2',
   'OLM4.2':
     'http://www.epa.gov/superfund/programs/clp/download/olm/olm42a-d.pdf',
   OM100R:
@@ -4721,6 +4789,10 @@ export default {
   'PO_02(W)': ' in Water',
   'PREDICTIVE MODELING':
     'RIVPACS-type predictive modeling ~ EPA ; Van Sickle, J.',
+  PSWMRU_WQ12:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ06',
+  PSWMRU_WQ2:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ2',
   'PTI FOR FRESHWATER':
     'Pesticide Toxicity Index (PTI) for Freshwater Aquatic Organisms ~ USGS NAWQA ; Munn, M.D., Gilliom, R.J., Moran, P.W., and Nowell, L.H.',
   'PU-01': '',
@@ -4816,6 +4888,16 @@ export default {
   SAGWMD:
     'Statistical Analysis of Groundwater Monitoring Data at RCRA Facilities - Unified Guidance ~ EPA ; USEPA',
   'SAMP-U,RA': 'Samp-U,Ra ~ DOE EML ; Uranium and Radium in Water',
+  SDRU_WQ03:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ07',
+  SDRU_WQ04:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ06',
+  SDRU_WQ06:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ06',
+  SDRU_WQ07:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ07',
+  SDRU_WQ11:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
   'SE-01': '',
   'SE-03': 'Se-03 ~ DOE EML ; Americium, Plutonium and Uranium in Water',
   'SFAM01.1':

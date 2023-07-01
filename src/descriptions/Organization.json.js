@@ -873,8 +873,7 @@ export default {
   MKIESER: '',
   MLBO_DNR_WQX: '',
   MNDA_PESTICIDE: 'Statewide monitoring, non-facility',
-  MNDNR_AGW:
-    'Minnesota Department of Natural Resources - Ambient Groundwater Program',
+  MNDNR_AGW: 'Statewide ambient groundwater monitoring, non-facility',
   MNISOSE07:
     'Mni Sose Itnertribal Water Rights Coalition; Water Quality Monitoring Data',
   MNPCA: 'Statewide ambient surface water monitoring, non-facility',

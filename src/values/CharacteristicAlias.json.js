@@ -84842,6 +84842,7 @@ export default {
     'Depth, upper pycnocline',
     'Des-N-isopropyl isofenphos',
     'Des-N-isopropyl isofenphos oxygen analog',
+    'Des-isopropyl atrazine',
     'Desacetyl diltiazem',
     'Desamino metribuzin',
     'Desamino-diketo metribuzin',
