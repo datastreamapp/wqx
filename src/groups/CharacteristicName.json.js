@@ -15642,6 +15642,8 @@ export default {
     'PFOS, Perfluorooctane Sulfonate',
   "Acetic acid, 2,2,2-trifluoro-, palladium(2+) salt, compd. with 2,2'-dioxybis[2-methylpropane] (2:1:1)":
     'PFOS, Perfluorooctane Sulfonate',
+  'Acetic acid, 2,2,2-trifluoro-, potassium salt (1:1)':
+    'PFAS,Perfluorinated Alkyl Substance',
   'Acetic acid, 2,2,2-trifluoro-, rhodium(2+) salt (2:1)':
     'PFOS, Perfluorooctane Sulfonate',
   'Acetic acid, 2,2,2-trifluoro-, thulium salt (3:1)':
@@ -21943,11 +21945,16 @@ export default {
   'Grain size, clay (<2 um)': 'Physical',
   'Grain size, coarse sand (>=630 to 2000 um)': 'Physical',
   'Grain size, coarse silt (>=20 to 63 um)': 'Physical',
+  'Grain size, cobbles': 'Not Assigned',
   'Grain size, fine gravel and larger (>=2000 um)': 'Physical',
   'Grain size, fine sand (>=63 to 200 um)': 'Physical',
   'Grain size, fine silt (>=2 to 6.3 um)': 'Physical',
+  'Grain size, fines (silt/clay)': 'Not Assigned',
+  'Grain size, gravel': 'Not Assigned',
   'Grain size, medium sand (>=200 to 630 um)': 'Physical',
   'Grain size, medium silt (>=6.3 to 20 um)': 'Physical',
+  'Grain size, sand': 'Not Assigned',
+  'Grain size, silt': 'Not Assigned',
   'Gran acid neutralizing capacity': 'Physical',
   Gravel: 'Not Assigned',
   'Gravel 16 - 32 mm': 'Not Assigned',
@@ -23500,10 +23507,13 @@ export default {
   'Methane, oxybis[(difluoromethoxy)difluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Methane, oxybis[difluoro-': 'PFAS,Perfluorinated Alkyl Substance',
+  'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':
+    'PFAS,Perfluorinated Alkyl Substance',
   'Methanesulfonic acid, 1,1-difluoro-, 2,2,3,3-tetrafluoropropyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
   'Methanesulfonic acid, 2-(3-((2,2,3,3,3-pentafluoro-1-oxopropyl)amino)-5-(trifluoromethyl)-2-pyridinyl)hydrazide':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Methanesulfonic acid, trifluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   'Methanesulfonic acid--2,2,3,3,4,4,5,5-octafluoropentan-1-ol (1/1)':
     'PFAS,Perfluorinated Alkyl Substance',
   Methanol: 'Organics, Other',
@@ -25586,6 +25596,7 @@ export default {
   'Non-viable seed weight': 'Physical',
   Nonabromophenoxybenzene: 'Organics, Other',
   Nonachlor: 'Organics, Pesticide',
+  'Nonachlor III': 'Not Assigned',
   Nonachlorobiphenyl: 'Organics, PCBs',
   Nonacosafluoropentadecanoate: 'PFAS,Perfluorinated Alkyl Substance',
   Nonacosane: 'Not Assigned',
@@ -29930,6 +29941,7 @@ export default {
   'Reservoir volume': 'Information',
   'Residence/flushing time, waterbody': 'Information',
   'Residual Depth': 'Physical',
+  'Residual Range Organics': 'Not Assigned',
   'Residue, Total': 'Physical',
   Resistivity: 'Physical',
   Resmethrin: 'Organics, Pesticide',
@@ -30305,6 +30317,7 @@ export default {
   Silica: 'Inorganics, Major, Non-metals',
   'Silica gel treated n-hexane extractable material': 'Organics, Other',
   'Silica, reactive': 'Inorganics, Major, Non-metals',
+  'Silica, vitreous': 'Not Assigned',
   Silicate: 'Inorganics, Major, Non-metals',
   'Silicate(2-), hexafluoro-, ammonium (1:2), reaction products with silica':
     'PFAS,Perfluorinated Alkyl Substance',

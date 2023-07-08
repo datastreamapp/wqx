@@ -286,6 +286,7 @@ export default {
     'mg/dm2/day',
     'mg/dm2/month',
     'mg/g',
+    'mg/g/hr',
     'mg/hr',
     'mg/kg',
     'mg/l CaCO3**',

@@ -292,6 +292,7 @@ export default {
   'mg/dm2/day': 'Viscosity, milligrams per decimetre squared per day',
   'mg/dm2/month': 'Viscosity, milligrams per decimetre squared per month',
   'mg/g': 'Concentration Percentage, Milligrams per gram',
+  'mg/g/hr': 'Viscosity, milligrams per gram per hour ',
   'mg/hr': 'Flow Mass, milligrams per hour',
   'mg/kg': 'Concentration Percentage, Milligrams per kilogram',
   'mg/l CaCO3**':

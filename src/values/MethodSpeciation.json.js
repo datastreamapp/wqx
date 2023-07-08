@@ -6,6 +6,7 @@ export default {
   enum: [
     'None',
     'as %CaCO3',
+    'as 2,4-D',
     'as ANC',
     'as Al',
     'as As',
@@ -98,6 +99,7 @@ export default {
     'as Ti',
     'as Tl',
     'as U',
+    'as U308',
     'as U3O8',
     'as pH',
     'as qPCR',

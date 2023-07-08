@@ -12087,6 +12087,7 @@ export default {
   'Acetic acid, 2,2,2-trifluoro-, palladium(2+) salt (2:1)': 'PFAS removal',
   "Acetic acid, 2,2,2-trifluoro-, palladium(2+) salt, compd. with 2,2'-dioxybis[2-methylpropane] (2:1:1)":
     'PFAS removal',
+  'Acetic acid, 2,2,2-trifluoro-, potassium salt (1:1)': '',
   'Acetic acid, 2,2,2-trifluoro-, rhodium(2+) salt (2:1)': 'PFAS removal',
   'Acetic acid, 2,2,2-trifluoro-, thulium salt (3:1)': 'PFAS removal',
   'Acetic acid, 2,2,2-trifluoro-, tris(4-fluorophenyl)methylester':
@@ -17957,16 +17958,21 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, coarse silt (>=20 to 63 um)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Grain size, cobbles': '',
   'Grain size, fine gravel and larger (>=2000 um)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, fine sand (>=63 to 200 um)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, fine silt (>=2 to 6.3 um)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Grain size, fines (silt/clay)': '',
+  'Grain size, gravel': '',
   'Grain size, medium sand (>=200 to 630 um)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, medium silt (>=6.3 to 20 um)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Grain size, sand': '',
+  'Grain size, silt': '',
   'Gran acid neutralizing capacity':
     'The Acid Neutralizing Capacity (ANC) of a water sample as determined by a gran titration.; Request Date: 02-MAR-07',
   Gravel: 'NWIS',
@@ -19500,9 +19506,12 @@ export default {
   'Methane, chloro(difluoromethoxy)difluoro-': '',
   'Methane, oxybis[(difluoromethoxy)difluoro-': '',
   'Methane, oxybis[difluoro-': '',
+  'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':
+    '',
   'Methanesulfonic acid, 1,1-difluoro-, 2,2,3,3-tetrafluoropropyl ester': '',
   'Methanesulfonic acid, 2-(3-((2,2,3,3,3-pentafluoro-1-oxopropyl)amino)-5-(trifluoromethyl)-2-pyridinyl)hydrazide':
     '',
+  'Methanesulfonic acid, trifluoro-': '',
   'Methanesulfonic acid--2,2,3,3,4,4,5,5-octafluoropentan-1-ol (1/1)': '',
   Methanol: '; Request Date: 02-MAR-07',
   'Methanol, 1,1-difluoro-1-(trifluoromethoxy)-, acetate': '',
@@ -21233,6 +21242,7 @@ export default {
   Nonabromophenoxybenzene:
     'Request Date: 2-Feb-14 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Nonachlor: '; Request Date: 22-JUL-14',
+  'Nonachlor III': '',
   Nonachlorobiphenyl: '; Request Date: 22-JUL-14',
   Nonacosafluoropentadecanoate: '',
   Nonacosane: '; Request Date: 02-MAR-07',
@@ -25164,6 +25174,7 @@ export default {
     'The volume of a pond, lake, tank or basin, natural or man-made, used for the storage, regulation and control of water.; Request Date: 02-MAR-07',
   'Residence/flushing time, waterbody': '; Request Date: 02-MAR-07',
   'Residual Depth': '; Request Date: 29-JUN-10',
+  'Residual Range Organics': 'Residual Range Organics (>24)',
   'Residue, Total': 'Nemi.gov; Request Date: 25-SEP-19',
   Resistivity: '; Request Date: 29-JUN-12',
   Resmethrin: '; Request Date: 22-JUL-14',
@@ -25533,6 +25544,7 @@ export default {
   'Silica gel treated n-hexane extractable material':
     '; Request Date: 20-MAR-15',
   'Silica, reactive': '',
+  'Silica, vitreous': 'Silica (SiO2) fused',
   Silicate: 'Nemi.gov; Request Date: 22-JUL-14',
   'Silicate(2-), hexafluoro-, ammonium (1:2), reaction products with silica':
     '',

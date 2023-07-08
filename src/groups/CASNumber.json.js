@@ -12667,6 +12667,7 @@ export default {
   'Acetic acid, 2,2,2-trifluoro-, palladium(2+) salt (2:1)': '42196-31-6',
   "Acetic acid, 2,2,2-trifluoro-, palladium(2+) salt, compd. with 2,2'-dioxybis[2-methylpropane] (2:1:1)":
     '75123-99-8',
+  'Acetic acid, 2,2,2-trifluoro-, potassium salt (1:1)': '2923-16-2',
   'Acetic acid, 2,2,2-trifluoro-, rhodium(2+) salt (2:1)': '72654-51-4',
   'Acetic acid, 2,2,2-trifluoro-, thulium salt (3:1)': '70237-00-2',
   'Acetic acid, 2,2,2-trifluoro-, tris(4-fluorophenyl)methylester':
@@ -18281,11 +18282,16 @@ export default {
   'Grain size, clay (<2 um)': '',
   'Grain size, coarse sand (>=630 to 2000 um)': '',
   'Grain size, coarse silt (>=20 to 63 um)': '',
+  'Grain size, cobbles': '',
   'Grain size, fine gravel and larger (>=2000 um)': '',
   'Grain size, fine sand (>=63 to 200 um)': '',
   'Grain size, fine silt (>=2 to 6.3 um)': '',
+  'Grain size, fines (silt/clay)': '',
+  'Grain size, gravel': '',
   'Grain size, medium sand (>=200 to 630 um)': '',
   'Grain size, medium silt (>=6.3 to 20 um)': '',
+  'Grain size, sand': '',
+  'Grain size, silt': '',
   'Gran acid neutralizing capacity': '',
   Gravel: '',
   'Gravel 16 - 32 mm': '',
@@ -19733,10 +19739,13 @@ export default {
   'Methane, chloro(difluoromethoxy)difluoro-': '56726-75-1',
   'Methane, oxybis[(difluoromethoxy)difluoro-': '249932-25-0',
   'Methane, oxybis[difluoro-': '1691-17-4',
+  'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':
+    '90076-65-6',
   'Methanesulfonic acid, 1,1-difluoro-, 2,2,3,3-tetrafluoropropyl ester':
     '95509-81-2',
   'Methanesulfonic acid, 2-(3-((2,2,3,3,3-pentafluoro-1-oxopropyl)amino)-5-(trifluoromethyl)-2-pyridinyl)hydrazide':
     '141283-83-2',
+  'Methanesulfonic acid, trifluoro-': '1493-13-6',
   'Methanesulfonic acid--2,2,3,3,4,4,5,5-octafluoropentan-1-ol (1/1)':
     '144101-43-9',
   Methanol: '67-56-1',
@@ -21502,6 +21511,7 @@ export default {
   'Non-viable seed weight': '',
   Nonabromophenoxybenzene: '63387-28-0',
   Nonachlor: '3734-49-4',
+  'Nonachlor III': '130939-67-2',
   Nonachlorobiphenyl: '53742-07-7',
   Nonacosafluoropentadecanoate: '1214264-29-5',
   Nonacosane: '630-03-5',
@@ -25246,6 +25256,7 @@ export default {
   'Reservoir volume': '',
   'Residence/flushing time, waterbody': '',
   'Residual Depth': '',
+  'Residual Range Organics': '',
   'Residue, Total': '',
   Resistivity: '',
   Resmethrin: '10453-86-8',
@@ -25590,6 +25601,7 @@ export default {
   Silica: '7631-86-9',
   'Silica gel treated n-hexane extractable material': '',
   'Silica, reactive': '7631-86-9',
+  'Silica, vitreous': '60676-86-0',
   Silicate: '12627-13-3',
   'Silicate(2-), hexafluoro-, ammonium (1:2), reaction products with silica':
     '70248-10-1',

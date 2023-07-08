@@ -2,6 +2,8 @@ export default {
   None: 'None',
   'as %CaCO3':
     'PERCENT Calcium carbonate is a common substance found in rocks in all parts of the world, and is the main component of shells of marine organisms, snails, coal balls, pearls, and eggshells. It is the active ingredient in agricultural lime, and is created when Ca ions in hard water react with carbonate ions creating limescale.',
+  'as 2,4-D':
+    '2,4-D is a widely used herbicide that controls broadleaf weeds that has been used as a pesticide since the 1940s. 2,4-Dichlorophenoxyacetic acid is an organic compound',
   'as ANC':
     "acid neutralizing capacity is a measure for the overall buffering capacity against acidification for a solution, e.g. surface water or soil water.\r\nANC is defined dynamically as the amount of acid needed to change the pH value from the sample's value to a chosen different value.",
   'as Al':
@@ -171,6 +173,8 @@ export default {
     'Thallium is a chemical element with the symbol Tl and atomic number 81. It is a gray post-transition metal that is not found free in nature. When isolated, thallium resembles tin, but discolors when exposed to air. The method of flame spectroscopy, in which thallium produces a notable green spectral line.  Thallium tends to form the +3 and +1 oxidation states. The +3 state resembles that of the other elements in group 13 (boron, aluminium, gallium, indium).',
   'as U':
     'Uranium is a silvery-white metallic chemical element in the periodic table, with atomic number 92. It is assigned the chemical symbol U. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium has the highest atomic weight of all naturally occurring elements.',
+  'as U308':
+    'Uranium concentrate, commonly referred to as U3O8, is the product created when uranium ore has been mined and milled. The fine powder is packaged in steel drums and shipped to refineries for further processing to prepare it for use as fuel in nuclear reactors.',
   'as U3O8':
     'Triuranium octoxide (U3O8), a yellow powdery substance, is the most stable form of uranium oxide and is the form most commonly found in nature. Molar mass: 842.1 g/mol.  Insoluble in water; Soluble in nitric and sulfuric acids',
   'as pH':
