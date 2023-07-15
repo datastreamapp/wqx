@@ -104,6 +104,8 @@ export default {
     'Whole Fish,BeheadGutted,SkinOn',
     'Whole Fish,BeheadGuttedSkinOff',
     'Whole Organism',
+    'Whole, No Exoskeleton/Shell',
+    'Whole, NoStomachContents/Gills',
     'Whole, Not Gut',
     'Wing',
     'Wood'

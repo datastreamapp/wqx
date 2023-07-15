@@ -29327,6 +29327,7 @@ export default {
   'Mytilus californianus': 'Not Assigned',
   'Mytilus edulis': 'Not Assigned',
   'Mytilus galloprovincialis': 'Not Assigned',
+  'Mytilus trossulus': 'Not Assigned',
   Myxicola: 'Not Assigned',
   'Myxicola infundibulum': 'Not Assigned',
   'Myxilla incrustans': 'Not Assigned',

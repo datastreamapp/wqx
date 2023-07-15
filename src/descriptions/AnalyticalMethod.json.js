@@ -48,7 +48,7 @@ export default {
   504: '',
   505: '505 ~ EPA-NERL ; Pesticides and PCBs in Water GC-ECD',
   506: '506 ~ EPA-NERL ; Phthalate and Adipate Esters in Water by GCPID',
-  507: '507 ~ EPA-TSC/NERL ; Pesticides in Water Using GCNPD',
+  507: 'Standard Methods (19th ed.) 507 (dissolved oxygen depletion) mg/L',
   508: '508 ~ EPA-TSC/NERL ; Chlorinated Pesticides in Water Using GCECD',
   509: '509 ~ EPA-NERL ; Ethylene thiourea in water using GC with a N-P detector',
   513: '',
@@ -127,7 +127,6 @@ export default {
   680: '',
   901: '',
   902: '',
-  904: '',
   906: '',
   907: '',
   1000: '',
@@ -1851,8 +1850,7 @@ export default {
   515.3: '515.3 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GC/ECD',
   515.4: '515.4 ~ EPA-OGWDW/TSC ; Chlorinated Acids by GCECD',
   '520011SAES': '',
-  '5210-B':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/5715/',
+  '5210-B': '5210B ~ Standard Methods ; BOD: 5-Day Test',
   '5210-C': '',
   '5220-B': '',
   '5220-C': '5220C ~ Standard Methods ; COD by Closed Reflux, Titration',
@@ -1876,7 +1874,8 @@ export default {
     '531.2 ~ EPA-OGWDW/TSC ; N-Methylcarbamoyloximes and N-Methylcarbamates in Water by HPLC with Post Column Derivitization',
   '5310-B':
     '5310B ~ Standard Methods ; Total organic carbon by High-Temperature Combustion',
-  '5310-C': '',
+  '5310-C':
+    '5310C ~ Standard Methods ; Total organic carbon by Persulfate-UV or Heated-Persulfate Oxidation',
   '5310-D': '5310 D ~ Standard Methods ; TOC by Wet Oxidation',
   '5320-B': '',
   '535 (ITMS)':
@@ -2250,9 +2249,12 @@ export default {
   '9020B': '',
   '903***retired***use 903..0':
     '903 ~ EPA-ORD / EPA-OST ; Alpha-Emitting Radium Isotopes in Drinking Water',
-  '903.0': '',
+  '903.0':
+    '903 ~ EPA-ORD / EPA-OST ; Alpha-Emitting Radium Isotopes in Drinking Water',
   903.1: '903.1 ~ EPA-NERL ; Radium-226 in Drinking Water',
   '9030A': '',
+  '904.0':
+    '904 ~ EPA-ORD / EPA-OST ; Radium Isotopes radium-228 in Drinking Water',
   '9040A': '',
   '9040B': '9040 B ~ EPA-RCA ; pH in Water by Electrometric Measurement',
   '9040C':
@@ -2722,8 +2724,12 @@ export default {
   'CR-01': '',
   'CSRS GW':
     'Computerized Stratified Random Site-Selection Approaches for Design of a Ground-Water-Quality Sampling Network ~ USGS ; Scott, Jonathon C.',
+  'CSWQ_WQ1.0MEC':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ1.0MEC',
   'CSWQ_WQ1.1':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ2',
+  'CSWQ_WQ2.0MEC':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ2.0MEC',
   'CSWQ_WQ2.1':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ2.1',
   'CSWQ_WQ3.0MEC':
@@ -2732,6 +2738,10 @@ export default {
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
   'CSWQ_WQ4.302':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ4.302',
+  'CSWQ_WQ5.0MEC':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ5.0MEC',
+  'CSWQ_WQ5.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=CSWQ_WQ5.1',
   'CSWQ_WQ6.0MEC':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
   'CSWQ_WQ6.1':
@@ -4223,6 +4233,8 @@ export default {
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ2',
   NSL_WQ11:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ2',
+  NSL_WQ12:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ12',
   NSL_WQ13:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=NSL_WQ13',
   NSL_WQ14:
@@ -4401,8 +4413,12 @@ export default {
   'OIA-1677': 'OIA-1677 ~ O-I-Analytical ; Cyanide by Amperometry',
   OKGRL_LM04:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM04',
+  OKGRL_LM05:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM05',
   'OKGRL_LM120.1':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM120.1',
+  'OKGRL_LM150.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM150.1',
   'OKGRL_LM215.1':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM215.1',
   'OKGRL_LM242.1':
@@ -4417,6 +4433,12 @@ export default {
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
   'OKGRL_LM353.2':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM353.2',
+  'OKGRL_LM365.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM365.1',
+  'OKGRL_LM365.2':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM365.2',
+  'OKGRL_LM365.5':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM365.5',
   'OKGRL_LMWQ1.1':
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LMWQ1.1',
   OKGRL_LMWQ2:
@@ -4789,10 +4811,26 @@ export default {
   'PO_02(W)': ' in Water',
   'PREDICTIVE MODELING':
     'RIVPACS-type predictive modeling ~ EPA ; Van Sickle, J.',
+  PSWMRU_WQ10:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ10',
+  PSWMRU_WQ11:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ11',
   PSWMRU_WQ12:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ06',
+  PSWMRU_WQ17:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ17',
+  PSWMRU_WQ18:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ18',
+  PSWMRU_WQ19:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ19',
+  'PSWMRU_WQ19.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ19.1',
   PSWMRU_WQ2:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ2',
+  PSWMRU_WQ5:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ5',
+  'PSWMRU_WQ5.1':
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ5.1',
   'PTI FOR FRESHWATER':
     'Pesticide Toxicity Index (PTI) for Freshwater Aquatic Organisms ~ USGS NAWQA ; Munn, M.D., Gilliom, R.J., Moran, P.W., and Nowell, L.H.',
   'PU-01': '',
@@ -4813,6 +4851,7 @@ export default {
   'Percent Moisture':
     'Biological Tissue Analysis - Percent Moisture  In House SOP, https://www.pacelabs.com/environmental-services/specialty-services/biological-tissue-analysis/methods.html',
   Pole: 'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users.',
+  QAPP: 'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=QAPP',
   'QUALITY ASSESSMENT':
     'Data Quality Assessment: Statistical Methods for Practitioners ~ EPA-QUALITY ; U.S. Environmental Protection Agency',
   'Quanti-Tray/2000':
@@ -4888,6 +4927,8 @@ export default {
   SAGWMD:
     'Statistical Analysis of Groundwater Monitoring Data at RCRA Facilities - Unified Guidance ~ EPA ; USEPA',
   'SAMP-U,RA': 'Samp-U,Ra ~ DOE EML ; Uranium and Radium in Water',
+  SDRU_WQ02:
+    'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ02',
   SDRU_WQ03:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ07',
   SDRU_WQ04:

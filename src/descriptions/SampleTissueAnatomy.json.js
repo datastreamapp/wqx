@@ -141,6 +141,9 @@ export default {
   'Whole Fish,BeheadGuttedSkinOff': '',
   'Whole Organism':
     'An organism may be defined as an assembly of molecules functioning as a more or less stable whole that exhibits the properties of life. Any individual entity that embodies the properties of life such as "any living structure, such as a plant, animal, fungus or bacterium, capable of growth and reproduction"',
+  'Whole, No Exoskeleton/Shell': 'Whole organism, no exoskeleton or shell',
+  'Whole, NoStomachContents/Gills':
+    'Whole organism, no stomach contents or gills',
   'Whole, Not Gut': '',
   Wing: 'A modified forelimb that bears large feathers and is used for flying.',
   Wood: 'The hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub.'

@@ -8,6 +8,8 @@ export default {
   'Artificial Substrate':
     'A method for sampling hard bottom areas, and quantitatively comparable samples can be obtained from any type of stream to sample bethnic stream invertebrates.',
   'Autonomous Underwater Vehicle': 'Autonomous Underwater Vehicle',
+  'Autosampler (other)':
+    'Automated sampling device for water or air/gas, type unspecified',
   Backhoe:
     'An excavator to which a shovel bucket is attached to a hinged boom and is drawn backward to excavate materials.',
   'Backpack Electroshock':
@@ -109,6 +111,7 @@ export default {
   'Experimental Brail': '',
   'Experimental Gill Net':
     'Gill netting is the capture of fish by entanglement in a fabric mesh that is not actively moved by man or machine.  Experimental gill nets usually have several 4.5- to 15-m panels of various mesh sizes, thus reducing the potential for size selectivity.',
+  Faucet: 'Water sample from faucet',
   'Fish Weir':
     'Fish weir an obstruction placed in tidal waters, or wholly or partially across a river, to direct the passage of, or trap fish.',
   'Flow Meter': 'Measures the flow of water',
@@ -122,6 +125,7 @@ export default {
   'Glass fiber filter': 'For general gravimetric air sampling and analysis',
   'Gravity Corer (Generic)':
     'Gravity corers are widely used for the collection of the smallest marine metazoans (meiofauna) from subtidal grounds. The gravity corer is basically a weighted tube mounted within a frame that descends by gravity from the research vessel to the sea floor, where it penetrates the sediment to a given depth, filling the tube with sediment in the process. ',
+  'Hand (other)': 'Grabbed or picked by hand or hand tool',
   'Hand Corer':
     "A hand-held benthic corer uses a plumber's pipe test plug to create suction. The test plug excludes water, detritus, aquatic plants, and creates suction that holds substrate in the barrel of the corer.",
   'Hanging Bag':
@@ -148,6 +152,8 @@ export default {
     'Either gas or hand-powered are used by ice fishermen to drill holes to fish through.',
   'Insect Trap':
     'Traps used to monitor or directly reduce populations of insects.',
+  'Integrated Sampler':
+    '2m PVC Pipe with a value and rubber stopper used to collect water at the surface',
   'Isaacs-Kidd Trawl':
     'The standard net for collection of larger quantities of macrozoplankton and micronekton.',
   'Juday Trap': 'A phytoplankton trap',

@@ -29318,6 +29318,7 @@ export default {
     'Mytilus californianus',
     'Mytilus edulis',
     'Mytilus galloprovincialis',
+    'Mytilus trossulus',
     'Myxicola',
     'Myxicola infundibulum',
     'Myxilla incrustans',
