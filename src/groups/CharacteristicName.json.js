@@ -19874,6 +19874,7 @@ export default {
   'Depth, Photic zone includes bottom (Y/N) (choice list)': 'Not Assigned',
   'Depth, Secchi disk depth': 'Information',
   'Depth, Secchi disk depth (choice list)': 'Information',
+  'Depth, Secchi disk depth reappears': 'Information',
   'Depth, Secchi disk visible at bottom (Y/N) (choice list)': 'Not Assigned',
   'Depth, below bottom surface': 'Information',
   'Depth, bottom': 'Information',
