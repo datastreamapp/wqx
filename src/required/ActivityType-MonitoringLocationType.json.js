@@ -4,6 +4,7 @@ export default {
       ActivityType: {
         enum: [
           'Field Msr/Obs',
+          'Field Msr/Obs-Continuous Time Series',
           'Field Msr/Obs-Habitat Assessment',
           'Field Msr/Obs-Portable Data Logger',
           'Quality Control Field Msr/Obs Post-Calibration',

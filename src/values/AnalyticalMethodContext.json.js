@@ -46,6 +46,7 @@ export default {
     'HACH',
     'IDEXX',
     'IL/SWSD',
+    'IN-SITU',
     'ISO',
     'ITS',
     'KINGWOOD',
