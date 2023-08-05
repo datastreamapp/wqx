@@ -21194,7 +21194,7 @@ export default {
   Nitrofen: '; Request Date: 22-JUL-14',
   Nitrofurantoin: '; Request Date: 02-MAR-07',
   Nitrogen: 'EPA Workgroup QA; Request Date: 02-MAR-07',
-  'Nitrogen Delta 15***retired***use Nitrogen-15/Nitrogen-14 ratio':
+  'Nitrogen Delta 15***retired***use Delta Nitrogen-15/Nitrogen-14':
     '; Request Date: 22-JUL-14',
   'Nitrogen dioxide': '; Request Date: 02-MAR-07',
   'Nitrogen ion': '; Request Date: 22-JUL-14',
@@ -27256,6 +27256,7 @@ export default {
   Triflumizole: 'NWIS',
   'Trifluoro(1,1,2,2,3,4,4-heptafluorobut-3-enyl)oxirane': '',
   'Trifluoro(1,1,2,2-tetrafluoro-2-iodoethoxy)ethylene': '',
+  'Trifluoroacetic acid': '',
   'Trifluoroacetyl triflate': 'PFAS removal',
   'Trifluoromethyl perfluorobutyl ether': '',
   'Trifluorotris(pentafluoroethyl)phosphate': '',
@@ -28117,7 +28118,7 @@ export default {
   'd7-Verapamil': '',
   'd8-Prednisone': '',
   'd9-NEt-FOSE': '',
-  'delta Chromium-53/chromium-52 analytical uncertainty': 'NWIS',
+  'delta Chromium-53/chromium-52 uncertainty': 'NWIS',
   'delta carbon-13/carbon-12': 'NWIS',
   'delta chromium-53/chromium-52': 'NWIS',
   'delta helium-3/helium-4': 'NWIS',

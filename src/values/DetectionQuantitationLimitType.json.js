@@ -6,6 +6,7 @@ export default {
   enum: [
     'Blank-adjusted method detect limit',
     'Blank-adjusted reporting limit',
+    'Censoring level',
     'Contract Detection Limit',
     'Contract Quantitation Limit',
     'Daily detection limit',

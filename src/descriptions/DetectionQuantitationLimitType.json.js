@@ -2,6 +2,7 @@ export default {
   'Blank-adjusted method detect limit': 'Blank-adjusted method detect limit',
   'Blank-adjusted reporting limit':
     'Greater than or equal to two times the blank-adjusted method detect limit. The probability of falsely reporting a non-detection blank-adjusted limit is predicted to be less than or equal to 1 percent.',
+  'Censoring level': 'Lower or upper value at which the result is censored',
   'Contract Detection Limit':
     'Minimum level of detection acceptable under the contract Statement of Work (SOW). However, laboratory-derived IDLs (adjusted for sample size, dilution and moisture) are used for reporting limits',
   'Contract Quantitation Limit':
