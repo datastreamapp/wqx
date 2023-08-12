@@ -19161,6 +19161,7 @@ export default {
   'Gomphonema sagitta': 'Not Assigned',
   'Gomphonema sarcophagus': 'Not Assigned',
   'Gomphonema septum': 'Not Assigned',
+  'Gomphonema sierranum': 'Not Assigned',
   'Gomphonema simus': 'Not Assigned',
   'Gomphonema sphaerophorum': 'Not Assigned',
   'Gomphonema stoermeri': 'Not Assigned',

@@ -1,11 +1,13 @@
 export default {
-  16582: ' (Tribal)',
+  16582:
+    'Chickaloon Native Village (Tribal) || Chickaloon Native Village (Tribal)',
   123225: 'Beach Program',
   934010:
-    'Confederated Tribes of the Umatilla Indian Reservation; Confederated Tribes of the Umatilla Indian Reservation Oregon',
+    'Confederated Tribes of the Umatilla Indian Reservation (Tribal) || Confederated Tribes of the Umatilla Indian Reservation (Tribal)',
   939785:
     'This is a duplicate organization setup for the NHDES and does not contain any data. It is strictly used for testing only.',
-  947757: 'Confederated Tribes of Coos, Lower Umpqua and Siulsaw Indians; ',
+  947757:
+    'Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal) || Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal)',
   1121575: 'Water Quality Monitoring Data',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
@@ -46,7 +48,8 @@ export default {
   '21ARIZ_WQX': 'Water Quality Monitoring Data for all the Waters in the state',
   '21AS_WQX': '',
   '21AWIC': '',
-  '21BRBCH': 'The Natural Resources Department within the Bad River Tribe',
+  '21BRBCH':
+    'Bad River Natural Resources Department (Tribal) (BEACH) || Bad River Natural Resources Department (Tribal) (BEACH)',
   '21CABCH': 'Contractor for the State of California',
   '21CAOCSD_WQX': 'Water quality monitoring data',
   '21COL001_WQX':
@@ -180,7 +183,8 @@ export default {
   '21GACRD': 'COASTAL RESOURCES DIVISION',
   '21GAEPD_WQX': 'Georgia DNR Environmental Protection Division',
   '21GA_WQX': 'Water Quality Monitoring Data for all the Waters in the state',
-  '21GPBCH': '',
+  '21GPBCH':
+    '21GPBCH - Grand Portage Beaches || 21GPBCH - Grand Portage Beaches (Tribal)',
   '21GUAM': 'Water Quality Monitoring Data',
   '21GUBCH': '',
   '21HI': '',
@@ -251,17 +255,20 @@ export default {
   A4GL_WQX: '',
   ABCI_WQX:
     'Tribal Environmental Protection Agency for the Augustine Band of Cahuilla Indians',
-  ABSHAWNEE: 'Absentee Shawnee Tribe of Oklahoma',
-  ACBCI_WQX: 'Agua Caliente Band of Cahuilla Indians; ',
-  ACOMA_PUEBLO_WQX: 'Pueblo of Acoma; Pueblo of Acoma',
+  ABSHAWNEE:
+    'Absentee Shawnee Tribe of Oklahoma (Tribal) || Absentee Shawnee Tribe of Oklahoma (Tribal)',
+  ACBCI_WQX:
+    'Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation, California (Tribal) || Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation, California (Tribal)',
+  ACOMA_PUEBLO_WQX:
+    'Pueblo of Acoma, New Mexico (Tribal) || Pueblo of Acoma, New Mexico (Tribal)',
   ADGGS: 'Alaska Division of Geological & Geophysical Surveys',
   ADVENTURESCIENTISTS:
     'Citizen science data collection in far flung locations around the world.',
   AFW_PDX: 'Portland, Oregon office',
   AHRA: '',
-  AIEO: 'American Indian Environmental Office; ',
+  AIEO: 'American Indian Environmental Office (Tribal) || American Indian Environmental Office (Tribal)',
   'AK-CHIN_WQX':
-    'Ak-Chin Indian Community; Environmental Protection Authority; Water Quality Program',
+    'Ak-Chin Indian Community (Tribal) || Ak-Chin Indian Community (Tribal)',
   AKBLM_FDO: 'Water Quality Monitoring Data',
   AKDECAKMAP:
     'The mission of DEC\'s Division of Water is to improve and protect the quality of all Alaskan waters and under the Clean Water Act (CWA)Sections 303(d) and 305(b) Alaska has the responsibility to report and identify causes and sources of water quality impairment by "characterizing all the waters in Alaska". One way the division carries out this mission is to monitor and report on water quality. The Alaska Monitoring & Assessment Program (AKMAP) fulfills this responsibility.',
@@ -269,7 +276,8 @@ export default {
   AKDECWQ: 'Water quality Standards Assessment & Restoration',
   AKDFGSPF: 'Alaska Department of Fish and Game, Division of Sport Fish',
   AKDNRFOR: '',
-  'ALABAMACOUSHATTATRIBE.TX_WQX': 'Alabama-Coushatta Tribe of Texas;',
+  'ALABAMACOUSHATTATRIBE.TX_WQX':
+    'Alabama-Coushatta Tribe of Texas (Tribal) || Alabama-Coushatta Tribe of Texas (Tribal)',
   ALASSWCD_WQX: 'Water Quality Monitoring Data',
   ALLARM: '',
   ALO_WQX:
@@ -282,7 +290,8 @@ export default {
     'The AWP is a stakeholder driven, collaborative, watershed-based group made up of partners representing diverse interests across the watershed in New Mexico, the Southern Ute Tribal Lands and Colorado. Current membership is over 100 individuals and entities. The AWP works together across state and Tribal boundaries to protect and improve the quality of water resources in the Animas River.',
   ANTIX_WQX: 'National Park Service',
   APPLEGATE_WC: 'Former VolMon group',
-  AQUINNAH_WQX: 'Wampanoag Tribe of Gay Head (Aquinnah) - Massachusetts;',
+  AQUINNAH_WQX:
+    'Wampanoag Tribe of Gay Head (Aquinnah) (Tribal) || Wampanoag Tribe of Gay Head (Aquinnah) (Tribal)',
   ARDEQH2O_WQX: '',
   ARMYCORPS: 'US Army Corps of Engineers District (West Virginia)',
   ARR: '',
@@ -303,7 +312,8 @@ export default {
   AZDEQ_SW: 'Water Quality Division: Surface Water',
   AZDEQ_WPD: 'Waste Programs Division',
   BACKBAYNWR: 'Back Bay National Wildlife Refuge',
-  BADRIVER_WQX: 'Bad River Tribe',
+  BADRIVER_WQX:
+    'Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation, Wisconsin || Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation, Wisconsin',
   BATTELLE_NFTDR_WQX: 'Battelle',
   BATTELLE_NOR_WQX: '',
   BBP_WQX:
@@ -319,21 +329,26 @@ export default {
   BESD: 'Colorado',
   BETA_OCMA: '',
   BIGDRY: '',
-  BIGLAG_WQX: 'Big Lagoon Rancheria (California); ',
+  BIGLAG_WQX:
+    'Big Lagoon Rancheria, California (Tribal) || Big Lagoon Rancheria, California (Tribal)',
   BIGPINEPAIUTE:
-    'Big Pine Paiute Tribe; Big Pine Paiute Tribe of the Owens Valley',
-  BIGSANDY: 'Big Sandy Rancheria;',
+    'Big Pine Paiute Tribe of the Owens Valley (Tribal) || Big Pine Paiute Tribe of the Owens Valley (Tribal)',
+  BIGSANDY:
+    'Big Sandy Rancheria of Western Mono Indians of California || Big Sandy Rancheria of Western Mono Indians of California (Tribal)',
   BIISHNIINI4: '',
   BILLIONOYSTERPROJECT: '',
-  BISHOPPAIUTETRIBE: 'Bishop Paiute Shoshone Indians Tribe; ',
-  BISHOP_PAIUTE_TRIBE_WQX: 'Bishop Paiute Tribe',
+  BISHOPPAIUTETRIBE:
+    'Bishop Paiute Tribe (Tribal) || Bishop Paiute Tribe (Tribal)',
+  BISHOP_PAIUTE_TRIBE_WQX:
+    'Bishop Paiute Tribe || Bishop Paiute Tribe (Tribal)',
   BLCKFEET: '',
   BLMRW: 'Water Quality Monitoring Data',
   BLM_WRBBD: '',
-  BLR: 'Blue Lake Rancheria (California); ',
+  BLR: 'Blue Lake Rancheria (California) (Tribal) || Blue Lake Rancheria (California) (Tribal)',
   BLR_WQX: '(Tribal)',
   BLUERIVERWATERSHEDASSOCIATION: '',
-  BMIC_WQX: 'Bay Mills Indian Community;',
+  BMIC_WQX:
+    'Bay Mills Indian Community, Michigan (Tribal) || Bay Mills Indian Community, Michigan (Tribal)',
   BMWM_TEST: 'TEST',
   BOISNETT_WQX:
     'Region 5 Wild Rice - Bois Forte/Nett Lake Band of Chippewa Indians',
@@ -342,26 +357,31 @@ export default {
   BOUNTIFL_WQX: ' Superfund',
   BPMWQX:
     "Supporing EPA's Bonita Peak Mining District's (Superfund site) public data sharing efforts",
-  BRB: 'Bear River Band of Rohnerville Rancheria (California);',
-  BRIDGEPORTIC: 'Federally Recognized Tribe',
+  BRB: 'Bear River Band of the Rohnerville Rancheria, California (Tribal) || Bear River Band of the Rohnerville Rancheria, California (Tribal)',
+  BRIDGEPORTIC:
+    'Bridgeport Indian Colony (Tribal) || Bridgeport Indian Colony (Tribal)',
   BRIGHTON_WQX: 'Water Quality Monitoring Data',
   BROADRIVERNC: 'French Broad Riverkeeper monitoring',
-  BTBAQUATIC_WQX: 'Grand Traverse band of Ottawa and Chippewa Indians; ',
+  BTBAQUATIC_WQX:
+    'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
   BTMUA: 'Drinking water provider',
   BTWTRFRM: 'Water Quality Monitoring Data.',
   BUNKER_FWS: 'Water Quality Monitoring Data',
   BUNKER_USGS: '',
   BUNKER_WQX: 'Water Quality Monitoring Data',
-  BURNSPAIUTE: 'Burns Paiute Tribe;',
-  BURNSPAIUTE123: 'Burns Paiute Tribe; ',
-  BVR: '',
+  BURNSPAIUTE: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
+  BURNSPAIUTE123: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
+  BVR: 'Buena Vista Rancheria of Me-Wuk Indians of California (Tribal) || Buena Vista Rancheria of Me-Wuk Indians of California (Tribal)',
   BXA: 'Volunteer Monitoring Group',
-  CABAZWQ32: 'Cabazon Band Of Mission Indians; ',
+  CABAZWQ32:
+    'Cabazon Band of Mission Indians, California (Tribal) || Cabazon Band of Mission Indians, California (Tribal)',
   CABEACH_WQX: 'California Beach Monitoring Data',
-  CADDONATION_WQX: 'Caddo Nation;',
+  CADDONATION_WQX:
+    'Caddo Nation of Oklahoma (Tribal) || Caddo Nation of Oklahoma (Tribal)',
   CADMUS: '',
   CADPR_WQX: 'Water Quality Monitoring Data',
-  CADWR_WQX: 'Water Quality Monitoring Data',
+  CADWR_WQX:
+    'California Department of Water Resources (Volunteer)* || California Department of Water Resources (Volunteer)*',
   CAFRESNO_WQX: 'Water Quality Data',
   CALSWAMP_WQX: 'Water Quality Monitoring Data.',
   CALTRANS_WQX: '',
@@ -373,9 +393,10 @@ export default {
   CATAWBA: ' (Tribal)',
   CATAWBARIVERKEEPER: 'Catawba Riverkeeper Foundation (CRF)',
   CA_BVR:
-    'Big Valley Band of Pomo Indians of the Big Valley Rancheria, California; Tribal government',
+    'Big Valley Band of Pomo Indians of the Big Valley Rancheria, California (Tribal) || Big Valley Band of Pomo Indians of the Big Valley Rancheria, California (Tribal)',
   CA_SWRCB: '',
-  CBMI_WQX: 'Cabazon Band of Mission Indians (California);',
+  CBMI_WQX:
+    'Cabazon Band of Mission Indians, California (Tribal) || Cabazon Band of Mission Indians, California (Tribal)',
   CBP_WQX: 'Chesapeake Bay Program (PRODUCTION Environment)',
   CBS: '',
   CC: '',
@@ -384,14 +405,16 @@ export default {
   CCSCD: '',
   CCSHBWA: 'Crafts Creek Spring Hill Brook Watershed Association',
   CCSR: 'Cohasset Center for Student Coastal Research',
-  CCUI_WQX: 'Cow Creek Umpqua Indians;',
+  CCUI_WQX:
+    'Cow Creek Band of Umpqua Tribe of Indians (Tribal) || Cow Creek Band of Umpqua Tribe of Indians (Tribal)',
   CCU_EQL: '',
   CCWC: "Coal Creek Watershed Coalition (CCWC) is 501(c)(3) non-profit organization. The mission of CCWC is to maintain, restore and enhance the environmental integrity of Crested Butte's local watersheds to ensure those local watersheds and habitats are of the highest possible quality necessary to support wildlife, aquatic life, and human life.",
   CCWF: 'Water Quality Data to promote sustainable natural resource management throughout the Clear Creek Watershed and serve as a model for the arid mountain west..',
   CDATRUST: '',
-  CDATWATRES: 'Coeur dAlene Tribe Water Resources Department; ',
+  CDATWATRES: "Coeur D'Alene Tribe (Tribal) || Coeur D'Alene Tribe (Tribal)",
   CDOT: '',
-  CEDARRANCH_WQX: 'Cedarville Rancheria',
+  CEDARRANCH_WQX:
+    'Cedarville Rancheria (Tribal) || Cedarville Rancheria (Tribal)',
   CEDEN: 'California State Water Resources Control Board',
   CENAB: 'US Army Corps of Engineers District',
   CENTREAL_WQX: '',
@@ -402,16 +425,21 @@ export default {
   CHARLOTTEHARBOREC_WQX: '',
   CHATFLD_WQX: 'Water Quality Data',
   CHATTAHOOCHEERIVERKEEPER: 'Chattahoochee Riverkeeper',
-  CHEHALIS_WQX: 'Confederated Tribes of the Chehalis Indian Reservation;',
-  CHEMEHUEVI_WQX: 'Chemehuevi Indian Tribe; ',
+  CHEHALIS_WQX:
+    'Confederated Tribes of the Chehalis Reservation (Tribal) || Confederated Tribes of the Chehalis Reservation (Tribal)',
+  CHEMEHUEVI_WQX:
+    'Chemehuevi Indian Tribe of the Chemehuevi Reservation, California (Tribal) || Chemehuevi Indian Tribe of the Chemehuevi Reservation, California (Tribal)',
   CHEROKEEMD: 'Colorado',
-  CHEROKEE_WQX: 'Cherokee Nation (Oklahoma);',
+  CHEROKEE_WQX: 'Cherokee Nation (Tribal) || Cherokee Nation (Tribal)',
   CHESAPEAKBAYNERR: '',
   CHESAPEAKEMONITORINGCOOP: '',
   CHEYENNEWSD1: '',
-  CHEYRIVR: ' (Tribal)',
-  CHICKALOONNATIVEVILLAGE_WQX: 'Chickaloon Native Village;',
-  CHIPCREE_WQX: '',
+  CHEYRIVR:
+    'Cheyenne River Sioux Tribe (South Dakota) (Tribal) || Cheyenne River Sioux Tribe (South Dakota) (Tribal)',
+  CHICKALOONNATIVEVILLAGE_WQX:
+    'Chickaloon Native Village (Tribal) || Chickaloon Native Village (Tribal)',
+  CHIPCREE_WQX:
+    'Chippewa Cree Tribe @ Rocky Boy Indian Reservation || Chippewa Cree Tribe @ Rocky Boy Indian Reservation (Tribal)',
   CHNEPCHB_WQX: 'Water Quality Monitoring Data',
   CHNEPCHE_WQX:
     'This ORGID refers to data collected in the East Wall of Charlotte Harbor by the Coastal Charlotte Harbor Monitoring Network (CCHMN).  STORET upload was conducted by the Charlotte Harbor Environmental Center with funding from the SWFWMD.',
@@ -430,13 +458,14 @@ export default {
     'This ORGID refers to data collected in the East Wall of Charlotte Harbor by the Coastal Charlotte Harbor Monitoring Network (CCHMN).  STORET upload was conducted by the Charlotte Harbor Environmental Center with funding from the SWFWMD.',
   CHNEPTPR_WQX:
     'This ORGID refers to data collected in the East Wall of Charlotte Harbor by the Coastal Charlotte Harbor Monitoring Network (CCHMN).  STORET upload was conducted by the Charlotte Harbor Environmental Center with funding from the SWFWMD.',
-  CHOCNATWQX: 'Choctaw Nation;',
+  CHOCNATWQX:
+    'The Choctaw Nation of Oklahoma (Tribal) || The Choctaw Nation of Oklahoma (Tribal)',
   CHRISJCHEN: '',
   CITYFTCO_WQX: 'Water Quality Data',
   CITYOFPG_WQX: 'Water Quality Monitoring Data.',
   CITYPUEBLO_WWD: 'Colorado',
   CLACKAMAS_SWCD: 'Current VolMon group',
-  CLALLAMCODCD: '',
+  CLALLAMCODCD: "Clallam County-DCD || Jamestown S'Klallam Tribe (Tribal)",
   CLALLAMCOUNTYDCD: '',
   CLALLAMCOUNTYEH_WQX: 'Clallam County Environmental Health Services',
   CLINCHVALLEYSWCD_WQX: '',
@@ -446,11 +475,15 @@ export default {
   CMCPD:
     'The Cape May County Planning Department is the professional arm of the Cape May County Planning Board. The department is responsible for the day to day operations that carry out the functions of the Planning Board.',
   CMP_WQX: 'managed by DE Sea Grant',
-  CNA: '',
-  CNENVSER: 'Chickasaw Nation; Phillip Cravatt',
-  CNWQD: 'Comanche Nation Water Quality Department',
-  COCHITIPUEBLO: 'Cochiti Pueblo; Cochiti Pueblo of New Mexico',
-  COCOPAH_INDIAN: 'Cocopah Indian Tribe Environmental Protection Office;',
+  CNA: 'Cheyenne and Arapaho Tribes of Oklahoma || Cheyenne and Arapaho Tribes of Oklahoma (Tribal)',
+  CNENVSER:
+    'Chickasaw Nation Environmental Service || Chickasaw Nation Environmental Service (Tribal)',
+  CNWQD:
+    'Comanche Nation Water Quality Department || Comanche Nation Water Quality Department (Tribal)',
+  COCHITIPUEBLO:
+    'Pueblo of Cochiti, New Mexico (Tribal) || Pueblo of Cochiti, New Mexico (Tribal)',
+  COCOPAH_INDIAN:
+    'Cocopah Tribe of Arizona (Tribal) || Cocopah Tribe of Arizona (Tribal)',
   'COE/ISU_WQX': '',
   COEOMAHA_WQX: 'US Army Corps of Engineers Omaha District',
   COK2014: "Contact Name: Carol O'Donnell-Kee",
@@ -463,53 +496,70 @@ export default {
   CONNRIVERCONSERVANCY: 'Connecticut River Conservancy',
   CONSERVATION_COMMISSION: 'Oklahoma Conservation Commission',
   COOSWA: 'Volunteer Monitoring Group',
-  COQUILLETRIBE_WQX: 'Coquille Indian Tribe;',
+  COQUILLETRIBE_WQX:
+    'Coquille Indian Tribe (Tribal) || Coquille Indian Tribe (Tribal)',
   COQUILLE_WA: 'Current VolMon group',
   CORIVWCH_WQX: 'Water Quality Monitoring',
-  CORTINARANCHERIA_WQX: 'Cortina Rancheria Kletsel Dehe Wintun Nation',
-  COYOTEVAL_WQX: 'Coyote Valley Tribal EPD;',
-  CPNWATER: 'Citizen Potawatomi Nation;',
+  CORTINARANCHERIA_WQX: 'Kelly Baucom || Kelly Baucom',
+  COYOTEVAL_WQX:
+    'Coyote Valley Band of Pomo Indians of California (Tribal) || Coyote Valley Band of Pomo Indians of California (Tribal)',
+  CPNWATER:
+    'Citizen Potawatomi Nation, Oklahoma (Tribal) || Citizen Potawatomi Nation, Oklahoma (Tribal)',
   CPRW: '',
   CRBC_WQX: 'Suzi Cloutier, Current VolMon group',
-  CRITEPO_WQX: 'Colorado River Indian Tribes Environmental Office;',
-  CRITFC_WQX: 'Nez Perce Tribe of Idaho',
+  CRITEPO_WQX:
+    'Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California (Tribal) || Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California (Tribal)',
+  CRITFC_WQX:
+    'Nez Perce Tribe of Idaho (Tribal) || Nez Perce Tribe of Idaho (Tribal)',
   CRK_WQX: 'Lorri Epstein',
-  CROWCRKS: '',
-  CROWNATN: '',
+  CROWCRKS:
+    'Crow Creek Sioux Tribe (SD) || Crow Creek Sioux Tribe (SD) (Tribal)',
+  CROWNATN:
+    'Crow Tribe of Indians (Montana) || Crow Tribe of Indians (Montana) (Tribal)',
   CRWA: 'Water Quality Monitoring Data',
   CRWC_WQX: 'Crooked River Watershed Council',
   CSAZ: 'City of Scottsdale, Arizona',
   CSC_WQX: '',
   CSH: 'New York',
-  CSKTPESTICIDE_WQX: 'Confederated Salish and Kootenai Tribes; ',
-  CSKTRIBE: '',
-  'CSR_EPA_CWA-106': 'Cold Springs Rancheria; ',
+  CSKTPESTICIDE_WQX:
+    'Confederated Salish and Kootenai Tribes of the Flathead Reservation (Tribal) || Confederated Salish and Kootenai Tribes of the Flathead Reservation (Tribal)',
+  CSKTRIBE:
+    'Confederated Salish and Kootenai Tribes || Confederated Salish and Kootenai Tribes (Tribal)',
+  'CSR_EPA_CWA-106':
+    'Cold Springs Rancheria of Mono Indians of California (Tribal) || Cold Springs Rancheria of Mono Indians of California (Tribal)',
   'CSU-CIVIL&ENVIRONMENTAL-ENG': '',
   CSU_AWQP: '',
-  CTA_WQX: 'Craig Tribal Association;',
+  CTA_WQX:
+    'Craig Tribal Association (Tribal) || Craig Tribal Association (Tribal)',
   CTCLUSI_WQX:
-    'Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians;',
-  CTEPO_WQX: 'Cahuilla Band of Indians - Cahuilla Tribal Environmental Office',
-  CTGR: 'The Confederated Tribes of Grand Ronde (Oregon);',
-  CTSI_WQX: 'Confederated Tribes of Siletz Indians; ',
-  CTUIR_WQX: 'Confederated Tribes of the Umatilla Indian Reservation;',
+    'Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal) || Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal)',
+  CTEPO_WQX:
+    'Cahuilla Band of Indians - Cahuilla Tribal Environmental Office (Tribal) || Cahuilla Band of Indians - Cahuilla Tribal Environmental Office (Tribal)',
+  CTGR: 'Confederated Tribes of the Grand Ronde Community of Oregon (Tribal) || Confederated Tribes of the Grand Ronde Community of Oregon (Tribal)',
+  CTSI_WQX:
+    'Confederated Tribes of Siletz Indians of Oregon (Tribal) || Confederated Tribes of Siletz Indians of Oregon (Tribal)',
+  CTUIR_WQX:
+    'Confederated Tribes of the Umatilla Indian Reservation (Tribal) || Confederated Tribes of the Umatilla Indian Reservation (Tribal)',
   CTVOLMON: 'CT DEEP Volunteer Water Monitoring Program',
   CT_DEP01_WQX:
     'This is the central agency for all water quality data in this system',
   CURRY_WP: 'Erin Minster - Current VolMon group',
   CUSP: 'CDSN - Coalition for the Upper South Platte',
   CVC: 'Conemaugh Valley Conservancy',
-  CWLT_WQX: 'Cahto Water Lab testing;',
+  CWLT_WQX:
+    'Cahto Tribe of the Laytonville Rancheria (Tribal) || Cahto Tribe of the Laytonville Rancheria (Tribal)',
   CWQL: '',
   CWSC_WQX: '',
   CWSD_WQX: 'Water Quality Monitoring Data and and SPCURE member',
   DAUPHINCD_WQX: 'Dauphin County Conservation District',
   DCD: 'Dickinson Conservation District',
-  'DCRBPI_ WQX': 'Dry Creek Rancheria Band of Pomo Indians;',
+  'DCRBPI_ WQX':
+    'Dry Creek Rancheria Band of Pomo Indians, California (Tribal) || Dry Creek Rancheria Band of Pomo Indians, California (Tribal)',
   DDEH_WQX: 'Water Quality Monitoring Data',
   DEER_CREEK: 'EPA Region 9; ',
   DELACIB: 'Delaware Center for the Inland Bays Water Monitoring Data',
-  DELAWARENATION: 'Delaware Nation; Delaware Nation',
+  DELAWARENATION:
+    'Delaware Nation, Oklahoma (Tribal) || Delaware Nation, Oklahoma (Tribal)',
   DEMOTEST: 'Test Organization; ',
   DEMOTEST_WQX: 'Department of Natural Resources',
   DENTONWATERSHED_WQX: '',
@@ -517,15 +567,17 @@ export default {
   DOEE: 'Water Quality Monitoring Data for all the Waters in the state',
   DRBA: 'Dan River Basin Association',
   DRBC: 'Interstate River Basin Commission',
-  DRMPWQX: 'Region 6 - ENIPC - Mescalero Apache Tribe',
+  DRMPWQX:
+    'Mescalero Apache Tribe DRMP || Mescalero Apache Tribe DRMP (Tribal)',
   DRMS: 'Colorado Division of Reclamation, Mining and Safety (DRMS), Inactive Mines Program (IMP)',
   DRN: 'Delaware Riverkeeper Network',
-  DUCKWATER: 'Duckwater Shoshone Tribe; ',
-  DVSJ: "Death Valley Scotty's JCT; Death Valley Scotty's Junction, California",
+  DUCKWATER:
+    'Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada (Tribal) || Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada (Tribal)',
+  DVSJ: 'Death Valley Timbi-sha Shoshone Tribe (Tribal) || Death Valley Timbi-sha Shoshone Tribe (Tribal)',
   DWH_SCRIBE1082:
     'Surface water and sediment sampling collected in response to the BP Gulf of Mexico Oil Spill',
   EAENGINEERING_WQX: '',
-  EBCI: '(Tribal)',
+  EBCI: 'Eastern Band of Cherokee Indians (Tribal) || Eastern Band of Cherokee Indians (Tribal)',
   EBR_WQX: 'City of Baton Rouge and Parish of East Baton Rouge',
   ECLS_WQX: 'Environmental and Chemical Laboratory Services ',
   'ECO-WNC': '',
@@ -534,14 +586,18 @@ export default {
   ECU_ECOL_ENGR: '',
   EFDELRBC_WQX: 'Effluent Data',
   ELISS: '',
-  ELKVALLEYCA_WQX: 'Elk Valley Rancheria, California;',
+  ELKVALLEYCA_WQX:
+    'Elk Valley Rancheria, California (Tribal) || Elk Valley Rancheria, California (Tribal)',
   ELP12345: '',
-  ELWHA1_WQX: 'Lower Elwha Klallam Tribe (Washington); ',
-  ELWHAWQ1_WQX: '',
+  ELWHA1_WQX:
+    'Lower Elwha Tribal Community (Tribal) || Lower Elwha Tribal Community (Tribal)',
+  ELWHAWQ1_WQX:
+    'Lower Elwha Klallam Tribe || Lower Elwha Tribal Community (Tribal)',
   EMAP_CS_WQX: 'Coastal',
   EMAP_GRE: '',
   EMSWCD: 'East Multnomah Soil and Water Conservation District',
-  ENVIROB1_WQX: 'Colville Confederated Tribes (Washington);',
+  ENVIROB1_WQX:
+    'Confederated Tribes of the Colville Reservation (Tribal) || Confederated Tribes of the Colville Reservation (Tribal)',
   ENVIROSCIENCEASSOC: '',
   EOR_WQX: '',
   'EPA-C_WQX': 'CBP (TEST/Staging Environment)',
@@ -575,36 +631,43 @@ export default {
   ERWC: '',
   ERWSD: 'Eagle River Water and Sanitation District',
   ESATR08_WQX: 'TechLaw/USEPA ESAT R08 Water Quality Data',
-  ESTOO: 'Eastern Shawnee Tribe of Oklahoma; ',
+  ESTOO:
+    'Eastern Shawnee Tribe of Oklahoma (Tribal) || Eastern Shawnee Tribe of Oklahoma (Tribal)',
   ESTO_WQX: '',
   ETEC: '',
   EXLSTREAM1: 'Appalachian Watershed & Stream Monitors (AWSM) program',
   FAEC: 'Water Quality Monitoring Data',
-  FBUSER_WQX: 'Gros Ventre and Assiniboine Tribe (Fort Belknap Indian Res); ',
-  FCPOTAWATOMI_WQX: '',
-  FIIR: ' (Tribal)',
-  FLASIOUX: '',
+  FBUSER_WQX:
+    'Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal) || Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal)',
+  FCPOTAWATOMI_WQX:
+    'Forest County Potawatomi Community || Forest County Potawatomi Community (Tribal)',
+  FIIR: 'Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California || Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California',
+  FLASIOUX:
+    'Flandreau Santee Sioux Tribe (SD) || Flandreau Santee Sioux Tribe (SD) (Tribal)',
   FLO_SEP: 'City of Florence-Siuslaw estuary Partnership',
   FLO_URBAN: 'City of Florence-Urban Waters Grant; monitoring data',
   FLPRMRWS_WQX: 'Water Quality Monitoring Data',
   FMMI: '',
-  FMYN_WQX: 'Fort McDowell Yavapai Nation;',
+  FMYN_WQX:
+    'Fort McDowell Yavapai Nation, Arizona (Tribal) || Fort McDowell Yavapai Nation, Arizona (Tribal)',
   FOB: 'Volunteer Monitoring Group',
   FOBWV: 'non-profit conservation organization West Virginia',
   FOCW: 'Restore, preserve, and promote the outstanding natural qualities of the Cheat River watershed.',
   FONDULAC_WQX: '',
   FORTLWWTP: 'Colorado',
-  FORTPECK: '',
+  FORTPECK:
+    'Assiniboine & Sioux Tribes Fort Peck Indian Reservation (MT) || Assiniboine & Sioux Tribes Fort Peck Indian Reservation (MT) (Tribal)',
   FOSCWQ_WQX: '',
   FOUNSD: 'Colorado',
-  FPST: 'Fallon Paiute-Shoshone Tribe;',
+  FPST: 'Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal) || Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal)',
   FRESHKILLSPARK: 'Freshkills Park',
   FRESHWATER_INSTITUTE: '',
   FRIENDS_BAY: '',
   FRWA: 'Farmington River Watershed Association',
   FSAWQP_WQX: '',
   FSCD: 'Freehold Soil Conservation District',
-  FTBLKNAP: '',
+  FTBLKNAP:
+    'Gros Ventre and Assiniboine Tribe (Fort Belknap Indian Res) || Gros Ventre and Assiniboine Tribe (Fort Belknap Indian Res) (Tribal)',
   'FWC-CREMP_WQX':
     'Florida Fish and Wildlife Conservation Commission, Fish and Wildlife Research Institute',
   'FWC/FWRI_WQX':
@@ -629,23 +692,29 @@ export default {
   GLENDALE_WQX: 'Water Quality Monitoring Data',
   GLEON: 'GLEON Lake Observer mobile app data',
   GLIFWC: 'Great Lakes Indian Fish and Wildlife Commission',
-  GNLK01_WQX: '',
-  GPC5_WQX:
-    'Grand Portage Band of Lake Superior Chippewa (Minnesota Chippewa Tribes)',
+  GNLK01_WQX:
+    'Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan (Gun Lake) || Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan (Gun Lake) (Tribal)',
+  GPC5_WQX: 'Grand Portage Reservation || Grand Portage Reservation',
   GPELC: '',
-  GPORTAGE_WQX: 'GRAND PORTAGE Band of CHIPPEWA INDIANS (MN); ',
+  GPORTAGE_WQX:
+    'Minnesota Chippewa Tribe, Minnesota (Six component reservations: Bois Forte Band (Nett Lake); Grand Portage Band;)Tribal || Minnesota Chippewa Tribe, Minnesota (Six component reservations: Bois Forte Band (Nett Lake); Grand Portage Band;)Tribal',
   GRANDENVIROSVS: '',
-  GRIC_WQX: 'Gila River Indian Community DEQ; Gila River Indian Community DEQ',
+  GRIC_WQX:
+    'Gila River Indian Community of the Gila River Indian Reservation, Arizona (Tribal) || Gila River Indian Community of the Gila River Indian Reservation, Arizona (Tribal)',
   GROUNDWORKDENVER: '',
   GSWA: 'Great Swamp Watershed Association',
-  GTBOCI_WQX: 'Grand Traverse Band; ',
-  GTBWATER_WQX: 'Grand Traverse Band of Ottawa & Chippewa Indians;',
-  GTC_WQX: 'Native Village of Georgetown Water Quality',
+  GTBOCI_WQX:
+    'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
+  GTBWATER_WQX:
+    'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
+  GTC_WQX:
+    'Native Village of Georgetown (Tribal) || Native Village of Georgetown (Tribal)',
   GUAM: '',
   GWCO: 'Groundwater Colorado',
   HALEYALDRICH: '',
   HANALEI_WQX: 'Water Quality Monitoring Data',
-  HANNAHWQ_WQX: 'HANNAHVILLE TRIBAL COMMUNITY;',
+  HANNAHWQ_WQX:
+    'Hannahville Indian Community, Michigan (Tribal) || Hannahville Indian Community, Michigan (Tribal)',
   HARBORWATCH_WQX: '',
   HAWRIVER03030002: 'Haw River Assembly',
   HAYWOOD_WQX: '',
@@ -655,21 +724,26 @@ export default {
   HEPD_WQX: '',
   HERRERA_ENVIRONMENTAL: '',
   HI301H_WQX: 'Water Quality Monitoring Datta',
-  HIA_WQX: 'Water Quality Data',
+  HIA_WQX:
+    'Hoonah Indian Association (Tribal) || Hoonah Indian Association (Tribal)',
   HIEPO_WQX: 'Water Quality Monitoring for TMDL Program',
   HIHAWEHWWTP: '',
   HOFSTRAUML: '',
-  HOHTRIBE_WQX: '',
+  HOHTRIBE_WQX: 'Hoh Tribe || Hoh Indian Tribe (Tribal)',
   HOOPERDOB_WQX: 'Hooper Lab, Dept. of Biology, Western Washington',
   HOOSIER: '',
-  HOPI_WQX: 'Hopi Tribe Water Resources Program (Arizona);',
-  HOPTERA_WQX: 'Hopland Band of Pomo Indians Tribal EPA;',
-  HO_CHUNK_WQX: '',
-  HPUL1EPA_WQX: 'Habematolel Pomo of Upper Lake Envir. Dept.; ',
+  HOPI_WQX: 'Hopi Tribe of Arizona (Tribal) || Hopi Tribe of Arizona (Tribal)',
+  HOPTERA_WQX:
+    'Hopland Band of Pomo Indians, California (Tribal) || Hopland Band of Pomo Indians, California (Tribal)',
+  HO_CHUNK_WQX:
+    'Ho-Chunk Nation of Wisconsin || Ho-Chunk Nation of Wisconsin (Tribal)',
+  HPUL1EPA_WQX:
+    'Habematolel Pomo of Upper Lake, California (Tribal) || Habematolel Pomo of Upper Lake, California (Tribal)',
   HRF: 'Volunteer Monitoring Group',
   HRWRP_RA: 'Water Quality Monitoring Data',
   HSGMN_WQX: 'Groundwater Data',
-  HUALAPAI: 'Hualapai; ',
+  HUALAPAI:
+    'Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona (Tribal) || Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona (Tribal)',
   HUIWAIOLA_WQX: 'The Nature Conservancy - Honolulu',
   HVA: 'Housatonic Valley Association - Housatonic River Watershed',
   HVTEPA_WQX: '',
@@ -685,7 +759,7 @@ export default {
   IDWR: '',
   IEC: '',
   'IEC-NYNJCT': '',
-  IHS: 'Indian Health Service',
+  IHS: 'Indian Health Service;  (Tribal) || Indian Health Service (Tribal)',
   IIDFG: '',
   ILRIVERWATCH: 'Illinois RiverWatch Network',
   IL_EPA_WQX: '',
@@ -698,7 +772,7 @@ export default {
   IOWAST_WQX:
     'Physical, chemical, and biological data from 45 wetlands in northern Iowa',
   IOWATER_WQX: '',
-  IOWATROK_WQX: 'Iowa Tribe of Oklahoma',
+  IOWATROK_WQX: 'Iowa Tribe of Oklahoma || Iowa Tribe of Oklahoma (Tribal)',
   IRONMT_WQX: 'Water Quality Monitoring Data',
   IRWA: 'Ipswich River Watershed Association',
   ISDA_WQX: 'Idaho State Department of Agriculture',
@@ -707,32 +781,37 @@ export default {
   JAMUL_WQX: ' (Tribal)',
   JCPH_WQX: '',
   JICARILLAAPACHE:
-    'Jicarilla Apache Nation; Region 6 Tribes of NM - ENIPCInc - Jicarilla Apache Nation',
+    'Jicarilla Apache Nation, New Mexico (Tribal) || Jicarilla Apache Nation, New Mexico (Tribal)',
   JMU_ISAT_WQX:
     'a James Madison University research team in association with the Virginia Department of Environmental Quality',
   JRSIMPLOT_FMC: 'J.R. Simplot and FMC Corporation for Gay Mine',
-  JSKTRIBE_WQX: '',
-  KARUKDNR_WQX: 'Karuk Tribe; Karuk Tribe Water Quality Program',
-  KASHIA: 'Kashia Band of Pomo Indians of the Stewarts Point Rancheria;',
+  JSKTRIBE_WQX:
+    "Jamestown Sklallam Tribe || Jamestown S'Klallam Tribe (Tribal)",
+  KARUKDNR_WQX: 'Karuk Tribe (Tribal) || Karuk Tribe (Tribal)',
+  KASHIA:
+    'Kashia Band of Pomo Indians of the Stewarts Point Rancheria, California (Tribal) || Kashia Band of Pomo Indians of the Stewarts Point Rancheria, California (Tribal)',
   KATRINA6_WQX: 'Water Quality Data',
   KATSPROJ_WQX: 'Water Quality Monitoring Data.',
-  KAWNATON_WQX: 'Kaw Nation;',
+  KAWNATON_WQX:
+    'Kaw Nation, Oklahoma (Tribal) || Kaw Nation, Oklahoma (Tribal)',
   KBICNRD_WQX: '',
   KBOPWQP: '',
   KBS: 'Kansas Biological Survey',
   KENAI_NWR: '',
   KENAI_WQX: 'Non profit organization',
   KERBERCREEK: 'Kerber Creek watershed for BLM Natural Resource; ',
-  KICKAPOO: '',
-  KICKAPOO07: 'Kickapoo Tribe in Kansas;',
+  KICKAPOO: 'Kickapoo Tribe of Oklahoma || Kickapoo Tribe of Oklahoma (Tribal)',
+  KICKAPOO07:
+    'Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas || Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas (Tribal)',
   KINGCOENVIROLAB: '',
   KINGCOUNTY: '',
-  KIOWA_WQX: 'Kiowa Tribe of Oklahoma; Kiowa Tribe of Oklahoma',
+  KIOWA_WQX:
+    'Kiowa Indian Tribe of Oklahoma (Tribal) || Kiowa Indian Tribe of Oklahoma (Tribal)',
   KITSAPCHD_WQX: '',
-  KLAMATHTRIBES_WQX:
-    'Klamath Tribes Natural Resources Department; Protection of the natural-resource related rights guaranteed to the tribes in the treaty of 1864 is largely the responsibility of the Natural Resources Department. This department aids the Klamath Tribes mission by protecting preserving and enhancing natural resources.',
+  KLAMATHTRIBES_WQX: 'Klamath Tribes (Tribal) || Klamath Tribes (Tribal)',
   KNA: 'Matthews',
-  KNRD_WQX: 'Kalispel Natural Resources Department Tribal (Washington);',
+  KNRD_WQX:
+    'Kalispel Indian Community of the Kalispel Reservation (Tribal) || Kalispel Indian Community of the Kalispel Reservation (Tribal)',
   KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
   KS_GEOWATER_CTR: '',
   KWMNDATA_WQX:
@@ -742,7 +821,8 @@ export default {
   'KY-EPRIVIA': 'www.eprivia.com  Louisville, KY',
   LACITY: '',
   LADEQWPD_WQX: 'Statewide Water Quality Monitoring Network',
-  LAJOLLA: 'La Jolla Band of Luiseno Indians; ',
+  LAJOLLA:
+    'La Jolla Band of Luiseno Indians, California (Tribal) || La Jolla Band of Luiseno Indians, California (Tribal)',
   LAKELAND_WQX:
     'Water Quality Monitoring Sampling and Data keeping for city lakes.',
   LANECOUNCILOFGOVERNMENTS: '',
@@ -750,15 +830,15 @@ export default {
     "This is a group that monitors the Lawrence Brook Watershed chain of water bodies in Middlesex County NJ and includes South Brunswick, North Brunswick, East Brunswick, Milltown, and part of New Brunswick in it's sampling area.",
   LCBP: '',
   LCO106_WQX: 'Water Quality Monitoring Data.',
-  LCOWIS_WQX:
-    'Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin',
+  LCOWIS_WQX: 'Lac Courte Oreilles || Lac Courte Oreilles (Tribal)',
   LCWCD_WQX:
     'Lincoln Soil and Water Conservation District *Contact - Audrey Sweet',
   LDEQ319: 'Louisiana Department of Environmental Quality',
-  LDFWATER2007: 'Water Quality Monitoring Data.',
+  LDFWATER2007:
+    'Lac Du Flambeau Band of Lake Superior Chippewa Indians Water Program (Tribal) || Lac Du Flambeau Band of Lake Superior Chippewa Indians Water Program (Tribal)',
   LEECHLAK_WQX: '',
   LEIGHROCKS: 'Contact Name: Leigh Lager',
-  LEVELOCK: 'Levelock Village Council;',
+  LEVELOCK: 'Levelock Village (Tribal) || Levelock Village (Tribal)',
   LEWWTP_WQX: 'Water Quality Monitoring Data',
   LFGC: 'Colorado',
   LFMSDD: 'Colorado',
@@ -769,12 +849,13 @@ export default {
   LOCUS_WQX: 'Locus Technologies',
   LONGTOM_WC: 'Former VolMon group',
   LOSCOYOTESBANDOFCAHUILLACUPENO:
-    'Los Coyotes Band of Cahuilla Cupeno Indians;',
+    'Los Coyotes Band of Cahuilla and Cupeno Indians, California (Tribal) || Los Coyotes Band of Cahuilla and Cupeno Indians, California (Tribal)',
   LOWERARKVALLEYWATERCONSDIST: '',
   LOWERRARITANWATERSHED: '',
   LPBFSAVEOURLAKE: 'Pontchartrain Conservancy',
   LPEPA106: '(Tribal)',
-  LPPSR_WQX: 'Lone Pine Paiute-Shoshone Reservation; ',
+  LPPSR_WQX:
+    'Lone Pine Paiute-Shoshone Reservation (Tribal) || Lone Pine Paiute-Shoshone Reservation (Tribal)',
   LQWA: 'Lake Quinsigamond Watershed Association',
   LRBOI_WQX: '',
   LSFOBLM: '',
@@ -783,12 +864,16 @@ export default {
   LSWCD_WQX: 'Audrey Sweet, Current VolMon group',
   LTBBWATR_WQX: '',
   LTENV_WQX: '',
-  LUMMINSN_WQX: 'LummiNation (Washington);',
-  LWRBRULE: '',
-  MAKAH_WQX: 'Makah Tribe;',
+  LUMMINSN_WQX:
+    'Lummi Tribe of the Lummi Reservation (Tribal) || Lummi Tribe of the Lummi Reservation (Tribal)',
+  LWRBRULE:
+    'Lower Brule Sioux Tribe (South Dakota) || Lower Brule Sioux Tribe (South Dakota) (Tribal)',
+  MAKAH_WQX:
+    'Makah Indian Tribe of the Makah Indian Reservation (Tribal) (BEACH) || Makah Indian Tribe of the Makah Indian Reservation (Tribal)',
   MALHEUR_WC: 'Current VolMon group',
-  MAMIN_WQX: 'USEPA; ',
-  MANZANITA: 'Manzanita Band of the Kumeyaay Nation; ',
+  MAMIN_WQX: 'USEPA (Tribal) || USEPA (Tribal)',
+  MANZANITA:
+    'Manzanita Band of Diegueno Mission Indians of the Manzanita Reservation, California (Tribal) || Manzanita Band of Diegueno Mission Indians of the Manzanita Reservation, California (Tribal)',
   'MARITIME-PLANNING-WQX': '',
   MARSHALL_WQX: 'Marshall University',
   MASSBAYS: '',
@@ -806,6 +891,7 @@ export default {
   MBCI_OEP: '',
   MBMG_WQX:
     'The MBMG_WQX organization is for data collected and stored by the Montana Bureau of Mines and Geology.',
+  MCA_WQX: 'Mill Creek Alliance:  https://www.themillcreekalliance.org',
   MCD1913FLOOD: '',
   MCHD: '',
   MCNCREEK_WQX: '',
@@ -850,45 +936,52 @@ export default {
   MEC: '',
   MEDEP_WQX: 'Maine Dept of Env Protection.',
   MEIYINWUSUNYPLATTSBURGH: '',
-  MENOM_WQX: '',
+  MENOM_WQX:
+    'MENOMINEE INDIAN TRIBE OF WISCONSIN (Wisconson) || MENOMINEE INDIAN TRIBE OF WISCONSIN (Wisconson) (Tribal)',
   MERI: 'Meadowlands Environmental Research Institute, Our mission is to provide the scientific community, policy makers, and the public with the knowledge and predictive understanding necessary to conserve, protect, and manage the District ecosystems and the services they provide.',
   MERRIMACK_RIVER_WATERSHED_WQX: '',
-  MESKWAKI_DNR: 'Meskwaki Department of Natural Resources;',
+  MESKWAKI_DNR:
+    'Meskwaki Department of Natural Resources (Tribal) || Meskwaki Department of Natural Resources (Tribal)',
   METC_WQX: 'Metropolitan Council (Minnesota)',
-  MHA_NATN: '',
-  MHA_WQX: 'Mandan, Hidsata, and Arikara tribal lands (MHA Nation); ',
+  MHA_NATN:
+    'Three Affiliated Tribes: Mandan, Hidatsa, and Arikara Nation || Three Affiliated Tribes: Mandan, Hidatsa, and Arikara Nation (Tribal)',
+  MHA_WQX:
+    'Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota (Tribal) || Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota (Tribal)',
   MIAMITRIBEOFOKLAHOMA: '',
   MIDCOWATERSHED:
     'The Middle Colorado Watershed Council (MCWC) is a 501c(3) nonprofit organization whose mission is to evaluate, protect and enhance the health of the Middle Colorado River Watershed through the cooperative effort of watershed stakeholders',
   MIDDLEDESCHUTES_WC: 'Volunteer Organization',
   MIDDLESPRINGWATERSHED: '',
-  MIDDLETOWNUPCW_WQX: 'Middletown Rancheria Environmental Center ;',
+  MIDDLETOWNUPCW_WQX:
+    'Middletown Rancheria of Pomo Indians of California (Tribal) || Middletown Rancheria of Pomo Indians of California (Tribal)',
   MIDEWIN:
     'United States National Grassland operated by the United States Forest Service',
   MIDNITE_2: '',
   MILLERCOORS: 'MillerCoors is a member of SPCURE',
   MITCR_WQX:
-    'Mechoopda Indian Tribe of Chico Rancheria; Mechoopda Indian Tribe of Chico Rancheria',
-  MIT_WQX: ' (Tribal)',
+    'Mechoopda Indian Tribe of Chico Rancheria, California (Tribal) || Mechoopda Indian Tribe of Chico Rancheria, California (Tribal)',
+  MIT_WQX:
+    'Muckleshoot Indian Tribe (Tribal) || Muckleshoot Indian Tribe (Tribal)',
   MKIESER: '',
   MLBO_DNR_WQX: '',
   MNDA_PESTICIDE: 'Statewide monitoring, non-facility',
   MNDNR_AGW: 'Statewide ambient groundwater monitoring, non-facility',
   MNISOSE07:
-    'Mni Sose Itnertribal Water Rights Coalition; Water Quality Monitoring Data',
+    'Mni Sose Intertribal Water Rights Coalition (Tribal) || Mni Sose Intertribal Water Rights Coalition (Tribal)',
   MNPCA: 'Statewide ambient surface water monitoring, non-facility',
   MNPCA1_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
   MNPCAB_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
   MNPCA_AGW: 'Statewide ambient groundwater monitoring, non-facility',
   MNPCA_BIO:
     'Statewide ambient surface water monitoring to support the biological monitoring program, non-facility',
-  MOAPA_WQX: 'the Moapa Band of Pautes;',
+  MOAPA_WQX:
+    'Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada (Tribal) || Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada (Tribal)',
   MONT_DEQ_WQX:
     'The MONT_DEQ_WQX organization is a static, historic dataset with the majority of data originating from the Storease database.',
   MONT_PPL_WQX:
     'The MONT_PPL_WQX organization is for data collected by PPL Montana.',
   MOOREINSTITUTEPLASTICPOLLUTION_WQX: '',
-  MOORETOWNEPO: 'Mooretown Rancheria water quality monitoring',
+  MOORETOWNEPO: 'Mooretown Rancheria (Tribal) || Mooretown Rancheria (Tribal)',
   MORONGO1_WQX: '',
   MOUNTOLIVETOWNSHIP: '',
   MPSLML: 'Marine Pollution Studies Lab at Moss Landing Marine Laboratories,',
@@ -908,7 +1001,8 @@ export default {
     'The MTVOLWQM_WQX organization is for data collected by volunteer organizations, groups, or individuals that are not operating under a DEQ approved QAPP/SAP.',
   MTWTRSHD_WQX:
     'The MTWTRSHD_WQX organization is for data collected externally from DEQ, but using grant monies such as 319 or 106 or managed under a DEQ approved QAPP/SAP.',
-  MUSCOGEE_CREEK: 'Muscogee Creek Nation; ',
+  MUSCOGEE_CREEK:
+    'The Muscogee (Creek) Nation (Tribal) || The Muscogee (Creek) Nation (Tribal)',
   MUSCONETCONGORG_WQX: '',
   MWA1: 'The Musconetcong Watershed Association (MWA) is a non-profit organization incorporated in 1992 to protect and enhance the Musconetcong River and its related resources. MWA members are part of a network of individuals, families and organizations that care about the Musconetcong River and its watershed.',
   MWRA_WQX: 'MWRA/ Environmental Quality Department',
@@ -917,7 +1011,7 @@ export default {
   MWRD_WQX: 'Water Quality Monitoring Data and SPCURE member',
   MYRWA: 'Water Quality Monitoring Data',
   NALMS: 'Volunteer',
-  NAMBEPBLO_WQX: 'Pueblo of Nambe, NM',
+  NAMBEPBLO_WQX: 'Nambe Pueblo (Tribal) || Nambe Pueblo (Tribal)',
   NANTICOKEWTRALL_WQX: '',
   NARSTEST: '',
   NARS_WQX: '',
@@ -930,13 +1024,13 @@ export default {
   NEIWPCC: '',
   NEKCKGREENTEAMGROUNDWORKNRG: '',
   NEWRIVERCONSERVANCY: 'New River Conservancy',
-  NEZPERCETRIBE_WQX:
-    'Nez Perce Tribe; Water Resources Department WQX Data Exchange',
+  NEZPERCETRIBE_WQX: 'Nez Perce Tribe (Tribal) || Nez Perce Tribe (Tribal)',
   NFRIA: 'Water Quality Monitoring Data',
   NGRREC_GREON:
     'Continuous water quality monitoring along the rivers and reservoirs in Illinois and the Mississippi River',
   NIAMLARB1_WQX: '',
-  NISQUALLY: 'Nisqually Water Quality; ',
+  NISQUALLY:
+    'Nisqually Indian Tribe (Tribal) || Nisqually Indian Tribe (Tribal)',
   NIT_WQX: 'Narragansett  Indian Tribe',
   NJCSO: 'NJCSO Group',
   NJDEPNJWAP: 'NJDEP, NJ Watershed Ambassador Prog',
@@ -973,30 +1067,38 @@ export default {
     'Water Quality Monitoring Data:Consortia working with local groups including the Licking Watershed Watch.',
   NMW_WQX: '',
   NNB: 'Volunteer Monitoring Group',
-  NNEPA: 'Navajo Nation; ',
+  NNEPA:
+    'Navajo Nation, Arizona, New Mexico & Utah (Tribal) || Navajo Nation, Arizona, New Mexico & Utah (Tribal)',
   NOAA_CORALREEFS_WQX: '',
-  NOMEESKIMO_WQX: 'Nome Eskimo Community; Nome Eskimo Community',
-  NOOKSACK_WQX: '',
+  NOMEESKIMO_WQX:
+    'Nome Eskimo Community (Tribal) || Nome Eskimo Community (Tribal)',
+  NOOKSACK_WQX: 'Nooksack Indian Tribe || Nooksack Indian Tribe (Tribal)',
   NORMANDEAUASSOC: 'Normandeau Associates Inc.',
-  NOTTAWHURON_WQX: ' (Tribal)',
-  NRTHCHEY: 'Environmental Protection Department',
+  NOTTAWHURON_WQX:
+    'Nottawaseppi Huron Band of the Potawatomi (Tribal) || Nottawaseppi Huron Band of the Potawatomi (Tribal)',
+  NRTHCHEY:
+    'Northern Cheyenne Tribe (Montana) || Northern Cheyenne Tribe (Montana) (Tribal)',
   NRWA_WQX: 'Water Quality Monitoring Data',
   NRWC: '',
   NSEA: 'The Nooksack Salmon Enhancement Association is a community based nonprofit dedicated to restoring wild salmon populations in Whatcom County.',
   NSQS: 'blah',
   NSRWA: 'North and South Rivers Watershed Association',
   NTEMPLE_WQX: 'Water Quality Data',
-  NTHRNUTE: '',
-  NVC_WQX: 'Native Village of Council; Native Village of Council',
-  NVEPA_WQP: 'Navajo EPA Water Quality Program ; ',
-  NWIFC_WQX: 'Northwest Indian Fisheries Commission; ',
+  NTHRNUTE: 'Northern Ute Indian Tribe (UT) || Northern Ute Indian Tribe (UT)',
+  NVC_WQX:
+    'Native Village of Council (Tribal) || Native Village of Council (Tribal)',
+  NVEPA_WQP:
+    'Navajo Nation, Arizona, New Mexico & Utah (Tribal) || Navajo Nation, Arizona, New Mexico & Utah (Tribal)',
+  NWIFC_WQX:
+    'Northwest Indian Fisheries Commission (Tribal) || Northwest Indian Fisheries Commission (Tribal)',
   NWRSFWS_WQX: '',
   OARS: 'OARS - For the Assabet Sudbury & Concord Rivers',
   OCC: 'The OCC organization is for data associated with the Otter Creek watershed, specifically with the Otter Creek Coal area.',
   OCDWEP_WQX: 'Onondaga County Department of Water Environment Protection',
   OESERLSCA_WQX:
     'Region 10: Oeser Property, Little Squalicum Creek Area, Bellingham, WA',
-  OGLALAST: '',
+  OGLALAST:
+    'Oglala Sioux Tribe (South Dakota) || Oglala Sioux Tribe (South Dakota) (Tribal)',
   OHDDAGW:
     'Ambient water quality program in OH Division of Drinking and Ground Waters',
   'OH_KY_IN-WSC': 'Continuous Water Quality Data',
@@ -1013,87 +1115,111 @@ export default {
   OKWRB_WQX: 'Water Quality',
   OLMS: "Non-profit dedicated to the protection of Ohio's lakes and their watershed",
   ONEIDA_WQX: 'Oneida Nation',
-  OOPBLO: 'Pueblo of Ohkay Owingeh, New Mexico',
+  OOPBLO: 'Ohkay Owingeh Pueblo || Ohkay Owingeh Pueblo (Tribal)',
   ORDNRMRLSTD_GI:
     'USEPA Office of Research and Development, National Risk Management Research Laboratory',
   OREGONDEQ: '',
   OREGONODA_WQX: '',
-  OSAGENTN: 'Osage Nation Environmental and Natural Resources Dept; ',
-  OSAGENTN_WQX: 'Osage Nation; Osage Nation',
+  OSAGENTN: 'The Osage Nation (Tribal) || The Osage Nation (Tribal)',
+  OSAGENTN_WQX: 'The Osage Nation (Tribal) || The Osage Nation (Tribal)',
   OST_SHPD: '',
   OST_SHPD_TEST: '',
   'OSU-OOIEA': "Ocean Observatories Initiative's Endurance Array",
   OTIE: '',
   OTTAWATRIBEOFOK: '',
   OVIWC: '',
-  O_MTRIBE_WQX: '',
+  O_MTRIBE_WQX:
+    'Otoe Missouria Tribe of Oklahoma || Otoe Missouria Tribe of Oklahoma (Tribal)',
   P4_PRODUCTION_IDAHO: 'P4 Production LLC, Soda Springs Plant, Idaho',
   PADDLEFISH: '',
   PADEP319_WQX: 'Department of Environmental Protection 319 Program',
   PADEPLAKE_WQX: '',
-  PALABAND: 'Pala Band of Mission Indians; Pala Band of Mission Indians',
+  PALABAND:
+    'Pala Band of Mission Indians (Tribal) || Pala Band of Mission Indians (Tribal)',
   PALERMOWELLFIELD_CH2M: 'Palermo Wellfield Superfund Site water quality data',
   PALERMOWELLFIELD_WQX: '',
-  PASSAMAQUODDYSIPAYIKENV: 'Passamaquoddy Tribe at Pleasant Point; ',
+  PASSAMAQUODDYSIPAYIKENV:
+    'Passamaquoddy Tribe (Tribal) || Passamaquoddy Tribe (Tribal)',
   PATCMON_WQX: 'Potomac Appalachian Trail Club Volunteer Monitoring - VA,MD; ',
-  PAUMATRIBE: 'Pauma Band of Mission Indians;',
-  PBDNR: 'Pokagon Band of Potawatomi Indians Department of Natural Resources;',
+  PAUMATRIBE:
+    'Pauma Band of Luiseno Mission Indians of the Pauma &amp; Yuima Reservation, California (Tribal) || Pauma Band of Luiseno Mission Indians of the Pauma &amp; Yuima Reservation, California (Tribal)',
+  PBDNR:
+    'Pokagon Band of Potawatomi Indians, Michigan and Indiana || Pokagon Band of Potawatomi Indians, Michigan and Indiana (Tribal)',
   PBWC_WQX: 'Powder Basin Watershed Council *Contact - Christopher Morris',
   PCCB_WQX: 'Polk County Conservation Board (Polk County, Iowa)',
   PCSWD: '',
   PCWA: 'Pompeston Creek Watershed Association',
   PDHP7L: 'Park District of Highland Park',
-  PECHANGA_WQX: 'Pechanga Band of Luiseno Indians',
-  PENOBSCOTINDIANNATIONDNR: ' (Tribal)',
-  PGSTNATR_WQX: ' (Tribal)',
+  PECHANGA_WQX:
+    'Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California (Tribal) || Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California (Tribal)',
+  PENOBSCOTINDIANNATIONDNR:
+    'Penobscot Indian Nation Department of Natural Resources (Tribal) || Penobscot Nation (Tribal)',
+  PGSTNATR_WQX:
+    "Port Gamble S'Klallam Tribe (Tribal) || Port Gamble S'Klallam Tribe (Tribal)",
   PHINIZYCENTERFORWATERSCIENCES: '',
-  PICAYUNERANCHERIACWA106: 'Rancheria of the Chukchansi Indians; ',
+  PICAYUNERANCHERIACWA106:
+    'Picayune Rancheria of Chukchansi Indians of California (Tribal) || Picayune Rancheria of Chukchansi Indians of California (Tribal)',
   PICEANCE_LDR: 'Piceance Basin Colorado',
-  PICURIS_PUEBLO: 'Picuris Pueblo',
-  PIIC_WQX: '',
+  PICURIS_PUEBLO: 'Picuris Pueblo (Tribal) || Picuris Pueblo (Tribal)',
+  PIIC_WQX:
+    'Prairie Island Indian Community || Prairie Island Indian Community (Tribal)',
   PIMA_AZ: '',
-  PINOLEVILLEPOMONATION_WQX: 'Pinoleville Pomo Nation;',
+  PINOLEVILLEPOMONATION_WQX:
+    'Pinoleville Pomo Nation, California (Tribal) || Pinoleville Pomo Nation, California (Tribal)',
   PLYMOUTHDMEA: 'Plymouth Department of Marine and Environmental Affairs',
-  PNDECS_WQX: 'Pawnee Nation Dept of Environmental Conservation and Safety;',
-  POARCHCRK_WQX: 'Poarch Band of Creek Indians;',
-  POLSWATER_WQX: 'Pueblo of Laguna',
+  PNDECS_WQX:
+    'Pawnee Nation of Oklahoma (Tribal) || Pawnee Nation of Oklahoma (Tribal)',
+  POARCHCRK_WQX:
+    'Poarch Band of Creeks (Tribal) || Poarch Band of Creek Indians (Tribal)',
+  POLSWATER_WQX: 'Pueblo of Laguna || Pueblo of Laguna (Tribal)',
   POMO989_WQX: ' (Tribal)',
-  PORTGRAHAM: 'Water Quality Monitoring',
+  PORTGRAHAM:
+    'Port Graham Village Council (Tribal) || Port Graham Village Council (Tribal)',
   PORTLANDHARBORRISS: 'City of Portland',
-  PPNPROGRAM: 'Pinoleville Pomo Nation;',
-  PRAIRIEBAND: 'Prairie Band Potawatomi Nation;',
-  PRCI_WQX: 'Picayune Rancheria of the Chukchansi Indians; ',
+  PPNPROGRAM:
+    'Pinoleville Pomo Nation, California (Tribal) || Pinoleville Pomo Nation, California (Tribal)',
+  PRAIRIEBAND:
+    'Prairie Band Potawatomi Nation (Tribal) || Prairie Band Potawatomi Nation (Tribal)',
+  PRCI_WQX:
+    'Picayune Rancheria of the Chukchansi Indians (Tribal) || Picayune Rancheria of the Chukchansi Indians (Tribal)',
   PRCWA:
     'Non-profit organization dedicated to promoting the restoration and protection of the waters and environment of the Parker River and Plum Island Sound Watersheds',
   PREEM: '',
   PREP: 'Piscataqua Region Estuaries Partnership',
   PREQB_GW_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
   PRINCETONHYDRO: 'Environmental consulting company based in Trenton, NJ',
-  PRTWQX: 'Pit River Tribe; ',
+  PRTWQX:
+    'Pit River Tribe, California: XL Ranch, Big Bend, Likely, Lookout, Montgomery Creek and Roaring Creek Rancherias (Tribal) || Pit River Tribe, California: XL Ranch, Big Bend, Likely, Lookout, Montgomery Creek and Roaring Creek Rancherias (Tribal)',
   PR_BEACH_WQX:
     'The purpose of the Puerto Rico Environmental Quality Board is the Environmental Protection of pollution problem in Puerto Rico',
   PR_COAST_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
   PR_LAKES_WQX: '',
   PR_RIVER_WQX: 'Water Quality Monitoring Data',
   PSUCLR: '',
-  PTI_ITS_WQX: 'Passamaquoddy Tribe of Indians, Indian Township Reservation;',
+  PTI_ITS_WQX: 'Passamaquoddy Tribe (Tribal) || Passamaquoddy Tribe (Tribal)',
   PTMSC: 'Non-profit marine science education',
-  PUEBLOISLETA: 'Pueblo of Isleta;',
-  PUEBLOJEMEZ: 'Pueblo of Jemez',
-  PUEBLOOFTESUQUE: 'Region 6 NM - Pueblo of Tesuque',
+  PUEBLOISLETA:
+    'Pueblo of Isleta, New Mexico || Pueblo of Isleta, New Mexico (Tribal)',
+  PUEBLOJEMEZ: 'Pueblo of Jemez (Tribal) || Pueblo of Jemez (Tribal)',
+  PUEBLOOFTESUQUE: 'Pueblo Of Tesuque || Pueblo Of Tesuque (Tribal)',
   PUEBLOWMD: 'Colorado',
-  PUEBLO_POJOAQUE: 'Pueblo of Pojoaque Environment Department',
+  PUEBLO_POJOAQUE: 'Pueblo of Pojoaque || Pueblo of Pojoaque (Tribal)',
   PUEBLO_SANTAANA: '',
   PUJ: '',
   PUR_WQX: 'Joe Carnes, Current VolMon group',
-  PUYALLUP_WQX: '(Tribal)',
-  PYRAMIDLAKE: 'Pyramid Lake Paiute Tribe;',
-  QIN_WQX: ' (Tribal)',
+  PUYALLUP_WQX:
+    'Puyallup Tribe of Indians (Tribal) || Puyallup Tribe of the Puyallup Reservation (Tribal)',
+  PYRAMIDLAKE:
+    'Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada (Tribal) || Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada (Tribal)',
+  QIN_WQX: 'Quinault Indian Nation (Tribal) || Quinault Indian Nation (Tribal)',
   QTEO_WQX: '(Tribal)',
-  QUAPAWTR_WQX: 'Quapaw Tribe of Oklahoma; ',
-  QUECHAN_WQX: 'Quechan Indian Tribe;',
-  QUILEUTE_WQX: '',
-  QVIR: 'Quartz Valley Indian Reservation;',
+  QUAPAWTR_WQX:
+    'The Quapaw Tribe of Indians (Tribal) || The Quapaw Tribe of Indians (Tribal)',
+  QUECHAN_WQX:
+    'Quechan Tribe of the Fort Yuma Indian Reservation, California &amp; Arizona (Tribal) || Quechan Tribe of the Fort Yuma Indian Reservation, California &amp; Arizona (Tribal)',
+  QUILEUTE_WQX:
+    'Quileute Natural Resources (Washington) || Quileute Tribe of the Quileute Reservation (Tribal)',
+  QVIR: 'Quartz Valley Indian Community of the Quartz Valley Reservation of California (Tribal) || Quartz Valley Indian Community of the Quartz Valley Reservation of California (Tribal)',
   R0910: '',
   R10BLACKBUTTEMINE:
     'The Black Butte Mine is a former mercury mine located in southern Lane County in the Coast Fork Willamette River Basin.',
@@ -1106,7 +1232,7 @@ export default {
   R10ELKHEADMINE: 'Elkhead Mine Soil Sampling, Douglas County OREGON',
   R10ERU10EK: '',
   R10MIDNITE:
-    'Midnite Mine is an inactive open-pit uranium mine on the Spokane Indian reservation in eastern Washington; potential threats include elevated levels of radioactivity and heavy metals and radionuclides mobilized in acid mine drainage.',
+    'EPA Region 10 Superfund Midnite Mine Site || Spokane Tribe of the Spokane Reservation (Tribal)',
   R10NPDES: 'Monitoring data collected by or for NPDES-permitted facilities.',
   R10NWPIPEANDCASING:
     'Northwest Pipe and Casing Company-Hall Process Company Superfund Site, Milwaukie, OR; RI and Post-RI data set assembled by Weston and delivered to EPA in Access97 format, date range 7/1/88 - 4/6/99.',
@@ -1127,7 +1253,8 @@ export default {
   R8MONTWQ:
     'The R8MONTWQ organization is for data collected under EPA Region 8 projects.  The EPA Montana office is the "owner" of this organziation.',
   R9VOL_WQX: 'Water Quality Monitoring Data',
-  RAMONA: 'Ramona Band of Cahuilla; ',
+  RAMONA:
+    'Ramona Band of Cahuilla, California (Tribal) || Ramona Band of Cahuilla, California (Tribal)',
   RCA: '',
   'RCE WRP':
     'The Rutgers Cooperative Extension (RCE) is an integral part of the School of Environmental and Biological Sciences, the New Jersey Agriculture Experiment Station (NJAES), and Rutgers, The State University of New Jersey.  RCE focuses on issues and needs relating to agriculture and the environment; management of natural resources; food safety, quality, and health; family stability; economic security; and youth development.',
@@ -1135,8 +1262,9 @@ export default {
     'Ramsey County Environmental Services, Lake Management Surface Water Quality',
   'REDCLAYSTATEPARK-TN': '',
   REDCLIFF_WQX: '',
-  REDDINGRANCHERIA_WQX: 'Redding Rancheria Tribe; ',
-  REDLAKE_WQX: '',
+  REDDINGRANCHERIA_WQX:
+    'Redding Rancheria, California (Tribal) || Redding Rancheria, California (Tribal)',
+  REDLAKE_WQX: 'Red Lake DNR || Red Lake DNR (Tribal)',
   REVIVETHESANJOAQUIN_WQX: '',
   RFC: 'Founded in November 1996, Roaring Fork Conservancy is the watershed conservation organization in the Roaring Fork Valley that brings people together to protect our rivers. As an independent, not-for-profit 501(c)3 organization our mission is to inspire people to explore, value, and protect the Roaring Fork Watershed. From Aspen to Glenwood Springs, Meredith to Marble, Roaring Fork Conservancy is focused on: water quantity and water quality.',
   RGHRP: '',
@@ -1147,40 +1275,54 @@ export default {
     'Riverkeeper is a member-supported watchdog organization dedicated to defending the Hudson River and its tributaries and protecting the drinking water supply of nine million New York City and Hudson Valley residents.',
   RM11E_SUPRIFS:
     'This data was collected as part of the Supplemental Remedial Investigation/Feasibility Study (RI/FS) conducted along the east side of the Willamette River between approximately River Mile (RM) 10.9 and RM 11.6 (referred to as RM11E) in Portland, Oregon. The results were uploaded by GSI Water Solutions, Inc. on behalf of the RM11E Group,  including Cargill, Inc., CBS Corporation, the City of Portland, DIL Trust, Glacier Northwest, Inc., and PacifiCorp.',
-  ROBINSONRANCHERIAENVIRONMENTAL: 'Robinson Rancheria Environmental Center; ',
+  ROBINSONRANCHERIAENVIRONMENTAL:
+    'Robinson Rancheria (Tribal) || Robinson Rancheria (Tribal)',
   ROSEBUDSIOUXTRIBE: 'Rosebud Sioux Tribe',
-  ROUNDVALLEY: 'Round Valley Indian Tribes; Round Valley Indian Tribes',
-  RREPA_WQX: 'Resighini Rancheria Environmental Protection (California);',
+  ROUNDVALLEY:
+    'Round Valley Indian Tribes, Round Valley Reservation, California (Tribal) || Round Valley Indian Tribes, Round Valley Reservation, California (Tribal)',
+  RREPA_WQX:
+    'Resighini Rancheria, California (Tribal) || Resighini Rancheria, California (Tribal)',
   RRK_WQX: 'Rogue Riverkeeper',
   RRWC_WQX:
     'Sarah Sauter, Current VolMon group, Includes Little Butte/Upper Rogue and Middle Rogue Watershed Council data from LASAR',
   RTI: 'http://www.rti.org/',
   RU_MUSC: 'Water Quality Monitoring Project for Musconetcong River',
   RVCG: 'Greg Stabach, Current VolMon group',
-  RVRPOMO: ' (Tribal)',
-  SACFOXMO: 'Sac and Fox Nation of Missouri in Kansas and Nebraska;',
+  RVRPOMO:
+    'Redwood Valley Rancheria (Tribal) || Redwood Valley Rancheria (Tribal)',
+  SACFOXMO:
+    'Sac & Fox Nation of Missouri in Kansas and Nebraska (Tribal) || Sac & Fox Nation of Missouri in Kansas and Nebraska (Tribal)',
   SACWSD_WQX: 'Water Quality Monitoring Data',
   SAGIN01_WQX:
-    'Saginaw Chippewa Planning Department (MI); Water Qulaity Monitoring Data.',
+    'Saginaw Chippewa Indian Tribe of Michigan (Tribal) || Saginaw Chippewa Indian Tribe of Michigan (Tribal)',
   SAINTVSD: 'Colorado',
   SALTCHUCK_WQX: '',
-  SAMISHINDIAN_WQX: '',
+  SAMISHINDIAN_WQX: 'Samish Indian Nation || Samish Indian Nation (Tribal)',
   'SAN PASQUAL':
-    'San Pasqual Band of Diegueno Indians (i.e. San Pasqual Tribe); ',
+    'San Pasqual Band of Diegueno Mission Indians of California (Tribal) || San Pasqual Band of Diegueno Mission Indians of California (Tribal)',
   SANBERNARDINONATIONALFOREST: '',
-  SANCARLOSAPACHETRIBE: 'San Carlos Apache Tribe - EPA; ',
+  SANCARLOSAPACHETRIBE:
+    'San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal) || San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal)',
   SANDIAWQ_WQX: 'Pueblo of Sandia Water Quality Program (New Mexico)',
-  SANFELIPE_WQX: 'San Felipe Pueblo, NM',
-  SANILDEFONSODECP: '(Tribal)',
-  SANMANUEL: 'San Manuel Band of Mission Indians; ',
+  SANFELIPE_WQX: 'San Felipe Pueblo || San Felipe Pueblo (Tribal)',
+  SANILDEFONSODECP:
+    'San Ildefonso Pueblo, NM (Tribal) || San Ildefonso Pueblo, NM (Tribal)',
+  SANMANUEL:
+    'San Manuel Band of Mission Indians, California (Tribal) || San Manuel Band of Mission Indians, California (Tribal)',
   SANMATEORCD: 'San Mateo Resource Conservation District',
-  SANPASQUAL_WQX: 'San Pasqual Band of Mission Indians; ',
-  SANTACLARAPBLO: 'Pueblo of Santa Clara',
-  SANTAROSA: '',
-  SANTEEWATER: 'Santee Sioux Nation of Nebraska;',
-  SAUKSUIATTLE: '',
-  SAULTSTEMARIE: ' (Tribal)',
-  SBITENV_WQX: 'Shoaltwater Bay Tribe (Washington);',
+  SANPASQUAL_WQX:
+    'San Pasqual Band of Diegueno Mission Indians of California (Tribal) || San Pasqual Band of Diegueno Mission Indians of California (Tribal)',
+  SANTACLARAPBLO: 'Pueblo of Santa Clara || Pueblo of Santa Clara (Tribal)',
+  SANTAROSA:
+    'Santa Rosa Indian Community of the Santa Rosa Rancheria, California || Santa Rosa Indian Community of the Santa Rosa Rancheria, California (Tribal)',
+  SANTEEWATER:
+    'Santee Sioux Nation of Nebraska (Tribal) || Santee Sioux Nation of Nebraska (Tribal)',
+  SAUKSUIATTLE:
+    'Sauk-Suiattle Indian Tribe || Sauk-Suiattle Indian Tribe (Tribal)',
+  SAULTSTEMARIE:
+    'Sault Ste. Marie Tribe of Chippewa Indians (Tribal) || Sault Ste. Marie Tribe of Chippewa Indians (Tribal)',
+  SBITENV_WQX:
+    'Shoaltwater Bay Tribe (Washington) (Tribal) || Shoalwater Bay Indian Tribe of the Shoalwater Bay Indian Reservation (Tribal)',
   SBMWA: 'Stony Brook-Millstone Watershed Association',
   SBS: '',
   SBWA: 'South Branch Watershed Assoc',
@@ -1201,18 +1343,24 @@ export default {
     'The Silverthorne/Dillon Joint Sewer Authority is a municipal wastewater treatment facility serving the Towns of Silverthorne and Dillon as well as the areas of Dillon Valley, Buffalo Mountain and Mesa Cortina.',
   SEATTLERIVER_WQX:
     'river sediment chemistry results collected for the City of Seattle.',
-  SELDOVIA: 'Seldovia Village Tribe (SVT); ',
+  SELDOVIA:
+    'Seldovia Village Tribe (Tribal) || Seldovia Village Tribe (Tribal)',
   SENECA_WQX: '',
   SFBED_WQX: 'South Fork Band Environmental Department',
   SFNOES_WQX: ' (Tribal)',
   SHELLYAB_WQX: 'Water Quality Monitoring Data.',
-  SHOPAITR_WQX: 'Shoshone-Paiute  Tribes (Nevada); ',
-  SHOSHONE_BANNOCK: 'Shoshone Bannock Tribes',
-  SHOSHONE_BANNOCK_WQX: 'Shoshone-Bannock Tribes; ',
-  SIR_WQX: 'Susanville Indian Rancheria (SIR);',
-  SITC_SF: 'Swinomish Tribal Shellfish data',
+  SHOPAITR_WQX:
+    'Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada (Tribal) || Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada (Tribal)',
+  SHOSHONE_BANNOCK:
+    'TRIBE || LEGACY Shoshone-Bannock Tribes of the Fort Hall Reservation (Tribal)',
+  SHOSHONE_BANNOCK_WQX:
+    'Shoshone-Bannock Tribes of the Fort Hall Reservation (Tribal) || Shoshone-Bannock Tribes of the Fort Hall Reservation (Tribal)',
+  SIR_WQX:
+    'Susanville Indian Rancheria, California (Tribal) || Susanville Indian Rancheria, California (Tribal)',
+  SITC_SF:
+    'Swinomish Indian Tribal Community Shellfish (Tribal) || Swinomish Indian Tribal Community (Tribal)',
   SIUSLAW: 'Kyle Terry, Current VolMon group',
-  SIUSLAW_WQX: 'Ecotrust; ',
+  SIUSLAW_WQX: 'Ecotrust (Tribal) || Ecotrust (Tribal)',
   SJBEP:
     'San Juan Bay Estuary Program: a 501c3 nonprofit corporation for the National Estuary Program.',
   SJICD_WA:
@@ -1220,39 +1368,51 @@ export default {
   SJLWT: '',
   SKAGITCOUNTY_WQX: 'Surface Water Quality Monitoring Program',
   SKAGITWG_WQX:
-    'Skagit River Watershed Grant (TNC, SRSC, WWAA)  - Washington; Water Quality Monitoring Data for the Sauk-Suiattle Indian Tribe and the Swinomish Indian Tribal Community',
+    'Skagit River Watershed Grant (TNC, SRSC, WWAA)  - Washington (Tribal) || Skagit River Watershed Grant (TNC, SRSC, WWAA)  - Washington (Tribal)',
   SKOKDATA_WQX: '',
   SKYHORSETECH:
     'Surface vehicle collecting water sampling data on the Raritan River in NJ. Partnering with the Lower Raritan Watershed.',
   SLCOWS: 'Salt Lake County Watershed',
   SLPWA: 'Water quality monitoring for Seneca Lake, New York',
   SLU_WQX: 'EPA Urban Waters Grant - St. Louis University',
-  SMENVIRONMENTAL_WQX: 'San Manuel Band of Mission Indians; ',
+  SMENVIRONMENTAL_WQX:
+    'San Manuel Band of Mission Indians, California (Tribal) || San Manuel Band of Mission Indians, California (Tribal)',
   SMIE: 'Water Quality Monitoring Data',
-  SMSCGOV_WQX: 'Shakopee Mdewakanton (MN)',
+  SMSCGOV_WQX:
+    'Shakopee Mdewakanton Sioux Community of Minnesota || Shakopee Mdewakanton Sioux Community of Minnesota (Tribal)',
   SMWC: 'The San Miguel Watershed Coalition is a 501(c)(3) non-profit organization, governed by a 10 person board. The San Miguel Watershed Coalition was formed around 1998, to enable a collaborative forum for all residents, businesses, landowners, land managers and non-profit organizations to discuss and influence the future of the watershed.',
-  SNEPO_WQX: 'Seminole Nation; Seminole Nation',
-  SNOQUALM_WQX: '',
+  SNEPO_WQX:
+    'The Seminole Nation of Oklahoma (Tribal) || The Seminole Nation of Oklahoma (Tribal)',
+  SNOQUALM_WQX: 'Snoqualmie Tribe || Snoqualmie Indian Tribe (Tribal)',
   SNSA_WQX: 'Water Quality Monitoring Data',
-  SOBOBA_WQX: 'Soboba Band of Luiseno Indians;',
-  SOKAOGON_WQX: '',
+  SOBOBA_WQX:
+    'Soboba Band of Luiseno Indians, California (Tribal) || Soboba Band of Luiseno Indians, California (Tribal)',
+  SOKAOGON_WQX:
+    'Sokaogon Chippewa Community || Sokaogon Chippewa Community (Tribal)',
   SOUTHSANTIAM_WC: 'Eric Anderson, Current VolMon group',
-  SOUTHUTE: '',
+  SOUTHUTE: 'Southern Ute Tribe || Southern Ute Tribe (Tribal)',
   SOU_WQX: 'Southern Oregon University',
   SPC: 'Volunteer Monitoring Group',
   SPIRITLK: '',
-  SQUAXIN: '',
+  SQUAXIN:
+    'Squaxin Island Tribe || Squaxin Island Tribe of the Squaxin Island Reservation (Tribal)',
   SRA: 'staging',
-  SRBCI: 'Santa Rosa Band of Cahuilla Indians water quality',
+  SRBCI:
+    'Santa Rosa Band of Cahuilla Indians (Tribal) || Santa Rosa Band of Cahuilla Indians (Tribal)',
   SRCD: 'Biomonitoring Program that monitors chemical, physical and biological aspects of local creeks',
   SRCFLENV_WQX: '',
-  SRMTAKNY_WQX: 'St. Regis Mohawk Tribe (New York); ',
-  SRMTWRP_WQX: 'St. Regis Mohawk Tribe Environment Div Water Resource Progrm;',
-  SRPMIC: '',
-  SRPMIC_WQX: 'Salt River Pima-Maricopa Indian Community;',
+  SRMTAKNY_WQX:
+    'Saint Regis Mohawk Tribe (Tribal) || Saint Regis Mohawk Tribe (Tribal)',
+  SRMTWRP_WQX:
+    'Saint Regis Mohawk Tribe (Tribal) || Saint Regis Mohawk Tribe (Tribal)',
+  SRPMIC:
+    'Salt River Pima-Maricopa Indian Community (SRPMIC) || Salt River Pima-Maricopa Indian Community (SRPMIC)',
+  SRPMIC_WQX:
+    'Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona (Tribal) || Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona (Tribal)',
   SRRTFF: 'Reporting of toxic compounds in the Spokane River',
-  SRR_WQX: 'Smith River Rancheria (California);',
-  SRSTEPA: '',
+  SRR_WQX:
+    'Tolowa Dee-ni Nation (Smith River Rancheria), California (Tribal) || Tolowa Dee-ni Nation (Smith River Rancheria), California (Tribal)',
+  SRSTEPA: 'Standing Rock Sioux Tribe || Standing Rock Sioux Tribe (Tribal)',
   SSCW: 'Salem Sound Coastwatch',
   SSD: 'Colorado',
   SSWCD: 'Seth Mead, Current VolMon group',
@@ -1261,28 +1421,36 @@ export default {
     'Water Quality Data for Upper Clear Creek Watershed from Georgetown to South Platte River',
   STCROIX_WQX: '',
   STF: 'Water Quality Data collected for a voluntary group of private, local, regional, state, and federal interests committed to reducing selenium in locally affected water ways while maintaining the economic viability and agricultural heritage of our areas.',
-  STF_WQX: 'Seminole Tribe of Florida;',
+  STF_WQX:
+    'Seminole Tribe of Florida (Tribal) || Seminole Tribe of Florida (Tribal)',
   STJOHNSRIVERKPR_WQX: '',
   STOCKBRIDGE_MUNSEE: '',
-  STOI: 'Spokane Tribe of Indians (Washington);',
-  STORLVD_WQX: 'Water Quality Monitoring Data',
+  STOI: 'Spokane Tribe of the Spokane Reservation (Tribal) || Spokane Tribe of the Spokane Reservation (Tribal)',
+  STORLVD_WQX:
+    'Lac Vieux Desert Band of Lake Superior Chippewa || Lac Vieux Desert Band of Lake Superior Chippewa (Tribal)',
   STROUD_WQX: 'Water Quality Monitoring Data',
-  ST_CROIX_WQX: 'St. Croix Chippewa Indians of Wisconsin (WI); ',
+  ST_CROIX_WQX:
+    'St. Croix Chippewa Indians of Wisconsin (Tribal) || St. Croix Chippewa Indians of Wisconsin (Tribal)',
   SUMFS: 'Stockton University Marine Field Station',
   SUNENCO: 'Suncor Energy (USA) Inc. (Colorado)',
-  SUQUAMISH: ' (Tribal)',
-  SVR: '',
+  SUQUAMISH:
+    'Suquamish Tribe (Tribal) || Suquamish Indian Tribe of the Port Madison Reservation (Tribal)',
+  SVR: 'Sherwood Valley Rancheria EPA (Tribal) || Sherwood Valley Rancheria EPA (Tribal)',
   SWFMDDEP_WQX: 'Water Quality Monitoring Data',
-  SWINOMISH: '(Tribal)',
-  SWO_OEP: '',
+  SWINOMISH:
+    'Swinomish Indian Tribal Community (Tribal) || Swinomish Indian Tribal Community (Tribal)',
+  SWO_OEP:
+    'Sisseton-Wahpeton Sioux Tribe Lake Traverse Reservation (SD) || Sisseton-Wahpeton Sioux Tribe Lake Traverse Reservation (SD) (Tribal)',
   SWQC: "The Summit Water Quality Committee (SWQC) is a watershed organization formalized by intergovernmental agreement.  Members include the Towns, County and major municipal dischargers (permits # CO-0021598, CO-0020451, CO-0020826, CO-0029955, CO-0021539) in Summit County Colorado. SWQC's focus is on providing definitive environmental assessments of the Blue River Watershed, including Dillon and Green Mountain Reservoirs and promoting pollution control.",
   SWRCB: '',
-  SYCEO_WQX: '',
+  SYCEO_WQX:
+    'Santa Ynez Band of Chumash Indians || Santa Ynez Band of Chumash Indians (Tribal)',
   'T-BIOPSS': 'Washington Department of Fish and Wildlife (WDFW)',
-  TABLEMOUNTAINRANCHERIA_WQX: 'Table Mountain Rancheria;',
+  TABLEMOUNTAINRANCHERIA_WQX:
+    'Table Mountain Rancheria of California (Tribal) || Table Mountain Rancheria of California (Tribal)',
   TAKSHANUK: 'Takshanuk Watershed Council Water Quality Monitoring',
   TAMUCC: 'Texas A&M University-Corpus Christi',
-  TAOSPBLO_WQX: 'Pueblo of Taos',
+  TAOSPBLO_WQX: 'Pueblo of Taos || Pueblo of Taos (Tribal)',
   TCEQMAIN:
     'The Texas Commission on Environmental Quality (TCEQ) is the environmental agency for the state',
   TDECDOE_WQX: 'DOE Oversight Office',
@@ -1299,35 +1467,43 @@ export default {
   THORNTON_WQX: 'Water Quality Monitoring Data',
   THURSTONCOUNTY: 'Thurston County PHSS',
   TILLAMOOK_EP: 'York Johnson, Current VolMon group',
-  TIMBISHA: 'Timbisha Shoshone Tribe; ',
+  TIMBISHA:
+    'Death Valley Timbi-sha Shoshone Tribe (Tribal) || Death Valley Timbi-sha Shoshone Tribe (Tribal)',
   TIMSSD: 'Timpanogos Special Service District',
   TJRI: 'Town of Jamestown Rhode Island',
   TLBP_WQX: 'Tenmile Lakes Basin Partnership',
   TLGVWQMPROGRAM: '',
-  'TLINGIT-HAIDA': 'Transboundary Rivers Baseline Water Quality Study Data',
+  'TLINGIT-HAIDA':
+    'Central Council of the Tlingit & Haida Indian Tribes of Alaska (Tribal) || Central Council of the Tlingit & Haida Indian Tribes of Alaska (Tribal)',
   TMBLM_WQX: 'Bureau of Land Management, Tillamook Field Office (OR/WA)',
-  TMTC_WQX: 'Tuolumne Me-Wuk Tribal Council, Environmental Dept.;',
+  TMTC_WQX:
+    'Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California (Tribal) || Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California (Tribal)',
   TNCAZ_WQX: 'The Nature Conservancy water quality monitoring',
   TNCNJ_WQX: 'The Nature Conservancy',
   "TOHONOO'ODHAMNATION":
-    "Tohono O'odham Nation; Tohono O'odham Nation - Water Quality Monitoring Data",
+    "Tohono O'odham Nation of Arizona (Tribal) || Tohono O'odham Nation of Arizona (Tribal)",
   TOMWC: '',
-  TONKAWA1: 'Tonkawa Tribe of Oklahoma; ',
-  TONKAWA_WQX: 'Tonkawa Tribe of Oklahoma; ',
+  TONKAWA1:
+    'Tonkawa Tribe of Indians of Oklahoma (Tribal) || Tonkawa Tribe of Indians of Oklahoma (Tribal)',
+  TONKAWA_WQX:
+    'Tonkawa Tribe of Indians of Oklahoma (Tribal) || Tonkawa Tribe of Indians of Oklahoma (Tribal)',
   TPCHD_WQX: '',
   TPEO_WQX:
-    'Taos Pueblo Environmental Office; Taos Pueblo Environmental Office',
-  TREX: 'Tribal Environmental Exchange Network; Environmental monitoring network for water quality data',
+    'Pueblo of Taos, New Mexico (Tribal) || Pueblo of Taos, New Mexico (Tribal)',
+  TREX: 'Tribal Environmental Exchange Network (Tribal) || Tribal Environmental Exchange Network (Tribal)',
   TRILWWTF: 'Colorado',
-  TRINIDADRANCHERIAEPA: 'Trinidad Rancheria;',
-  TRTUL_WQX: 'Tulalip Tribes; ',
+  TRINIDADRANCHERIAEPA:
+    'Cher-Ae Heights Indian Community of the Trinidad Rancheria, California (Tribal) || Cher-Ae Heights Indian Community of the Trinidad Rancheria, California (Tribal)',
+  TRTUL_WQX:
+    'Tulalip Tribes of Washington (Tribal) || Tulalip Tribes of Washington (Tribal)',
   TRUEELEMENTS_QI_WQX: '',
   TSWQC_WQX:
     'The TSWQC_WQX organization is for data collected under the direction of the Tri-State Water Quality Council.',
   TTFFX: '',
   TU: 'Conservation of freshwater streams, rivers, and associated upland habitats for trout, salmon, other aquatic species, and people',
   TUMWATER: 'City of Tumwater - Public Works',
-  TURTLEMT: 'Archie Gronvold 106 Coordinator',
+  TURTLEMT:
+    'Turtle Mountain Environmental Office || Turtle Mountain Environmental Office (Tribal)',
   TWI: 'Stony Brook-Millstone and the Central Delaware River Watersheds',
   TWWWTF: 'Colorado',
   TXSTRMTM_WQX: '',
@@ -1345,7 +1521,8 @@ export default {
   UMRBA_WQX: '',
   UMRR_LTRM: '',
   UMT_FLATHEADBIOSTATION: '',
-  UPPERSKAGIT: 'Upper Skagit Indian Tribe;',
+  UPPERSKAGIT:
+    'Upper Skagit Indian Tribe (Tribal) || Upper Skagit Indian Tribe (Tribal)',
   URIWW:
     'Current (and historical) information on the water quality of surface water resources throughout Rhode Island, including lakes, ponds, reservoirs, rivers, streams and the marine environment.',
   URS: '',
@@ -1365,7 +1542,8 @@ export default {
   USEPAREGION9: 'USEPA Region 9',
   USEPA_CORALREEFS_WQX: '',
   USEPA_REGION8: '',
-  USET_WQX: 'United South and Eastern Tribes, Inc. (Tennessee); ',
+  USET_WQX:
+    'United South and Eastern Tribes, Inc. (Tennessee) (Tribal) || United South and Eastern Tribes, Inc. (Tennessee) (Tribal)',
   USFS0614_WQX: 'Water Quality Data',
   USFSPRESCOTT: '',
   USFSWHITEMT: '',
@@ -1376,7 +1554,7 @@ export default {
   'USGS-AR': '',
   'USGS-MN': 'USGS Minnesota Water Science Center',
   USGSNC: '',
-  USIOUX_WQX: '',
+  USIOUX_WQX: 'Upper Sioux Community || Upper Sioux Community (Tribal)',
   USVI: 'Water Quality Monitoring Data BEACHES',
   USVIST_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
   UT0024384_WQX:
@@ -1384,7 +1562,8 @@ export default {
   UTAHDWQ_WQX: 'Ambient Water Quality Monitoring Data',
   UTAHGS: 'Utah Geological Survey',
   UTDWR: 'Utah Division of Wildlife Resources',
-  UTEMTN: '',
+  UTEMTN:
+    'Ute Mountain Utes Tribe (Colorado) || Ute Mountain Utes Tribe (Colorado) (Tribal)',
   UTOGM_WQX: 'Utah Division of Oil, Gas, and Mining',
   UTRRVA05: '',
   UTTCHD: 'Utah - TriCounty Health Department',
@@ -1398,56 +1577,69 @@ export default {
     "THE UNIVERSITY OF NEW HAMPSHIRE'S JACKSON ESTUARINE LABORATORY (JEL) IS LOCATED FIVE MILES FROM THE DURHAM CAMPUS ON THE SHORES OF GREAT BAY ESTUARY AT ADAMS POINT (SEE DIRECTIONS, FACILITIES). RESIDENT FACULTY MEMBERS CONDUCT RESEARCH THAT COVERS A WIDE RANGE OF FIELDS AND IS SUPPORTED BY A VARIETY OF PRIVATE, STATE AND FEDERAL AGENCIES. STUDENTS, POST-DOCTORAL FELLOWS AND VISITING SCIENTISTS ARE ALSO ACTIVE IN JEL RESEARCH -CONTACT IS ADMIN/PROGRAM SUPPORT ASSISTANT",
   VADEP319: 'VA Department of Environmental Quality 319 Grants Monitoring',
   VALENCIA_WQX: 'Water Quality Monitoring Data',
-  VBKI_WQX: 'Viejas Band of Kumeyaay Indians; Viejas Band of Kumeyaay Indians',
+  VBKI_WQX:
+    'Viejas (Baron Long) Group of Capitan Grande Band of Mission Indians of the Viejas Reservation, California (Tribal) || Viejas (Baron Long) Group of Capitan Grande Band of Mission Indians of the Viejas Reservation, California (Tribal)',
   VERMONTANR: '',
   VERSAR: '',
   VM_SDCWC_AW: 'Paul Robertson, Current VolMon group',
   VM_SWC: 'Kyle Terry, Current VolMon group',
-  VOS1_WQX: 'Village of Solomon; Village of Solomon',
+  VOS1_WQX: 'Village of Solomon (Tribal) || Village of Solomon (Tribal)',
   'VT2009,': '',
   VWIN: 'Water Quality Monitoring Data',
-  WALKER_PAIUTE: 'WALKER RIVER PAIUTE;',
+  WALKER_PAIUTE:
+    'Walker River Paiute Tribe of the Walker River Reservation, Nevada (Tribal) || Walker River Paiute Tribe of the Walker River Reservation, Nevada (Tribal)',
   WALLAWALLA_WC: 'Current VolMon group',
-  WARMSPRINGS09: 'Confederated Tribes of Warm Springs;',
-  WASHNVCA_WQX: '',
-  WASIT: 'STILLAGUAMISH NATURAL RESOURCES DEPARTMENT',
+  WARMSPRINGS09:
+    'Confederated Tribes of the Warm Springs Reservation of Oregon (Tribal) || Confederated Tribes of the Warm Springs Reservation of Oregon (Tribal)',
+  WASHNVCA_WQX:
+    'Washoe Tribe of Nevada and California || Washoe Tribe of Nevada and California (Tribal)',
+  WASIT:
+    'STILLAGUAMISH TRIBE OF INDIANS (Tribal) || Stillaguamish Tribe of Indians of Washington (Tribal)',
   WATERANDAIR: 'www.waterandair.com',
   WATERKEEPER:
     'Waterkeeper Alliance is a worldwide network of environmental organizations founded in 1999, in response to a growing movement of organizations with such names as Riverkeeper, Baykeeper and Soundkeeper.',
-  WATERLDF_WQX: 'Lac Du Flambeau Band of Lake Superior Chippewa Indians DNR; ',
+  WATERLDF_WQX:
+    'Lac du Flambeau Band of Lake Superior Chippewa Indians of the Lac du Flambeau Reservation of Wisconsin (Tribal) || Lac du Flambeau Band of Lake Superior Chippewa Indians of the Lac du Flambeau Reservation of Wisconsin (Tribal)',
   WATERQUALITYPORTAL: 'www.waterqualitydata.us',
   WAYNE_STATE_UNIVERSITY: '',
   WA_ECOLOGY: 'Washington State Government',
   WCD: 'A local unit of government in Washington County, Minnesota dedicated to soil and water conservation',
   WC_WQX: '',
   WDEP_WQX:
-    'Wichita and Affiliated Tribes of Oklahoma Water Quality Monitoring Data',
+    'Wichita Department of Environmental Programs (Tribal) || Wichita Department of Environmental Programs (Tribal)',
   WDFW: 'Washington Department of Fish and Wildlife; ',
-  WEARTH_WQX: 'White Earth Band of Chippewa (MN);',
+  WEARTH_WQX:
+    'Minnesota Chippewa Tribe, Minnesota (White Earth Band) (Tribal) || Minnesota Chippewa Tribe, Minnesota (White Earth Band) (Tribal)',
   WENATCHEEPCBINV_WQX: '',
-  WETLAB: 'Western Environmental Testing Laboratory; ',
+  WETLAB:
+    'Western Environmental Testing Laboratory (Tribal) || Western Environmental Testing Laboratory (Tribal)',
   WFWQC_UT: 'Wasatch Front Water Quality Council Utah',
   WHATCOMCD: '',
   WHATCOM_WQX: 'Whatcom County Public Works',
-  WHITEMOUNTAIN_WQX: 'White Mountain Apache Tribe;',
+  WHITEMOUNTAIN_WQX:
+    'White Mountain Apache Tribe of the Fort Apache Reservation, Arizona (Tribal) || White Mountain Apache Tribe of the Fort Apache Reservation, Arizona (Tribal)',
   WICHITAEPA_WQX:
-    'Wichita and Affiliated Tribes Of Oklahoma; Wichita and Affiliated Tribes Of Oklahoma',
+    'Wichita and Affiliated Tribes (Wichita, Keechi, Waco & Tawakonie), Oklahoma (Tribal) || Wichita and Affiliated Tribes (Wichita, Keechi, Waco & Tawakonie), Oklahoma (Tribal)',
   WIDATCP_WQX:
     'Wisconsin Department of Agriculture, Trade and Consumer Protection',
   WIDNR_WQX: 'Wisconsin Department of Natural Resources.',
   WILLOWCREEK: 'CDSN - Willow Creek Reclamation Committee',
   WINDWARDENV_WQX: 'WindwardEnvironmental',
-  WINNEBAGO07: 'Winnebago Tribe of Nebraska; ',
-  WINNEBAGO07_WQX: 'Winnebago Tribe of Nebraska;',
-  WIYOT_WQX: 'Wiyot Tribe (California);',
+  WINNEBAGO07:
+    'Winnebago Tribe of Nebraska (Tribal) || Winnebago Tribe of Nebraska (Tribal)',
+  WINNEBAGO07_WQX:
+    'Winnebago Tribe of Nebraska (Tribal) || Winnebago Tribe of Nebraska (Tribal)',
+  WIYOT_WQX:
+    'Wiyot Tribe, California (Tribal) || Wiyot Tribe, California (Tribal)',
   WI_MMSD: '',
   WLA: '',
-  WMAT_WQX: 'White Mountain Apache Tribe Watershed Program;',
+  WMAT_WQX:
+    'White Mountain Apache Tribe of the Fort Apache Reservation, Arizona (Tribal) || White Mountain Apache Tribe of the Fort Apache Reservation, Arizona (Tribal)',
   WMHMD: 'Colorado',
   WNENVDPT_WQX: '',
   WOOD: 'Energy services company submitting sediment data for a dredging project.',
   WQXPQRC: '',
-  WQXTEST: 'Test',
+  WQXTEST: 'WQX Test Organization || WQX Test Organization',
   WQXWEBTRAINING:
     'Will be used to store the historical GLENDA data that will be added to the WQX in the future.',
   WQXWEBTRAINING1: '',
@@ -1507,14 +1699,21 @@ export default {
   WWXINCOG: '',
   WYDEQ_WATERSHED: '',
   WYDEQ_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
-  YAKAMA_WQX: 'Yakama Nation Environmental Management Program; ',
+  YAKAMA_WQX:
+    'Confederated Tribes and Bands of the Yakama Nation (Tribal) || Confederated Tribes and Bands of the Yakama Nation (Tribal)',
   YAKIMAVLYDAIRIES_WQX: 'c/o  Inland Earth Sciences Corp.',
-  YAN_WQX: 'Yavapai-Apache Nation;',
+  YAN_WQX:
+    'Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona (Tribal) || Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona (Tribal)',
   YELLOWBUG: '',
-  YERINGTON_WQX: 'Yerington Paiute Tribe; Yerington Paiute Tribe',
-  YOMBA: 'Yomba Shoshone Tribe; ',
-  YPIT_WQX: '(Tribal)',
-  YRITWC: ' (Tribal)',
-  YUROKTEP_WQX: 'Yurok Tribe; Yurok Tribe Environmental Program',
+  YERINGTON_WQX:
+    'Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada (Tribal) || Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada (Tribal)',
+  YOMBA:
+    'Yomba Shoshone Tribe of the Yomba Reservation, Nevada (Tribal) || Yomba Shoshone Tribe of the Yomba Reservation, Nevada (Tribal)',
+  YPIT_WQX:
+    'Yavapai Prescott Indian Tribe, Arizona (Tribal) || Yavapai Prescott Indian Tribe, Arizona (Tribal)',
+  YRITWC:
+    'Yukon River Inter-Tribal Watershed Council (Tribal) || Yukon River Inter-Tribal Watershed Council (Tribal)',
+  YUROKTEP_WQX:
+    'Yurok Tribe of the Yurok Reservation, California (Tribal) || Yurok Tribe of the Yurok Reservation, California (Tribal)',
   ZIAPUEBLO_WQX: ''
 }

@@ -19162,6 +19162,7 @@ export default {
     'Gomphonema sagitta',
     'Gomphonema sarcophagus',
     'Gomphonema septum',
+    'Gomphonema sierranum',
     'Gomphonema simus',
     'Gomphonema sphaerophorum',
     'Gomphonema stoermeri',
