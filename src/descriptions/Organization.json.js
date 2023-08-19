@@ -362,6 +362,7 @@ export default {
     'Bridgeport Indian Colony (Tribal) || Bridgeport Indian Colony (Tribal)',
   BRIGHTON_WQX: 'Water Quality Monitoring Data',
   BROADRIVERNC: 'French Broad Riverkeeper monitoring',
+  BRWC_WV: '',
   BTBAQUATIC_WQX:
     'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
   BTMUA: 'Drinking water provider',
@@ -735,8 +736,7 @@ export default {
   HOPI_WQX: 'Hopi Tribe of Arizona (Tribal) || Hopi Tribe of Arizona (Tribal)',
   HOPTERA_WQX:
     'Hopland Band of Pomo Indians, California (Tribal) || Hopland Band of Pomo Indians, California (Tribal)',
-  HO_CHUNK_WQX:
-    'Ho-Chunk Nation of Wisconsin || Ho-Chunk Nation of Wisconsin (Tribal)',
+  HO_CHUNK_WQX: '',
   HPUL1EPA_WQX:
     'Habematolel Pomo of Upper Lake, California (Tribal) || Habematolel Pomo of Upper Lake, California (Tribal)',
   HRF: 'Volunteer Monitoring Group',
@@ -794,6 +794,7 @@ export default {
   KATSPROJ_WQX: 'Water Quality Monitoring Data.',
   KAWNATON_WQX:
     'Kaw Nation, Oklahoma (Tribal) || Kaw Nation, Oklahoma (Tribal)',
+  KAWS_WQX: '',
   KBICNRD_WQX: '',
   KBOPWQP: '',
   KBS: 'Kansas Biological Survey',
@@ -1198,8 +1199,7 @@ export default {
   PSUCLR: '',
   PTI_ITS_WQX: 'Passamaquoddy Tribe (Tribal) || Passamaquoddy Tribe (Tribal)',
   PTMSC: 'Non-profit marine science education',
-  PUEBLOISLETA:
-    'Pueblo of Isleta, New Mexico || Pueblo of Isleta, New Mexico (Tribal)',
+  PUEBLOISLETA: 'Pueblo of Isleta;',
   PUEBLOJEMEZ: 'Pueblo of Jemez (Tribal) || Pueblo of Jemez (Tribal)',
   PUEBLOOFTESUQUE: 'Pueblo Of Tesuque || Pueblo Of Tesuque (Tribal)',
   PUEBLOWMD: 'Colorado',
@@ -1264,7 +1264,7 @@ export default {
   REDCLIFF_WQX: '',
   REDDINGRANCHERIA_WQX:
     'Redding Rancheria, California (Tribal) || Redding Rancheria, California (Tribal)',
-  REDLAKE_WQX: 'Red Lake DNR || Red Lake DNR (Tribal)',
+  REDLAKE_WQX: '',
   REVIVETHESANJOAQUIN_WQX: '',
   RFC: 'Founded in November 1996, Roaring Fork Conservancy is the watershed conservation organization in the Roaring Fork Valley that brings people together to protect our rivers. As an independent, not-for-profit 501(c)3 organization our mission is to inspire people to explore, value, and protect the Roaring Fork Watershed. From Aspen to Glenwood Springs, Meredith to Marble, Roaring Fork Conservancy is focused on: water quantity and water quality.',
   RGHRP: '',

@@ -49226,6 +49226,7 @@ export default {
   'Xysticus logunovi, Seyfulina & Mikhailov 2004 (Xysticus)': 'Not Assigned',
   'Xystodus sageneus': 'Not Assigned',
   Xystodus: 'Not Assigned',
+  Xystonotus: 'Not Assigned',
   Xystreurys: 'Not Assigned',
   'Xystreurys liolepis': 'Not Assigned',
   'Xystreurys rasile': 'Not Assigned',

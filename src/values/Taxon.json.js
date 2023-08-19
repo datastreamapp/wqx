@@ -49200,6 +49200,7 @@ export default {
     'Xysticus logunovi, Seyfulina & Mikhailov 2004 (Xysticus)',
     'Xystodus sageneus***retired***use Synodus sageneus',
     'Xystodus***retired***use Synodus',
+    'Xystonotus',
     'Xystreurys',
     'Xystreurys liolepis',
     'Xystreurys rasile',

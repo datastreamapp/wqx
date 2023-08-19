@@ -124589,6 +124589,7 @@ export default {
     'Xystodus sageneus',
     'Xystodus sageneus***retired***use Synodus sageneus',
     'Xystodus***retired***use Synodus',
+    'Xystonotus',
     'Xystreurys',
     'Xystreurys liolepis',
     'Xystreurys rasile',
