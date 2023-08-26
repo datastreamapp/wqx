@@ -1623,6 +1623,7 @@ export default {
     '88639-57-0',
   '1,1,1-Trichloro-2,2,3,3,4,5,5,5-octafluoro-4-(trifluoromethyl)pentane':
     '88639-55-8',
+  '1,1,1-Trichloro-2,2-bis(4-chlorophenyl-d4)ethane': '93952-18-2',
   '1,1,1-Trichloro-2-propanone': '918-00-3',
   '1,1,1-Trichloro-3,3,4,4,4-pentafluorobutan-2-one': '87375-47-1',
   '1,1,1-Trichloroethane': '71-55-6',
@@ -11205,6 +11206,7 @@ export default {
     '94159-88-3',
   '4-(2,2,3,3-Tetrafluoropropoxy)-N-(2,2,2-trifluoroethyl)aniline':
     '1365808-55-4',
+  '4-(2,4-Dichlorophenoxy-3,5,6-d3)butyric acid': '1219802-46-6',
   '4-(2-Bromo-2,3,3,3-tetrafluoropropanamido)butanoic acid': '113360-58-0',
   '4-(2-Carboxy-1,1,2,2-tetrafluoroethoxy)-perfluoropentanoic acid':
     '2416366-22-6',
@@ -14418,6 +14420,7 @@ export default {
   'Benzyldimethylstearylammonium chloride': '',
   'Benzyldimethyltetradecyl ammonium': '',
   'Benzyldimethyltetradecylammonium chloride': '',
+  Benzyltriphenylphosphonium: '15853-35-7',
   Beryllium: '7440-41-7',
   'Beryllium-7': '13966-02-4',
   'Beryllium-9': '',
@@ -18932,7 +18935,6 @@ export default {
   'Immediate oxygen demand': '',
   'Impermeable Layer Present (Y/N) (choicelist)': '',
   'Incised Height': '',
-  Increment: '',
   Indan: '496-11-7',
   Indapamide: '',
   Indaziflam: '950782-86-2',
@@ -19742,6 +19744,8 @@ export default {
   'Methane, chloro(difluoromethoxy)difluoro-': '56726-75-1',
   'Methane, oxybis[(difluoromethoxy)difluoro-': '249932-25-0',
   'Methane, oxybis[difluoro-': '1691-17-4',
+  'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-':
+    '82113-65-3',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':
     '90076-65-6',
   'Methanesulfonic acid, 1,1-difluoro-, 2,2,3,3-tetrafluoropropyl ester':
@@ -19847,6 +19851,7 @@ export default {
     '608300-17-0',
   'Methoxy(dimethyl)(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silane': '608299-03-2',
   Methoxychlor: '72-43-5',
+  'Methoxychlor-d6 (dimethoxy-d6)': '106031-79-2',
   Methoxycitronellal: '3613-30-7',
   'Methoxydimethyl(3,3,4,4,4-pentafluorobutyl)silane': '252653-06-8',
   'Methoxydimethyl(3,3,4,4,5,5,5-heptafluoropentyl)silane': '608298-96-0',
@@ -23030,7 +23035,7 @@ export default {
   'Perfluorodecane-1-sulfinic acid': '',
   Perfluorodecanesulfonate: '126105-34-8',
   'Perfluorodecanesulfonic acid ': '335-77-3',
-  Perfluorodecanoate: '',
+  Perfluorodecanoate: '73829-36-4',
   'Perfluorodecanoate (anionic form)': '73829-36-4',
   'Perfluorodecanoic acid': '335-76-2',
   Perfluorodecanonitrile: '379215-40-4',
@@ -27052,6 +27057,7 @@ export default {
   'Tri-p-tolyl Phosphate': '78-32-0',
   Triacetonetriperoxide: '17088-37-8',
   Triacontane: '638-68-6',
+  'Triacontane-D62': '93952-07-9',
   Triadimefon: '43121-43-3',
   Triadimenol: '',
   Triaenodes: '',

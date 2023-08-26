@@ -524,8 +524,7 @@ export default {
   CSH: 'New York',
   CSKTPESTICIDE_WQX:
     'Confederated Salish and Kootenai Tribes of the Flathead Reservation (Tribal) || Confederated Salish and Kootenai Tribes of the Flathead Reservation (Tribal)',
-  CSKTRIBE:
-    'Confederated Salish and Kootenai Tribes || Confederated Salish and Kootenai Tribes (Tribal)',
+  CSKTRIBE: '',
   'CSR_EPA_CWA-106':
     'Cold Springs Rancheria of Mono Indians of California (Tribal) || Cold Springs Rancheria of Mono Indians of California (Tribal)',
   'CSU-CIVIL&ENVIRONMENTAL-ENG': '',
@@ -617,6 +616,7 @@ export default {
   EPATESTA_PAM: '',
   EPA_GLNPO:
     'Will be used to store the historical GLENDA data that will be added to the WQX in the future.',
+  EPA_MPRSAMONITORING: '',
   EPA_OCMA_R1: '',
   EPA_OCMA_R2: '',
   EPA_OCMA_R4: '',
@@ -776,6 +776,7 @@ export default {
   IRONMT_WQX: 'Water Quality Monitoring Data',
   IRWA: 'Ipswich River Watershed Association',
   ISDA_WQX: 'Idaho State Department of Agriculture',
+  IVYACADEMY_WQX: '',
   IWLA: 'Izaak Walton League - national conservation organization',
   JA: '',
   JAMUL_WQX: ' (Tribal)',
@@ -1312,7 +1313,7 @@ export default {
   SANMATEORCD: 'San Mateo Resource Conservation District',
   SANPASQUAL_WQX:
     'San Pasqual Band of Diegueno Mission Indians of California (Tribal) || San Pasqual Band of Diegueno Mission Indians of California (Tribal)',
-  SANTACLARAPBLO: 'Pueblo of Santa Clara || Pueblo of Santa Clara (Tribal)',
+  SANTACLARAPBLO: 'Pueblo of Santa Clara',
   SANTAROSA:
     'Santa Rosa Indian Community of the Santa Rosa Rancheria, California || Santa Rosa Indian Community of the Santa Rosa Rancheria, California (Tribal)',
   SANTEEWATER:
@@ -1390,7 +1391,7 @@ export default {
   SOKAOGON_WQX:
     'Sokaogon Chippewa Community || Sokaogon Chippewa Community (Tribal)',
   SOUTHSANTIAM_WC: 'Eric Anderson, Current VolMon group',
-  SOUTHUTE: 'Southern Ute Tribe || Southern Ute Tribe (Tribal)',
+  SOUTHUTE: '',
   SOU_WQX: 'Southern Oregon University',
   SPC: 'Volunteer Monitoring Group',
   SPIRITLK: '',

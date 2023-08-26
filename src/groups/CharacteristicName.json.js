@@ -2162,6 +2162,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1,1,1-Trichloro-2,2,3,3,4,5,5,5-octafluoro-4-(trifluoromethyl)pentane':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1,1,1-Trichloro-2,2-bis(4-chlorophenyl-d4)ethane': 'Not Assigned',
   '1,1,1-Trichloro-2-propanone': 'Organics, Other',
   '1,1,1-Trichloro-3,3,4,4,4-pentafluorobutan-2-one':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -13813,6 +13814,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '4-(2,2,3,3-Tetrafluoropropoxy)-N-(2,2,2-trifluoroethyl)aniline':
     'PFAS,Perfluorinated Alkyl Substance',
+  '4-(2,4-Dichlorophenoxy-3,5,6-d3)butyric acid': 'Not Assigned',
   '4-(2-Bromo-2,3,3,3-tetrafluoropropanamido)butanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-(2-Carboxy-1,1,2,2-tetrafluoroethoxy)-perfluoropentanoic acid':
@@ -17596,6 +17598,7 @@ export default {
   'Benzyldimethylstearylammonium chloride': 'Organics, PCBs',
   'Benzyldimethyltetradecyl ammonium': 'Organics, PCBs',
   'Benzyldimethyltetradecylammonium chloride': 'Organics, PCBs',
+  Benzyltriphenylphosphonium: 'Not Assigned',
   Beryllium: 'Inorganics, Minor, Metals',
   'Beryllium-7': 'Radiochemical',
   'Beryllium-9': 'Stable Isotopes',
@@ -22662,7 +22665,6 @@ export default {
   'Immediate oxygen demand': 'Not Assigned',
   'Impermeable Layer Present (Y/N) (choicelist)': 'Information',
   'Incised Height': 'Not Assigned',
-  Increment: 'Not Assigned',
   Indan: 'Not Assigned',
   Indapamide: 'Not Assigned',
   Indaziflam: 'Not Assigned',
@@ -23510,6 +23512,8 @@ export default {
   'Methane, oxybis[(difluoromethoxy)difluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Methane, oxybis[difluoro-': 'PFAS,Perfluorinated Alkyl Substance',
+  'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-':
+    'Not Assigned',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':
     'PFAS,Perfluorinated Alkyl Substance',
   'Methanesulfonic acid, 1,1-difluoro-, 2,2,3,3-tetrafluoropropyl ester':
@@ -23621,6 +23625,7 @@ export default {
   'Methoxy(dimethyl)(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silane':
     'PFAS,Perfluorinated Alkyl Substance',
   Methoxychlor: 'Organics, Pesticide',
+  'Methoxychlor-d6 (dimethoxy-d6)': 'Not Assigned',
   Methoxycitronellal: 'Organics, Pesticide',
   'Methoxydimethyl(3,3,4,4,4-pentafluorobutyl)silane':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -27380,7 +27385,7 @@ export default {
   'Perfluorodecane-1-sulfinic acid': 'PFAS,Perfluorinated Alkyl Substance',
   Perfluorodecanesulfonate: 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorodecanesulfonic acid ': 'PFAS,Perfluorinated Alkyl Substance',
-  Perfluorodecanoate: 'Not Assigned',
+  Perfluorodecanoate: 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorodecanoate (anionic form)': 'Organics, Other',
   'Perfluorodecanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
   Perfluorodecanonitrile: 'PFAS,Perfluorinated Alkyl Substance',
@@ -31854,6 +31859,7 @@ export default {
   'Tri-p-tolyl Phosphate': 'Not Assigned',
   Triacetonetriperoxide: 'Not Assigned',
   Triacontane: 'Organics, Other',
+  'Triacontane-D62': 'Not Assigned',
   Triadimefon: 'Organics, Pesticide',
   Triadimenol: 'Not Assigned',
   Triaenodes: 'Not Assigned',

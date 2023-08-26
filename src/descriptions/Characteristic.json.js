@@ -1450,6 +1450,8 @@ export default {
   '1,1,1-Trichloro-2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptane': '',
   '1,1,1-Trichloro-2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctane': '',
   '1,1,1-Trichloro-2,2,3,3,4,5,5,5-octafluoro-4-(trifluoromethyl)pentane': '',
+  '1,1,1-Trichloro-2,2-bis(4-chlorophenyl-d4)ethane':
+    'https://www.cdnisotopes.com/d-3006',
   '1,1,1-Trichloro-2-propanone': '; Request Date: 02-MAR-07',
   '1,1,1-Trichloro-3,3,4,4,4-pentafluorobutan-2-one': '',
   '1,1,1-Trichloroethane': '; Request Date: 02-MAR-07',
@@ -10671,6 +10673,8 @@ export default {
   '4-(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-Heptadecafluorononyl)-2,2-dimethyl-1,3-dioxolane':
     '',
   '4-(2,2,3,3-Tetrafluoropropoxy)-N-(2,2,2-trifluoroethyl)aniline': '',
+  '4-(2,4-Dichlorophenoxy-3,5,6-d3)butyric acid':
+    'https://www.cdnisotopes.com/4-2-4-dichlorophenoxy-d3-butyric-acid',
   '4-(2-Bromo-2,3,3,3-tetrafluoropropanamido)butanoic acid': '',
   '4-(2-Carboxy-1,1,2,2-tetrafluoroethoxy)-perfluoropentanoic acid': '',
   '4-(2-Chloroethoxy)-1,1,1,2,2,3,3-heptafluorobutane': '',
@@ -13942,6 +13946,7 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Benzyldimethyltetradecylammonium chloride':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  Benzyltriphenylphosphonium: 'https://pubchem.ncbi.nlm.nih.gov/compound/70672',
   Beryllium: '; Request Date: 02-MAR-07',
   'Beryllium-7': 'Beryllium, atomic number 4.; Request Date: 22-JUL-14',
   'Beryllium-9': '',
@@ -18644,7 +18649,6 @@ export default {
   'Immediate oxygen demand': '; Request Date: 10-SEP-14',
   'Impermeable Layer Present (Y/N) (choicelist)': '',
   'Incised Height': '; Request Date: 04-OCT-18',
-  Increment: '',
   Indan: '; Request Date: 02-MAR-07',
   Indapamide: 'NWIS',
   Indaziflam: '; Request Date: 24-NOV-14',
@@ -19509,6 +19513,7 @@ export default {
   'Methane, chloro(difluoromethoxy)difluoro-': '',
   'Methane, oxybis[(difluoromethoxy)difluoro-': '',
   'Methane, oxybis[difluoro-': '',
+  'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-': '',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':
     '',
   'Methanesulfonic acid, 1,1-difluoro-, 2,2,3,3-tetrafluoropropyl ester': '',
@@ -19607,6 +19612,8 @@ export default {
     '',
   'Methoxy(dimethyl)(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silane': '',
   Methoxychlor: 'Nemi.gov; Request Date: 22-JUL-14',
+  'Methoxychlor-d6 (dimethoxy-d6)':
+    'https://www.cdnisotopes.com/methoxychlor-d6-dimethoxy-d6',
   Methoxycitronellal: '',
   'Methoxydimethyl(3,3,4,4,4-pentafluorobutyl)silane': '',
   'Methoxydimethyl(3,3,4,4,5,5,5-heptafluoropentyl)silane': '',
@@ -22847,7 +22854,7 @@ export default {
   Perfluorodecanesulfonate: '',
   'Perfluorodecanesulfonic acid ***retired***use 1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro':
     'Request Date: 19-Nov-18 (nps.gov cas# 375-22-4 review)',
-  Perfluorodecanoate: 'Perfluorodecanoate ',
+  Perfluorodecanoate: 'Request Date: 01-APR-13, cas# 73829-36-4',
   'Perfluorodecanoate (anionic form)': 'Request Date: 05-Dec-19',
   'Perfluorodecanoic acid': 'Request Date: 22-JUL-14',
   Perfluorodecanonitrile: '',
@@ -27096,6 +27103,7 @@ export default {
   'Tri-p-tolyl Phosphate': '; Request Date: 14-APR-15',
   Triacetonetriperoxide: 'Nemi.gov; Request Date: 25-SEP-19',
   Triacontane: '; Request Date: 02-MAR-07',
+  'Triacontane-D62': '',
   Triadimefon: 'Nemi.gov; Request Date: 02-MAR-07',
   Triadimenol: 'NWIS',
   Triaenodes: 'NWIS',
