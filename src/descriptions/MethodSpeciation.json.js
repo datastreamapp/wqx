@@ -34,7 +34,7 @@ export default {
   'as CaCO3':
     'Calcium carbonate is a common substance found in rocks in all parts of the world, and is the main component of shells of marine organisms, snails, coal balls, pearls, and eggshells. It is the active ingredient in agricultural lime, and is created when Ca ions in hard water react with carbonate ions creating limescale.',
   'as Chlorophyll':
-    'Chlorophyll is one of the most important pigments in nature. Through the process of… The chlorophyll molecule consists of a central magnesium atom surrounded by a nitrogen-containing structure called a porphyrin ring; attached to the ring is a long carbon-hydrogen side chain, known as a phytol chain',
+    'Chlorophyll is one of the most important pigments in nature. Through the process of… The chlorophyll molecule consists of a central magnesium atom surrounded by a nitrogen-containing structure called a porphyrin ring. attached to the ring is a long carbon-hydrogen side chain, known as a phytol chain',
   'as Chlorophyll a':
     'Chlorophyll a is a specific form of chlorophyll used in oxygenic photosynthesis. It absorbs most energy from wavelengths of violet-blue and orange-red light. It also reflects green-yellow light, and as such contributes to the observed green color of most plants.',
   'as Cl':
@@ -162,7 +162,7 @@ export default {
   'as Se':
     'Selenium is a chemical element with the symbol Se and atomic number 34. It is a nonmetal (more rarely considered a metalloid) with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and also has similarities to arsenic. ',
   'as Si':
-    'Silicon is a chemical element with the symbol Si and atomic number 14. It is a hard and brittle crystalline solid with a blue-grey metallic lustre; and it is a tetravalent metalloid and semiconductor. ',
+    'Silicon is a chemical element with the symbol Si and atomic number 14. It is a hard and brittle crystalline solid with a blue-grey metallic lustre. and it is a tetravalent metalloid and semiconductor. ',
   'as SiO2':
     'Silicon dioxide, also known as silica, is an oxide of silicon with the chemical formula SiO2, most commonly found in nature as quartz and in various living organisms.',
   'as Sn':
@@ -176,7 +176,7 @@ export default {
   'as U308':
     'Uranium concentrate, commonly referred to as U3O8, is the product created when uranium ore has been mined and milled. The fine powder is packaged in steel drums and shipped to refineries for further processing to prepare it for use as fuel in nuclear reactors.',
   'as U3O8':
-    'Triuranium octoxide (U3O8), a yellow powdery substance, is the most stable form of uranium oxide and is the form most commonly found in nature. Molar mass: 842.1 g/mol.  Insoluble in water; Soluble in nitric and sulfuric acids',
+    'Triuranium octoxide (U3O8), a yellow powdery substance, is the most stable form of uranium oxide and is the form most commonly found in nature. Molar mass: 842.1 g/mol.  Insoluble in water. Soluble in nitric and sulfuric acids',
   'as pH':
     '(potential of hydrogen) is a numeric scale used to specify the acidity or basicity of an aqueous solution.. Specify the pH at which analyte is determined.  For research purposes or when analyte values are to be compared  among laboratories, determine the analyte response of a given  water over a wide range of pH values.',
   'as qPCR':

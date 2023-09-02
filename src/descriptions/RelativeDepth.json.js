@@ -3,7 +3,7 @@ export default {
   'Above Halocline':
     'Sample is above the Vertical zone in the oceanic water column in which salinity changes rapidly with depth, located below the well-mixed, uniformly saline surface water layer. ',
   AbovePycnocline:
-    'Sample layer is above the boundary separating two liquid layers of different densities. In oceans a large density difference between surface waters (or upper 100 metres [330 feet]) and deep ocean water effectively prevents vertical currents; the one exception is in polar regions where pycnocline is absent. ',
+    'Sample layer is above the boundary separating two liquid layers of different densities. In oceans a large density difference between surface waters (or upper 100 metres [330 feet]) and deep ocean water effectively prevents vertical currents. the one exception is in polar regions where pycnocline is absent. ',
   AboveThermoclin:
     'Sample layer is above oceanic water layer in which water temperature decreases rapidly with increasing depth.',
   'At-Depth': 'Actual Depth of Water',
@@ -12,7 +12,7 @@ export default {
     'Sample is below the Vertical zone in the oceanic water column in which salinity changes rapidly with depth, located below the well-mixed, uniformly saline surface water layer. ',
   'Below Surface': 'Sample Taken Below Surface-For Cmon/Dflo Only',
   BelowPycnocline:
-    'Sample layer is below the boundary separating two liquid layers of different densities. In oceans a large density difference between surface waters (or upper 100 metres [330 feet]) and deep ocean water effectively prevents vertical currents; the one exception is in polar regions where pycnocline is absent. ',
+    'Sample layer is below the boundary separating two liquid layers of different densities. In oceans a large density difference between surface waters (or upper 100 metres [330 feet]) and deep ocean water effectively prevents vertical currents. the one exception is in polar regions where pycnocline is absent. ',
   BelowThermoclin:
     'Sample layer is below oceanic water layer in which water temperature decreases rapidly with increasing depth.',
   BenthcNephaloid:
@@ -36,7 +36,7 @@ export default {
   'Photic zone':
     'The uppermost layer of water in a lake or ocean that is exposed to intense sunlight.',
   Pycnocline:
-    'The boundary separating two liquid layers of different densities. In oceans a large density difference between surface waters (or upper 100 metres [330 feet]) and deep ocean water effectively prevents vertical currents; the one exception is in polar regions where pycnocline is absent. ',
+    'The boundary separating two liquid layers of different densities. In oceans a large density difference between surface waters (or upper 100 metres [330 feet]) and deep ocean water effectively prevents vertical currents. the one exception is in polar regions where pycnocline is absent. ',
   Sediment: 'Sample layer is Sediment',
   'Sediment Water': 'Sample layer is Sediment/water interface (0 - 1cm)',
   Subbottom: 'Layers of sediment or rock under the seafloor',

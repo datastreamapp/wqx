@@ -22,7 +22,7 @@ export default {
   'Deionized Water':
     'Water that has had almost all of its mineral ions removed, such as cations like sodium, calcium, iron, and copper, and anions such as chloride and sulfate.',
   'Domestic Sewage':
-    'Domestic sewage means sewage that consists of water and human excretions or other waterborne wastes incidental to the occupancy of a residential building. Domestic sewage carries used water from houses and apartments; it is also called sanitary sewage.',
+    'Domestic sewage means sewage that consists of water and human excretions or other waterborne wastes incidental to the occupancy of a residential building. Domestic sewage carries used water from houses and apartments. it is also called sanitary sewage.',
   'Drinking Water':
     'known as potable water or improved drinking water, is water that is safe to drink or to use for food preparation, without risk of health problems.',
   'Dry Fall Material':
@@ -34,7 +34,7 @@ export default {
   'Fecal material':
     'An unconsolidated material made up of warm-blooded animal or human wastes covering the ground, streambed, or suspended in a water body. Includes wastes from animal husbandry operations transferred to storage lagoons, or a slurry runoff. Fecal solids have generally not been processed and are sampled in their natural state.',
   'Filter Residue':
-    'the solid mass remaining on a filter after the liquid that contained it has passed through; specifically :the residue of impurities filtered from clarified juice of sugarcane that is used as a fertilizer',
+    'the solid mass remaining on a filter after the liquid that contained it has passed through. specifically the residue of impurities filtered from clarified juice of sugarcane that is used as a fertilizer',
   'Finished Water':
     'water that is introduced into the distribution system of a public water system and is intended for distribution and consumption without further treatment',
   'First flush':

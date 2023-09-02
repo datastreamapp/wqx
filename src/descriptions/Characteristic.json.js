@@ -16838,6 +16838,7 @@ export default {
   'Erythromycin-anhydro': 'Nemi.gov; Request Date: 30-MAY-13',
   Escherichia: 'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   'Escherichia coli': 'Nemi.gov; Request Date: 02-MAR-07',
+  'Escherichia coli DNA': '',
   'Escherichia coli proportional contribution by human (%)':
     '; Request Date: 30-MAY-13',
   'Escherichia coli proportional contribution by livestock (%)':

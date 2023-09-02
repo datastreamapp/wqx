@@ -41,7 +41,7 @@ export default {
   'Constructed Tunnel':
     'an artificial underground passage, especially one built through a hill or under a building, road, or river.',
   'Constructed Water Transport Structure':
-    'a system of structures and measures that support the  intentional movement of water over large distances. simple aqueducts to transport water above ground level; short pipelines to transport water above or under another structure such as a water canal or an access road',
+    'a system of structures and measures that support the  intentional movement of water over large distances. simple aqueducts to transport water above ground level. short pipelines to transport water above or under another structure such as a water canal or an access road',
   'Constructed Wetland':
     'A constructed wetland (CW) is an artificial wetland to treat municipal or industrial wastewater, greywater or stormwater runoff. It may also be designed for land reclamation after mining, or as a mitigation step for natural areas lost to land development.Constructed wetlands are engineered systems that use natural functions vegetation, soil, and organisms to treat wastewater',
   Estuary:
@@ -49,7 +49,7 @@ export default {
   'Estuary-Freshwater':
     'Freshwater estuaries are semi-enclosed areas of the Great Lakes in which lake and river water mix, forming a transition zone between river and lake environments that are chemically distinct',
   'Facility Industrial':
-    'a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal; "the price of the house included all utilities',
+    'a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. "the price of the house included all utilities',
   'Facility Municipal Sewage (POTW)':
     'Treatment works treating domestic sewage means a POTW or any other sewage sludge or waste water treatment devices or systems, regardless of ownership (including federal facilities), used in the storage, treatment, recycling, and reclamation of municipal or domestic sewage, including land dedicated for the disposal of sewage sludge. This definition does not include septic tanks or similar devices.',
   'Facility Other':
@@ -96,7 +96,7 @@ export default {
   'Leachate-Lysimeter':
     'Is a measuring device which can be used to measure the amount of actual evapotranspiration which is released by plants (usually crops or trees)',
   'Leachate-SamplePoint':
-    "The point where samples of water are taken determining water quality in source the pipes/pipelines which convey the leachate to the collection tank, or treatment plant location; Leachate is the liquid that drains or 'leaches' from a landfill. It varies widely in composition regarding the age of the landfill and the type of waste that it contains. It usually contains both dissolved and suspended material.",
+    "The point where samples of water are taken determining water quality in source the pipes/pipelines which convey the leachate to the collection tank, or treatment plant location. Leachate is the liquid that drains or 'leaches' from a landfill. It varies widely in composition regarding the age of the landfill and the type of waste that it contains. It usually contains both dissolved and suspended material.",
   'Local Air Monitoring Station':
     'Ambient air monitoring is the systematic, long-term assessment of pollutant levels by measuring the quantity and types of certain pollutants in the surrounding, outdoor air.',
   'Mine Pit':

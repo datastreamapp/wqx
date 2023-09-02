@@ -1078,8 +1078,7 @@ export default {
   NORMANDEAUASSOC: 'Normandeau Associates Inc.',
   NOTTAWHURON_WQX:
     'Nottawaseppi Huron Band of the Potawatomi (Tribal) || Nottawaseppi Huron Band of the Potawatomi (Tribal)',
-  NRTHCHEY:
-    'Northern Cheyenne Tribe (Montana) || Northern Cheyenne Tribe (Montana) (Tribal)',
+  NRTHCHEY: 'Environmental Protection Department',
   NRWA_WQX: 'Water Quality Monitoring Data',
   NRWC: '',
   NSEA: 'The Nooksack Salmon Enhancement Association is a community based nonprofit dedicated to restoring wild salmon populations in Whatcom County.',
@@ -1643,7 +1642,7 @@ export default {
   WQXTEST: 'WQX Test Organization || WQX Test Organization',
   WQXWEBTRAINING:
     'Will be used to store the historical GLENDA data that will be added to the WQX in the future.',
-  WQXWEBTRAINING1: '',
+  WQXWEBTRAINING1: 'Volunteer',
   WQXWEBTRAINING10: 'Volunteer',
   WQXWEBTRAINING11: 'Volunteer',
   WQXWEBTRAINING12: '',
@@ -1654,7 +1653,7 @@ export default {
   WQXWEBTRAINING17: '',
   WQXWEBTRAINING18: '',
   WQXWEBTRAINING19: '',
-  WQXWEBTRAINING2: '',
+  WQXWEBTRAINING2: 'Poarch Band of Creek Indians;',
   WQXWEBTRAINING21: '',
   WQXWEBTRAINING22: 'Northern Basin WVDEP NPS program',
   WQXWEBTRAINING23: '',
@@ -1665,7 +1664,7 @@ export default {
   WQXWEBTRAINING27: '',
   WQXWEBTRAINING28: '',
   WQXWEBTRAINING29: '',
-  WQXWEBTRAINING3: '',
+  WQXWEBTRAINING3: 'Volunteer',
   WQXWEBTRAINING30: '',
   WQXWEBTRAINING4:
     'Will be used to store the historical GLENDA data that will be added to the WQX in the future.',

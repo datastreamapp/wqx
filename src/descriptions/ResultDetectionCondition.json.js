@@ -36,6 +36,8 @@ export default {
     'Continuous or time series sampling attached in raw data file',
   Trace:
     'a very small quantity, especially one too small to be accurately measured.',
+  'Unable to Measure':
+    'Measurement or sample collection was attempted but unobtainable due to site conditions, equipment failure, or other circumstances',
   'Value Decensored':
     'Value Decensored -  reconstruct or remove the objectionable values of a measurement set'
 }

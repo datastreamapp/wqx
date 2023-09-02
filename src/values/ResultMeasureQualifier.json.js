@@ -233,6 +233,7 @@ export default {
     'VS',
     'VVRR',
     'VVRR2',
+    'ZZ',
     '^'
   ],
   maxLength: 5

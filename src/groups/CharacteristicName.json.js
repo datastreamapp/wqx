@@ -20679,6 +20679,7 @@ export default {
   'Erythromycin-anhydro': 'Organics, Other',
   Escherichia: 'Microbiological',
   'Escherichia coli': 'Microbiological',
+  'Escherichia coli DNA': 'Not Assigned',
   'Escherichia coli proportional contribution by human (%)': 'Not Assigned',
   'Escherichia coli proportional contribution by livestock (%)': 'Not Assigned',
   'Escherichia coli proportional contribution by pet (%)': 'Not Assigned',

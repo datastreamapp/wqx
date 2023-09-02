@@ -24,6 +24,7 @@ export default {
     'Present Below Quantification Limit',
     'Reported in Raw Data (attached)',
     'Trace',
+    'Unable to Measure',
     'Value Decensored'
   ],
   maxLength: 35
