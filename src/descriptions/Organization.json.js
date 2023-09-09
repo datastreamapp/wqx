@@ -1096,6 +1096,7 @@ export default {
   OARS: 'OARS - For the Assabet Sudbury & Concord Rivers',
   OCC: 'The OCC organization is for data associated with the Otter Creek watershed, specifically with the Otter Creek Coal area.',
   OCDWEP_WQX: 'Onondaga County Department of Water Environment Protection',
+  OCSN: '',
   OESERLSCA_WQX:
     'Region 10: Oeser Property, Little Squalicum Creek Area, Bellingham, WA',
   OGLALAST:
@@ -1172,7 +1173,7 @@ export default {
     'Pawnee Nation of Oklahoma (Tribal) || Pawnee Nation of Oklahoma (Tribal)',
   POARCHCRK_WQX:
     'Poarch Band of Creeks (Tribal) || Poarch Band of Creek Indians (Tribal)',
-  POLSWATER_WQX: 'Pueblo of Laguna || Pueblo of Laguna (Tribal)',
+  POLSWATER_WQX: 'Pueblo of Laguna',
   POMO989_WQX: ' (Tribal)',
   PORTGRAHAM:
     'Port Graham Village Council (Tribal) || Port Graham Village Council (Tribal)',
@@ -1203,7 +1204,7 @@ export default {
   PUEBLOJEMEZ: 'Pueblo of Jemez (Tribal) || Pueblo of Jemez (Tribal)',
   PUEBLOOFTESUQUE: 'Pueblo Of Tesuque || Pueblo Of Tesuque (Tribal)',
   PUEBLOWMD: 'Colorado',
-  PUEBLO_POJOAQUE: 'Pueblo of Pojoaque || Pueblo of Pojoaque (Tribal)',
+  PUEBLO_POJOAQUE: 'Pueblo of Pojoaque Environment Department',
   PUEBLO_SANTAANA: '',
   PUJ: '',
   PUR_WQX: 'Joe Carnes, Current VolMon group',
@@ -1304,7 +1305,7 @@ export default {
   SANCARLOSAPACHETRIBE:
     'San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal) || San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal)',
   SANDIAWQ_WQX: 'Pueblo of Sandia Water Quality Program (New Mexico)',
-  SANFELIPE_WQX: 'San Felipe Pueblo || San Felipe Pueblo (Tribal)',
+  SANFELIPE_WQX: 'San Felipe Pueblo, NM',
   SANILDEFONSODECP:
     'San Ildefonso Pueblo, NM (Tribal) || San Ildefonso Pueblo, NM (Tribal)',
   SANMANUEL:
@@ -1450,7 +1451,7 @@ export default {
     'Table Mountain Rancheria of California (Tribal) || Table Mountain Rancheria of California (Tribal)',
   TAKSHANUK: 'Takshanuk Watershed Council Water Quality Monitoring',
   TAMUCC: 'Texas A&M University-Corpus Christi',
-  TAOSPBLO_WQX: 'Pueblo of Taos || Pueblo of Taos (Tribal)',
+  TAOSPBLO_WQX: 'Pueblo of Taos',
   TCEQMAIN:
     'The Texas Commission on Environmental Quality (TCEQ) is the environmental agency for the state',
   TDECDOE_WQX: 'DOE Oversight Office',

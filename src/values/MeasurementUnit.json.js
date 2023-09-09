@@ -65,6 +65,7 @@ export default {
     'JCU',
     'JTU',
     'Joules',
+    'Kohm-cm',
     'L',
     'L/day',
     'L/hr',

@@ -65,6 +65,8 @@ export default {
   JCU: 'Light Intensity, Jackson Candle Units',
   JTU: 'Turbidity, Jackson Turbidity Units',
   Joules: 'Energy, Joules',
+  'Kohm-cm':
+    'Electric Resistivity, Kilo-ohms - centimeter (symbol: KΩcm). Resistance R is expressed in Kilo Ohm (KΩ) and distances are expressed in centimeters (cm)',
   L: 'Volume, Liters',
   'L/day': 'Flow, Liters per day',
   'L/hr': 'Flow, Liters per hour',

@@ -650,7 +650,7 @@ export default {
   10027: '',
   10028: '',
   10029:
-    '10029 ~ Hach Co. . E. coli by m-ColiBlue24 Broth Procedure for Membrane Filtration',
+    'Coliforms: Membrane Filtration (simultaneous detection) In: Hach Analytical Procedures. m-ColiBlue24 Broth Procedure for Membrane Filtration. Hach Product Literature #8433. Hach: Loveland, CO. Dec.',
   10031: '',
   10071: '',
   10072: '',
@@ -832,6 +832,8 @@ export default {
   '1002.0': '',
   '1002G': '',
   '100P': '100P EPA ASB.pdf',
+  '10150 B':
+    'Determining Chlorophyll a in the Presence of Pheophytin a.  https://www.standardmethods.org/doi/10.2105/SMWW.2882.253',
   '101A': '',
   '10200-F': '',
   '10200-G': '',
@@ -1683,12 +1685,11 @@ export default {
   '4500-NH3 B': '4500-NH3 B ~ Standard Methods . Ammonia by Titration',
   '4500-NH3 B PRE':
     '4500-NH3 B ~ Standard Methods . Ammonia: Preliminary Distillation Step',
-  '4500-NH3 C':
-    'Ammonia is titrated with standard sulfiuric acid using a mixed indicator of methyl red and methylene blue.',
+  '4500-NH3 C': '4500-NH3 C ~ Standard Methods . Ammonia by Titration',
   '4500-NH3 D':
-    'The ammonia-selective electrode uses a hydrophobic gas-permeable membrane to separate the sample solution from an electrode internal solution of ammonium chloride. ',
+    '4500-NH3 D ~ Standard Methods . Ammonia by Selective Electrode',
   '4500-NH3 E':
-    'This method is applicable to the measurement of 0.03 to 1400 mg NH3-N/L in potable and surface waters and domestic and industrial wastes. High concentrations of dissolved ions affect the measurement, but color and turbidity do not. Sample distillation is unnecessary.',
+    '4500-NH3 E ~ Standard Methods . Ammonia by Selective Electrode Methods Using Known Addition',
   '4500-NH3 G***retired*** 4500-NH3(G)':
     '4500-NH3 G ~ Standard Methods . Ammonia by Automated Phenate',
   '4500-NH3 H':
@@ -1703,7 +1704,13 @@ export default {
   '4500-NH3(G)': 'https://www.nemi.gov/methods/method_summary/7410/',
   '4500-NH3(H)***retired*** 4500-NH3 H':
     'https://www.nemi.gov/methods/method_summary/9697/',
-  '4500-NH3 G':
+  '4500-NH3 C***retired*** 4500-NH3 C':
+    'Ammonia is titrated with standard sulfiuric acid using a mixed indicator of methyl red and methylene blue.',
+  '4500-NH3 D***retired*** 4500-NH3 D':
+    'The ammonia-selective electrode uses a hydrophobic gas-permeable membrane to separate the sample solution from an electrode internal solution of ammonium chloride. ',
+  '4500-NH3 E***retired*** 4500-NH3 E':
+    'This method is applicable to the measurement of 0.03 to 1400 mg NH3-N/L in potable and surface waters and domestic and industrial wastes. High concentrations of dissolved ions affect the measurement, but color and turbidity do not. Sample distillation is unnecessary.',
+  '4500-NH3 G***retired***4500-NH3(G)':
     'Alkaline phenol and hypochlorite react with ammonia to form indophenol blue that is proportional to the ammonia concentration. The blue color formed is intensified with sodium nitroprusside.',
   '4500-NO2': '',
   '4500-NO2 - B***retired**4500-NO2(B)': '',

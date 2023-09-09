@@ -12800,6 +12800,7 @@ export default {
   Azithromycin: 'Nemi.gov; Request Date: 02-MAR-07',
   'Azithromycin-d3': 'NWIS',
   Azobenzene: 'Nemi.gov; Request Date: 22-JUL-14',
+  'Azobenzene/1,2-Diphenylhydrazine': '',
   Azorubinol: 'Request Date: 6-Apr-19 (nps.gov cas# review)',
   Azothoate: '; Request Date: 27-MAR-19',
   Azoxystrobin: '; Request Date: 22-JUL-14',
@@ -15967,6 +15968,8 @@ export default {
   'Decanoyl fluoride, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-octadecafluoro-9-(trifluoromethyl)-':
     '',
   'Decapropylene glycol': '; Request Date: 08-APR-19',
+  'Dechlorane 602': '',
+  'Dechlorane 603': '',
   Dechloroacetochlor: 'NWIS',
   Dechloroalachlor: 'NWIS',
   Dechlorodimethenamid: 'NWIS',
@@ -17863,6 +17866,7 @@ export default {
   'Glufosinate-ammonium':
     'EPA Substance Registry System - www.epa.gov/srs; Request Date: 22-MAY-18',
   'Glufosinate-d3': 'surrogates',
+  Glutaraldehyde: '',
   'Glutaronitrile, perfluoro-': '',
   Glyburide:
     'Request Date: 05-DEC-12| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -21095,6 +21099,7 @@ export default {
   'Naphthalene, 1-(2,2,3,3-tetrafluorocyclopropyl)-': '',
   'Naphthalene, 2,7-dichloro-': '; Request Date: 26-JAN-18',
   'Naphthalene, 2-(1,1,2,2-tetrafluoroethoxy)-': '',
+  'Naphthalene, 2-bromo-': '',
   'Naphthalene, 2-methylnaphthalene mix': '; Request Date: 30-JUN-14',
   'Naphthalene, [difluoro(1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)methyl]heptadecafluorodecahydro-':
     '',
@@ -25441,6 +25446,7 @@ export default {
   'Sediment core': 'NLA Sediment; Request Date: 27-JUN-16',
   'Sediment core sample collected (Y/N) (choice list)':
     'NLA Sediment; Request Date: 11-APR-17',
+  'Sediment percent organic': '',
   'Sediment sample from a reference point':
     'NLA Sediment; Request Date: 27-JUN-16',
   'Sediment, inorganic, classification (choice list)':
@@ -26611,6 +26617,7 @@ export default {
   Tetracycline: '; Request Date: 02-MAR-07',
   'Tetracycline hydrochloride': '; Request Date: 02-MAR-07',
   'Tetracycline-D6': '',
+  'Tetradecachloro-m-terphenyl': '',
   'Tetradecafluoroheptan-4-one': '',
   Tetradecafluorooctahydropentalene: '',
   Tetradecanal: '',
@@ -27249,6 +27256,7 @@ export default {
   'Triethoxy{3-[(heptadecafluorooctyl)oxy]propyl}silane': '',
   'Triethyl citrate': 'Nemi.gov; Request Date: 02-MAR-07',
   'Triethyl phosphate': '',
+  'Triethyl-2-acetylcitrate': '',
   'Triethylaminium perfluoro-2-(2-propoxypropoxy)propanoate': '',
   'Triethylaminium perfluoro-2-propoxypropanoate': '',
   'Triethylammonium perfluorobutane sulfonate': '',

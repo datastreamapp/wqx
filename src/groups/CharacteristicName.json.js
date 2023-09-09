@@ -16383,6 +16383,7 @@ export default {
   Azithromycin: 'Organics, Other',
   'Azithromycin-d3': 'Not Assigned',
   Azobenzene: 'Organics, Pesticide',
+  'Azobenzene/1,2-Diphenylhydrazine': 'Not Assigned',
   Azorubinol: 'Not Assigned',
   Azothoate: 'Organics, Pesticide',
   Azoxystrobin: 'Organics, Pesticide',
@@ -19795,6 +19796,8 @@ export default {
   'Decanoyl fluoride, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-octadecafluoro-9-(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Decapropylene glycol': 'Not Assigned',
+  'Dechlorane 602': 'Not Assigned',
+  'Dechlorane 603': 'Not Assigned',
   Dechloroacetochlor: 'Not Assigned',
   Dechloroalachlor: 'Not Assigned',
   Dechlorodimethenamid: 'Not Assigned',
@@ -21849,6 +21852,7 @@ export default {
   Glufosinate: 'Organics, Other',
   'Glufosinate-ammonium': 'Not Assigned',
   'Glufosinate-d3': 'Not Assigned',
+  Glutaraldehyde: 'Not Assigned',
   'Glutaronitrile, perfluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   Glyburide: 'Organics, Other',
   'Glyburide-d3': 'Not Assigned',
@@ -25463,6 +25467,7 @@ export default {
   'Naphthalene, 2,7-dichloro-': 'Not Assigned',
   'Naphthalene, 2-(1,1,2,2-tetrafluoroethoxy)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Naphthalene, 2-bromo-': 'Not Assigned',
   'Naphthalene, 2-methylnaphthalene mix': 'Not Assigned',
   'Naphthalene, [difluoro(1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)methyl]heptadecafluorodecahydro-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -30190,6 +30195,7 @@ export default {
   'Sediment Oxygen Demand': 'Not Assigned',
   'Sediment core': 'Not Assigned',
   'Sediment core sample collected (Y/N) (choice list)': 'Not Assigned',
+  'Sediment percent organic': 'Not Assigned',
   'Sediment sample from a reference point': 'Not Assigned',
   'Sediment, inorganic, classification (choice list)': 'Sediment',
   'Sediment, organic, classification (choice list)': 'Sediment',
@@ -31381,6 +31387,7 @@ export default {
   Tetracycline: 'Organics, Other',
   'Tetracycline hydrochloride': 'Not Assigned',
   'Tetracycline-D6': 'Not Assigned',
+  'Tetradecachloro-m-terphenyl': 'Not Assigned',
   'Tetradecafluoroheptan-4-one': 'PFAS,Perfluorinated Alkyl Substance',
   Tetradecafluorooctahydropentalene: 'PFAS,Perfluorinated Alkyl Substance',
   Tetradecanal: 'Not Assigned',
@@ -32018,6 +32025,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Triethyl citrate': 'Organics, Other',
   'Triethyl phosphate': 'Not Assigned',
+  'Triethyl-2-acetylcitrate': 'Not Assigned',
   'Triethylaminium perfluoro-2-(2-propoxypropoxy)propanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Triethylaminium perfluoro-2-propoxypropanoate':
