@@ -1074,6 +1074,7 @@ export default {
     'SELDOVIA',
     'SENECA_WQX',
     'SFBED_WQX',
+    'SFEI',
     'SFNOES_WQX',
     'SHELLYAB_WQX',
     'SHOPAITR_WQX',

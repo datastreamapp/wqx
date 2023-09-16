@@ -3,6 +3,16 @@
   "title": "Taxon Group",
   "description": "",
   "type": "string",
-  "enum": ["Fish/Nekton", "Not Assigned", "Terrestrial Vegetation"],
-  "maxLength": 22
+  "enum": [
+    "Aquatic Vegetation",
+    "Bacteria/Virus",
+    "Benthic Macroinvertebrates",
+    "Corals",
+    "Fish/Nekton",
+    "Invertebrates",
+    "Not Assigned",
+    "Phytoplankton/Zooplankton",
+    "Terrestrial Vegetation"
+  ],
+  "maxLength": 26
 }

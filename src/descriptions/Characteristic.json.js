@@ -17620,7 +17620,7 @@ export default {
   Florfenicol: 'NWIS',
   'Florfenicol-d3': '',
   'Florpyrauxifen-benzyl': 'NWIS',
-  Flow: '14;The movement of water, sludge or other materials given in terms of volume with respect to time.Nemi.gov; Request Date: 02-MAR-07',
+  Flow: 'The movement of water, sludge or other materials given in terms of volume with respect to time.',
   'Flow at reach constriction (choice list)': '',
   'Flow over riffle(s) (choice list)': '',
   'Flow over run (choice list)': '',

@@ -8,6 +8,8 @@ export default {
   'Contract Quantitation Limit':
     '- Minimum level of reliable quantitation acceptable under the contract Statement of Work (SOW).',
   'Daily detection limit': 'Daily detection limit',
+  'Detection Limit':
+    'A detection limit value was reported, but the type is unknown.',
   'Detection limit by DQCALC':
     'Lowest concentration, with 90% confidence, will be exceeded no more than 1 percent when a blank sample is measured. Detection limit by DLDQC is the critical level "Lc" by ASTM D6091, nearly equal MDL.',
   'Drinking Water Maximum':
@@ -42,7 +44,8 @@ export default {
   'Minimum Reporting Level':
     'Minimum Reporting Level is the smallest measured concentration of a constituent that can be reliably measured using a given analytical method',
   'Practical Quantitation Limit': 'Practical Quantitation Limit (PQL)',
-  'Reporting limit': 'Reporting limit',
+  'Reporting limit':
+    'Reporting limit (RL) is defined as the smallest concentration of a chemical that can be reported by a laboratory.',
   'Reporting limit by DQCALC':
     'Greater than or equal to two times the detection limit by DQCALC, where the detection limit by DQCALC is the critical level "Lc" by ASTM D6091. DQCALC software used to determine limits (ASTM D7510-10)',
   'Required detection limit':

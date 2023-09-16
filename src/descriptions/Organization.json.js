@@ -501,7 +501,7 @@ export default {
     'Coquille Indian Tribe (Tribal) || Coquille Indian Tribe (Tribal)',
   COQUILLE_WA: 'Current VolMon group',
   CORIVWCH_WQX: 'Water Quality Monitoring',
-  CORTINARANCHERIA_WQX: 'Kelly Baucom || Kelly Baucom',
+  CORTINARANCHERIA_WQX: 'Cortina Rancheria Kletsel Dehe Wintun Nation',
   COYOTEVAL_WQX:
     'Coyote Valley Band of Pomo Indians of California (Tribal) || Coyote Valley Band of Pomo Indians of California (Tribal)',
   CPNWATER:
@@ -1348,6 +1348,7 @@ export default {
     'Seldovia Village Tribe (Tribal) || Seldovia Village Tribe (Tribal)',
   SENECA_WQX: '',
   SFBED_WQX: 'South Fork Band Environmental Department',
+  SFEI: '',
   SFNOES_WQX: ' (Tribal)',
   SHELLYAB_WQX: 'Water Quality Monitoring Data.',
   SHOPAITR_WQX:
