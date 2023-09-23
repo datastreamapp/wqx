@@ -12454,6 +12454,7 @@ export default {
   "A'-Neogammacerane, (17.alpha.)-": '13849-96-2',
   "A'-Neogammacerane, (21.beta.)-": '1176-44-9',
   'AB-PINACA 4-hydroxypentyl': '',
+  ACET: '936095-50-0',
   'AD-67 antidote': '',
   AHTN: '21145-77-7',
   'AMPA (glyphosate metabolite)': '1066-51-9',
@@ -14314,6 +14315,7 @@ export default {
     '300571-21-5',
   'Benzoic acid, 2-(phenylthio)-, 2,2,2-trifluoro-1-phenyl-1-(trifluoromethyl)ethyl ester+E955':
     '37847-84-0',
+  'Benzoic acid, 2-amino-4-(methylsulfonyl)-': '393085-45-5',
   'Benzoic acid, 2-chloro-4-fluoro-5-(2-methoxy-6-oxo-4-(pentafluoroethyl)-1(6H)-pyrimidinyl)-, 1-methyl ethyl ester':
     '115784-92-4',
   'Benzoic acid, 2-hydroxy-4-(2,2,3,3-tetrafluoropropoxy)-': '651331-94-1',
@@ -17011,6 +17013,7 @@ export default {
   'Docosanoic acid, methyl ester': '929-77-1',
   Docosapentaenoic: '24880-45-3',
   'Docosatetraenoic acid': '122068-08-0',
+  Docosatetraenylethanolamide: '150314-35-5',
   'Dodecafluoro-3H-4,8-dioxanonanoate': '',
   'Dodecafluorohexane-1,6-disulfonyl difluoride': '144368-88-7',
   Dodecafluorooctanedinitrile: '3885-85-6',

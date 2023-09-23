@@ -11858,6 +11858,7 @@ export default {
   "A'-Neogammacerane, (17.alpha.)-": '17alpha(H),21beta(H)-Hopane',
   "A'-Neogammacerane, (21.beta.)-": '17beta(H),21alpha(H)-Hopane',
   'AB-PINACA 4-hydroxypentyl': '; Request Date: 22-AUG-17',
+  ACET: '',
   'AD-67 antidote': 'NWIS',
   AHTN: 'Nemi.gov; Request Date: 22-JUL-14',
   'AMPA (glyphosate metabolite)***retired***use Aminomethylphosphonic acid':
@@ -13837,6 +13838,7 @@ export default {
     'Isoxaflutole methylbenzoate RPA204',
   'Benzoic acid, 2-(phenylthio)-, 2,2,2-trifluoro-1-phenyl-1-(trifluoromethyl)ethyl ester+E955':
     '',
+  'Benzoic acid, 2-amino-4-(methylsulfonyl)-': '',
   'Benzoic acid, 2-chloro-4-fluoro-5-(2-methoxy-6-oxo-4-(pentafluoroethyl)-1(6H)-pyrimidinyl)-, 1-methyl ethyl ester':
     '',
   'Benzoic acid, 2-hydroxy-4-(2,2,3,3-tetrafluoropropoxy)-': '',
@@ -16655,6 +16657,7 @@ export default {
     'Wisconsin DNR - Rehwald, Matt - DNR <Matt.Rehwald@wisconsin.gov>; Request Date: 05-OCT-16',
   'Docosatetraenoic acid':
     'Wisconsin DNR - Rehwald, Matt - DNR <Matt.Rehwald@wisconsin.gov>; Request Date: 05-OCT-16',
+  Docosatetraenylethanolamide: '',
   'Dodecafluoro-3H-4,8-dioxanonanoate': '',
   'Dodecafluorohexane-1,6-disulfonyl difluoride': '',
   Dodecafluorooctanedinitrile: '',

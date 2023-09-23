@@ -387,7 +387,6 @@ export default [
   'Bodianus bodianus***retired***use Bodianus rufus',
   'Bodianus brachyrhynus***retired***use Bodianus rufus',
   'Bodianus russelli***retired***use Polylepion russelli',
-  'Bohadschia argus***retired***use Holothuria argus',
   'Bolbometopon bicolor***retired***use Cetoscarus bicolor',
   'Bolitocharini***retired***use Homalotini',
   'Borodinula gilli***retired***use Avocettina infans',

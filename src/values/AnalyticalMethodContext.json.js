@@ -76,6 +76,7 @@ export default {
     'PACE LABS',
     'PALINTEST LTD',
     'PRACTICAL STATS',
+    'QuickDrops',
     'R-BIOPHARM',
     'RSC',
     'SEAL',

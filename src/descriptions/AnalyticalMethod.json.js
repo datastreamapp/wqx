@@ -829,7 +829,7 @@ export default {
   100.2: '100.2 ~ EPA-NERL . Asbestos in Water by TEM',
   '1000.0': '',
   '1002-8-2009': '',
-  '1002.0': '',
+  '1002.0**ret**use TEST METHOD 1002.0': '',
   '1002G': '',
   '100P': '100P EPA ASB.pdf',
   '10150 B':
@@ -3308,6 +3308,8 @@ export default {
   'FT-SG': 'Ft-SG ~ EPA-OW . Francisella tularensis plate count method',
   'Field Sampling':
     'https://www.pacelabs.com/assets/documents/Environmental/capabilities-2015.pdf',
+  Field_SOP:
+    'Measurements collected from a meter, sonde, or other field equipment according to Standard Operating Procedure. Contact data collecting organization or visit QuickDrops.org to obtain more information.  https://www.savethesound.org/quickdrops-test/',
   'G-01': '',
   'G-03':
     'G-03 ~ DOE EML . Microprecipitation Source Preparation for Alpha Spectrometry',

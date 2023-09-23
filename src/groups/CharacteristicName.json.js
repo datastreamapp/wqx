@@ -15415,6 +15415,7 @@ export default {
   "A'-Neogammacerane, (17.alpha.)-": 'Organics, Other',
   "A'-Neogammacerane, (21.beta.)-": 'Organics, Other',
   'AB-PINACA 4-hydroxypentyl': 'Organics, Other',
+  ACET: 'Not Assigned',
   'AD-67 antidote': 'Not Assigned',
   AHTN: 'Not Assigned',
   'AMPA (glyphosate metabolite)': 'Organics, Pesticide',
@@ -17475,6 +17476,7 @@ export default {
     'Organics, Pesticide',
   'Benzoic acid, 2-(phenylthio)-, 2,2,2-trifluoro-1-phenyl-1-(trifluoromethyl)ethyl ester+E955':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Benzoic acid, 2-amino-4-(methylsulfonyl)-': 'Not Assigned',
   'Benzoic acid, 2-chloro-4-fluoro-5-(2-methoxy-6-oxo-4-(pentafluoroethyl)-1(6H)-pyrimidinyl)-, 1-methyl ethyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
   'Benzoic acid, 2-hydroxy-4-(2,2,3,3-tetrafluoropropoxy)-':
@@ -20506,6 +20508,7 @@ export default {
   'Docosanoic acid, methyl ester': 'Not Assigned',
   Docosapentaenoic: 'Not Assigned',
   'Docosatetraenoic acid': 'Not Assigned',
+  Docosatetraenylethanolamide: 'Not Assigned',
   'Dodecafluoro-3H-4,8-dioxanonanoate': 'Not Assigned',
   'Dodecafluorohexane-1,6-disulfonyl difluoride':
     'PFAS,Perfluorinated Alkyl Substance',

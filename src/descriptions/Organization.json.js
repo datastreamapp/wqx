@@ -308,6 +308,7 @@ export default {
   AWQDECJN_WQX: '',
   AWRC: '',
   AWRL: '',
+  AWW_WQX: 'Citizen Science Monitoring Program',
   AZDEQ_GW: 'Water Quality Division: Groundwater',
   AZDEQ_SW: 'Water Quality Division: Surface Water',
   AZDEQ_WPD: 'Waste Programs Division',
@@ -421,7 +422,6 @@ export default {
   CENTREAL_WQX: '',
   CENWWEDH_WQX: 'Water Quality Data',
   CEPACBMI_WQX: '',
-  'CFE-STS': '1143930, Save the Sound, Water Quality Monitoring',
   CGWPCF: 'Colorado',
   CHARLOTTEHARBOREC_WQX: '',
   CHATFLD_WQX: 'Water Quality Data',
@@ -836,8 +836,7 @@ export default {
   LCWCD_WQX:
     'Lincoln Soil and Water Conservation District *Contact - Audrey Sweet',
   LDEQ319: 'Louisiana Department of Environmental Quality',
-  LDFWATER2007:
-    'Lac Du Flambeau Band of Lake Superior Chippewa Indians Water Program (Tribal) || Lac Du Flambeau Band of Lake Superior Chippewa Indians Water Program (Tribal)',
+  LDFWATER2007: 'Water Quality Monitoring Data.',
   LEECHLAK_WQX: '',
   LEIGHROCKS: 'Contact Name: Leigh Lager',
   LEVELOCK: 'Levelock Village (Tribal) || Levelock Village (Tribal)',
@@ -1431,6 +1430,7 @@ export default {
   STORLVD_WQX:
     'Lac Vieux Desert Band of Lake Superior Chippewa || Lac Vieux Desert Band of Lake Superior Chippewa (Tribal)',
   STROUD_WQX: 'Water Quality Monitoring Data',
+  STS: '1143930, Save the Sound, Water Quality Monitoring',
   ST_CROIX_WQX:
     'St. Croix Chippewa Indians of Wisconsin (Tribal) || St. Croix Chippewa Indians of Wisconsin (Tribal)',
   SUMFS: 'Stockton University Marine Field Station',

@@ -5257,7 +5257,7 @@ export default {
     'Boguea enigmatica',
     'Bogueinae',
     'Boguella',
-    'Bohadschia argus***retired***use Holothuria argus',
+    'Bohadschia argus',
     'Bohadschia marmorata',
     'Bohadschia vitiensis',
     'Bolbometopon',
