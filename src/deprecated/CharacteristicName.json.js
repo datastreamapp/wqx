@@ -284,7 +284,6 @@ export default [
   'Hydrolyzable phosphorus plus orthophosphate***retired***use Phosphorus, hydrolyzable plus orthophosphate',
   'Ibuprofen***retired***use Benzeneacetic acid, .alpha.-methyl-4-(2-methylpropyl)-',
   'Inorganic nitrogen (ammonia, nitrate and nitrite)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)',
-  'Inorganic nitrogen (nitrate and nitrite and ammonia)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)',
   'Inorganic nitrogen (nitrate and nitrite) ***retired***use Nitrate + Nitrite',
   'Inorganic nitrogen***retired***use Inorganic nitrogen (NO2, NO3, & NH3)',
   'Methylprednisolone***retired***use Pregna-1,4-diene-3,20-dione, 11,17,21-trihydroxy-6-methyl-, (6.alpha.,11.beta.)-',

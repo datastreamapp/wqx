@@ -37,6 +37,8 @@ export default {
   AMS: 'A method to calculate expanded uncertainty where sample size =7( 7 measures of one sample)',
   'AMS+':
     'A method to calculate expanded uncertainty where sample size =7 ( based on 7 measures of different samples)',
+  'Area-Weighted Mean':
+    'The mean value of a set, weighted by the area over which individual values in the set were measured',
   BAV: 'Beach Action Values - level of concentration, 75th percentile of the geometric mean of the water samples (the value at which beach advisories should be issued.)',
   BNT: 'Beach notification threshold – A water quality value selected by a state or tribe that is used to “trigger” a beach notification.',
   'Coefficient of error':
@@ -48,6 +50,9 @@ export default {
   'Daily Geometric Mean':
     'Calculating a geometric mean (a daily period) provides a number that is more representative of the median and helps reduce the effect of a few extreme values.',
   'Daily Maximum': 'The largest value of a set, each period of a day cycle',
+  'Daily Mean': 'The mean value of a set, each period of a day cycle',
+  'Daily Median':
+    'The  median value of a set (also known as the 50 Pctl), each period of a day cycle',
   'Daily Minimum': 'The smallest value of a set, each period of a day cycle',
   Delta: 'The measurable difference between two points or results themselves',
   'Geometric Mean':
@@ -58,6 +63,8 @@ export default {
     'The rate of change at a particular moment. Same as the value of the derivative at a particular point.',
   Kurtosis:
     'a measure of whether the data are peaked or flat relative to a normal distribution. The sharpness of the peak of a frequency-distribution curve.',
+  'Log Standard Error':
+    'This is the standard deviation of the sample mean, xBar, and describes its accuracy as an estimate of the population mean, mu, for values in logarithmic units.',
   MPN: 'Most Probable Number (MPN) is a method used to estimate the concentration of viable microorganisms in a sample by means of replicate liquid broth growth in ten-fold dilutions.',
   Maximum:
     'The maximum is a unique number for a given set of data. This number can be repeated, but there is only one maximum for a data set',

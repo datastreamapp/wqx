@@ -1103,6 +1103,7 @@ export default {
     'SNSA_WQX',
     'SOBOBA_WQX',
     'SOKAOGON_WQX',
+    'SONOMAWATER_WQX',
     'SOUTHSANTIAM_WC',
     'SOUTHUTE',
     'SOU_WQX',

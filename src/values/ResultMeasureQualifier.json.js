@@ -126,6 +126,7 @@ export default {
     'J',
     'J+',
     'J-',
+    'J-1',
     'J-R',
     'JCN',
     'JCW',

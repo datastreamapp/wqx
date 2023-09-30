@@ -124,6 +124,7 @@ export default {
   J: 'Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample.',
   'J+': 'Estimated: The analyte was positively identified and the associated numerical value... +++.',
   'J-': 'The analyte was positively identified; the associated numerical value is the approximate concentration of the analyte in the sample, and may have a potential negative bias.',
+  'J-1': 'Estimated value. A full explanation is presented in the narrative.',
   'J-R':
     'Approximate value result is below the reporting level but greater than the method detection limit',
   JCN: 'Sample Container Damaged, no sample lost',

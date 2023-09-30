@@ -1390,6 +1390,7 @@ export default {
     'Soboba Band of Luiseno Indians, California (Tribal) || Soboba Band of Luiseno Indians, California (Tribal)',
   SOKAOGON_WQX:
     'Sokaogon Chippewa Community || Sokaogon Chippewa Community (Tribal)',
+  SONOMAWATER_WQX: '',
   SOUTHSANTIAM_WC: 'Eric Anderson, Current VolMon group',
   SOUTHUTE: '',
   SOU_WQX: 'Southern Oregon University',

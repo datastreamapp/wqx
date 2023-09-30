@@ -6188,8 +6188,10 @@ export default {
   '2,3,6-Trimethylnaphthalene': 'Nemi.gov; Request Date: 02-MAR-07',
   '2,3,7,8,-Tetrachlorodibenzo-p-dioxin': '',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin': 'Nemi.gov; Request Date: 02-MAR-07',
+  '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEC': '',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ':
     'Request Date: 22-JUL-14| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TTE': '',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin-C13':
     'PBDE Delaware River Basin Commission/New Jersey; Request Date: 17-JUN-16',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin-Cl37':
@@ -18694,8 +18696,6 @@ export default {
     'EPA Workgroup QA; Request Date: 21-FEB-17',
   'Inorganic nitrogen (ammonia, nitrate and nitrite)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)':
     'EPA Workgroup QA; Request Date: 09-JAN-14',
-  'Inorganic nitrogen (nitrate and nitrite and ammonia)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)':
-    'NWIS',
   'Inorganic nitrogen (nitrate and nitrite) ***retired***use Nitrate + Nitrite':
     'EPA Workgroup QA; Request Date: 02-MAR-07',
   'Inorganic nitrogen***retired***use Inorganic nitrogen (NO2, NO3, & NH3)':
@@ -22917,7 +22917,6 @@ export default {
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   'Perfluoroheptanesulfonic Acid***retired***use 1-Heptanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-':
     'Request Date: 19-Nov-18 (nps.gov cas# review)',
-  'Perfluoroheptanesulfonic acid': '',
   Perfluoroheptanoate: 'Request Date: 01-APR-13, cas# 375-85-9',
   'Perfluoroheptanoate (anionic form)': 'Request Date: 05-Dec-19',
   'Perfluoroheptanoic acid': 'Request Date: 22-JUL-14',
