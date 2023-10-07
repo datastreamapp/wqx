@@ -177,9 +177,12 @@ export default {
   J: 'Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample.',
   'J+': 'Estimated: The analyte was positively identified and the associated numerical value... +++.',
   'J-': 'The analyte was positively identified;\r the associated numerical value is the\r approximate concentration of the\r analyte in the sample, and may have \na potential negative bias.\r\n',
+  'J-1Z':
+    'A full explanation is presented in the narrative. Holding time and/or preservation requirements not established for this method;BAL recommendations for holding time were not followed.',
   'J-1ZJ':
     'Estimated. A full explanation is presented in the narrative. Holding time and/or preservation requirements not established for this method;BAL recommendations for holding time were not followed.',
   'J-HT': 'Approximate value analysis exceeded the holding time ',
+  'J-J': 'Estimated. A full explanation is presented in the narrative.',
   'J-MI': 'Approximate value due to matrix interference',
   'J-QC': 'Approximate value due to quality control problems',
   'J-R':

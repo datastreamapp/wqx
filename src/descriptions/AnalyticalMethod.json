@@ -2915,7 +2915,7 @@
   "FOR SMALL WATERSHEDS": "Cumulative uncertainty in measured streamflow and water quality data for small watersheds ~ USDA-ARS . Harmel, R.D., R.J. Cooper, R.M. Slade, R.L. Haney, and J.G. Arnold",
   "FT-SG": "Ft-SG ~ EPA-OW . Francisella tularensis plate count method",
   "Field Sampling": "https://www.pacelabs.com/assets/documents/Environmental/capabilities-2015.pdf",
-  "Field_SOP": "Measurements collected from a meter, sonde, or other field equipment according to Standard Operating Procedure. Contact data collecting organization or visit QuickDrops.org to obtain more information.  https://www.savethesound.org/quickdrops-test/",
+  "Field_SOP": "Measurements collected from a meter, sonde, or other field equipment according to Standard Operating Procedure. This is meant to be a generic method that indicates the field measurements were collected according to some SOP managed by whatever organization measured/collected the data as part of their QAPP. Contact data collecting organization or visit QuickDrops.org to obtain more information.  https://www.savethesound.org/quickdrops-test/",
   "G-01": "",
   "G-03": "G-03 ~ DOE EML . Microprecipitation Source Preparation for Alpha Spectrometry",
   "GC/MS": "https://www.pacelabs.com/assets/documents/Environmental/capabilities-2015.pdf",

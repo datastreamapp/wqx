@@ -3309,7 +3309,7 @@ export default {
   'Field Sampling':
     'https://www.pacelabs.com/assets/documents/Environmental/capabilities-2015.pdf',
   Field_SOP:
-    'Measurements collected from a meter, sonde, or other field equipment according to Standard Operating Procedure. Contact data collecting organization or visit QuickDrops.org to obtain more information.  https://www.savethesound.org/quickdrops-test/',
+    'Measurements collected from a meter, sonde, or other field equipment according to Standard Operating Procedure. This is meant to be a generic method that indicates the field measurements were collected according to some SOP managed by whatever organization measured/collected the data as part of their QAPP. Contact data collecting organization or visit QuickDrops.org to obtain more information.  https://www.savethesound.org/quickdrops-test/',
   'G-01': '',
   'G-03':
     'G-03 ~ DOE EML . Microprecipitation Source Preparation for Alpha Spectrometry',

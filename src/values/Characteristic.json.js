@@ -12135,6 +12135,8 @@ export default {
     'Data-logger operating voltage',
     'Daunomycin',
     'Daunorubicin-13C-d3',
+    'Day, ice off',
+    'Day, ice on',
     'Ddifluorotris(pentafluoroethyl)phosphorane',
     'Dead',
     'Dead centric diatoms',

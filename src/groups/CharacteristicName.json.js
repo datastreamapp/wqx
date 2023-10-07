@@ -19732,6 +19732,8 @@ export default {
   'Data-logger operating voltage': 'Physical',
   Daunomycin: 'Not Assigned',
   'Daunorubicin-13C-d3': 'Not Assigned',
+  'Day, ice off': 'Physical',
+  'Day, ice on': 'Physical',
   'Ddifluorotris(pentafluoroethyl)phosphorane':
     'PFAS,Perfluorinated Alkyl Substance',
   Dead: 'Physical',
