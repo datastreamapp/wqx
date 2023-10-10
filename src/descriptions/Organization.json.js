@@ -666,8 +666,7 @@ export default {
   FRWA: 'Farmington River Watershed Association',
   FSAWQP_WQX: '',
   FSCD: 'Freehold Soil Conservation District',
-  FTBLKNAP:
-    'Gros Ventre and Assiniboine Tribe (Fort Belknap Indian Res) || Gros Ventre and Assiniboine Tribe (Fort Belknap Indian Res) (Tribal)',
+  FTBLKNAP: '',
   'FWC-CREMP_WQX':
     'Florida Fish and Wildlife Conservation Commission, Fish and Wildlife Research Institute',
   'FWC/FWRI_WQX':
@@ -1411,7 +1410,7 @@ export default {
   SRRTFF: 'Reporting of toxic compounds in the Spokane River',
   SRR_WQX:
     'Tolowa Dee-ni Nation (Smith River Rancheria), California (Tribal) || Tolowa Dee-ni Nation (Smith River Rancheria), California (Tribal)',
-  SRSTEPA: 'Standing Rock Sioux Tribe || Standing Rock Sioux Tribe (Tribal)',
+  SRSTEPA: '',
   SSCW: 'Salem Sound Coastwatch',
   SSD: 'Colorado',
   SSWCD: 'Seth Mead, Current VolMon group',
