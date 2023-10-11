@@ -12776,6 +12776,7 @@ export default {
   'Atorvastatin-d5': 'NWIS',
   Atraton: 'Nemi.gov; Request Date: 02-MAR-07',
   Atrazine: 'Nemi.gov; Request Date: 02-MAR-07',
+  'Atrazine + N-Dealkylated Metabolites': '',
   'Atrazine-13C3': 'NWIS',
   'Atrazine-d5': 'Atrazine-d5',
   'Atrazine-d5 (ethyl-d5)': '; Request Date: 03-DEC-12',
@@ -13782,6 +13783,7 @@ export default {
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous SubstancesRequest Date: 23-SEP-16| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Benzo[a]pyrene': 'Nemi.gov; Request Date: 22-JUL-14',
   'Benzo[a]pyrene-d12': '; Request Date: 24-MAR-14',
+  'Benzo[b,j,k]fluoranthene': '',
   'Benzo[b,j]fluoranthene': '; Request Date: 16-MAY-18',
   'Benzo[b,k]fluoranthene': '; Request Date: 22-OCT-14',
   'Benzo[b]chrysene':
@@ -16848,7 +16850,7 @@ export default {
   'Erythromycin-anhydro': 'Nemi.gov; Request Date: 30-MAY-13',
   Escherichia: 'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   'Escherichia coli': 'Nemi.gov; Request Date: 02-MAR-07',
-  'Escherichia coli DNA': '',
+  'Escherichia coli DNA marker': '',
   'Escherichia coli proportional contribution by human (%)':
     '; Request Date: 30-MAY-13',
   'Escherichia coli proportional contribution by livestock (%)':
@@ -18462,6 +18464,7 @@ export default {
   'Horse copies': '; Request Date: 31-JAN-18',
   'Horse host %': '; Request Date: 31-JAN-18',
   'Hostachem hoe-2838': 'PFAS removal',
+  'Human Enteric viruses': '',
   'Human Influence - Buildings (choice list)': '; Request Date: 04-OCT-18',
   'Human Influence - Landfill/Trash (choice list)': '; Request Date: 04-OCT-18',
   'Human Influence - Logging Operations (choice list)':

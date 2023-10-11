@@ -290,6 +290,7 @@ export default {
     'The AWP is a stakeholder driven, collaborative, watershed-based group made up of partners representing diverse interests across the watershed in New Mexico, the Southern Ute Tribal Lands and Colorado. Current membership is over 100 individuals and entities. The AWP works together across state and Tribal boundaries to protect and improve the quality of water resources in the Animas River.',
   ANTIX_WQX: 'National Park Service',
   APPLEGATE_WC: 'Former VolMon group',
+  AQS: "Beta COPY of AQS which is EPA's repository of ambient air quality data that assists in air quality assessments, designations, modeling for permit review",
   AQUINNAH_WQX:
     'Wampanoag Tribe of Gay Head (Aquinnah) (Tribal) || Wampanoag Tribe of Gay Head (Aquinnah) (Tribal)',
   ARDEQH2O_WQX: '',

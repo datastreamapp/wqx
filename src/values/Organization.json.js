@@ -254,6 +254,7 @@ export default {
     'ANIMASWP',
     'ANTIX_WQX',
     'APPLEGATE_WC',
+    'AQS',
     'AQUINNAH_WQX',
     'ARDEQH2O_WQX',
     'ARMYCORPS',
