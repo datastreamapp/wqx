@@ -26950,6 +26950,7 @@ export default {
   'Total Suspended Particulate Matter': '',
   'Total Tetrachloro Biphenyls': '',
   'Total Trichloro Biphenyls': '',
+  'Total Volatile Hydrocarbons, C6-C10': '',
   'Total beta radioactivity': '',
   'Total carbon': '',
   'Total dissolved solids': '',

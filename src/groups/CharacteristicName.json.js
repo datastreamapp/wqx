@@ -31748,6 +31748,7 @@ export default {
   'Total Suspended Particulate Matter': 'Not Assigned',
   'Total Tetrachloro Biphenyls': 'Not Assigned',
   'Total Trichloro Biphenyls': 'Not Assigned',
+  'Total Volatile Hydrocarbons, C6-C10': 'Not Assigned',
   'Total beta radioactivity': 'Radiochemical',
   'Total carbon': 'Inorganics, Major, Non-metals',
   'Total dissolved solids': 'Physical',

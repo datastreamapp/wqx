@@ -800,7 +800,7 @@ export default {
   'SWAMP RWB': 'https://www.nemi.gov/methods/method_summary/12835/',
   TARRIFFLE:
     'Procedure follows EMAP 2002 Targeted Riffle Standard Operating Procedure',
-  TCEQ: 'https://www.tceq.texas.gov/waterquality/monitoring\r\nQuality Assurance and Monitoring Procedures for Surface Water Quality Monitoring\r\nhttps://www.tceq.texas.gov/waterquality/monitoring/swqm_guides.html',
+  TCEQ: 'https://www.tceq.texas.gov/waterquality/monitoring\r, Quality Assurance and Monitoring Procedures for Surface Water Quality Monitoring, https://www.tceq.texas.gov/waterquality/monitoring/swqm_guides.html',
   'TM1-D3 Field Meter Calibration':
     'https://www.nemi.gov/methods/method_summary/12518/',
   'TM1-D3 Monitor Operation':

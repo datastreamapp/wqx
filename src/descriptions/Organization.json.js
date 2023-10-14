@@ -1082,7 +1082,7 @@ export default {
   NSQS: 'blah',
   NSRWA: 'North and South Rivers Watershed Association',
   NTEMPLE_WQX: 'Water Quality Data',
-  NTHRNUTE: 'Northern Ute Indian Tribe (UT) || Northern Ute Indian Tribe (UT)',
+  NTHRNUTE: '',
   NVC_WQX:
     'Native Village of Council (Tribal) || Native Village of Council (Tribal)',
   NVEPA_WQP:
@@ -1425,8 +1425,7 @@ export default {
   STJOHNSRIVERKPR_WQX: '',
   STOCKBRIDGE_MUNSEE: '',
   STOI: 'Spokane Tribe of the Spokane Reservation (Tribal) || Spokane Tribe of the Spokane Reservation (Tribal)',
-  STORLVD_WQX:
-    'Lac Vieux Desert Band of Lake Superior Chippewa || Lac Vieux Desert Band of Lake Superior Chippewa (Tribal)',
+  STORLVD_WQX: 'Water Quality Monitoring Data',
   STROUD_WQX: 'Water Quality Monitoring Data',
   STS: '1143930, Save the Sound, Water Quality Monitoring',
   ST_CROIX_WQX:
@@ -1591,8 +1590,7 @@ export default {
   WALLAWALLA_WC: 'Current VolMon group',
   WARMSPRINGS09:
     'Confederated Tribes of the Warm Springs Reservation of Oregon (Tribal) || Confederated Tribes of the Warm Springs Reservation of Oregon (Tribal)',
-  WASHNVCA_WQX:
-    'Washoe Tribe of Nevada and California || Washoe Tribe of Nevada and California (Tribal)',
+  WASHNVCA_WQX: '',
   WASIT:
     'STILLAGUAMISH TRIBE OF INDIANS (Tribal) || Stillaguamish Tribe of Indians of Washington (Tribal)',
   WATERANDAIR: 'www.waterandair.com',
