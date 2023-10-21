@@ -27,6 +27,8 @@ export default {
     'A measurement taken to verify the quality of data taken by a data logger.',
   'Quality Control Field Replicate Sample-Composite':
     'A composite of either several discrete sampling events or a sample collected by a continuous process samples taken from various vertical and horizontal locations combined into one sample to assess the reproducity of the sampling technique or analytical method.',
+  'Quality Control Field Replicate Sample-Field Subsample':
+    'it’s a Field Replicate and a Field Subsample: A Subsample of either several discrete sampling events or a sample collected by a continuous process samples taken from various vertical and horizontal locations combined into one sample to assess the reproducity of the sampling technique or analytical method.',
   'Quality Control Field Sample Equipment Rinsate Blank':
     'A sample of analyte-free media that has been used to rinse the sampling equipment. It is collected after completion of decontamination and prior to sampling. This blank is useful in documenting adequate decontamination of sampling equipment.',
   'Quality Control Lab Sample Equipment Rinsate Blank':

@@ -18,6 +18,7 @@ export default {
     'Quality Control Field Replicate Msr/Obs',
     'Quality Control Field Replicate Portable Data Logger',
     'Quality Control Field Replicate Sample-Composite',
+    'Quality Control Field Replicate Sample-Field Subsample',
     'Quality Control Field Sample Equipment Rinsate Blank',
     'Quality Control Lab Sample Equipment Rinsate Blank',
     'Quality Control Sample-Blind Duplicate',

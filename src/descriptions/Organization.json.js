@@ -692,8 +692,7 @@ export default {
   GLENDALE_WQX: 'Water Quality Monitoring Data',
   GLEON: 'GLEON Lake Observer mobile app data',
   GLIFWC: 'Great Lakes Indian Fish and Wildlife Commission',
-  GNLK01_WQX:
-    'Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan (Gun Lake) || Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan (Gun Lake) (Tribal)',
+  GNLK01_WQX: '',
   GPC5_WQX: 'Grand Portage Reservation || Grand Portage Reservation',
   GPELC: '',
   GPORTAGE_WQX:
