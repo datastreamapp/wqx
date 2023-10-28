@@ -210,7 +210,7 @@ export default {
   '21NC02WQ_WQX':
     'Water Quality Monitoring Data for all the Waters in the state',
   '21NC03WQ':
-    'State of North Carolina, Department of Environment and Natural Resources.',
+    'State of North Carolina, Dept of Environment Quality, Div of Water Resources',
   '21NCBCH':
     'NC Department of Environment and Natural Resources, Division of Environmental Health, Recreational Water Quality Program',
   '21NCCOALITIONS': 'NC DWQ Monitoring Coalition Program',
@@ -513,8 +513,7 @@ export default {
   CRITFC_WQX:
     'Nez Perce Tribe of Idaho (Tribal) || Nez Perce Tribe of Idaho (Tribal)',
   CRK_WQX: 'Lorri Epstein',
-  CROWCRKS:
-    'Crow Creek Sioux Tribe (SD) || Crow Creek Sioux Tribe (SD) (Tribal)',
+  CROWCRKS: '',
   CROWNATN:
     'Crow Tribe of Indians (Montana) || Crow Tribe of Indians (Montana) (Tribal)',
   CRWA: 'Water Quality Monitoring Data',
@@ -643,8 +642,7 @@ export default {
   FCPOTAWATOMI_WQX:
     'Forest County Potawatomi Community || Forest County Potawatomi Community (Tribal)',
   FIIR: 'Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California || Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California',
-  FLASIOUX:
-    'Flandreau Santee Sioux Tribe (SD) || Flandreau Santee Sioux Tribe (SD) (Tribal)',
+  FLASIOUX: '',
   FLO_SEP: 'City of Florence-Siuslaw estuary Partnership',
   FLO_URBAN: 'City of Florence-Urban Waters Grant; monitoring data',
   FLPRMRWS_WQX: 'Water Quality Monitoring Data',
@@ -1009,7 +1007,7 @@ export default {
   MWRD_WQX: 'Water Quality Monitoring Data and SPCURE member',
   MYRWA: 'Water Quality Monitoring Data',
   NALMS: 'Volunteer',
-  NAMBEPBLO_WQX: 'Nambe Pueblo (Tribal) || Nambe Pueblo (Tribal)',
+  NAMBEPBLO_WQX: 'Pueblo of Nambe, NM',
   NANTICOKEWTRALL_WQX: '',
   NARSTEST: '',
   NARS_WQX: '',
