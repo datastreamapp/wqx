@@ -148,6 +148,8 @@ export default {
   'Riverine Impoundment':
     'Impoundments (also known as reservoirs) are artificially created standing water bodies, produced by dams on streams or rivers.',
   Seep: "A moist or wet place where water, usually groundwater, reaches the earth's surface from an underground aquifer.",
+  'Source-ManMade':
+    'Industrial, agricultural, stormwater, sewer/septic, discharge/pipe, lagoon, or other source',
   'Spigot / Faucet':
     "A spigot is a single knob faucet that only has one pipe it controls, like the outdoor spigot that you connect a garden hose to. A tap is used when there isn't a pipe",
   Spring:

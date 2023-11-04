@@ -35,7 +35,8 @@ export default {
     'USACE',
     'USDOI/USGS',
     'USEPA',
-    'UTAHDWQ'
+    'UTAHDWQ',
+    'WSDOE'
   ],
   maxLength: 16
 }

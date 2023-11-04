@@ -34,8 +34,7 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX':
-    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
+  '11NPSWRD_WQX': '',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -798,7 +797,7 @@ export default {
   KENAI_NWR: '',
   KENAI_WQX: 'Non profit organization',
   KERBERCREEK: 'Kerber Creek watershed for BLM Natural Resource; ',
-  KICKAPOO: 'Kickapoo Tribe of Oklahoma || Kickapoo Tribe of Oklahoma (Tribal)',
+  KICKAPOO: '',
   KICKAPOO07:
     'Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas || Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas (Tribal)',
   KINGCOENVIROLAB: '',
@@ -1138,8 +1137,7 @@ export default {
   PATCMON_WQX: 'Potomac Appalachian Trail Club Volunteer Monitoring - VA,MD; ',
   PAUMATRIBE:
     'Pauma Band of Luiseno Mission Indians of the Pauma &amp; Yuima Reservation, California (Tribal) || Pauma Band of Luiseno Mission Indians of the Pauma &amp; Yuima Reservation, California (Tribal)',
-  PBDNR:
-    'Pokagon Band of Potawatomi Indians, Michigan and Indiana || Pokagon Band of Potawatomi Indians, Michigan and Indiana (Tribal)',
+  PBDNR: 'Pokagon Band of Potawatomi Indians Department of Natural Resources;',
   PBWC_WQX: 'Powder Basin Watershed Council *Contact - Christopher Morris',
   PCCB_WQX: 'Polk County Conservation Board (Polk County, Iowa)',
   PCSWD: '',
@@ -1267,6 +1265,7 @@ export default {
   RITA6_WQX: 'Hurricane Rita Water Quality Data',
   RIVERKEEPER:
     'Riverkeeper is a member-supported watchdog organization dedicated to defending the Hudson River and its tributaries and protecting the drinking water supply of nine million New York City and Hudson Valley residents.',
+  RIVERSUNLIMITED: 'Volunteers',
   RM11E_SUPRIFS:
     'This data was collected as part of the Supplemental Remedial Investigation/Feasibility Study (RI/FS) conducted along the east side of the Willamette River between approximately River Mile (RM) 10.9 and RM 11.6 (referred to as RM11E) in Portland, Oregon. The results were uploaded by GSI Water Solutions, Inc. on behalf of the RM11E Group,  including Cargill, Inc., CBS Corporation, the City of Portland, DIL Trust, Glacier Northwest, Inc., and PacifiCorp.',
   ROBINSONRANCHERIAENVIRONMENTAL:
@@ -1428,6 +1427,7 @@ export default {
   ST_CROIX_WQX:
     'St. Croix Chippewa Indians of Wisconsin (Tribal) || St. Croix Chippewa Indians of Wisconsin (Tribal)',
   SUMFS: 'Stockton University Marine Field Station',
+  SUMMITLAKETRIBE: 'summitlaketribe.org',
   SUNENCO: 'Suncor Energy (USA) Inc. (Colorado)',
   SUQUAMISH:
     'Suquamish Tribe (Tribal) || Suquamish Indian Tribe of the Port Madison Reservation (Tribal)',

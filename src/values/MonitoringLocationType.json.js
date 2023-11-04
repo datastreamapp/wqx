@@ -83,6 +83,7 @@ export default {
     'River/stream Effluent-Dominated',
     'Riverine Impoundment',
     'Seep',
+    'Source-ManMade',
     'Spigot / Faucet',
     'Spring',
     'State/Local Air Monitoring Station',
