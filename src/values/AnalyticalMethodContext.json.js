@@ -117,6 +117,7 @@ export default {
     'USFDA',
     'WDNR FISH HABITAT',
     'WEST INC',
+    'WSDOE',
     'YSI'
   ],
   maxLength: 32

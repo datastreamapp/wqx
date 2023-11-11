@@ -25,7 +25,8 @@ export default {
     'Reported in Raw Data (attached)',
     'Trace',
     'Unable to Measure',
-    'Value Decensored'
+    'Value Decensored',
+    'Value affected by contamination'
   ],
   maxLength: 35
 }

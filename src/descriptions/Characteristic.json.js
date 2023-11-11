@@ -2089,6 +2089,7 @@ export default {
   '1,2,4-tribromo-1,1,2-trifluorobutane': '',
   '1,2,4-trichloro-1,1,2-trifluorobutane': '',
   '1,2,5,5,6,6-Hexafluoro-3,4-dimethyl-1,3-cyclohexadiene': '',
+  '1,2,5,6,9,10-hexabromocyclododecane': '1,2,5,6,9,10-hexabromocyclododecane',
   '1,2,5,6-Tetrabromocyclooctane': 'NWIS',
   '1,2,5,6-Tetrachloronaphthalene':
     'Request Date: 19-Oct-18 (nps.gov cas# review)',
@@ -4683,7 +4684,6 @@ export default {
   '17-H-Perfluoroheptadecanoate': '',
   '17-H-Perfluoroheptadecanoic acid': '',
   '17-Oxoestra-1,3,5(10)-trien-3-yl heptafluorobutanoate': '',
-  '17-alpha-Estradiol': '17-alpha-Estradiol',
   '17-alpha-Estradiol-2,4-d2': '17-alpha-Estradiol-2,4-d2',
   '17-alpha-Ethynylestradiol-2,4,16,16-d4':
     '17-alpha-Ethynylestradiol-2,4,16,16-d4',
@@ -4710,8 +4710,6 @@ export default {
   '17a(H)-22,29,30-Trisnorhopane': 'NWIS',
   '17alpha-Dihydroequilin':
     'Nemi.govRequest Date: 23-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  '17alpha-Estradiol':
-    'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '17b(H),21a(H)-30-Norhopane': 'NWIS',
   '17b(H),21a(H)-Hopane': 'NWIS',
   '17b(H),21b(H)-Hopane': 'NWIS',
@@ -7647,7 +7645,7 @@ export default {
   '2-Propanone, hexafluoro-, hydrate': '',
   '2-Propanone, mixt. with 1,1,2-trichloro-1,2,2-trifluoroethane': '',
   '2-Propanyl, 1,1,1,2,3,3,3-heptafluoro-': '',
-  '2-Propen-1-ol':
+  '2-Propen-1-ol***retired***use Allyl Alcohol':
     'Request Date: 02-MAR-07| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '2-Propen-1-ol, compounds, reaction products with 1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-6-iodohexane, dehydroiodinated, reaction products with epichlorohydrin-triethylenetetramine polymer':
     '',
@@ -15553,6 +15551,7 @@ export default {
   'Crystalline quartz': '',
   'Cube Resins other than rotenone': '; Request Date: 01-APR-15',
   Cumene: 'Nemi.gov; Request Date: 02-MAR-07',
+  'Cumene hydroperoxide': 'Cumene hydroperoxide',
   'Cumulative Precipitation Since Last Measurement':
     '; Request Date: 26-AUG-13',
   'Cupric hydroxide': '; Request Date: 27-MAR-19',
@@ -16115,7 +16114,7 @@ export default {
   Desulfinylfipronil:
     'Request Date: 11-Sep-14 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Desulfinylfipronil amide': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
-  Desvenlafaxine: 'Desvenlafaxine',
+  'Desvenlafaxine***retired***use Desmethylvenlafaxine': 'Desvenlafaxine',
   'Detergent, severity (choice list)': '; Request Date: 02-MAR-07',
   'Detritus Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Detritus, coarse particle organic matter':
@@ -16456,6 +16455,7 @@ export default {
   'Dimethenamid oxanilic acid': 'NWIS',
   'Dimethenamid sulfinylacetic acid': 'NWIS',
   'Dimethenamid-P': '; Request Date: 01-APR-15',
+  Dimethipin: 'Dimethipin',
   Dimethoate: 'Nemi.gov; Request Date: 22-JUL-14',
   'Dimethoate-d6': '11;',
   Dimethomorph: '; Request Date: 29-NOV-10',
@@ -17345,7 +17345,7 @@ export default {
   'Ethyl acetate': '; Request Date: 22-JUL-14',
   'Ethyl acrylate': '; Request Date: 07-JUN-18',
   'Ethyl butyrate': '; Request Date: 20-MAR-13',
-  'Ethyl carbamate':
+  'Ethyl carbamate***retired***use Urethane':
     'Request Date: 14-APR-15| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Ethyl cinnamate': '; Request Date: 02-MAR-07',
   'Ethyl diethanolamine': 'Nemi.gov; Request Date: 25-SEP-19',
@@ -19523,7 +19523,12 @@ export default {
   'Methane, (difluoromethoxy)trifluoro-': '',
   "Methane, 1,1'-oxybis[1,1,1-trifluoro-": '',
   'Methane, bis(difluoromethoxy)difluoro-': '',
+  'Methane, bromodichloronitro-': 'Methane, bromodichloronitro-',
+  'Methane, bromodiiodo-': 'Methane, bromodiiodo-',
   'Methane, chloro(difluoromethoxy)difluoro-': '',
+  'Methane, chlorodiiodo-': 'Methane, chlorodiiodo-',
+  'Methane, dibromochloronitro-': 'Methane, dibromochloronitro-',
+  'Methane, dibromoiodo-': 'Methane, dibromoiodo-',
   'Methane, oxybis[(difluoromethoxy)difluoro-': '',
   'Methane, oxybis[difluoro-': '',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-': '',
@@ -22745,6 +22750,8 @@ export default {
   'Perfluoro-N-(hexanesulfonyl)hexane-1-sulfonamide lithium': '',
   'Perfluoro-N-[(trifluoromethyl)sulfonyl]butanesulfonamide sodium salt': '',
   'Perfluoro-N-methyl-decahydroquinoline': '',
+  'Perfluoro-n-(2,3,4-13C3)butanoic acid':
+    'Perfluoro-n-[2,3,4-13C3]butanoic acid',
   'Perfluoro-n-[1,2,3,4,5,6,7-13C7]undecanoic acid': '',
   'Perfluoro-n-[1,2,3,4,5,6-13C6]decanoic acid': '',
   'Perfluoro-n-[1,2,3,4,5-13C5]pentanoic acid': '',
@@ -25804,6 +25811,8 @@ export default {
   'Sodium 1-[(2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptyl)oxy]-3-(2,2,3,3-tetrafluoropropoxy)-2-propanol 2-sulfate':
     '',
   'Sodium 1H, 1H, 2H, 2H-[1,2-13C2] perfluorooctyl phosphate': '',
+  'Sodium 1H,1H,2H,2H-perfluoro1-decanesulfonate':
+    'sodium 1H,1H,2H,2H,-perfluoro-1-[1,2-13C2]decanesulfonate',
   'Sodium 1H,1H,2H,2H-perfluorodecylphosphate': '',
   'Sodium 1H,1H,2H,2H-perfluorooctylphosphate': '',
   'Sodium 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-hexadecafluorononyl sulfate': '',
@@ -25930,6 +25939,10 @@ export default {
   'Sodium pentachlorophenate': '; Request Date: 02-MAR-07',
   'Sodium perfluoro(3-{[1-(1,2-dichloro-1,2,2-trifluoroethoxy)propan-2-yl]oxy}propyl)sulfonate':
     '',
+  'Sodium perfluoro-1-(1,2,3,4-13C4)octanesulfonate':
+    'Sodium perfluoro-1-[1,2,3,4-13C4]octanesulfonate',
+  'Sodium perfluoro-1-(2,3,4-13C)butanesulfonate':
+    'sodium perfluoro-1-[2,3,4-13O3]butanesulfonate',
   'Sodium perfluoro-1-[1,2,3,4-18O2]octanesulfonate':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Sodium perfluoro-1-ethanesulfinate': '',
@@ -27265,6 +27278,7 @@ export default {
   'Triethyl citrate': 'Nemi.gov; Request Date: 02-MAR-07',
   'Triethyl phosphate': '',
   'Triethyl-2-acetylcitrate': '',
+  Triethylamine: 'Triethylamine',
   'Triethylaminium perfluoro-2-(2-propoxypropoxy)propanoate': '',
   'Triethylaminium perfluoro-2-propoxypropanoate': '',
   'Triethylammonium perfluorobutane sulfonate': '',
@@ -27382,6 +27396,7 @@ export default {
   'Triphenyl(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)stannane': '',
   Triphenylene: '; Request Date: 02-NOV-12',
   Triphenyltin: '',
+  'Triphenyltin hydroxide': 'Triphenyltin hydroxide',
   Tripleuchlanis: 'NWIS',
   'Tripropyl phosphate': '',
   'Tripropylene glycol monopropyl ether': '',

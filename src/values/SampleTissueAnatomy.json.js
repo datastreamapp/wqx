@@ -99,6 +99,7 @@ export default {
     'Whole Bird, Feathers, Skin On',
     'Whole Fish, Homog., Skin Off',
     'Whole Fish, Homog., Skin On',
+    'Whole Fish, No Eggs/Muscle/Residual Ovaries',
     'Whole Fish, No Stomach Contents',
     'Whole Fish,Alimentary Tract',
     'Whole Fish,BeheadGutted,SkinOn',
@@ -110,5 +111,5 @@ export default {
     'Wing',
     'Wood'
   ],
-  maxLength: 31
+  maxLength: 43
 }

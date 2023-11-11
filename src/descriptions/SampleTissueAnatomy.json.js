@@ -135,6 +135,8 @@ export default {
   'Whole Bird, Feathers, Skin On': '',
   'Whole Fish, Homog., Skin Off': '',
   'Whole Fish, Homog., Skin On': '',
+  'Whole Fish, No Eggs/Muscle/Residual Ovaries':
+    'Residual fish after removal of eggs, muscle and residual ovaries',
   'Whole Fish, No Stomach Contents': 'Fish with stomach contents removed',
   'Whole Fish,Alimentary Tract': '',
   'Whole Fish,BeheadGutted,SkinOn': '',

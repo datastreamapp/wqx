@@ -39,5 +39,7 @@ export default {
   'Unable to Measure':
     'Measurement or sample collection was attempted but unobtainable due to site conditions, equipment failure, or other circumstances',
   'Value Decensored':
-    'Value Decensored -  reconstruct or remove the objectionable values of a measurement set'
+    'Value Decensored -  reconstruct or remove the objectionable values of a measurement set',
+  'Value affected by contamination':
+    'Value affected by contamination as determined for USGS NWIS data; Analyte was detected in both the environmental sample and the associated blanks.'
 }
