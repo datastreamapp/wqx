@@ -34,7 +34,8 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX': '',
+  '11NPSWRD_WQX':
+    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -57,7 +58,7 @@ export default {
   '21DELAWQ_WQX': 'Division of Water  Environmental Laboratory Section',
   '21FLACEP_WQX': 'Water Quality Monitoring Data',
   '21FLACST_WQX': 'Water Quality Monitoring Data',
-  '21FLALTA_WQX': 'Water Qaulity Monitoring',
+  '21FLALTA_WQX': 'Water Quality Monitoring Data',
   '21FLAMEC_WQX': 'Water Quality Monitoring data',
   '21FLANER_WQX': 'Water Quality Monitoring Data',
   '21FLAVON_WQX': 'Water Quality Monitoring Data',
@@ -582,6 +583,7 @@ export default {
   ECU_CSI_COASTALPROCESSES: '',
   ECU_ECOL_ENGR: '',
   EFDELRBC_WQX: 'Effluent Data',
+  ELEPHANTFISH: 'ElephantFish, LLC',
   ELISS: '',
   ELKVALLEYCA_WQX:
     'Elk Valley Rancheria, California (Tribal) || Elk Valley Rancheria, California (Tribal)',
@@ -1291,8 +1293,6 @@ export default {
   SAINTVSD: 'Colorado',
   SALTCHUCK_WQX: '',
   SAMISHINDIAN_WQX: 'Samish Indian Nation || Samish Indian Nation (Tribal)',
-  'SAN PASQUAL':
-    'San Pasqual Band of Diegueno Mission Indians of California (Tribal) || San Pasqual Band of Diegueno Mission Indians of California (Tribal)',
   SANBERNARDINONATIONALFOREST: '',
   SANCARLOSAPACHETRIBE:
     'San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal) || San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal)',
@@ -1303,7 +1303,7 @@ export default {
   SANMANUEL:
     'San Manuel Band of Mission Indians, California (Tribal) || San Manuel Band of Mission Indians, California (Tribal)',
   SANMATEORCD: 'San Mateo Resource Conservation District',
-  SANPASQUAL_WQX:
+  SANPASQUAL:
     'San Pasqual Band of Diegueno Mission Indians of California (Tribal) || San Pasqual Band of Diegueno Mission Indians of California (Tribal)',
   SANTACLARAPBLO: 'Pueblo of Santa Clara',
   SANTAROSA:
@@ -1435,8 +1435,7 @@ export default {
   SWFMDDEP_WQX: 'Water Quality Monitoring Data',
   SWINOMISH:
     'Swinomish Indian Tribal Community (Tribal) || Swinomish Indian Tribal Community (Tribal)',
-  SWO_OEP:
-    'Sisseton-Wahpeton Sioux Tribe Lake Traverse Reservation (SD) || Sisseton-Wahpeton Sioux Tribe Lake Traverse Reservation (SD) (Tribal)',
+  SWO_OEP: '',
   SWQC: "The Summit Water Quality Committee (SWQC) is a watershed organization formalized by intergovernmental agreement.  Members include the Towns, County and major municipal dischargers (permits # CO-0021598, CO-0020451, CO-0020826, CO-0029955, CO-0021539) in Summit County Colorado. SWQC's focus is on providing definitive environmental assessments of the Blue River Watershed, including Dillon and Green Mountain Reservoirs and promoting pollution control.",
   SWRCB: '',
   SYCEO_WQX:
