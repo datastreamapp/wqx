@@ -551,16 +551,16 @@ export default {
   'Fish Recaptured (Y/N) (choice list)': 'Yes',
   'Torrent Scouring-Stream channel recently devegetated two or more times the width of low flow channel (Y/N) (choice list)':
     'Yes',
-  'Abrupt lower boundary present (Y/N) (choicelist)':
+  'Abrupt lower boundary present (Y/N) (choice list)':
     'Yes, Abrupt lower boundary present',
-  'Mottles Present (Y/N) (choicelist)': 'Yes, Mottles present',
-  'Inundated or Saturated in Pit (Y/N) (choicelist)':
+  'Mottles Present (Y/N) (choice list)': 'Yes, Mottles present',
+  'Inundated or Saturated in Pit (Y/N) (choice list)':
     'Yes, Inundated or saturated in pit',
-  'Soil Color Change after Exposure to Air (Y/N) (choicelist)':
+  'Soil Color Change after Exposure to Air (Y/N) (choice list)':
     'Yes, Soil color changed after exposure to air',
-  'Saturated/Noncohesive soils (Y/N) (choicelist)':
+  'Saturated/Noncohesive soils (Y/N) (choice list)':
     'Yes, Soils are saturated/noncohesive',
-  'Impermeable Layer Present (Y/N) (choicelist)':
+  'Impermeable Layer Present (Y/N) (choice list)':
     'Yes, Impermeable layer present',
   'Phytoplankton collected (Y/N) (choice list)': 'Yes',
   'Macrophytes Extend Lakeward (choice list)':
@@ -767,8 +767,9 @@ export default {
     'Frost-heave hummocks present',
   'Water Taste (choice list)': 'UnObjectionable',
   'Water Odor (choice list)': 'Odorless',
-  'RBP Canopy Cover (choice list)': 'SHADED - Self describing.',
+  'Day, ice (on/off) (choice list)': 'on the ice',
   'RBP2, Instream Features, Canopy Cover (choice list)': 'Shaded',
+  'RBP Canopy Cover (choice list)': 'SHADED - Self describing.',
   'Spring, Flow Affected (choice list)': 'Stopped',
   'Dominant Substrate in reach (choice list)': 'silt',
   'Dominant Substrate receiving flow (choice list)': 'silt',

@@ -655,8 +655,7 @@ export default {
   FOCW: 'Restore, preserve, and promote the outstanding natural qualities of the Cheat River watershed.',
   FONDULAC_WQX: '',
   FORTLWWTP: 'Colorado',
-  FORTPECK:
-    'Assiniboine & Sioux Tribes Fort Peck Indian Reservation (MT) || Assiniboine & Sioux Tribes Fort Peck Indian Reservation (MT) (Tribal)',
+  FORTPECK: '',
   FOSCWQ_WQX: '',
   FOUNSD: 'Colorado',
   FPST: 'Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal) || Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal)',
@@ -808,7 +807,7 @@ export default {
     'Kiowa Indian Tribe of Oklahoma (Tribal) || Kiowa Indian Tribe of Oklahoma (Tribal)',
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX: 'Klamath Tribes (Tribal) || Klamath Tribes (Tribal)',
-  KNA: 'Matthews',
+  KNA: 'Test organization for Kisters NA for the QuickDrops project!',
   KNRD_WQX:
     'Kalispel Indian Community of the Kalispel Reservation (Tribal) || Kalispel Indian Community of the Kalispel Reservation (Tribal)',
   KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
