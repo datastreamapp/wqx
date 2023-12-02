@@ -114,6 +114,8 @@ export default {
     'Water on the surface of the Earth stored or transported in rivers, streams, estuaries, lakes, ponds, swamps, glaciers, or other aquatic areas. It also may refer to water in urban drains and storm-sewer systems. water that collects on the surface of the ground. water on the surface of the planet such as in a river, lake, wetland, or ocean.',
   'Surface Water Sediment':
     'Sediments are most often transported by water (fluvial processes), but also wind (aeolian processes) and glaciers. Beach sands and river channel deposits are examples of fluvial transport and deposition, though sediment also often settles out of slow-moving or standing water in lakes and oceans.',
+  'Suspended sediment':
+    'Sediment carried in suspension by the turbulent components of the fluid or by Brownian motion',
   'Treated water supply':
     'Water after being processed for some particular use(s)',
   'USGS Standard Reference Sample':

@@ -3,7 +3,7 @@ export default {
   'as %CaCO3':
     'PERCENT Calcium carbonate is a common substance found in rocks in all parts of the world, and is the main component of shells of marine organisms, snails, coal balls, pearls, and eggshells. It is the active ingredient in agricultural lime, and is created when Ca ions in hard water react with carbonate ions creating limescale.',
   'as 2,4-D':
-    '2,4-D is a widely used herbicide that controls broadleaf weeds that has been used as a pesticide since the 1940s. 2,4-Dichlorophenoxyacetic acid is an organic compound',
+    '2-(2,4-Dichlorophenoxy)acetic acid or 2,4-D is a widely used herbicide that controls broadleaf weeds that has been used as a pesticide since the 1940s. 2,4-Dichlorophenoxyacetic acid is an organic compound',
   'as ANC':
     "acid neutralizing capacity is a measure for the overall buffering capacity against acidification for a solution, e.g. surface water or soil water.\r\nANC is defined dynamically as the amount of acid needed to change the pH value from the sample's value to a chosen different value.",
   'as Al':
@@ -49,14 +49,17 @@ export default {
     'Copper is a chemical element with the symbol Cu and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color',
   'as DPA':
     'Docosapentaenoic acid designates any straight chain 22:5 fatty acid, that is a straight chain open chain type of polyunsaturated fatty acid which contains 22 carbons and 5 double bonds',
+  'as EEQ': 'Estrogen equivalents',
   'as EPARD_Z':
     'Light, photosynthetic active radiation at depth (PAR) CALCULATED',
   'as EPARU_Z': 'Light, photosynthetic active radiation at depth (PAR)',
   'as EPAR_S': 'Light, photosynthetic active radiation (PAR)',
   'as ESBTU':
     'Samples were assigned to risk categories according to ESBTU(FCV,43) values: no-risk (< or = 1), low (>1 - < or = 2), low-medium (>2 - < or = 3), medium (>3 - < or = 5) and high-risk (>5).',
+  'as EWT': 'Eosin water tracer',
   'as F':
     'Fluorine is a chemical element with the symbol F and atomic number 9. It is the lightest halogen and exists as a highly toxic pale yellow diatomic gas at standard conditions. As the most electronegative element, it is extremely reactive, as it reacts with almost all other elements, except for helium and neon.',
+  'as FL': 'Fluoroscein',
   'as Fe':
     "Iron is a transition metal and atomic number 26, It is by mass the most common element on Earth, forming much of Earth's outer and inner core. lustrous metallic with a grayish tinge",
   'as Gd':
@@ -80,6 +83,7 @@ export default {
     'Potassium is a chemical element with  atomic number 194, and atomic weight 39.0983 u ± 0.0006 u. It is the first element in group 1 (alkali metals).',
   'as LAS':
     'Linear Alkylbenzene Sulfonate (LAS) Standard, 1mL = 1mg LAS, 1000ppm LAS, Ricca Chemical. Linear alkylbenzene sulfonate (LAS) is a cytotoxic synthetic anionic surfactant widely present in the environment due to its large-scale production and intensive use in the detergency field.',
+  'as MC-LR equivalents': 'Microcystin-LR equivalents',
   'as Mg':
     'Magnesium is a chemical element with atomic number 12, and atomic weight 24.305 u ± 0.002 u. It is group 2, or alkaline earth metals.',
   'as N':
@@ -148,6 +152,7 @@ export default {
     'Phycoerythrin is a red protein-pigment complex from the light-harvesting phycobiliprotein family, present in red algae and cryptophytes, accessory to the main chlorophyll pigments responsible for photosynthesis.',
   'as QSE':
     'Qualaquin (quinine sulfate) is an antimalarial drug used to treat malaria, a disease caused by parasites.',
+  'as RWT': 'Rhodamine water tracer',
   'as Ra':
     'Radium is a chemical element with the symbol Ra and atomic number 88. It is also known as the alkaline earth metals. Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) on exposure to air, forming a black surface layer of radium nitride (Ra3N2). All isotopes of radium are highly radioactive, with the most stable isotope being radium-226, which has a half-life of 1600 years and decays into radon gas (specifically the isotope radon-222).',
   'as Ra226':
@@ -159,6 +164,7 @@ export default {
   'as SO4':
     'Sulfate or sulphate (see spelling differences) ion is a polyatomic anion with the empirical formula SO2−\r\n4. Sulfate is the spelling recommended by IUPAC, but sulphate is used in British English. Sulfates are salts of sulfuric acid and many are prepared from that acid.',
   'as SRP': 'Soluble Reactive Phosphorus',
+  'as SWT': 'Sulfurhodamine water tracer',
   'as Se':
     'Selenium is a chemical element with the symbol Se and atomic number 34. It is a nonmetal (more rarely considered a metalloid) with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and also has similarities to arsenic. ',
   'as Si':
@@ -173,12 +179,16 @@ export default {
     'Thallium is a chemical element with the symbol Tl and atomic number 81. It is a gray post-transition metal that is not found free in nature. When isolated, thallium resembles tin, but discolors when exposed to air. The method of flame spectroscopy, in which thallium produces a notable green spectral line.  Thallium tends to form the +3 and +1 oxidation states. The +3 state resembles that of the other elements in group 13 (boron, aluminium, gallium, indium).',
   'as U':
     'Uranium is a silvery-white metallic chemical element in the periodic table, with atomic number 92. It is assigned the chemical symbol U. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium has the highest atomic weight of all naturally occurring elements.',
+  'as U-nat':
+    'Natural uranium, which is uranium with the same isotopic ratio as found in nature',
   'as U308':
     'Uranium concentrate, commonly referred to as U3O8, is the product created when uranium ore has been mined and milled. The fine powder is packaged in steel drums and shipped to refineries for further processing to prepare it for use as fuel in nuclear reactors.',
   'as U3O8':
     'Triuranium octoxide (U3O8), a yellow powdery substance, is the most stable form of uranium oxide and is the form most commonly found in nature. Molar mass: 842.1 g/mol.  Insoluble in water. Soluble in nitric and sulfuric acids',
   'as pH':
     '(potential of hydrogen) is a numeric scale used to specify the acidity or basicity of an aqueous solution.. Specify the pH at which analyte is determined.  For research purposes or when analyte values are to be compared  among laboratories, determine the analyte response of a given  water over a wide range of pH values.',
+  'as photons':
+    'A photon is a particle representing a quantum of light or other electromagnetic radiation',
   'as qPCR':
     'bacteria studies involving real-time polymerase chain reaction (qPCR) tests',
   unknown: 'Unknown or unspecified'

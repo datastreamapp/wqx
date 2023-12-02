@@ -13,6 +13,18 @@ export default {
     'That portion of the analyte found in the liquid medium.  Cannot be removed by filtration.',
   Extractable:
     'An analyte that can be removed from a mixture using a specific method or technique',
+  'Extractable, CaCO3-bound':
+    'Part of a sequential extraction protocol. Pertains to analytes that are assumed to be co-precipitated with carbonate minerals (also known as the acid-soluble fraction).',
+  'Extractable, exchangeable':
+    'Part of a sequential extraction protocol. Pertains to species that are weakly sorbed on sediment surfaces by relatively weak electrostatic interactions, or that are released by ion-exchange processes.',
+  'Extractable, organic-bnd':
+    'Part of a sequential extraction protocol. Pertains to constituents that are bound to or form complexes with organic matter (also known as the oxidizable fraction).',
+  'Extractable, other':
+    'Part of a sequential extraction protocol. Pertains to analytes that are extracted using extraction methods not listed other sequential extraction sample fraction terms.',
+  'Extractable, oxide-bound':
+    'Part of a sequential extraction protocol. Pertains to analytes that are assumed to be associated with iron and manganese oxides (also known as the reducible fraction).',
+  'Extractable, residual':
+    'Part of a sequential extraction protocol. Pertains to analytes present in the crystal lattice of minerals that are dissolved by strong acids.',
   Field: 'Performed in field.',
   Filterable:
     'That portion of the analyte which is in or absorbed to material which passes through the filter during sample filtration.',

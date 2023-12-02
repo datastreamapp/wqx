@@ -9,6 +9,7 @@ export default {
   947757:
     'Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal) || Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal)',
   1121575: 'Water Quality Monitoring Data',
+  1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
   '0800257_WQX': 'Water quality',
@@ -807,7 +808,7 @@ export default {
     'Kiowa Indian Tribe of Oklahoma (Tribal) || Kiowa Indian Tribe of Oklahoma (Tribal)',
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX: 'Klamath Tribes (Tribal) || Klamath Tribes (Tribal)',
-  KNA: 'Test organization for Kisters NA for the QuickDrops project!',
+  KNA: '',
   KNRD_WQX:
     'Kalispel Indian Community of the Kalispel Reservation (Tribal) || Kalispel Indian Community of the Kalispel Reservation (Tribal)',
   KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
@@ -1496,8 +1497,7 @@ export default {
   TTFFX: '',
   TU: 'Conservation of freshwater streams, rivers, and associated upland habitats for trout, salmon, other aquatic species, and people',
   TUMWATER: 'City of Tumwater - Public Works',
-  TURTLEMT:
-    'Turtle Mountain Environmental Office || Turtle Mountain Environmental Office (Tribal)',
+  TURTLEMT: 'Archie Gronvold 106 Coordinator',
   TWI: 'Stony Brook-Millstone and the Central Delaware River Watersheds',
   TWWWTF: 'Colorado',
   TXSTRMTM_WQX: '',

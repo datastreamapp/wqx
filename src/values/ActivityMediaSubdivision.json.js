@@ -63,6 +63,7 @@ export default {
     'Surface Soil/Sediment',
     'Surface Water',
     'Surface Water Sediment',
+    'Suspended sediment',
     'Treated water supply',
     'USGS Standard Reference Sample',
     'UnSieved Sediment',

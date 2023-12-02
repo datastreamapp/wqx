@@ -17630,6 +17630,7 @@ export default {
   'Florfenicol-d3': '',
   'Florpyrauxifen-benzyl': 'NWIS',
   Flow: 'The movement of water, sludge or other materials given in terms of volume with respect to time.',
+  'Flow (choice list)': '',
   'Flow at reach constriction (choice list)': '',
   'Flow over riffle(s) (choice list)': '',
   'Flow over run (choice list)': '',
@@ -21452,6 +21453,7 @@ export default {
     '; Request Date: 11-APR-17',
   'Observed Recreational Use - Swimming (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
+  'Observed flow (choice list)': '',
   'Obstructions (Y/N) (choice list)': '',
   'Octabromodiphenyl ether': '12;',
   Octachlorobiphenyl: '; Request Date: 22-JUL-14',
@@ -27618,6 +27620,7 @@ export default {
     'Information,4; Request Date: 26-AUG-13',
   'Vegetation Density, Nudds Board Right':
     'Information,4; Request Date: 26-AUG-13',
+  'Vegetation type (choice list)': '',
   'Vegetative Protection LDB': '; Request Date: 25-AUG-16',
   'Vegetative Protection RDB': '; Request Date: 25-AUG-16',
   'Velocity - stream': '; Request Date: 02-MAR-07',

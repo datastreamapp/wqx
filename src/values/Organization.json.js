@@ -26,6 +26,7 @@ export default {
     '1117MBR_WQX',
     '1119USBR_WQX',
     '1121575',
+    '1143709',
     '11COETUL_WQX',
     '11DELMOD_WQX',
     '11FLKNMS_WQX',
