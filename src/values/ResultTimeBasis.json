@@ -4,6 +4,7 @@
   "description": "",
   "type": "string",
   "enum": [
+    "0 Day",
     "1 Day",
     "1 Year",
     "10 Day",
@@ -14,6 +15,7 @@
     "14 Day",
     "15 Day",
     "15 Minute",
+    "15 Minutes",
     "16 Day",
     "17 Day",
     "18 Day",
@@ -79,6 +81,7 @@
     "70 Day",
     "71 Day",
     "72 Day",
+    "72 Hours",
     "73 Day",
     "74 Day",
     "75 Day",

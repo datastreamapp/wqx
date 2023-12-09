@@ -35,8 +35,7 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX':
-    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
+  '11NPSWRD_WQX': '',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -49,8 +48,7 @@ export default {
   '21ARIZ_WQX': 'Water Quality Monitoring Data for all the Waters in the state',
   '21AS_WQX': '',
   '21AWIC': '',
-  '21BRBCH':
-    'Bad River Natural Resources Department (Tribal) (BEACH) || Bad River Natural Resources Department (Tribal) (BEACH)',
+  '21BRBCH': 'The Natural Resources Departhment within the Bad River Tribe',
   '21CABCH': 'Contractor for the State of California',
   '21CAOCSD_WQX': 'Water quality monitoring data',
   '21COL001_WQX':
@@ -374,7 +372,7 @@ export default {
   BUNKER_WQX: 'Water Quality Monitoring Data',
   BURNSPAIUTE: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
   BURNSPAIUTE123: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
-  BVR: 'Buena Vista Rancheria of Me-Wuk Indians of California (Tribal) || Buena Vista Rancheria of Me-Wuk Indians of California (Tribal)',
+  BVR: '',
   BXA: 'Volunteer Monitoring Group',
   CABAZWQ32:
     'Cabazon Band of Mission Indians, California (Tribal) || Cabazon Band of Mission Indians, California (Tribal)',
@@ -476,7 +474,7 @@ export default {
   CMCPD:
     'The Cape May County Planning Department is the professional arm of the Cape May County Planning Board. The department is responsible for the day to day operations that carry out the functions of the Planning Board.',
   CMP_WQX: 'managed by DE Sea Grant',
-  CNA: 'Cheyenne and Arapaho Tribes of Oklahoma || Cheyenne and Arapaho Tribes of Oklahoma (Tribal)',
+  CNA: '',
   CNENVSER:
     'Chickasaw Nation Environmental Service || Chickasaw Nation Environmental Service (Tribal)',
   CNWQD:
@@ -662,6 +660,7 @@ export default {
   FPST: 'Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal) || Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal)',
   FRESHKILLSPARK: 'Freshkills Park',
   FRESHWATER_INSTITUTE: '',
+  FRIENDSOFTHEROUGE: '',
   FRIENDS_BAY: '',
   FRWA: 'Farmington River Watershed Association',
   FSAWQP_WQX: '',
@@ -1556,8 +1555,7 @@ export default {
   UTAHDWQ_WQX: 'Ambient Water Quality Monitoring Data',
   UTAHGS: 'Utah Geological Survey',
   UTDWR: 'Utah Division of Wildlife Resources',
-  UTEMTN:
-    'Ute Mountain Utes Tribe (Colorado) || Ute Mountain Utes Tribe (Colorado) (Tribal)',
+  UTEMTN: '',
   UTOGM_WQX: 'Utah Division of Oil, Gas, and Mining',
   UTRRVA05: '',
   UTTCHD: 'Utah - TriCounty Health Department',

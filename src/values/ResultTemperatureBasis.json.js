@@ -14,6 +14,7 @@ export default {
     '15 Deg C',
     '180 Deg C',
     '20 Deg C',
+    '23 Deg C',
     '25 Deg C',
     '30 Deg C',
     '35 Deg C',
@@ -27,6 +28,7 @@ export default {
     '50 Deg C',
     '55 Deg C',
     '60 Deg C',
+    '60 Deg F,psi',
     '65 Deg C',
     '70 Deg C',
     '75 Deg C',
@@ -34,7 +36,10 @@ export default {
     '85 Deg C',
     '90 Deg C',
     '95 Deg C',
-    'STP'
+    'Heated',
+    'Room temp',
+    'STP',
+    'gravity-temp'
   ],
-  maxLength: 10
+  maxLength: 12
 }

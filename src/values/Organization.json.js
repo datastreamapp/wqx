@@ -556,6 +556,7 @@ export default {
     'FPST',
     'FRESHKILLSPARK',
     'FRESHWATER_INSTITUTE',
+    'FRIENDSOFTHEROUGE',
     'FRIENDS_BAY',
     'FRWA',
     'FSAWQP_WQX',

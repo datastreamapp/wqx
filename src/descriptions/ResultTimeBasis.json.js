@@ -1,4 +1,5 @@
 export default {
+  '0 Day': 'Start of daily time period',
   '1 Day':
     'the time of light between one night and the next, occurring in an elapsed time of 24 hours',
   '1 Year': '1 year',
@@ -10,6 +11,7 @@ export default {
   '14 Day': '14th consecutive day',
   '15 Day': '15th consecutive day',
   '15 Minute': 'The mean value over 15 minutes.',
+  '15 Minutes': 'done, produced, or occurring in an elapsed time of 15 minutes',
   '16 Day': '16th consecutive day',
   '17 Day': '17th consecutive day',
   '18 Day': '18th consecutive day',
@@ -75,6 +77,7 @@ export default {
   '70 Day': '70th consecutive day',
   '71 Day': '71st consecutive day',
   '72 Day': '72nd consecutive day',
+  '72 Hours': 'done, produced, or occurring in an elapsed time of 72 hours',
   '73 Day': '73rd consecutive day',
   '74 Day': '74th consecutive day',
   '75 Day': '75th consecutive day',

@@ -14029,6 +14029,7 @@ export default {
     'The amount or weight of organisms without a backbone that are large enough to be seen without magnification that are suspended or drifting within a given volume or area of water.; Request Date: 02-MAR-07',
   'Biomass, euglenophycota':
     'Physical,14; The amount or weight of euglenophycophyta (euglenoids) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+  'Biomass, mysid': '',
   'Biomass, periphyton':
     'Physical,14; The amount or weight of periphyton (attached algae) that live within a specific volume or area of an ecosystem.Nemi.gov; Request Date: 02-MAR-07',
   'Biomass, phytoplankton':
@@ -14956,11 +14957,13 @@ export default {
   Carisoprodol: '; Request Date: 22-JUL-14',
   'Carisoprodol-d7': '',
   Carmustine: '; Request Date: 24-MAR-14',
+  Carnivores: '',
   Carotenoids: '; Request Date: 12-AUG-19',
   'Caroxin F': '',
   Carprofen: 'NWIS',
   Cashmeran: '1;NWIS',
   'Cast (choice list)': '',
+  'Catch per unit effort': '',
   'Catchment basin area': 'NLA; Request Date: 17-MAR-16',
   Catechol: '; Request Date: 02-MAR-07',
   'Categorical Diatom Thickness': 'Sediment,17;',
@@ -15385,7 +15388,9 @@ export default {
     'An attribute of a substance that results from the light it reflects, transmits, or emits, where this light causes a visual sensation depending on its wavelengths.Nemi.gov; Request Date: 24-SEP-19',
   'Colored dissolved organic matter (CDOM)':
     'The presence of colored dissolved organic matter in water affects water quality by reducing the amount of ultraviolet light penetration in the water column.; Request Date: 02-MAR-07',
+  'Community Loss Index': '',
   'Compass / Tilt (probe)': '; Request Date: 02-MAR-07',
+  'Compression Index': '',
   'Concentrated sample volume': 'NLA; Request Date: 27-APR-16',
   'Condition class (Dissolved oxygen (DO))':
     '(Dissolved Oxygen IN UPPER 50% OF THE SAMPLING DEPTH) - represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the characteristic reference conditions. ; Request Date: 07-MAR-16',
@@ -15425,6 +15430,12 @@ export default {
   Conductance: '',
   Conductivity: '; Request Date: 24-MAR-10',
   'Conductivity, Debye-Huckel-Onsager': 'NLA; Request Date: 05-APR-16',
+  'Consolidated-Undrained Triaxial C': '',
+  'Consolidated-Undrained Triaxial Effective C': '',
+  'Consolidated-Undrained Triaxial Effective friction angle': '',
+  'Consolidated-Undrained Triaxial Total C': '',
+  'Consolidated-Undrained Triaxial Total friction angle': '',
+  'Consolidated-Undrained Triaxial friction angle': '',
   'Copolymer of 1,1-difluoroethene, ethene and hexafluoropropene': '',
   'Copolymer of 1,1-difluoroethene, perfluoroethene, 1,1,2,2-tetrafluoro-3-iodopropoxyperfluoroethene and perfluoro(methoxyethene)':
     '',
@@ -15999,6 +16010,7 @@ export default {
   Deethylhydroxyatrazine: '; Request Date: 14-FEB-19',
   'Deformities present (Y/N) (choice list)':
     'National Park Service, contact nps.gov; Request Date: 08-JUN-16',
+  Deformity: '',
   'Dehydroabietic acid': '; Request Date: 02-MAR-07',
   Dehydroabietylamine: '; Request Date: 02-MAR-07',
   'Dehydroabietylamine acetate': '; Request Date: 02-MAR-07',
@@ -16697,6 +16709,8 @@ export default {
   'Dodecyl mercaptan': '; Request Date: 02-MAR-07',
   'Dodecyl sulfate': 'NWIS',
   Dodecylbenzene: '; Request Date: 02-MAR-07',
+  Dominance: '',
+  'Dominance, Top 3 species': '',
   'Dominant Habitat Type': 'Information,4; Request Date: 10-SEP-11',
   'Dominant Land Use (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Dominant Pool Substrate (choice list)': '',
@@ -16738,6 +16752,7 @@ export default {
   Dyphylline: '; Request Date: 02-MAR-07',
   Dysprosium: '; Request Date: 22-JUL-14',
   'EDDP perchlorate': '; Request Date: 30-MAY-13',
+  'EPT Index': '',
   'EPTC degradate R248722': 'NWIS',
   'EPTC-d14': '1; Request Date: 10-SEP-18',
   'EPTC-d14 (dipropyl-d14)': '',
@@ -17588,6 +17603,7 @@ export default {
   'Fish Status After Sampling (choice list)': 'Information,4;',
   'Fish Tag Number (text)':
     'Information,4; this is intended for recording PIT or Floy tag numbers used to track individual fish in-situ.',
+  'Fish average condition index': '',
   'Fish community': '; Request Date: 01-OCT-19',
   'Fish condition factor':
     'Physical,14; A factor to describe the physical condition of a fish.; Request Date: 02-MAR-07',
@@ -18679,6 +18695,13 @@ export default {
   'Indium, hydroxybis(2,2,2-trifluoroacetato-.kappa.O)-': 'PFAS removal',
   'Indium-111': '; Request Date: 22-JUL-14',
   'Individuals examined, actual number': '; Request Date: 27-MAR-19',
+  'Individuals examined, embryos': '',
+  'Individuals examined, gravid': '',
+  'Individuals examined, no gravid': '',
+  'Individuals examined, non-insect organisms': '',
+  'Individuals examined, non-tolerant': '',
+  'Individuals examined, omnivores': '',
+  'Individuals examined, shredder': '',
   Indole: 'Nemi.gov; Request Date: 22-JUL-14',
   'Indole-3-butyric acid': '; Request Date: 08-APR-19',
   Indomethacin: '1;NWIS',
@@ -18709,6 +18732,7 @@ export default {
   'Inorganic phosphorus': 'EPA Workgroup QA; Request Date: 12-MAY-16',
   Inpyrfluxam: '',
   'Insect Infestation Disturbance (choice list)': '',
+  Insectivores: '',
   'Instream Cover (%)': '',
   'Instream Snags': '; Request Date: 26-AUG-13',
   'Instream feature, stream substrate (choice list)':
@@ -18814,6 +18838,7 @@ export default {
   'Iron/Aluminium bound Phosphorus (FeP)': '; Request Date: 12-JAN-16',
   'Irradiance (Seabird)':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  'Irvine Index of Biological Integrity': '',
   Isatidine: '; Request Date: 22-AUG-17',
   Isazofos: '; Request Date: 02-MAR-07',
   'Iso-chlorotetracycline':
@@ -19169,6 +19194,7 @@ export default {
   'Left Bank Angle': '; Request Date: 04-OCT-18',
   'Left Bank Undercut': '; Request Date: 04-OCT-18',
   Length: 'The distance from end to end of an object.; Request Date: 02-MAR-07',
+  'Length evaluation, subset': '',
   'Length, Partial (Fish)': 'Physical,14; Request Date: 08-DEC-16',
   'Length, Total (Fish)': 'Physical,14; Request Date: 02-MAR-07',
   'Length, total':
@@ -19355,6 +19381,11 @@ export default {
   MDMA: '; Request Date: 22-JUL-14',
   'MIOX micaceous iron oxide':
     'Micaceous iron oxide (MIOX), or flaky haemetite, is a pigment used in paint that provides a metallic glint. It has a lamella structure which overlaps within the paint film providing excellent water resistance.; Request Date: 02-MAR-07',
+  'MMI, Taxonomic Richness': '',
+  'MMI, non-insect organisms': '',
+  'MMI, shredder individuals': '',
+  'MMI, taxa, pollution tolerance value (PTV) 2-4': '',
+  'MMI, top 3 taxa': '',
   'Macro Algae Stream Reach Coverage Average': '; Request Date: 01-AUG-18',
   'Macrohabitat Type - Channel Crossover': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Constrained Channel': 'GRE; Request Date: 01-SEP-16',
@@ -21082,6 +21113,9 @@ export default {
   'NPS POLLUTION - Wildlife Present (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
   NSC174337: '',
+  'NYSDEC Bioassessment Score': '',
+  'NYSDEC Fish Impairment Score': '',
+  'NYSDEC Model Affinity by trophic class': '',
   Nabam: '; Request Date: 02-MAR-07',
   Nadolol: '; Request Date: 02-FEB-15',
   Naegleria: 'TAXON: Animalia Kingdom; Request Date: 02-MAR-07',
@@ -21267,6 +21301,7 @@ export default {
     'A descriptor used to describe non-plankton algae, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Non-purgeable Organic Carbon (NPOC)': '; Request Date: 25-JUL-16',
   'Non-settleable solids': 'NWIS',
+  'Non-tolerant species': '',
   'Non-viable seed count': 'Physical,14; Request Date: 24-JUL-15',
   'Non-viable seed weight': '; Request Date: 24-JUL-15',
   Nonabromophenoxybenzene:
@@ -22117,6 +22152,7 @@ export default {
     'Minnesota Pollution Control Agency - PCN mixtures; Request Date: 07-APR-16',
   'PCN-73/74':
     'Minnesota Pollution Control Agency - PCN mixtures; Request Date: 07-APR-16',
+  'PFAS Total, Ionic Compounds': '',
   PFO2HxA: '',
   PFO3OA: '',
   'PFOA ion': '',
@@ -23576,6 +23612,7 @@ export default {
   'Point Source Pollution - Outfall Pipe Present (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
   'Polar organic chemicals': 'Nemi.gov; Request Date: 25-SEP-19',
+  'Pollution tolerance abundance': '',
   Polonium: 'Nemi.gov; Request Date: 25-SEP-19',
   'Polonium-210': 'Polonium, atomic number 84.; Request Date: 22-JUL-14',
   'Polvinyl alcohol': '',
@@ -24166,6 +24203,7 @@ export default {
   'Precipitation, how heavy (choice list)': '',
   'Precipitation, time since event':
     'The length of time that has elapsed since a precipitation event.; Request Date: 02-MAR-07',
+  'Preconsolidation Pressure (Pc)': '',
   Prednisolone: '; Request Date: 22-JUL-14',
   Prednisone: '; Request Date: 02-MAR-07',
   Pregabalin: '; Request Date: 30-MAY-13',
@@ -24863,6 +24901,7 @@ export default {
   'Pyrrolidine, 1-[3-(2,2-dimethyl-1-aziridinyl)-3,3-difluoro-2,2-bis(trifluoromethyl)propyl]-':
     '',
   'Pyrrolidine, 2,2,3,3,4,4,5,5-octafluoro-1-(pentafluoroethyl)-': '',
+  'Qualitative Habitat Evaluation Index': '',
   'Quaternary ammonium compd., (hydroxyethyl)dimethyl(.gamma.-.omega.-perfluoro-C8-14-.beta.-alkenyl), Me sulfates':
     '',
   'Quaternary ammonium compd., diethylmethyl(.gamma.-.omega.-perfluoro-C8-14-.beta.-alkenyl), tetraphenyl borates':
@@ -25171,6 +25210,8 @@ export default {
   Ramipril: '; Request Date: 27-OCT-17',
   Ranitidine: 'Nemi.gov; Request Date: 22-JUL-14',
   'Rank Sum': '; Request Date: 20-SEP-11',
+  'Ratio of EPT and Chironomidae Abundances': '',
+  'Ratio of scrappers/filterers-collectors': '',
   'Reach Length, Downstream': '',
   'Reach Length, Upstream': '',
   'Reaction product of potassium acrylate with 1-perfluoro[n-alkyl(C6,8,10,12,14,16,18)]-2-iodoethane, it consists predominantly of 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluorodecyl acrylate':
@@ -25507,6 +25548,7 @@ export default {
   'Shallow excavation, channelized wetland (%)': '',
   'Shannon & Wiener Macroinvert Taxonomic Diversity Index':
     '; Request Date: 17-OCT-12',
+  'Shannon-Wiener index': '',
   'Shear stress': '',
   'Shoot weight': '; Request Date: 24-JUL-15',
   'Shore Type - Aggrading Bank': 'GRE; Request Date: 01-SEP-16',
@@ -25712,6 +25754,9 @@ export default {
   'Simazine-d10': '; Request Date: 10-SEP-18',
   Simetone: '; Request Date: 02-MAR-07',
   Simetryn: 'Nemi.gov; Request Date: 02-MAR-07',
+  'Similarity, gravid counts': '',
+  'Similarity, lengths': '',
+  'Similarity, no gravid counts': '',
   Simocephalus: 'NWIS',
   'Simpson Taxonomic Diversity Index': '; Request Date: 02-MAR-07',
   Simuliidae: 'NWIS',
@@ -26516,7 +26561,10 @@ export default {
     'The number of species, this is a diversity measure.; Request Date: 02-MAR-07',
   'Taxonomic Richness, Ephemeroptera, Plecoptera, Tricoptera':
     'An indicator of water quality based upon community diversity.; Request Date: 02-MAR-07',
+  'Taxonomic richness, EPT': '',
+  'Taxonomic richness, weighted': '',
   'Taxonomic unit, assigned': 'NLA OEModel; Request Date: 31-MAY-16',
+  'Taxonomic, pollution tolerance value (PTV) 2-4': '',
   Tebuconazole: '; Request Date: 22-JUL-14',
   'Tebuconazole tert-Butylhydroxy': 'NWIS',
   'Tebuconazole-d6': 'NWIS',
@@ -26901,6 +26949,7 @@ export default {
   Tomopteridae: 'NWIS',
   'Tonalide***retired***use 6-Acetyl-1,1,2,4,4,7-hexamethyltetralin':
     '; Request Date: 01-APR-13',
+  'Top 3 taxa': '',
   'Top of bank cross-sectional area': '',
   'Top of bank width': '',
   Topiramate: '; Request Date: 27-OCT-17',
@@ -27496,6 +27545,8 @@ export default {
   Tyrothricin:
     'An antibacterial substance produced by the growth of Bacillus brevis Dubos (Fam. Bacteriaceae).; Request Date: 02-MAR-07',
   'USDA Soil Texture Classification (choice list)': '; Request Date: 11-APR-17',
+  'USEPA Habitat score': '',
+  'USEPA Rapid Bioassessment Protocol III': '',
   'USGS NAWQA Substrate Type (choice list)':
     'National Park Service, contact nps.gov; Request Date: 08-JUN-16',
   'UU Triaxial Deviator Stress': '; Request Date: 17-JUL-18',

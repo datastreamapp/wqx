@@ -273,6 +273,8 @@ export default {
     'A rosette sampler is a device used for water sampling in deep water (such as the Great Lakes or oceans) in order to investigate about its quality.',
   Rotenone:
     'Rotenone is an odorless, colorless, crystalline isoflavone used as a broad-spectrum insecticide, piscicide, and pesticide. It occurs naturally in the seeds and stems of several plants, such as the jicama vine plant, and the roots of several members of Fabaceae.',
+  'Rotonsonic drill rig':
+    'Boreholes are drilled, cored and cased by rotating and vibrating the rod, core barrel and casing at resonant sonic frequencies. It is outstanding in its ability to provide continuous, undisturbed core samples through any geological formation',
   'Roving Drop Net': '',
   'SPATT Bags':
     'A porous synthetic resin filled sachet used to measure biotoxins',

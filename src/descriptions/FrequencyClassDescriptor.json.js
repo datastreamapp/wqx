@@ -65,7 +65,7 @@ export default {
   Naiad: '3.1)Lifestage, Aquatic, gill-breathing nymph (q.v.).',
   Nesting: '7.0)Behaviora Activity, Species on nest',
   Nongravid:
-    '3.1)Lifestage, Female with very small ovaries.  Oocytes not discernible.',
+    '3.1)Lifestage, Female with very small ovaries.  Oocytes not discernible. (no gravid)',
   Nymph:
     '3.0)Lifestage, Stage after hatching of insect that does not form a pupa.',
   Other: '4.0)Biological Abnormality,',

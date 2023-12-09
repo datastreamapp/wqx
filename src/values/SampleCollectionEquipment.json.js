@@ -172,6 +172,7 @@ export default {
     'Roller Frame Trawl',
     'Rosette Sampler',
     'Rotenone',
+    'Rotonsonic drill rig',
     'Roving Drop Net',
     'SPATT Bags',
     'Scoop Fish Grab',
