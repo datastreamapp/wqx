@@ -216,6 +216,8 @@ export default {
   'Plexiglass Trap': '',
   'Plummet Net':
     'Plummet nets are a down-fishing zooplankton sampler that has no mouth obstructions and is cinched shut when the desired depth is reached. ',
+  'Pneumatic Drive Core':
+    'Pneumatic drives operate based on a principle which involves transforming pressurised air (or other gas) energy into linear or rotational movement.',
   'Point-integrating suspended sampler':
     'Point-integrating samplers accumulate a water-sediment sample at any selected point in a stream.',
   'Polar Orga. Chem. Integrative Sampler':

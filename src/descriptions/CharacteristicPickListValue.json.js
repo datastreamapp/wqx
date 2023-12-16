@@ -439,11 +439,11 @@ export default {
   'Flow (choice list)': 'Unknown',
   'Stream Mixing Condition (choice list)': 'Poor',
   'Habitat Quality (choice list)': 'Very Poor quality',
-  'Emergent, aquatic vegetation in channel (choice list)': 'Sparse',
-  'Loosely attached filamentous algae (choice list)': 'Sparse',
-  'Floating or submerged aquatic vegetation (choice list)': 'Sparse',
-  'Emergent, aquatic vegetation along bank (choice list)': 'Sparse',
   'Firmly attached algae or submerged veg (choice list)': 'Sparse',
+  'Loosely attached filamentous algae (choice list)': 'Sparse',
+  'Emergent, aquatic vegetation along bank (choice list)': 'Sparse',
+  'Emergent, aquatic vegetation in channel (choice list)': 'Sparse',
+  'Floating or submerged aquatic vegetation (choice list)': 'Sparse',
   'Bankful Angle (choice list)': 'V - Very Steep',
   'Spring, Flow Status (choice list)': 'Still/Pooled',
   'Sex (choice list)': 'Male',
@@ -462,6 +462,7 @@ export default {
     'Light/Slight local watershed erosion',
   'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
   'Current Precipitation (choice list)': 'Snow',
+  'Aquatic Animals (choice list)': 'Normal amount of Aquatic Animals Present',
   'Precipitation, how heavy (choice list)': 'Moderate precipitation',
   'Vegetation type (choice list)': 'Woodland Vegetation',
   'General flow pattern (choice list)': 'Not applicable',
@@ -666,17 +667,10 @@ export default {
   'RBP Undersides of Loose Stones Black Y/N (choice list)':
     'YES - Self describing.',
   'Redoximorphic Features (choice list)': 'Soft Masses',
+  'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
+  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
   'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
     'Yes',
-  'Precipitation 48hr prior to monitoring event (choice list)': 'Yes',
-  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
-  'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
-    'P-value & Result indicate test response is not significant',
-  'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
-  'RBP2, Instream Features, Channelized (Y/N) (choice list)':
-    'Yes the stream is channelized',
-  'RBP2, Instream Features, Dam Present (Y/N) (choice list)':
-    'Yes there is a dam present',
   'Significant(choice list)': 'Test response significantly toxic',
   'Toxicity, sediment, Rhepoxynius abronius, significant (choice list)':
     'P-value & Result indicate test response is not significant',
@@ -686,21 +680,28 @@ export default {
     'P-value & Result indicate test response is not significant',
   'Toxicity, sediment, Ampelisca abdita, significant (choice list)':
     'P-value & Result indicate test response significantly toxic',
-  'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
-    'P-value & Result indicate test response significantly toxic',
-  'Index sample for diatom condition index (YES/NO) (choice list)': 'Yes',
-  'Precipitation during activity (choice list)': 'Yes',
-  'Sewage algae present (choice list)': 'Yes',
-  'Toxicity, sediment, species significant (choice list)':
-    'P-value & Result indicate test response is not significant',
+  'Precipitation 48hr prior to monitoring event (choice list)': 'Yes',
   'Precipitation 24hr prior to monitoring event (choice list)': 'Yes',
-  'Invasive species found (choice list)': 'Yes',
   'RBP Channelized Y/N (choice list)': 'YES - Self describing.',
   'Sandy Substrate (choice list)':
     'Sandy substrate; no bedrock, boulders, etc.',
-  'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
+  'RBP2, Instream Features, Dam Present (Y/N) (choice list)':
+    'Yes there is a dam present',
+  'RBP2, Instream Features, Channelized (Y/N) (choice list)':
+    'Yes the stream is channelized',
+  'Index sample for diatom condition index (YES/NO) (choice list)': 'Yes',
+  'Precipitation during activity (choice list)': 'Yes',
+  'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
+    'P-value & Result indicate test response is not significant',
+  'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
+    'P-value & Result indicate test response significantly toxic',
+  'Invasive species found (choice list)': 'Yes',
   'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
     'Yes, there has been heavy rain within the last 7 days',
+  'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
+  'Toxicity, sediment, species significant (choice list)':
+    'P-value & Result indicate test response is not significant',
+  'Sewage algae present (choice list)': 'Yes',
   'RBP Local Watershed NPS Pollution (choice list)':
     'Some potential sources of NPS pollution',
   'Depth, Secchi disk depth (choice list)':

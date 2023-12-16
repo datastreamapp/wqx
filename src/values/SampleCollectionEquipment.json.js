@@ -137,6 +137,7 @@ export default {
     'Plexiglass Slide Device',
     'Plexiglass Trap',
     'Plummet Net',
+    'Pneumatic Drive Core',
     'Point-integrating suspended sampler',
     'Polar Orga. Chem. Integrative Sampler',
     'Polyethylene wipe',

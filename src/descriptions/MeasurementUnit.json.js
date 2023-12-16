@@ -45,7 +45,10 @@ export default {
   '1000m3/day': 'Flow, 1000 cubic metres per day',
   'ADMI value':
     'Picklist or Choicelist, American Dye Manufacturers Institute Color Value (5 to 250 units Pt-Co)',
-  AU: 'Turbidity, Attenuation Unit',
+  ATU: 'Turbidity, Attenuation Unit',
+  AU: 'Absorbance unit, Absorbance is directly proportional to concentration and length, is a dimensionless quantity and should, therefore, be unitless',
+  'AU/cm':
+    'Absorbance per centimeters, optical density is measured in ODU, which are equivalent to AU cm​−1​',
   Angst: 'Length Distance, Angstroms',
   BTU: 'Energy, British Thermal Units',
   'BTU/ft3': 'Energy, British Thermal Units per cubic foot',
@@ -352,6 +355,7 @@ export default {
   minutes: 'Time, Minutes',
   mm: 'Length Distance, millimeters',
   'mm/day': 'Speed Velocity, Millimeters per day',
+  'mm/g': 'Millimeters per gram',
   'mm/hr': 'Speed Velocity, Millimeters per hour',
   mm2: 'Area, Square millimeters',
   mm3: 'Volume, Cubic millimeters',
@@ -443,6 +447,7 @@ export default {
   'tons/ac ft': 'Concentration Solution, Tons per acre feet',
   'tons/day': 'Flow Mass, Tons per day',
   'tons/day/ft': 'Flow Mass, Short tons per day per foot',
+  'tons/ft2': 'Tons per square foot (tsf)',
   'tons/kt': 'Concentration Solution, Tons per kiloton',
   'tons/sec': 'Flow Mass, Short tons per second',
   'tsc/100mL':

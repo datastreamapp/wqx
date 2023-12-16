@@ -339,8 +339,7 @@ export default {
   BILLIONOYSTERPROJECT: '',
   BISHOPPAIUTETRIBE:
     'Bishop Paiute Tribe (Tribal) || Bishop Paiute Tribe (Tribal)',
-  BISHOP_PAIUTE_TRIBE_WQX:
-    'Bishop Paiute Tribe || Bishop Paiute Tribe (Tribal)',
+  BISHOP_PAIUTE_TRIBE_WQX: 'Bishop Paiute Tribe',
   BLCKFEET: '',
   BLMRW: 'Water Quality Monitoring Data',
   BLM_WRBBD: '',
@@ -691,7 +690,8 @@ export default {
   GLEON: 'GLEON Lake Observer mobile app data',
   GLIFWC: 'Great Lakes Indian Fish and Wildlife Commission',
   GNLK01_WQX: '',
-  GPC5_WQX: 'Grand Portage Reservation || Grand Portage Reservation',
+  GPC5_WQX:
+    'Grand Portage Band of Lake Superior Chippewa (Minnesota Chippewa Tribes)',
   GPELC: '',
   GPORTAGE_WQX:
     'Minnesota Chippewa Tribe, Minnesota (Six component reservations: Bois Forte Band (Nett Lake); Grand Portage Band;)Tribal || Minnesota Chippewa Tribe, Minnesota (Six component reservations: Bois Forte Band (Nett Lake); Grand Portage Band;)Tribal',
