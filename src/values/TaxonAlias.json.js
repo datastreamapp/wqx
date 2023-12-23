@@ -115411,7 +115411,7 @@ export default {
     'Sphaeridiolinus',
     'Sphaeridium',
     'Sphaeriidae',
-    'Sphaeriidae***retired***use Pisidiidae',
+    'Sphaeriidae-',
     'Sphaeriidae2',
     'Sphaeriidae3',
     'Sphaeriidae4',

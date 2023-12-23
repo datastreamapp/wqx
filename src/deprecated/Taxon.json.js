@@ -7222,7 +7222,6 @@ export default [
   'Sperchopsis tessellatus***retired***use Sperchopsis tessellata',
   'Spergularia maritima***retired***use Spergularia media var. media',
   'Sphaerichthys osphromenoides osphromenoides***retired***use Sphaerichthys osphromenoides',
-  'Sphaeriidae***retired***use Pisidiidae',
   'Sphaerium partumeium***retired***use Musculium partumeium',
   'Sphaerium securis***retired***use Musculium securis',
   'Sphaerium transversum***retired***use Musculium transversum',

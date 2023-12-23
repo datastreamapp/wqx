@@ -19567,9 +19567,12 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopentane, 1,1,2,2,3,3-hexafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-':
+    'Not Assigned',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.alpha.,4.alpha.)-':
     'Not Assigned',
   'Cyclopentane, 1,2-dimethyl-, (1R,2R)-rel-': 'Not Assigned',
+  'Cyclopentane, 1-ethyl-2-methyl-, cis-': 'Not Assigned',
   'Cyclopentane, 1-ethyl-3-methyl-, (1R,3S)-rel-': 'Not Assigned',
   'Cyclopentane, octafluoro(hexafluorocyclobutylidene)-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -19612,6 +19615,7 @@ export default {
   'Cyclopropane, 1,1,2,2,3,3-hexafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopropane, 1,1,2,2-tetrafluoro-': 'PFAS,Perfluorinated Alkyl Substance',
+  'Cyclopropane, 1,1,2-trimethyl-': 'Not Assigned',
   'Cyclopropane, 1-(2-bromoethyl)-1,2,2,3,3-pentafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopropane, ethyl-': 'Not Assigned',
@@ -23421,11 +23425,6 @@ export default {
   MDEA: 'Organics, Other',
   MDMA: 'Organics, Other',
   'MIOX micaceous iron oxide': 'Not Assigned',
-  'MMI, Taxonomic Richness': 'Not Assigned',
-  'MMI, non-insect organisms': 'Not Assigned',
-  'MMI, shredder individuals': 'Not Assigned',
-  'MMI, taxa, pollution tolerance value (PTV) 2-4': 'Not Assigned',
-  'MMI, top 3 taxa': 'Not Assigned',
   'Macro Algae Stream Reach Coverage Average':
     'Biological, Habitat, Algae, Phytoplankton',
   'Macrohabitat Type - Channel Crossover': 'Physical, Habitat',
@@ -23436,6 +23435,15 @@ export default {
   'Macrohabitat Type - Pool': 'Physical, Habitat',
   'Macrohabitat Type - Tributary Mouth': 'Physical, Habitat',
   'Macrohabitat Type - Unconstrained Channel': 'Physical, Habitat',
+  'Macroinvertebrate Multi-Metric Index (MMI), Taxonomic Richness':
+    'Not Assigned',
+  'Macroinvertebrate Multi-Metric Index (MMI), non-insect organisms':
+    'Not Assigned',
+  'Macroinvertebrate Multi-Metric Index (MMI), shredder individuals':
+    'Not Assigned',
+  'Macroinvertebrate Multi-Metric Index (MMI), taxa, pollution tolerance value (PTV) 2-4':
+    'Not Assigned',
+  'Macroinvertebrate Multi-Metric Index (MMI), top 3 taxa': 'Not Assigned',
   Macroinvertebrates: 'Biological',
   'Macrophyte cover': 'Biological',
   'Macrophytes Extend Lakeward (choice list)': 'Biological, Aquatic Plants',
@@ -31455,6 +31463,7 @@ export default {
   'Temperature, water': 'Physical',
   'Temperature, wet bulb': 'Physical',
   Teniposide: 'Not Assigned',
+  Teratogenicity: 'Not Assigned',
   Terbacil: 'Organics, Pesticide',
   Terbium: 'Inorganics, Minor, Metals',
   'Terbium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.kappa.O3,.kappa.O5)-':
@@ -33189,6 +33198,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'human-specific Bacteroides species': 'Microbiological',
   'hydrogen isotopes of water (d2H)': 'Not Assigned',
+  'larval growth and survival': 'Not Assigned',
   'm and p-Cresol': 'Organics, Other',
   'm(and p)-Ethyltoluene': 'Not Assigned',
   'm,p-Cresol': 'Not Assigned',

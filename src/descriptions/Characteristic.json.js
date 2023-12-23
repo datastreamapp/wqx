@@ -15775,8 +15775,12 @@ export default {
   'Cyclopentane, 1,1,2,2,3,3,4,4-octafluoro': '',
   'Cyclopentane, 1,1,2,2,3,3,4-heptafluoro-': '',
   'Cyclopentane, 1,1,2,2,3,3-hexafluoro-': '',
+  'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-':
+    'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.alpha.,4.alpha.)-': '',
   'Cyclopentane, 1,2-dimethyl-, (1R,2R)-rel-': '',
+  'Cyclopentane, 1-ethyl-2-methyl-, cis-':
+    'Cyclopentane, 1-ethyl-2-methyl-, cis-',
   'Cyclopentane, 1-ethyl-3-methyl-, (1R,3S)-rel-': '',
   'Cyclopentane, octafluoro(hexafluorocyclobutylidene)-': '',
   'Cyclopentane, octafluorobis(trifluoromethyl)-': '',
@@ -15807,6 +15811,7 @@ export default {
   'Cyclopropane, (1,1,2,3,3,3-hexafluoropropyl)-': '',
   'Cyclopropane, 1,1,2,2,3,3-hexafluoro-': 'nbsp',
   'Cyclopropane, 1,1,2,2-tetrafluoro-': '',
+  'Cyclopropane, 1,1,2-trimethyl-': 'Cyclopropane, 1,1,2-trimethyl-',
   'Cyclopropane, 1-(2-bromoethyl)-1,2,2,3,3-pentafluoro-': '',
   'Cyclopropane, ethyl-': '; Request Date: 11-JAN-18',
   'Cyclopropane, pentafluoro(1,1,2,2,3,3,3-heptafluoropropoxy)-': '',
@@ -19432,11 +19437,6 @@ export default {
   MDMA: '; Request Date: 22-JUL-14',
   'MIOX micaceous iron oxide':
     'Micaceous iron oxide (MIOX), or flaky haemetite, is a pigment used in paint that provides a metallic glint. It has a lamella structure which overlaps within the paint film providing excellent water resistance.; Request Date: 02-MAR-07',
-  'MMI, Taxonomic Richness': '',
-  'MMI, non-insect organisms': '',
-  'MMI, shredder individuals': '',
-  'MMI, taxa, pollution tolerance value (PTV) 2-4': '',
-  'MMI, top 3 taxa': '',
   'Macro Algae Stream Reach Coverage Average': '; Request Date: 01-AUG-18',
   'Macrohabitat Type - Channel Crossover': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Constrained Channel': 'GRE; Request Date: 01-SEP-16',
@@ -19446,6 +19446,15 @@ export default {
   'Macrohabitat Type - Pool': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Tributary Mouth': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Unconstrained Channel': 'GRE; Request Date: 01-SEP-16',
+  'Macroinvertebrate Multi-Metric Index (MMI), Taxonomic Richness':
+    'MMI, Taxonomic Richness',
+  'Macroinvertebrate Multi-Metric Index (MMI), non-insect organisms':
+    'MMI, non-insect organisms',
+  'Macroinvertebrate Multi-Metric Index (MMI), shredder individuals':
+    'MMI, shredder individuals',
+  'Macroinvertebrate Multi-Metric Index (MMI), taxa, pollution tolerance value (PTV) 2-4':
+    'MMI, taxa, pollution tolerance value (PTV) 2-4',
+  'Macroinvertebrate Multi-Metric Index (MMI), top 3 taxa': 'MMI, top 3 taxa',
   Macroinvertebrates:
     'Animals large enough to be seen without magnification that have no backbone.; Request Date: 02-MAR-07',
   'Macrophyte cover': '',
@@ -26702,6 +26711,7 @@ export default {
   'Temperature, wet bulb':
     'The measure of air temperature and humidity using a wet bulb thermometer.; Request Date: 02-MAR-07',
   Teniposide: '; Request Date: 24-MAR-14',
+  Teratogenicity: 'Teratogenicity',
   Terbacil: 'Nemi.gov; Request Date: 22-JUL-14',
   Terbium: '; Request Date: 22-JUL-14',
   'Terbium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.kappa.O3,.kappa.O5)-':
@@ -28332,6 +28342,7 @@ export default {
   'hosphoric acid, methyl bis(2,2,3,3-tetrafluoropropyl) ester': '',
   'human-specific Bacteroides species': '; Request Date: 21-OCT-15',
   'hydrogen isotopes of water (d2H)': '',
+  'larval growth and survival': 'Fathead minnow, larval growth and survival',
   'm and p-Cresol': '1;',
   'm(and p)-Ethyltoluene': '',
   'm,p-Cresol': '; Request Date: 11-SEP-14',

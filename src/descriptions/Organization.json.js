@@ -225,7 +225,7 @@ export default {
   '21OHDGW_WQX': '',
   '21OHIO_WQX': '',
   '21ORBCH': 'Beaches Program',
-  '21PABCH': 'LOCAL HEALTH DEPARTMENT',
+  '21PABCH': 'Local health department',
   '21PA_WQX': 'PA ENVIRONMENTAL PROTECTION',
   '21RIBCH': '',
   '21SC60WQ_WQX': '',
@@ -702,8 +702,7 @@ export default {
   GSWA: 'Great Swamp Watershed Association',
   GTBOCI_WQX:
     'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
-  GTBWATER_WQX:
-    'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
+  GTBWATER_WQX: 'Grand Traverse Band of Ottawa & Chippewa Indians;',
   GTC_WQX:
     'Native Village of Georgetown (Tribal) || Native Village of Georgetown (Tribal)',
   GUAM: '',
@@ -1093,8 +1092,7 @@ export default {
   OCSN: '',
   OESERLSCA_WQX:
     'Region 10: Oeser Property, Little Squalicum Creek Area, Bellingham, WA',
-  OGLALAST:
-    'Oglala Sioux Tribe (South Dakota) || Oglala Sioux Tribe (South Dakota) (Tribal)',
+  OGLALAST: '',
   OHDDAGW:
     'Ambient water quality program in OH Division of Drinking and Ground Waters',
   'OH_KY_IN-WSC': 'Continuous Water Quality Data',
@@ -1399,8 +1397,7 @@ export default {
     'Saint Regis Mohawk Tribe (Tribal) || Saint Regis Mohawk Tribe (Tribal)',
   SRMTWRP_WQX:
     'Saint Regis Mohawk Tribe (Tribal) || Saint Regis Mohawk Tribe (Tribal)',
-  SRPMIC:
-    'Salt River Pima-Maricopa Indian Community (SRPMIC) || Salt River Pima-Maricopa Indian Community (SRPMIC)',
+  SRPMIC: '',
   SRPMIC_WQX:
     'Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona (Tribal) || Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona (Tribal)',
   SRRTFF: 'Reporting of toxic compounds in the Spokane River',

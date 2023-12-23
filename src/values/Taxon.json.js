@@ -44535,7 +44535,7 @@ export default {
     'Sphaerichthys selatanensis',
     'Sphaeridiinae',
     'Sphaeridium',
-    'Sphaeriidae***retired***use Pisidiidae',
+    'Sphaeriidae',
     'Sphaeriinae',
     'Sphaerium',
     'Sphaerium corneum',
