@@ -292,6 +292,8 @@ export default {
   AQUINNAH_WQX:
     'Wampanoag Tribe of Gay Head (Aquinnah) (Tribal) || Wampanoag Tribe of Gay Head (Aquinnah) (Tribal)',
   ARDEQH2O_WQX: '',
+  AREMP:
+    'The Aquatic and Riparian Effectiveness Monitoring Program (AREMP) is a "Service First" program consisting of USDA Forest Service (USFS) and USDI Bureau of Land Management (BLM)',
   ARMYCORPS: 'US Army Corps of Engineers District (West Virginia)',
   ARR: '',
   ARSG: 'Water Quality Monitoring Data',
