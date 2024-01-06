@@ -763,6 +763,7 @@ export default {
     'MDEDAT08_WQX',
     'MDEDAT09_WQX',
     'MDEDAT10_WQX',
+    'MDEQ_AMP_WQX',
     'MDEQ_MPDES_WQX',
     'MDEQ_REM_WQX',
     'MDEQ_WQ_WQX',

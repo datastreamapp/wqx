@@ -478,8 +478,7 @@ export default {
   CNA: '',
   CNENVSER:
     'Chickasaw Nation Environmental Service || Chickasaw Nation Environmental Service (Tribal)',
-  CNWQD:
-    'Comanche Nation Water Quality Department || Comanche Nation Water Quality Department (Tribal)',
+  CNWQD: 'Comanche Nation Water Quality Department',
   COCHITIPUEBLO:
     'Pueblo of Cochiti, New Mexico (Tribal) || Pueblo of Cochiti, New Mexico (Tribal)',
   COCOPAH_INDIAN:
@@ -658,7 +657,7 @@ export default {
   FORTPECK: '',
   FOSCWQ_WQX: '',
   FOUNSD: 'Colorado',
-  FPST: 'Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal) || Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada (Tribal)',
+  FPST: 'Fallon Paiute-Shoshone Tribe;',
   FRESHKILLSPARK: 'Freshkills Park',
   FRESHWATER_INSTITUTE: '',
   FRIENDSOFTHEROUGE: '',
@@ -912,6 +911,8 @@ export default {
   MDEDAT09_WQX:
     'Data used for Risk Assessment. Primarily fish, shellfish and crab  tissue contaminant information.',
   MDEDAT10_WQX: '',
+  MDEQ_AMP_WQX:
+    'Adaptive Management Program means a watershed-scale system that protects water quality from the impacts of nutrient sources by: (a) prioritizing phosphorus reduction, as appropriate, while accounting for site specific conditions, (b) allowing for nutrient sources to be addressed incrementally over time by incorporating flexible decision-making which can be adjusted as management actions and other factors become better understood, (c) reasonably balancing all factors impacting a waterbody...',
   MDEQ_MPDES_WQX:
     'The MDEQ_MPDES_WQX organization is for data associated with MPDES permits.',
   MDEQ_REM_WQX:
