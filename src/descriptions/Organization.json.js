@@ -478,6 +478,7 @@ export default {
   CNA: '',
   CNENVSER:
     'Chickasaw Nation Environmental Service || Chickasaw Nation Environmental Service (Tribal)',
+  CNEPWATERPROGRAM: '',
   CNWQD: 'Comanche Nation Water Quality Department',
   COCHITIPUEBLO:
     'Pueblo of Cochiti, New Mexico (Tribal) || Pueblo of Cochiti, New Mexico (Tribal)',
@@ -828,7 +829,8 @@ export default {
     "This is a group that monitors the Lawrence Brook Watershed chain of water bodies in Middlesex County NJ and includes South Brunswick, North Brunswick, East Brunswick, Milltown, and part of New Brunswick in it's sampling area.",
   LCBP: '',
   LCO106_WQX: 'Water Quality Monitoring Data.',
-  LCOWIS_WQX: 'Lac Courte Oreilles || Lac Courte Oreilles (Tribal)',
+  LCOWIS_WQX:
+    'Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin',
   LCWCD_WQX:
     'Lincoln Soil and Water Conservation District *Contact - Audrey Sweet',
   LDEQ319: 'Louisiana Department of Environmental Quality',
@@ -974,6 +976,7 @@ export default {
     'Statewide ambient surface water monitoring to support the biological monitoring program, non-facility',
   MOAPA_WQX:
     'Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada (Tribal) || Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada (Tribal)',
+  MOBILEBAYNEP_WQX: '',
   MONT_DEQ_WQX:
     'The MONT_DEQ_WQX organization is a static, historic dataset with the majority of data originating from the Storease database.',
   MONT_PPL_WQX:
@@ -1152,6 +1155,7 @@ export default {
   PGSTNATR_WQX:
     "Port Gamble S'Klallam Tribe (Tribal) || Port Gamble S'Klallam Tribe (Tribal)",
   PHINIZYCENTERFORWATERSCIENCES: '',
+  PIBO_MP: '',
   PICAYUNERANCHERIACWA106:
     'Picayune Rancheria of Chukchansi Indians of California (Tribal) || Picayune Rancheria of Chukchansi Indians of California (Tribal)',
   PICEANCE_LDR: 'Piceance Basin Colorado',
@@ -1345,8 +1349,7 @@ export default {
   SHELLYAB_WQX: 'Water Quality Monitoring Data.',
   SHOPAITR_WQX:
     'Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada (Tribal) || Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada (Tribal)',
-  SHOSHONE_BANNOCK:
-    'TRIBE || LEGACY Shoshone-Bannock Tribes of the Fort Hall Reservation (Tribal)',
+  SHOSHONE_BANNOCK: 'Shoshone Bannock Tribes',
   SHOSHONE_BANNOCK_WQX:
     'Shoshone-Bannock Tribes of the Fort Hall Reservation (Tribal) || Shoshone-Bannock Tribes of the Fort Hall Reservation (Tribal)',
   SIR_WQX:

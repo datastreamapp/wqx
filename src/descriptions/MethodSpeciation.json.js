@@ -74,6 +74,8 @@ export default {
     'H2O is the molecular formula of water.It shows the molecular composition of water. In H2O , H stands for hydrogen. And O for oxygen.Thus it means that water is composed of 2 atoms of hydrogen and one atom of oxygen,bonded together by a chemical bond.',
   'as H2S':
     'Hydrogen sulfide is a chemical compound with the formula H ₂S. It is a colorless chalcogen hydride gas with the characteristic foul odor of rotten eggs.',
+  'as H2SO4':
+    'Sulfuric acid (American spelling and the preferred IUPAC name) or sulphuric acid (Commonwealth spelling), known in antiquity as oil of vitriol, is a mineral acid composed of the elements sulfur, oxygen, and hydrogen, with the molecular formula H2SO4',
   'as HCO3':
     'Bicarbonate s an intermediate form in the deprotonation of carbonic acid. It is a polyatomic anion with the chemical formula HCO⁻ ₃. Bicarbonate serves a crucial biochemical role in the physiological pH buffering system. ',
   'as Hg':

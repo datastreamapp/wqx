@@ -220,6 +220,7 @@
   "T": "Hardness by Calculation Method - Standard Methods 2340B - 19th Ed ",
   "TMLF": "Time missing in logger file.",
   "TOC": "Temperature outside of criteria",
+  "TR": "Trace",
   "TT": "analyte recalculated against alternate labeled compound(s)",
   "U": "Not Detected: The analyte was analyzed for, but was not detected at a level greater than or equal to the level of the adjusted Contract Required Quantitation Limit (CRQL) for sample and method. ",
   "UDL": "Lab's detection limit is not known/available for validation or comparison to the result.",

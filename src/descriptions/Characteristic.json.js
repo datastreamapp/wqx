@@ -6194,7 +6194,6 @@ export default {
   '2,3,6-Trifluoro-N-(3-{[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]carbamoyl}phenyl)benzamide':
     '',
   '2,3,6-Trimethylnaphthalene': 'Nemi.gov; Request Date: 02-MAR-07',
-  '2,3,7,8,-Tetrachlorodibenzo-p-dioxin': '',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin': 'Nemi.gov; Request Date: 02-MAR-07',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEC': '',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ':
@@ -7695,7 +7694,7 @@ export default {
     '',
   '2-Propenoic acid, 1,6-hexanediyl ester': '; Request Date: 11-JAN-18',
   '2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester': '',
-  '2-Propenoic acid, 2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl esterï':
+  '2-Propenoic acid, 2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl ester':
     '',
   '2-Propenoic acid, 2,2,3,3,3-pentafluoropropyl ester': '',
   '2-Propenoic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester': '',
@@ -12101,7 +12100,7 @@ export default {
     'PFAS removal',
   "Acetic acid, 2,2,2-trifluoro-, compd.with N,N'-(dithiodi-2,1-ethanediyl)bis[2-(methylamino)acetamide] (2:1)":
     'PFAS removal',
-  "Acetic acid, 2,2,2-trifluoro-, compd.with guanidine, N-[(4S)-4-amino-5-[(2-aminoethyl)amino]pentyl]-N'-nitro- (3:1)ï¿":
+  "Acetic acid, 2,2,2-trifluoro-, compd.with guanidine, N-[(4S)-4-amino-5-[(2-aminoethyl)amino]pentyl]-N'-nitro- (3:1)":
     '',
   'Acetic acid, 2,2,2-trifluoro-, erbium salt (3:1)': 'PFAS removal',
   'Acetic acid, 2,2,2-trifluoro-, europium(3+) salt, hydrate(3:1:1)':
@@ -15553,7 +15552,7 @@ export default {
   Coumestrol: '; Request Date: 10-JUL-13',
   Count: '; Request Date: 18-JUL-08',
   'Count%': '; Request Date: 10-JUL-13',
-  'Count, species': 'Information,4',
+  'Count, species': 'Information,4 (Unique Taxa)',
   'Count, species 25-30 mm size class': 'Physical,14; Request Date: 19-MAR-19',
   'Count, species 30-35 mm size class': 'Physical,14; Request Date: 19-MAR-19',
   'Count, species 35-40 mm size class': 'Physical,14; Request Date: 19-MAR-19',
@@ -19110,6 +19109,7 @@ export default {
   'Lake suitability for recreation (choice list)': '; Request Date: 02-MAR-07',
   'Lake surface condition (choice list)': '',
   'Lake water level (choice list)': '',
+  'Lambda-Cyhalothrin': 'λ-Cyhalothrin',
   Lamivudine: '; Request Date: 02-FEB-15',
   Lamotrigine: '; Request Date: 30-MAY-13',
   'Lamotrigine-N-2-beta-D-glucuronide': 'NWIS',
@@ -23429,8 +23429,8 @@ export default {
   Phosmetoxon: '; Request Date: 22-JUL-14',
   Phosphamidon: '; Request Date: 22-JUL-14',
   'Phosphamidon-E': '; Request Date: 20-NOV-18',
-  'Phosphate-phosphorus***retired***use Total Phosphorus, mixed forms':
-    'Tha measure of phosphorus present as phosphate.; Request Date: 22-JUL-14',
+  'Phosphate-phosphorus***retired***use Orthophosphate':
+    'Tha measure of phosphorus present as phosphate.; Request Date: 22-JUL-14 /  2022-08-12 Shumway',
   'Phosphated pesticides':
     'Any phosphate-containing substances capable of preventing, destroying, repelling, or mitigating any pest.; Request Date: 02-MAR-07',
   'Phosphates (orthophosphate plus condensed and polyphosphates)': 'NWIS',
@@ -26352,6 +26352,7 @@ export default {
     'Information,4; Request Date: 14-MAY-10',
   Subsample_A: 'GLENDA Biological Data Migration; Request Date: 14-APR-17',
   Subsample_B: 'GLENDA Biological Data Migration; Request Date: 14-APR-17',
+  Subsample_C: 'GLENDA Biological Data Migration; Request Date: 06-JAN-24',
   'Substrate (choice list)': 'NRSA; Request Date: 10-APR-17',
   'Substrate - Woody Debris': '',
   'Substrate - boulders': '; Request Date: 02-MAR-07',
@@ -27126,6 +27127,8 @@ export default {
   'Total Petroleum Hydrocarbon - Extended Range Organics': 'NWIS',
   'Total Petroleum Hydrocarbons (C10-C40)': '; Request Date: 17-JUL-18',
   'Total Petroleum Hydrocarbons (C6-C32 TPH)': '; Request Date: 02-APR-15',
+  'Total Petroleum Hydrocarbons - TPH DRO/RRO Extraction': '',
+  'Total Petroleum Hydrocarbons - TPH GRO Extraction': '',
   'Total Phosphorus, mixed forms':
     'EPA WorkGroup QA - Total Phosphorus, mixed forms (LsP+FeP+CaP+InOrgP+OrgP); Request Date: 04-APR-16',
   'Total Planar PCBs': '; Request Date: 14-AUG-18',
@@ -27886,13 +27889,13 @@ export default {
   'Weak acids':
     'A substance that partially ionizes in water to give hydrogen ions in solution.; Request Date: 02-MAR-07',
   'Weak, dissociable cyanide': '1;GLENDA - 01/2020',
-  'Weather Condition past 24 hours': '',
   'Weather comments (text)': '; Request Date: 02-MAR-07',
+  'Weather condition': 'Weather condition past 7 days',
   'Weather condition (WMO code 4501) (choice list)':
     '; Request Date: 02-MAR-07',
   'Weather condition (WMO code 4677) (choice list)':
     '; Request Date: 02-MAR-07',
-  'Weather condition past 7 days': '',
+  'Weather condition past 24 hours': '',
   Weight:
     'The mass of an object measured in units of mass such as grams, pounds, tons, etc.; Request Date: 02-MAR-07',
   'Weight, volatile portion':
@@ -28686,6 +28689,5 @@ export default {
   '{[(Perfluorotetradecyl)sulfonyl]amino}acetic acid': '',
   '{[(Perfluorotridecyl)sulfonyl]amino}acetic acid': '',
   '{[(Perfluoroundecyl)sulfonyl]amino}-3-betaine': '',
-  '{[(Perfluoroundecyl)sulfonyl]amino}acetic acid': '',
-  'λ-Cyhalothrin': 'λ-Cyhalothrin'
+  '{[(Perfluoroundecyl)sulfonyl]amino}acetic acid': ''
 }

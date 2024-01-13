@@ -49,6 +49,7 @@ export default {
   '46 Day': '46th consecutive day',
   '47 Day': '47th consecutive day',
   '48 Day': '48th consecutive day',
+  '48 Hours': 'done, produced, or occurring in an elapsed time of 48 hours',
   '49 Day': '49th consecutive day',
   '5 Day': '5th consecutive day',
   '50 Day': '50th consecutive day',

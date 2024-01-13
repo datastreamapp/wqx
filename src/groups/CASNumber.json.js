@@ -6467,7 +6467,6 @@ export default {
   '2,3,6-Trifluoro-N-(3-{[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]carbamoyl}phenyl)benzamide':
     '862130-95-8',
   '2,3,6-Trimethylnaphthalene': '829-26-5',
-  '2,3,7,8,-Tetrachlorodibenzo-p-dioxin': '1746-01-6',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin': '1746-01-6',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEC': '',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ': '1746-01-7',
@@ -8059,7 +8058,7 @@ export default {
   '2-Propenoic acid, 1,6-hexanediyl ester': '13048-33-4',
   '2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester':
     '2160-89-6',
-  '2-Propenoic acid, 2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl esterï':
+  '2-Propenoic acid, 2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl ester':
     '53038-41-8',
   '2-Propenoic acid, 2,2,3,3,3-pentafluoropropyl ester': '356-86-5',
   '2-Propenoic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester': '424-64-6',
@@ -12673,7 +12672,7 @@ export default {
     '918490-21-8',
   "Acetic acid, 2,2,2-trifluoro-, compd.with N,N'-(dithiodi-2,1-ethanediyl)bis[2-(methylamino)acetamide] (2:1)":
     '97313-92-3',
-  "Acetic acid, 2,2,2-trifluoro-, compd.with guanidine, N-[(4S)-4-amino-5-[(2-aminoethyl)amino]pentyl]-N'-nitro- (3:1)ï¿":
+  "Acetic acid, 2,2,2-trifluoro-, compd.with guanidine, N-[(4S)-4-amino-5-[(2-aminoethyl)amino]pentyl]-N'-nitro- (3:1)":
     '101913-90-0',
   'Acetic acid, 2,2,2-trifluoro-, erbium salt (3:1)': '70236-99-6',
   'Acetic acid, 2,2,2-trifluoro-, europium(3+) salt, hydrate(3:1:1)':
@@ -19353,6 +19352,7 @@ export default {
   'Lake suitability for recreation (choice list)': '',
   'Lake surface condition (choice list)': '',
   'Lake water level (choice list)': '',
+  'Lambda-Cyhalothrin': '91465-08-6',
   Lamivudine: '134678-17-4',
   Lamotrigine: '84057-84-1',
   'Lamotrigine-N-2-beta-D-glucuronide': '',
@@ -26354,6 +26354,7 @@ export default {
   'Submerged Vegetation Habitat Type (%)': '',
   Subsample_A: '',
   Subsample_B: '',
+  Subsample_C: '',
   'Substrate (choice list)': '',
   'Substrate - Woody Debris': '',
   'Substrate - boulders': '',
@@ -27077,6 +27078,8 @@ export default {
   'Total Petroleum Hydrocarbon - Extended Range Organics': '',
   'Total Petroleum Hydrocarbons (C10-C40)': '',
   'Total Petroleum Hydrocarbons (C6-C32 TPH)': '',
+  'Total Petroleum Hydrocarbons - TPH DRO/RRO Extraction': '',
+  'Total Petroleum Hydrocarbons - TPH GRO Extraction': '',
   'Total Phosphorus, mixed forms': '',
   'Total Planar PCBs': '',
   'Total Sample Weight': '',
@@ -27792,11 +27795,11 @@ export default {
   'Wave height (WMO code 1555) (choice list)': '',
   'Weak acids': '',
   'Weak, dissociable cyanide': '',
-  'Weather Condition past 24 hours': '',
   'Weather comments (text)': '',
+  'Weather condition': '',
   'Weather condition (WMO code 4501) (choice list)': '',
   'Weather condition (WMO code 4677) (choice list)': '',
-  'Weather condition past 7 days': '',
+  'Weather condition past 24 hours': '',
   Weight: '',
   'Weight, volatile portion': '',
   'Well condition (choice list)': '',
@@ -28569,6 +28572,5 @@ export default {
   '{[(Perfluorotetradecyl)sulfonyl]amino}acetic acid': '',
   '{[(Perfluorotridecyl)sulfonyl]amino}acetic acid': '',
   '{[(Perfluoroundecyl)sulfonyl]amino}-3-betaine': '',
-  '{[(Perfluoroundecyl)sulfonyl]amino}acetic acid': '',
-  'λ-Cyhalothrin': '91465-08-6'
+  '{[(Perfluoroundecyl)sulfonyl]amino}acetic acid': ''
 }

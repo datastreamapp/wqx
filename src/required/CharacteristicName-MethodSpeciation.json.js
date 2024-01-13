@@ -42,7 +42,7 @@ export default {
           'Oxygen 18/oxygen 16 ratio in sulfate',
           'Oxygen-18',
           'Oxygen-18/Oxygen-16 ratio',
-          'Phosphate-phosphorus***retired***use Total Phosphorus, mixed forms',
+          'Phosphate-phosphorus***retired***use Orthophosphate',
           'Phosphorus',
           'Phosphorus, Particulate Organic',
           'Phosphorus, hydrolyzable',

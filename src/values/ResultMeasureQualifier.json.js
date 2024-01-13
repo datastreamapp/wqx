@@ -225,6 +225,7 @@ export default {
     'T',
     'TMLF',
     'TOC',
+    'TR',
     'TT',
     'U',
     'UDL',

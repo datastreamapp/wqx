@@ -8114,7 +8114,6 @@ export default {
   '2,3,6-Trifluoro-N-(3-{[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]carbamoyl}phenyl)benzamide':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,3,6-Trimethylnaphthalene': 'Organics, Other',
-  '2,3,7,8,-Tetrachlorodibenzo-p-dioxin': 'Not Assigned',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin': 'Organics, Other',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEC': 'Physical',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ': 'Organics, Other',
@@ -10053,7 +10052,7 @@ export default {
   '2-Propenoic acid, 1,6-hexanediyl ester': 'Not Assigned',
   '2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
-  '2-Propenoic acid, 2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl esterï':
+  '2-Propenoic acid, 2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Propenoic acid, 2,2,3,3,3-pentafluoropropyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -15642,7 +15641,7 @@ export default {
     'PFOS, Perfluorooctane Sulfonate',
   "Acetic acid, 2,2,2-trifluoro-, compd.with N,N'-(dithiodi-2,1-ethanediyl)bis[2-(methylamino)acetamide] (2:1)":
     'PFOS, Perfluorooctane Sulfonate',
-  "Acetic acid, 2,2,2-trifluoro-, compd.with guanidine, N-[(4S)-4-amino-5-[(2-aminoethyl)amino]pentyl]-N'-nitro- (3:1)ï¿":
+  "Acetic acid, 2,2,2-trifluoro-, compd.with guanidine, N-[(4S)-4-amino-5-[(2-aminoethyl)amino]pentyl]-N'-nitro- (3:1)":
     'PFAS,Perfluorinated Alkyl Substance',
   'Acetic acid, 2,2,2-trifluoro-, erbium salt (3:1)':
     'PFOS, Perfluorooctane Sulfonate',
@@ -23103,6 +23102,7 @@ export default {
   'Lake suitability for recreation (choice list)': 'Physical',
   'Lake surface condition (choice list)': 'Not Assigned',
   'Lake water level (choice list)': 'Information',
+  'Lambda-Cyhalothrin': 'Not Assigned',
   Lamivudine: 'Organics, Other',
   Lamotrigine: 'Organics, Other',
   'Lamotrigine-N-2-beta-D-glucuronide': 'Not Assigned',
@@ -31125,6 +31125,7 @@ export default {
   'Submerged Vegetation Habitat Type (%)': 'Physical, Habitat',
   Subsample_A: 'Not Assigned',
   Subsample_B: 'Not Assigned',
+  Subsample_C: 'Not Assigned',
   'Substrate (choice list)': 'Not Assigned',
   'Substrate - Woody Debris': 'Information',
   'Substrate - boulders': 'Information',
@@ -31880,6 +31881,8 @@ export default {
   'Total Petroleum Hydrocarbon - Extended Range Organics': 'Organics, Other',
   'Total Petroleum Hydrocarbons (C10-C40)': 'Not Assigned',
   'Total Petroleum Hydrocarbons (C6-C32 TPH)': 'Not Assigned',
+  'Total Petroleum Hydrocarbons - TPH DRO/RRO Extraction': 'Organics, Other',
+  'Total Petroleum Hydrocarbons - TPH GRO Extraction': 'Organics, Other',
   'Total Phosphorus, mixed forms': 'Nutrient',
   'Total Planar PCBs': 'Not Assigned',
   'Total Sample Weight': 'Physical',
@@ -32686,11 +32689,11 @@ export default {
   'Wave height (WMO code 1555) (choice list)': 'Physical',
   'Weak acids': 'Physical',
   'Weak, dissociable cyanide': 'Organics, Other',
-  'Weather Condition past 24 hours': 'Information',
   'Weather comments (text)': 'Physical',
+  'Weather condition': 'Not Assigned',
   'Weather condition (WMO code 4501) (choice list)': 'Physical',
   'Weather condition (WMO code 4677) (choice list)': 'Physical',
-  'Weather condition past 7 days': 'Not Assigned',
+  'Weather condition past 24 hours': 'Information',
   Weight: 'Physical',
   'Weight, volatile portion': 'Physical',
   'Well condition (choice list)': 'Not Assigned',
@@ -33587,6 +33590,5 @@ export default {
   '{[(Perfluoroundecyl)sulfonyl]amino}-3-betaine':
     'PFAS,Perfluorinated Alkyl Substance',
   '{[(Perfluoroundecyl)sulfonyl]amino}acetic acid':
-    'PFAS,Perfluorinated Alkyl Substance',
-  'λ-Cyhalothrin': 'Not Assigned'
+    'PFAS,Perfluorinated Alkyl Substance'
 }

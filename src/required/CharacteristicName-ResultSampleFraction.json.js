@@ -1486,7 +1486,7 @@ export default {
           'Pheophytin ratio',
           'Phorate',
           'Phorate sulfone',
-          'Phosphate-phosphorus***retired***use Total Phosphorus, mixed forms',
+          'Phosphate-phosphorus***retired***use Orthophosphate',
           'Phosphated pesticides',
           'Phosphorothioic acid, O-ethyl O-methyl S-propyl ester',
           'Phosphorus',

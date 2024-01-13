@@ -828,7 +828,7 @@ export default {
           'Pheopigments of Chlorophyll',
           'Phorate',
           'Phosmet',
-          'Phosphate-phosphorus***retired***use Total Phosphorus, mixed forms',
+          'Phosphate-phosphorus***retired***use Orthophosphate',
           'Phosphonate',
           'Phosphorus',
           'Phosphorus (white or yellow)',

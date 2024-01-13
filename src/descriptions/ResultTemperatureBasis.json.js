@@ -33,7 +33,7 @@ export default {
   '50 Deg C': '50 degrees Celsius (C) are equal to 122 degrees Fahrenheit (F)',
   '55 Deg C': '55 degrees Celsius (C) are equal to 131 degrees Fahrenheit (F)',
   '60 Deg C': '60 degrees Celsius (C) are equal to 140 degrees Fahrenheit (F)',
-  '60 Deg F,psi':
+  '60F,14.73psi':
     '60 degrees Fahrenheit and 14.73 pounds per square inch absolute',
   '65 Deg C': '65 degrees Celsius (C) are equal to 149 degrees Fahrenheit (F)',
   '70 Deg C': '70 degrees Celsius (C) are equal to 158 degrees Fahrenheit (F)',
@@ -45,6 +45,6 @@ export default {
   Heated: 'Heated, temperature not specified',
   'Room temp': 'Room temperature, temperature not specified',
   STP: 'STP means Standard Temperature and Pressure. It is defined (0 deg Celsius) and 1 atm pressure. Solutions be at 1 M concentration STP is used for calculations involving gases that approximate ideal gas',
-  'gravity-temp':
+  'sp.gr. temp':
     'Specific gravity test temperature. This temperature is 4 degrees Celsius (39.2 degrees Fahrenheit) for water'
 }

@@ -28,7 +28,7 @@
     "50 Deg C",
     "55 Deg C",
     "60 Deg C",
-    "60 Deg F,psi",
+    "60F,14.73psi",
     "65 Deg C",
     "70 Deg C",
     "75 Deg C",
@@ -39,7 +39,7 @@
     "Heated",
     "Room temp",
     "STP",
-    "gravity-temp"
+    "sp.gr. temp"
   ],
   "maxLength": 12
 }
