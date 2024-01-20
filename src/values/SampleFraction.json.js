@@ -18,6 +18,7 @@ export default {
     'Extractable, oxide-bound',
     'Extractable, residual',
     'Field',
+    'Filter/sieve residue',
     'Filterable',
     'Filtered field and/or lab',
     'Filtered, field',

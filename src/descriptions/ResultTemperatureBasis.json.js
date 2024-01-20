@@ -17,12 +17,16 @@ export default {
   '20 Deg C': '20 degrees Celsius (C) are equal to 68 degrees Fahrenheit (F)',
   '23 Deg C': '23 degrees Celsius (C) are equal to 73.4 degrees Fahrenheit (F)',
   '25 Deg C': '25 degrees Celsius (C) are equal to 77 degrees Fahrenheit (F)',
+  '26 Deg C': '26 degrees Celsius (C) are equal to 79 degrees Fahrenheit (F)',
   '30 Deg C': '30 degrees Celsius (C) are equal to 86 degrees Fahrenheit (F)',
   '35 Deg C': '35 degrees Celsius (C) are equal to 95 degrees Fahrenheit (F)',
   '37 Deg C': '37 degrees Celsius (C) are equal to 98.6 degrees Fahrenheit (F)',
+  '4 Deg C': '4 degrees Celsius (C) are equal to 39 degrees Fahrenheit (F)',
   '40 Deg C': '40 degrees Celsius (C) are equal to 104 degrees Fahrenheit (F)',
   '41 Deg C':
     '41 degrees Celsius (C) are equal to 105.8 degrees Fahrenheit (F)',
+  '41.5 Deg C':
+    '41.5 degrees Celsius (C) are equal to 107 degrees Fahrenheit (F)',
   '42 Deg C':
     '42 degrees Celsius (C) are equal to 107.6 degrees Fahrenheit (F)',
   '43 Deg C':
@@ -30,6 +34,8 @@ export default {
   '44.5 Deg C':
     '44.5 degrees Celsius (C) are equal to 112.1 degrees Fahrenheit (F)',
   '45 Deg C': '45 degrees Celsius (C) are equal to 113 degrees Fahrenheit (F)',
+  '450 Deg C':
+    '450 degrees Celsius (C) are equal to 842 degrees Fahrenheit (F)',
   '50 Deg C': '50 degrees Celsius (C) are equal to 122 degrees Fahrenheit (F)',
   '55 Deg C': '55 degrees Celsius (C) are equal to 131 degrees Fahrenheit (F)',
   '60 Deg C': '60 degrees Celsius (C) are equal to 140 degrees Fahrenheit (F)',

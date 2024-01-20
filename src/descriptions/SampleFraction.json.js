@@ -26,6 +26,8 @@ export default {
   'Extractable, residual':
     'Part of a sequential extraction protocol. Pertains to analytes present in the crystal lattice of minerals that are dissolved by strong acids.',
   Field: 'Performed in field.',
+  'Filter/sieve residue':
+    'The residue retained on a filter or sieve after sample material has been passed through it',
   Filterable:
     'That portion of the analyte which is in or absorbed to material which passes through the filter during sample filtration.',
   'Filtered field and/or lab':

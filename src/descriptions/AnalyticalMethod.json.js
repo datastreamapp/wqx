@@ -2769,8 +2769,7 @@ export default {
   CalCOFI: '',
   'Cow Bacteroidetes ID':
     'Service determines the presence of Cattle Fecal Contamination.  Uses Bacteroidetes as the indicator organism. Results in as little as 3 working days. Client sends 500ml water samples. Uses PCR DNA analytical technology. Indicator organism.',
-  D1067:
-    'D1067 ~ ASTM . Acidity or Alkalinity of water by electrometric titration',
+  D1067: 'https://www.astm.org/DATABASE.CART/HISTORICAL/D1067-11.htm',
   'D1067(A)': '',
   'D1067(B)': '',
   'D1067(C)': '',
@@ -2858,6 +2857,8 @@ export default {
   D1890: 'D1890 ~ ASTM . Beta Activity in Water',
   D1941: '',
   D1943: 'D1943 ~ ASTM . Alpha Particle Radioactivity of Water',
+  D1946:
+    'Standard Method for Analysis of Reformed Gas by Gas Chromatography Reference: https://www.astm.org/d1946-90r19.html',
   D1976: 'D1976 ~ ASTM . Elements in Water by ICP-AES',
   D2035: '',
   'D2036(A)':
@@ -5171,8 +5172,7 @@ export default {
     'WI DNR BMI Kick ~ WDNR Fish Habitat . Guidelines for Collecting Macroinvertebrate Samples from Wadable Streams in Wisconsin',
   WRTDS:
     'Weighted Regressions on Time, Discharge, and Season (WRTDS), with an Application to Chesapeake Bay River Inputs ~ USGS . Hirsch, R.M., Moyer, D.L., and Archfield, S.A',
-  'Water Sampling Device':
-    'This method involves the collection of a water sample by lowering a sampling container to depth and using a physical or mechanical method of closing the container (e.g., Lamotte, Rosette, Van Dorn). This is a generic method intended for use by MassWateR users.',
+  'Water Sampling Device': 'Reference:  https://www.astm.org/d1946-90r19.html',
   XENO: '',
   'X_89_176(N)': '',
   'X_89_176(P)': ''

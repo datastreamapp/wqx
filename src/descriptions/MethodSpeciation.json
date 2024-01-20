@@ -107,5 +107,8 @@
   "as pH": "(potential of hydrogen) is a numeric scale used to specify the acidity or basicity of an aqueous solution.. Specify the pH at which analyte is determined.  For research purposes or when analyte values are to be compared  among laboratories, determine the analyte response of a given  water over a wide range of pH values.",
   "as photons": "A photon is a particle representing a quantum of light or other electromagnetic radiation",
   "as qPCR": "bacteria studies involving real-time polymerase chain reaction (qPCR) tests",
+  "purified": "The purified target DNA should be free of contaminants, including proteins, other cellular components and undesired nucleic acids. Purification is based on selective adsorption of DNA to the silica membrane in the presence of high concentrations of chaotropic salts, washes to efficiently remove contaminants, and elution of the DNA with low-salt solutions such as TE buffer or water.",
+  "purified untreated": "purified untreated",
+  "treated": "treated",
   "unknown": "Unknown or unspecified"
 }

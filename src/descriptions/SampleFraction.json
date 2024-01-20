@@ -13,6 +13,7 @@
   "Extractable, oxide-bound": "Part of a sequential extraction protocol. Pertains to analytes that are assumed to be associated with iron and manganese oxides (also known as the reducible fraction).",
   "Extractable, residual": "Part of a sequential extraction protocol. Pertains to analytes present in the crystal lattice of minerals that are dissolved by strong acids.",
   "Field": "Performed in field.",
+  "Filter/sieve residue": "The residue retained on a filter or sieve after sample material has been passed through it",
   "Filterable": "That portion of the analyte which is in or absorbed to material which passes through the filter during sample filtration.",
   "Filtered field and/or lab": "Filtering may have been performed in the field, lab, or both. Pertains to constituents in a sample passed through a membrane or fibrous filter.",
   "Filtered, field": "Performed in the field. Pertains to constituents in a sample passed through a membrane or fibrous filter.",

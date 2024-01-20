@@ -13079,6 +13079,7 @@ export default {
   'BTEX, Total':
     '1;GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   BTU: '; Request Date: 03-OCT-14',
+  'BacCow DNA marker': 'https://pubmed.ncbi.nlm.nih.gov/17644149/',
   'BacR DNA marker': '; Request Date: 08-OCT-19',
   'BacR DNA marker (purified)': '; Request Date: 08-OCT-19',
   'Bacillus thuringiensis (Berliner)': '; Request Date: 02-MAR-07',
@@ -16748,6 +16749,8 @@ export default {
   'Dodecyl mercaptan': '; Request Date: 02-MAR-07',
   'Dodecyl sulfate': 'NWIS',
   Dodecylbenzene: '; Request Date: 02-MAR-07',
+  'DogBact DNA marker':
+    'https://www.sciencedirect.com/science/article/abs/pii/S0043135410002794?via%3Dihub',
   Dominance: '',
   'Dominance, Top 3 species': '',
   'Dominant Habitat Type': 'Information,4; Request Date: 10-SEP-11',
@@ -19246,11 +19249,14 @@ export default {
     'National Park Service, contact nps.gov; Request Date: 02-JUN-16',
   Lederfen: '; Request Date: 22-JUL-14',
   'Ledge Cover (%)': '',
+  'LeeSeaGull DNA marker': 'https://pubmed.ncbi.nlm.nih.gov/23542477/ ',
   'Left Bank Angle': '; Request Date: 04-OCT-18',
   'Left Bank Undercut': '; Request Date: 04-OCT-18',
   Length: 'The distance from end to end of an object.; Request Date: 02-MAR-07',
   'Length evaluation, subset': '',
   'Length, Partial (Fish)': 'Physical,14; Request Date: 08-DEC-16',
+  'Length, Postorbit of eye to Hypural (POH)':
+    'fish length, Postorbit of eye to Hypural (POH)',
   'Length, Total (Fish)': 'Physical,14; Request Date: 02-MAR-07',
   'Length, total':
     'The total length measured in units of length.; Request Date: 02-MAR-07',
@@ -23633,6 +23639,8 @@ export default {
   Picoxystrobin: '; Request Date: 03-SEP-14',
   'Picric acid': '; Request Date: 22-JUL-14',
   Picrotoxin: '; Request Date: 02-MAR-07',
+  'Pig-2-Bac DNA marker':
+    'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
   Pilargidae: 'NWIS',
   Pilaria: 'NWIS',
   'Pimaric acid': '1; Request Date: 30-APR-15',
@@ -27048,7 +27056,8 @@ export default {
   Tomopteridae: 'NWIS',
   'Tonalide***retired***use 6-Acetyl-1,1,2,4,4,7-hexamethyltetralin':
     '; Request Date: 01-APR-13',
-  'Top 3 taxa': '',
+  'Top 3 taxa':
+    'An assessment of the top three number of each kind of organism found in an ecosystem.',
   'Top of bank cross-sectional area': '',
   'Top of bank width': '',
   Topiramate: '; Request Date: 27-OCT-17',

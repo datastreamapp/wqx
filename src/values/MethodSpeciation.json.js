@@ -112,6 +112,9 @@ export default {
     'as pH',
     'as photons',
     'as qPCR',
+    'purified',
+    'purified untreated',
+    'treated',
     'unknown'
   ],
   maxLength: 20

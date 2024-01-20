@@ -808,7 +808,7 @@ export default {
     'Kiowa Indian Tribe of Oklahoma (Tribal) || Kiowa Indian Tribe of Oklahoma (Tribal)',
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX: 'Klamath Tribes (Tribal) || Klamath Tribes (Tribal)',
-  KNA: '',
+  KNA: 'Test  WQX with M.Z. credentials.',
   KNRD_WQX:
     'Kalispel Indian Community of the Kalispel Reservation (Tribal) || Kalispel Indian Community of the Kalispel Reservation (Tribal)',
   KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
