@@ -6,6 +6,8 @@ export default {
   'Benthic Macroinvertebrates':
     'Benthic Macroinvertebrates - https://www.nps.gov/im/klmn/species-lists.htm',
   Corals: 'Corals - https://www.nps.gov/im/klmn/species-lists.htm',
+  Diatoms:
+    'Diatoms are a type of plankton called phytoplankton, diatoms are classed as microalgae. ',
   'Fish/Nekton':
     'North American Native Fishes Association Fish List -  http://www.nanfa.org/checklist.shtml',
   Invertebrates:

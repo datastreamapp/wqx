@@ -48,7 +48,7 @@ export default {
   '21ARIZ_WQX': 'Water Quality Monitoring Data for all the Waters in the state',
   '21AS_WQX': '',
   '21AWIC': '',
-  '21BRBCH': 'The Natural Resources Departhment within the Bad River Tribe',
+  '21BRBCH': 'The Natural Resources Department within the Bad River Tribe',
   '21CABCH': 'Contractor for the State of California',
   '21CAOCSD_WQX': 'Water quality monitoring data',
   '21COL001_WQX':
@@ -314,8 +314,7 @@ export default {
   AZDEQ_SW: 'Water Quality Division: Surface Water',
   AZDEQ_WPD: 'Waste Programs Division',
   BACKBAYNWR: 'Back Bay National Wildlife Refuge',
-  BADRIVER_WQX:
-    'Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation, Wisconsin || Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation, Wisconsin',
+  BADRIVER_WQX: 'Bad River Tribe',
   BATTELLE_NFTDR_WQX: 'Battelle',
   BATTELLE_NOR_WQX: '',
   BBP_WQX:
@@ -562,6 +561,7 @@ export default {
   DEMOTEST_WQX: 'Department of Natural Resources',
   DENTONWATERSHED_WQX: '',
   DIAL_CORDY_WQX: '',
+  DNREC_DOW: '',
   DOEE: 'Water Quality Monitoring Data for all the Waters in the state',
   DRBA: 'Dan River Basin Association',
   DRBC: 'Interstate River Basin Commission',

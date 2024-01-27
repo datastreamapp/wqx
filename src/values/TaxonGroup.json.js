@@ -8,6 +8,7 @@ export default {
     'Bacteria/Virus',
     'Benthic Macroinvertebrates',
     'Corals',
+    'Diatoms',
     'Fish/Nekton',
     'Invertebrates',
     'Not Assigned',
