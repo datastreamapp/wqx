@@ -177,6 +177,8 @@ export default {
   'cm3/sec': 'Flow, Cubic centimeters per second',
   code: 'Picklist or Choicelist, Please see http://waterdata.usgs.gov/nwis/qwdata?codes_table26_help#62955',
   copies: 'Concentration Solution, copies (ie viral load)',
+  'copies/250mL':
+    'Concentration Solution, copies per 250 milliliters (ie viral load)',
   'copies/mL': 'Concentration Solution, copies per milliliters (ie viral load)',
   count: 'Quantity, Count',
   'counts/sec': 'Concentration Solution, Counts per second',
@@ -337,7 +339,7 @@ export default {
   'metric ton': 'Weight Mass, Metric tons (tonne) or MT',
   mg: 'Weight Mass, milligrams',
   'mg N/l******':
-    'Concentration Solution, mg nitrogen in one liter of water or milligrams per liter Nitrogen  ***retired***use mg/l, speciation= as N, ',
+    'DO NOT USE, Concentration Solution, mg nitrogen in one liter of water or milligrams per liter Nitrogen  ***retired***use mg/l, speciation= as N, ',
   'mg/L': 'Concentration Solution, milligrams per liter',
   'mg/L/hr': 'Viscosity, milligrams per liter per hour',
   'mg/cm2': 'Concentration Solution, milligrams per square centimeters',
@@ -453,7 +455,7 @@ export default {
   pt: 'Volume, Fluid pints',
   qt: 'Volume, Fluid quarts',
   seconds: 'Time, Seconds',
-  'std*********': 'Quantity, Standard Unit***retired***use None',
+  'std*********': 'DO NOT USE, Quantity, Standard Unit***retired***use None',
   'tCaCO3/Kt***':
     'Concentration Solution, Short tons of calcium carbonate (CaCO3) per kiloton***retired***use tons/kt and speciation = CaCO3',
   tons: 'Weight Mass, Short tons',

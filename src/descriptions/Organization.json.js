@@ -808,7 +808,7 @@ export default {
     'Kiowa Indian Tribe of Oklahoma (Tribal) || Kiowa Indian Tribe of Oklahoma (Tribal)',
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX: 'Klamath Tribes (Tribal) || Klamath Tribes (Tribal)',
-  KNA: 'Test  WQX with M.Z. credentials.',
+  KNA: '',
   KNRD_WQX:
     'Kalispel Indian Community of the Kalispel Reservation (Tribal) || Kalispel Indian Community of the Kalispel Reservation (Tribal)',
   KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
@@ -1168,8 +1168,7 @@ export default {
   PLYMOUTHDMEA: 'Plymouth Department of Marine and Environmental Affairs',
   PNDECS_WQX:
     'Pawnee Nation of Oklahoma (Tribal) || Pawnee Nation of Oklahoma (Tribal)',
-  POARCHCRK_WQX:
-    'Poarch Band of Creeks (Tribal) || Poarch Band of Creek Indians (Tribal)',
+  POARCHCRK_WQX: 'Poarch Band of Creek Indians;',
   POLSWATER_WQX: 'Pueblo of Laguna',
   POMO989_WQX: ' (Tribal)',
   PORTGRAHAM:
@@ -1425,7 +1424,7 @@ export default {
   STOI: 'Spokane Tribe of the Spokane Reservation (Tribal) || Spokane Tribe of the Spokane Reservation (Tribal)',
   STORLVD_WQX: 'Water Quality Monitoring Data',
   STROUD_WQX: 'Water Quality Monitoring Data',
-  STS: '1143930, Save the Sound, Water Quality Monitoring',
+  STS: 'NGO',
   ST_CROIX_WQX:
     'St. Croix Chippewa Indians of Wisconsin (Tribal) || St. Croix Chippewa Indians of Wisconsin (Tribal)',
   SUMFS: 'Stockton University Marine Field Station',
