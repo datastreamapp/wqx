@@ -4642,9 +4642,15 @@ export default {
   '13C3-PFBS': '',
   '13C3-PFHxS': '',
   '13C3-PFPeA': '',
+  '13C4, 15N2-Fipronil desulfinyl': '13C4, 15N2-Fipronil desulfinyl',
+  '13C4, 15N2-Fipronil detrifluoromethylsulfinyl':
+    'https://www.stable-isotopes.com/prodetails.asp?catnumber=CS-R-00710',
+  '13C4, 15N2-Fipronil sulfide': '13C4, 15N2-Fipronil sulfide',
+  '13C4, 15N2-Fipronil sulfone': '13C4, 15N2-Fipronil sulfone',
   '13C4-Cloxacillin': '',
   '13C4-PFBA': '',
   '13C4-PFHpA': '',
+  '13C5-Dinotefuran': '13C5-Dinotefuran',
   '13C5-PFHxA': '',
   '13C5-PFNA': '',
   '13C5-PFPeA': '',
@@ -12021,6 +12027,7 @@ export default {
   'Acetaminophen-d3': '; Request Date: 02-FEB-15',
   Acetamiprid: '; Request Date: 29-NOV-10',
   'Acetamiprid-13C6': 'NWIS',
+  'Acetamiprid-N-Desmethyl': 'Acetamiprid-N-Desmethyl',
   'Acetamiprid-d3': '',
   'Acetate ion': 'Nemi.gov; Request Date: 26-SEP-19',
   Acetazolamide: 'NWIS',
@@ -12356,7 +12363,7 @@ export default {
   'Aflatoxin B1': 'Aflatoxin B1',
   'Aflatoxin B2': 'Aflatoxin B2',
   'Aflatoxin G1': 'Aflatoxin G1',
-  'Aflatoxin G2': 'Aflatoxin G2 ',
+  'Aflatoxin G2': 'Aflatoxin G2',
   Aflatoxins: 'Toxic metabolites produced by fungi.; Request Date: 02-MAR-07',
   Age: 'The length of time something has existed.; Request Date: 02-MAR-07',
   'Age, Otoliths (Fish)': 'Physical,14; Request Date: 02-MAR-07',
@@ -12773,8 +12780,8 @@ export default {
     'Request Date: 18-Jun-19 (nps.gov cas# review)',
   'Arsenic acid':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
-  'Arsenic ion (3+)': 'Nemi.gov; Request Date: 02-MAR-07',
-  'Arsenic ion (5+)': 'Nemi.gov; Request Date: 02-MAR-07',
+  'Arsenic ion (3+)': 'Nemi.gov; Request Date: 02-MAR-07 ; 22541-54-4',
+  'Arsenic ion (5+)': 'Nemi.gov; Request Date: 02-MAR-07 ; 17428-41-0',
   'Arsenic pentafluoride': '; Request Date: 02-MAR-07',
   'Arsenic(III) trioxide': '; Request Date: 29-APR-13',
   'Arsenic(V) oxide hydrate': '; Request Date: 01-AUG-13',
@@ -13089,6 +13096,8 @@ export default {
   'BTEX, Total':
     '1;GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   BTU: '; Request Date: 03-OCT-14',
+  'BacCan DNA marker':
+    'canine-associated Bacteroidales https://pubmed.ncbi.nlm.nih.gov/28433694/',
   'BacCow DNA marker': 'https://pubmed.ncbi.nlm.nih.gov/17644149/',
   'BacR DNA marker': '; Request Date: 08-OCT-19',
   'BacR DNA marker (purified)': '; Request Date: 08-OCT-19',
@@ -13485,6 +13494,8 @@ export default {
   'Benzene, 1,2-dibromo-4-phenoxy-***retired**use 3,4-DIBDE':
     'Request Date: 13-Apr-13 (nps.gov cas# review)',
   'Benzene, 1,2-dichloro-4-isocyanato-': 'Benzene, 1,2-dichloro-4-isocyanato-',
+  'Benzene, 1,2-dichloro-4-methyl-':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/16360',
   'Benzene, 1,3,5-tribromo-2-(2,4,5-tribromophenoxy)-***retired***use BDE-154':
     'Request Date: 28-Apr-19 (nps.gov cas# review)',
   'Benzene, 1,3,5-tribromo-2-(2,4,6-tribromophenoxy)-***retired***use BDE-155':
@@ -13825,6 +13836,8 @@ export default {
   'Benzo[a]fluoranthene':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous SubstancesRequest Date: 23-SEP-16| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Benzo[a]pyrene': 'Nemi.gov; Request Date: 22-JUL-14',
+  'Benzo[a]pyrene Total Potency Equivalents (B[a]P TPE)':
+    'Contaminated site calculation based on carcinogenic PAH concentrations (CCME, Alberta Tier 1 Soil Remediation Guidelines)',
   'Benzo[a]pyrene-d12': '; Request Date: 24-MAR-14',
   'Benzo[b,j,k]fluoranthene': '',
   'Benzo[b,j]fluoranthene': '; Request Date: 16-MAY-18',
@@ -16272,7 +16285,7 @@ export default {
   'Dibenz[a,h]acridine': '; Request Date: 22-JUL-14',
   'Dibenz[a,h]anthracene': 'Nemi.gov; Request Date: 22-JUL-14',
   'Dibenz[a,j]acridine': 'Nemi.gov; Request Date: 22-JUL-14',
-  'Dibenzo(a,h)anthraene-D14': '; Request Date: 01-MAY-14',
+  'Dibenzo(a,h)anthracene-D14': '; Request Date: 01-MAY-14',
   'Dibenzo-p-dioxins, polyhalogenated -- MTL': '; Request Date: 01-AUG-19',
   'Dibenzo[a,c]anthracene plus dibenzo[a,h]anthracene': 'NWIS',
   'Dibenzo[a,e]pyrene': '; Request Date: 14-APR-15',
@@ -17645,6 +17658,7 @@ export default {
     'Request Date: 29-MAY-19| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Fipronil Sulfone': '; Request Date: 22-JUL-14',
   'Fipronil amide': 'Fipronil amide',
+  'Fipronil detrifluoromethylsulfinyl': 'Fipronil detrifluoromethylsulfinyl',
   'Fipronil sulfonate': 'NWIS',
   'Fipronil-13C3-15N2': '',
   'Fipronil-13C4-15N2': 'NWIS',
@@ -18744,6 +18758,7 @@ export default {
   'Imidacloprid-d4': '; Request Date: 11-FEB-19',
   'Imidacloprid-olefin': '; Request Date: 13-MAY-15',
   'Imidacloprid-urea': 'Request Date: 14-May-15 (nps.gov cas# review)',
+  Imidaclothiz: 'Imidaclothiz',
   'Imidazole perfluoropropionic acid salt': '',
   'Imidazolidine, 2,2-bis(trifluoromethyl)-, hydrate (1:1)': '',
   'Imidazolidine, 2-heptafluoropropyl-': '',
@@ -18772,6 +18787,8 @@ export default {
   'Indeno (1,2,3-cd) perylene': 'Request Date: 7-Apr-16 (nps.gov cas# review)',
   'Indeno[1,2,3-cd]pyrene': 'Nemi.gov; Request Date: 02-MAR-07',
   'Indeno[1,2,3-cd]pyrene-d12': '',
+  'Index of Additive Cancer Risk (IACR)':
+    'Contaminated site calculation based on carcinogenic PAH concentrations (CCME, Alberta Tier 1 Soil Remediation Guidelines)',
   'Index sample for diatom condition index (YES/NO) (choice list)':
     'NLA Sediment; Request Date: 11-APR-17',
   Indigo: 'NWIS',
@@ -22424,6 +22441,8 @@ export default {
     '; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 80, 80 mesh, (0.180mm)':
     '; Request Date: 02-MAR-07',
+  'Particle size, coarse sediment (>75 um)': '',
+  'Particle size, fine sediment (<75 um)': '',
   'Particle-size distribution of the meander within reach': '',
   'Particle-size distribution of the reach': '',
   'Particle-size distribution of the riffle within reach': '',
@@ -23673,8 +23692,9 @@ export default {
   Picoxystrobin: '; Request Date: 03-SEP-14',
   'Picric acid': '; Request Date: 22-JUL-14',
   Picrotoxin: '; Request Date: 02-MAR-07',
-  'Pig-2-Bac DNA marker':
-    'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
+  'Pig1Bac DNA marker':
+    'bacterial artificial chromosome (BAC)  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
+  'Pig2Bac DNA marker': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
   Pilargidae: 'NWIS',
   Pilaria: 'NWIS',
   'Pimaric acid': '1; Request Date: 30-APR-15',
@@ -23696,6 +23716,7 @@ export default {
     '',
   'Piperidine, 4,4-bis(trifluoromethyl)-, hydrate (1:1)': '',
   'Piperidinium perfluorononanoate': '',
+  'Piperonyl Butoxide-D9': 'd9-Piperonyl Butoxide',
   'Piperonyl Sulfoxide': '; Request Date: 14-APR-15',
   'Piperonyl butoxide': '; Request Date: 02-MAR-07',
   Pirimicarb: '1; Request Date: 08-APR-19',
@@ -25522,6 +25543,8 @@ export default {
   Roxithromycin: 'Nemi.gov; Request Date: 01-JUL-11',
   'Rubber cracking': '',
   Rubidium: '; Request Date: 02-MAR-07',
+  'Rum2Bac DNA marker':
+    'Bovine/ovine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
   Ruthenium: '; Request Date: 22-JUL-14',
   'Ruthenium Radionuclides': 'NWIS',
   "Ruthenium, [[2-[[bis[3-(trifluoromethyl)phenyl]phosphino-.kappa.P]methyl]-2-methyl-1,3-propanediyl]bis[bis[3-(trifluoromethyl)phenyl]phosphine-.kappa.P]](trifluoroacetato-?O)(trifluoroacetato-.kappa.O,.kappa.O')-, (OC-6-32)-":
@@ -25753,6 +25776,7 @@ export default {
   'Silanol, trimethyl-': '; Request Date: 26-JUL-11',
   Sildenafil: '; Request Date: 22-JUL-14',
   Silica: 'Nemi.gov; Request Date: 22-JUL-14',
+  'Silica Gel Treated Hexane Extractable Material (SGT-HEM)': 'SGT-HEM',
   'Silica gel treated n-hexane extractable material':
     '; Request Date: 20-MAR-15',
   'Silica, reactive': '',
@@ -26670,7 +26694,6 @@ export default {
   Syrphus: 'NWIS',
   Systenus: 'NWIS',
   'T-2 Mycotoxins': 'Nemi.gov; Request Date: 25-SEP-19',
-  TOD: 'A measure of the amount of oxygen required for the oxidation of carbonaceous and nitrogenous materials.Nemi.gov; Request Date: 25-SEP-19',
   Tabanidae: 'NWIS',
   Tabanus: 'NWIS',
   Tachytrechus: 'NWIS',
@@ -26959,7 +26982,9 @@ export default {
   Thiacloprid:
     '1040;Request Date: 29-NOV-10| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Thiacloprid-13C6': '11;',
+  'Thiacloprid-amide': 'Thiacloprid-amide',
   Thiamethoxam: '; Request Date: 02-NOV-12',
+  'Thiamethoxam-D4': 'd4-Thiamethoxam',
   'Thiamethoxam-d3': '; Request Date: 11-FEB-19',
   Thiamphenicol: 'NWIS',
   'Thiazole, 4,5-dihydro-5,5-dimethoxy-2-phenyl-4,4-bis(trifluoromethyl)-': '',
@@ -27155,6 +27180,8 @@ export default {
     'The ratio of the nutrients nitrogen and phosphorus is useful in water quality assessments.; Request Date: 02-MAR-07',
   'Total Nonachloro Biphenyls': '; Request Date: 19-MAY-10',
   'Total Octachloro Biphenyls': '; Request Date: 19-MAY-10',
+  'Total Oxygen Demand':
+    'A measure of the amount of oxygen required for the oxidation of carbonaceous and nitrogenous materials.Nemi.gov; Request Date: 25-SEP-19',
   'Total PAHs, high wt': '1; Request Date: 30-JAN-18',
   'Total PAHs, low wt': '1; Request Date: 30-JAN-18',
   'Total PBDEs': '; Request Date: 08-DEC-16',

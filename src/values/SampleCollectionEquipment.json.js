@@ -180,6 +180,7 @@ export default {
     'Seabird CTD profiler',
     'Secchi Disk',
     'Sediment Trap',
+    'Sediment peeper',
     'Sediment sipper core',
     'Sediment sub-core',
     'Seine Net',

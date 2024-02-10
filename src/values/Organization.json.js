@@ -259,6 +259,7 @@ export default {
     'AQUINNAH_WQX',
     'ARDEQH2O_WQX',
     'AREMP',
+    'ARKANSASE&E',
     'ARMYCORPS',
     'ARR',
     'ARSG',

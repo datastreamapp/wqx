@@ -286,6 +286,8 @@ export default {
   'Secchi Disk':
     'A plain white, circular disk 30 cm (12 in) in diameter used to measure water transparency or turbidity in bodies of water. The disc is mounted on a pole or line, and lowered slowly down in the water. The depth at which the disk is no longer visible is taken as a measure of the transparency of the water. ',
   'Sediment Trap': '',
+  'Sediment peeper':
+    'Sediment porewater dialysis passive sampler: An in-situ dialysis sampler for sampling sediment pore water',
   'Sediment sipper core': '',
   'Sediment sub-core': '',
   'Seine Net':
