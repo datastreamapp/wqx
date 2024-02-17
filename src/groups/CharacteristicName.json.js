@@ -23420,6 +23420,10 @@ export default {
   'Livestock Trampling or Grazing Disturbance (choice list)': 'Information',
   'Lloyd - Zar - Karr Species Diversity Index': 'Physical',
   'Local Conditions': 'Information',
+  'Location in cross section, distance from left bank looking downstream':
+    'Not Assigned',
+  'Location in cross section, distance from right bank looking upstream':
+    'Not Assigned',
   'Log Cover (%)': 'Physical',
   Lomefloxacin: 'Organics, Other',
   Lomustine: 'Not Assigned',
@@ -30321,6 +30325,9 @@ export default {
   'Sample analytical volume': 'Information',
   'Sample analytical weight': 'Information',
   'Sample collection general mode (choice list)': 'Not Assigned',
+  'Sample location, distance downstream': 'Not Assigned',
+  'Sample location, distance upstream': 'Not Assigned',
+  'Sample location, relative to right bank, looking downstream': 'Not Assigned',
   'Sample time, elapsed': 'Not Assigned',
   'Samples, gas': 'Not Assigned',
   Sand: 'Information',

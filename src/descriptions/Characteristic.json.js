@@ -19444,6 +19444,10 @@ export default {
   'Livestock Trampling or Grazing Disturbance (choice list)': '',
   'Lloyd - Zar - Karr Species Diversity Index': '; Request Date: 05-MAY-12',
   'Local Conditions': '',
+  'Location in cross section, distance from left bank looking downstream':
+    'USGS NWIS Pcode: 00009',
+  'Location in cross section, distance from right bank looking upstream':
+    'USGS NWIS Pcode: 00001',
   'Log Cover (%)': '',
   Lomefloxacin: '; Request Date: 01-JUL-11',
   Lomustine: '; Request Date: 24-MAR-14',
@@ -25593,6 +25597,10 @@ export default {
   'Sample analytical weight':
     'Activity metadata; recommend using the DetectionQuantitatonLimitType, ***MeasureValue, ***Unit, and CommentText fields to capture these analytical volumes at the Result level, alongside their associated measure values',
   'Sample collection general mode (choice list)': '',
+  'Sample location, distance downstream': 'USGS NWIS Pcode: 72104',
+  'Sample location, distance upstream': 'USGS NWIS Pcode: 72105',
+  'Sample location, relative to right bank, looking downstream':
+    'USGS NWIS Pcode: 72103',
   'Sample time, elapsed': '; Request Date: 07-JUN-18',
   'Samples, gas': '',
   Sand: '; Request Date: 02-MAR-07',
