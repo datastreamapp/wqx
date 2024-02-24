@@ -1816,6 +1816,7 @@ export default {
   '1,1,4,7-Tetramethylindan': '; Request Date: 02-MAR-07',
   '1,1,5-Trichloro-2,2,3,3,4,6,7-heptafluoro-2,3-dihydro-1H-indene': '',
   '1,1,6-Trichloro-2,2,3,3,4,5,7-heptafluoro-2,3-dihydro-1H-indene': '',
+  '1,1,6-Trimethyl-1,2-dihydronaphthalene': '',
   '1,1-Bis((perfluoro-1-nonyl)ethyloxy)-N-(2-hydroxyethyl)-2-oxa-3-aza-1-phosphapentan-5-ol 1-oxide':
     '',
   '1,1-Di-(4-methoxyphenyl)-1-[4-(1H,1H,2H,2H-perfluorodecyl)phenyl]methyl chloride':
@@ -3276,6 +3277,7 @@ export default {
   '1-Chlorocyclohexene': '; Request Date: 02-MAR-07',
   '1-Chloroheptadecafluorooctane': '',
   '1-Chloroheptafluorocyclopentene': '',
+  '1-Chlorohexadecane': '',
   '1-Chlorohexane': '; Request Date: 02-MAR-07',
   '1-Chloronaphthalene': 'Nemi.gov; Request Date: 02-MAR-07',
   '1-Chlorononafluorobutane': '',
@@ -12794,6 +12796,7 @@ export default {
   'Arsenic-75': '',
   Arsenide: 'Request Date: 2-Mar-10 (nps.gov cas# review)',
   Arsenite: '1;NWIS',
+  'Arsenous acid, tris(trimethylsilyl) ester': '',
   Arsine:
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Arsonium, (carboxymethyl)trimethyl-, inner salt': '1;',
@@ -14328,6 +14331,7 @@ export default {
   Bixafen: '',
   Blank: '; Request Date: 26-AUG-15',
   'Blasticidin S': '; Request Date: 02-MAR-07',
+  'Bloom extent': '',
   'Boat speed': '; Request Date: 30-MAR-17',
   'Borate(1-), tetrafluoro-, potassium (1:1), reaction products with alumina, boric acid, boron potassium oxide (B5KO8), lithium chloride, potassium chloride, potassium fluoride (K(HF2)) and zinc chloride':
     '',
@@ -18439,6 +18443,7 @@ export default {
   Hexaldehyde: '; Request Date: 02-MAR-07',
   Hexamethylbenzene: '; Request Date: 02-MAR-07',
   Hexamethylcyclotrisiloxane: '; Request Date: 02-MAR-07',
+  Hexamethyldisiloxane: '',
   'Hexamethylene-1,6-diisocyanate': '; Request Date: 07-JUN-18',
   Hexamethylenetetramine: 'NWIS',
   Hexamethylenetriperoxidediamine: 'Nemi.gov; Request Date: 25-SEP-19',
@@ -27972,12 +27977,12 @@ export default {
     'A substance that partially ionizes in water to give hydrogen ions in solution.; Request Date: 02-MAR-07',
   'Weak, dissociable cyanide': '1;GLENDA - 01/2020',
   'Weather comments (text)': '; Request Date: 02-MAR-07',
-  'Weather condition': 'Weather condition past 7 days',
   'Weather condition (WMO code 4501) (choice list)':
     '; Request Date: 02-MAR-07',
   'Weather condition (WMO code 4677) (choice list)':
     '; Request Date: 02-MAR-07',
   'Weather condition past 24 hours': '',
+  'Weather condition, now': 'Weather condition past 7 days',
   Weight:
     'The mass of an object measured in units of mass such as grams, pounds, tons, etc.; Request Date: 02-MAR-07',
   'Weight, volatile portion':

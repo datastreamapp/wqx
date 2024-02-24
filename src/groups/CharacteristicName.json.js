@@ -2707,6 +2707,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1,1,6-Trichloro-2,2,3,3,4,5,7-heptafluoro-2,3-dihydro-1H-indene':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1,1,6-Trimethyl-1,2-dihydronaphthalene': 'Not Assigned',
   '1,1-Bis((perfluoro-1-nonyl)ethyloxy)-N-(2-hydroxyethyl)-2-oxa-3-aza-1-phosphapentan-5-ol 1-oxide':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,1-Di-(4-methoxyphenyl)-1-[4-(1H,1H,2H,2H-perfluorodecyl)phenyl]methyl chloride':
@@ -4619,6 +4620,7 @@ export default {
   '1-Chlorocyclohexene': 'Not Assigned',
   '1-Chloroheptadecafluorooctane': 'PFAS,Perfluorinated Alkyl Substance',
   '1-Chloroheptafluorocyclopentene': 'PFAS,Perfluorinated Alkyl Substance',
+  '1-Chlorohexadecane': 'Not Assigned',
   '1-Chlorohexane': 'Not Assigned',
   '1-Chloronaphthalene': 'Organics, Other',
   '1-Chlorononafluorobutane': 'PFAS,Perfluorinated Alkyl Substance',
@@ -16366,6 +16368,7 @@ export default {
   'Arsenic-75': 'Radiochemical',
   Arsenide: 'Not Assigned',
   Arsenite: 'Inorganics, Minor, Non-metals',
+  'Arsenous acid, tris(trimethylsilyl) ester': 'Not Assigned',
   Arsine: 'Not Assigned',
   'Arsonium, (carboxymethyl)trimethyl-, inner salt':
     'Inorganics, Minor, Non-metals',
@@ -18019,6 +18022,7 @@ export default {
   Bixafen: 'Organics, Pesticide',
   Blank: 'Not Assigned',
   'Blasticidin S': 'Organics, Pesticide',
+  'Bloom extent': 'Not Assigned',
   'Boat speed': 'Not Assigned',
   'Borate(1-), tetrafluoro-, potassium (1:1), reaction products with alumina, boric acid, boron potassium oxide (B5KO8), lithium chloride, potassium chloride, potassium fluoride (K(HF2)) and zinc chloride':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -22414,6 +22418,7 @@ export default {
   Hexaldehyde: 'Not Assigned',
   Hexamethylbenzene: 'Not Assigned',
   Hexamethylcyclotrisiloxane: 'Not Assigned',
+  Hexamethyldisiloxane: 'Not Assigned',
   'Hexamethylene-1,6-diisocyanate': 'Not Assigned',
   Hexamethylenetetramine: 'Not Assigned',
   Hexamethylenetriperoxidediamine: 'Not Assigned',
@@ -32754,10 +32759,10 @@ export default {
   'Weak acids': 'Physical',
   'Weak, dissociable cyanide': 'Organics, Other',
   'Weather comments (text)': 'Physical',
-  'Weather condition': 'Not Assigned',
   'Weather condition (WMO code 4501) (choice list)': 'Physical',
   'Weather condition (WMO code 4677) (choice list)': 'Physical',
   'Weather condition past 24 hours': 'Information',
+  'Weather condition, now': 'Not Assigned',
   Weight: 'Physical',
   'Weight, volatile portion': 'Physical',
   'Well condition (choice list)': 'Not Assigned',

@@ -2038,6 +2038,7 @@ export default {
     '88953-10-0',
   '1,1,6-Trichloro-2,2,3,3,4,5,7-heptafluoro-2,3-dihydro-1H-indene':
     '88953-11-1',
+  '1,1,6-Trimethyl-1,2-dihydronaphthalene': '',
   '1,1-Bis((perfluoro-1-nonyl)ethyloxy)-N-(2-hydroxyethyl)-2-oxa-3-aza-1-phosphapentan-5-ol 1-oxide':
     '101896-22-4',
   '1,1-Di-(4-methoxyphenyl)-1-[4-(1H,1H,2H,2H-perfluorodecyl)phenyl]methyl chloride':
@@ -3591,6 +3592,7 @@ export default {
   '1-Chlorocyclohexene': '930-66-5',
   '1-Chloroheptadecafluorooctane': '307-33-5',
   '1-Chloroheptafluorocyclopentene': '1759-63-3',
+  '1-Chlorohexadecane': '4860-03-1',
   '1-Chlorohexane': '544-10-5',
   '1-Chloronaphthalene': '90-13-1',
   '1-Chlorononafluorobutane': '558-89-4',
@@ -13316,6 +13318,7 @@ export default {
   'Arsenic-75': '7440-38-2',
   Arsenide: '22569-72-8',
   Arsenite: '',
+  'Arsenous acid, tris(trimethylsilyl) ester': '55429-29-3',
   Arsine: '7784-42-1',
   'Arsonium, (carboxymethyl)trimethyl-, inner salt': '64436-13-1',
   'Artifical substrate, redundacy index': '',
@@ -14772,6 +14775,7 @@ export default {
   Bixafen: '581809-46-3',
   Blank: '',
   'Blasticidin S': '2079-00-7',
+  'Bloom extent': '',
   'Boat speed': '',
   'Borate(1-), tetrafluoro-, potassium (1:1), reaction products with alumina, boric acid, boron potassium oxide (B5KO8), lithium chloride, potassium chloride, potassium fluoride (K(HF2)) and zinc chloride':
     '68987-53-1',
@@ -18712,6 +18716,7 @@ export default {
   Hexaldehyde: '66-25-1',
   Hexamethylbenzene: '87-85-4',
   Hexamethylcyclotrisiloxane: '541-05-9',
+  Hexamethyldisiloxane: '107-46-0',
   'Hexamethylene-1,6-diisocyanate': '822-06-0',
   Hexamethylenetetramine: '100-97-0',
   Hexamethylenetriperoxidediamine: '283-66-9',
@@ -27859,10 +27864,10 @@ export default {
   'Weak acids': '',
   'Weak, dissociable cyanide': '',
   'Weather comments (text)': '',
-  'Weather condition': '',
   'Weather condition (WMO code 4501) (choice list)': '',
   'Weather condition (WMO code 4677) (choice list)': '',
   'Weather condition past 24 hours': '',
+  'Weather condition, now': '',
   Weight: '',
   'Weight, volatile portion': '',
   'Well condition (choice list)': '',
