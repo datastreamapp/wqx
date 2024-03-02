@@ -23497,7 +23497,7 @@ export default {
   Phosmetoxon: '; Request Date: 22-JUL-14',
   Phosphamidon: '; Request Date: 22-JUL-14',
   'Phosphamidon-E': '; Request Date: 20-NOV-18',
-  'Phosphate-phosphorus***retired***use Orthophosphate':
+  'Phosphate-phosphorus':
     'The measure of phosphorus present as phosphate.; Request Date: 22-JUL-14 /  2022-08-12 Shumway',
   'Phosphated pesticides':
     'Any phosphate-containing substances capable of preventing, destroying, repelling, or mitigating any pest.; Request Date: 02-MAR-07',

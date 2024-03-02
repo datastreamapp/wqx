@@ -316,7 +316,6 @@ export default [
   'Perfluorooctanoate***retired***use PFOA ion',
   'Perfluorotetradecanoic acid (PFTeA)***retired***use Perfluorotetradecanoic acid',
   'Phencyclidine hydrochloride***retired***use Piperidine, 1-(1-phenylcyclohexyl)-, hydrochloride',
-  'Phosphate-phosphorus***retired***use Orthophosphate',
   'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-, ammonium salt (1:1)***retired***use Ammonium 4,8-dioxa-3H-perfluorononanoate',
   'Propanoic acid, 2,3,3,3-tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-***retired***use Hexafluoropropylene oxide dimer acid',
   'Propanoic acid, 2,3,3,3-tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-, ammonium salt (1:1)***retired***use Hexafluoropropylene oxide dimer acid ammonium salt',

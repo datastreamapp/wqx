@@ -798,6 +798,8 @@ export default {
   'SWAMP Bioassessment 2016':
     'https://www.nemi.gov/protocols/protocol_summary/655/',
   'SWAMP RWB': 'https://www.nemi.gov/methods/method_summary/12835/',
+  'Sample Collected per QAPP':
+    'See Study Detail at: https://apps.ecology.wa.gov/eim/search/default.aspx',
   TARRIFFLE:
     'Procedure follows EMAP 2002 Targeted Riffle Standard Operating Procedure',
   TCEQ: 'https://www.tceq.texas.gov/waterquality/monitoring\r, Quality Assurance and Monitoring Procedures for Surface Water Quality Monitoring, https://www.tceq.texas.gov/waterquality/monitoring/swqm_guides.html',

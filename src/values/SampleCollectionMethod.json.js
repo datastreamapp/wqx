@@ -444,6 +444,7 @@ export default {
     'SMW_MS',
     'SWAMP Bioassessment 2016',
     'SWAMP RWB',
+    'Sample Collected per QAPP',
     'TARRIFFLE',
     'TCEQ',
     'TM1-D3 Field Meter Calibration',

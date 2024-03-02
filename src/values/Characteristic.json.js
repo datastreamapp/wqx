@@ -18336,7 +18336,7 @@ export default {
     'Phosmetoxon',
     'Phosphamidon',
     'Phosphamidon-E',
-    'Phosphate-phosphorus***retired***use Orthophosphate',
+    'Phosphate-phosphorus',
     'Phosphated pesticides',
     'Phosphates (orthophosphate plus condensed and polyphosphates)',
     'Phosphine',

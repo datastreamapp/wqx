@@ -484,6 +484,7 @@ export default {
     'Chickasaw Nation Environmental Service || Chickasaw Nation Environmental Service (Tribal)',
   CNEPWATERPROGRAM: '',
   CNWQD: 'Comanche Nation Water Quality Department',
+  COASTALAMERICAFOUNDATION: '',
   COCHITIPUEBLO:
     'Pueblo of Cochiti, New Mexico (Tribal) || Pueblo of Cochiti, New Mexico (Tribal)',
   COCOPAH_INDIAN:
@@ -1121,7 +1122,7 @@ export default {
   OKWRB_WQX: 'Water Quality',
   OLMS: "Non-profit dedicated to the protection of Ohio's lakes and their watershed",
   ONEIDA_WQX: 'Oneida Nation',
-  OOPBLO: 'Ohkay Owingeh Pueblo || Ohkay Owingeh Pueblo (Tribal)',
+  OOPBLO: 'Pueblo of Ohkay Owingeh, New Mexico',
   ORDNRMRLSTD_GI:
     'USEPA Office of Research and Development, National Risk Management Research Laboratory',
   OREGONDEQ: '',
@@ -1495,8 +1496,7 @@ export default {
   TRILWWTF: 'Colorado',
   TRINIDADRANCHERIAEPA:
     'Cher-Ae Heights Indian Community of the Trinidad Rancheria, California (Tribal) || Cher-Ae Heights Indian Community of the Trinidad Rancheria, California (Tribal)',
-  TRTUL_WQX:
-    'Tulalip Tribes of Washington (Tribal) || Tulalip Tribes of Washington (Tribal)',
+  TRTUL_WQX: '',
   TRUEELEMENTS_QI_WQX: '',
   TSWQC_WQX:
     'The TSWQC_WQX organization is for data collected under the direction of the Tri-State Water Quality Council.',
