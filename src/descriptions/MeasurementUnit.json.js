@@ -25,8 +25,8 @@ export default {
   '#/mm2': 'Concentration Solution, Number per square millimeter',
   '#/mm2/week':
     'The number of particles per mm2 (particle density) after a week.',
-  '#/sec*******':
-    'Concentration Solution, number (Counts) per second ***retired***use counts/sec',
+  '#/sec*^*^*^*':
+    'DO NOT USE, Concentration Solution, number (Counts) per second ***retired***use counts/sec',
   '#/um3': 'Concentration Solution, Number per cubic micrometer',
   '#/yd2': 'Concentration Solution, Number per square yard',
   '#col/100mL':
@@ -38,7 +38,8 @@ export default {
   '% cover': 'Concentration Percentage, Percent Cover',
   '% passing': 'Concentration Percentage, Percent passing sieve',
   '% recovery': 'Concentration Percentage, Percent of recovery',
-  '% saturatn**': 'Concentration Percentage, % saturation ***retired***use %',
+  '% saturatn*^':
+    'DO NOT USE, Concentration Percentage, % saturation ***retired***use %',
   '% sediment':
     'Concentration Percentage, % target/clean sed mix which produces response',
   '% solids': 'Concentration Percentage, Percent of solids',
@@ -249,7 +250,8 @@ export default {
     'Concentration Solution, Genomic Equivalent Units per 100 milliliters',
   'geu/g': 'Concentration Solution, Genomic Equivalent Units per gram',
   gpg: 'Concentration Solution, Grains per gallon (grains/gal)',
-  'gpm*********': 'Flow, Gallons per minute ***deprecated***use gal/min',
+  'gpm*^*^*^*^*':
+    'DO NOT USE, Flow, Gallons per minute ***deprecated***use gal/min',
   'gpm/ft': 'Drawdown capacity, gallons per minute per foot',
   grains: 'Weight Mass, Grains',
   hPa: 'Pressure, Hectopascals',
@@ -279,8 +281,8 @@ export default {
   'kg/m3': 'Density, Kilograms per cubic meter',
   'kg/m3-1000': 'Density, Kilograms per cubic meter minus one thousand',
   'kg/t': 'Concentration Solution, Kilograms per Tonne (metric ton)',
-  'kg/t CaCO3**':
-    'Concentration Solution, Kilograms per Ton calcium carbonate (CaCO3)***retired***use kg/t and speciation = CaCO3',
+  'kg/t CaCO3*^':
+    'DO NOT USE, Concentration Solution, Kilograms per Ton calcium carbonate (CaCO3)***retired***use kg/t and speciation = CaCO3',
   'kg/tons': 'Concentration Solution, Kilograms per tons',
   kgal: 'Volume, 1000 gallons',
   km: 'Length Distance, Kilometers',
@@ -340,7 +342,7 @@ export default {
   'meq/L': 'Density, milli-equivalents per Liter',
   'metric ton': 'Weight Mass, Metric tons (tonne) or MT',
   mg: 'Weight Mass, milligrams',
-  'mg N/l******':
+  'mg N/l*^*^*^':
     'DO NOT USE, Concentration Solution, mg nitrogen in one liter of water or milligrams per liter Nitrogen  ***retired***use mg/l, speciation= as N, ',
   'mg/L': 'Concentration Solution, milligrams per liter',
   'mg/L/hr': 'Viscosity, milligrams per liter per hour',
@@ -353,8 +355,8 @@ export default {
   'mg/g/hr': 'Viscosity, milligrams per gram per hour ',
   'mg/hr': 'Flow Mass, milligrams per hour',
   'mg/kg': 'Concentration Percentage, Milligrams per kilogram',
-  'mg/l CaCO3**':
-    'Concentration Solution, milligrams per liter calcium carbonate (CaCO3)***retired***use mg/l and speciation = CaCO3',
+  'mg/l CaCO3*^':
+    'DO NOT USE, Concentration Solution, milligrams per liter calcium carbonate (CaCO3)***retired***use mg/l and speciation = CaCO3',
   'mg/m2': 'Concentration Solution, Milligrams per square meter',
   'mg/m2/day': 'Viscosity, milligrams per square meter per day',
   'mg/m2/hr': 'Viscosity, Milligrams per square meter per hour',
@@ -458,9 +460,9 @@ export default {
   pt: 'Volume, Fluid pints',
   qt: 'Volume, Fluid quarts',
   seconds: 'Time, Seconds',
-  'std*********': 'DO NOT USE, Quantity, Standard Unit***retired***use None',
-  'tCaCO3/Kt***':
-    'Concentration Solution, Short tons of calcium carbonate (CaCO3) per kiloton***retired***use tons/kt and speciation = CaCO3',
+  'std*^*^*^*^*': 'DO NOT USE, Quantity, Standard Unit***retired***use None',
+  'tCaCO3/Kt*^*':
+    'DO NOT USE, Concentration Solution, Short tons of calcium carbonate (CaCO3) per kiloton***retired***use tons/kt and speciation = CaCO3',
   tons: 'Weight Mass, Short tons',
   'tons/ac ft': 'Concentration Solution, Short tons per acre feet',
   'tons/day': 'Flow Mass, Short tons per day',

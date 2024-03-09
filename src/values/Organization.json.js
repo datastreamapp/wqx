@@ -1284,6 +1284,7 @@ export default {
     'VOS1_WQX',
     'VT2009,',
     'VWIN',
+    'W3STON2024WQX',
     'WALKER_PAIUTE',
     'WALLAWALLA_WC',
     'WARMSPRINGS09',
