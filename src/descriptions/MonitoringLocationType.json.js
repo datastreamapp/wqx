@@ -182,8 +182,12 @@ export default {
     'Open water estuary, bay, sound Vegetated brackish and saltwater scrub-shrub',
   'Wetland Estuarine-Tidal Creek':
     'Open water estuary, bay, sound Vegetated brackish and saltwater tidal creek',
+  'Wetland Lacustrine-Aquatic Bed':
+    'Includes nontidal wetlands fringing lakes and dominated by floating leaved and submergent plants',
   'Wetland Lacustrine-Emergent':
     'bounded by upland or by wetland dominated by trees, shrubs, persistent emergents, emergent mosses, or lichens',
+  'Wetland Lacustrine-Unconsolidated Bottom':
+    'Includes nontidal wetlands ringing lakes in which substrate is at least 25% particles smaller than stones and vegetative cover less than 30%',
   'Wetland Palustrine Pond':
     'includes all nontidal wetlands dominated by pond and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
   'Wetland Palustrine-Emergent':
@@ -194,8 +198,12 @@ export default {
     'includes all nontidal wetlands dominated by mosses or lichens, and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
   'Wetland Palustrine-Shrub-Scrub':
     'includes all nontidal wetlands dominated by, shrubs, scrub and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
+  'Wetland Riverine-Aquatic Bed':
+    'Includes wetlands connected by or within low gradient rivers dominated by floating leaved and submergent plants ',
   'Wetland Riverine-Emergent':
     'wetlands connected by rivers. ... They are found along the edges of rivers, streams and creeks and include rivers, floodplains, marshes, lakes and billabongs. characterized by erect, rooted, herbaceous hydrophytes, excluding mosses and lichens',
+  'Wetland Riverine-Unconsolidated Bottom':
+    'Includes nontidal wetlands connected by rivers in which substrate is at least 25% particles smaller than stones and vegetative cover less than 30%  ',
   'Wetland Undifferentiated':
     'a land area that is saturated with water, either permanently or seasonally, It primarily is characteristized by vegetation of aquatic plants, adapted to the unique hydric soil.'
 }

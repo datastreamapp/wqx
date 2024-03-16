@@ -35,7 +35,8 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX': '',
+  '11NPSWRD_WQX':
+    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -63,18 +64,21 @@ export default {
   '21FLAVON_WQX': 'Water Quality Monitoring Data',
   '21FLA_WQX': 'Water Quality Monitoring Data',
   '21FLBABR_WQX': 'Water Quality Monitoring Data',
+  '21FLBBAP_WQX': 'Water Quality Monitoring Data',
   '21FLBFA_WQX':
     'Partnering of The Bream Fisherman Association with  The Florida Department of Environmental Protection for Water Quality Monitoring for Santa Rosa and Escambia Counties',
   '21FLBRA_WQX': 'Water Quality Monitoring Data',
   '21FLBREV_WQX': 'Water Quality Monitoring Data',
   '21FLBROW_WQX': 'Water Quality Monitoring Data\nNELAC Certification #E46053',
   '21FLBSG_WQX': 'Surface water Biological Sediment',
+  '21FLCASS_WQX': '',
   '21FLCBA_WQX': 'Water Quality Monitoring Data',
   '21FLCCSW_WQX': 'Water quality monitoring data',
   '21FLCCZM_WQX': 'Water Quality Monitoring Data',
   '21FLCEN_WQX': 'Water Quality Monitoring Data',
   '21FLCHAR_WQX':
     'The Charlotte Harbor Estuaries Volunteer Water Quality Monitoring Network (CHEVWQMN)',
+  '21FLCHCO_WQX': '',
   '21FLCHDH': '',
   '21FLCHDH_WQX': 'Water Quality Monitoring Data',
   '21FLCMP_WQX':
@@ -97,10 +101,12 @@ export default {
   '21FLDELT_WQX': 'Water Quality Monitoring',
   '21FLDOH_WQX': 'Floridas Healthy Beaches Program Water Quality Data',
   '21FLDUNE_WQX': 'City of Dunedin',
+  '21FLECUA_WQX': '',
   '21FLEECO_WQX': 'Ambient Surface Water Quality Monitoring Data',
   '21FLERDI_WQX': 'Water Quality Monitoring Data',
   '21FLESC_WQX': 'Water Quality Monitoring Data',
   '21FLESPI_WQX': 'Water Quality Monitoring Data',
+  '21FLFLAT_WQX': '',
   '21FLFMRI_WQX': 'Water Quality Monitoring Data',
   '21FLFRYD_WQX': 'Water Quality Monitoring Data',
   '21FLFSI_WQX': 'Water Quality Monitoring Data',
@@ -116,6 +122,7 @@ export default {
   '21FLGWMS_WQX': 'Water Quality Monitoring Data',
   '21FLGW_WQX': 'Water Quality Monitoring Data',
   '21FLHBOI_WQX': 'Water Quality Monitoring Data',
+  '21FLHESD_WQX': '',
   '21FLHILL_WQX':
     'Ambient water quality monitoring data collected by Hillsborough County Environmental Protection Commission, Monitoring and Analysis Section\n\nNote: Detection limit for Enterococcus bacteria is 2 / 100 mL unless otherwise indicated for 2001.',
   '21FLIMCA_WQX': 'Surface Water Data',
@@ -123,6 +130,7 @@ export default {
   '21FLJXWQ_WQX': 'Water Quality Monitoring data',
   '21FLKEYW_WQX': 'Water Quality Monitoring Data',
   '21FLKISS_WQX': 'Water Quality Monitoring Data',
+  '21FLKNMS_WQX': '',
   '21FLKTNC_WQX': 'Water Quality Monitoring Data',
   '21FLKWAT_WQX': 'Water Quality Monitoring Data',
   '21FLLCHD_WQX': 'Water Quality Monitoring Data',
@@ -132,15 +140,21 @@ export default {
   '21FLLOXB_WQX': 'Biological Data',
   '21FLLOX_WQX': 'Water Quality Monitoring Data',
   '21FLMANA_WQX': 'Water Quality Monitoring Data',
+  '21FLMAR_WQX': '',
   '21FLMAYP_WQX': 'Water Quality Monitoring data',
   '21FLMCGL_WQX': 'Water Quality Monitoring Data',
+  '21FLMONR_WQX': '',
   '21FLMOSA_WQX': 'Mosaic Fertilizer, LLC.',
   '21FLMRC_WQX': 'Water Quality Monitoring Data',
+  '21FLMWK_WQX': '',
   '21FLNAPL_WQX': 'Water Quality Monitoring Data',
+  '21FLNOPO_WQX': '',
+  '21FLNUTT_WQX': '',
   '21FLNWFD_WQX': 'Ambient Water Quality Monitoring Data',
   '21FLORAN_WQX': 'Ambient Water Quality Monitoring of Data',
   '21FLORL_WQX':
     "Within the Stormwater Division, our mission is to collect and maintain, through water samples, monitoring and inspections, the data necessary to support the preservation of the quality of Orlando's lakes.",
+  '21FLOSCE_WQX': '',
   '21FLPASC_WQX': 'Water Quality Monitoring Data',
   '21FLPBCH_WQX': 'Water Quality Monitoring',
   '21FLPBSD_WQX': 'Water Quality Monitoring Data',
@@ -153,6 +167,7 @@ export default {
     'To monitor, manage, prtoect and improve the groundwater and surface water resources of Polk County',
   '21FLRCID_WQX': 'Water Quality Monitoring Data',
   '21FLROOK_WQX': '',
+  '21FLSABR_WQX': '',
   '21FLSARA_WQX': 'Surface Water, Ground Water, Biological, & Sediment.',
   '21FLSBL_WQX': 'Water Quality Monitoring Data',
   '21FLSCCF_WQX': 'Water Quality Monitoring Data',
@@ -171,6 +186,7 @@ export default {
   '21FLTLHR_WQX': 'Water quality monitoring data',
   '21FLTPA_WQX':
     'State environmental regulatory agency which generates water and sediment quality data, physicochemical data and biological data.',
+  '21FLUFSW_WQX': '',
   '21FLVEMD_WQX':
     'The VCEHL is a full service local laboratory formed by combining County of Volusia Environmental Management Services and state Department of Health personnel.  Ambient monitoring of three river systems is conducted.',
   '21FLWET_WQX': 'Water Qaulity Monitoring',
@@ -291,6 +307,7 @@ export default {
   AQS: "Beta COPY of AQS which is EPA's repository of ambient air quality data that assists in air quality assessments, designations, modeling for permit review",
   AQUINNAH_WQX:
     'Wampanoag Tribe of Gay Head (Aquinnah) (Tribal) || Wampanoag Tribe of Gay Head (Aquinnah) (Tribal)',
+  ARCADISNY: '',
   ARDEQH2O_WQX: '',
   AREMP:
     'The Aquatic and Riparian Effectiveness Monitoring Program (AREMP) is a "Service First" program consisting of USDA Forest Service (USFS) and USDI Bureau of Land Management (BLM)',
@@ -321,7 +338,6 @@ export default {
   BBC: '',
   BBP_WQX:
     'The Barnegat Bay Partnership is a partnership of federal, state, municipal, academic, business, and private organizations working together to help restore, protect, and enhance the natural resources of the Barnegat Bay ecosystem.',
-  BBSC: 'Buzzards Bay National Estuary Program',
   BCENV:
     'Ministry of Environment and Climate Change Strategy, Environmental Protection Division',
   BCHMI_WQX: 'Beaches Program Data',
@@ -376,6 +392,7 @@ export default {
   BUNKER_WQX: 'Water Quality Monitoring Data',
   BURNSPAIUTE: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
   BURNSPAIUTE123: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
+  BUZZARDSBAYNEP: 'Buzzards Bay National Estuary Program',
   BVR: '',
   BXA: 'Volunteer Monitoring Group',
   CABAZWQ32:
@@ -806,8 +823,7 @@ export default {
   KENAI_WQX: 'Non profit organization',
   KERBERCREEK: 'Kerber Creek watershed for BLM Natural Resource; ',
   KICKAPOO: '',
-  KICKAPOO07:
-    'Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas || Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas (Tribal)',
+  KICKAPOO07: 'Kickapoo Tribe in Kansas;',
   KINGCOENVIROLAB: '',
   KINGCOUNTY: '',
   KIOWA_WQX:
@@ -1159,6 +1175,7 @@ export default {
     'Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California (Tribal) || Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California (Tribal)',
   PENOBSCOTINDIANNATIONDNR:
     'Penobscot Indian Nation Department of Natural Resources (Tribal) || Penobscot Nation (Tribal)',
+  PEORIAWATER: 'Erin Barnes POC',
   PGSTNATR_WQX:
     "Port Gamble S'Klallam Tribe (Tribal) || Port Gamble S'Klallam Tribe (Tribal)",
   PHINIZYCENTERFORWATERSCIENCES: '',
@@ -1478,6 +1495,7 @@ export default {
   'TLINGIT-HAIDA':
     'Central Council of the Tlingit & Haida Indian Tribes of Alaska (Tribal) || Central Council of the Tlingit & Haida Indian Tribes of Alaska (Tribal)',
   TMBLM_WQX: 'Bureau of Land Management, Tillamook Field Office (OR/WA)',
+  TMDCI: '',
   TMTC_WQX:
     'Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California (Tribal) || Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California (Tribal)',
   TNCAZ_WQX: 'The Nature Conservancy water quality monitoring',
@@ -1704,7 +1722,6 @@ export default {
   YAKIMAVLYDAIRIES_WQX: 'c/o  Inland Earth Sciences Corp.',
   YAN_WQX:
     'Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona (Tribal) || Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona (Tribal)',
-  YELLOWBUG: '',
   YERINGTON_WQX:
     'Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada (Tribal) || Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch, Nevada (Tribal)',
   YOMBA:
