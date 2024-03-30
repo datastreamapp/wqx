@@ -20058,7 +20058,6 @@ export default {
   'Metolachlor ESA':
     'Request Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Metolachlor OA': '; Request Date: 22-JUL-14',
-  'Metolachlor SA***': '',
   'Metolachlor hydroxy morpholinone': 'NWIS',
   'Metolachlor oxanilic acid': 'Metolachlor oxanilic acid',
   'Metolachlor sulfonic acid***': 'Metolachlor sulfonic acid',
@@ -23343,6 +23342,7 @@ export default {
     'Biological,2; Request Date: 11-MAR-13',
   'Phaeophytin - Phytoplankton (suspended)':
     'Biological,2;  Request Date: 11-MAR-13',
+  Phaeopigment: '',
   Phalacrocera: 'NWIS',
   Phanocelia: 'NWIS',
   Phantolide: '',

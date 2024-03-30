@@ -33425,6 +33425,7 @@ export default {
   Oroperla: 'Not Assigned',
   'Oroperla barbara': 'Not Assigned',
   Oropsyche: 'Not Assigned',
+  Oropuella: 'Not Assigned',
   'Orphanopusia patriarchalis': 'Benthic Macroinvertebrates',
   'Orthasterias koehleri': 'Not Assigned',
   Orthemis: 'Not Assigned',

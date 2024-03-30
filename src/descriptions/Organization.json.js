@@ -166,7 +166,7 @@ export default {
     'To monitor, manage, prtoect and improve the groundwater and surface water resources of Polk County',
   '21FLRCID_WQX': 'Water Quality Monitoring Data',
   '21FLROOK_WQX': '',
-  '21FLSABR_WQX': '',
+  '21FLSABR_WQX': 'Water Quality Monitoring Data',
   '21FLSARA_WQX': 'Surface Water, Ground Water, Biological, & Sediment.',
   '21FLSBL_WQX': 'Water Quality Monitoring Data',
   '21FLSCCF_WQX': 'Water Quality Monitoring Data',
@@ -185,9 +185,10 @@ export default {
   '21FLTLHR_WQX': 'Water quality monitoring data',
   '21FLTPA_WQX':
     'State environmental regulatory agency which generates water and sediment quality data, physicochemical data and biological data.',
-  '21FLUFSW_WQX': '',
+  '21FLUFSW_WQX': 'Water Quality Monitoring Data',
   '21FLVEMD_WQX':
     'The VCEHL is a full service local laboratory formed by combining County of Volusia Environmental Management Services and state Department of Health personnel.  Ambient monitoring of three river systems is conducted.',
+  '21FLVOE_WQX': 'Water Quality Monitoring Data',
   '21FLWET_WQX': 'Water Qaulity Monitoring',
   '21FLWPBH_WQX': 'Water Quality',
   '21FLWPB_WQX': 'Water Quality Monitoring Data',
@@ -334,7 +335,7 @@ export default {
   BADRIVER_WQX: 'Bad River Tribe',
   BATTELLE_NFTDR_WQX: 'Battelle',
   BATTELLE_NOR_WQX: '',
-  BBC: '',
+  BBC: 'Baywatch Monitoring Program',
   BBP_WQX:
     'The Barnegat Bay Partnership is a partnership of federal, state, municipal, academic, business, and private organizations working together to help restore, protect, and enhance the natural resources of the Barnegat Bay ecosystem.',
   BCENV:
@@ -1396,8 +1397,7 @@ export default {
   SMENVIRONMENTAL_WQX:
     'San Manuel Band of Mission Indians, California (Tribal) || San Manuel Band of Mission Indians, California (Tribal)',
   SMIE: 'Water Quality Monitoring Data',
-  SMSCGOV_WQX:
-    'Shakopee Mdewakanton Sioux Community of Minnesota || Shakopee Mdewakanton Sioux Community of Minnesota (Tribal)',
+  SMSCGOV_WQX: 'Shakopee Mdewakanton (MN)',
   SMWC: 'The San Miguel Watershed Coalition is a 501(c)(3) non-profit organization, governed by a 10 person board. The San Miguel Watershed Coalition was formed around 1998, to enable a collaborative forum for all residents, businesses, landowners, land managers and non-profit organizations to discuss and influence the future of the watershed.',
   SNEPO_WQX:
     'The Seminole Nation of Oklahoma (Tribal) || The Seminole Nation of Oklahoma (Tribal)',
@@ -1709,7 +1709,7 @@ export default {
     'High frequency data in three locations along the Kanawha River, WV measuring temperature, pH, DO, NO3, Cl, ORP, specific conductance, turbidity',
   WVSU_WQX: 'West Virginia State University',
   WVU_WQX: 'West Virginia University',
-  WWMD_VA: '',
+  WWMD_VA: 'Tribal',
   WWMD_VA_WQX: 'Water Quality Monitoring Data',
   WWP: '',
   WWSD: 'Colorado',
