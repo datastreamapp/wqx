@@ -660,6 +660,7 @@ export default {
   ESTO_WQX: '',
   ETEC: '',
   EXLSTREAM1: 'Appalachian Watershed & Stream Monitors (AWSM) program',
+  'FA-NJ': '',
   FAEC: 'Water Quality Monitoring Data',
   FBUSER_WQX:
     'Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal) || Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal)',

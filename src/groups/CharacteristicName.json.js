@@ -18998,6 +18998,7 @@ export default {
     'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, index (YES/NO) (choice list)':
     'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
+  'Chlorophyll a, non-photochemical': 'Not Assigned',
   'Chlorophyll a, pheophytin correction unspecified':
     'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, uncorrected for pheophytin':
@@ -24136,13 +24137,13 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   Meticrane: 'Not Assigned',
   Metiram: 'Organics, Pesticide',
+  Metobromuron: 'Not Assigned',
   'Metochlor ESA***': 'Organics, Pesticide',
   Metolachlor: 'Organics, Pesticide',
   'Metolachlor ESA': 'Organics, Other',
   'Metolachlor OA': 'Organics, Pesticide',
   'Metolachlor hydroxy morpholinone': 'Not Assigned',
   'Metolachlor oxanilic acid': 'Organics, Pesticide',
-  'Metolachlor sulfonic acid***': 'Organics, Pesticide',
   'Metolachlor-d6': 'Organics, Other',
   Metolcarb: 'Not Assigned',
   Metoprolol: 'Organics, Other',

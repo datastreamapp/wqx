@@ -22,6 +22,7 @@ export default {
     'GA-DNR',
     'GeoEngineers',
     'IDEXX',
+    'KNA__',
     'Kansas DHE',
     'MASSWATER',
     'MDEQ-WQ',

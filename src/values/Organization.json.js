@@ -561,6 +561,7 @@ export default {
     'ESTO_WQX',
     'ETEC',
     'EXLSTREAM1',
+    'FA-NJ',
     'FAEC',
     'FBUSER_WQX',
     'FCPOTAWATOMI_WQX',
