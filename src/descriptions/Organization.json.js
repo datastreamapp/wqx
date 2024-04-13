@@ -392,7 +392,7 @@ export default {
   BUNKER_WQX: 'Water Quality Monitoring Data',
   BURNSPAIUTE: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
   BURNSPAIUTE123: 'Burns Paiute Tribe (Tribal) || Burns Paiute Tribe (Tribal)',
-  BUZZARDSBAYNEP: 'Buzzards Bay National Estuary Program',
+  BUZZARDSBAYNEP: 'Tribal',
   BVR: '',
   BXA: 'Volunteer Monitoring Group',
   CABAZWQ32:
@@ -613,8 +613,7 @@ export default {
   ELP12345: '',
   ELWHA1_WQX:
     'Lower Elwha Tribal Community (Tribal) || Lower Elwha Tribal Community (Tribal)',
-  ELWHAWQ1_WQX:
-    'Lower Elwha Klallam Tribe || Lower Elwha Tribal Community (Tribal)',
+  ELWHAWQ1_WQX: '',
   EMAP_CS_WQX: 'Coastal',
   EMAP_GRE: '',
   EMSWCD: 'East Multnomah Soil and Water Conservation District',
@@ -1185,8 +1184,7 @@ export default {
     'Picayune Rancheria of Chukchansi Indians of California (Tribal) || Picayune Rancheria of Chukchansi Indians of California (Tribal)',
   PICEANCE_LDR: 'Piceance Basin Colorado',
   PICURIS_PUEBLO: 'Picuris Pueblo (Tribal) || Picuris Pueblo (Tribal)',
-  PIIC_WQX:
-    'Prairie Island Indian Community || Prairie Island Indian Community (Tribal)',
+  PIIC_WQX: '',
   PIMA_AZ: '',
   PINOLEVILLEPOMONATION_WQX:
     'Pinoleville Pomo Nation, California (Tribal) || Pinoleville Pomo Nation, California (Tribal)',

@@ -48,6 +48,7 @@ export default {
     'Vapor',
     'Volatile',
     'Weak Acid Diss',
+    'Yield',
     'non-linear function'
   ],
   maxLength: 25

@@ -81,6 +81,8 @@ export default {
     'That portion of the analyte which evaporates readily at normal temperature and pressure.',
   'Weak Acid Diss':
     'Weak Acid Dissociable, analyte that is readily released from analyte containing compounds when the pH is lowered.',
+  Yield:
+    'Yield (chemical yield or reaction yield) is the amount of product resulting from a chemical reaction. The absolute yield gives the weight in grams, and the molar yield gives the number of moles.',
   'non-linear function':
     'non-linear function compensation is correction methods for signal distortions'
 }

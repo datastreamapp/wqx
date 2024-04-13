@@ -628,13 +628,13 @@ export default {
   '.alpha.-Cypermethrin': 'NWIS',
   '.alpha.-Deltamethrin': 'NWIS',
   '.alpha.-Endosulfan':
-    'Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '.alpha.-Endosulfan-d4': 'NWIS',
   '.alpha.-HCH-13C6': 'NWIS',
   '.alpha.-Heptachlor-2,3-exo-epoxide':
     'GLENDA BioData 1978; Request Date: 21-NOV-16',
   '.alpha.-Hexachlorocyclohexane':
-    'Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '.alpha.-Methylstyrene': '; Request Date: 02-MAR-07',
   '.alpha.-Naphthylthiourea': '; Request Date: 02-MAR-07',
   '.alpha.-Nitrotoluene': '; Request Date: 02-MAR-07',
@@ -649,15 +649,15 @@ export default {
   '.beta.-Endosulfan-d4': 'NWIS',
   '.beta.-Heptachlor epoxide': '1;GLENDA BioData 1978; Request Date: 18-NOV-16',
   '.beta.-Hexachlorocyclohexane':
-    'Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '.beta.-Sitosterol': 'Nemi.gov; Request Date: 02-MAR-07',
   '.delta.-Hexachlorocyclohexane':
-    'Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '.gama.-Hexachlorocyclohexane': '',
   '.gamma.-Butyrolactone': '; Request Date: 02-MAR-07',
   '.gamma.-Chlordene': '; Request Date: 02-MAR-07',
   '.gamma.-Cyhalothrin': '; Request Date: 18-DEC-18',
-  '.gamma.-Hexachlorocyclohexane': '',
+  '.gamma.-Hexachlorocyclohexane***retired***use Lindane': '',
   '.gamma.-Terpinene': '; Request Date: 20-MAR-15',
   '.lambda.-Cyhalothrin': '; Request Date: 22-JUL-14',
   "1',2,2',2',3,3,3',3',4,4,4',4'-Dodecafluoro[1,1'-bi(cyclobutan)]-1-ene": '',
@@ -4901,7 +4901,7 @@ export default {
   '1~3~,3~3~-Bis(tridecafluorohexyl)-1~2~,2~2~:2~5~,3~2~-terthiophene': '',
   "2',3,4,4',5-Pentachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2',3,4,5,6'-Pentachlorobiphenyl":
-    'Request Date: 24-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 24-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2',3,4-Trichlorobiphenyl":
     'Request Date: 24-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2'-Deoxy-5-(heptafluoropropyl)uridine": '',
@@ -4934,28 +4934,28 @@ export default {
   "2,2',3',4,6-Pentabromodiphenyl ether***retired***use BDE-098":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3',4,6-Pentachlorobiphenyl":
-    'Request Date: 25-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 25-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',3,3',4',5,6-Heptabromodiphenyl ether": '; Request Date: 29-MAY-14',
   "2,2',3,3',4',5,6-Heptachlorobiphenyl":
-    'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',3,3',4,4',5,5',6-NOBDE***retired***use Nonabromophenoxybenzene":
     'Request Date: 31-MAR-10| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl-C13":
     'Request Date: 28-JAN-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',3,3',4,4',5,5'-Octabromodiphenyl ether***retired***use BDE-194":
     'Request Date: 30-May-13 (nps.gov cas# review)',
   "2,2',3,3',4,4',5,5'-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',5,6'-Octabromodiphenyl ether***retired***use BDE-196":
     'Request Date: 7-Feb-17 Kalispel Natural Resources Department (nps.gov cas# review)',
   "2,2',3,3',4,4',5,6'-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',5,6,6'-NOBDE***retired***use BDE-207":
     '; Request Date: 27-MAR-19',
   "2,2',3,3',4,4',5,6,6'-Nonachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',5,6-Octachlorobiphenyl":
     'PCB Congener; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',5,6-Octachorobiphenyl":
@@ -4964,7 +4964,7 @@ export default {
     'Request Date: 31-Jan-15 (nps.gov cas# review)',
   "2,2',3,3',4,4',5-Heptachlorobiphenyl": 'Nemi.gov; Request Date: 22-JUL-14',
   "2,2',3,3',4,4',6,6'-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',6-Heptabromodiphenyl ether***retired***use BDE-171":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,4',6-Heptachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
@@ -4976,11 +4976,11 @@ export default {
   "2,2',3,3',4,5',6,6'-Octabromodiphenyl ether***retired***use BDE-201":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,5',6,6'-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,5',6-Heptabromodiphenyl ether***retired***use BDE-175":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,5',6-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,5'-Hexabromodiphenyl ether***retired***use BDE-130":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,5'-Hexachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
@@ -4991,19 +4991,19 @@ export default {
   "2,2',3,3',4,5,5',6,6'-NOBDE***retired***use BDE-208":
     'Request Date: 23-Jul-15 (nps.gov cas# review)',
   "2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,2',3,3',4,5,5',6-Octabromodiphenyl ether": '; Request Date: 29-MAY-13',
   "2,2',3,3',4,5,5',6-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,5,5'-Heptabromodiphenyl ether***retired***use BDE-172":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,5,5'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,5,6'-Heptabromodiphenyl ether***retired***use BDE-174":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,5,6'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,5,6,6'-Octabromodiphenyl ether***retired***use BDE-200":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,5,6,6'-Octachlorobiphenyl":
@@ -5018,31 +5018,31 @@ export default {
   "2,2',3,3',4,6'-Hexabromodiphenyl ether***retired***use BDE-132":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,6'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,6,6'-Heptabromodiphenyl ether***retired***use BDE-176":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,6,6'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,6-Hexabromodiphenyl ether***retired***use BDE-131":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4-PEBDE***retired***use 2,2',3,3',4-Pentabromodiphenyl ether":
     'Request Date: 23-Jul-15 (nps.gov cas# review)',
   "2,2',3,3',4-Pentabromodiphenyl ether": '; Request Date: 29-MAY-13',
   "2,2',3,3',4-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',5,5',6,6'-Octabromodiphenyl ether***retired***use BDE-202":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',5,5',6,6'-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',5,5',6,6'-Octachlorobiphenyl-C13":
     'Request Date: 28-JAN-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',3,3',5,5',6,6'-Octafluoro-4,4'-bis(pentafluoroethyl)-1,1'-biphenyl": '',
   "2,2',3,3',5,5',6-Heptabromodiphenyl ether***retired***use BDE-178":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',5,5',6-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',5,5',6-Heptachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,2',3,3',5,5'-Hexabromodiphenyl ether***retired***use BDE-133":
     'Request Date: 30-May-14 (nps.gov cas# review)',
@@ -5056,11 +5056,11 @@ export default {
   "2,2',3,3',5,6-Hexabromodiphenyl ether***retired***use BDE-134":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',5,6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',5-Pentabromodiphenyl ether***retired***use BDE-083":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',5-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',6,6'-Hexabromodiphenyl ether***retired***use BDE-136":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',6,6'-Hexachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
@@ -5080,40 +5080,40 @@ export default {
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4',5,5'-Hexachloro-4-biphenylol": 'NWIS',
   "2,2',3,4',5,5'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4',5,6'-Hexabromodiphenyl ether***retired***use BDE-148":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4',5,6'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4',5,6,6'-Heptabromodiphenyl ether***retired***use BDE-188":
     'Request Date: 30-May-19 (nps.gov cas# review)',
   "2,2',3,4',5,6,6'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4',5,6,6'-Heptachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,2',3,4',5,6-Hexabromodiphenyl ether***retired***use BDE-147":
     'Request Date: 30-May-19 (nps.gov cas# review)',
   "2,2',3,4',5,6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4',5-Pentabromodiphenyl ether***retired***use BDE-090":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4',5-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4',6'-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,2',3,4',6,6'-Hexabromodiphenyl ether":
     'Request Date: 30-May-13 (nps.gov cas# review)',
   "2,2',3,4',6,6'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4',6-Pentabromodiphenyl ether***retired***use BDE-091":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4',6-Pentachlorobiphenyl": '; Request Date: 02-MAR-07',
   "2,2',3,4'-Tetrabromodiphenyl ether***retired***use BDE-042":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',5',6-Heptabromodiphenyl ether":
     'Nemi.gov; Request Date: 01-APR-13',
   "2,2',3,4,4',5',6-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',5'-HXBDE/2,3,4,4',5,6-HxBDE": '; Request Date: 03-AUG-10',
   "2,2',3,4,4',5'-Hexabromodiphenyl ether":
     '12;Kalispel Natural Resources Department; Request Date: 06-FEB-18',
@@ -5122,39 +5122,39 @@ export default {
   "2,2',3,4,4',5,5',6-Octabromodiphenyl ether***retired***use 2,2',3,4,4',5,5',6-OCBDE":
     'Request Date: 7-Apr-18 Kalispel Natural Resources Department (nps.gov cas# review)',
   "2,2',3,4,4',5,5',6-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',5,5'-Heptabromodiphenyl ether***retired***use BDE-180":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,4',5,5'-Heptachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',5,6'-Heptabromodiphenyl ether***retired***use BDE-182":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,4',5,6'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',5,6,6'-Octabromodiphenyl ether***retired***use BDE-204":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,4',5,6,6'-Octabromodiphenyl ether/2,2',3,3',4,4',6,6'-Octabromodiphenyl ether":
     '',
   "2,2',3,4,4',5,6,6'-Octachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',5,6-Heptabromodiphenyl ether": '; Request Date: 01-APR-13',
   "2,2',3,4,4',5,6-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',5-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',6'-Hexabromodiphenyl ether":
     'Kalispel Natural Resources Department; Request Date: 06-FEB-18',
   "2,2',3,4,4',6'-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,2',3,4,4',6,6'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4',6-Hexabromodiphenyl ether***retired***use BDE-139":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,4',6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,4'-Pentachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,5',6-Hexabromodiphenyl ether***retired***use BDE-144":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,5',6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,5'-Pentabromodiphenyl ether***retired***use BDE-087":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,5'-Pentachlorobiphenyl": '; Request Date: 02-MAR-07',
@@ -5165,34 +5165,34 @@ export default {
   "2,2',3,4,5,5'-Hexabromodiphenyl ether***retired***use BDE-141":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,5,5'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,5,6'-Hexabromodiphenyl ether***retired***use BDE-143":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,5,6'-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,2',3,4,5,6,6'-Heptabromodiphenyl ether***retired***use BDE-186":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,5,6,6'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,5,6-Hexabromodiphenyl ether***retired***use BDE-142":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,5,6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,5-Pentabromodiphenyl ether***retired***use BDE-086":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,5-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,6'-Pentabromodiphenyl ether***retired***use BDE-089":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,6'-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,6,6'-Hexabromodiphenyl ether***retired***use BDE-145":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,6,6'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4,6-Pentabromodiphenyl ether***retired***use BDE-088":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4,6-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,4-Tetrabromodiphenyl ether***retired***use BDE-041":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,4-Tetrachlorobiphenyl": '; Request Date: 02-MAR-07',
@@ -5210,36 +5210,37 @@ export default {
   "2,2',3,5,6'-Pentabromodiphenyl ether***retired***use BDE-094":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,5,6'-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,5,6,6'-Hexabromodiphenyl ether***retired***use BDE-152":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,5,6,6'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,5,6-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,5-Tetrabromodiphenyl ether***retired***use BDE-043":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,5-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,6'-Tetrabromodiphenyl ether***retired***use BDE-046":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,6'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,6,6'-Pentabromodiphenyl ether***retired***use BDE-096":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,6,6'-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,6-Tetrabromodiphenyl ether***retired***use BDE-045":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,6-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,2',4,4',5',6-HXBDE": 'Request Date: 23-Jul-15 (nps.gov cas# review)',
   "2,2',4,4',5',6-Hexachlorobiphenyl":
-    'Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',4,4',5,5'-HXBDE***retired***use BDE-153":
     'Request Date: 16-Jun-18 (nps.gov cas# review)',
-  "2,2',4,4',5,5'-Hexabromo-1,1-biphenyl": '; Request Date: 19-SEP-19',
+  "2,2',4,4',5,5'-Hexabromo-1,1-biphenyl":
+    "A polybrominated biphenyl containing 2,2',4,4',5,5'-hexabromo- and 2,2',3,4,4',5,5'-heptabromo- isomers as the major constituents. It is a powdered form of FireMaster BP 6 with 2% calcium silicate added to prevent caking.; Request Date: 19-SEP-19",
   "2,2',4,4',5,5'-Hexabromobiphenyl": '; Request Date: 01-MAY-14',
   "2,2',4,4',5,5'-Hexabromodiphenyl ether***retired***use BDE-153":
     'Request Date: 20-SEP-18| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -5279,14 +5280,14 @@ export default {
   "2,2',4,5,5'-Pentachlorobiphenyl": '; Request Date: 02-MAR-07',
   "2,2',4,5,6'-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,2',4,5-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',4,6'-Tetrabromodiphenyl ether": '; Request Date: 01-APR-13',
   "2,2',4,6'-Tetrachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,2',4,6,6'-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',4,6,6'-Pentachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,2',4,6-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',4-TRBDE***retired***use BDE-017":
     'Request Date: 30-May-19 (nps.gov cas# review)',
   "2,2',4-Tribromodiphenyl ether***retired***use BDE-017":
@@ -5297,7 +5298,7 @@ export default {
   "2,2',5-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,2',6,6'-Tetrachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,2',6,6'-Tetrachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
-  "2,2',6-Trichlorobiphenyl": 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  "2,2',6-Trichlorobiphenyl": 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,2',6-Trichlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,2'-(((Nonafluorobutyl)sulfonyl)imino)diacetic acid": '',
   "2,2'-((3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluorodecyl)imino)bisethanol":
@@ -5925,7 +5926,7 @@ export default {
   "2,3',4,4',5',6-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3',4,4',5'-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3',4,4',5,5'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3',4,4',5,5'-Hexachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,3',4,4',5-Pentachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3',4,4',5-Pentachlorobiphenyl-C13":
@@ -5941,82 +5942,82 @@ export default {
     'Request Date: 22-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)',
   "2,3',4,5',6-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3',4,5'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3',4,5,5'-PEBDE": 'Request Date: 30-May-19 (nps.gov cas# review)',
   "2,3',4,5,5'-Pentachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3',4,5-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3',4,6-Tetrachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3',4-TRBDE": '; Request Date: 22-JUL-14',
-  "2,3',4-Trichlorobiphenyl": 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  "2,3',4-Trichlorobiphenyl": 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3',5',6-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3',5'-Trichlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3',5,5'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3',5-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
-  "2,3',6-Trichlorobiphenyl": 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  "2,3',6-Trichlorobiphenyl": 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3'-Dichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4',5',6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4',5'-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',4',5,5',6-Heptachlorobiphenyl":
     'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',4',5,5'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4',5,6-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',4',5-Pentachloro-4-biphenylol": 'NWIS',
   "2,3,3',4',5-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4',6-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 22-JUL-14',
+    'PCB Congener; Nemi.gov; Request Date: 22-JUL-14',
   "2,3,3',4'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4',5',6-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4',5'-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',4,4',5,5',6-OCBDE***retired***use BDE-205":
     'Request Date: 23-Jul-14 (nps.gov cas# review)',
   "2,3,3',4,4',5,5',6-Octachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4',5,5',6-Octachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,3,3',4,4',5,5'-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4',5,5'-Heptachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,3,3',4,4',5,6-HPBDE": '; Request Date: 22-JUL-14',
   "2,3,3',4,4',5,6-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4',5-Hexachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4',6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4'-PEBDE": '; Request Date: 22-JUL-14',
   "2,3,3',4,4'-Pentachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,4'-Pentachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,3,3',4,5',6-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,5'-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',4,5,5',6-Heptachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,5,5'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,5,6-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',4,5-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4,6-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',4-Tetrachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',5',6-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,3',5'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',5,5',6-Hexachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',5,5'-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',5,5'-Pentachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,3,3',5,6-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',5-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3',6-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,3'-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   '2,3,3,3-Tetrafluoro-1-[2,3,5,6-tetrafluoro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)phenyl]-2-(trifluoromethyl)propan-1-one':
     '',
@@ -6115,11 +6116,11 @@ export default {
   "2,3,4',5,6-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,4',5-Tetrachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,4',6-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,4'-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,3,4,4',5,6-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,4,4',5-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "2,3,4,4',5-Pentachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2,3,4,4',6-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3,4,4'-Tetrachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
@@ -6148,7 +6149,7 @@ export default {
   '2,3,4,5-Tetrabromo-7,7,8,8-tetrafluorobicyclo[4.2.0]octa-1,3,5-triene': '',
   '2,3,4,5-Tetrachlorobenzenamine': '; Request Date: 30-MAY-13',
   '2,3,4,5-Tetrachlorobiphenyl':
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   '2,3,4,5-Tetrachloronitrobenzene': '; Request Date: 24-SEP-19',
   '2,3,4,5-Tetrachlorophenol': '; Request Date: 02-MAR-07',
   '2,3,4,5-Tetrachlorophenol mixt. with 2,3,5,6-Tetrachlorophenol': '',
@@ -6167,7 +6168,7 @@ export default {
   '2,3,4,7,8-Pentachlorodibenzofuran-C13':
     'PBDE Delaware River Basin Commission/New Jersey; Request Date: 17-JUN-16',
   '2,3,4-Hexatriene, 1,1,1,6,6,6-hexafluoro-2,5-bis(trifluoromethyl)-': '',
-  '2,3,4-Trichlorobiphenyl': 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  '2,3,4-Trichlorobiphenyl': 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   '2,3,4-Trichlorophenol': '; Request Date: 25-MAR-10',
   '2,3,4-Trifluoro-4-(trifluoromethyl)pent-2-enedinitrile': '',
   '2,3,4-Trifluorotoluene': '; Request Date: 01-FEB-18',
@@ -6184,7 +6185,7 @@ export default {
   '2,3,5,6-Tetrafluoro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzonitrile':
     '',
   '2,3,5,6-Tetrafluoro-4-[(pentafluoroethyl)sulfanyl]pyridine': '',
-  '2,3,5-Trichlorobiphenyl': 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  '2,3,5-Trichlorobiphenyl': 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   '2,3,5-Trichlorophenol':
     'EPA Substance Registry System - www.epa.gov/srs; Request Date: 22-MAY-18',
   '2,3,5-Trifluoro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-methoxypyridine':
@@ -7129,7 +7130,7 @@ export default {
   '2-Chloroacrylonitrile': 'Nemi.gov; Request Date: 24-SEP-19',
   '2-Chlorobenzaldehyde': '; Request Date: 10-MAR-15',
   '2-Chlorobenzothiazole': '; Request Date: 02-MAR-07',
-  '2-Chlorobiphenyl': 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  '2-Chlorobiphenyl': 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   '2-Chlorobiphenyl-C13': '; Request Date: 28-JAN-19',
   '2-Chlorocyclohexanol': '; Request Date: 02-MAR-07',
   '2-Chloroethanol': '; Request Date: 02-MAR-07',
@@ -8872,13 +8873,13 @@ export default {
   '3(2H)-Furanone, dihydro-2-hydroxy-2-methyl-5,5-bis(trifluoromethyl)-': '',
   '3(2H)-Furanone, dihydro-2-hydroxy-2-phenyl-5,5-bis(trifluoromethyl)-': '',
   "3,3',4,4',5,5'-Hexachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,3',4,4',5,5'-Hexachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "3,3',4,4',5-PEBDE": '; Request Date: 22-JUL-15',
   "3,3',4,4',5-Pentabromodiphenyl ether***retired***use 3,3',4,4',5-PEBDE":
     'Kalispel Natural Resources DepartmentRequest Date: 06-APR-17| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "3,3',4,4',5-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,3',4,4',5-Pentachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "3,3',4,4'-Diphenylethertetracarboxylic dianhydride, 4,4'-oxydianiline, 3,3',4,4'-biphenyltetracarboxylic dianhydride, 2,2'-bis4-(4-aminophenoxy)phenylhexafluoropropane, bis(3-aminopropyl)tetramethyl disiloxane copolymer":
     '',
@@ -8889,15 +8890,15 @@ export default {
   "3,3',4,4'-Tetrachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "3,3',4,5'-TEBDE": 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   "3,3',4,5'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,3',4,5,5'-Pentachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,3',4,5-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,3',4-TRBDE": '; Request Date: 22-JUL-14',
-  "3,3',4-Trichlorobiphenyl": 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  "3,3',4-Trichlorobiphenyl": 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,3',5,5'-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,3',5-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "3,3'-(1,1,2,2,3,3-hexafluoropropane-1,3-diyl)bis[5-(pentafluoroethyl)-1,2,4-oxadiazole]":
     '',
@@ -9145,12 +9146,12 @@ export default {
     '',
   '3,3-Dimethylhexane': '; Request Date: 02-MAR-07',
   '3,3-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]': '',
-  "3,4',5-Trichlorobiphenyl": 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  "3,4',5-Trichlorobiphenyl": 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,4'-Bis(heptadecafluorooctyl)-2,2'-bithiophene": '',
   "3,4'-DIBDE": '; Request Date: 22-JUL-14',
   "3,4'-Dichlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "3,4,4',5-Tetrachlorobiphenyl":
-    'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+    'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   "3,4,4',5-Tetrachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "3,4,4'-TRBDE": '; Request Date: 22-JUL-14',
   "3,4,4'-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
@@ -9197,7 +9198,7 @@ export default {
   '3,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Pentadecafluorodec-3-en-2-one': '',
   '3,4,5,6,7-Pentafluoro-3-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-benzofuran-1(3H)-one':
     '',
-  '3,4,5-Trichlorobiphenyl': 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  '3,4,5-Trichlorobiphenyl': 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   '3,4,5-Trichlorocatechol': '; Request Date: 20-MAY-10',
   '3,4,5-Trichloroguaiacol': '; Request Date: 30-APR-15',
   '3,4,5-Trichlorophenol': '; Request Date: 28-JAN-19',
@@ -9288,7 +9289,7 @@ export default {
   '3,5-Bis(perfluorohexyl)-1-(nonafluoropentanoyl)-1H-pyrazole': '',
   '3,5-Dichloroaniline': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   '3,5-Dichlorobenzoic acid': 'Nemi.gov; Request Date: 02-MAR-07',
-  '3,5-Dichlorobiphenyl': 'PCB CongenerNemi.gov; Request Date: 02-MAR-07',
+  '3,5-Dichlorobiphenyl': 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
   '3,5-Dichloromethoxy triclosan': 'NWIS',
   '3,5-Dichlorophenol': '; Request Date: 22-JUL-14',
   '3,5-Diethyltoluene': '',
@@ -11190,7 +11191,7 @@ export default {
   '4-chloro-3-(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)-5-methyl-1H-pyrazole':
     '',
   '4-epi-Oxytetracycline':
-    'Nemi.govRequest Date: 26-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 26-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '4-epitetracycline (ETC)':
     'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)',
   '4-methyl-6-(2,2,3,3,4,4,5,5-octafluoropentoxy)pyrimidin-2-amine': '',
@@ -11953,7 +11954,7 @@ export default {
   'Acanthamoeba astronyxis***retired***use Acanthamoeba astronyxis (Protozoa)':
     '; Request Date: 27-AUG-14',
   'Acanthamoeba castellanii***retired***use Acanthamoeba castellani (Protozoa)':
-    '; Request Date: 02-MAR-07',
+    'TAXON: Animalia Kingdom; Request Date: 02-MAR-07',
   'Acanthamoeba comandoni***retired***use Acanthamoeba comandoni (Protozoa)':
     '; Request Date: 02-MAR-07',
   'Acanthamoeba culbertsoni***retired***use Acanthamoeba culbertson (Protozoa)':
@@ -11961,7 +11962,7 @@ export default {
   'Acanthamoeba griffini***retired***use Acanthamoeba griffini (Protozoa)':
     '; Request Date: 02-MAR-07',
   'Acanthamoeba hatchetti***retired***use Acanthamoeba hatchetti (Protozoa)':
-    '; Request Date: 02-MAR-07',
+    'TAXON: Animalia Kingdom; Request Date: 02-MAR-07',
   'Acanthamoeba hyalina***retired***use Acanthamoeba hyalina (Protozoa)':
     '; Request Date: 02-MAR-07',
   'Acanthamoeba lenticulata***retired***use Acanthamoeba lenticulata (Protozoa)':
@@ -12265,22 +12266,26 @@ export default {
     'Acetyl-hexamethyl-tetrahydro-naphthalene',
   Acetylene: '; Request Date: 03-JUL-08',
   'Acibenzolar-S-methyl': '; Request Date: 29-NOV-10',
-  'Acid - Base Potential': '; Request Date: 02-MAR-07',
+  'Acid - Base Potential':
+    'A measure of the acid or base that will be generated from a soil.; Request Date: 02-MAR-07',
   'Acid Generation Potential':
     'The oxidation of sulfide minerals.; Request Date: 02-MAR-07',
   'Acid Neutralization Potential  as CaCO3 As %CaCO3***retired***use Acid Neutralization Potential as CaCO3':
     'NWIS characteristic is Acid Neutralization Potential as CaCO3  and speciation = as %CaCO3',
   'Acid Neutralization Potential Acidity (ANPA)':
     'The measure of the mineral acidity plus the acidity resulting from hydrolysis of polyvalent cations of iron and aluminum.; Request Date: 02-MAR-07',
-  'Acid Neutralization Potential as CaCO3': '; Request Date: 02-MAR-07',
+  'Acid Neutralization Potential as CaCO3':
+    'The the amount of acid that can be consumed by neutralizing minerals, expressed as calcium carbonate equivalents.; Request Date: 02-MAR-07',
   'Acid Volatile Sulfides': '; Request Date: 02-MAR-07',
   'Acid chlorides, C8-14, .beta.-.omega.-perfluoro': '',
   'Acid volatile sulfide/pyritic sulfide': '',
   Acidity:
     'The acidity of water is its quantitative capacity to react with a strong base to a designated pH and is usually expressed in milligrams per liter of equivalent calcium carbonate.; Request Date: 06-JAN-15',
   'Acidity, (H+)': 'Request Date: 3-Mar-07 (nps.gov cas# review)',
-  'Acidity, mineral methyl orange (as CaCO3)': 'NWIS',
-  'Acidity, total, phenolphthalein (as CaCO3)': 'NWIS',
+  'Acidity, mineral methyl orange (as CaCO3)':
+    'The measure of acidity of a water sample using methyl orange or bromophenol blue as an endpoint indicator, usually expressed in milligrams per liter of equivalent calcium carbonate. This value is traditionally identified as methyl orange acidity and includes all titratable acids and dissolved gases that react with standard alkali to pH 3.7.; NWIS',
+  'Acidity, total, phenolphthalein (as CaCO3)':
+    'The measure of acidity of a water sample using phenolphthalein as an endpoint indicator, usually expressed in milligrams per liter of equivalent calcium carbonate.  Because the color change for phenolphthalein is close to pH 8.3, this value generally is accepted as a standard end point for titration of total acidity, including CO2 and most weak acids.; NWIS',
   Acifluorfen: 'Nemi.gov; Request Date: 02-MAR-07',
   'Acifluorfen, sodium salt': '; Request Date: 02-MAR-07',
   Acinetobacter: '; Request Date: 22-JUL-14',
@@ -12293,11 +12298,11 @@ export default {
   'Acrylic acid, ester with 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-N-propyl-1-octanesulfonamide, polymer with acrylamide and styrene':
     '',
   Acrylonitrile: 'Nemi.gov; Request Date: 02-MAR-07',
-  'Acticide APA': '',
+  'Acticide APA': 'A fluorinated sulfonamide derivative biocide.',
   Actinides: 'Nemi.gov; Request Date: 24-SEP-19',
   'Actinium-228': 'Actinium, atomic number 89.; Request Date: 22-JUL-14',
   'Actinolite Asbestos': '; Request Date: 09-MAR-15',
-  Actinomycetes: 'NWIS',
+  Actinomycetes: 'TAXON: Monera Kingdom; NWIS',
   'Active channel height': '; Request Date: 08-JUN-10',
   'Active channel width': '; Request Date: 08-JUN-10',
   'Activities - Algal Mats (choice list)': 'NRSA; Request Date: 11-APR-17',
@@ -12358,7 +12363,8 @@ export default {
   'Adenosine triphosphate': '; Request Date: 22-JUL-14',
   'Adiponitrile, perfluoro': '',
   'Adjusted gross alpha activity': '; Request Date: 11-DEC-14',
-  'Adsorbable organic halides': '1;',
+  'Adsorbable organic halides':
+    'A bulk parameter that measures the mass of chlorinated organic matter in water and wastewater.;',
   'Aeromonas hydrophila': '; Request Date: 02-MAR-07',
   'Aerosols, (nonflammable)': '',
   Afidopyropen: '; Request Date: 08-OCT-19',
@@ -12368,12 +12374,17 @@ export default {
   'Aflatoxin G2': 'Aflatoxin G2',
   Aflatoxins: 'Toxic metabolites produced by fungi.; Request Date: 02-MAR-07',
   Age: 'The length of time something has existed.; Request Date: 02-MAR-07',
-  'Age, Otoliths (Fish)': 'Physical,14; Request Date: 02-MAR-07',
-  'Age, Scales (Fish)': 'Physical,14; Request Date: 02-MAR-07',
-  'Age, Spines (Fish)': 'Physical,14; Request Date: 02-MAR-07',
-  'Age, Vertebra (Fish)': 'Physical,14; Request Date: 02-MAR-07',
-  'Aggressive index': '; Request Date: 24-SEP-08',
-  Air: 'NWIS',
+  'Age, Otoliths (Fish)':
+    'The age of a fish as determined by the growth rings in the otoliths.; Request Date: 02-MAR-07',
+  'Age, Scales (Fish)':
+    'The age of a fish as determined by the growth rings in the scales.; Request Date: 02-MAR-07',
+  'Age, Spines (Fish)':
+    'The age of a fish as determined by the growth rings in fin spines.; Request Date: 02-MAR-07',
+  'Age, Vertebra (Fish)':
+    'The age of a fish as determined by the growth rings in the vertebrae.; Request Date: 02-MAR-07',
+  'Aggressive index':
+    'A corrosivity index based on pH and the solubility of calcium carbonate (CaCO3). The Aggressive Index (AI) is defined by the American Water Works Association (AWWA) Standard C-400 as: AI = pH + log [(A)(H)], where A = Total alkalinity expressed as mg/L as CaCO3, and H = Calcium hardness expressed as mg/L as CaCO3.; Request Date: 24-SEP-08',
+  Air: 'A mixture of gases, the composition of which varies with altitude and other conditions at the point of collection. At sea level the primary composition of dry air is chiefly nitrogen and oxygen, as well as argon, carbon dioxide, neon, helium, krypton, and xenon.; NWIS',
   'Air entrained':
     'Air captured as bubbles in a liquid.; Request Date: 02-MAR-07',
   Alachlor: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -12389,7 +12400,7 @@ export default {
     '',
   'Albuminoid nitrogen': 'NWIS',
   Albuterol:
-    'Nemi.govRequest Date: 26-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 26-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Albuterol-d3': '; Request Date: 24-MAR-14',
   'Albuterol-d9': '; Request Date: 02-FEB-15',
   'Alcohols, C12-26-secondary, .gamma.-.omega.-perfluoro, ethoxylated  (2-Perfluoroalkyl(C9-23)-1-methylethyl polyoxyethyle':
@@ -12437,36 +12448,39 @@ export default {
   'Aldrin + dieldrin mix, unspecified': '; Request Date: 02-MAR-07',
   Alendronate: 'NWIS',
   'Algae, all groups, density':
-    'Physical,14; The mass or weight of all algal groups per unit volume of water.; Request Date: 02-MAR-07',
+    'The mass or weight of all algal groups per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, blue-green (phylum cyanophyta) density':
-    'Physical,14; The mass or weight of blue-green algae (phylum cyanophyta) per unit volume of water.; Request Date: 02-MAR-07',
+    'The mass or weight of blue-green algae (phylum cyanophyta) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, blue-green (phylum cyanophyta) percent':
     'Physical,14; Request Date: 10-MAY-17',
   'Algae, brown (phylum phaeophyta) density':
-    'Physical,14; The mass or weight of brown  (phylum phaeophyta) per unit volume of water.; Request Date: 02-MAR-07',
+    'The mass or weight of brown  (phylum phaeophyta) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, golden-brown (phylum chrysophyta) density':
-    'Physical,14; The mass or weight of golden-brown algae (phylum chrysophyta) per unit volume of water.; Request Date: 02-MAR-07',
+    'The mass or weight of golden-brown algae (phylum chrysophyta) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, green (phylum chlorophyta) density':
-    'Physical,14; The mass or weight of green (phylum chorophya) per unit volume of water.; Request Date: 02-MAR-07',
+    'The mass or weight of green (phylum chorophya) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, red (phylum rhodophyta) density':
-    'Physical,14; The mass or weight of  red algae (phylum rhodophyta) per unit volume of water.; Request Date: 02-MAR-07',
+    'The mass or weight of  red algae (phylum rhodophyta) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae, substrate rock/bank cover (choice list)':
-    'Physical,14; Request Date: 02-MAR-07',
+    'Any of numerous groups of chlorophyll-containing, mostly aquatic eukaryotic organisms, distinguished from plants by the absence of true roots, stems, and leaves.; Request Date: 02-MAR-07',
   'Algae, yellow-green (phylum xanthophyta) density':
-    'Physical,14; The mass or weight of yellow-green algae (phylum xanthophyta) per unit volume of water.; Request Date: 02-MAR-07',
+    'The mass or weight of yellow-green algae (phylum xanthophyta) per unit volume of water.; Request Date: 02-MAR-07',
   'Algae-Phycocyanin': 'Physical,4; ',
   'Algal Bloom Severity (choice list)': 'Physical,14;',
   'Algal growth potential':
-    'Biological,2; The potential in a given system for the growth of algae.; Request Date: 02-MAR-07',
+    'The potential in a given system for the growth of algae.; Request Date: 02-MAR-07',
   'Aliphatics fraction': '; Request Date: 02-MAR-07',
   'Alkaline phosphatase': '; Request Date: 22-JUL-14',
   Alkalinity:
     'Alkalinity is a measure of the titratable bases or acid-neutralizing capacity of a water by titration with a standard acid. The measured value may vary the selected end-point pH used (typically pH 8.3 or 4.5).Nemi.gov; Request Date: 24-SEP-19',
-  'Alkalinity, Hydroxide': '; Request Date: 23-JAN-15',
+  'Alkalinity, Hydroxide':
+    'Hydroxide alkalinity (OH-) is one of the three principle forms of alkalinity present in many surface waters and may be classified stoichiometrically by comparing the values for total (T) and phenolphthalein (P) alkalinity.  Hydroxide alkalinity (as mg CaCO3/L) is present when P > 1/2T and is estimated by the relationship 2P-T.; Request Date: 23-JAN-15',
   'Alkalinity, Phenolphthalein (total hydroxide+1/2 carbonate)':
-    '; Request Date: 02-MAR-07',
-  'Alkalinity, bicarbonate': '; Request Date: 29-JUL-14',
-  'Alkalinity, carbonate': '; Request Date: 11-DEC-14',
+    'Phenolphthalein alkalinity is a measure of the titratable bases in a water by titration with a standard acid to pH 8.3, irrespective of the color indicator used. Traditionally, phenolphthalein is used as a color indicator, changing from pink to clear as the pH decreases to 8.3. Phenolphthalein alkalinity is usually expressed as milligrams per liter of equivalent calcium carbonate.; 02-MAR-07',
+  'Alkalinity, bicarbonate':
+    'Bicarbonate alkalinity (HCO3-) is one of the three principle forms of alkalinity present in many surface waters and may be classified stoichiometrically by comparing the values for total (T) and phenolphthalein (P) alkalinity. Bicarbonate alkalinity is present when the phenolphthalein alkalinity is less than one-half the total alkalinity and is equal to the total alkalinity less twice the phenolp',
+  'Alkalinity, carbonate':
+    'Carbonate alkalinity (CO3-2) is one of the three principle forms of alkalinity present in many surface waters and may be classified stoichiometrically by comparing the values for total (T) and phenolphthalein (P) alkalinity. Carbonate alkalinity is equal to twice the phenolphthalein alkalinity (2P) when the phenolphthalein alkalinity is less than or equal to half the total alkalinity and is equal',
   'Alkalinity, total': '; Request Date: 22-JUL-14',
   'Alkane mix C10-C34': '; Request Date: 02-MAR-07',
   'Alkanes, Petroleum': '; Request Date: 22-JUL-14',
@@ -12503,7 +12517,8 @@ export default {
   Allylperfluorobutanamide: '',
   'Allyltris(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)stannane': '',
   'Alpha emitting isotopes': 'Nemi.gov; Request Date: 24-SEP-19',
-  'Alpha emitting radium isotopes': 'NWIS',
+  'Alpha emitting radium isotopes':
+    'All isotopes of radium that emit alpha particles. Excludes Ra 225, 227, 229, 230, 231, and 232 which emit only beta particles.; NWIS',
   'Alpha particle': '; Request Date: 22-JUL-14',
   'Alpha radiation': 'Nemi.gov; Request Date: 24-SEP-19',
   'Alpha-Bnc': '',
@@ -12554,7 +12569,8 @@ export default {
   Amitrole: '; Request Date: 02-MAR-07',
   Amlodipine: '; Request Date: 10-JUL-13',
   Ammonia: '; Request Date: 22-JUL-14',
-  'Ammonia and ammonium': '; Request Date: 26-AUG-13',
+  'Ammonia and ammonium':
+    'Mixture of ammonia and ammonium.; Request Date: 26-AUG-13',
   'Ammonia uptake':
     'The rate of uptake of ammonia by phytoplankton and other organisms.; Request Date: 22-JUL-14',
   'Ammonia-nitrogen':
@@ -12695,15 +12711,16 @@ export default {
   Antimony: 'Nemi.gov; Request Date: 02-MAR-07',
   'Antimony potassium tartrate': '; Request Date: 02-MAR-07',
   'Antimony, triphenylbis[(2,2,2-trifluoroacetyl)oxy]-': 'PFAS removal',
-  'Antimony-121': '',
-  'Antimony-124': '; Request Date: 25-MAR-10',
+  'Antimony-121': 'Antimony, atomic number 51.',
+  'Antimony-124': 'Antimony, atomic number 51.; Request Date: 25-MAR-10',
   'Antimony-125': 'Antimony, atomic number 51.; Request Date: 22-JUL-14',
   'Antimycin A': '; Request Date: 02-MAR-07',
   Antipyrine: '; Request Date: 02-FEB-15',
   'Apatite inorganic phosphorus': '; Request Date: 19-FEB-13',
   'Apomorphine hydrochloride hydrate': '; Request Date: 08-APR-19',
   'Apparent Oxygen Utilization': '; Request Date: 08-AUG-19',
-  'Apparent color': '; Request Date: 02-MAR-07',
+  'Apparent color':
+    'The color characteristics of a water sample due to dissolved substances and suspended materials, determined on an unfiltered or uncentrifuged sample.; Request Date: 02-MAR-07',
   'Appealing (choice list)': 'NRSA; Request Date: 11-APR-17',
   Apramycin: '; Request Date: 02-MAR-07',
   'Aquatic Animals (choice list)': 'Aquatic Animals',
@@ -12728,7 +12745,7 @@ export default {
   'Argon-38/Argon-36 error': 'NWIS',
   'Argon-38/Argon-36 ratio': 'NWIS',
   'Argon-38/argon-36': '',
-  'Argon-39': 'NWIS',
+  'Argon-39': 'Argon, atomic number 18.; NWIS',
   'Argon-39 error': 'NWIS',
   'Argon-40': 'NWIS',
   'Argon-40/Argon-36 error': 'NWIS',
@@ -12740,7 +12757,7 @@ export default {
   'Aroclor 1016': 'Chlorobiphenyl (41-Cl)Nemi.gov; Request Date: 02-MAR-07',
   'Aroclor 1016 mixt. with Aroclor 1221': '; Request Date: 02-MAR-07',
   'Aroclor 1016 mixt. with Aroclor 1242': '; Request Date: 02-MAR-07',
-  'Aroclor 1060': '',
+  'Aroclor 1060': 'Percent chlorine ranged from 12-68%.',
   'Aroclor 1210': 'PCB Mixture; Request Date: 02-MAR-07',
   'Aroclor 1216': 'PCB Mixture; Request Date: 02-MAR-07',
   'Aroclor 1221': 'Chlorobiphenyl (21-Cl)Nemi.gov; Request Date: 02-MAR-07',
@@ -12772,7 +12789,7 @@ export default {
   'Aroclor 1264': '; Request Date: 23-APR-15',
   'Aroclor 1268': 'Chlorobiphenyl (68-Cl); Request Date: 02-MAR-07',
   'Aroclor 5442': 'Chlorotriphenyl (42-Cl); Request Date: 02-MAR-07',
-  'Aroclor 5460': '; Request Date: 26-AUG-13',
+  'Aroclor 5460': 'Chlorotriphenyl (60-Cl); Request Date: 26-AUG-13',
   'Aromatics fraction': '; Request Date: 02-MAR-07',
   Arsenate: '1;NWIS',
   Arsenic: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -12794,14 +12811,14 @@ export default {
   'Arsenic, monomethyl':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Arsenic-75': '',
-  Arsenide: 'Request Date: 2-Mar-10 (nps.gov cas# review)',
+  Arsenide: 'Arsenic ion (-3); Request Date: 2-Mar-10 (nps.gov cas# review)',
   Arsenite: '1;NWIS',
   'Arsenous acid, tris(trimethylsilyl) ester': '',
   Arsine:
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Arsonium, (carboxymethyl)trimethyl-, inner salt': '1;',
   'Artifical substrate, redundacy index': '; Request Date: 30-MAY-13',
-  'Asahiguard AG 310': '',
+  'Asahiguard AG 310': 'A fluoropolymer emulsion waterproofing agent',
   Asbestos:
     'A grayish, noncombustible fibrous material.  It consists primarily of impure magnesium silicate minerals.Nemi.gov; Request Date: 22-JUL-14',
   'Ash Free Dry Mass': '; Request Date: 22-JUL-14',
@@ -12816,7 +12833,8 @@ export default {
     'Pollution from the atmosphere associated with dry deposition in the form of dust.; Request Date: 02-MAR-07',
   'Atmospheric deposition, wet fall':
     'Pollution from the atmosphere associated with deposition in the form of wet deposition of dust in the form of rain and snow.; Request Date: 22-JUL-14',
-  'Atmospheric stability': '; Request Date: 07-JUN-18',
+  'Atmospheric stability':
+    'A condition where the gaseous envelope surrounding the earth is stable.; Request Date: 07-JUN-18',
   Atorvastatin: '; Request Date: 24-MAR-14',
   'Atorvastatin calcium': '; Request Date: 19-MAY-15',
   'Atorvastatin-d5': 'NWIS',
@@ -13091,11 +13109,13 @@ export default {
   'BIS(1,1,2,2-tetrahydroperfluorooctyl) ether': '',
   'BMAA (Beta-Methyl-Amino-(L)-Alanine)':
     'New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
-  'BOD, Sediment Load': '; Request Date: 20-DEC-07',
+  'BOD, Sediment Load':
+    'A measure of the oxygen demand exerted by sediments.; Request Date: 20-DEC-07',
   'BOD, filtered': 'NWIS',
-  'BOD, mass': 'Nemi.gov; Request Date: 24-SEP-19',
+  'BOD, mass':
+    'BOD mass is determined as concentration times the flow rate, usually expressed as pounds per day.; Nemi.gov; Request Date: 24-SEP-19',
   'BOD, ultimate':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+    'The amount of oxygen consumed as a result of biological respiration of both carbonaceous and nitrogenous materials over an extended incubation period or the sum of carbonaceous oxygen demand (CBOD) and nitrogenous oxygen demand (NOD).; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'BTEX, Total':
     '1;GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   BTU: '; Request Date: 03-OCT-14',
@@ -13121,7 +13141,8 @@ export default {
   Bacitracin:
     'A complex combination of polypeptides produced by the metabolic processes of Bacillus subtilis and licheniformis.; Request Date: 02-MAR-07',
   'Back Water (Y/N) (choice list)': '; Request Date: 04-OCT-18',
-  'Bacteria mix, unspecified': '; Request Date: 02-MAR-07',
+  'Bacteria mix, unspecified':
+    "One-celled organisms, that fall into a category of life called the Prokaryotes (pro-carry-oats).  Prokaryotes' genetic material, or DNA, is not enclosed in a cellular compartment called the nucleus.; Request Date: 02-MAR-07",
   'Bacteria, Sulfate reducing': '; Request Date: 29-NOV-10',
   'Bacteria, complex with amylase and proteinase':
     'Nemi.gov; Request Date: 25-SEP-19',
@@ -13155,8 +13176,10 @@ export default {
   'Bank conditions - A': '',
   'Bank conditions - B': '',
   'Bank erosion hazard index': '',
-  'Bank erosion stability (choice list)': '; Request Date: 02-MAR-07',
-  'Bank vegetative stability (choice list)': '; Request Date: 02-MAR-07',
+  'Bank erosion stability (choice list)':
+    'A descriptor to characterize streambank stability with respect to erosion or bank failure.; Request Date: 02-MAR-07',
+  'Bank vegetative stability (choice list)':
+    'A descriptor to characterize the general vegetative stability on the banks of a water body including excellent, fair, good, or poor.; Request Date: 02-MAR-07',
   'Bankful Angle (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Bankfull Height': '; Request Date: 04-OCT-18',
   'Bankfull cross-sectional area': '',
@@ -13173,9 +13196,11 @@ export default {
   Barium: '; Request Date: 02-MAR-07',
   'Barium bis(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-5-oxooct-3-en-3-olate)':
     '',
-  'Barium-133': '; Request Date: 25-MAR-10',
+  'Barium-133': 'Barium, atomic number 56.; Request Date: 25-MAR-10',
   'Barium-137': '',
   'Barium-140': 'Barium, atomic number 56.; Request Date: 22-JUL-14',
+  'Barium-226': '',
+  'Barium-228': '',
   'Barium-lanthanum': '; Request Date: 02-MAR-07',
   'Barium/calcium ratio': '',
   'Barometric pressure':
@@ -13656,7 +13681,8 @@ export default {
   'Benzene, reaction products with chlorine and sulfur chloride (S2Cl2), hexafluorophosphates(1-)':
     '',
   'Benzene, tetrafluoro-': '',
-  'Benzene, toluene, ethyl benzene, xylenes mix': '; Request Date: 01-APR-13',
+  'Benzene, toluene, ethyl benzene, xylenes mix':
+    'Sum of benzene, toluene, ethyl benzene, and xylene; Request Date: 01-APR-13',
   "Benzene,1,1'-(chloroethenylidene)bis(4-chloro-)":
     'Request Date: 22-May-19 (nps.gov cas# review)| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Benzene-d5, ethyl-d5-': '; Request Date: 07-DEC-12',
@@ -14062,7 +14088,8 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   Bifenthrin: '; Request Date: 02-APR-09',
   'Big trees (choice list)': 'NRSA; Request Date: 11-APR-17',
-  'Bio-toxin': '; Request Date: 02-MAR-07',
+  'Bio-toxin':
+    'Any poison produced by a biological organism.; Request Date: 02-MAR-07',
   Bioaccumulation: 'Nemi.gov; Request Date: 25-SEP-19',
   'Biochanin A***retired***use 4H-1-Benzopyran-4-one, 5,7-dihydroxy-3-(4-methoxyphenyl)-':
     'Request Date: 9-Apr-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -14079,36 +14106,40 @@ export default {
   'Biomass, benthic':
     'The amount or weight of organisms that live within a specific volume or area on the bottom of a waterbody.; Request Date: 02-MAR-07',
   'Biomass, chlorophycota':
-    'Physical,14; The amount or weight of chlorophycota (green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'The amount or weight of chlorophycota (green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, chrysophyta':
-    'Physical,14; The amount or weight of chrysophyta (golden algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'The amount or weight of chrysophyta (golden algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, cryptophycophyta':
-    'Physical,14; The amount or weight of cryptophycophyta (cryptomonads) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'The amount or weight of cryptophycophyta (cryptomonads) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, cyanophycota':
-    'Physical,14; The amount or weight of cyanophycota (blue-green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'The amount or weight of cyanophycota (blue-green algae) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, drift macroinvertebrates':
     'The amount or weight of organisms without a backbone that are large enough to be seen without magnification that are suspended or drifting within a given volume or area of water.; Request Date: 02-MAR-07',
   'Biomass, euglenophycota':
-    'Physical,14; The amount or weight of euglenophycophyta (euglenoids) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'The amount or weight of euglenophycophyta (euglenoids) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, mysid': '',
   'Biomass, periphyton':
-    'Physical,14; The amount or weight of periphyton (attached algae) that live within a specific volume or area of an ecosystem.Nemi.gov; Request Date: 02-MAR-07',
+    'The amount or weight of periphyton (attached algae) that live within a specific volume or area of an ecosystem.Nemi.gov; Request Date: 02-MAR-07',
   'Biomass, phytoplankton':
-    'Physical,14; The amount or weight of phytoplankton (microscopic plants) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+    'The amount or weight of phytoplankton (microscopic plants) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, plankton':
     'The amount or weight of plankton (microscopic plants and animals) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, pyrrophycophyta':
-    'Physical,14; The amount or weight of pyrrhophycophyta (dinoflagellates) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
-  'Biomass, species 25-30 mm size class': '; Request Date: 19-MAR-19',
-  'Biomass, species 30-35 mm size class': '; Request Date: 19-MAR-19',
-  'Biomass, species 35-40 mm size class': '; Request Date: 19-MAR-19',
+    'The amount or weight of pyrrhophycophyta (dinoflagellates) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
+  'Biomass, species 25-30 mm size class':
+    'Biomass is the total quantity or weight of organisms in a given area or volume.; Request Date: 19-MAR-19',
+  'Biomass, species 30-35 mm size class':
+    'Biomass is the total quantity or weight of organisms in a given area or volume.; Request Date: 19-MAR-19',
+  'Biomass, species 35-40 mm size class':
+    'Biomass is the total quantity or weight of organisms in a given area or volume.; Request Date: 19-MAR-19',
   'Biomass, species 40-45 mm size class':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
-  'Biomass, species 45-50 mm size class': '',
+    'Biomass is the total quantity or weight of organisms in a given area or volume.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Biomass, species 45-50 mm size class':
+    'Biomass is the total quantity or weight of organisms in a given area or volume.',
   'Biomass, zooplankton':
     'The amount or weight of zooplankton (small floating or weakly swimming animals) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass/chlorophyll ratio':
-    'Physical,14; A ratio comparing the total biomass to the mass of chlorophyll in an ecosystem.; Request Date: 02-MAR-07',
+    'A ratio comparing the total biomass to the mass of chlorophyll in an ecosystem.; Request Date: 02-MAR-07',
   Biopermethrin: 'Nemi.gov; Request Date: 24-SEP-19',
   'Biovolume per individual': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   Biphenyl: '; Request Date: 02-MAR-07',
@@ -14305,8 +14336,9 @@ export default {
   'Bisdemethoxycurcumin (BDMC)': '',
   Bismuth: '; Request Date: 02-MAR-07',
   'Bismuth-209': '',
-  'Bismuth-210': 'Nemi.gov; Request Date: 24-SEP-19',
-  'Bismuth-211': '; Request Date: 29-NOV-10',
+  'Bismuth-210':
+    'Bismuth, atomic number 83.; Nemi.gov; Request Date: 24-SEP-19',
+  'Bismuth-211': 'Bismuth, atomic number 83.; Request Date: 29-NOV-10',
   'Bismuth-212': 'Bismuth, atomic number 83.; Request Date: 02-MAR-07',
   'Bismuth-214': 'Bismuth, atomic number 83.; Request Date: 22-JUL-14',
   "Bisphenol A-2,2',3,3',5,5',6,6'-d8":
@@ -14673,7 +14705,8 @@ export default {
   'C1-Fluoranthenes/pyrenes':
     'Any mixture of methyl Fluoranthenes/pyrenes.; Request Date: 02-MAR-07',
   'C1-Fluorenes***retired***use Methylfluorene': '; Request Date: 01-APR-13',
-  'C1-MW 228 PAH': 'NWIS',
+  'C1-MW 228 PAH':
+    'All polycyclic aromatic hydrocarbons with a molecular weight of 228 and one methyl substituent.; NWIS',
   'C1-Naphthobenzothiophenes': '',
   'C1-Phenanthrenes/anthracenes':
     'Any mixture of methyl Phenanthrenes/anthracenes.; Request Date: 02-MAR-07',
@@ -14726,7 +14759,8 @@ export default {
   'C21-C34 Aromatics': '; Request Date: 03-AUG-10',
   'C21-TAS': '',
   'C22 Hydrocarbons': '; Request Date: 02-MAR-07',
-  'C23-C32 Hydrocarbons': '; Request Date: 12-MAR-15',
+  'C23-C32 Hydrocarbons':
+    'Compounds composed of carbon and hydrogen that are derived from petroleum.; Request Date: 12-MAR-15',
   'C24 Hydrocarbons': '; Request Date: 02-MAR-07',
   'C24-C36 Hydrocarbons': '; Request Date: 12-MAR-15',
   'C26 Hydrocarbons': '; Request Date: 02-MAR-07',
@@ -14776,7 +14810,8 @@ export default {
   'C4-Chrysenes':
     'Any butylchrysene or chrysene with a combination of alkyl substituents that total 4 carbon atoms.; Request Date: 02-MAR-07',
   'C4-Decalins': '',
-  'C4-Dibenzothiophenes': '; Request Date: 03-AUG-10',
+  'C4-Dibenzothiophenes':
+    'C4-alkylated dibenzothiophene isomers; Request Date: 03-AUG-10',
   'C4-Fluoranthenes/pyrenes': '; Request Date: 31-MAR-14',
   'C4-Fluorene': '',
   'C4-Naphthalenes':
@@ -14973,7 +15008,7 @@ export default {
     '; Request Date: 26-AUG-13',
   'Carbon Tetrafluoride': '',
   'Carbon black':
-    'Request Date: 22-Dec-15 GLENDA contact (klewin.kenneth@epa.gov) (nps.gov cas# review)',
+    'The finely divided form of carbon produced by the incomplete combustion or thermal decomposition of either a hydrocarbon feedstock, such as natural gas and  petroleum oil, or an oxygen-containing feedstock, such as fats and oils from animals and plants.; Request Date: 22-Dec-15 GLENDA contact (klewin.kenneth@epa.gov) (nps.gov cas# review)',
   'Carbon dioxide': '; Request Date: 02-MAR-07',
   'Carbon disulfide': 'Nemi.gov; Request Date: 22-JUL-14',
   'Carbon fraction, particulate organic material': '; Request Date: 26-AUG-13',
@@ -15015,7 +15050,8 @@ export default {
   'Carboxydimethyl[3-(perfluorotetradecyl)-2-hydroxypropyl]azanium': '',
   'Carboxymethyl-3-nonadecafluorodecaneamidopropylammonium hydroxide salt': '',
   Carbutamide: '; Request Date: 08-APR-19',
-  'Carcinogenic polycyclic aromatic hydrocarbons': '; Request Date: 22-JUL-14',
+  'Carcinogenic polycyclic aromatic hydrocarbons':
+    'Carcinogenic polycyclic aromatic hydrocarbons found in sludge, subject to bioremediation.; Request Date: 22-JUL-14',
   Carfentanil: '; Request Date: 06-AUG-18',
   'Carfentanil oxalate': '; Request Date: 29-OCT-18',
   'Carfentrazone-ethyl': '; Request Date: 29-NOV-10',
@@ -15032,7 +15068,8 @@ export default {
   'Catchment basin area': 'NLA; Request Date: 17-MAR-16',
   Catechol: '; Request Date: 02-MAR-07',
   'Categorical Diatom Thickness': 'Sediment,17;',
-  'Cation exchange capacity': '; Request Date: 17-OCT-08',
+  'Cation exchange capacity':
+    'The sum total of exchangeable cations that a soil can adsorb. Expressed in centimoles per kilogram of soil (or of other adsorbing material such as clay.); Request Date: 17-OCT-08',
   'Cations-Anions':
     'Positively charged ions-negatively charged ions.; Request Date: 02-MAR-07',
   Cefotaxime: '; Request Date: 10-JUL-13',
@@ -15053,15 +15090,15 @@ export default {
   Cerium: '; Request Date: 22-JUL-14',
   'Cerium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.beta.O3,.beta.O5)-':
     '',
-  'Cerium-141': '; Request Date: 25-MAR-10',
+  'Cerium-141': 'Cerium, atomic number 58.; Request Date: 25-MAR-10',
   'Cerium-144': 'Cerium, atomic number 58.; Request Date: 22-JUL-14',
   Cerivastatin: 'NWIS',
   Cesium: '; Request Date: 22-JUL-14',
-  'Cesium Radionuclides': 'NWIS',
+  'Cesium Radionuclides': 'Radioisotopes of Cesium; NWIS',
   'Cesium perfluorooctanoate': '',
   'Cesium, total beta radioactivity': 'Nemi.gov; Request Date: 26-SEP-19',
   'Cesium-134': 'Cesium, atomic number 55.Nemi.gov; Request Date: 22-JUL-14',
-  'Cesium-136': '; Request Date: 25-MAR-10',
+  'Cesium-136': 'Cesium, atomic number 55.; Request Date: 25-MAR-10',
   'Cesium-137': 'Cesium, atomic number 55.Nemi.gov; Request Date: 22-JUL-14',
   'Cesium-144': 'NWIS',
   Ceterizine: 'NWIS',
@@ -15099,20 +15136,23 @@ export default {
   'Channelization Type': '',
   'Chemical oxygen demand':
     'A measure of the oxygen equivalent of the organic matter content of a sample that is susceptible to oxidation by a strong chemical oxidant, usually reported as COD as mg O2/L.Nemi.gov; Request Date: 22-JUL-14',
-  'Chemical oxygen demand, (high level)': '; Request Date: 24-MAR-15',
-  'Chemical oxygen demand, (low level)': 'NWIS',
+  'Chemical oxygen demand, (high level)':
+    'A measure of the COD for a sample containing a high concentration of organic matter susceptible to chemical oxidation, typically requiring the use of concentrated reagents or methodologies suitable for high COD measurements.; Request Date: 24-MAR-15',
+  'Chemical oxygen demand, (low level)':
+    'A measure of the COD for a sample containing a low concentration of organic matter susceptible to chemical oxidation, typically requiring the use of dilute reagents or methodologies suitable for low COD measurements.; NWIS',
   Chemiluminesence: 'Nemi.gov; Request Date: 26-SEP-19',
   Chirald: 'NWIS',
   Chloral: '; Request Date: 02-MAR-07',
   'Chloral hydrate': '; Request Date: 02-MAR-07',
   Chloramben: 'Nemi.gov; Request Date: 22-JUL-14',
   'Chloramben methyl ester':
-    'Nemi.govRequest Date: 26-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 26-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Chloramben-methyl':
     'Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Chlorambucil: '; Request Date: 31-JUL-15',
   Chloramine: '; Request Date: 02-MAR-07',
-  'Chloramines mixture, unspecified': '; Request Date: 02-MAR-07',
+  'Chloramines mixture, unspecified':
+    'Any of a class of disinfectants obtained by replacing a hydrogen atom on an =NH or -NH2 group with a chlorine atom.; Request Date: 02-MAR-07',
   'Chloramines, Total': 'Nemi.gov; Request Date: 26-SEP-19',
   'Chlorampenicol-ar-d4': '',
   Chloramphenicol: '; Request Date: 02-MAR-07',
@@ -15123,7 +15163,7 @@ export default {
   Chlordane: 'Nemi.gov; Request Date: 02-MAR-07',
   'Chlordane, technical': '; Request Date: 25-APR-11',
   'Chlordane, technical, and/or chlordane metabolites':
-    '; Request Date: 09-JAN-08',
+    'This substance includes technical chlordane and all its metabolites.; Request Date: 09-JAN-08',
   Chlordecone: '; Request Date: 22-JUL-14',
   Chlordene: '; Request Date: 22-JUL-14',
   Chlordiazepoxide: '; Request Date: 22-JUL-14',
@@ -15154,12 +15194,13 @@ export default {
   'Chlorine demand':
     'Chlorine demand is the difference between the amount of chlorine added to water and the amount of residual chlorine remaining after a given contact time.; Request Date: 02-MAR-07',
   'Chlorine dioxide': '; Request Date: 02-MAR-07',
-  'Chlorine dose': 'NWIS',
+  'Chlorine dose':
+    'The amount of chlorine applied at one time during chlorination.; NWIS',
   'Chlorine, Free Residual': '',
   'Chlorine, Total Residual':
     'Request Date: 2-Oct-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Chlorine-35': '',
-  'Chlorine-36': 'NWIS',
+  'Chlorine-36': 'Chlorine, atomic number 17.; NWIS',
   'Chlorine-36 counting error': 'NWIS',
   Chlorite: 'Nemi.gov; Request Date: 09-JAN-08',
   Chlormephos: '1;',
@@ -15286,7 +15327,8 @@ export default {
   Chlorsulfuron: '; Request Date: 02-MAR-07',
   Chlortetracycline: 'Nemi.gov; Request Date: 02-MAR-07',
   Chlorthal: 'Nemi.gov; Request Date: 01-APR-10',
-  'Chlorthal monoacid and diacid degradates': '; Request Date: 09-JAN-08',
+  'Chlorthal monoacid and diacid degradates':
+    'This substance includes all monoacid and diacid degradates of chlorthal.; Request Date: 09-JAN-08',
   'Chlorthal-Monomethyl': '; Request Date: 22-JUL-14',
   'Chlorthal-dimethyl': 'Nemi.gov; Request Date: 22-JUL-14',
   Chlorthalidone: 'NWIS',
@@ -15336,10 +15378,10 @@ export default {
     '',
   'Chromium, pentacarbonyl[1,1,1,2,2,3,3,4,4-nonafluoro-4-(isocyano-.kappa.C)butane]-, (OC-6-21)-':
     '',
-  'Chromium-50': '',
+  'Chromium-50': 'Chromium, atomic number 24.',
   'Chromium-51': 'Chromium, atomic number 24.; Request Date: 02-MAR-07',
-  'Chromium-52': '',
-  'Chromium-53': '',
+  'Chromium-52': 'Chromium, atomic number 24.',
+  'Chromium-53': 'Chromium, atomic number 24.',
   Chrysene: 'Nemi.gov; Request Date: 02-MAR-07',
   'Chrysene + Triphenylene': '; Request Date: 26-AUG-13',
   'Chrysene-d12': '; Request Date: 22-JUL-14',
@@ -15414,20 +15456,21 @@ export default {
   'Cloud cover':
     'A descriptor of cloud cover, including broken, clear, scattered, obscure, or overcast.; Request Date: 02-MAR-07',
   'Cloud cover (choice list)': '; Request Date: 02-MAR-07',
-  'Cloud type (choice list)': '; Request Date: 02-MAR-07',
+  'Cloud type (choice list)':
+    'A two-digit code to characterize cloud types.; Request Date: 02-MAR-07',
   Cloxacillin: '; Request Date: 10-JUL-13',
   Clozapine: 'NWIS',
   'Clozapine-d4': '',
   Coal: '; Request Date: 02-MAR-07',
   'Coal tar':
-    'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
+    'The by-product from the destructive distillation of coal.  Almost black semisolid.  A complex combination of aromatic hydrocarbons, phenolic compounds, nitrogen bases and thiophene.; Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Coarse Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Coarse Mass': '',
   Cobalt: '; Request Date: 22-JUL-14',
   'Cobalt and compounds':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Cobalt perfluorooctanoate': '',
-  'Cobalt-57': '; Request Date: 25-MAR-10',
+  'Cobalt-57': 'Cobalt, atomic number 27.; Request Date: 25-MAR-10',
   'Cobalt-58': 'Cobalt, atomic number 27.; Request Date: 22-JUL-14',
   'Cobalt-59': '',
   'Cobalt-60': 'Cobalt, atomic number 27.Nemi.gov; Request Date: 22-JUL-14',
@@ -15445,7 +15488,7 @@ export default {
   'Colchicine-d6': '; Request Date: 24-MAR-14',
   'Coliform/Streptococcus ratio, fecal': '; Request Date: 02-MAR-07',
   Coliphage:
-    'Viruses (bacteriophages) that specifically infect E. coli bacteria, causing their deterioration or dissolution.Nemi.gov; Request Date: 25-SEP-19',
+    'Viruses (bacteriophages) that specifically infect E. coli bacteria, causing their deterioration or dissolution.; Nemi.gov; Request Date: 25-SEP-19',
   'Coliphage, Male Specific (F+) Group I': '; Request Date: 02-MAR-07',
   'Coliphage, Male Specific (F+) Group II + Group III':
     '; Request Date: 02-MAR-07',
@@ -15495,8 +15538,10 @@ export default {
   'Condition class, recreational Cyanobacteria (bluegreen)':
     'Physical,4; Condition Class represents a simple categorization of the associated characteristic and indicates the general level to which current characteristic is different from the simulated historical characteristic reference conditions. ; Request Date: 14-JUN-16',
   'Conditions Preventing Sampling': '',
-  Conductance: '',
-  Conductivity: '; Request Date: 24-MAR-10',
+  Conductance:
+    'A measure of the capacity of a sample of water (or other substance) to carry an electrical current, which is related to the concentration of ionized substances in the water.',
+  Conductivity:
+    'Conductivity is the ability of an aqueous solution to carry an electrical current, expressed in terms of resistance, reported in micromhos per centimeter at a specified temperature, typically 25 deg C.; Request Date: 24-MAR-10',
   'Conductivity, Debye-Huckel-Onsager': 'NLA; Request Date: 05-APR-16',
   'Consolidated-Undrained Triaxial C': '',
   'Consolidated-Undrained Triaxial Effective C': '',
@@ -15566,7 +15611,7 @@ export default {
   'Copper, [2,9,16,23-tetrakis(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)-29H,31H-phthalocyaninato(2-)-.kappa.N29,.kappa.N30,.kappa.N31,.kappa.N32]-, (SP-4-1)-':
     '',
   'Copper, bis(2,2,2-trifluoroacetato-.kappa.O)-, hydrate (1:1': 'PFAS removal',
-  'Copper-63': '',
+  'Copper-63': 'Copper, atomic number 29.',
   'Copper-65': '',
   'Coprostan-3-one': '; Request Date: 23-APR-15',
   Coprosterol: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -15576,9 +15621,9 @@ export default {
   'Coral Percent Live': '; Request Date: 12-NOV-14',
   Coronene: '; Request Date: 30-AUG-12',
   'Corrosion & scaling control, Langelier Saturation Index':
-    '; Request Date: 02-MAR-07',
+    'An index reflecting the equilibrium pH of a water with respect to calcium and alkalinity that is used in stabilizing water to control both corrosion and the deposition of scale.; Request Date: 02-MAR-07',
   'Corrosion & scaling control, Ryznar Stability Index':
-    '; Request Date: 02-MAR-07',
+    'The Ryznar Stability Index (RSI) measures the tendency of scale formation in water pipes by correlating the measured pH of water and the pH of the water at the saturation level of calcium carbonate and is defined as:  RSI = 2(pHs) - pH, where pH is the measured water pH and pHs is the pH at saturation of calcite or calcium carbonate.; Request Date: 02-MAR-07',
   Corrosivity: '; Request Date: 30-MAY-13',
   Cortisone: 'NWIS',
   Cotinine: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -15591,12 +15636,16 @@ export default {
   Count: '; Request Date: 18-JUL-08',
   'Count%': '; Request Date: 10-JUL-13',
   'Count, species': 'Information,4 (Unique Taxa)',
-  'Count, species 25-30 mm size class': 'Physical,14; Request Date: 19-MAR-19',
-  'Count, species 30-35 mm size class': 'Physical,14; Request Date: 19-MAR-19',
-  'Count, species 35-40 mm size class': 'Physical,14; Request Date: 19-MAR-19',
+  'Count, species 25-30 mm size class':
+    'Count determines the total number of (a collection of items).; Request Date: 19-MAR-19',
+  'Count, species 30-35 mm size class':
+    'Count determines the total number of (a collection of items).; Request Date: 19-MAR-19',
+  'Count, species 35-40 mm size class':
+    'Count determines the total number of (a collection of items).; Request Date: 19-MAR-19',
   'Count, species 40-45 mm size class':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
-  'Count, species 45-50 mm size class': '',
+    'Count determines the total number of (a collection of items).; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Count, species 45-50 mm size class':
+    'Count determines the total number of (a collection of items).',
   'Counted area': 'NLA; Request Date: 27-APR-16',
   'Cover, species (%)': '',
   'Cow copies': '; Request Date: 31-JAN-18',
@@ -15636,10 +15685,10 @@ export default {
   'Cupric hydroxide': '; Request Date: 27-MAR-19',
   'Cupric sulfate':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
-  'Curium-242': 'NWIS',
-  'Curium-243': '; Request Date: 25-MAR-10',
+  'Curium-242': 'Curium, atomic number 96.; NWIS',
+  'Curium-243': 'Curium, atomic number 96.; Request Date: 25-MAR-10',
   'Curium-244': 'Curium, atomic number 96.; Request Date: 02-MAR-07',
-  'Curium-245': '; Request Date: 25-MAR-10',
+  'Curium-245': 'Curium, atomic number 96.; Request Date: 25-MAR-10',
   'Current (choice list)': '; Request Date: 04-JUN-15',
   'Current Precipitation (choice list)': '',
   'Current direction':
@@ -15975,14 +16024,20 @@ export default {
   'DCPA-d6': 'NWIS',
   'DCPA-d6 (dimethyl-d6)': 'DCPA-d6 (dimethyl-d6)',
   DCPU: 'NWIS',
-  "DDD, o,o'-, o,p'-, and p,p'- isomers": '; Request Date: 22-JUL-14',
-  "DDD, o,p'- and p,p'- isomers": '; Request Date: 22-JUL-14',
-  "DDE, o,o'-, o,p'-, and p,p'- isomers": '; Request Date: 22-JUL-14',
-  "DDE, o,p'- and p,p'- isomers": '; Request Date: 22-JUL-14',
+  "DDD, o,o'-, o,p'-, and p,p'- isomers":
+    "Includes all isomers: o,o'-, o.p'-, and p,p'-DDD. ; Request Date: 22-JUL-14",
+  "DDD, o,p'- and p,p'- isomers":
+    "Includes o,p'- and p,p'-DDD isomers.; Request Date: 22-JUL-14",
+  "DDE, o,o'-, o,p'-, and p,p'- isomers":
+    "Includes all isomers: o,o'-, o.p'-, and p,p'-DDE.; Request Date: 22-JUL-14",
+  "DDE, o,p'- and p,p'- isomers":
+    "Includes o,p'- and p,p'-DDE isomers.; Request Date: 22-JUL-14",
   DDMU: 'Request Date: 22-May-19 (nps.gov cas# review)| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  "DDT, o,p'- and p,p'- isomers": '; Request Date: 22-JUL-14',
+  "DDT, o,p'- and p,p'- isomers":
+    "Includes o,p'- and p,p'-DDT isomers.; Request Date: 22-JUL-14",
   "DDT/DDD/DDE, sum of o,p' isomers": '; Request Date: 22-OCT-14',
-  "DDT/DDD/DDE, sum of p,p' & o,p' isomers": '; Request Date: 22-JUL-14',
+  "DDT/DDD/DDE, sum of p,p' & o,p' isomers":
+    "This substance includes all metabolites of DDT, including o,p' and p,p' isomers of DDT, DDE, and DDD.; Request Date: 22-JUL-14",
   "DDT/DDD/DDE, sum of p,p' isomers": '; Request Date: 03-AUG-10',
   'DEET-d7': '; Request Date: 24-MAR-14',
   'DG3 DNA marker': '; Request Date: 08-OCT-19',
@@ -15994,7 +16049,8 @@ export default {
   Daidzein: '; Request Date: 10-JUL-13',
   Dalapon: 'Nemi.gov; Request Date: 02-MAR-07',
   Danazol: '; Request Date: 08-APR-19',
-  'Data-logger operating voltage': '; Request Date: 02-MAR-07',
+  'Data-logger operating voltage':
+    'The operating voltage of a data-logger.; Request Date: 02-MAR-07',
   Daunomycin: '; Request Date: 24-MAR-14',
   'Daunorubicin-13C-d3': '; Request Date: 24-MAR-14',
   'Day, ice (on/off) (choice list)': 'ice off a body of water',
@@ -16006,7 +16062,7 @@ export default {
   'Decabromobiphenyl ether(DBBE)***retired***use Decabromodiphenyl ether':
     'Request Date: 30-May-13 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Decabromodiphenyl ether***retired***use Decabromodiphenyl oxide':
-    'Nemi.govRequest Date: 30-MAY-14| Organics, PCBs ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 30-MAY-14| Organics, PCBs ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Decabromodiphenyl oxide':
     'Request Date: 2-Apr-13 (nps.gov cas# review)| Organics, PCBs ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Decabromodiphenylethane: '',
@@ -16094,7 +16150,7 @@ export default {
   Dehydrogenase: '; Request Date: 22-JUL-14',
   'Dehydrogenase (corrected for carbon content)': '; Request Date: 24-NOV-09',
   Dehydronifedipine:
-    'Nemi.govRequest Date: 01-JUL-11| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 01-JUL-11| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Deiodo flubendiamide': 'NWIS',
   'Deisopropyl prometryn': 'NWIS',
   Deisopropylhydroxyatrazine: '; Request Date: 14-FEB-19',
@@ -16127,7 +16183,8 @@ export default {
     'A measure of how heavy a substance (solid, liquid or gas) is for its size and is expressed in terms of weight per unit volume at a specified temperature, usually 20 deg C (g/mL, gr/cm3, etc).; Request Date: 22-JUL-14',
   'Density as sigma-t':
     'The denisty of seawater at sea level.; Request Date: 31-JUL-09',
-  'Density of water at 20 deg C': 'NWIS',
+  'Density of water at 20 deg C':
+    'The density of a particular water sample at 20 deg C.; NWIS',
   Deoxycylindrospermopsin:
     'nbsp New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Deoxygenation constant':
@@ -16143,28 +16200,33 @@ export default {
   'Depth by Pole': '',
   'Depth by Sonar': '',
   'Depth from surface to lower boundary of soil layer': '',
-  'Depth of pond or reservoir in feet': 'NWIS',
+  'Depth of pond or reservoir in feet':
+    'The distance from the top to the bottom of a pond or reservoir in feet.; NWIS',
   'Depth of water column': '; Request Date: 23-APR-15',
   'Depth to Ground from Casing Rim': '',
   'Depth to bottom of sample interval': '',
   'Depth to top of sample interval': '',
   'Depth to water from rim of well casing': '',
-  'Depth to water level below land surface': 'NWIS',
+  'Depth to water level below land surface':
+    'Vertical distance between land surface and water level, measured in feet.; NWIS',
   'Depth, Midstream': 'Midstream depth',
   'Depth, Midstream Left': 'WQP',
   'Depth, Midstream Right': 'Midstream Right Depth',
   'Depth, Net Beginning': '',
   'Depth, Net End': '',
   'Depth, Photic zone includes bottom (Y/N) (choice list)': '',
-  'Depth, Secchi disk depth': '; Request Date: 02-MAR-07',
+  'Depth, Secchi disk depth':
+    'The transparency of water determined by lowering a Secchi disk (an 8-inch disk with alternating black and white quadrants) into a body of water until it can no longer be seen. The Secchi depth is typically reported in inches, feet, or meters. Algae, color, and suspended solids decrease the transparency of water or Secchi depth.; Request Date: 02-MAR-07',
   'Depth, Secchi disk depth (choice list)': '; Request Date: 02-MAR-07',
   'Depth, Secchi disk depth reappears': '',
   'Depth, Secchi disk visible at bottom (Y/N) (choice list)': '',
   'Depth, below bottom surface': '; Request Date: 02-MAR-07',
   'Depth, bottom':
     'The distance from a reference point to the bottom measured in units of length.; Request Date: 22-JUL-14',
-  'Depth, data-logger (non-ported)': '; Request Date: 02-MAR-07',
-  'Depth, data-logger (ported)': '; Request Date: 02-MAR-07',
+  'Depth, data-logger (non-ported)':
+    'The depth of an object, measured by a non-ported data-logger.; Request Date: 02-MAR-07',
+  'Depth, data-logger (ported)':
+    'The depth of an object, measured by a ported data-logger, I.e., one which is connected directly to a computer.; Request Date: 02-MAR-07',
   'Depth, from below top of casing to water level': '; Request Date: 08-NOV-13',
   'Depth, from bottom of the sediment core':
     'NLA Sediment; Request Date: 27-JUN-16',
@@ -16207,7 +16269,8 @@ export default {
     'Request Date: 11-Sep-14 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Desulfinylfipronil amide': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   'Desvenlafaxine***retired***use Desmethylvenlafaxine': 'Desvenlafaxine',
-  'Detergent, severity (choice list)': '; Request Date: 02-MAR-07',
+  'Detergent, severity (choice list)':
+    'The severity of detergent pollution in a body of water, reported as none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Detritus Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Detritus, coarse particle organic matter':
     'A description of the organic substrate type within a habitat consisting of detritus (sticks, wood, and coarse plant material), as defined by the second Rapid Bioassessment Protocols (RBP2)..; Request Date: 17-OCT-17',
@@ -16215,7 +16278,8 @@ export default {
   'Deuterium, delta': '1; Request Date: 09-MAY-18',
   'Deuterium/Hydrogen ratio':
     'The ratio of deuterium and hydrogen.; Request Date: 02-MAR-07',
-  'Dew point': '',
+  'Dew point':
+    'The temperature to which air must be cooled at a given pressure and water-vapor content, for it to reach saturation.',
   Dexamethasone: '; Request Date: 22-JUL-14',
   Dextromethorphan: '; Request Date: 02-FEB-15',
   'Dextromethorphan hydrobromide': '; Request Date: 22-JUL-14',
@@ -16269,7 +16333,7 @@ export default {
     'Physical,14; NLA Sediment; Request Date: 18-JUL-16',
   'Diatom conversion factor': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   Diatoms:
-    'Microbiological,9; Unicellular algae, some of which are colonial, green or brownish in color, containing chlorophyll, and with siliceous and often highly sculptured cell walls.; Request Date: 22-JUL-14',
+    'Unicellular algae, some of which are colonial, green or brownish in color, containing chlorophyll, and with siliceous and often highly sculptured cell walls.; Request Date: 22-JUL-14',
   Diatrizoate: 'Diatrizoate',
   'Diatrizoic acid': '; Request Date: 24-MAR-14',
   'Diatrizoic acid-d6': 'Request Date: 25-Mar-14 (nps.gov cas# review)',
@@ -16291,7 +16355,8 @@ export default {
   'Dibenz[a,h]anthracene': 'Nemi.gov; Request Date: 22-JUL-14',
   'Dibenz[a,j]acridine': 'Nemi.gov; Request Date: 22-JUL-14',
   'Dibenzo(a,h)anthracene-D14': '; Request Date: 01-MAY-14',
-  'Dibenzo-p-dioxins, polyhalogenated -- MTL': '; Request Date: 01-AUG-19',
+  'Dibenzo-p-dioxins, polyhalogenated -- MTL':
+    'Polychlorinated dioxins and furans (D/F) are found as contaminants in the sludge that results from the wastewater treatment process in pulp and paper mills, produced when wood pulp is bleached with chlorine or chlorine-derivative compounds.; Request Date: 01-AUG-19',
   'Dibenzo[a,c]anthracene plus dibenzo[a,h]anthracene': 'NWIS',
   'Dibenzo[a,e]pyrene': '; Request Date: 14-APR-15',
   'Dibenzo[a,h]pyrene': '1; Request Date: 25-MAR-10',
@@ -16301,7 +16366,8 @@ export default {
   'Dibenzo[b,k]fluoranthene': '; Request Date: 02-MAR-07',
   Dibenzofuran: 'Nemi.gov; Request Date: 22-JUL-14',
   Dibenzothiophene: 'Nemi.gov; Request Date: 02-MAR-07',
-  'Dibenzothiophene (C1-C3)': '; Request Date: 02-MAR-07',
+  'Dibenzothiophene (C1-C3)':
+    'Benzothiophenes with alkyl substituents ranging from one to three saturated carbon atoms, including methyl, ethyl, or propyl or a combination of these substituents. ; Request Date: 02-MAR-07',
   'Dibenzothiophene, 4-methyl-': '; Request Date: 30-AUG-12',
   'Dibenzothiophene-D8': '; Request Date: 01-MAY-14',
   'Dibenzyl phthalate':
@@ -16402,7 +16468,7 @@ export default {
   'Dichloro{3-[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]propyl}phenylsilane': '',
   Dichlorphenamide: 'NWIS',
   Dichlorprop:
-    'Nemi.govRequest Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Dichlorvos: 'Nemi.gov; Request Date: 02-MAR-07',
   Diclofenac: '; Request Date: 22-JUL-14',
   'Diclofenac, 4-hydroxy': '; Request Date: 19-JUN-14',
@@ -16432,7 +16498,8 @@ export default {
   'Diesel and residual range hydrocarbons': '; Request Date: 03-AUG-10',
   'Diesel fuel':
     'A complex combination of hydrocarbons produced by the distillation of crude oil.  It consists of hydrocarbons having carbon numbers predominantly in the range of C9 through C20; Request Date: 02-MAR-07',
-  'Diesel fuels no. 2': '; Request Date: 22-JUL-14',
+  'Diesel fuels no. 2':
+    'A distillate oil having a minimum viscosity of 32.6 SUS at 37.7.degree.C (100.degree.F) to a maximum of 40.1 SUS at 37.7.degree.C (100.degree.F).; Request Date: 22-JUL-14',
   'Diesel range organic compounds': 'NWIS',
   'Diesel range organics':
     'Method AK102 is designed to measure the concentration of Diesel Range Organics (DROs) in water and soil.; Request Date: 02-MAR-07',
@@ -16635,7 +16702,8 @@ export default {
   'Dioxin--2,3,7,8-TEC':
     'Request Date: 15-Aug-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Dioxin-like PCB cogeners as 2,3,7,8-TCDD TEQs': '; Request Date: 31-OCT-14',
-  'Dioxins and dibenzofurans': '; Request Date: 01-AUG-19',
+  'Dioxins and dibenzofurans':
+    'Any of a family of compounds known chemically as dibenzo-p-dioxins; Request Date: 01-AUG-19',
   'Dioxins and furans as 2,3,7,8-TCDD TEQs***retired***use Chlorinated dioxins and furans -- 2,3,7,8 congeners only':
     '; Request Date: 31-OCT-14',
   'Dioxins, furans, and dioxin-like PCB cogeners as 2,3,7,8-TCDD TEQs':
@@ -16717,19 +16785,21 @@ export default {
   'Dissolved oxygen (DO)': '; Request Date: 02-MAR-07',
   'Dissolved oxygen saturation':
     'The maximum amount of free oxygen that can be dissolved in water at a specified temperature.; Request Date: 02-MAR-07',
-  'Dissolved oxygen uptake': '; Request Date: 02-MAR-07',
+  'Dissolved oxygen uptake':
+    'The uptake or amount of dissolved oxygen absorbed in a media, usually water.; Request Date: 02-MAR-07',
   'Distance From Left Bank': '1; Request Date: 04-OCT-18',
   'Distance From Right Bank': '',
   'Distance along transect': 'NARS Mobile',
   'Distance from Shore to Riparian': '',
-  'Distance from/to': '; Request Date: 02-MAR-07',
+  'Distance from/to':
+    'The measure of distance between two points of reference in units of length.; Request Date: 02-MAR-07',
   'Distance to Thalweg from Stream Left':
     'Distance to Thalweg from Stream Left',
   'Distannoxane, 1,1,3,3-tetraethenyl-1,3-bis[(2,2,2-trifluoroacetyl)oxy]-':
     'PFAS removal',
   Distearyldimonium: 'NWIS',
   'Distillates (petroleum), hydrofined lubricating-oil':
-    '; Request Date: 24-MAY-10',
+    'A complex combination of hydrocarbons produced by the condensation of the stripper overheads from a hydrofining process for lube oil.  It consists of 50% hydrofined lube oil with the rest being lighter hydrocarbons and boiling in the range of approximately 21.degree.C to 482.degree.C (70.degree.F to 900.degree.F).; Request Date: 24-MAY-10',
   'Disulfide, bis(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)': '',
   'Disulfide, bis(heptafluorobutyryl), bis(dimethylhydrazone)': '',
   'Disulfide, bis(pentafluoroethyl)': '',
@@ -16804,8 +16874,10 @@ export default {
   'Dominant Substrate in reach (choice list)': '',
   'Dominant Substrate receiving flow (choice list)': '',
   'Dominant Wolman Pebble Size/Range': '; Request Date: 26-AUG-13',
-  'Dominant particle size': '',
-  'Dominant particle size class': '',
+  'Dominant particle size':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Dominant particle size class':
+    'Particle size refers to the size of individual particles that make up a material.',
   'Domoic acid': 'NWIS',
   Donepezil: '; Request Date: 30-MAY-13',
   Dopamine: 'NWIS',
@@ -16831,9 +16903,10 @@ export default {
   Dulcin: '; Request Date: 08-APR-19',
   Duloxetine: '; Request Date: 30-MAY-13',
   'Duloxetine hydrochloride': '; Request Date: 08-OCT-19',
-  'Duration of discharge': '; Request Date: 27-FEB-14',
+  'Duration of discharge':
+    'The length of time a discharge continues flowing from an effluent outlet.; Request Date: 27-FEB-14',
   Durenol: '; Request Date: 02-MAR-07',
-  'Dustfall Combustible': '',
+  'Dustfall Combustible': 'Dustfall capable of catching fire and burning.',
   'Dustfall, Total': '',
   Dyphylline: '; Request Date: 02-MAR-07',
   Dysprosium: '; Request Date: 22-JUL-14',
@@ -16868,12 +16941,18 @@ export default {
   'Elapsed Time Since Last Measurement': '; Request Date: 26-AUG-13',
   'Electromotive force': 'Nemi.gov; Request Date: 25-SEP-19',
   Elevation: '',
-  'Elevation, MSL': '; Request Date: 02-MAR-07',
-  'Elevation, aquifer top, MSL': '; Request Date: 02-MAR-07',
-  'Elevation, groundwater surface, MSL': '; Request Date: 02-MAR-07',
-  'Elevation, land surface, MSL': '; Request Date: 02-MAR-07',
-  'Elevation, tailwater surface, MSL': '; Request Date: 02-MAR-07',
-  'Elevation, water surface, MSL': '; Request Date: 02-MAR-07',
+  'Elevation, MSL':
+    'The elevation with respect to the mean sea level (MSL).; Request Date: 02-MAR-07',
+  'Elevation, aquifer top, MSL':
+    'The vertical distance between an aquifer top and the mean sea level (MSL).; Request Date: 02-MAR-07',
+  'Elevation, groundwater surface, MSL':
+    'The vertical distance between the groundwater surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
+  'Elevation, land surface, MSL':
+    'The vertical distance between the land surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
+  'Elevation, tailwater surface, MSL':
+    'The vertical distance between the tailwater surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
+  'Elevation, water surface, MSL':
+    'The vertical distance between a water surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
   Eltenac: 'NWIS',
   'Emamectin benzoate': '; Request Date: 29-NOV-10',
   Embeddedness:
@@ -16903,16 +16982,17 @@ export default {
   'Ensulizole***retired***use 1H-Benzimidazole-5-sulfonic acid, 2-phenyl-':
     'Request Date: 21-Nov-17 (nps.gov cas# review)',
   'Enterobacter aerogenes***retired***use Enterobacter aerogenes (Monera)':
-    '; Request Date: 02-MAR-07',
+    'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   'Enterobacter cloacae***retired***use Enterobacter cloacae (Monera)':
-    '; Request Date: 02-MAR-07',
+    'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   'Enterobacter***retired***use Enterobacter (Monera)':
-    '; Request Date: 02-MAR-07',
-  Enterococcus: 'Nemi.gov; Request Date: 02-MAR-07',
+    'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
+  Enterococcus:
+    'Spherical bacteria, occurring normally or pathogenically in the intestines of humans and other animals.; Nemi.gov; Request Date: 02-MAR-07',
   'Enterohemorrhagic E. coli Shiga toxin-1 gene': 'NWIS',
   'Enterohemorrhagic E. coli Shiga toxin-2 gene': 'NWIS',
   'Enterotoxin Type B, Staphylococcus aureus': '',
-  Enterovirus: 'NWIS',
+  Enterovirus: 'RNA Virus; NWIS',
   'Entrenchment ratio': '',
   'Epi-chlorotetracycline': '; Request Date: 01-JUL-11',
   'Epi-iso-chlorotetracycline': '; Request Date: 01-JUL-11',
@@ -17551,8 +17631,10 @@ export default {
   'Extract volume':
     'Chesapeake Bay Program Data Migration; Request Date: 27-FEB-17',
   'Extractable fuel hydrocarbons (C13-C22 DRO)': '; Request Date: 02-APR-15',
-  'Extractable hydrocarbons': '',
-  'Extractable organic matter (EOM)': '; Request Date: 12-JAN-16',
+  'Extractable hydrocarbons':
+    'An analytical method designed to measure the collective concentrations of extractable aliphatic and aromatic petroleum hydrocarbons in water and soil/sediment matrices. Extractable aliphatic hydrocarbons are collectively quantitated within two ranges: C9 through C18 and C19 through C36. Extractable aromatic hydrocarbons are collectively quantitated within the C11 through C22 range. ',
+  'Extractable organic matter (EOM)':
+    'Organic compounds extractable in a particular solvent.; Request Date: 12-JAN-16',
   Ezetimibe: '; Request Date: 02-FEB-15',
   'Ezetimibe-d4': '',
   'F-Methyl-1-oxadecalin': '',
@@ -17598,8 +17680,10 @@ export default {
   'Fatty acids, tall-oil, polymers with bisphenol A, epichlorohydrin and maleic anhydride, compds. with triisopropanolamine':
     '',
   'Fecal Bacteroidetes': '; Request Date: 09-JUL-19',
-  'Fecal Coliform': 'Nemi.gov; Request Date: 02-MAR-07',
-  'Fecal Streptococcus Group Bacteria': '; Request Date: 02-MAR-07',
+  'Fecal Coliform':
+    'Various species of bacteria inhabiting the colon.; Nemi.gov; Request Date: 02-MAR-07',
+  'Fecal Streptococcus Group Bacteria':
+    'Bacteria of the genus Streptococcus that inhabit the gastrointestinal tract.; Request Date: 02-MAR-07',
   Fecundity: '; Request Date: 31-JAN-18',
   Fenamidone: '; Request Date: 08-APR-19',
   Fenamiphos: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -17690,7 +17774,8 @@ export default {
     '; Request Date: 04-OCT-18',
   'Fish Description (text)': 'Information,4;',
   'Fish Kill (Y/N) (choice list)': '',
-  'Fish Kill, Severity (choice list)': 'Physical,14; Request Date: 02-MAR-07',
+  'Fish Kill, Severity (choice list)':
+    'A descriptor used to describe fish mortality, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Fish Recaptured (Y/N) (choice list)': 'Information,4; ',
   'Fish Status After Sampling (choice list)': 'Information,4;',
   'Fish Tag Number (text)':
@@ -17698,35 +17783,40 @@ export default {
   'Fish average condition index': '',
   'Fish community': '; Request Date: 01-OCT-19',
   'Fish condition factor':
-    'Physical,14; A factor to describe the physical condition of a fish.; Request Date: 02-MAR-07',
+    'A factor to describe the physical condition of a fish.; Request Date: 02-MAR-07',
   'Fish fork length':
-    'Physical,14; The length of a fish measured from the tip of the snout to the posterior end of the middle caudal rays.; Request Date: 02-MAR-07',
+    'The length of a fish measured from the tip of the snout to the posterior end of the middle caudal rays.; Request Date: 02-MAR-07',
   'Fish kill observation':
-    'Physical,14; An assessment of a fish kill event based on general observations.; Request Date: 02-MAR-07',
+    'An assessment of a fish kill event based on general observations.; Request Date: 02-MAR-07',
   'Fish presence (choice list)': 'Information,4; Request Date: 17-DEC-10',
   'Fish standard length':
-    'Biological,2; The length of a fish from the front of the upper lip to the posterior end of the vertebral column (the last element of which, the hypural plate, is somewhat broadened and forms the bony support for the caudal fin rays).; Request Date: 02-MAR-07',
+    'The length of a fish from the front of the upper lip to the posterior end of the vertebral column (the last element of which, the hypural plate, is somewhat broadened and forms the bony support for the caudal fin rays).; Request Date: 02-MAR-07',
   'Fixed dissolved solids':
     'The weight of the solid remaining after a well-mixed sample is filtered through a standard glass filter, the resultant filtrate evaporated and dried to a constant weight at 103-105 deg C. and then ignited at 550 +/ 50 deg C.; Request Date: 02-MAR-10',
   'Fixed suspended solids':
     'The weight of solid remaining after a representative sample is filtered, the non-filterable portion of the sample is dried to a constant weight at 103-105 deg C., and then ignited at 550 +/- 50 deg C.; Request Date: 02-MAR-07',
-  'Flash point': '; Request Date: 01-JUL-11',
+  'Flash point':
+    'The lowest temperature at which a liquid in a specified apparatus will give off sufficient vapor to ignite momentarily on application of a flame, measured in deg C.; Request Date: 01-JUL-11',
   Flavobacterium: '; Request Date: 22-JUL-14',
   Flazasulfuron: '; Request Date: 09-MAR-15',
   Flecainide: 'NWIS',
   'Floating Detergent/Soap - Severity (choice list)':
     '; Request Date: 02-MAR-07',
-  'Floating Garbage Severity (choice list)': '; Request Date: 02-MAR-07',
+  'Floating Garbage Severity (choice list)':
+    'Large floating material from a broad category of large manufactured and naturally occurring discarded objects that are considered worthless or offensive.; Request Date: 02-MAR-07',
   'Floating algae mat - severity (choice list)':
-    'Physical,14; Request Date: 02-MAR-07',
+    'A descriptor used to describe the extent of floating algae mats, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Floating debris (Y/N) (choice list)': '; Request Date: 24-MAR-14',
-  'Floating debris - severity (choice list)': '; Request Date: 02-MAR-07',
+  'Floating debris - severity (choice list)':
+    'A descriptor of the severity of floating debris, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Floating foam/suds (Y/N) (choice list)': '; Request Date: 24-MAR-14',
-  'Floating foam/suds - severity (choice list)': '; Request Date: 02-MAR-07',
+  'Floating foam/suds - severity (choice list)':
+    'A visual estimate of floating solids or visible foam on a body of water.; Request Date: 02-MAR-07',
   'Floating or submerged aquatic vegetation (choice list)': '',
   'Floating sewage (Y/N) (choice list)': '; Request Date: 24-MAR-14',
   'Floating sewage - severity (choice list)': '; Request Date: 02-MAR-07',
-  'Floating sludge - severity (choice list)': '; Request Date: 02-MAR-07',
+  'Floating sludge - severity (choice list)':
+    'The severity of floating sludge, including none, mild, moderate, serious, or extreme.; Request Date: 02-MAR-07',
   'Floating solids or foam':
     'A one-word descriptor of floating solids, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Floating solids, unspecified mix (choice list)': '; Request Date: 02-MAR-07',
@@ -17742,16 +17832,23 @@ export default {
   'Flow at reach constriction (choice list)': '',
   'Flow over riffle(s) (choice list)': '',
   'Flow over run (choice list)': '',
-  'Flow rate': '',
-  'Flow rate, instantaneous': 'NWIS',
-  'Flow, gallons per batch': 'NWIS',
-  'Flow, in conduit or treatment plant': 'NWIS',
-  'Flow, maximum during 24-hour period': 'NWIS',
+  'Flow rate':
+    '1. The speed at which water flows past a point or is taken from a water course, usually expressed in cubic feet per second (cfs). 2. The speed at which emissions flow through a conduit, usually expressed in cubic meters per minute at 20Â°C',
+  'Flow rate, instantaneous':
+    'The rate of flow that occurs or is completed in an instant.; NWIS',
+  'Flow, gallons per batch': 'The flow as measured in gallons per batch.; NWIS',
+  'Flow, in conduit or treatment plant':
+    'The flow through a conduit or a treatment plant.; NWIS',
+  'Flow, maximum during 24-hour period':
+    'The maximum flow observed over a 24-hour period.; NWIS',
   'Flow, runoff':
     'The flow of water during runoff, resulting from rain or snow melt.; Request Date: 02-MAR-07',
-  'Flow, severity (choice list)': '; Request Date: 02-MAR-07',
-  'Flow, stream class (choice list)': '; Request Date: 02-MAR-07',
-  'Flow, stream stage (choice list)': '; Request Date: 02-MAR-07',
+  'Flow, severity (choice list)':
+    'The severity of water flow in a stream or river, including above normal, dry, flood, low, or normal.; Request Date: 02-MAR-07',
+  'Flow, stream class (choice list)':
+    'A one-digit numerical code ranging from 1 to 9 to classify the flow of a stream.; Request Date: 02-MAR-07',
+  'Flow, stream stage (choice list)':
+    'The stream stage flow, including above normal, dry, flood, low, or normal.; Request Date: 02-MAR-07',
   Fluazifop: '',
   'Fluazifop-P-butyl': '; Request Date: 02-MAR-07',
   'Fluazifop-butyl': '; Request Date: 08-APR-15',
@@ -17826,8 +17923,10 @@ export default {
   'Fluorotrichloromethane***retired***use CFC-11':
     'Request Date: 18-Oct-14 (nps.gov cas# review)',
   Fluorotrimethylsilane: '; Request Date: 02-MAR-07',
-  'Fluowet PL 80B': '',
-  'Fluowet PP': 'PFAS removal',
+  'Fluowet PL 80B':
+    'A mixture of perfluorinated phosphinic and phosphonic acids (Clariant)',
+  'Fluowet PP':
+    'A surfactant mixture of C6-12-perfluoroalkylphosphin- and -alkylphosphonic acids (Hoechst).; PFAS removal',
   Fluoxastrobin: '; Request Date: 09-MAR-15',
   Fluoxetine: '1;Nemi.gov; Request Date: 10-JUL-13',
   'Fluoxetine hydrochloride': '; Request Date: 02-MAR-07',
@@ -17875,10 +17974,13 @@ export default {
   Formonentin: 'Formonentin',
   Formononetin: '; Request Date: 10-JUL-13',
   'Fosamine-ammonium': '; Request Date: 02-MAR-07',
-  'Fractionated particulate size': '; Request Date: 07-JUN-18',
+  'Fractionated particulate size':
+    'Fine particulate matter is defined as particles that are 2.5 microns or less in diameter (PM2.5); Request Date: 07-JUN-18',
   'Free Liquids': '; Request Date: 26-JAN-18',
-  'Free liquids in sludge': '; Request Date: 28-SEP-15',
-  'Free mineral acidity (FMA)': '; Request Date: 02-MAR-07',
+  'Free liquids in sludge':
+    'The amount of free liquids in a sludge.; Request Date: 28-SEP-15',
+  'Free mineral acidity (FMA)':
+    'Free mineral acidity (FMA) is a water analysis term indicating the how much acidity in water is due to the presence of strong inorganic acids such as HCl, HNO3, and H2SO4.; Request Date: 02-MAR-07',
   'Freon 23': '',
   'Freon C 51-12': '',
   'Frequency of Reoxygenation': '; Request Date: 25-AUG-16',
@@ -17889,7 +17991,8 @@ export default {
   'FtS 8:2 ion': 'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   Fucoxanthin: '; Request Date: 22-JUL-14',
   'Fuel oil #5': '; Request Date: 10-DEC-15',
-  'Fuel oil #6': '; Request Date: 10-DEC-15',
+  'Fuel oil #6':
+    'A distillate oil having a minimum viscosity of 900 SUS at 37.7.degree.C (100.degree.F) to a maximum of 9000 SUS at 37.7.degree.C (100.degree.F).; Request Date: 10-DEC-15',
   'Fuel oil no. 1':
     'No. 1 Fuel Oil: A light petroleuem distillate fuel oil that has distillation temperatures of 400 degrees Fahrenheit at the 10-percent recovery point and 550 degrees Fahrenheit at the 90-percent point and meets the specifications defined in ASTM; Request Date: 02-MAR-07',
   'Fuel oil no. 2':
@@ -17944,7 +18047,7 @@ export default {
   'Gage height***retired***use Height, gage': '; Request Date: 27-MAR-19',
   Galactosan: '',
   Gallium: '; Request Date: 22-JUL-14',
-  'Gallium-67': '; Request Date: 01-MAY-13',
+  'Gallium-67': 'Gallium, atomic number 31.; Request Date: 01-MAY-13',
   'Gamma emitting isotopes': 'Nemi.gov; Request Date: 25-SEP-19',
   'Gamma linolenic acid':
     'Wisconsin DNR - Rehwald, Matt - DNR <Matt.Rehwald@wisconsin.gov>; Request Date: 05-OCT-16',
@@ -17952,20 +18055,23 @@ export default {
   'Gamma-cyhalothrin': 'gamma-Cyhalothrin',
   Garlon: '',
   'Gas Range Organics (C6-C10)': '; Request Date: 26-JAN-18',
-  'Gas bubble severity (choice list)': '; Request Date: 02-MAR-07',
+  'Gas bubble severity (choice list)':
+    'A descriptor for gas bubbles in water, including none, mild, moderate, serious, or extreme.; Request Date: 02-MAR-07',
   Gasoline:
     'A complex combination of hydrocarbons consisting primarily of paraffins, cycloparaffins, aromatic and olefinic hydrocarbons having carbon numbers predominantly greater than C3 and boiling in the range of 30degC to 260degC (86degF to 500degF).; Request Date: 02-MAR-07',
   'Gasoline Range Organics (C6-C9)': 'Gasoline Range Organics (C6-C9)',
   'Gasoline blending pyrolyzate derived naphtha raffinate distillates (petroleum)':
-    '; Request Date: 12-MAR-15',
+    'The complex combination of hydrocarbons obtained by the pyrolysis fractionation at 816.degree.C (1500.degree.F) of naphtha and raffinate.  It consists predominantly of hydrocarbons having a carbon number of C9 and boiling at approximately 204.degree.C (400.degree.F).; Request Date: 12-MAR-15',
   'Gasoline range organics':
     'Method AK101 is designed to measure the concentration of Gasoline Range Organics (GRO) in water and soil.; Request Date: 02-MAR-07',
   'Gasoline range organics (C6-C12 GRO)': '; Request Date: 02-APR-15',
   Gemfibrozil: 'Nemi.gov; Request Date: 22-JUL-14',
   'Gemfibrozil-D6': '; Request Date: 22-JUL-14',
   'General flow pattern (choice list)': '',
-  'General observation (text)': '; Request Date: 02-MAR-07',
-  'General pathology (text)': '; Request Date: 02-MAR-07',
+  'General observation (text)':
+    'Text describing general observations.; Request Date: 02-MAR-07',
+  'General pathology (text)':
+    'Text describing any deviation from the normal, healthy, or efficient condition of a water system.; Request Date: 02-MAR-07',
   'Geniposidic acid': 'NWIS',
   Gentamicin: '; Request Date: 02-MAR-07',
   'Geology Description (text)': '',
@@ -18084,30 +18190,37 @@ export default {
   'Goose host %': '; Request Date: 31-JAN-18',
   Gradient: '',
   'Grain size, clay (<0.001 MM) - Percent Passing':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Grain size, clay (<0.005 MM) - Percent Passing':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Grain size, clay (<2 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, coarse sand (>=630 to 2000 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, coarse silt (>=20 to 63 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
-  'Grain size, cobbles': '',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Grain size, cobbles':
+    'Grain size is the diameter of individual grains of granular materials.',
   'Grain size, fine gravel and larger (>=2000 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, fine sand (>=63 to 200 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, fine silt (>=2 to 6.3 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
-  'Grain size, fines (silt/clay)': '',
-  'Grain size, gravel': '',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Grain size, fines (silt/clay)':
+    'Grain size is the diameter of individual grains of granular materials.',
+  'Grain size, gravel':
+    'Grain size is the diameter of individual grains of granular materials.',
   'Grain size, medium sand (>=200 to 630 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   'Grain size, medium silt (>=6.3 to 20 um)':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
-  'Grain size, sand': '',
-  'Grain size, silt': '',
+    'Grain size is the diameter of individual grains of granular materials.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
+  'Grain size, sand':
+    'Grain size is the diameter of individual grains of granular materials.',
+  'Grain size, silt':
+    'Grain size is the diameter of individual grains of granular materials.',
+  'Grain size, substrate':
+    'Grain size is the diameter of individual grains of granular materials.; Request Date: 02-MAR-07; Substrate - grain size',
   'Gran acid neutralizing capacity':
     'The Acid Neutralizing Capacity (ANC) of a water sample as determined by a gran titration.; Request Date: 02-MAR-07',
   Gravel: 'NWIS',
@@ -18120,6 +18233,8 @@ export default {
     'Information,4; Request Date: 06-MAR-12',
   'Grid count': '; Request Date: 26-APR-10',
   Griseofulvin: 'NWIS',
+  'Gross Alpha radioactivity': '',
+  'Gross Beta radioactivity': '',
   'Gross alpha radioactivity, (Americium-241 ref std)':
     '; Request Date: 02-MAR-07',
   'Gross alpha radioactivity, (Plutonium-239 ref std)':
@@ -18150,7 +18265,7 @@ export default {
     '',
   'Gymnodimine (GYM)': 'NWIS',
   'H+D2965eptafluorobutanoyl bromide': '',
-  HAA5: 'Nemi.gov; Request Date: 25-SEP-19',
+  HAA5: 'Limited to the following five haloacetic acids: Bromoacetic acid 79-08-3; Chloroacetic acid 79-11-8; Dibromoacetic acid 631-64-1; Dichloroacetic acid 79-43-6; Trichloroacetic acid 76-03-9; Nemi.gov; Request Date: 25-SEP-19',
   'HBDE-139L': '; Request Date: 23-APR-15',
   'HCFC-122a': '; Request Date: 12-MAR-15',
   'HCFC-123': '; Request Date: 02-MAR-07',
@@ -18200,8 +18315,8 @@ export default {
   'Habitat rating (choice list)': 'Information,4; Request Date: 17-DEC-10',
   'Habitat rating, % of ideal': 'Information,4; Request Date: 15-MAR-11',
   Hafnium: '; Request Date: 02-MAR-07',
-  'Hafnium-175': 'NWIS',
-  'Hafnium-181': 'NWIS',
+  'Hafnium-175': 'Hafnium, atomic number 72.; NWIS',
+  'Hafnium-181': 'Hafnium, atomic number 72.; NWIS',
   'Halauxifen acid':
     'Minnesota Pollution Control Agency - NIH PubChem CID 25181547; Request Date: 25-JUL-19',
   'Halauxifen-methyl':
@@ -18218,11 +18333,16 @@ export default {
   'Halosulfuron-methyl': '; Request Date: 29-NOV-10',
   'Halowax 1000': 'Nemi.gov; Request Date: 25-SEP-19',
   'Halowax 1001': 'Nemi.gov; Request Date: 25-SEP-19',
-  'Halowax 1013': 'Nemi.gov; Request Date: 25-SEP-19',
-  'Halowax 1014': 'Nemi.gov; Request Date: 25-SEP-19',
-  'Halowax 1099': 'Nemi.gov; Request Date: 25-SEP-19',
-  Hardness: 'Nemi.gov; Request Date: 25-SEP-19',
-  'Hardness, Ca, Mg': '; Request Date: 22-JUL-14',
+  'Halowax 1013':
+    'A chlorinated naphthalene; Nemi.gov; Request Date: 25-SEP-19',
+  'Halowax 1014':
+    'A chlorinated naphthalene containing 1% di-Cl, 3% tri-Cl, 10% tetra-Cl, 42% penta-Cl,38% hexa-Cl & 7% hepta-Cl derivatives.; Nemi.gov; Request Date: 25-SEP-19',
+  'Halowax 1099':
+    'A chlorinated naphthalene mixture containing 2% dichloro, 48% trichloro, 43% tetrachloro and 7% pentachloro derivatives.; Nemi.gov; Request Date: 25-SEP-19',
+  Hardness:
+    'Total hardness computed from the separate determinations of calcium, iron, and magnesium concentrations, reported as CaCO3.; Nemi.gov; Request Date: 25-SEP-19',
+  'Hardness, Ca, Mg':
+    'A characteristic of water caused mainly by the salts of calcium and magnesium, such as bicarbonate, carbonate, sulfate, chloride and nitrate. Hardness or total hardness is generally defined as the sum of the calcium and magnesium concentrations expressed in milligrams per liter of equivalent calcium carbonate.; Request Date: 22-JUL-14',
   'Hardness, Calcium': '; Request Date: 22-JUL-14',
   'Hardness, carbonate':
     'Carbonate hardness is equivalent to the total alkalinity (the sum of the carbonate and bicarbonate alkalinity) when the numerical value for hardness is greater than the total alkalinity.; Request Date: 22-JUL-14',
@@ -18360,7 +18480,8 @@ export default {
   Heptatriacontane: 'NWIS',
   Heptene: '; Request Date: 02-MAR-07',
   'Heptyl sulfate': 'NWIS',
-  'Herbicide mix, unspecified': '; Request Date: 02-MAR-07',
+  'Herbicide mix, unspecified':
+    'Any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any plant pest (weed).; Request Date: 02-MAR-07',
   Herbicides:
     'Any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any plant pest (weed).Nemi.gov; Request Date: 25-SEP-19',
   'Heterotrophic bacteria':
@@ -18566,7 +18687,8 @@ export default {
   Hexylcyclohexane: '',
   'Hexylene Glycol': '; Request Date: 11-JAN-18',
   Hexythiazox: '',
-  'High-temperature coal tar pitch': '; Request Date: 24-MAY-10',
+  'High-temperature coal tar pitch':
+    'The residue from the distillation of high temperature coal tar.  A black solid with an approximate softening point from 30.degree. to 180.degree.C (86.degree.F to 356.degree.F).  Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.; Request Date: 24-MAY-10',
   'Hilsenhoff Biotic Index': '; Request Date: 02-MAR-07',
   'Hind Femur Length': '',
   'Hindwing Length': '',
@@ -18627,7 +18749,8 @@ export default {
   'Hydrobromic acid': 'Nemi.gov; Request Date: 25-SEP-19',
   Hydrocarbons:
     'Compounds composed of carbon and hydrogen.; Request Date: 02-MAR-07',
-  'Hydrocarbons, C1-4': '',
+  'Hydrocarbons, C1-4':
+    'A complex combination of hydrocarbons produced by thermal cracking and absorber operations and by distillation of crude oil.  It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately minus 164.degree.C to minus 0.5.degree.C (-263.degree.F to 31.degree.F).',
   'Hydrocarbons, C10-19, Light petroleum':
     '1;https://www2.gov.bc.ca/assets/gov/environment/research-monitoring-and-reporting/monitoring/emre/bc_lab_manual_leph-heph_calculation_06nov2015.pdf',
   'Hydrocarbons, C10-28': 'NWIS',
@@ -18636,11 +18759,13 @@ export default {
   'Hydrocarbons, C24-36': 'NWIS',
   'Hydrocarbons, C25-36': 'NWIS',
   'Hydrocarbons, C28-C40': 'NWIS',
-  'Hydrocarbons, Chlorinated (Unspecified Mix)': '; Request Date: 02-MAR-07',
+  'Hydrocarbons, Chlorinated (Unspecified Mix)':
+    'Compounds composed of carbon and hydrogen that have been chlorinated.; Request Date: 02-MAR-07',
   'Hydrocarbons, petroleum':
     'Compounds composed of carbon and hydrogen that are derived from petroleum.; Request Date: 05-MAY-12',
   'Hydrocarbons, total purgeable': '; Request Date: 13-JAN-16',
-  'Hydrocarbons, volatile': '1; Request Date: 24-APR-15',
+  'Hydrocarbons, volatile':
+    'Compounds composed of carbon and hydrogen that evaporate readily.; Request Date: 24-APR-15',
   'Hydrochloric acid': '; Request Date: 02-MAR-07',
   Hydrochlorothiazide: '; Request Date: 22-JUL-14',
   'Hydrochlorothiazide-13C-d2': '',
@@ -18662,7 +18787,8 @@ export default {
   'Hydrogen peroxide': '; Request Date: 02-MAR-07',
   'Hydrogen phosphate': 'Request Date: 1-May-15 (nps.gov cas# review)',
   'Hydrogen sulfide': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
-  'Hydrograph limb (choice list)': '; Request Date: 02-MAR-07',
+  'Hydrograph limb (choice list)':
+    'The position or direction of a hydrograph recording at a specific time, including base, falling, peak, or rising.; Request Date: 02-MAR-07',
   'Hydrologic Influence: Culverts (choice list)': '',
   'Hydrologic Influence: Groundwater (choice list)': '',
   'Hydrologic Influence: Lake (choice list)': '',
@@ -18707,7 +18833,7 @@ export default {
   'Hydrophobic fraction of organic carbon': 'NWIS',
   Hydroquinone: '; Request Date: 22-JUL-14',
   'Hydrothol 191':
-    'EPA Substance Registry System - www.epa.gov/srs; Request Date: 22-MAY-18',
+    'Described as the mono(N,N-dimethylalkylamine) salt of 7-oxabicyclo[2.2.1]heptane-2,3-dicarboxylic acid. Reference CA 66:18229 describes the amine as monomethylcocoamine.; Request Date: 22-MAY-18',
   Hydroxide: '; Request Date: 02-MAR-07',
   'Hydroxy didemethyl fluometuron': 'NWIS',
   'Hydroxy mono demethyl fluometuron': 'Hydroxy mono demethyl fluometuron',
@@ -18740,10 +18866,10 @@ export default {
   'Ibuprofen-13C3': '; Request Date: 22-JUL-14',
   'Ibuprofen-d3': 'Ibuprofen-d3',
   'Ice cover, floating or solid - severity (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Severity of the ice on a body of water, including none, mild, moderate, serious, or extreme.; Request Date: 02-MAR-07',
   'Ice cover, floating or solid, as % area estimate': '14;',
   'Ice thickness':
-    '14;The measure of ice thickness on a water surface in units of length.; Request Date: 02-MAR-07',
+    'The measure of ice thickness on a water surface in units of length.; Request Date: 02-MAR-07',
   'Ice thickness, submerged': '; Request Date: 26-AUG-13',
   Icosafluorododecahydroacenaphthylene: '',
   Ignitability: '; Request Date: 30-MAY-13',
@@ -18800,7 +18926,7 @@ export default {
   Indigo: 'NWIS',
   Indium: '; Request Date: 02-MAR-07',
   'Indium, hydroxybis(2,2,2-trifluoroacetato-.kappa.O)-': 'PFAS removal',
-  'Indium-111': '; Request Date: 22-JUL-14',
+  'Indium-111': 'Indium, atomic number 49.; Request Date: 22-JUL-14',
   'Individuals examined, actual number': '; Request Date: 27-MAR-19',
   'Individuals examined, embryos': '',
   'Individuals examined, gravid': '',
@@ -18816,7 +18942,8 @@ export default {
   Indoxacarb: '',
   'Inert gases':
     'A group of gases that are devoid of active properties and that are unable or unlikely to form compounds.; Request Date: 02-MAR-07',
-  'Infrared Radiation': '',
+  'Infrared Radiation':
+    'Electromagnetic radiation with wave lengths greater than visible light but less than microwave radiation. Wavelengths lie in the range from 0.75 or 0.8 micrometer to 1000 micrometers.',
   'Inhibited biochemical oxygen demand':
     'Chesapeake Bay Program Data Migration; Request Date: 28-FEB-17',
   'Initial Matrix Color (soil)': '',
@@ -18881,13 +19008,13 @@ export default {
     '',
   'Iodine, phenylbis[(2,2,2-trifluoroacetyl)oxy]-': 'PFAS removal',
   'Iodine, tris[(2,2,2-trifluoroacetyl)oxy]-': 'PFAS removal',
-  'Iodine-123': '; Request Date: 22-JUL-14',
-  'Iodine-129': '; Request Date: 25-MAR-10',
+  'Iodine-123': 'Iodine, atomic number 53.; Request Date: 22-JUL-14',
+  'Iodine-129': 'Iodine, atomic number 53.; Request Date: 25-MAR-10',
   'Iodine-131': 'Iodine, atomic number 53.; Request Date: 22-JUL-14',
-  'Iodine-132': '; Request Date: 22-JUL-14',
-  'Iodine-133': '; Request Date: 22-JUL-14',
-  'Iodine-134': '; Request Date: 23-DEC-15',
-  'Iodine-135': '; Request Date: 23-DEC-15',
+  'Iodine-132': 'Iodine, atomic number 53.; Request Date: 22-JUL-14',
+  'Iodine-133': 'Iodine, atomic number 53.; Request Date: 22-JUL-14',
+  'Iodine-134': 'Iodine, atomic number 53.; Request Date: 23-DEC-15',
+  'Iodine-135': 'Iodine, atomic number 53.; Request Date: 23-DEC-15',
   Iodixanol: 'NWIS',
   'Iodo(tridecafluorohexyl)mercury': '',
   'Iodomethane-d3': 'NWIS',
@@ -18927,7 +19054,8 @@ export default {
   Irbesartan: '; Request Date: 27-OCT-17',
   'Irbesartan-d7': '',
   Iridium: '; Request Date: 22-JUL-14',
-  'Iridium-192': 'Nemi.gov; Request Date: 25-SEP-19',
+  'Iridium-192':
+    'Iridium, atomic number 77.; Nemi.gov; Request Date: 25-SEP-19',
   Iron: '; Request Date: 02-MAR-07',
   'Iron + aluminum mix': '; Request Date: 02-MAR-07',
   'Iron + manganese mix': '; Request Date: 02-MAR-07',
@@ -18938,9 +19066,9 @@ export default {
   'Iron, dicarbonyl(.eta.5-2,4-cyclopentadien-1-yl)[tetrahydro-5,5-bis(trifluoromethyl)-3-furanyl]-':
     '',
   'Iron-54': '',
-  'Iron-55': 'Nemi.gov; Request Date: 25-SEP-19',
-  'Iron-56': '',
-  'Iron-57': '',
+  'Iron-55': 'Iron, atomic number 26.; Nemi.gov; Request Date: 25-SEP-19',
+  'Iron-56': 'Iron, atomic number 26.',
+  'Iron-57': 'Iron, atomic number 26.',
   'Iron-59': 'Iron, atomic number 26.; Request Date: 22-JUL-14',
   'Iron-related bacteria': 'NWIS',
   'Iron/Aluminium bound Phosphorus (FeP)': '; Request Date: 12-JAN-16',
@@ -19027,7 +19155,8 @@ export default {
   'Jet Fuel A': '; Request Date: 10-DEC-15',
   'Jet propulsion fuel - 4': '; Request Date: 12-MAR-15',
   Jodfenphos: '1;',
-  Kaolin: '; Request Date: 27-MAR-19',
+  Kaolin:
+    'A clay that is essentially kaolinite, a hydrated aluminum silicate.  It has a high fusion point and is the most refractory of all clays.; Request Date: 27-MAR-19',
   Karbutilate: '; Request Date: 08-APR-19',
   Kerosene:
     'Straight Run, Kerosene (petroleum).  A complex combination of hydrocarbons produced by the distillation of crude oil.  It consists of hydrocarbons having carbon numbers predominantly in the range of C9 through C16Request Date: 02-MAY-18| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -19061,7 +19190,7 @@ export default {
   'Krypton-80/Krypton-84 error': 'NWIS',
   'Krypton-80/Krypton-84 ratio': 'NWIS',
   'Krypton-80/krypton-84': '',
-  'Krypton-81': 'NWIS',
+  'Krypton-81': 'Krypton, atomic number 36.; NWIS',
   'Krypton-81 error': 'NWIS',
   'Krypton-82': 'NWIS',
   'Krypton-82/Krypton-84 error': 'NWIS',
@@ -19072,13 +19201,13 @@ export default {
   'Krypton-83/Krypton-84 ratio': 'NWIS',
   'Krypton-83/krypton-84': '',
   'Krypton-84': 'NWIS',
-  'Krypton-85': 'NWIS',
+  'Krypton-85': 'Krypton, atomic number 36.; NWIS',
   'Krypton-85 error': 'NWIS',
   'Krypton-86': 'NWIS',
   'Krypton-86/Krypton-84 error': 'NWIS',
   'Krypton-86/Krypton-84 ratio': 'NWIS',
   'Krypton-86/krypton-84': '',
-  'Krypton-88': '; Request Date: 23-DEC-15',
+  'Krypton-88': 'Krypton, atomic number 36.; Request Date: 23-DEC-15',
   'L-3,4-Dihydroxyphenylalanine': 'NWIS',
   "L-Alaninamide, glycyl-N-(2-mercaptoethyl)-, 2,2'-disulfide bis(trifluoroacetate)":
     'PFAS removal',
@@ -19158,10 +19287,13 @@ export default {
   Lactonitrile: 'Nemi.gov; Request Date: 25-SEP-19',
   'Lake Area': '',
   'Lake Depth Strata (choice list)': '',
-  'Lake condition (choice list)': '; Request Date: 02-MAR-07',
+  'Lake condition (choice list)':
+    'A one-word descriptor to characterize the overall condition of a lake, including excellent, fair, good, or poor.; Request Date: 02-MAR-07',
   'Lake or reservoir elevation': 'NWIS',
-  'Lake physical appearance (choice list)': '; Request Date: 02-MAR-07',
-  'Lake recreational suitability (choice list)': '; Request Date: 02-MAR-07',
+  'Lake physical appearance (choice list)':
+    'A word or phrase to describe the physical appearance of a lake with respect to algal growth, including clear, low algae, medium algae, high algae, or severe algae.; Request Date: 02-MAR-07',
+  'Lake recreational suitability (choice list)':
+    'A descriptor to characterize the general suitability of a lake for recreational purposes, including none, partial, or supported.; Request Date: 02-MAR-07',
   'Lake suitability for recreation (choice list)': '; Request Date: 02-MAR-07',
   'Lake surface condition (choice list)': '',
   'Lake water level (choice list)': '',
@@ -19175,13 +19307,15 @@ export default {
   'Land form, Left (choice list)': '; Request Date: 24-AUG-10',
   Landuse: '',
   'Langelier Saturation Index': '',
-  Lanolin: 'NWIS',
+  Lanolin:
+    'Fat-like substance derived from sheep wool.  Contains a complex combination of esters and polyesters, consisting chiefly of cholesteryl and isocholesteryl esters of the higher fatty acids.; NWIS',
   Lanthanum: '; Request Date: 22-JUL-14',
   'Lanthanum, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.beta.O3,.beta.O5)-':
     '',
   'Lanthanum-138': 'Request Date: 21-Mar-15 (nps.gov cas# review)',
-  'Lanthanum-140': '; Request Date: 25-MAR-10',
-  'Lapse Rate': '',
+  'Lanthanum-140': 'Lanthanum, atomic number 57.; Request Date: 25-MAR-10',
+  'Lapse Rate':
+    'The decrease of atmospheric termperature with increase of elevation vertically above a given location.',
   'Large Woody Debris - LWD density (choice list)':
     'NRSA; Request Date: 11-APR-17',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.1-<0.3m; Len:1.5-5m)':
@@ -19292,10 +19426,10 @@ export default {
     '',
   'Lead-206/lead-204': '',
   'Lead-207/lead-204': '',
-  'Lead-208': '',
+  'Lead-208': 'Lead, atomic number 82.',
   'Lead-208/lead-204': '',
   'Lead-210': 'Lead, atomic number 82.; Request Date: 22-JUL-14',
-  'Lead-211': '; Request Date: 23-JAN-15',
+  'Lead-211': 'Lead, atomic number 82.; Request Date: 23-JAN-15',
   'Lead-212': 'Lead, atomic number 82.; Request Date: 22-JUL-14',
   'Lead-214': 'Lead, atomic number 82.; Request Date: 22-JUL-14',
   'Leaf Status (choice list)':
@@ -19310,7 +19444,8 @@ export default {
   'Length, Partial (Fish)': 'Physical,14; Request Date: 08-DEC-16',
   'Length, Postorbit of eye to Hypural (POH)':
     'fish length, Postorbit of eye to Hypural (POH)',
-  'Length, Total (Fish)': 'Physical,14; Request Date: 02-MAR-07',
+  'Length, Total (Fish)':
+    'The length of a fish from the front of whichever jaw is most anterior to the end of the longest caudal ray, but excluding caudal filaments.; Request Date: 02-MAR-07',
   'Length, total':
     'The total length measured in units of length.; Request Date: 02-MAR-07',
   Leptophos: '; Request Date: 20-NOV-07',
@@ -19325,24 +19460,33 @@ export default {
   Levorphanol: '; Request Date: 18-DEC-18',
   Levothyroxin: 'NWIS',
   'Levothyroxine-13C6': '',
-  'Life stage (choice list)': '; Request Date: 02-MAR-07',
+  'Life stage (choice list)':
+    'A descriptor to characterize the life stage of a biological entity including larva, pupa, egg, seed, and others.; Request Date: 02-MAR-07',
   'Life style/habitat': 'Physical,14; Request Date: 30-MAY-13',
   'Light Absorption Coeffiecient': '',
-  'Light aliphatic solvent naphtha (petroleum)': '',
+  'Light aliphatic solvent naphtha (petroleum)':
+    'A complex combination of hydrocarbons obtained from the distillation of crude oil or natural gasoline.  It consists predominantly of saturated hydrocarbons having carbon numbers predominantly in the range of C5 through C10 and boiling in the range of approximately 35.degree.C to 160.degree.C (95.degree.F to 320.degree.F).',
   'Light attenuation at measurement depth':
     'The decrease in light intensity as correlated with water depth.; Request Date: 02-MAR-07',
-  'Light attenuation coefficient': '; Request Date: 02-MAR-07',
-  'Light attenuation, depth at 10%': '; Request Date: 02-MAR-07',
-  'Light attenuation, depth at 50%': '; Request Date: 02-MAR-07',
-  'Light attenuation, depth at 99%': '; Request Date: 02-MAR-07',
+  'Light attenuation coefficient':
+    'A measure of water clarity based on the Lambert-Beer equation.; Request Date: 02-MAR-07',
+  'Light attenuation, depth at 10%':
+    'The depth at which the measured light intensity decreases 10%.; Request Date: 02-MAR-07',
+  'Light attenuation, depth at 50%':
+    'The depth at which the measured light intensity decreases 50%.; Request Date: 02-MAR-07',
+  'Light attenuation, depth at 99%':
+    'The depth at which the measured light intensity decreases 99%.; Request Date: 02-MAR-07',
   'Light availability': "2,2',4,5,'6-PeCB",
-  'Light scatter': '; Request Date: 07-JUN-18',
-  'Light transmissivity at measurement depth': '; Request Date: 23-APR-15',
+  'Light scatter':
+    'The dispersion or diffusion of light by collision with particles in the air.; Request Date: 07-JUN-18',
+  'Light transmissivity at measurement depth':
+    'The percent of light that is transmitted through a substance.; Request Date: 23-APR-15',
   'Light, (PAR at depth/PAR at surface) x 100':
     'The ratio of the measured Photosynthetic Active Radiation (PAR) at a given water depth and the measured PAR at the water surface.  Refer to Photosynthetic Active Radiation.; Request Date: 02-MAR-07',
   'Light, incident':
     'The total amount of light striking a surface.; Request Date: 02-MAR-07',
-  'Light, incident + reflected (ambient)': '; Request Date: 02-MAR-07',
+  'Light, incident + reflected (ambient)':
+    'The total amount of light interacting with a surface in the open atmosphere. Incident light is the total amount of light striking the surface; reflected light is the light bounced or thrown back from the surface.; Request Date: 02-MAR-07',
   'Light, path':
     'CBP, A section of an optical network in which light travels without being modified...; Request Date: 19-APR-18',
   'Light, photosynthetic active radiation (PAR)':
@@ -19353,7 +19497,8 @@ export default {
     'The percent of light that is reflected from the surface of a material.; Request Date: 02-MAR-07',
   'Light, transmissivity':
     'The percent of light that is transmitted through a substance.; Request Date: 02-MAR-07',
-  'Light, underwater extinction coefficient (K)': '; Request Date: 02-MAR-07',
+  'Light, underwater extinction coefficient (K)':
+    "A constant specific for a wavelength of light used to calculate light attenuation according to Lambert's Law.; Request Date: 02-MAR-07",
   'Light, underwater incident':
     'The amount of light transmitted into water.; Request Date: 02-MAR-07',
   'Light, underwater incident + reflected':
@@ -19363,7 +19508,8 @@ export default {
   Lignin: '; Request Date: 02-MAR-07',
   'Lignoceric Acid': '1;',
   'Lignosulfonic acid': '; Request Date: 22-JUL-14',
-  'Lime (chemical), dolomitic': '; Request Date: 17-OCT-08',
+  'Lime (chemical), dolomitic':
+    'Limestone containing the mineral, dolomite, magnesium as the principle ore, and magnesium and calcium carbonates.; Request Date: 17-OCT-08',
   Limonene: '; Request Date: 02-MAR-07',
   Linaclotide: 'NWIS',
   'Linaclotide-d4': '',
@@ -19371,7 +19517,7 @@ export default {
   Lincomycin: 'Nemi.gov; Request Date: 02-MAR-07',
   'Lincomycin hydrochloride': 'NWIS',
   Lindane:
-    'Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Lindane-D6': '; Request Date: 22-JUL-14',
   'Linear alkylbenzene sulfonate': 'NWIS',
   'Linear perfluoroalkyl(C1-24)iodide': '',
@@ -19429,7 +19575,8 @@ export default {
     '',
   'Lithium, (1,1,2,2,2-pentafluoroethyl)-': '',
   'Lithium-6': '; Request Date: 02-MAR-07',
-  'Lithium-7': 'Lithium, atomic number 3.; Request Date: 02-MAR-07',
+  'Lithium-7':
+    'Lithium, atomic number 3.Lithium, atomic number 3.; Request Date: 02-MAR-07',
   'Lithium-7/Lithium-6 ratio': '; Request Date: 02-MAR-07',
   'Lithium/calcium ratio': '',
   'Lithology code': '; Request Date: 30-MAY-13',
@@ -19483,7 +19630,7 @@ export default {
   'Low-level Mercury': 'Request Date: 7-Apr-18 (nps.gov cas# review)',
   Lutetium: '; Request Date: 02-MAR-07',
   'M-Diethylbenzene': '; Request Date: 03-JUL-08',
-  MBAS: '; Request Date: 02-MAR-07',
+  MBAS: 'Methylene blue active substances amenable to measurement by the method described in Methods for Chemical Analysis of Water and Waste.; Request Date: 02-MAR-07',
   'MC 1 (part of chlordane total)': '; Request Date: 30-MAY-13',
   'MC 2 (part of chlordane total)': '; Request Date: 30-MAY-13',
   'MC 3 (part of chlordane total)': '; Request Date: 30-MAY-13',
@@ -19565,7 +19712,8 @@ export default {
   'Masked Sand Grains (%)': '',
   'Mass flux density of drifting snow particles': 'NWIS',
   'Max Pool Width': '; Request Date: 29-JUN-10',
-  'Maximum total trihalomethane potential': '; Request Date: 12-MAR-15',
+  'Maximum total trihalomethane potential':
+    'The maximum concentration of total trihalomethanes produced in a given water sample containing a disinfectant residual, after 7 days at 25 deg C or above.; Request Date: 12-MAR-15',
   'Maximum wave height': 'NWIS',
   'Mean PEC Quotient, All analytes':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
@@ -19607,7 +19755,8 @@ export default {
   'Mercuric chloride':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   Mercury: '; Request Date: 02-MAR-07',
-  'Mercury compounds': '',
+  'Mercury compounds':
+    'Includes any unique chemical substance that contains mercury as part of the infrastructure of that chemical.',
   'Mercury, (5-fluoro-2-hydroxyphenyl)(2,2,2-trifluoroacetato-.kappa.O)-':
     'PFAS removal',
   "Mercury, [.mu.-(3',6'-dihydroxy-3-oxospiro[isobenzofuran-1(3H),9'-[9H]xanthene]-4',5'-diyl)]bis(2,2,2-trifluoroacetato-.":
@@ -19631,7 +19780,8 @@ export default {
   'Metalaxyl-M': '; Request Date: 29-NOV-10',
   'Metalaxyl-d6': '',
   Metaldehyde: '; Request Date: 02-MAR-07',
-  Metals: 'Nemi.gov; Request Date: 25-SEP-19',
+  Metals:
+    'An element which is crystalline when solid and may be characterized by opacity, ductility, conductivity, and a unique luster when freshly fractured. It yields positively charged ions in aqueous solutions of its salts.; Nemi.gov; Request Date: 25-SEP-19',
   Metaxalone: '; Request Date: 02-FEB-15',
   Metconazole: '',
   Metformin:
@@ -20142,8 +20292,9 @@ export default {
   Minocycline: '; Request Date: 02-MAR-07',
   Mirex: 'Nemi.gov; Request Date: 22-JUL-14',
   Mirtazepine: 'NWIS',
-  'Mixing Height': '',
-  'Mixing Speed': '',
+  'Mixing Height':
+    'The mixing height is the depth of the unstable air in the boundary layer and is used for forecasting smoke or pollutant trajectories.',
+  'Mixing Speed': 'The wind speed within the mixing layer of air.',
   Mobam: 'NWIS',
   'Mobilized, riffle (%)': '',
   Modafinil: '; Request Date: 30-MAY-13',
@@ -20156,8 +20307,8 @@ export default {
   'Molybdenum, tricarbonyl(.eta.5-2,4-cyclopentadien-1-yl)(2,2,3,3,4,4,4-heptafluoro-1-oxobutyl)-':
     '',
   'Molybdenum-95': 'NWIS',
-  'Molybdenum-98': '',
-  'Molybdenum-99': '; Request Date: 25-MAR-10',
+  'Molybdenum-98': 'Molybdenum, atomic number 42.',
+  'Molybdenum-99': 'Molybdenum, atomic number 42.; Request Date: 25-MAR-10',
   'Mometasone furoate impurity G': 'NWIS',
   Momfluorothrin: 'Minnesota Pollution Control Agency; Request Date: 06-APR-17',
   Monensin: '; Request Date: 22-JUL-14',
@@ -20440,7 +20591,7 @@ export default {
   'N,N-Dimethyl-N-(perfluoroalkyl(C4-14)carbonylaminopropyl)-.alpha.-acetic acid betaine  (Surflon S 131, perfluoroalkylbet':
     '',
   'N,N-Dimethyl-N-(perfluoroalkyl(C4-14)carbonylaminopropyl)-.alpha.-acetic acid betaine  (Surflon S 131, perfluoroalkylbetaine)':
-    '',
+    'A perfluoroalkylcarboxylic acid amine acetic acid betaine surfactant (Asahi Glass)',
   'N,N-Dimethyl-N-(propan-2-yl)propan-2-aminium nonafluorobutane-1-sulfonate':
     '',
   'N,N-Dimethyl-N-[3-[methyl[(perfluorohexyl)sulfonyl]amino]propyl]-3-sulfo-1-propanaminium':
@@ -21259,7 +21410,8 @@ export default {
   Naphthacene: '; Request Date: 30-AUG-12',
   'Naphthalen-1-yl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate': '',
   Naphthalene: 'Nemi.gov; Request Date: 02-MAR-07',
-  'Naphthalene (C1-C4)': '; Request Date: 02-MAR-07',
+  'Naphthalene (C1-C4)':
+    'Naphthalenes with alkyl substituents ranging from one to four saturated carbon atoms, including methyl, ethyl, propyl, tetramethyl or a combination of these substituents. ; Request Date: 02-MAR-07',
   'Naphthalene, 1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-octadecafluorodecahydro-':
     '',
   'Naphthalene, 1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-octadecafluorodecahydro-, cis-':
@@ -21300,7 +21452,8 @@ export default {
   'Naproxen-d3-13C1': 'NWIS',
   Naptalam: '; Request Date: 14-APR-15',
   Narasin: 'NWIS',
-  'Natural Gasoline': '',
+  'Natural Gasoline':
+    'A complex combination of hydrocarbons separated from natural gas by processes such as refrigeration or absorption.  It consists predominantly of saturated aliphatic hydrocarbons having carbon numbers predominantly in the range of C4 through C8 and boiling in the range of approximately minus 20.degree.C to 120.degree.C (-4.degree.F to 248.degree.F).',
   'Natural channel (%)': '',
   'Near bank stress': '',
   'Nearest Buoy Identifier (text)': '',
@@ -21310,7 +21463,7 @@ export default {
   Neodymium: '; Request Date: 22-JUL-14',
   'Neodymium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-?O3,?O5)-':
     '',
-  'Neodymium-147': '; Request Date: 22-JUL-14',
+  'Neodymium-147': 'Neodymium, atomic number 60.; Request Date: 22-JUL-14',
   Neomycin:
     'Antibiotic complex produced by Streptomyces fradiae. It is composed of Neomycins A, B, and C. It acts by inhibiting translation during protein synthesis.; Request Date: 02-MAR-07',
   'Neomycin sulfate': '; Request Date: 02-MAR-07',
@@ -21329,9 +21482,10 @@ export default {
     'Toxin produced by red tide dinoflagellates.; Request Date: 02-MAR-07',
   Neotame: '1;NWIS',
   'Neptunium-237': 'Neptunium, atomic number 93.; Request Date: 02-MAR-07',
-  'Neptunium-239': '; Request Date: 22-JUL-14',
+  'Neptunium-239': 'Neptunium, atomic number 93.; Request Date: 22-JUL-14',
   Nestorone: 'NWIS',
-  'Net radiation': '',
+  'Net radiation':
+    'Net radiation is the sum total of shortwave and longwave electromagnetic energy, at wavelengths ranging from 0.3 to 100 micrometers, that remains in the Earth system.',
   Neutrals:
     'Neither acidic or alkaline, with pH of about 7.; Request Date: 02-MAR-07',
   Nevirapine: '; Request Date: 02-FEB-15',
@@ -21340,10 +21494,10 @@ export default {
   Nickel: '; Request Date: 02-MAR-07',
   'Nickel, bis(2,2,2-trifluoroacetato-.kappa.O)-, hydrate (1:4)':
     'PFAS removal',
-  'Nickel-58': '',
-  'Nickel-59': 'NWIS',
-  'Nickel-60': '',
-  'Nickel-63': '; Request Date: 25-MAR-10',
+  'Nickel-58': 'Nickel, atomic number 28.',
+  'Nickel-59': 'Nickel, atomic number 28.; NWIS',
+  'Nickel-60': 'Nickel, atomic number 28.',
+  'Nickel-63': 'Nickel, atomic number 28.; Request Date: 25-MAR-10',
   Niclosamide: '; Request Date: 01-APR-15',
   Nicosulfuron: '; Request Date: 02-MAR-07',
   'Nicosulfuron-d6': 'NWIS',
@@ -21361,7 +21515,7 @@ export default {
   Nimodipine: 'NWIS',
   'Nimodipine-d7': '',
   Niobium: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
-  'Niobium-94': '; Request Date: 25-MAR-10',
+  'Niobium-94': 'Niobium, atomic number 41.; Request Date: 25-MAR-10',
   'Niobium-95': 'Niobium, atomic number 41.; Request Date: 22-JUL-14',
   Nitenpyram: '; Request Date: 22-MAY-18',
   Nithiazine: '; Request Date: 13-MAY-15',
@@ -21397,10 +21551,12 @@ export default {
   'Nitrogen oxides': '; Request Date: 07-JUN-18',
   'Nitrogen plus argon': '; Request Date: 02-MAR-07',
   'Nitrogen trichloride': 'Nemi.gov; Request Date: 25-SEP-19',
-  'Nitrogen, ammonium/ammonia ratio': '; Request Date: 13-MAR-07',
+  'Nitrogen, ammonium/ammonia ratio':
+    'The ratio of ammonium to ammonia.; Request Date: 13-MAR-07',
   'Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)':
     'EPA Workgroup QA; Request Date: 02-APR-09',
-  'Nitrogen-15': 'Nitrogen, atomic number 7.; Request Date: 02-MAR-07',
+  'Nitrogen-15':
+    'Nitrogen, atomic number 7.Nitrogen, atomic number 7.; Request Date: 02-MAR-07',
   'Nitrogen-15/Nitrogen-14 ratio': '; Request Date: 02-MAR-07',
   'Nitrogen/Phosphorus molar ratio': '; Request Date: 20-NOV-13',
   'Nitrogen/carbon monoxide': '',
@@ -21431,7 +21587,8 @@ export default {
   'Non-plankton algae severity (choice list)':
     'A descriptor used to describe non-plankton algae, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
   'Non-purgeable Organic Carbon (NPOC)': '; Request Date: 25-JUL-16',
-  'Non-settleable solids': 'NWIS',
+  'Non-settleable solids':
+    'The dry weight of non-settleable residues in a given volume of supernatant water after setteable solids have precipitated.; NWIS',
   'Non-tolerant species': '',
   'Non-viable seed count': 'Physical,14; Request Date: 24-JUL-15',
   'Non-viable seed weight': '; Request Date: 24-JUL-15',
@@ -21524,7 +21681,8 @@ export default {
   'Nonene, heptadecafluoro-1-[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)oxy]-':
     '',
   Nonivamide: '; Request Date: 08-APR-19',
-  'Nonmethane organic compounds': '; Request Date: 01-JUL-11',
+  'Nonmethane organic compounds':
+    'Organic hydrocarbons, excluding methane.; Request Date: 01-JUL-11',
   'Nonoxynol-6': '; Request Date: 08-APR-19',
   'Nonpoint source pollution sources': '',
   'Nonyl sulfate': 'NWIS',
@@ -21585,7 +21743,8 @@ export default {
   'Number of valves': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   'Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N':
     'The nitrogen that may be utilized by organisms for growth and sustainability.EPA Workgroup QA; Request Date: 02-MAR-07',
-  'Nylon deterioration': '',
+  'Nylon deterioration':
+    'The deterioration of nylon is used to evaluate chemical pollution of the air.',
   'N~1~,N~1~,N~5~,N~5~-Tetrakis(2-chloroethyl)-2,2,3,3,4,4-hexafluoropentane-1,5-diamine--hydrogen chloride (1/1)':
     '',
   'N~1~,N~1~,N~6~,N~6~-Tetraethyl-2,3,3,4,4,5-hexafluorohexanediamide': '',
@@ -21756,15 +21915,18 @@ export default {
   'Ocytyl salicylate': 'NWIS',
   'Odor (adverse or offensive) (Y/N) (choice list)':
     '; Request Date: 24-MAR-14',
-  'Odor severity (choice list)': '; Request Date: 02-MAR-07',
-  'Odor threshold number': '; Request Date: 22-JUL-14',
+  'Odor severity (choice list)':
+    'A descriptor to characterize the odor of a water body, including none, mild, moderate, serious, or extreme.; Request Date: 02-MAR-07',
+  'Odor threshold number':
+    'The greatest dilution of a sample prepared with odor-free water that yields a definitively perceptible odor at room temperature.; Request Date: 22-JUL-14',
   'Odor type (choice list)':
     'National Park Service, contact nps.gov; Request Date: 21-JUL-16',
-  'Odor, atmospheric': 'NWIS',
+  'Odor, atmospheric': 'The severity of odor at atmospheric conditions.; NWIS',
   'Off Channel (Y/N) (choice list)': '',
   'Offensive Conditions': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   Ofloxacin: '1; Request Date: 02-MAR-07',
-  'Oil and Grease': '; Request Date: 02-MAR-07',
+  'Oil and Grease':
+    'The value for the total recoverable oil and grease.; Request Date: 02-MAR-07',
   'Oil and Grease surface slick/sheen (Y/N) (choice list)':
     '; Request Date: 13-NOV-18',
   'Oil and Grease, Nonpolar': 'Nemi.gov; Request Date: 25-SEP-19',
@@ -21801,14 +21963,16 @@ export default {
   'Organic carbon': 'Nemi.gov; Request Date: 02-MAR-07',
   'Organic compounds':
     'Carbon-containing compounds that are found in living things and in products derived from living things. Some organic compounds are not found in nature, but are the product of synthesis.; Request Date: 12-JAN-16',
-  'Organic halides, total -- SWDA NPDWR': 'NWIS',
+  'Organic halides, total -- SWDA NPDWR':
+    'Total quantity of halogenated organic material in a water sample, including trihalomethanes, organic solvents, chorinated and brominated pesticides, PCBs, and chlorinated aromatics.; NWIS',
   'Organic matter': 'organic matter, in medium: sediment, water, etc..',
   'Organic monomeric aluminum': 'NWIS',
   'Organic phosphorus':
     'Organic phosphorus compounds are complex molecules such as phytin, phospholipids, and nucleic acids.; Request Date: 22-JUL-14',
   'Organic selenium': 'NWIS',
   'Organics mix, unspecified': '; Request Date: 02-MAR-07',
-  'Organics semivolatile mix, unspecified': '; Request Date: 02-MAR-07',
+  'Organics semivolatile mix, unspecified':
+    'Organic compounds that are semivolatile; Request Date: 02-MAR-07',
   'Organics volatile mix, unspecified': '; Request Date: 02-MAR-07',
   'Organics, semivolatile': 'Nemi.gov; Request Date: 25-SEP-19',
   'Organochlorine pesticides': '1; Request Date: 07-JUL-17',
@@ -21877,7 +22041,8 @@ export default {
   'Oxetane, 3-methyl-3-[(2,2,3,3-tetrafluoropropoxy)methyl]-': '',
   'Oxetane, 3-methyl-3-[[(3,3,4,4,5,5,6,6,6-nonafluorohexyl)oxy]methyl]-': '',
   'Oxetane, hexafluoro-': '',
-  'Oxidants, total': '; Request Date: 07-JUN-18',
+  'Oxidants, total':
+    'The total of the chemical agents that oxidize that are present under certain conditions. ; Request Date: 07-JUN-18',
   'Oxidation reduction potential (ORP)':
     'The electrical potential required to transfer electrons from one substance (the oxidant) to another (the reductant).; Request Date: 02-MAR-07',
   'Oxidized Matrix Color (soil)': '',
@@ -22353,114 +22518,175 @@ export default {
   'Particle Number, Total Count': '',
   'Particle distribution':
     'An assessment of the numbers and kinds of particles arranged in a specific area.; Request Date: 02-MAR-07',
-  'Particle size': '; Request Date: 02-MAR-07',
+  'Particle size':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size (size/range in result Particle Size Basis)':
-    '; Request Date: 02-MAR-07',
-  'Particle size of meander within reach': '',
-  'Particle size of reach': '',
-  'Particle size of riffle within reach': '',
-  'Particle size, (0.032mm)': '; Request Date: 14-JAN-16',
-  'Particle size, 0.002.mm': '; Request Date: 10-JUL-13',
-  'Particle size, 0.5 inch (12.5mm)': '; Request Date: 10-JUL-13',
-  'Particle size, 1 inch (25.0mm)': '; Request Date: 18-APR-13',
-  'Particle size, 1 inch (25.40mm)': '; Request Date: 18-APR-13',
-  'Particle size, 1.5 inch (37.5mm)': '; Request Date: 18-APR-13',
-  'Particle size, 1.5 inch (38.1mm)': '; Request Date: 18-APR-13',
-  'Particle size, 1/2 inch (12.5mm)': '; Request Date: 18-APR-13',
-  'Particle size, 2 inch, (50.80mm)': '; Request Date: 18-APR-13',
-  'Particle size, 2 inch, (50mm)': '; Request Date: 18-APR-13',
-  'Particle size, 3 inch, (75.0mm)': '; Request Date: 18-APR-13',
-  'Particle size, 3 inch, (76.20mm)': '; Request Date: 18-APR-13',
-  'Particle size, 3/4 inch (19.05mm)': '; Request Date: 18-APR-13',
-  'Particle size, 3/4 inch (19.0mm)': '; Request Date: 18-APR-13',
-  'Particle size, 3/8 inch (9.525mm)': '; Request Date: 18-APR-13',
-  'Particle size, 3/8 inch (9.5mm)': '; Request Date: 18-APR-13',
-  'Particle size, 30 mesh, (0.59 mm)': '1;',
-  'Particle size, 5/16 inch (8.0mm)': '; Request Date: 18-APR-13',
-  'Particle size, 50 mesh, (0.297 mm)': '1;',
-  'Particle size, Hydrometer (.008 mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (.011 mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (.015 mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (.026 mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (.040 mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.0014mm)': '',
-  'Particle size, Hydrometer (0.001mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.0033mm)': '',
-  'Particle size, Hydrometer (0.004mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.0065mm)': '',
-  'Particle size, Hydrometer (0.007mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.0092mm)': '',
-  'Particle size, Hydrometer (0.010mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.0129mm)': '',
-  'Particle size, Hydrometer (0.014mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.023mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.0242mm)': '',
-  'Particle size, Hydrometer (0.0337mm)': '',
-  'Particle size, Hydrometer (0.036mm)': '; Request Date: 18-APR-13',
-  'Particle size, Hydrometer (0.0467mm)': '',
-  'Particle size, Sieve No. 04, 4 mesh, (4.75mm)': '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 05, 5 mesh, (4.00mm)': '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 06, 6 mesh, (3.35mm)': '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 07, 7 mesh, (2.80mm)': '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 08, 8 mesh, (2.36mm)': '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 10, 9 mesh, (2.00mm)': '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size of meander within reach':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size of reach':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size of riffle within reach':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, (0.032mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 14-JAN-16',
+  'Particle size, 0.002.mm':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 10-JUL-13',
+  'Particle size, 0.5 inch (12.5mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 10-JUL-13',
+  'Particle size, 1 inch (25.0mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 1 inch (25.40mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 1.5 inch (37.5mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 1.5 inch (38.1mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 1/2 inch (12.5mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 2 inch, (50.80mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 2 inch, (50mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 3 inch, (75.0mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 3 inch, (76.20mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 3/4 inch (19.05mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 3/4 inch (19.0mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 3/8 inch (9.525mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 3/8 inch (9.5mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 30 mesh, (0.59 mm)':
+    'Particle size refers to the size of individual particles that make up a material.1;',
+  'Particle size, 5/16 inch (8.0mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, 50 mesh, (0.297 mm)':
+    'Particle size refers to the size of individual particles that make up a material.1;',
+  'Particle size, Hydrometer (.008 mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (.011 mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (.015 mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (.026 mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (.040 mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0014mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Hydrometer (0.001mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0033mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Hydrometer (0.004mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0065mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Hydrometer (0.007mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0092mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Hydrometer (0.010mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0129mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Hydrometer (0.014mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.023mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0242mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Hydrometer (0.0337mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Hydrometer (0.036mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
+  'Particle size, Hydrometer (0.0467mm)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, Sieve No. 04, 4 mesh, (4.75mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 05, 5 mesh, (4.00mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 06, 6 mesh, (3.35mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 07, 7 mesh, (2.80mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 08, 8 mesh, (2.36mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 10, 9 mesh, (2.00mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 100, 100 mesh, (0.150mm)':
-    '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 12, 10 mesh, (1.70mm)': '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 12, 10 mesh, (1.70mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 120, 115 mesh, (0.125mm)':
-    '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 14, 12 mesh, (1.40mm)': '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 14, 12 mesh, (1.40mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 140, 150 mesh, (0.106mm)':
-    '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 16, 14 mesh, (1.18mm)': '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 16, 14 mesh, (1.18mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 170, 170 mesh, (0.090mm)':
-    '; Request Date: 02-MAR-07',
-  'Particle size, Sieve No. 18, 16 mesh, (1.00mm)': '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, Sieve No. 18, 16 mesh, (1.00mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 20, 20 mesh, (0.850mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 200, 200 mesh, (0.075mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 230, 250 mesh, (0.063mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 25, 24 mesh, (0.710mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 270, 270 mesh, (0.053mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 30, 28 mesh, (0.600mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 325, 325 mesh, (0.045mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 35, 32 Mesh, (0.425mm)':
-    '; Request Date: 02-MAR-08',
-  'Particle size, Sieve No. 35, 32 Mesh, (0.5 mm)': '; Request Date: 14-JAN-17',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-08',
+  'Particle size, Sieve No. 35, 32 Mesh, (0.5 mm)':
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 14-JAN-17',
   'Particle size, Sieve No. 40, 35 mesh, (0.425mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 400, 400 mesh, (0.038mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 45, 42 mesh, (0.355mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 450, 450 mesh, (0.032mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 50, 48 mesh, (0.300mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 500, 500 mesh, (0.025mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 60, 60 mesh, (0.250mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 70, 65 mesh, (0.212mm)':
-    '; Request Date: 02-MAR-07',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size, Sieve No. 80, 80 mesh, (0.180mm)':
-    '; Request Date: 02-MAR-07',
-  'Particle size, coarse sediment (>75 um)': '',
-  'Particle size, fine sediment (<75 um)': '',
-  'Particle-size distribution of the meander within reach': '',
-  'Particle-size distribution of the reach': '',
-  'Particle-size distribution of the riffle within reach': '',
+    'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
+  'Particle size, coarse sediment (>75 um)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle size, fine sediment (<75 um)':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle-size distribution of the meander within reach':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle-size distribution of the reach':
+    'Particle size refers to the size of individual particles that make up a material.',
+  'Particle-size distribution of the riffle within reach':
+    'Particle size refers to the size of individual particles that make up a material.',
   'Particulate Inorganic Carbon': '; Request Date: 22-JUL-14',
   'Particulate Inorganic Phosphorus':
     'Chesapeake Bay Program Data Migration; Request Date: 28-FEB-17',
-  'Particulate Matter - Pm10': '; Request Date: 03-JUL-08',
-  'Particulate Matter - Pm2.5': '; Request Date: 03-JUL-08',
+  'Particulate Matter - Pm10':
+    'Particulate matter where particles are less than or equal to 10 micrometers in size.  Criteria pollutant. ; Request Date: 03-JUL-08',
+  'Particulate Matter - Pm2.5':
+    'Particulate matter where particles are less than or equal to 2.5 micrometers in size.; Request Date: 03-JUL-08',
   'Particulate Organic Nitrogen and Particulate Nitrogen':
     'Chesapeake Bay Program Data Migration; Request Date: 11-JAN-17',
   'Particulate microcystins/nodularin': 'NWIS',
@@ -22471,15 +22697,15 @@ export default {
   'Peak wave direction': 'NWIS',
   Pebulate: 'Nemi.gov; Request Date: 22-JUL-14',
   'Pectenotoxin-2 (PTX-2)': 'NWIS',
-  Pectinariidae: 'NWIS',
+  Pectinariidae: 'TAXON: Animalia Kingdom; NWIS',
   'Pedestal Development Erosion Class (choice list)': '',
-  Pedicia: 'NWIS',
+  Pedicia: 'TAXON: Animalia Kingdom; NWIS',
   Pedipartia: 'NWIS',
-  Pedomoecus: 'NWIS',
+  Pedomoecus: 'TAXON: Animalia Kingdom; NWIS',
   Pelignellus: 'NWIS',
-  Peloscolex: 'NWIS',
+  Peloscolex: 'TAXON: Animalia Kingdom; NWIS',
   Peltoperla: 'NWIS',
-  Peltoperlidae: 'NWIS',
+  Peltoperlidae: 'TAXON: Animalia Kingdom; NWIS',
   Penciclovir: '; Request Date: 02-FEB-15',
   Pendimethalin: '; Request Date: 02-MAR-07',
   Penflufen: 'NWIS',
@@ -22595,7 +22821,7 @@ export default {
   'Pentanedioic acid, 2,2,3,3,4,4-hexafluoro-, silver salt (1:1)': '',
   'Pentanedioyl dichloride, 2,2,3,3,4,4-hexafluoro-': '',
   'Pentanenitrile, 5,5,5-trifluoro-4,4-bis(trifluoromethyl)-': '',
-  Pentaneura: 'NWIS',
+  Pentaneura: 'TAXON: Animalia Kingdom; NWIS',
   'Pentanoic acid, 2,2,3,3,4,4,5,5,5-nonafluoro-': 'NWIS',
   'Pentanoic acid, 2,2,3,3,4,4,5,5,5-nonafluoro-***retired***use Perfluorovaleric acid':
     '',
@@ -22643,7 +22869,8 @@ export default {
   'Pentyl 4,4,5,5,6,6,7,7,7-nonafluoroheptanoate': '',
   'Pentyl sulfate': 'NWIS',
   Pentylcyclohexane: '; Request Date: 13-AUG-18',
-  'Per- and polyfluoroalkyl substances': '',
+  'Per- and polyfluoroalkyl substances':
+    'Per- and polyfluoroalkyl substances (PFAS) are widely used, long lasting chemicals, components of which break down very slowly over time. Many PFAS are found in the blood of people and animals all over the world and are present at low levels in a variety of food products and in the environment.',
   'Percent Cover Vegetation (%)': 'Information,4;',
   'Percent Coverage Sum Vegetation': 'Information,4;',
   'Percent Residue':
@@ -22653,7 +22880,8 @@ export default {
   Perchlorate: 'Nemi.gov; Request Date: 02-MAR-07',
   'Perchloric acid': '; Request Date: 02-MAR-07',
   'Perfluoro alkanes (linear)': '',
-  'Perfluoro compounds, C5-18': '',
+  'Perfluoro compounds, C5-18':
+    'An inert fluid composed of a complex combination of organic compounds resulting from the distillation of electrochemically fluorinated organic compounds.  It consists of branched, linear, and cyclic perfluorinated hydrocarbons having carbon numbers predominantly in the range of C5-C18 and boiling in the range of approximately 25.degree.C to 255.degree.C (77.degree.F to 491.degree.F).  Perfluorina',
   'Perfluoro diacyl amides': '',
   'Perfluoro dimethylethylpentane': '',
   'Perfluoro iso n:p acrylates': '',
@@ -22697,7 +22925,7 @@ export default {
   'Perfluoro-(2,5,8-trimethyl-3,6,9-trioxadodecanoic)acid': '',
   'Perfluoro-(2-n-propyl)pyran': '',
   'Perfluoro-(C6-18)-alkylphosphonic acid  (Fluowet PL 80, 80% aqueous solution)':
-    '',
+    'An anionic tenside that consists of a mixture of perfluorinated phosphini and phosphonic acids (Hoechst)',
   'Perfluoro-1,1-dichlorooctane': '',
   'Perfluoro-1,10-decanedicarboxylic acid': '',
   'Perfluoro-1,2-bis(perfluorocyclohexyl)ethane': '',
@@ -23013,7 +23241,7 @@ export default {
   'Perfluoroalkyl symmetric diamides': '',
   'Perfluoroalkyl(C4-14)carbonyl aminohexanoic acid, ammonium salt': '',
   'Perfluoroalkyl(C4-14)carbonyl aminomethoxy polyethylene oxide  (Surflon S 145, perfluoroalkyl ethylene oxide adduct)':
-    '',
+    'a nonionic surfactant containing perfluoroalkyl and ethylene oxide groups (Asahi Glass)',
   'Perfluoroalkyl(C4-23) iodide': '',
   'Perfluoroalkylether (linear) carboxylic acids': '',
   'Perfluoroalkylether (linear) sulfonic acids': '',
@@ -23041,7 +23269,8 @@ export default {
   Perfluorobutyltetrahydrofuran: '',
   Perfluorobutyraldehyde: '',
   Perfluorobutyrylamidine: '',
-  Perfluorocarbons: '',
+  Perfluorocarbons:
+    'Perfluorocarbons (PFCs) are a group of gases containing only fluorine and carbon atoms, and are often found as a compressed liquid. ',
   'Perfluorocarboxyl perfluoroalkyl sulfonic anhydrides': '',
   'Perfluorocyclohexane sulfonic acid': '',
   'Perfluorocyclohexanecarbonyl bromide': '',
@@ -23300,7 +23529,7 @@ export default {
   PeriSubCrs: 'GRE; Request Date: 01-SEP-16',
   PeriSubLrg: 'GRE; Request Date: 01-SEP-16',
   PeriSubSoft: 'GRE; Request Date: 01-SEP-16',
-  Pericoma: 'NWIS',
+  Pericoma: 'TAXON: Animalia Kingdom; NWIS',
   Perindopril: 'NWIS',
   Periphyton:
     'Biological,2; Microscopic underwater plants and animals that are firmly attached to solid surfaces such as rocks, logs, pilings, and other structures.; Request Date: 22-JUL-14',
@@ -23327,28 +23556,30 @@ export default {
     '1040;Request Date: 26-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Perylene: '; Request Date: 02-MAR-07',
   'Perylene-d12': '; Request Date: 26-JUL-11',
-  'Pesticide mix, unspecified': '; Request Date: 02-MAR-07',
+  'Pesticide mix, unspecified':
+    'Any substances or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest.; Request Date: 02-MAR-07',
   Petasidae: 'NWIS',
-  Petroleum: 'Nemi.gov; Request Date: 25-SEP-19',
+  Petroleum:
+    'A complex combination of hydrocarbons.  It consists predominantly of aliphatic, alicyclic and aromatic hydrocarbons.  It may also contain small amounts of nitrogen, oxygen and sulfur compounds.  This category encompasses light, medium, and heavy petroleums, as well as the oils extracted from tar sands. Hydrocarbonaceous materials requiring major chemical changes for their recovery or conversion t',
   'Petroleum hydrocarbons (C9-C44)': '; Request Date: 31-JAN-18',
   'Petroleum hydrocarbons, total extractable': '; Request Date: 08-DEC-15',
-  'Petroleum hydrocarbons, total volatile': '1;',
+  'Petroleum hydrocarbons, total volatile': 'Hydorcarbons through C12.;',
   'Petroleum phenols':
     'A complex combination of organic compounds, predominantly phenol, cresols, xylenols and other alkylated phenols obtained primarily from cracked naphtha or distillate streams by alkaline extraction.; Request Date: 02-MAR-07',
   'Petroleum spirits': '; Request Date: 02-MAR-07',
   Pfiesteria: 'TAXON: Plantae Kingdom; Request Date: 02-MAR-07',
   'Pfiesteria piscicida': 'TAXON: Plantae Kingdom; Request Date: 02-MAR-07',
-  Phaenopsectra: 'NWIS',
+  Phaenopsectra: 'TAXON: Animalia Kingdom; NWIS',
   'Phaeophytin - Periphyton (attached)':
     'Biological,2; Request Date: 11-MAR-13',
   'Phaeophytin - Phytoplankton (suspended)':
     'Biological,2;  Request Date: 11-MAR-13',
   Phaeopigment: '',
-  Phalacrocera: 'NWIS',
+  Phalacrocera: 'TAXON: Animalia Kingdom; NWIS',
   Phanocelia: 'NWIS',
   Phantolide: '',
   Phaonia: 'NWIS',
-  Pharyngobdellida: 'NWIS',
+  Pharyngobdellida: 'TAXON: Animalia Kingdom; NWIS',
   Phenacetin: 'Nemi.gov; Request Date: 22-JUL-14',
   'Phenacetin-13C': 'NWIS',
   Phenanthrene: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -23473,15 +23704,15 @@ export default {
   'Pheophytin ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
   'Pheophytin/Chlorophyll ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
   'Pheopigments of Chlorophyll': 'Nemi.gov; Request Date: 25-SEP-19',
-  Pherbellia: 'NWIS',
-  Philobdella: 'NWIS',
+  Pherbellia: 'TAXON: Animalia Kingdom; NWIS',
+  Philobdella: 'TAXON: Animalia Kingdom; NWIS',
   Philocasca: 'NWIS',
-  Philodina: 'NWIS',
+  Philodina: 'TAXON: Animalia Kingdom; NWIS',
   Philodinavidae: 'NWIS',
   Philodinavus: 'NWIS',
   Philodinidae: 'NWIS',
-  Philopotamidae: 'NWIS',
-  Philorus: 'NWIS',
+  Philopotamidae: 'TAXON: Animalia Kingdom; NWIS',
+  Philorus: 'TAXON: Animalia Kingdom; NWIS',
   Phorate: 'Nemi.gov; Request Date: 02-MAR-07',
   'Phorate O.A.': '; Request Date: 22-JUL-14',
   'Phorate oxon sulfone': 'NWIS',
@@ -23490,8 +23721,8 @@ export default {
   'Phorate sulfone': 'Request Date: 3-Mar-07 (nps.gov cas# review)',
   'Phorate sulfoxide': 'Request Date: 2-Aug-13 (nps.gov cas# review)',
   'Phorate-d10': '1; Request Date: 10-SEP-18',
-  Phoridae: 'NWIS',
-  Phoronida: 'NWIS',
+  Phoridae: 'TAXON: Animalia Kingdom; NWIS',
+  Phoronida: 'TAXON: Animalia Kingdom; NWIS',
   Phosalone: '; Request Date: 22-JUL-14',
   Phosgene:
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
@@ -23658,8 +23889,8 @@ export default {
   'Phosphorus-32': 'Phosphorus, atomic number 15.; Request Date: 02-MAR-07',
   Phostebupirim: '; Request Date: 13-MAY-14',
   Photomirex: '; Request Date: 22-JUL-14',
-  Phryganea: 'NWIS',
-  Phryganeidae: 'NWIS',
+  Phryganea: 'TAXON: Animalia Kingdom; NWIS',
+  Phryganeidae: 'TAXON: Animalia Kingdom; NWIS',
   Phthalazinone: 'NWIS',
   'Phthalic acid': '; Request Date: 22-JUL-14',
   'Phthalic anhydride': '; Request Date: 02-MAR-07',
@@ -23673,24 +23904,24 @@ export default {
   'Phycoerythrin (PE)': 'NWIS',
   'Phycoerythrin fluorescence (fPE)': 'NWIS',
   Phyllodocida: 'NWIS',
-  Phyllodocidae: 'NWIS',
+  Phyllodocidae: 'TAXON: Animalia Kingdom; NWIS',
   Phylloicus: 'NWIS',
-  Phylocentropus: 'NWIS',
+  Phylocentropus: 'TAXON: Animalia Kingdom; NWIS',
   'Physical Substrate Habitat Alterations (Y/N) (choice List)':
     'Information,4;',
-  Physocypria: 'NWIS',
+  Physocypria: 'TAXON: Animalia Kingdom; NWIS',
   Phytane: '; Request Date: 02-MAR-07',
   Phytoactin: '; Request Date: 02-MAR-07',
   Phytol: '; Request Date: 14-APR-15',
   Phytoplankton:
-    'Physical,14; Aggregate of plants and plant-like organisms in plankton.; Request Date: 02-MAR-07',
+    'Aggregate of plants and plant-like organisms in plankton.; Request Date: 02-MAR-07',
   'Phytoplankton Density': 'Physical,14; Request Date: 10-JUL-13',
   'Phytoplankton Relative Density': 'Physical,14; Request Date: 10-JUL-13',
   'Phytoplankton biovolume': 'Physical,14; Request Date: 02-MAR-07',
   'Phytoplankton collected (Y/N) (choice list)': 'NLA; Request Date: 11-APR-17',
   'Phytoplankton productivity': 'Microbiological,9; Request Date: 02-MAR-07',
   'Phytoplankton, settling volume':
-    'Physical,14; The measured volume of settled phytoplankton in a given volume of water sample after a specified settling time.; Request Date: 02-MAR-07',
+    'The measured volume of settled phytoplankton in a given volume of water sample after a specified settling time.; Request Date: 02-MAR-07',
   Picarbutrazox: 'NWIS',
   'Picarbutrazox TZ-1E': '',
   Picene: 'NWIS',
@@ -23706,8 +23937,8 @@ export default {
   'Pig1Bac DNA marker':
     'bacterial artificial chromosome (BAC)  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
   'Pig2Bac DNA marker': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
-  Pilargidae: 'NWIS',
-  Pilaria: 'NWIS',
+  Pilargidae: 'TAXON: Animalia Kingdom; NWIS',
+  Pilaria: 'TAXON: Animalia Kingdom; NWIS',
   'Pimaric acid': '1; Request Date: 30-APR-15',
   Pimozide: '; Request Date: 18-OCT-18',
   Pinacolone: '; Request Date: 02-MAR-07',
@@ -23734,12 +23965,12 @@ export default {
   'Pirimiphos-ethyl': '1;',
   'Pirimiphos-methyl': '; Request Date: 31-MAR-14',
   Piroxicam: 'NWIS',
-  Piscicola: 'NWIS',
-  Piscicolaria: 'NWIS',
-  Piscicolidae: 'NWIS',
+  Piscicola: 'TAXON: Animalia Kingdom; NWIS',
+  Piscicolaria: 'TAXON: Animalia Kingdom; NWIS',
+  Piscicolidae: 'TAXON: Animalia Kingdom; NWIS',
   Pitavastatin: 'NWIS',
-  Placobdella: 'NWIS',
-  Planariidae: 'NWIS',
+  Placobdella: 'TAXON: Animalia Kingdom; NWIS',
+  Planariidae: 'TAXON: Animalia Kingdom; NWIS',
   Plankton:
     'Aggregate of passively floating, drifting, or somewhat motile organisms occurring in a body of water, primarily comprising microscopic algae and protozoa.; Request Date: 02-MAR-07',
   Planktothrix: 'NWIS',
@@ -23749,17 +23980,17 @@ export default {
   'Plasticity index': '; Request Date: 30-APR-15',
   Plastics: '',
   Platinum: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
-  Platycentropus: 'NWIS',
+  Platycentropus: 'TAXON: Animalia Kingdom; NWIS',
   Platygymnopa: 'NWIS',
-  Platyhelminthes: 'NWIS',
+  Platyhelminthes: 'TAXON: Animalia Kingdom; NWIS',
   Platyias: 'NWIS',
-  Plecoptera: 'NWIS',
-  Plecopteracoluthus: 'NWIS',
+  Plecoptera: 'TAXON: Animalia Kingdom; NWIS',
+  Plecopteracoluthus: 'TAXON: Animalia Kingdom; NWIS',
   Pleuretra: 'NWIS',
   Pleurotrocha: 'NWIS',
-  Pleuroxus: 'NWIS',
-  Ploesoma: 'NWIS',
-  Ploima: 'NWIS',
+  Pleuroxus: 'TAXON: Animalia Kingdom; NWIS',
+  Ploesoma: 'TAXON: Animalia Kingdom; NWIS',
+  Ploima: 'TAXON: Animalia Kingdom; NWIS',
   'Plumbane, bis[(2,2,2-trifluoroacetyl)oxy]-': 'PFAS removal',
   Plutonium: 'Request Date: 26-Mar-10 (nps.gov cas# review)',
   'Plutonium-238': 'Plutonium, atomic number 94.; Request Date: 22-JUL-14',
@@ -23769,7 +24000,7 @@ export default {
   'Plutonium-239/plutonium-240': '',
   'Plutonium-240':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
-  'Plutonium-241': 'NWIS',
+  'Plutonium-241': 'Plutonium, atomic number 94.; NWIS',
   'Point Source Pollution - Outfall Pipe Discharging (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
   'Point Source Pollution - Outfall Pipe Present (Y/N) (choice list)':
@@ -24141,25 +24372,26 @@ export default {
     '',
   'Polyaddition products of isobenzofuran-1,3-dione / oxolane-2,5-dione / 2-(2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptan-1-yl)oxirane':
     '',
-  Polyarthra: 'NWIS',
+  Polyarthra: 'TAXON: Animalia Kingdom; NWIS',
   'Polybrominated biphenyls': '12; Request Date: 02-MAR-07',
   'Polybrominated diphenyl ethers': '; Request Date: 30-MAY-13',
-  Polycelis: 'NWIS',
+  Polycelis: 'TAXON: Animalia Kingdom; NWIS',
   'Polycelis coronata': 'NWIS',
-  Polycentropodidae: 'NWIS',
-  Polycentropus: 'NWIS',
+  Polycentropodidae: 'TAXON: Animalia Kingdom; NWIS',
+  Polycentropus: 'TAXON: Animalia Kingdom; NWIS',
   'Polychlorinated biphenyls': 'Nemi.gov; Request Date: 05-MAY-12',
   'Polychlorinated terphenyls': '; Request Date: 22-JUL-14',
   'Polychloroethene-co-(cyclohexan-1-yl methacrylate)-co-(oxiran-2-ylmethyl methacrylate)-co-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl methacrylate)':
     '',
   'Polycyclic aromatic hydrocarbons': '; Request Date: 02-MAR-07',
   'Polycyclic aromatic hydrocarbons as benzo[a]pyrene TEQ':
-    '; Request Date: 22-JUL-14',
+    'Benzo[a]pyrene equivalent defined: Seven of the PAHs are known to cause cancer in animals. The most potent carcinogen of these seven is benzo[a]pyrene. The toxicity of each of the other six PAHs is compared to that of benzo[a]pyrene, giving a toxicity-equivalent factor. This factor describes how carcinogenic it is relative to benzo[a]pyrene. In calculating benzo[a]pyrene-equivalent concentrations',
   'Polycyclic aromatic hydrocarbons, high molecular weight':
-    '; Request Date: 22-JUL-14',
+    'Polycyclic aromatiac hydrocarbons with 4 or more aromatic rings. ; Request Date: 22-JUL-14',
   'Polycyclic aromatic hydrocarbons, low molecular weight':
-    '; Request Date: 22-JUL-14',
-  'Polycyclic organic matter': '',
+    'Polycyclic aromatiac hydrocarbons with 2 or 3 aromatic rings.; Request Date: 22-JUL-14',
+  'Polycyclic organic matter':
+    ' 49 FR 31680; Aug. 8, 1984: POM is a generic term which covers hundreds of chemical substances containing two or more ring structures. These include compounds made up of only carbon and hydrogen (polycyclic aromatic hydrocarbons. or PAH), compounds with a ring nitrogen (aza and imino arenes), oxygenated species, and nitrated and chlorinated POM (+ dioxins and pesticides such as aldrin and DDT).',
   'Polycyclic organic matter, other than PAHs': '; Request Date: 12-JAN-16',
   Polyethylene: '; Request Date: 02-MAR-07',
   'Polyethylene glycol': 'Nemi.gov; Request Date: 25-SEP-19',
@@ -24176,15 +24408,16 @@ export default {
   'Polymer(ethylene/tetrafluoroethylene/propylene)': '',
   Polymyxin:
     'Any of several polypeptide antibiotics derived from Bacillus polymyxa.; Request Date: 02-MAR-07',
-  Polynoidae: 'NWIS',
-  Polypedilum: 'NWIS',
-  'Polypedilum halterale': 'NWIS',
-  'Polypedilum tritum': 'NWIS',
+  Polynoidae: 'TAXON: Animalia Kingdom; NWIS',
+  Polypedilum: 'TAXON: Animalia Kingdom; NWIS',
+  'Polypedilum halterale': 'TAXON: Animalia Kingdom; NWIS',
+  'Polypedilum tritum': 'TAXON: Animalia Kingdom; NWIS',
   'Polyperfluoroethoxymethoxy difluoroethyl peg phosphate': '',
   'Polyperfluoroisopropyl ether': '',
   Polyphemidae: 'NWIS',
   Polyphemus: 'NWIS',
-  Polyphosphate: '; Request Date: 22-JUL-14',
+  Polyphosphate:
+    'Polymerized orthophosphate, amenable to measurement as the difference between Acid-hydrolyzable Phosphate and Reactive Phosphate.; Request Date: 22-JUL-14',
   Polyplectropus: 'NWIS',
   'Polypropene-co-perfluoroethene-co-(vinyl butan-2-enoate)': '',
   Polypropylene: '; Request Date: 02-MAR-07',
@@ -24193,7 +24426,7 @@ export default {
   Polytrichophora: 'NWIS',
   'Polyvinyl Alcohol': '',
   'Poly{2,2,3,3,4,4-hexafluoro-4-(trifluorovinyl)oxybutanoic acid}': '',
-  Pompholyx: 'NWIS',
+  Pompholyx: 'TAXON: Animalia Kingdom; NWIS',
   'Pool Count': '; Request Date: 10-SEP-11',
   'Pool Depth': '; Request Date: 27-MAR-15',
   'Pool Depth (choice list)': '',
@@ -24217,21 +24450,21 @@ export default {
   'Population Estimate':
     'Tennessee Department of Environment & Conservation Division of Water  - Linda Cartwright; Request Date: 08-AUG-16',
   'Population diversity, fish, # of species':
-    'Physical,14; Request Date: 02-MAR-07',
+    'An estimate of fish population diversity as indicated by the total number of different fish species present within a given habitat.; Request Date: 02-MAR-07',
   'Population diversity, macroinvertebrates, # of species':
-    '; Request Date: 02-MAR-07',
+    'An estimate of macroinvertebrate population diversity as indicated by the total number of different macroinvertebrates species present within a given habitat.; Request Date: 02-MAR-07',
   'Population diversity, phytoplankton, # of species':
-    'Physical,14; Request Date: 02-MAR-07',
+    'An estimate of phytoplankton population diversity as indicated by the total number of different phytoplankton species present within a given habitat.; Request Date: 02-MAR-07',
   'Population diversity, zooplankton, # of species':
-    '; Request Date: 02-MAR-07',
-  Porifera: 'NWIS',
+    'An estimate of zooplankton population diversity as indicated by the total number of different zooplankton species present within a given habitat.; Request Date: 02-MAR-07',
+  Porifera: 'TAXON: Animalia Kingdom; NWIS',
   Porosity: 'Porosity',
-  Portunidae: 'NWIS',
-  Potamilla: 'NWIS',
+  Portunidae: 'TAXON: Animalia Kingdom; NWIS',
+  Potamilla: 'TAXON: Animalia Kingdom; NWIS',
   Potamocypris: 'NWIS',
-  Potamothrix: 'NWIS',
-  Potamyia: 'NWIS',
-  'Potamyia flava': 'NWIS',
+  Potamothrix: 'TAXON: Animalia Kingdom; NWIS',
+  Potamyia: 'TAXON: Animalia Kingdom; NWIS',
+  'Potamyia flava': 'TAXON: Animalia Kingdom; NWIS',
   Potassium: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Potassium (perfluorobutanesulfonyl)azanide': '',
   'Potassium 1,1,2,2,3,3,4,4-octafluorobutane-1-sulphonate': '',
@@ -24319,7 +24552,7 @@ export default {
   'Potassium-40': 'Potassium, atomic number 19.; Request Date: 22-JUL-14',
   'Potential Solar Radiation (% Time Shading Absent)': '',
   'Potential Sources': '',
-  Potthastia: 'NWIS',
+  Potthastia: 'TAXON: Animalia Kingdom; NWIS',
   'Power plant load':
     'Capacity requirements for an electrical power plant.; Request Date: 02-MAR-07',
   'Power plant production':
@@ -24339,7 +24572,7 @@ export default {
   'Pravastatin-d3': '',
   Prazepam: '; Request Date: 22-JUL-14',
   Precipitation:
-    '14;Rain, snow or sleet that falls from clouds.; Request Date: 02-MAR-07',
+    'Rain, snow or sleet that falls from clouds.; Request Date: 02-MAR-07',
   'Precipitation (CA SWAMP) (choice list)':
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',
   'Precipitation 120hr prior to monitoring event amount':
@@ -24365,7 +24598,8 @@ export default {
     'The amount of precipitation during a specified activity reported from a controlled list of acceptable values.; Request Date: 02-MAR-07',
   'Precipitation event duration':
     'The length of time, in hours or minutes, a precipitation event lasts.; Request Date: 02-MAR-07',
-  'Precipitation volume': '',
+  'Precipitation volume':
+    'The volume of precipitation during a precipitation event.',
   'Precipitation, how heavy (choice list)': '',
   'Precipitation, time since event':
     'The length of time that has elapsed since a precipitation event.; Request Date: 02-MAR-07',
@@ -24382,40 +24616,40 @@ export default {
   Pressure: '14; Request Date: 17-JUN-13',
   'Presumptive Aeromonas': 'NWIS',
   'Primary productivity':
-    'Physical,14; The net flux of carbon from the atmosphere into green plants per unit time. NPP refers to a rate process, i.e. the amount of vegetable matter produced (net primary production)  per day, week, or year.; Request Date: 02-MAR-07',
+    'The net flux of carbon from the atmosphere into green plants per unit time. NPP refers to a rate process, i.e. the amount of vegetable matter produced (net primary production)  per day, week, or year.; Request Date: 02-MAR-07',
   'Primary/ Secondary surrounding landuse (choice list)':
     '; Request Date: 24-AUG-10',
   Primidone: '; Request Date: 30-MAY-13',
   'Primisulfuron-methyl':
     'EPA Substance Registry System - www.epa.gov/srs; Request Date: 22-MAY-18',
-  Prionocera: 'NWIS',
+  Prionocera: 'TAXON: Animalia Kingdom; NWIS',
   Prionocypris: 'NWIS',
   'Prior Precipitation (text)': '',
   'Priority pollutants': 'NWIS',
   Pristane: '; Request Date: 02-MAR-07',
   'Pristane/Phytane Ratio': '; Request Date: 26-AUG-13',
-  Pristina: 'NWIS',
+  Pristina: 'TAXON: Animalia Kingdom; NWIS',
   'Pristine (choice list)': 'NRSA; Request Date: 11-APR-17',
-  Proales: 'NWIS',
+  Proales: 'TAXON: Animalia Kingdom; NWIS',
   Proalidae: 'NWIS',
   Proalides: 'NWIS',
   Proalinopsis: 'NWIS',
   Probenecid: 'NWIS',
   'Probenecid-d14': '',
-  Probezzia: 'NWIS',
-  Procambarus: 'NWIS',
+  Probezzia: 'TAXON: Animalia Kingdom; NWIS',
+  Procambarus: 'TAXON: Animalia Kingdom; NWIS',
   'Procambarus gracilis': 'NWIS',
   'Procambarus simulans': 'NWIS',
   Prochloraz: '; Request Date: 18-OCT-18',
-  Procladius: 'NWIS',
-  'Procladius bellus': 'NWIS',
+  Procladius: 'TAXON: Animalia Kingdom; NWIS',
+  'Procladius bellus': 'TAXON: Animalia Kingdom; NWIS',
   Procymidone: '1;Nemi.gov; Request Date: 25-SEP-19',
-  Prodiamesa: 'NWIS',
+  Prodiamesa: 'TAXON: Animalia Kingdom; NWIS',
   Prodiamine: '; Request Date: 28-MAY-15',
   'Productivity, Bacterial Carbon Production':
     'Physical,14; Request Date: 26-AUG-13',
   'Productivity, photosynthetic rate, carbon production':
-    'Physical,14; A measure of plant productivity based on the rate of photosynthesis or the production of carbohydrates.; Request Date: 02-MAR-07',
+    'A measure of plant productivity based on the rate of photosynthesis or the production of carbohydrates.; Request Date: 02-MAR-07',
   Profenofos: '; Request Date: 02-MAR-07',
   Profluralin: '; Request Date: 22-JUL-14',
   Progesterone: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -24433,7 +24667,7 @@ export default {
   Promethazine: '; Request Date: 22-JUL-14',
   'Promethazine-d4': '; Request Date: 24-MAR-14',
   'Promethazine-d6': '',
-  'Promethium-147': '; Request Date: 22-JUL-14',
+  'Promethium-147': 'Promethium, atomic number 61.; Request Date: 22-JUL-14',
   Prometon: 'Nemi.gov; Request Date: 22-JUL-14',
   Prometryn: 'Nemi.gov; Request Date: 22-JUL-14',
   Pronamide:
@@ -24927,11 +25161,11 @@ export default {
   Propyne: '; Request Date: 11-JAN-18',
   'Propyzamide***retired***use Pronamide':
     'Request Date: 2-Apr-16 (nps.gov cas# review)| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  Prosimulium: 'NWIS',
+  Prosimulium: 'TAXON: Animalia Kingdom; NWIS',
   Prosmittia: 'NWIS',
-  Prosorhochmidae: 'NWIS',
-  Prostoia: 'NWIS',
-  Prostoma: 'NWIS',
+  Prosorhochmidae: 'TAXON: Animalia Kingdom; NWIS',
+  Prostoia: 'TAXON: Animalia Kingdom; NWIS',
+  Prostoma: 'TAXON: Animalia Kingdom; NWIS',
   Prosulfuron: '; Request Date: 22-JUL-14',
   'Protactinium-231':
     'Protactinium, atomic number 91.; Request Date: 22-JUL-14',
@@ -24939,30 +25173,31 @@ export default {
     'Protactinium, atomic number 91.; Request Date: 22-JUL-14',
   'Protactinium-234':
     'Protactinium, atomic number 91.; Request Date: 22-JUL-14',
-  'Protactinium-234m': '; Request Date: 23-JAN-15',
-  Protanypus: 'NWIS',
+  'Protactinium-234m':
+    'Protactinium, atomic number 91.; Request Date: 23-JAN-15',
+  Protanypus: 'TAXON: Animalia Kingdom; NWIS',
   Prothioconazole: '1;NWIS',
   Prothiofos: '; Request Date: 02-MAR-07',
   Protoaricia: 'NWIS',
   Protohydra: 'NWIS',
-  Protoplasa: 'NWIS',
-  Protoptila: 'NWIS',
-  Protozoa: 'NWIS',
+  Protoplasa: 'TAXON: Animalia Kingdom; NWIS',
+  Protoptila: 'TAXON: Animalia Kingdom; NWIS',
+  Protozoa: 'TAXON: Animalia Kingdom; NWIS',
   Protriptyline: '; Request Date: 02-MAR-07',
   Prunetin: '; Request Date: 10-JUL-13',
-  Psectrocladius: 'NWIS',
-  Psectrotanypus: 'NWIS',
-  Pseudochironomus: 'NWIS',
+  Psectrocladius: 'TAXON: Animalia Kingdom; NWIS',
+  Psectrotanypus: 'TAXON: Animalia Kingdom; NWIS',
+  Pseudochironomus: 'TAXON: Animalia Kingdom; NWIS',
   'Pseudochironomus articaudus': 'NWIS',
-  'Pseudochironomus fulviventris': 'NWIS',
+  'Pseudochironomus fulviventris': 'TAXON: Animalia Kingdom; NWIS',
   'Pseudochironomus pseudoviridis': 'NWIS',
-  Pseudocumidae: 'NWIS',
-  Pseudodiamesa: 'NWIS',
+  Pseudocumidae: 'TAXON: Animalia Kingdom; NWIS',
+  Pseudodiamesa: 'TAXON: Animalia Kingdom; NWIS',
   'Pseudoephedrine + Ephedrine': '',
   'Pseudoephedrine-d3': 'Request Date: 3-Feb-15 (nps.gov cas# review)',
   'Pseudoephedrine/Ephedrine mix': '; Request Date: 09-MAR-15',
   Pseudogoera: 'NWIS',
-  Pseudolimnophila: 'NWIS',
+  Pseudolimnophila: 'TAXON: Animalia Kingdom; NWIS',
   Pseudomonas: '; Request Date: 22-JUL-14',
   'Pseudomonas aeruginosa': 'Nemi.gov; Request Date: 25-SEP-19',
   'Pseudomonas cepacia type Wisconsin': '; Request Date: 02-MAR-07',
@@ -24981,30 +25216,30 @@ export default {
     '; Request Date: 02-MAR-13| Not Assigned',
   Pseudoploesoma: 'NWIS',
   Pseudosida: 'NWIS',
-  Pseudosmittia: 'NWIS',
-  Pseudostenophylax: 'NWIS',
-  Psilometriocnemus: 'NWIS',
-  Psilopa: 'NWIS',
-  Psilotanypus: 'NWIS',
-  Psilotreta: 'NWIS',
-  Psorophora: 'NWIS',
-  Psychoda: 'NWIS',
-  Psychodidae: 'NWIS',
-  Psychoglypha: 'NWIS',
-  Psychomyia: 'NWIS',
-  Psychomyiidae: 'NWIS',
-  Psychoronia: 'NWIS',
+  Pseudosmittia: 'TAXON: Animalia Kingdom; NWIS',
+  Pseudostenophylax: 'TAXON: Animalia Kingdom; NWIS',
+  Psilometriocnemus: 'TAXON: Animalia Kingdom; NWIS',
+  Psilopa: 'TAXON: Animalia Kingdom; NWIS',
+  Psilotanypus: 'TAXON: Animalia Kingdom; NWIS',
+  Psilotreta: 'TAXON: Animalia Kingdom; NWIS',
+  Psorophora: 'TAXON: Animalia Kingdom; NWIS',
+  Psychoda: 'TAXON: Animalia Kingdom; NWIS',
+  Psychodidae: 'TAXON: Animalia Kingdom; NWIS',
+  Psychoglypha: 'TAXON: Animalia Kingdom; NWIS',
+  Psychomyia: 'TAXON: Animalia Kingdom; NWIS',
+  Psychomyiidae: 'TAXON: Animalia Kingdom; NWIS',
+  Psychoronia: 'TAXON: Animalia Kingdom; NWIS',
   Pterodrilus: 'NWIS',
   'Pterodrilus alcicornus': 'NWIS',
-  Pteromicra: 'NWIS',
-  Pteronarcella: 'NWIS',
-  Pteronarcys: 'NWIS',
+  Pteromicra: 'TAXON: Animalia Kingdom; NWIS',
+  Pteronarcella: 'TAXON: Animalia Kingdom; NWIS',
+  Pteronarcys: 'TAXON: Animalia Kingdom; NWIS',
   Ptilomyia: 'NWIS',
-  Ptilostomis: 'NWIS',
-  Ptygura: 'NWIS',
+  Ptilostomis: 'TAXON: Animalia Kingdom; NWIS',
+  Ptygura: 'TAXON: Animalia Kingdom; NWIS',
   'Pump efficiency':
     'The percentage at which a pump operates as compared to its theoretical maximum achievable efficiency.; Request Date: 02-MAR-07',
-  'Pump hours': '; Request Date: 30-MAY-13',
+  'Pump hours': 'The number of hours a pump is used.; Request Date: 30-MAY-13',
   'Pump pressure head':
     'The energy given to a fluid or a gas by a pump in a hydraulic or pumping system; usually expressed in pounds per square inch or feet of fluid or air (foot-pounds per pound).; Request Date: 02-MAR-07',
   'Pumping head': '; Request Date: 30-MAY-13',
@@ -25012,7 +25247,7 @@ export default {
     'The speed at which a pump is set to function.; Request Date: 02-MAR-07',
   'Purge Volume': '; Request Date: 08-NOV-13',
   'Purgeable hydrocarbons': '',
-  Pycnopsyche: 'NWIS',
+  Pycnopsyche: 'TAXON: Animalia Kingdom; NWIS',
   Pydiflumetofen: '',
   Pymetrozine: '; Request Date: 29-NOV-10',
   Pyraclostrobin: '; Request Date: 13-MAY-14',
@@ -25100,172 +25335,223 @@ export default {
   Quinoxyfen: '',
   Quizalofop: '',
   'Quizalofop-P-ethyl': 'Quizalofop-p-ethyl',
-  'RBP Bank Stability, Left (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Bank Stability, Right (choice list)': '; Request Date: 02-MAR-07',
+  'RBP Bank Stability, Left (choice list)':
+    'An assessment of stream bank stability (left bank) with respect to erosion or bank failure, as defined by Rapid Bioassessment Protocols (RBP).; Request Date: 02-MAR-07',
+  'RBP Bank Stability, Right (choice list)':
+    'An assessment of stream bank stability (right bank) with respect to erosion or bank failure, as defined by Rapid Bioassessment Protocols (RBP).; Request Date: 02-MAR-07',
   'RBP Bank Stability, Sum of L/R Bank Scores (choice list)':
     '; Request Date: 06-MAR-12',
   'RBP Bank Vegetative Protection, Left (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An assessment of the vegetative protection or vegetative cover of the left streambank surface of a stream, expressed as a percentage of the streambank that is covered by native vegetation, as defined by Rapid Bioassessment Protocols (RBP).; Request Date: 02-MAR-07',
   'RBP Bank Vegetative Protection, Right (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An assessment of the vegetative protection or vegetative cover of the right streambank surface of a stream, expressed as a percentage of the streambank that is covered by native vegetation, as defined by Rapid Bioassessment Protocols (RBP).; Request Date: 02-MAR-07',
   'RBP Bank Vegetative Protection, Sum of L/R Bank Scores (choice list)':
     'Information,4; Request Date: 06-MAR-12',
   'RBP Bank Vegetative Stability, Left (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'A descriptor to characterize the general vegetative stability on the left bank of a water body, as defined by Rapid Bioassessment Protocols (RBP).; Request Date: 02-MAR-07',
   'RBP Bank Vegetative Stability, Right (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
-  'RBP Bottom Substrate (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Canopy Cover (choice list)': '; Request Date: 02-MAR-07',
+    'A descriptor to characterize the general vegetative stability on the right bank of a water body, as defined by Rapid Bioassessment Protocols (RBP).; Request Date: 02-MAR-07',
+  'RBP Bottom Substrate (choice list)':
+    'A general description of the composition of the bottom substrate within a stream, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP Canopy Cover (choice list)':
+    'A visual estimate of the proportion of open to shaded area which best describes the amount of cover at the sampling reach or station.; Request Date: 02-MAR-07',
   'RBP Channel Alteration (choice list)': '; Request Date: 02-MAR-07',
   'RBP Channel Flow Status (choice list)': '; Request Date: 02-MAR-07',
   'RBP Channel Sinuosity (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Channelized Y/N (choice list)': '; Request Date: 02-MAR-07',
+  'RBP Channelized Y/N (choice list)':
+    'A Yes/No indication whether or not the area around a sampling reach or station is channelized (e.g., the straightening of the stream by bridge abutments, road crossings, diversions, etc.).; Request Date: 02-MAR-07',
   'RBP Embeddedness (choice list)': '; Request Date: 02-MAR-07',
   'RBP Epifaunal Substrate (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Frequency of Riffles (choice list)': '; Request Date: 02-MAR-07',
-  'RBP High water mark': '; Request Date: 02-MAR-07',
-  'RBP Instream Cover (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Local Watershed Erosion (choice list)': '; Request Date: 02-MAR-07',
+  'RBP Frequency of Riffles (choice list)':
+    'An assessment of the frequency of riffles (shallow rapids) in a stream surface expressed as a ratio of the distance between riffles divided by the stream width, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP High water mark':
+    'A measure of the surface velocity in m/sec within a stream.; Request Date: 02-MAR-07',
+  'RBP Instream Cover (choice list)':
+    'A measure of the general proportion of open to shaded area within a sampling reach or station, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP Local Watershed Erosion (choice list)':
+    'An assessment of the local watershed erosion as indicated by the existing or potential detachment of soil within the local watershed and its movement into a stream.; Request Date: 02-MAR-07',
   'RBP Local Watershed NPS Pollution (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of the presence or absence of nonpoint source pollution (NPS) within a watershed including diffuse agricultural and urban runoff.; Request Date: 02-MAR-07',
   'RBP Pool Substrate (choice list)': '; Request Date: 02-MAR-07',
   'RBP Pool Variability (choice list)': '; Request Date: 02-MAR-07',
   'RBP Predominant Surrounding Land Use (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of the predominant land use around a watershed, including forest, agricultural, commercial, and other uses.; Request Date: 02-MAR-07',
   'RBP Riparian Vegetative Zone Width, Sum of L/R Bank Scores (choice list)':
     'Information,4; Request Date: 06-MAR-12',
-  'RBP Sediment Deposition (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Sediment Odors (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Sediment Oils (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Stream Depth - Riffle': '; Request Date: 02-MAR-07',
-  'RBP Stream Depth - Run': '; Request Date: 02-MAR-07',
-  'RBP Stream Type (choice list)': '; Request Date: 02-MAR-07',
+  'RBP Sediment Deposition (choice list)':
+    'A measure of sediment deposition as indicated by the formation or expansion of islands and/or point bars within a stream, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP Sediment Odors (choice list)':
+    'Odors associated with sediment/substrate oils within a sampling reach.; Request Date: 02-MAR-07',
+  'RBP Sediment Oils (choice list)':
+    'A description of the relative amount of any sediment oils observed in the sampling area.; Request Date: 02-MAR-07',
+  'RBP Stream Depth - Riffle':
+    'An estimate of the vertical distance in meters from water surface to riffle bottom, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP Stream Depth - Run':
+    'An estimate of the vertical distance from the water surface to the stream bottom at a representative depth using the instream habitat run feature that is most common in the reach area to obtain an average that is noted on the Rapid Bioassessment Protocol (RBP) Physical Characterization/Water Quality Field Data Sheet, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP Stream Type (choice list)':
+    'A characterization of stream type based on water temperature (i.e., coldwater vs warmwater).; Request Date: 02-MAR-07',
   'RBP Stream Velocity': '; Request Date: 02-MAR-07',
-  'RBP Stream depth - pool': '; Request Date: 02-MAR-07',
-  'RBP Stream width': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Bedrock': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Boulders >256 mm': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Cobbles 64-256 mm': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Detritus - Coarse Particulate': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Gravel 2-64 mm': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Marl - Gray, Shell Fragments': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Muck/Mud - Very Fine Particles': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Sand 0.06-2.0 mm': '; Request Date: 02-MAR-07',
-  'RBP Substrate - Silt 0.004-0.06 mm': '; Request Date: 02-MAR-07',
+  'RBP Stream depth - pool':
+    'An estimate of the vertical distance in meters from water surface to pool bottom, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP Stream width':
+    'An estimate of the distance from bank to bank at a transect representative of the stream width within a sampling reach, typically in meters.; Request Date: 02-MAR-07',
+  'RBP Substrate - Bedrock':
+    'A visual estimate of the relative percentage of bedrock present in the substrate within the sampling reach.; Request Date: 02-MAR-07',
+  'RBP Substrate - Boulders >256 mm':
+    'A visual estimate of the proportion of boulders larger than 256 mm found in the sampling area.; Request Date: 02-MAR-07',
+  'RBP Substrate - Cobbles 64-256 mm':
+    'A description of the inorganic substrate type within a sampling reach consisting of cobbles 64-256 mm in size.; Request Date: 02-MAR-07',
+  'RBP Substrate - Detritus - Coarse Particulate':
+    'A description of the detritus substrate within a habitat consisting of coarse particulates, including sticks, wood, and coarse plant material.; Request Date: 02-MAR-07',
+  'RBP Substrate - Gravel 2-64 mm':
+    'A description of the inorganic substrate type within a sampling reach consisting of gravel 2-64 mm in size, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP Substrate - Marl - Gray, Shell Fragments':
+    'A description of the earthy deposit consisting of clay and calcium carbonate containing shell fragments.; Request Date: 02-MAR-07',
+  'RBP Substrate - Muck/Mud - Very Fine Particles':
+    'A description of the substrate type within a habitat consisting of very fine muck and mud, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
+  'RBP Substrate - Sand 0.06-2.0 mm':
+    'A description of the inorganic substrate type within a sampling reach consisting of sand 0.06-2 mm in size.; Request Date: 02-MAR-07',
+  'RBP Substrate - Silt 0.004-0.06 mm':
+    'A description of the inorganic substrate type within a sampling reach consisting of silt 0.004-0.06 mm in size.; Request Date: 02-MAR-07',
   'RBP Total score': '; Request Date: 02-MAR-16',
-  'RBP Turbidity Code (choice list)': '; Request Date: 02-MAR-07',
+  'RBP Turbidity Code (choice list)':
+    'A code to describe the turbidity of water (if not measured), including clear, opaque, slightly turbid, or turbid, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 02-MAR-07',
   'RBP Undersides of Loose Stones Black Y/N (choice list)':
-    '; Request Date: 02-MAR-07',
-  'RBP Water Odors (choice list)': '; Request Date: 02-MAR-07',
-  'RBP Water Surface Oils (choice list)': '; Request Date: 02-MAR-07',
+    'An assessment (yes/no) of the presence or absence of black coloration on the underside of embedded stones within a streambed, indicating anaerobic conditions.; Request Date: 02-MAR-07',
+  'RBP Water Odors (choice list)':
+    'Odors associated with the water in the sampling area.; Request Date: 02-MAR-07',
+  'RBP Water Surface Oils (choice list)':
+    'A description of the relative amount of any oils present on the water surface.; Request Date: 02-MAR-07',
   'RBP2, Aquatic Vegetation, Dominant Type & Species (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'A description of the dominant type of aquatic vegetation and dominant species within an aquatic habitat, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Aquatic vegetation, portion of reach with AV (%)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the portion of a stream reach containing aquatic vegetation (AV) expressed as a percentage of the total area of stream reach, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, bedrock (%)': 'Information,4; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, canopy (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, canopy (%)':
+    'An visual estimate of the percent of open to shaded area which best describes the amount of cover at the sampling reach or station, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, general comments':
-    'Information,4; Request Date: 02-MAR-07',
+    'General comments about a habitat type, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, glide (%)': '',
   'RBP2, Habitat type, gravel-cobble (%)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the portion of an aquatic habitat consisting of gravel and cobbles, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, large woody debris (%)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the percent of an aquatic habitat consisting of large woody debris, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, leaf packs (%)': '; Request Date: 27-FEB-18',
-  'RBP2, Habitat type, other (%)': 'Information,4; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, other (%)':
+    'An estimate of the portion of an aquatic habitat consisting of habitat types not otherwise listed, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, plants, roots (%)':
-    'Information,4; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, pools (%)': 'Information,4; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, riffle (%)': 'Information,4; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, run (%)': 'Information,4; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, sand (%)': 'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the portion of an aquatic habitat consisting of plant roots, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, pools (%)':
+    'An estimate of the percentage of a stream reach consisting of pools, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, riffle (%)':
+    'An estimated proportion of a stream reach represented by riffles (shallow rapids) in an evaluation of stream morphological types.; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, run (%)':
+    'An estimate of the portion of a stream reach consisting of runs, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, sand (%)':
+    'An estimate of the portion of an aquatic habitat consisting of sand, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, sand-silt-mud-muck (%)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the portion of an aquatic habitat consisting of sand, silt, mud, and muck, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, small woody debris (%)':
-    'Information,4; Request Date: 02-MAR-07',
-  'RBP2, Habitat type, snags (%)': 'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the percent of an aquatic habitat consisting of small woody debris, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Habitat type, snags (%)':
+    'An estimate of the portion of an aquatic habitat consisting of submerged snags, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, submerged macrophytes (%)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the portion of an aquatic habitat consisting of submerged macrophytes, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Habitat type, vegetated banks (%)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An estimate of the portion of an aquatic habitat containing banks covered with vegetation, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Bank Stability, Left Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of stream bank stability (left bank) with respect to erosion or bank failure for high gradient streams, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Bank Stability, Right Bank (choice list)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, High G, Channel Alteration (choice list)': '; Request Date: 02-MAR-07',
+    'An assessment of stream bank stability (right bank) with respect to erosion or bank failure for high gradient streams, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, High G, Channel Alteration (choice list)':
+    'A description of the degree of channeling within a high gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Channel Flow Status (choice list)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, High G, Embeddedness (choice list)': '; Request Date: 02-MAR-07',
+    'A measure of the amount of exposed channel bottom expressed as a percentage of the total channel area divided by the area of channel bottom covered by water within a high gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, High G, Embeddedness (choice list)':
+    'An assessment of the extent to which rocks (gravel, cobble, and boulders) and snags are covered or sunken into the silt, sand, or mud of the bottom of a high gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Epifaunal Substrate/Available Cover (choice list)':
-    '; Request Date: 02-MAR-07',
+    'A measure of the percentage of stable substrate that is favorable for epifaunal and fish colonization within a high gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Frequency of Riffles (or bends) (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of the frequency of bends or riffles (shallow rapids) in the surface of a high gradient stream expressed as a ratio of the distance between riffles divided by the stream width, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Riparian Vegetative Zone Width, Left Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'The width of undisturbed riparian vegetation on the left bank of a high gradient stream measured in meters, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Riparian Vegetative Zone Width, Right Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'The width of undisturbed riparian vegetation on the right bank of a high gradient stream measured in meters, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Sediment Deposition (choice list)':
-    '; Request Date: 02-MAR-07',
+    'A measure of sediment deposition as indicated by the formation or expansion of islands and/or point bars within a high gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Vegetative Protection, Left Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An assessment of the vegetative protection or vegetative cover of the left streambank surface for a high gradient stream, expressed as a percentage of the left streambank covered by native vegetation, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Vegetative Protection, Right Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An assessment of the vegetative protection or vegetative cover of the right streambank surface for a high gradient stream, expressed as a percentage of the right streambank covered by native vegetation, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, Velocity/Depth Regime (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of the proportion of velocity/depth regimes within a high gradient stream, including slow/deep, slow/shallow, fast/deep, and fast/shallow, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, High G, habitat assessment total rating': '; Request Date: 25-MAR-14',
   'RBP2, High G, habitat assessment total score':
-    'Information,4; Request Date: 02-MAR-07',
+    'A habitat assessment matrix developed for the Rapid Bioassessment Protocols (RBPs) to assess the quality and structure of a high gradient stream habitat, including an evaluation of the variety and quality of the substrate, channel morphology, bank structure, and riparian vegetation. All parameters are rated on a numerical scale then totaled to provide a final habitat ranking,as defined by the sec',
   'RBP2, Instream Features, Canopy Cover (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, Instream Features, Channelized (Y/N) (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, Instream Features, Dam Present (Y/N) (choice list)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, Instream features, est. reach length': '; Request Date: 02-MAR-07',
-  'RBP2, Instream features, est. stream depth': '; Request Date: 02-MAR-07',
+    'An indication (yes/no) of the presence of dams within stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Instream features, est. reach length':
+    'The estimated reach length, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Instream features, est. stream depth':
+    'An estimate of depth of the stream depth, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Instream features, est. stream width': '; Request Date: 02-MAR-07',
-  'RBP2, Instream features, high water mark': '; Request Date: 02-MAR-07',
-  'RBP2, Instream features, morphology, pools (%)': '; Request Date: 02-MAR-07',
+  'RBP2, Instream features, high water mark':
+    'An estimate of the vertical distance from the bankfall margin of a stream bank to the peak overflow level, as indicated by debris hanging in riparian or floodplain vegetation, and deposition of silt or soil.; Request Date: 02-MAR-07',
+  'RBP2, Instream features, morphology, pools (%)':
+    'An estimated proportion of a stream reach represented by pools in an evaluation of stream morphological types, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Instream features, morphology, riffles (%)':
     '; Request Date: 02-MAR-07',
-  'RBP2, Instream features, morphology, run (%)': '; Request Date: 02-MAR-07',
-  'RBP2, Instream features, sampling reach area': '; Request Date: 02-MAR-07',
+  'RBP2, Instream features, morphology, run (%)':
+    'An estimated proportion of a stream reach represented by runs in an evaluation of stream morphological types, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Instream features, sampling reach area':
+    'An estimate of the sampling reach surface area obtained by multiplying the sampling reach length by the stream width, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Instream features, surface velocity (at thalweg)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, Instream features, total reach area': '; Request Date: 02-MAR-07',
-  'RBP2, Large woody debris, LWD (m2)': '; Request Date: 02-MAR-07',
+    'A measure of the surface velocity in m/sec in the thalweg of a representative run area, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Instream features, total reach area':
+    'An estimate of the sampling reach area measured in cubic meters, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Large woody debris, LWD (m2)':
+    'An estimate of the density of large woody debris (LWD) within a stream measured in square meters, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Large woody debris, density of LWD (LWD/reach area)':
-    '; Request Date: 02-MAR-07',
+    'An estimate of the density of large woody debris (LWD) within a stream expressed as density of LWD in square meters divided by the reach area in square kilometers (m2/Km2), as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Bank Stability, Left Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of stream bank stability (left bank) with respect to erosion or bank failure for low gradient streams, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Bank Stability, Right Bank (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of stream bank stability (right bank) with respect to erosion or bank failure for low gradient streams, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Bank Stability, Sum of L/R Bank Scores (choice list)':
     '; Request Date: 26-AUG-13',
-  'RBP2, Low G, Channel Alteration (choice list)': '; Request Date: 02-MAR-07',
-  'RBP2, Low G, Channel Flow Status (choice list)': '; Request Date: 02-MAR-07',
-  'RBP2, Low G, Channel Sinuosity (choice list)': '; Request Date: 02-MAR-07',
+  'RBP2, Low G, Channel Alteration (choice list)':
+    'A description of the degree of channeling within a low gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Low G, Channel Flow Status (choice list)':
+    'A measure of the amount of exposed channel substrate expressed as a percentage of the total channel area divided by the area of channel bottom covered by water within a low gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Low G, Channel Sinuosity (choice list)':
+    'An assessment of the number and frequency of bends in a low gradient stream expressed as the increase in stream length if the stream was a straight line, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Epifaunal Substrate/Available Cover (choice list)':
-    '; Request Date: 02-MAR-07',
+    'A measure of the percentage of stable substrate that is favorable for epifaunal and fish colonization within a low gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Pool Substrate Characterization (choice list)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, Low G, Pool Variability (choice list)': '; Request Date: 02-MAR-07',
+    'A description of the pool substrate within a low gradient stream, including an assessment of the substrate type, such as gravel, mud, submerged roots, etc., as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Low G, Pool Variability (choice list)':
+    'A measure of the frequency of pools within a low gradient stream with respect to size and depth, including large/deep, large/shallow, small/shallow, or small/deep, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Riparian Veg. Zone Width, Sum of L/R Bank (choice list)':
     '; Request Date: 26-AUG-13',
   'RBP2, Low G, Riparian Vegetative Zone Width, Left Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'The width of undisturbed riparian vegetation on the left bank of a low gradient stream measured in meters, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Riparian Vegetative Zone Width, Right Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
-  'RBP2, Low G, Sediment Deposition (choice list)': '; Request Date: 02-MAR-07',
+    'The width of undisturbed riparian vegetation on the right bank of a low gradient stream measured in meters, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Low G, Sediment Deposition (choice list)':
+    'A measure of sediment deposition as indicated by the formation or expansion of islands and/or point bars within a low gradient stream, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Vegetative Protection, Left Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An assessment of the vegetative protection or vegetative cover of the left streambank surface for a low gradient stream, expressed as a percentage of the left streambank covered by native vegetation, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Vegetative Protection, Right Bank (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'An assessment of the vegetative protection or vegetative cover of the right streambank surface for a low gradient stream, expressed as a percentage of the right streambank covered by native vegetation, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Low G, Vegetative Protection, Sum of L/R Bank Scores (choice list)':
     'Information,4; Request Date: 26-AUG-13',
   'RBP2, Low G, habitat assessment total rating': '; Request Date: 25-MAR-14',
   'RBP2, Low G, habitat assessment total score':
-    'Information,4; Request Date: 02-MAR-07',
+    'A habitat assessment matrix developed for the Rapid Bioassessment Protocols (RBPs) to assess the quality and structure of a low gradient stream habitat, including an evaluation of the variety and quality of the substrate, channel morphology, bank structure, and riparian vegetation. All parameters are rated on a numerical scale then totaled to provide a final habitat ranking, as defined by the sec',
   'RBP2, Mid G, Bank Stability, Left Bank (choice list)':
     '; Request Date: 13-FEB-13',
   'RBP2, Mid G, Bank Stability, Right Bank (choice list)':
@@ -25292,25 +25578,27 @@ export default {
   'RBP2, Mid G, habitat assessment total score':
     'Information,4; Request Date: 13-FEB-13',
   'RBP2, Riparian Vegetation, Dominant Species Present (choice list)':
-    'Information,4; Request Date: 02-MAR-07',
+    'The name of the dominant species present within an 18 meter riparian zone, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Sediment/Substrate, Deposits (choice list)':
-    '; Request Date: 02-MAR-07',
+    'An assessment of the presence or absence of sediment/substrate deposits, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, Sediment/Substrate, Odors (choice list)': '; Request Date: 02-MAR-07',
   'RBP2, Sediment/Substrate, Oils (choice list)': '; Request Date: 02-MAR-07',
   'RBP2, Stream Character, Stream Origin (choice list)':
-    '; Request Date: 02-MAR-07',
+    'The characterization of stream origin characterized as glacial, non-glacial, spring-feed, swam/bog, mixed, or other, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Stream Character, Stream Subsystem (choice list)':
-    '; Request Date: 02-MAR-07',
+    'A characterization of stream flow as intermittent, perennial, or tidal, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Stream Character, Stream Type (choice list)':
     '; Request Date: 02-MAR-07',
-  'RBP2, Stream character, catchment area': '; Request Date: 02-MAR-07',
+  'RBP2, Stream character, catchment area':
+    'A characterization of the stream catchment (pooled or damned) area as coldwater or warmwater, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Substrate, Inorganic, Silt, 0.004-0.06 mm':
     '; Request Date: 02-MAR-07',
   'RBP2, Substrate, Inorganic, boulder, >256 mm': '; Request Date: 02-MAR-07',
   'RBP2, Substrate, inorganic, bedrock': '; Request Date: 02-MAR-07',
-  'RBP2, Substrate, inorganic, clay, <0.004 mm': '; Request Date: 02-MAR-07',
+  'RBP2, Substrate, inorganic, clay, <0.004 mm':
+    'Inorganic substrate consisting of clay particles less than 0.004 mm in size, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Substrate, inorganic, cobble, 64-256 mm': '; Request Date: 02-MAR-07',
   'RBP2, Substrate, inorganic, gravel, 2-64 mm': '; Request Date: 02-MAR-07',
   'RBP2, Substrate, inorganic, sand, 0.06-2.0 mm': '; Request Date: 02-MAR-07',
@@ -25319,8 +25607,9 @@ export default {
   'RBP2, Substrate, organic, marl, grey shell fragments':
     '; Request Date: 02-MAR-07',
   'RBP2, Substrate, organic, muck-mud, black-fine (FPOM)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, Water Quality, Turbidity (choice list)': '; Request Date: 02-MAR-07',
+    'A description of the fine particulate organic matter (FPOM) within a habitat consisting of black, fine muck and mud, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Water Quality, Turbidity (choice list)':
+    'A term to describe the turbidity of a water (if not measured), including clear, opaque, slightly turbid, stained, or turbid, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Water Quality, Water Odors (choice list)': '; Request Date: 02-MAR-07',
   'RBP2, Water Quality, Water Surface Oils (choice list)':
     '; Request Date: 02-MAR-07',
@@ -25330,12 +25619,13 @@ export default {
   'RBP2, Watershed, Predominant Surrounding Landuse (choice list)':
     '; Request Date: 02-MAR-07',
   'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
-    '; Request Date: 02-MAR-07',
-  'RBP2, Weather Condition, Now (choice list)': '; Request Date: 02-MAR-07',
+    'An indication (yes/no) of the presence or absence of heavy rain within 7 days of a habitat assessment, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
+  'RBP2, Weather Condition, Now (choice list)':
+    'The weather conditions (i.e., clear/sunny, rain, etc.) at the time of a habitat assessment, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, Weather Condition, Past 24 Hours (choice list)':
-    '; Request Date: 02-MAR-07',
+    'The weather conditions (i.e., clear/sunny, rain, etc.) 24-hours prior to a habitat assessment, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP2, weather condition, general observation (text)':
-    '; Request Date: 02-MAR-07',
+    'General comments regarding weather conditions during a habitat assessment, as defined by the second Rapid Bioassessment Protocols (RBP2).; Request Date: 02-MAR-07',
   'RBP3, Glide/Pool, Epifaunal Substrate (choice list)':
     '; Request Date: 02-OCT-14',
   'RBP3, Glide/Pool, Instream Cover (choice list)': '; Request Date: 02-OCT-14',
@@ -25356,19 +25646,20 @@ export default {
   Ractopamine: '; Request Date: 09-AUG-16',
   'Radioactive isotopes': 'Nemi.gov; Request Date: 25-SEP-19',
   'Radioactivity rainfall': '',
-  'Radioactivity, gross': '; Request Date: 02-MAR-07',
+  'Radioactivity, gross':
+    'The property of spontaneously emitting radiation, resulting from changes in the nuclei of atoms of an element.; Request Date: 02-MAR-07',
   Radium: '; Request Date: 22-JUL-14',
   'Radium isotopes, alpha emitting': '; Request Date: 10-SEP-14',
   'Radium-223': 'Radium, atomic number 88.; Request Date: 22-JUL-14',
   'Radium-224': 'Radium, atomic number 88.; Request Date: 22-JUL-14',
   'Radium-225':
-    'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
+    'Radium, atomic number 88.; Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Radium-226': 'Radium, atomic number 88.Nemi.gov; Request Date: 22-JUL-14',
   'Radium-226/228': '; Request Date: 02-MAR-07',
   'Radium-228': 'Radium, atomic number 88.Nemi.gov; Request Date: 22-JUL-14',
   Radon:
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
-  'Radon-219': '; Request Date: 23-JAN-15',
+  'Radon-219': 'Radon, atomic number 86.; Request Date: 23-JAN-15',
   'Radon-220':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Radon-222': 'Radon, atomic number 86.; Request Date: 22-JUL-14',
@@ -25401,17 +25692,19 @@ export default {
     'A complex combination of hydrocarbons obtained by subjecting used motor oil to precipitation, filtration, catalytic hydrotreatment and distillation to remove heavy metals and additive components.; Request Date: 02-MAR-07',
   'Relative Air Temperature (choice list)':
     'DDOEE url: http://doee.dc.gov/service/water-district; Request Date: 22-SEP-14',
-  'Relative Density Species': '; Request Date: 06-JUL-13',
+  'Relative Density Species':
+    'The density of a species relative to the total densities of all species.; Request Date: 06-JUL-13',
   'Relative abundance': 'NLA; Request Date: 27-APR-16',
   'Relative humidity':
     'The ratio of the actual amount of moisture in the air and the maximum amount of moisture in the air at a given temperature.; Request Date: 02-MAR-07',
   'Relative percent difference': '',
-  Renocera: 'NWIS',
+  Renocera: 'TAXON: Animalia Kingdom; NWIS',
   Reovirus: 'NWIS',
   'Reoxygenation constant':
     'The amount of oxygen released by aquatic organisms as they oxidize materials in an aquatic environment, expressed as a constant.; Request Date: 02-MAR-07',
   Reproduction: '; Request Date: 12-AUG-09',
-  'Reservoir storage': 'NWIS',
+  'Reservoir storage':
+    'A pond, lake, tank or basin, natural or man-made, used for the storage, regulation and control of water.; NWIS',
   'Reservoir volume':
     'The volume of a pond, lake, tank or basin, natural or man-made, used for the storage, regulation and control of water.; Request Date: 02-MAR-07',
   'Residence/flushing time, waterbody': '; Request Date: 02-MAR-07',
@@ -25429,26 +25722,26 @@ export default {
   'Retinoic acid': 'NWIS',
   Retrorsine: '; Request Date: 22-AUG-17',
   Rhenium: '; Request Date: 22-JUL-14',
-  Rheocricotopus: 'NWIS',
-  Rheopelopia: 'NWIS',
-  Rheotanytarsus: 'NWIS',
+  Rheocricotopus: 'TAXON: Animalia Kingdom; NWIS',
+  Rheopelopia: 'TAXON: Animalia Kingdom; NWIS',
+  Rheotanytarsus: 'TAXON: Animalia Kingdom; NWIS',
   Rhinoglena: 'NWIS',
   'Rhodamine B': '; Request Date: 03-JUL-08',
   'Rhodamine WT':
     'Request Date: 22-JUL-14| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Rhodamine WT (probe)':
-    'Request Date: 3-Mar-07 (nps.gov cas# review)| Physical ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'A probe used to detect the fluorescent tracer dye, Rhodamine WT, in flow analyses testing.; Request Date: 3-Mar-07 (nps.gov cas# review)| Physical; PFOA, Perfluorooctanoic Acid; 1040 ~',
   Rhodium: '; Request Date: 22-JUL-14',
   "Rhodium(1+), [(1,2,5,6-?)-1,5-cyclooctadiene][(2R,2'R,5R,5'R)-1,1'-(3,3,4,4-tetrafluoro-1-cyclobutene-1,2-diyl)bis[2,5-dimethylphospholane-.kappa.P]]-, stereoisomer, tetrafluoroborate(1-) (1:1)":
     '',
   'Rhodium(II) perfluorobutyrate dimer': '',
   'Rhodium-106': 'Rhodium, atomic number 45.; Request Date: 02-MAR-07',
-  Rhyacodrilus: 'NWIS',
-  Rhyacophila: 'NWIS',
-  'Rhyacophila fuscula': 'NWIS',
-  Rhyacophilidae: 'NWIS',
-  Rhynchelmis: 'NWIS',
-  Rhynchobdellida: 'NWIS',
+  Rhyacodrilus: 'TAXON: Animalia Kingdom; NWIS',
+  Rhyacophila: 'TAXON: Animalia Kingdom; NWIS',
+  'Rhyacophila fuscula': 'TAXON: Animalia Kingdom; NWIS',
+  Rhyacophilidae: 'TAXON: Animalia Kingdom; NWIS',
+  Rhynchelmis: 'TAXON: Animalia Kingdom; NWIS',
+  Rhynchobdellida: 'TAXON: Animalia Kingdom; NWIS',
   Rhysophora: 'NWIS',
   Ricin: '',
   'Riffle (with flow) present in reach (Y/N) (choice list)': '',
@@ -25530,10 +25823,10 @@ export default {
     'The gradient or slope of the stream channel, the steeper the gradient, the higher the river/stream velocity.; Request Date: 02-MAR-07',
   Rizatriptan: 'NWIS',
   'Road or Track Disturbance (choice list)': '',
-  Robackia: 'NWIS',
+  Robackia: 'TAXON: Animalia Kingdom; NWIS',
   'Rock Cover (%)': '',
   'Rocky Substrate (choice list)': '; Request Date: 14-MAY-10',
-  Roederiodes: 'NWIS',
+  Roederiodes: 'TAXON: Animalia Kingdom; NWIS',
   Ronnel: '; Request Date: 22-JUL-14',
   'Root Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   'Root weight': '; Request Date: 24-JUL-15',
@@ -25549,15 +25842,15 @@ export default {
   Rotaria: 'NWIS',
   Rotavirus: 'NWIS',
   Rotenone: '; Request Date: 22-JUL-14',
-  Rotifera: 'NWIS',
+  Rotifera: 'TAXON: Animalia Kingdom; NWIS',
   Rousseletia: 'NWIS',
   Roxithromycin: 'Nemi.gov; Request Date: 01-JUL-11',
-  'Rubber cracking': '',
+  'Rubber cracking': 'Emissions derived from rubber cracking.',
   Rubidium: '; Request Date: 02-MAR-07',
   'Rum2Bac DNA marker':
     'Bovine/ovine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681621/',
   Ruthenium: '; Request Date: 22-JUL-14',
-  'Ruthenium Radionuclides': 'NWIS',
+  'Ruthenium Radionuclides': 'Radioisotopes of Ruthenium; NWIS',
   "Ruthenium, [[2-[[bis[3-(trifluoromethyl)phenyl]phosphino-.kappa.P]methyl]-2-methyl-1,3-propanediyl]bis[bis[3-(trifluoromethyl)phenyl]phosphine-.kappa.P]](trifluoroacetato-?O)(trifluoroacetato-.kappa.O,.kappa.O')-, (OC-6-32)-":
     'PFAS removal',
   "Ruthenium, carbonyl(2,2,2-trifluoroacetato-.kappa.O)(2,2,2-trifluoroacetato-.kappa.O,.kappa.O')bis(triphenylphosphine)-":
@@ -25579,8 +25872,8 @@ export default {
   'S-Propan-2-yl pentafluoropropanethioate': '',
   'S-[3,4,4,4-Tetrafluoro-3-(trifluoromethyl)butyl] ethanethioate': '',
   SPAR: 'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
-  Sabellariidae: 'NWIS',
-  Sabellidae: 'NWIS',
+  Sabellariidae: 'TAXON: Animalia Kingdom; NWIS',
+  Sabellidae: 'TAXON: Animalia Kingdom; NWIS',
   Saccharin: '1; Request Date: 10-JUL-13',
   Saflufenacil: '; Request Date: 01-JUL-11',
   Safrole: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -25608,7 +25901,8 @@ export default {
   'Sample location, distance upstream': 'USGS NWIS Pcode: 72105',
   'Sample location, relative to right bank, looking downstream':
     'USGS NWIS Pcode: 72103',
-  'Sample time, elapsed': '; Request Date: 07-JUN-18',
+  'Sample time, elapsed':
+    'The time between the start of the sampling period and the termination of the sample period. This elapsed sample time shall not include periods when the sampler is inoperative due to a temporary interruption of electrical power.; Request Date: 07-JUN-18',
   'Samples, gas': '',
   Sand: '; Request Date: 02-MAR-07',
   'Sand/Substrate Habitat Type (%)': 'Information,4; Request Date: 14-MAY-10',
@@ -25632,22 +25926,24 @@ export default {
   'Scale Focus Radius (Fish)': 'Physical,14; ',
   'Scale Radius (Fish)': 'Physical,14; ',
   Scandium: '; Request Date: 22-JUL-14',
-  'Scandium-46': '; Request Date: 25-MAR-10',
-  'Scaphirhynchus platorynchus': 'NWIS',
-  Scapholeberis: 'NWIS',
-  Scaridium: 'NWIS',
+  'Scandium-46': 'Scandium, atomic number 21.; Request Date: 25-MAR-10',
+  'Scaphirhynchus platorynchus': 'TAXON: Animalia Kingdom; NWIS',
+  Scapholeberis: 'TAXON: Animalia Kingdom; NWIS',
+  Scaridium: 'TAXON: Animalia Kingdom; NWIS',
   Scepanotrocha: 'NWIS',
-  Schoenobius: 'NWIS',
+  Schoenobius: 'TAXON: Animalia Kingdom; NWIS',
   Schradan:
     'Nemi.govRequest Date: 25-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  Sciomyza: 'NWIS',
-  Sciomyzidae: 'NWIS',
-  Scoloplos: 'NWIS',
-  'Scotchgard PM 3622': '',
-  'Scotchgard PM 490': '',
-  'Scotchgard PM 930': '',
-  Scyphozoa: 'NWIS',
-  'Sea waves severity (choice list)': '; Request Date: 02-MAR-07',
+  Sciomyza: 'TAXON: Animalia Kingdom; NWIS',
+  Sciomyzidae: 'TAXON: Animalia Kingdom; NWIS',
+  Scoloplos: 'TAXON: Animalia Kingdom; NWIS',
+  'Scotchgard PM 3622': 'A F-containing water repellent (3M Ltd.)',
+  'Scotchgard PM 490': 'A fluorochemical stain repellant/release agent (3M Co.',
+  'Scotchgard PM 930':
+    'A fluoro-containing water-resistant and oil-resistant modifier (3M)',
+  Scyphozoa: 'TAXON: Animalia Kingdom; NWIS',
+  'Sea waves severity (choice list)':
+    'A one-digit numerical code ranging from 1 to 4 to describe the severity of sea waves.; Request Date: 02-MAR-07',
   'Seagrass Cover (choice list)': '',
   'Seagrass coverage': '; Request Date: 09-MAR-15',
   'Seagrass height': '; Request Date: 09-MAR-15',
@@ -25656,7 +25952,7 @@ export default {
   'Secchi Reading Condition (choice list)': '; Request Date: 28-MAR-13',
   'Secchi, Horizontal Distance':
     'GLEON database url: http://gleon.org/; Request Date: 17-MAR-16',
-  Secernentea: 'NWIS',
+  Secernentea: 'TAXON: Animalia Kingdom; NWIS',
   Secobarbital: 'Secobarbital',
   'Secobarbital-13C4': '',
   'Secobarbital-d5': 'NWIS',
@@ -25668,7 +25964,8 @@ export default {
   'Secondary productivity':
     'Changes in biomass from an initial sample of plankton growth to a final sample collected 96 hours later.; Request Date: 02-MAR-07',
   Sedaxane: '; Request Date: 03-SEP-14',
-  Sediment: '; Request Date: 10-SEP-14',
+  Sediment:
+    'Any material transported by water which will ultimately settle to the bottom after the water loses its transporting power.(; Request Date: 10-SEP-14',
   'Sediment (choice list)': '; Request Date: 07-JUL-17',
   'Sediment Deposition':
     'A measure of sediment deposition as indicated by the formation or expansion of islands and/or point bars within a stream, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 25-AUG-16',
@@ -25682,9 +25979,9 @@ export default {
   'Sediment sample from a reference point':
     'NLA Sediment; Request Date: 27-JUN-16',
   'Sediment, inorganic, classification (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Physical classification of inorganic sediments reported from a controlled list of acceptable values.; Request Date: 02-MAR-07',
   'Sediment, organic, classification (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Physical classification of organic sediments reported from a controlled list of acceptable values.; Request Date: 02-MAR-07',
   'Sediment/ Substrate Odors (choice list)': '; Request Date: 24-AUG-10',
   Seisonidae: 'NWIS',
   Selenate: '1; Request Date: 14-APR-17',
@@ -25694,7 +25991,8 @@ export default {
   'Selenium-75': 'Selenium, atomic number 34.; Request Date: 02-MAR-07',
   'Selenium-77': '',
   'Selenium-78': '',
-  'Selenium-79': 'Nemi.gov; Request Date: 25-SEP-19',
+  'Selenium-79':
+    'Selenium, atomic number 34.; Nemi.gov; Request Date: 25-SEP-19',
   'Selenium-82': '',
   Selenocyanate: '1; Request Date: 14-APR-17',
   Selenomethionine: '1; Request Date: 14-APR-17',
@@ -25704,20 +26002,21 @@ export default {
   'Senecionine N-oxide': '; Request Date: 22-AUG-17',
   Seneciphylline: '; Request Date: 22-AUG-17',
   'Seneciphylline N-oxide': '; Request Date: 22-AUG-17',
-  Sepedon: 'NWIS',
-  Sericostomatidae: 'NWIS',
-  Serpulidae: 'NWIS',
+  Sepedon: 'TAXON: Animalia Kingdom; NWIS',
+  Sericostomatidae: 'TAXON: Animalia Kingdom; NWIS',
+  Serpulidae: 'TAXON: Animalia Kingdom; NWIS',
   Serratia: 'TAXON: Monera kingdom; Request Date: 22-JUL-14',
   Sertraline: '; Request Date: 02-MAR-07',
   'Sertraline-d3': 'NWIS',
   Seston:
     'Total of all particulate matter which is in suspension in water. Seston studies concentrate mainly on phytoplankton, detritus and inorganic particles (e.g., sand).; Request Date: 22-JUL-14',
   Sethoxydim: '; Request Date: 02-MAR-07',
-  Setodes: 'NWIS',
+  Setodes: 'TAXON: Animalia Kingdom; NWIS',
   'Settleable solids':
     'The volume or dry weight of settleable solids in a given volume of water obtained when a well-mixed sample is allowed to stand quiescent for a given period of time.Nemi.gov; Request Date: 02-MAR-07',
   'Sewage algae present (choice list)': '; Request Date: 05-JUL-17',
-  'Sex (choice list)': '; Request Date: 02-MAR-07',
+  'Sex (choice list)':
+    'A descriptor to characterize the sex of a biological organism, including male, female, hermaphrodite or indeterminate.; Request Date: 02-MAR-07',
   'Shade, Left': '; Request Date: 08-JUN-10',
   'Shade, Right': '; Request Date: 08-JUN-10',
   'Shallow excavation, channelized wetland (%)': '',
@@ -25734,10 +26033,10 @@ export default {
   'Shore Type - Stable Bank': 'GRE; Request Date: 01-SEP-16',
   Sida: 'NWIS',
   'Side Channel (Y/N) (choice list)': '; Request Date: 04-OCT-18',
-  Sididae: 'NWIS',
+  Sididae: 'TAXON: Animalia Kingdom; NWIS',
   Siduron: '; Request Date: 22-JUL-14',
   Sierraperla: 'NWIS',
-  Sigalionidae: 'NWIS',
+  Sigalionidae: 'TAXON: Animalia Kingdom; NWIS',
   'Significant wave height': 'NWIS',
   'Significant wave period': 'NWIS',
   'Significant(choice list)': '; Request Date: 03-JUL-08',
@@ -25920,7 +26219,7 @@ export default {
     '',
   'Silver, [1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]-': '',
   'Silver-107': '',
-  'Silver-108': '; Request Date: 25-MAR-10',
+  'Silver-108': 'Silver, atomic number 47.; Request Date: 25-MAR-10',
   'Silver-110': 'Silver, atomic number 47.; Request Date: 22-JUL-14',
   Silvex: 'Nemi.gov; Request Date: 22-JUL-14',
   'Silvex isooctyl ester': '; Request Date: 02-MAR-07',
@@ -25933,12 +26232,12 @@ export default {
   'Similarity, gravid counts': '',
   'Similarity, lengths': '',
   'Similarity, no gravid counts': '',
-  Simocephalus: 'NWIS',
+  Simocephalus: 'TAXON: Animalia Kingdom; NWIS',
   'Simpson Taxonomic Diversity Index': '; Request Date: 02-MAR-07',
-  Simuliidae: 'NWIS',
-  Simulium: 'NWIS',
-  'Simulium venustum': 'NWIS',
-  'Simulium vittatum': 'NWIS',
+  Simuliidae: 'TAXON: Animalia Kingdom; NWIS',
+  Simulium: 'TAXON: Animalia Kingdom; NWIS',
+  'Simulium venustum': 'TAXON: Animalia Kingdom; NWIS',
+  'Simulium vittatum': 'TAXON: Animalia Kingdom; NWIS',
   'Simultaneously extracted metals': '; Request Date: 02-MAR-07',
   'Simultaneously extracted metals minus AVS':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-MAR-16',
@@ -25953,7 +26252,7 @@ export default {
   Simyra: 'NWIS',
   Sinantherina: 'NWIS',
   'Sinuosity length line': '',
-  Sipunculoidea: 'NWIS',
+  Sipunculoidea: 'TAXON: Animalia Kingdom; NWIS',
   Sitagliptin: '; Request Date: 02-FEB-15',
   'Site Disturbance (text)': '',
   'Site Disturbance Evident (choice list)': '',
@@ -25969,7 +26268,7 @@ export default {
   'Site Visit Number': '',
   'Sky Code (CA SWAMP) (choice list)':
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',
-  Slavina: 'NWIS',
+  Slavina: 'TAXON: Animalia Kingdom; NWIS',
   'Slime-forming bacteria': 'NWIS',
   Slope: 'NARS Mobile',
   'Slope Variability (choice list)': '',
@@ -25986,10 +26285,11 @@ export default {
   'Small Gravel 2 - 8 mm': '',
   'Small Gravel 4 - 8 mm': '',
   'Small trees (choice list)': 'NRSA; Request Date: 11-APR-17',
-  Smicridea: 'NWIS',
-  Smithsonidrilus: 'NWIS',
-  Smittia: 'NWIS',
-  Smoke: '',
+  Smicridea: 'TAXON: Animalia Kingdom; NWIS',
+  Smithsonidrilus: 'TAXON: Animalia Kingdom; NWIS',
+  Smittia: 'TAXON: Animalia Kingdom; NWIS',
+  Smoke:
+    'The visible vapor and gases given off by a burning or smoldering substance.',
   Snag: '',
   'Snag surf (choice list)': 'GRE; Request Date: 11-APR-17',
   Snag_diam: 'GRE; Request Date: 01-SEP-16',
@@ -26123,7 +26423,7 @@ export default {
   'Sodium [[2-(dimethylamino)ethyl](1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonyl)amino]acetate':
     '',
   'Sodium adsorption ratio [(Na)/(sq root of 1/2 Ca + Mg)]':
-    '; Request Date: 02-MAR-07',
+    'The Sodium Adsorption Ratio (SAR), is the proportion of sodium (Na) ions compared to the concentration of calcium (Ca) plus magnesium (Mg) in soil.; Request Date: 02-MAR-07',
   'Sodium arsenite':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Sodium bis(1H, 1H, 2H, 2H-[1,2-13C2]perfluorodecyl) phosphate': '',
@@ -26194,12 +26494,13 @@ export default {
   'Sodium tridecyl sulfate': 'NWIS',
   'Sodium undecafluoropentane-1-sulfinate': '',
   'Sodium undecyl sulfate': 'NWIS',
-  'Sodium, Percent Total Cations': '; Request Date: 17-DEC-14',
+  'Sodium, Percent Total Cations':
+    'The proportion of sodium as expressed as a percentage of the total cations.; Request Date: 17-DEC-14',
   'Sodium, di(perfluoroalkyl(C4-18))sulfonatobutanedioic acid': '',
   'Sodium-2-(Perfluorohexyl)ethanethiolate': '',
   'Sodium-22': 'Sodium, atomic number 11.; Request Date: 02-MAR-07',
   'Sodium-23': '',
-  'Sodium-24': '; Request Date: 25-MAR-10',
+  'Sodium-24': 'Sodium, atomic number 11.; Request Date: 25-MAR-10',
   'Soft/Small Sediment Present (Y/N) (choice list)':
     '; Request Date: 04-OCT-18',
   'Soil Color Change after Exposure to Air (Y/N) (choice list)': '',
@@ -26228,13 +26529,14 @@ export default {
     'The amount of exposure to radiation from the sun, measured in a specific locality.; Request Date: 02-MAR-07',
   'Solar radiation': '',
   Solids: 'NWIS',
-  Soliperla: 'NWIS',
+  Soliperla: 'TAXON: Animalia Kingdom; NWIS',
   'Soluble Reactive Phosphorus (SRP)': '; Request Date: 02-MAR-07',
-  Solvents: '; Request Date: 28-SEP-15',
+  Solvents:
+    'Chemical products that are used to dissolve other compounds; typically found in cleaners and used in petrochemical processes.; Request Date: 28-SEP-15',
   Sorbitol: '; Request Date: 02-MAR-07',
   'Sorbitol-fermenting Bifidobacteria': '; Request Date: 21-OCT-15',
   Sotalol: '; Request Date: 22-JUL-14',
-  Specaria: 'NWIS',
+  Specaria: 'TAXON: Animalia Kingdom; NWIS',
   'Species Individual Count (choice list)': '',
   'Species Rank':
     'The assigned risk of a species extinction used to determine conservation priorities.; Request Date: 02-MAR-07',
@@ -26265,19 +26567,20 @@ export default {
   'Specific gravity':
     'The dimensionless ratio of the density of a substance with respect to the density of water. The specific gravity of water is equal to 1.0 by definition.; Request Date: 02-MAR-07',
   'Spectral slope ratio': '1;',
-  Sphaerodoridae: 'NWIS',
-  Sphaeroma: 'NWIS',
-  Sphaeromatidae: 'NWIS',
-  Sphaeromias: 'NWIS',
+  Sphaerodoridae: 'TAXON: Animalia Kingdom; NWIS',
+  Sphaeroma: 'TAXON: Animalia Kingdom; NWIS',
+  Sphaeromatidae: 'TAXON: Animalia Kingdom; NWIS',
+  Sphaeromias: 'TAXON: Animalia Kingdom; NWIS',
   Sphyrias: 'NWIS',
   'Spike Recovery': '; Request Date: 26-AUG-15',
-  Spilogona: 'NWIS',
+  Spilogona: 'TAXON: Animalia Kingdom; NWIS',
   Spinacene: '; Request Date: 07-JAN-13',
   Spinetoram:
     '1H-as-Indaceno[3,2-d]oxacyclododecin-7,15-dione, 2-[(6-deoxy-3-O-ethyl-2,4-di-O-methyl-.alpha.-L-mannopyranosyl)oxy]-13-[[(2R,5S,6R)-5-(dimethylamino)tetrahydro-6-methyl-2H-pyran-2-yl]oxy]-9-ethyl-2,3,3a,4,5,5a,5b,6,9,10,11,12,13,14,16a,16b-hexadecahydro-14-methyl-, (2R,3aR,5aR,5bS,9S,13S,14R,16aS,16bR)-',
-  Spinosad: 'Nemi.gov; Request Date: 25-SEP-19',
+  Spinosad:
+    'A naturally occurring mixture of Spinosyn A and Spinosyn D.; Nemi.gov; Request Date: 25-SEP-19',
   Spintheridae: 'NWIS',
-  Spionidae: 'NWIS',
+  Spionidae: 'TAXON: Animalia Kingdom; NWIS',
   Spirillum: 'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   "Spiro[cyclohexane-1,2'-[1,5,6]triazabicyclo[3.1.0]hexane], 4',4',6'-tris(trifluoromethyl)-":
     '',
@@ -26287,8 +26590,8 @@ export default {
   Spiromesifen: '11;',
   Spirotetramat: '1; Request Date: 08-APR-19',
   'Split Count': '; Request Date: 19-APR-17',
-  Spongilla: 'NWIS',
-  Spongillidae: 'NWIS',
+  Spongilla: 'TAXON: Animalia Kingdom; NWIS',
+  Spongillidae: 'TAXON: Animalia Kingdom; NWIS',
   'Spring Type (choice list)': '',
   'Spring, % Flow Volume Affected by Modification': '',
   'Spring, Channel Count Within 50 Meters': '',
@@ -26312,7 +26615,7 @@ export default {
   'Spring, Visual Estimate of Mixing (choice list)': '',
   Squalene: '; Request Date: 02-SEP-16',
   Squatinella: 'NWIS',
-  Stactobiella: 'NWIS',
+  Stactobiella: 'TAXON: Animalia Kingdom; NWIS',
   'Stannane, [7,7,8,8,9,9,10,10,10-nonafluoro-1,3-bis(4,4,5,5,6,6,7,7,7-nonafluoroheptyl)-2-decen-1-yl]-':
     '',
   'Stannane, butylpropylbis[(2,2,2-trifluoroacetyl)oxy]-': 'PFAS removal',
@@ -26338,29 +26641,31 @@ export default {
   Stavudine: 'NWIS',
   'Stearic acid': '; Request Date: 02-MAR-07',
   Stearonitrile: '; Request Date: 02-MAR-07',
-  'Steel corrosion': '',
-  Stegopterna: 'NWIS',
-  Stempellina: 'NWIS',
-  Stempellinella: 'NWIS',
+  'Steel corrosion':
+    'The rust or other deterioration product of atmospheric chemical reaction with steel.',
+  Stegopterna: 'TAXON: Animalia Kingdom; NWIS',
+  Stempellina: 'TAXON: Animalia Kingdom; NWIS',
+  Stempellinella: 'TAXON: Animalia Kingdom; NWIS',
   'Stendomycin salicylate': '; Request Date: 02-MAR-07',
-  Stenochironomus: 'NWIS',
+  Stenochironomus: 'TAXON: Animalia Kingdom; NWIS',
   Stenocypria: 'NWIS',
-  Stenocypris: 'NWIS',
+  Stenocypris: 'TAXON: Animalia Kingdom; NWIS',
   Stephanoceros: 'NWIS',
-  Sternaspidae: 'NWIS',
-  Stictochironomus: 'NWIS',
+  Sternaspidae: 'TAXON: Animalia Kingdom; NWIS',
+  Stictochironomus: 'TAXON: Animalia Kingdom; NWIS',
   'Stigmast-4-en-3-one': 'NWIS',
   'Stigmastan-3.beta.-ol': 'Nemi.gov; Request Date: 02-MAR-07',
   'Stigmastane, 4-methyl-, (4.alpha.,5.alpha.)-':
     '4alpha-Methyl-24R-ethyl-5alpha(H),14alpha(H),17alpha(H)-cholestane (C30)',
   Stigmastanol: '',
   Stigmasterol: 'Nemi.gov; Request Date: 25-SEP-19',
-  Stilobezzia: 'NWIS',
+  Stilobezzia: 'TAXON: Animalia Kingdom; NWIS',
   'Storage transaction date': '; Request Date: 30-MAY-13',
-  'Storm water flow': 'NWIS',
-  'Straight run wide cut kerosene (petroleum)': '; Request Date: 03-AUG-10',
+  'Storm water flow': 'The flow or movement of storm water.; NWIS',
+  'Straight run wide cut kerosene (petroleum)':
+    'A complex combination of hydrocarbons obtained as a wide cut hydrocarbon fuel cut from atmospheric distillation and boiling in the range of approximately 70&#176;C to 220&#176;C (158&#176;F to 428&#176;F).; Request Date: 03-AUG-10',
   Strandesia: 'NWIS',
-  Stratiomys: 'NWIS',
+  Stratiomys: 'TAXON: Animalia Kingdom; NWIS',
   'Stream Bank Type, Left Bank': '; Request Date: 05-JUL-17',
   'Stream Bank Type, Right Bank': '; Request Date: 05-JUL-17',
   'Stream Bed Color (choice list)': '; Request Date: 24-AUG-10',
@@ -26368,20 +26673,23 @@ export default {
   'Stream Mixing Condition (choice list)': '',
   'Stream Order': '; Request Date: 10-SEP-11',
   'Stream Physical Appearance, Minnesota (choice list)':
-    '; Request Date: 02-MAR-07',
+    'A term to characterize the general physical appearance of a stream, including clear, milky, foamy, muddy, green, and others.; Request Date: 02-MAR-07',
   'Stream Reach Average - Canopy Cover % (Densiometer)':
     '; Request Date: 01-AUG-18',
   'Stream Unit Type (choice list)': '; Request Date: 24-AUG-10',
   'Stream bankfull width': '; Request Date: 09-JUN-15',
-  'Stream condition (text)': '; Request Date: 02-MAR-07',
+  'Stream condition (text)':
+    'Text describing the general condition of a stream.; Request Date: 02-MAR-07',
   'Stream depth (choice list)':
     'National Park Service, contact nps.gov; Request Date: 02-JUN-16',
   'Stream flow': 'NWIS',
   'Stream flow (choice list)': '',
-  'Stream flow, instantaneous': 'NWIS',
+  'Stream flow, instantaneous':
+    'The instantaneous surface stream discharge that occurs in a natural channel.; NWIS',
   'Stream flow, mean. daily': 'NWIS',
   'Stream physical appearance (choice list)': '; Request Date: 02-MAR-07',
-  'Stream recreational suitability (choice list)': '; Request Date: 02-MAR-07',
+  'Stream recreational suitability (choice list)':
+    'An evaluation of a stream with respect to its use for recreational purposes.; Request Date: 02-MAR-07',
   'Stream stage':
     'The stage of a stream, i.e., dry, flood, or normal.; Request Date: 02-MAR-07',
   'Stream velocity (choice list)':
@@ -26411,24 +26719,24 @@ export default {
   Strontium: '; Request Date: 22-JUL-14',
   'Strontium 6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-5-oxooct-3-en-3-olate--water (1/2/1)':
     '',
-  'Strontium Radionuclides': 'NWIS',
-  'Strontium-85': '; Request Date: 25-MAR-10',
+  'Strontium Radionuclides': 'Radioisotopes of Strontium; NWIS',
+  'Strontium-85': 'Strontium, atomic number 38.; Request Date: 25-MAR-10',
   'Strontium-86': '',
   'Strontium-87': 'NWIS',
   'Strontium-87/Strontium-86, ratio': '; Request Date: 02-MAR-07',
   'Strontium-87/strontium-86': '',
-  'Strontium-88': '',
+  'Strontium-88': 'Strontium, atomic number 38.',
   'Strontium-89': 'Strontium, atomic number 38.; Request Date: 22-JUL-14',
   'Strontium-90':
     'Strontium, atomic number 38.Nemi.gov; Request Date: 02-MAR-07',
-  'Strontium-91': '; Request Date: 23-DEC-15',
+  'Strontium-91': 'Strontium, atomic number 38.; Request Date: 23-DEC-15',
   'Strontium-Yttrium-90, beta': '; Request Date: 02-MAR-07',
   'Strontium/calcium ratio': '',
   Strychnine: '; Request Date: 01-APR-15',
-  Stygobromus: 'NWIS',
-  Stygonectes: 'NWIS',
-  Stylaria: 'NWIS',
-  Stylodrilus: 'NWIS',
+  Stygobromus: 'TAXON: Animalia Kingdom; NWIS',
+  Stygonectes: 'TAXON: Animalia Kingdom; NWIS',
+  Stylaria: 'TAXON: Animalia Kingdom; NWIS',
+  Stylodrilus: 'TAXON: Animalia Kingdom; NWIS',
   Styrene: 'Nemi.gov; Request Date: 22-JUL-14',
   'Styrene and o-xylene': '',
   'Styrene oxide': '; Request Date: 02-MAR-07',
@@ -26440,43 +26748,74 @@ export default {
   Subsample_C: 'GLENDA Biological Data Migration; Request Date: 06-JAN-24',
   'Substrate (choice list)': 'NRSA; Request Date: 10-APR-17',
   'Substrate - Woody Debris': '',
-  'Substrate - boulders': '; Request Date: 02-MAR-07',
-  'Substrate - boulders, large': '; Request Date: 02-MAR-07',
-  'Substrate - boulders, medium': '; Request Date: 02-MAR-07',
-  'Substrate - boulders, small': '; Request Date: 02-MAR-07',
-  'Substrate - clay': '; Request Date: 01-APR-13',
-  'Substrate - clay/fine partic. org. matt.': '; Request Date: 02-MAR-07',
-  'Substrate - claypan soil': '; Request Date: 02-MAR-07',
-  'Substrate - cobbles': '; Request Date: 02-MAR-07',
-  'Substrate - cobbles, large': '; Request Date: 02-MAR-07',
-  'Substrate - cobbles, medium': '; Request Date: 02-MAR-07',
-  'Substrate - cobbles, small': '; Request Date: 02-MAR-07',
+  'Substrate - boulders':
+    'A general description of the substrate type within a sampling reach consisting of boulders.; Request Date: 02-MAR-07',
+  'Substrate - boulders, large':
+    'A general description of the substrate type within a sampling reach consisting of large-sized boulders.; Request Date: 02-MAR-07',
+  'Substrate - boulders, medium':
+    'A general description of the substrate type within a sampling reach consisting of medium-sized boulders.; Request Date: 02-MAR-07',
+  'Substrate - boulders, small':
+    'A general description of the substrate type within a sampling reach consisting of small-sized boulders.; Request Date: 02-MAR-07',
+  'Substrate - clay':
+    'A general description of the substrate type within a sampling reach consisting of medium-sized clay.; Request Date: 01-APR-13',
+  'Substrate - clay/fine partic. org. matt.':
+    'A general description of the substrate type within a sampling reach consisting of a mixture of clay and fine particulate organic matter.; Request Date: 02-MAR-07',
+  'Substrate - claypan soil':
+    'A general description of the substrate type within a sampling reach consisting of claypan soil.; Request Date: 02-MAR-07',
+  'Substrate - cobbles':
+    'A general description of the substrate type within a sampling reach consisting of cobbles.; Request Date: 02-MAR-07',
+  'Substrate - cobbles, large':
+    'A general description of the substrate type within a sampling reach consisting of large cobbles.; Request Date: 02-MAR-07',
+  'Substrate - cobbles, medium':
+    'A general description of the substrate type within a sampling reach consisting of medium cobbles.; Request Date: 02-MAR-07',
+  'Substrate - cobbles, small':
+    'A general description of the substrate type within a sampling reach consisting of small cobbles.; Request Date: 02-MAR-07',
   'Substrate - detritus - coarse particulate': '; Request Date: 02-MAR-07',
   'Substrate - fines': '; Request Date: 10-DEC-15',
-  'Substrate - grain size': '; Request Date: 02-MAR-07',
-  'Substrate - gravel': '; Request Date: 02-MAR-07',
-  'Substrate - gravel, coarse': '; Request Date: 02-MAR-07',
-  'Substrate - gravel, fine': '; Request Date: 02-MAR-07',
-  'Substrate - gravel, medium': '; Request Date: 02-MAR-07',
-  'Substrate - gravel, very coarse': '; Request Date: 02-MAR-07',
-  'Substrate - gravel, very fine': '; Request Date: 02-MAR-07',
-  'Substrate - miscellaneous other': '; Request Date: 02-MAR-07',
-  'Substrate - sand': '; Request Date: 02-MAR-07',
-  'Substrate - sand, coarse': '; Request Date: 02-MAR-07',
-  'Substrate - sand, fine': '; Request Date: 02-MAR-07',
-  'Substrate - sand, medium': '; Request Date: 02-MAR-07',
-  'Substrate - sand, very coarse': '; Request Date: 02-MAR-07',
-  'Substrate - sand, very fine': '; Request Date: 02-MAR-07',
+  'Substrate - gravel':
+    'A general description of the substrate type within a sampling reach consisting of gravel.; Request Date: 02-MAR-07',
+  'Substrate - gravel, coarse':
+    'A general description of the substrate type within a sampling reach consisting of coarse gravel.; Request Date: 02-MAR-07',
+  'Substrate - gravel, fine':
+    'A general description of the substrate type within a sampling reach consisting of fine gravel.; Request Date: 02-MAR-07',
+  'Substrate - gravel, medium':
+    'A general description of the substrate type within a sampling reach consisting of medium-sized gravel.; Request Date: 02-MAR-07',
+  'Substrate - gravel, very coarse':
+    'A general description of the substrate type within a sampling reach consisting of very coarse gravel.; Request Date: 02-MAR-07',
+  'Substrate - gravel, very fine':
+    'A general description of the substrate type within a sampling reach consisting of very fine gravel.; Request Date: 02-MAR-07',
+  'Substrate - miscellaneous other':
+    'A description of substrate type within a habitat consisting of substrate type not otherwise listed.; Request Date: 02-MAR-07',
+  'Substrate - sand':
+    'A general description of the substrate type within a sampling reach consisting of sand.; Request Date: 02-MAR-07',
+  'Substrate - sand, coarse':
+    'A general description of the substrate type within a sampling reach consisting of coarse sand.; Request Date: 02-MAR-07',
+  'Substrate - sand, fine':
+    'A general description of the substrate type within a sampling reach consisting of fine sand.; Request Date: 02-MAR-07',
+  'Substrate - sand, medium':
+    'A general description of the substrate type within a sampling reach consisting of medium sand.; Request Date: 02-MAR-07',
+  'Substrate - sand, very coarse':
+    'A general description of the substrate type within a sampling reach consisting of very coarse sand.; Request Date: 02-MAR-07',
+  'Substrate - sand, very fine':
+    'A general description of the substrate type within a sampling reach consisting of very fine sand.; Request Date: 02-MAR-07',
   'Substrate - sediment thickness': '; Request Date: 02-MAR-07',
-  'Substrate - silt': '; Request Date: 02-MAR-07',
+  'Substrate - silt':
+    'A general description of the substrate type within a sampling reach consisting of silt.; Request Date: 02-MAR-07',
   'Substrate - silt clay (<0.0625 mm)': '',
-  'Substrate - silt, coarse': '; Request Date: 02-MAR-07',
-  'Substrate - silt, fine': '; Request Date: 02-MAR-07',
-  'Substrate - silt, medium': '; Request Date: 02-MAR-07',
-  'Substrate - silt, very fine': '; Request Date: 02-MAR-07',
-  'Substrate - silt/clay mix': '; Request Date: 02-MAR-07',
-  'Substrate - submerged logs': '; Request Date: 02-MAR-07',
-  'Substrate - submerged vegetation': 'Information,4; Request Date: 02-MAR-07',
+  'Substrate - silt, coarse':
+    'A general description of the substrate type within a sampling reach consisting of coarse silt.; Request Date: 02-MAR-07',
+  'Substrate - silt, fine':
+    'A general description of the substrate type within a sampling reach consisting of fine silt.; Request Date: 02-MAR-07',
+  'Substrate - silt, medium':
+    'A general description of the substrate type within a sampling reach consisting of medium-sized silt.; Request Date: 02-MAR-07',
+  'Substrate - silt, very fine':
+    'A general description of the substrate type within a sampling reach consisting of very fine silt.; Request Date: 02-MAR-07',
+  'Substrate - silt/clay mix':
+    'A general description of the substrate type within a sampling reach consisting of a mixture of silt and clay.; Request Date: 02-MAR-07',
+  'Substrate - submerged logs':
+    'A description of substrate type within a habitat consisting of submerged logs.; Request Date: 02-MAR-07',
+  'Substrate - submerged vegetation':
+    'A general description of submerged vegetation within a stream habitat.; Request Date: 02-MAR-07',
   'Substrate Description (text)': '; Request Date: 05-SEP-17',
   'Substrate Dominant, Channel (choice list)': '; Request Date: 26-AUG-13',
   'Substrate Dominant, Transect (choice list)': '; Request Date: 26-AUG-13',
@@ -26531,7 +26870,8 @@ export default {
     '',
   'Sulfate-reducing bacteria': 'NWIS',
   Sulfathiazole: 'Nemi.gov; Request Date: 02-MAR-07',
-  'Sulfation rate': '; Request Date: 07-JUN-18',
+  'Sulfation rate':
+    'The rate at which sulfur is converted to sulfate in the air.; Request Date: 07-JUN-18',
   Sulfentrazone: '; Request Date: 01-AUG-13',
   'Sulfentrazone-3-carboxylic acid': '',
   Sulfide: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -26626,7 +26966,7 @@ export default {
   'Sulfur-34': 'Sulfur, atomic number 16.; Request Date: 02-MAR-07',
   'Sulfur-34/Sulfur-32 ratio': '; Request Date: 02-MAR-07',
   'Sulfur-35':
-    'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
+    'Sulfur, atomic number 16.; Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Sulfuric acid':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Sulfuric acid, mono(.gamma.-.omega.-perfluoro-C6-12-alkyl) esters, ammonium salts':
@@ -26668,20 +27008,29 @@ export default {
     'A general classification of surfactants based on the anionic nature of the hydrophilic group of the surfactant molecule.  The anionic groups include carboxylates (soaps), sulphates, sulphonates and phosphates.; Request Date: 02-MAR-07',
   'Surfactants, cationic':
     'A general classification of surfactants based on the cationic nature of the hydrophilic group of the surfactant molecule.  The cationic group is some form of an amine.; Request Date: 02-MAR-07',
-  'Surfactants, ionic mix (anionic + cationic)': '; Request Date: 02-MAR-07',
-  'Surfactants, nonionic mix': '; Request Date: 02-MAR-07',
-  'Surfactants, unspecified mix': '; Request Date: 02-MAR-07',
-  'Surflon S 111': '',
-  'Surflon S 112': '',
-  'Surflon S 113': '',
-  'Surflon S 121': '',
-  'Surflon S 141': '',
-  'Surflon S 381': '',
-  'Surflon S 382': '',
-  'Surflon S 386': '',
-  'Surflon S 393': '',
-  'Surflon S 611': '',
-  'Surflon SC 101': '',
+  'Surfactants, ionic mix (anionic + cationic)':
+    'A certain type of surface active agents which dissociates in a liquid form will result in both positively and negatively charged ions.  This type of surface active agent is called plus or minus ion surfactants. When the hydrogen concentration (pH) of a liquid both ions surfactant is low, it is a cation surfactant; when the pH is high, it is an anion surfactant.; Request Date: 02-MAR-07',
+  'Surfactants, nonionic mix':
+    'A general classification of surfactants based on the non-ionic nature of the hydrophilic group of the surfactant molecule.  The non-ionic group includes the oxygen in polyethylene glycol chains.; Request Date: 02-MAR-07',
+  'Surfactants, unspecified mix':
+    'An unspecified mixture of ionic and non-ionic surface active agents.; Request Date: 02-MAR-07',
+  'Surflon S 111':
+    'A perfluoroalkanoic acid salt anionic surfactant from Asahi Glass Co.',
+  'Surflon S 112': 'A perfluoroalkyl phosphate surfactant (Asahi Glass Co.)',
+  'Surflon S 113': 'An ammonium fluorooctanoate surfactant (Asahi Glass Co.)',
+  'Surflon S 121':
+    'A cationic perfluoroalkyltolylmethylammonium iodide surfactant (Asahi Glass)',
+  'Surflon S 141':
+    'A nonionic perfluoroalkylamine oxide surfactant (Asahi Glass)',
+  'Surflon S 381':
+    'An anionic surfactant composed of a fluoroalkyl group-containing acrylic block oligomer (Asahi Glass)',
+  'Surflon S 382': 'A fluorine-containing surfactant (Asahi Glass)',
+  'Surflon S 386':
+    'A fluorine-containing surfactant (AGC Seimi Chemical Co., Ltd.)',
+  'Surflon S 393': 'A fluorine-containing oligomer (Asahi Glass)',
+  'Surflon S 611':
+    'A perfluoroalkyl-containing oligomer blend (AGC Seimi Chemical Co., Ltd.)',
+  'Surflon SC 101': 'A fluorine-containing surfactant (Asahi Glass Co., Ltd.)',
   'Surrogate Recovery': '; Request Date: 26-AUG-15',
   'Survey Data': '',
   Survival: 'Nemi.gov; Request Date: 03-JUL-08',
@@ -26691,48 +27040,49 @@ export default {
     'The quantity of suspended sediment passing a point in a stream over a specified period of time.  Used to determine contaminant flux in water quality assessments; Request Date: 02-MAR-07',
   'Suspended Sediment Load': '',
   'Suspended particulate': '',
-  Sutroa: 'NWIS',
+  Sutroa: 'TAXON: Animalia Kingdom; NWIS',
   Swep: '; Request Date: 22-JUL-14',
-  Syllidae: 'NWIS',
-  Symbiocladius: 'NWIS',
-  Symphitopsyche: 'NWIS',
-  Sympotthastia: 'NWIS',
+  Syllidae: 'TAXON: Animalia Kingdom; NWIS',
+  Symbiocladius: 'TAXON: Animalia Kingdom; NWIS',
+  Symphitopsyche: 'TAXON: Animalia Kingdom; NWIS',
+  Sympotthastia: 'TAXON: Animalia Kingdom; NWIS',
   Syncaris: 'NWIS',
-  Synchaeta: 'NWIS',
-  Synchaetidae: 'NWIS',
-  Synclita: 'NWIS',
-  Synorthocladius: 'NWIS',
-  Synurella: 'NWIS',
+  Synchaeta: 'TAXON: Animalia Kingdom; NWIS',
+  Synchaetidae: 'TAXON: Animalia Kingdom; NWIS',
+  Synclita: 'TAXON: Animalia Kingdom; NWIS',
+  Synorthocladius: 'TAXON: Animalia Kingdom; NWIS',
+  Synurella: 'TAXON: Animalia Kingdom; NWIS',
   Syringaldehyde: '; Request Date: 02-MAR-07',
   'Syringic acid': 'NWIS',
-  Syrphidae: 'NWIS',
+  Syrphidae: 'TAXON: Animalia Kingdom; NWIS',
   Syrphus: 'NWIS',
   Systenus: 'NWIS',
   'T-2 Mycotoxins': 'Nemi.gov; Request Date: 25-SEP-19',
-  Tabanidae: 'NWIS',
-  Tabanus: 'NWIS',
+  Tabanidae: 'TAXON: Animalia Kingdom; NWIS',
+  Tabanus: 'TAXON: Animalia Kingdom; NWIS',
   Tachytrechus: 'NWIS',
   Tadalafil: '; Request Date: 19-JUN-14',
   'Tail Out Depth': '; Request Date: 29-JUN-10',
-  Talitridae: 'NWIS',
-  Tallaperla: 'NWIS',
+  Talitridae: 'TAXON: Animalia Kingdom; NWIS',
+  Tallaperla: 'TAXON: Animalia Kingdom; NWIS',
   Tamoxifen: '; Request Date: 02-MAR-07',
   'Tamoxifen-d5': '; Request Date: 24-MAR-14',
-  Tanaidacea: 'NWIS',
-  Tanaidae: 'NWIS',
-  Tanais: 'NWIS',
+  Tanaidacea: 'TAXON: Animalia Kingdom; NWIS',
+  Tanaidae: 'TAXON: Animalia Kingdom; NWIS',
+  Tanais: 'TAXON: Animalia Kingdom; NWIS',
   'Tannic acid':
     'Gallic acid derivatives found in nutgalls, bark and other plant parts, especially oak bark.; Request Date: 02-MAR-07',
   'Tannin and Lignin': '; Request Date: 02-MAR-07',
   Tantalum: '; Request Date: 22-JUL-14',
-  Tanyderidae: 'NWIS',
-  Tanypus: 'NWIS',
-  Tanytarsus: 'NWIS',
-  Taphromysis: 'NWIS',
+  Tanyderidae: 'TAXON: Animalia Kingdom; NWIS',
+  Tanypus: 'TAXON: Animalia Kingdom; NWIS',
+  Tanytarsus: 'TAXON: Animalia Kingdom; NWIS',
+  Taphromysis: 'TAXON: Animalia Kingdom; NWIS',
   'Tau-fluvalinate': '; Request Date: 02-MAR-07',
   'Taxa biovolume': 'NLA; Request Date: 09-MAY-16',
   'Taxon Present (Y/N) (choice list)': '; Request Date: 04-MAY-15',
-  'Taxonomic Diversity, Shannon-Weaver Index': '; Request Date: 02-MAR-07',
+  'Taxonomic Diversity, Shannon-Weaver Index':
+    'A statistical measure of biodiversity within an ecosystem. The Shannon-Weaver Index, also known as the Shannon Index or the Shannon-Wiener Index, measures the likelihood that the next observed individual will be the same as the previously observed individual by combining two quantifiable measures, species richness (the number of species in a community) and species equitability (how the number of ',
   'Taxonomic Evenness':
     'The measurement of the regularity of taxonomic distribution.; Request Date: 05-JUL-17',
   'Taxonomic Redundancy':
@@ -26770,18 +27120,20 @@ export default {
   'Tefluthrin acid pentafluorobenzyl ester': '; Request Date: 10-SEP-14',
   Tellurium: '; Request Date: 22-JUL-14',
   'Tellurium-128': 'NWIS',
-  'Tellurium-132': '; Request Date: 23-DEC-15',
-  Telmatogeton: 'NWIS',
-  Telmatoscopus: 'NWIS',
-  Telopelopia: 'NWIS',
+  'Tellurium-132': 'Tellurium, atomic number 52.; Request Date: 23-DEC-15',
+  Telmatogeton: 'TAXON: Animalia Kingdom; NWIS',
+  Telmatoscopus: 'TAXON: Animalia Kingdom; NWIS',
+  Telopelopia: 'TAXON: Animalia Kingdom; NWIS',
   Temazepam: '; Request Date: 22-JUL-14',
   'Temazepam-d5': '; Request Date: 02-FEB-15',
   Tembotrione: '; Request Date: 01-JUL-11',
   Temephos: '; Request Date: 02-MAR-07',
   'Temephos sulfoxide': 'NWIS',
-  Temoridae: 'NWIS',
-  Temperature: 'Nemi.gov; Request Date: 25-SEP-19',
-  'Temperature difference': '; Request Date: 09-JAN-08',
+  Temoridae: 'TAXON: Animalia Kingdom; NWIS',
+  Temperature:
+    'The degree of hotness or coldness of an object as measured in units of degree Centigrade (C), where 0 deg C is equal to the freezing point of water and 100 deg C is equal to the boiling point of water.; Nemi.gov; Request Date: 25-SEP-19',
+  'Temperature difference':
+    'The range of temperature between the maximum and the minimum over a period of time.; Request Date: 09-JAN-08',
   'Temperature, air': 'The air temperature.; Request Date: 02-MAR-07',
   'Temperature, dew point air': '; Request Date: 17-JUN-13',
   'Temperature, hyporheic': '; Request Date: 17-JUN-13',
@@ -26815,7 +27167,7 @@ export default {
   Terbuthylazine: '; Request Date: 22-JUL-14',
   Terbutol: 'NWIS',
   Terbutryn: 'Nemi.gov; Request Date: 22-JUL-14',
-  Terebellidae: 'NWIS',
+  Terebellidae: 'TAXON: Animalia Kingdom; NWIS',
   'Terephthalic acid': '; Request Date: 08-APR-19',
   Terphenyl: '; Request Date: 22-JUL-14',
   'Terphenyl-d14': '; Request Date: 23-APR-15',
@@ -26833,9 +27185,9 @@ export default {
   'Testosterone-2,2,4,6,6-d5': 'Testosterone-2,2,4,6,6-d5',
   'Testosterone-d3': 'NWIS',
   'Testosterone-d5': '; Request Date: 29-MAR-13',
-  Testudinella: 'NWIS',
-  Testudinellidae: 'NWIS',
-  Tetanocera: 'NWIS',
+  Testudinella: 'TAXON: Animalia Kingdom; NWIS',
+  Testudinellidae: 'TAXON: Animalia Kingdom; NWIS',
+  Tetanocera: 'TAXON: Animalia Kingdom; NWIS',
   'Tetra(methoxymethyl)melamine (TMMM)': '; Request Date: 08-MAY-19',
   Tetraacetylethylenediamine: '; Request Date: 02-MAR-07',
   'Tetrabromobisphenol A': '; Request Date: 02-MAR-07',
@@ -26956,8 +27308,8 @@ export default {
   'Tetrapropylammonium perfluorooctanoate': '',
   Tetrasiphon: 'NWIS',
   Tetrasiphonidae: 'NWIS',
-  Tetrastemma: 'NWIS',
-  Tetrastemmatidae: 'NWIS',
+  Tetrastemma: 'TAXON: Animalia Kingdom; NWIS',
+  Tetrastemmatidae: 'TAXON: Animalia Kingdom; NWIS',
   Tetratetracontane: '; Request Date: 02-MAR-07',
   Tetrathionate: 'NWIS',
   'Tetratriacontafluoro-10,13,16,19-tetraoxaoctacosadiene': '',
@@ -26967,7 +27319,7 @@ export default {
     'Request Date: 22-JUL-14| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Thalassomya: 'NWIS',
   Thallium: '; Request Date: 02-MAR-07',
-  'Thallium-201': '; Request Date: 23-JAN-15',
+  'Thallium-201': 'Thallium, atomic number 81.; Request Date: 23-JAN-15',
   'Thallium-205': '',
   'Thallium-208': 'Thallium, atomic number 81.; Request Date: 02-MAR-07',
   'Thalweg Bar Present': '',
@@ -27009,9 +27361,9 @@ export default {
     'The measured thickness of a supernatant layer.; Request Date: 02-MAR-07',
   Thidiazuron: '; Request Date: 02-MAR-07',
   'Thiencarbazone-methyl': '; Request Date: 09-MAR-15',
-  Thienemannia: 'NWIS',
-  Thienemanniella: 'NWIS',
-  Thienemannimyia: 'NWIS',
+  Thienemannia: 'TAXON: Animalia Kingdom; NWIS',
+  Thienemanniella: 'TAXON: Animalia Kingdom; NWIS',
+  Thienemannimyia: 'TAXON: Animalia Kingdom; NWIS',
   'Thieno[3,4-b]thiophene, homopolymer, 2-[1-[difluoro[(1,2,2-trifluoroethenyl)oxy]methyl]-1,2,2,2-tetrafluoroethoxy]-1,1,2,2-tetrafluoroethanesulfonic acid-tetrafluoroethylene polymer-doped':
     '',
   "Thietane, 2,2'-oxybis[4,4-bis(trifluoromethyl)-": '',
@@ -27067,14 +27419,15 @@ export default {
   "Thiourea, N-(2,2,3,3,4,4,4-heptafluorobutyl)-N'-": '',
   Thioxanthone: 'Nemi.gov; Request Date: 25-SEP-19',
   Thiram: '; Request Date: 14-APR-15',
-  'Thorium-227': '; Request Date: 29-NOV-10',
+  'Thorium-227': 'Thorium, atomic number 90.; Request Date: 29-NOV-10',
   'Thorium-228': 'Thorium, atomic number 90.; Request Date: 22-JUL-14',
   'Thorium-230': 'Thorium, atomic number 90.; Request Date: 22-JUL-14',
-  'Thorium-231': '; Request Date: 20-MAR-15',
+  'Thorium-231': 'Thorium, atomic number 90.; Request Date: 20-MAR-15',
   'Thorium-232': 'Nemi.gov; Request Date: 22-JUL-14',
   'Thorium-234': 'Thorium, atomic number 90.; Request Date: 22-JUL-14',
   Thulium: '; Request Date: 22-JUL-14',
-  Thuringiensin: 'Bacillus thuringiensis exotoxin; Request Date: 02-MAR-07',
+  Thuringiensin:
+    'TAXON: Animalia Kingdom; Bacillus thuringiensis exotoxin; Request Date: 02-MAR-07',
   'Thuringiensin, calcium salt': '; Request Date: 02-MAR-07',
   "Thymidine, 5'-O-[[4-(1H,1H,2H,2H-perfluorodecyl)phenyl]bis(4-methoxyphenyl)methyl]-, 3'-[2-cyanoethyl N,N-bis(1-methylethyl)phosphoramidite]":
     '',
@@ -27099,16 +27452,16 @@ export default {
   'Tiller Count': '; Request Date: 04-MAY-15',
   Tilmicosin: '; Request Date: 02-MAR-07',
   Tin: '; Request Date: 02-MAR-07',
-  'Tin-113': '; Request Date: 25-MAR-10',
-  'Tin-117': '',
+  'Tin-113': 'Tin, atomic number 50.; Request Date: 25-MAR-10',
+  'Tin-117': 'Tin, atomic number 50.',
   'Tin-118': '',
-  'Tin-120': '',
+  'Tin-120': 'Tin, atomic number 50.',
   'Tin-San': 'A tributyltin chloride complex.; Request Date: 02-MAR-07',
-  Tinodes: 'NWIS',
+  Tinodes: 'TAXON: Animalia Kingdom; NWIS',
   Tiotropium: '; Request Date: 02-FEB-15',
   'Tiotropium-d3': '',
-  Tipula: 'NWIS',
-  Tipulidae: 'NWIS',
+  Tipula: 'TAXON: Animalia Kingdom; NWIS',
+  Tipulidae: 'TAXON: Animalia Kingdom; NWIS',
   Titanium: '; Request Date: 02-MAR-07',
   'Titanium-47': '',
   Tobrilus: 'NWIS',
@@ -27164,7 +27517,7 @@ export default {
   'Torrent Scouring-There are gravel or cobble berms (little levees) above bankfull level (Y/N) (choice list)':
     '; Request Date: 04-OCT-18',
   Torsemide: 'Torsemide',
-  Tortricidae: 'NWIS',
+  Tortricidae: 'TAXON: Animalia Kingdom; NWIS',
   'Total Atmospheric': '',
   'Total BHCs + Lindane': '; Request Date: 07-NOV-14',
   'Total Brominated Flame Retardants': '',
@@ -27205,7 +27558,7 @@ export default {
   'Total PCBs + PCTs': '; Request Date: 09-AUG-11',
   'Total Particulate Carbon': '; Request Date: 07-MAR-13',
   'Total Particulate Matter':
-    'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+    'The total amount of particulate matter found in a system or a specified area.; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Total Particulate Nitrogen': 'EPA Workgroup QA; Request Date: 07-MAR-13',
   'Total Particulate Organic Carbon': '; Request Date: 07-MAR-13',
   'Total Particulate Organic Nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N and fraction SUSPENDED':
@@ -27232,14 +27585,16 @@ export default {
   'Total Trichloro Biphenyls': '; Request Date: 19-MAY-10',
   'Total Volatile Hydrocarbons, C6-C10': '',
   'Total beta radioactivity': 'Nemi.gov; Request Date: 25-SEP-19',
-  'Total carbon': '; Request Date: 20-JUL-09',
+  'Total carbon':
+    'Total carbon is the sum of inorganic carbon and total organic carbon.; Request Date: 20-JUL-09',
   'Total dissolved solids':
     'The weight of solids remaining after a well-mixed sample has been filtered through a standard glass filter and the resultant filtrate is evaporated and dried to a constant weight at 180 deg C.Nemi.gov; Request Date: 02-MAR-07',
   'Total fixed solids':
     'The weight of solid remaining after a well-mixed sample is evaporated and dried to a constant weight at 103-105 deg C. and then ignited at 550 +/ 50 deg C.; Request Date: 02-MAR-07',
   'Total hardness': '; Request Date: 07-FEB-14',
   'Total microcystins plus nodularins': 'NWIS',
-  'Total nonfecal coliform': '; Request Date: 02-MAR-07',
+  'Total nonfecal coliform':
+    'Rod-shaped bacteria that are widely distributed in the natural environment. They are found in such objects as decomposing vegetation. They are not found in fecal material.; Request Date: 02-MAR-07',
   'Total sample area': 'NLA; Request Date: 27-APR-16',
   'Total solids':
     'The weight of solids remaining after a well-mixed sample is evaporated and dried to a constant weight at 103-105 deg C.; Request Date: 02-MAR-07',
@@ -27283,25 +27638,25 @@ export default {
   'Toxicity water microtox': '; Request Date: 20-JUN-14',
   'Toxicity water norm embryo': '; Request Date: 20-JUN-14',
   'Toxicity, A. abdita, coefficient of variation**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'The measure of relative precision for toxicity, using A. abdita as the test species.; Request Date: 20-JUN-14',
   'Toxicity, A. verrilli, coefficient of variation**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'The measure of relative precision for toxicity, using A. abdita as the test species.; Request Date: 20-JUN-14',
   'Toxicity, Daphnia magna acute**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, E. estuarius, coefficient of variation**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'The measure of relative precision for toxicity, using E. estuarius as the test species.; Request Date: 20-JUN-14',
   'Toxicity, L. plumulosus, coefficient of variation**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'The measure of relative precision for toxicity, using L. plumulosus as the test species.; Request Date: 20-JUN-14',
   'Toxicity, R. abronius, coefficient of variation**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'The measure of relative precision for toxicity, using R. abronius as the test species.; Request Date: 20-JUN-14',
   'Toxicity, sediment, Ampelisca abdita, control survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'TAXON: Animalia Kingdom; Request Date: 20-JUN-14',
   'Toxicity, sediment, Ampelisca abdita, significant (choice list)':
     '; Request Date: 02-MAR-07',
   'Toxicity, sediment, Ampelisca abdita, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, sediment, Ampelisca verrilli, control survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'TAXON: Animalia Kingdom; Request Date: 20-JUN-14',
   'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
     '; Request Date: 02-MAR-07',
   'Toxicity, sediment, Ampelisca verrilli, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
@@ -27309,7 +27664,7 @@ export default {
   'Toxicity, sediment, Arbacia punctulata, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, sediment, Eohaustorius estuarius, control survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'TAXON: Animalia Kingdom; Request Date: 20-JUN-14',
   'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
     '; Request Date: 02-MAR-07',
   'Toxicity, sediment, Eohaustorius estuarius, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
@@ -27317,32 +27672,32 @@ export default {
   'Toxicity, sediment, Hyalella azteca, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, sediment, L.plumulosus, control survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'TAXON: Animalia Kingdom; Request Date: 20-JUN-14',
   'Toxicity, sediment, Leptocheirus plumulosus, significant (choice list)':
     '; Request Date: 02-MAR-07',
   'Toxicity, sediment, Leptocheirus plumulosus, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, sediment, Rhepoxynius abronius, significant (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Animalia Kingdom; Request Date: 02-MAR-07',
   'Toxicity, sediment, Rhepoxynius abronius, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, sediment, Strongylocentrotus purpuratus, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, sediment, microtox, Vibrio fischeri, EC50**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'TAXON: A marine bacterium known primarily for the blue-green bioluminescence it emits when found in high concentrations.; Request Date: 20-JUN-14',
   'Toxicity, sediment, microtox, Vibrio fischeri, significant (choice list)':
     '; Request Date: 02-MAR-07',
   'Toxicity, sediment, species significant (choice list)':
     '; Request Date: 16-JUN-17',
   'Toxicity, water, 100%/ LC50 (% effluent) for Ceriodaphnia**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'A measure of effluent toxicity correlating whole effluent toxicity and diluted effluent at a concentration causing mortality of 50% of the test organism, Ceriodaphnia.; Request Date: 20-JUN-14',
   'Toxicity, water, Ceriodaphnia dubia, LC50**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
-    '; Request Date: 20-JUN-14',
+    'The concentration of a water or effluent sample causing the death of 50% of the test organism, Ceriodaphnia dubia.  A measure of effluent toxicity.; Request Date: 20-JUN-14',
   'Toxicity, water, Strongylocentrotus purpuratus, norm. embryo**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
   'Toxicity, water, microtox, Vibrio fischeri, EC50**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
     '; Request Date: 20-JUN-14',
-  Toxorhynchites: 'NWIS',
+  Toxorhynchites: 'TAXON: Animalia Kingdom; NWIS',
   'Trail Disturbance (choice list)': '',
   Tralkoxydim: '; Request Date: 22-JUL-14',
   'Tralkoxydim acid': '; Request Date: 06-JUN-14',
@@ -27359,7 +27714,8 @@ export default {
   'Transmittance, Horizontal':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Transparency, Secchi tube with disk': '; Request Date: 22-DEC-11',
-  'Transparency, tube with disk': '; Request Date: 02-MAR-07',
+  'Transparency, tube with disk':
+    'A measure of the transparency of water. A tube with a colored disk is lowered into a body of water until it can no longer be seen and the depth recorded (Refer to Secchi disk transparency).; Request Date: 02-MAR-07',
   Transpermethrin: 'Nemi.gov; Request Date: 22-JUL-14',
   'Transphilic fraction of organic carbon': 'NWIS',
   Traseolide: '1;NWIS',
@@ -27376,7 +27732,7 @@ export default {
   'Triacontane-D62': '',
   Triadimefon: 'Nemi.gov; Request Date: 02-MAR-07',
   Triadimenol: 'NWIS',
-  Triaenodes: 'NWIS',
+  Triaenodes: 'TAXON: Animalia Kingdom; NWIS',
   Triallate: '; Request Date: 22-JUL-14',
   'Triamcinolone acetonide': '; Request Date: 08-APR-19',
   Triamterene: '; Request Date: 22-JUL-14',
@@ -27446,14 +27802,14 @@ export default {
   Trichlorosyringol: '1; Request Date: 25-MAR-10',
   Trichlorotrifluoroethane: '; Request Date: 22-JUL-14',
   Trichloroveretrols: '1;',
-  Trichocerca: 'NWIS',
-  Trichocercidae: 'NWIS',
-  Trichocladius: 'NWIS',
+  Trichocerca: 'TAXON: Animalia Kingdom; NWIS',
+  Trichocercidae: 'TAXON: Animalia Kingdom; NWIS',
+  Trichocladius: 'TAXON: Animalia Kingdom; NWIS',
   Trichodrilus: 'NWIS',
   Trichoptera: 'NWIS',
-  Trichotanypus: 'NWIS',
-  Trichotria: 'NWIS',
-  Tricladida: 'NWIS',
+  Trichotanypus: 'TAXON: Animalia Kingdom; NWIS',
+  Trichotria: 'TAXON: Animalia Kingdom; NWIS',
+  Tricladida: 'TAXON: Animalia Kingdom; NWIS',
   Triclocarban:
     '1040;Nemi.govRequest Date: 22-JUL-14| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "Triclocarban (3-4-4'-Trichlorocarbanilide)***retired***use Triclocarban":
@@ -27546,7 +27902,8 @@ export default {
   'Trifluralin-d14 (di-n-propyl-d14)': 'Trifluralin-d14 (di-n-propyl-d14)',
   'Triflusulfuron methyl': 'NWIS',
   Trihalomethane: '',
-  Trihalomethanes: '1; Request Date: 02-MAR-07',
+  Trihalomethanes:
+    'Limited to the following four trihalomethanes: (dichlorobromomethane; chlorodibromomethane; tribromomethane; and chloroform); Request Date: 02-MAR-07',
   'Trihalomethanes (four), total': 'Nemi.gov; Request Date: 25-SEP-19',
   Triiodomethane: 'NWIS',
   Triisopropanolamine: '; Request Date: 02-MAR-07',
@@ -27696,8 +28053,8 @@ export default {
   'Tris[4-(tridecafluorohexyl)phenyl]phosphine': '',
   'Tris[4-[4,4,6,7,7,9,10,10,12,13,13,15,15,15-tetradecafluoro-6,9,12-tris(trifluoromethyl)-2,5,8,11,14-pentaoxapentadec-1-yl]phenyl]phosphine':
     '',
-  Trissocladius: 'NWIS',
-  Trissopelopia: 'NWIS',
+  Trissocladius: 'TAXON: Animalia Kingdom; NWIS',
+  Trissopelopia: 'TAXON: Animalia Kingdom; NWIS',
   'Tris{4-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propyl]phenyl}phosphane':
     '',
   'Tris{4-[3,3,4,4,5,5,5-heptafluoro-2,2-bis(trifluoromethyl)pentyl]phenyl}phosphane':
@@ -27707,28 +28064,29 @@ export default {
   Tritriacontafluoroheptadecanoate: '',
   Tritriacontane: '; Request Date: 02-MAR-07',
   Trochamminidae: 'NWIS',
-  Trochochaetidae: 'NWIS',
+  Trochochaetidae: 'TAXON: Animalia Kingdom; NWIS',
   Trochosphaera: 'NWIS',
   Troglocambarus: 'NWIS',
-  Tropocyclops: 'NWIS',
+  Tropocyclops: 'TAXON: Animalia Kingdom; NWIS',
   'True color': '; Request Date: 02-MAR-07',
   Tryptophan: 'NWIS',
   'Tryptophan, peak T': 'NWIS',
-  Tubifex: 'NWIS',
-  Tubificidae: 'NWIS',
-  Tubulanidae: 'NWIS',
+  Tubifex: 'TAXON: Animalia Kingdom; NWIS',
+  Tubificidae: 'TAXON: Animalia Kingdom; NWIS',
+  Tubulanidae: 'TAXON: Animalia Kingdom; NWIS',
   'Tumors Present (Y/N) (choice list)':
     'National Park Service, contact nps.gov; Request Date: 08-JUN-16',
   Tungsten: '; Request Date: 22-JUL-14',
   'Tungsten, tricarbonyl(.eta.5-2,4-cyclopentadien-1-yl)[tetrahydro-4-methyl-5,5-bis(trifluoromethyl)-3-furanyl]-':
     '',
-  Turbellaria: 'NWIS',
+  Turbellaria: 'TAXON: Animalia Kingdom; NWIS',
   Turbidity:
     'Turbidity is an optical property of the water that causes light to be scattered and absorbed rather than transmitted in straight lines through the sample.Nemi.gov; Request Date: 02-MAR-07',
   'Turbidity Field':
     'Tennessee Department of Environment & Conservation Division of Water Resources (TDECDWR) - Linda Cartwright <Linda.Cartwright@tn.gov>; Request Date: 25-OCT-16',
-  'Turbidity severity (choice list)': '; Request Date: 02-MAR-07',
-  Twinnia: 'NWIS',
+  'Turbidity severity (choice list)':
+    'A descriptor to characterize the turbidity of a water body, including none, mild, moderate, serious, or extreme.; Request Date: 02-MAR-07',
+  Twinnia: 'TAXON: Animalia Kingdom; NWIS',
   Tylosin: 'Nemi.gov; Request Date: 02-MAR-07',
   Tylotrocha: 'NWIS',
   Typhloscolecidae: 'NWIS',
@@ -27746,7 +28104,8 @@ export default {
     'Nemi.gov; Request Date: 02-MAR-07',
   'UV Carbon': '',
   'Ultraviolet Carbon': '',
-  'Ultraviolet radiation': '',
+  'Ultraviolet radiation':
+    'A portion of the electromagnetic spectrum with wavelengths shorter than visible light.',
   'Unconfined Compression': 'Unconfined Compression',
   'Unconfined compressive strength': 'Unconfined compressive strength',
   'Undecafluoro(1,1,1,2,3,3,3-heptafluoropropan-2-yl)cyclohexane': '',
@@ -27804,9 +28163,10 @@ export default {
   'Unnatural turbidity (choice list)': '; Request Date: 02-JUL-19',
   Uranium: '; Request Date: 22-JUL-14',
   'Uranium 238/234 ratio': '; Request Date: 02-MAR-07',
-  'Uranium-232': 'Nemi.gov; Request Date: 25-SEP-19',
+  'Uranium-232':
+    'Uranium, atomic number 92.; Nemi.gov; Request Date: 25-SEP-19',
   'Uranium-233':
-    'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
+    'Uranium, atomic number 92.; Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Uranium-233/234': 'Request Date: 24-Jan-15 (nps.gov cas# review)',
   'Uranium-234': 'Uranium, atomic number 92.; Request Date: 22-JUL-14',
   'Uranium-234/235/238': '; Request Date: 02-MAR-07',
@@ -27816,7 +28176,7 @@ export default {
   'Uranium-236': 'Uranium, atomic number 92.; Request Date: 22-JUL-14',
   'Uranium-238': 'Nemi.gov; Request Date: 22-JUL-14',
   'Uranium-238/uranium-235': '',
-  Uranotaenia: 'NWIS',
+  Uranotaenia: 'TAXON: Animalia Kingdom; NWIS',
   Urea: '; Request Date: 22-JUL-14',
   "Urea, N,N'-bis[[[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]amino]thio]-":
     '',
@@ -27868,8 +28228,9 @@ export default {
   'Vegetative Protection RDB': '; Request Date: 25-AUG-16',
   'Velocity - stream': '; Request Date: 02-MAR-07',
   'Velocity Depth Regime': '; Request Date: 25-AUG-16',
-  'Velocity of intake': '',
-  'Velocity-discharge': '; Request Date: 02-MAR-07',
+  'Velocity of intake': 'The speed with which water is taken into a system.',
+  'Velocity-discharge':
+    'The velocity of discharge measured in meters per second.; Request Date: 02-MAR-07',
   'Venice Salinity Category (choice list)': '; Request Date: 21-JUL-17',
   Venlafaxine: '; Request Date: 10-JUL-13',
   'Venlafaxine hydrochloride': '; Request Date: 22-JUL-14',
@@ -27913,9 +28274,12 @@ export default {
   Violaxanthin: '; Request Date: 22-JUL-14',
   Virginiamycin: '; Request Date: 01-JUL-11',
   'Virginiamycin M1': '; Request Date: 19-MAY-15',
-  Virus: '; Request Date: 02-MAR-07',
-  'Viruses (enteric)': 'NWIS',
-  Visibility: '; Request Date: 04-JUN-15',
+  Virus:
+    'Ultramicroscopic, metabolically inert agents that replicate only within the cells of living hosts. They are composed of an RNA or DNA core, a protein coat, and, in more complex viruses, a surrounding envelope.; Request Date: 02-MAR-07',
+  'Viruses (enteric)':
+    'TAXON: Animalia Kingdom; Viruses of fecal origin which are infectious to humans by waterborne transmission.; NWIS',
+  Visibility:
+    'The distance at which a given object can be seen and identified with the unaided eye.; Request Date: 04-JUN-15',
   'Visible Fat Blobs': '; Request Date: 31-MAR-15',
   'Vitamin A': 'NWIS',
   'Vitamin B12': 'NWIS',
@@ -27925,15 +28289,17 @@ export default {
   'Vitamin E acetate': 'NWIS',
   Vitellogenin: 'NWIS',
   'Volatile Channel': '',
-  'Volatile Dissolved Solids': '; Request Date: 09-JAN-15',
+  'Volatile Dissolved Solids':
+    'The decrease in weight when a well-mixed sample is filtered through a standard glass filter, the resultant filtrate evaporated and dried to a constant weight at 103-105 deg C., and then ignited at 550 +/ 50 deg C. The volatile filterable solids are calculated as the weight of the dried sample before ignition minus the weight of the sample after ignition divided by the sample volume.; 09-JAN-15',
   'Volatile Residue': 'Nemi.gov; Request Date: 25-SEP-19',
   'Volatile Residue - Dissolved': '; Request Date: 08-OCT-19',
   'Volatile organic compounds':
     'Organic compounds readily passed off by evaporation.Nemi.gov; Request Date: 25-SEP-19',
-  'Volatile suspended solids': '; Request Date: 09-MAR-10',
+  'Volatile suspended solids':
+    'The weight of solids lost after a well-mixed sample is filtered through a standard glass filter, the suspended portion is dried to a constant weight at 103-105 deg C., and ignited at 550 +/- 50 deg C. The volatile suspended solids is calculated as the weight of the dried sample before ignition minus the weight of the sample after ignition divided by the sample volume.; Request Date: 09-MAR-10',
   'Volume Storage': '; Request Date: 08-OCT-09',
   'Volume settled': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
-  'Volume, total': '; Request Date: 03-JUL-08',
+  'Volume, total': 'Total volume of wastewater.; Request Date: 03-JUL-08',
   Vomitoxin: 'Vomitoxin',
   Vortioxetine: '',
   Warfarin: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -27960,14 +28326,17 @@ export default {
   'Water level': 'Water level at sample collection time',
   'Water level (probe)': '; Request Date: 02-MAR-07',
   'Water level in relation to reference point': '; Request Date: 06-NOV-12',
-  'Water level in well during pumping, MSL': '; Request Date: 02-MAR-07',
-  'Water level in well, MSL': '; Request Date: 02-MAR-07',
+  'Water level in well during pumping, MSL':
+    'The water level in a well during pumping relative to the mean sea level (MSL).; Request Date: 02-MAR-07',
+  'Water level in well, MSL':
+    'The water level in a well relative to the mean sea level (MSL).; Request Date: 02-MAR-07',
   'Water level in well, depth from a reference point':
     'The measure of depth of water in a well as measured from a specific point of reference.; Request Date: 02-MAR-07',
   'Water level reference point elevation':
     'The elevation of a reference point used to measure the water level of a body of water or well.; Request Date: 02-MAR-07',
   'Water surface slope longitudinally': '',
-  'Water usage': '; Request Date: 14-MAY-14',
+  'Water usage':
+    'The way water is used, e.g., consumptive or nonconsumptive.; Request Date: 14-MAY-14',
   'Waterbody aesthetically degraded (Y/N)': '',
   'Watercraft Observed': '; Request Date: 02-JUL-12',
   'Watershed, predominant surrounding land use':
@@ -27978,11 +28347,12 @@ export default {
   'Weak acids':
     'A substance that partially ionizes in water to give hydrogen ions in solution.; Request Date: 02-MAR-07',
   'Weak, dissociable cyanide': '1;GLENDA - 01/2020',
-  'Weather comments (text)': '; Request Date: 02-MAR-07',
+  'Weather comments (text)':
+    'Text describing weather conditions.; Request Date: 02-MAR-07',
   'Weather condition (WMO code 4501) (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Reported as a WMO code 4501, one-digit numerical code ranging from 1 to 9 to describe weather conditions.; Request Date: 02-MAR-07',
   'Weather condition (WMO code 4677) (choice list)':
-    '; Request Date: 02-MAR-07',
+    'Reported as a WMO code 4677, a two-digit numerical code ranging from 00 to 99 to describe weather conditions.; Request Date: 02-MAR-07',
   'Weather condition past 24 hours': '',
   'Weather condition, now': 'Weather condition past 7 days',
   Weight:
@@ -27997,11 +28367,13 @@ export default {
   'Whirling Disease Present (Y/N) (choice list)': '',
   'White ice thickness':
     'Formed when snow accumulates on ice, melts, and refreezes, and when rain falls on snow creating slush and refreezing',
-  'White mineral oil (petroleum)': '',
-  'Whole effluent toxicity': '; Request Date: 26-JAN-18',
+  'White mineral oil (petroleum)':
+    'A highly refined petroleum mineral oil consisting of a complex combination of hydrocarbons obtained from the intensive treatment of a petroleum fraction with sulfuric acid and oleum, or by hydrogenation, or by a combination of hydrogenation and acid treatment.  Additional washing and treating steps may be included in the processing operation.  It consists of saturated hydrocarbons having carbon ',
+  'Whole effluent toxicity':
+    'A test to determine the toxicity level of a whole effluent from a single source as opposed to a series of tests for individual contaminants.; Request Date: 26-JAN-18',
   Width:
     'The distance from one surface to another surface of an object.; Request Date: 02-MAR-07',
-  Wiedemannia: 'NWIS',
+  Wiedemannia: 'TAXON: Animalia Kingdom; NWIS',
   Wierzejskiella: 'NWIS',
   Wigrella: 'NWIS',
   'Wildlife Trampling or Grazing Disturbance (choice list)': '',
@@ -28012,20 +28384,25 @@ export default {
   'Wind Speed Severity (choice list)':
     'DDOEE url: http://doee.dc.gov/service/water-district; Request Date: 22-SEP-14',
   'Wind direction (direction from, expressed 0-360 deg)':
-    '; Request Date: 02-MAR-07',
+    "The direction of movement of air relative to the earth's surface, usually meaning horizontal air motion.; Request Date: 02-MAR-07",
   'Wind direction from (choice list)': '; Request Date: 29-OCT-18',
   'Wind direction, horizontal': 'NWIS',
-  'Wind direction, horizontal, std dev': 'NWIS',
-  'Wind direction, vertical': '',
+  'Wind direction, horizontal, std dev':
+    "The standard deviation of the direction of air movement relative to the earth's surface in a horizontal direction.; NWIS",
+  'Wind direction, vertical':
+    "The direction of a vertical column of air movement relative to the earth's surface.",
   'Wind force, Beaufort scale':
     'A measure of wind force devised in 1805 by Sir Francis Beaufort equating wave height and wind speed to wind force on a scale of 0 (calm) to 12 (hurricane).; Request Date: 02-MAR-07',
   'Wind gust, peak':
     'Watersheds-based Monitoring and Interoperable Data Platforms; Request Date: 03-OCT-16',
-  'Wind speed, vertical': '',
-  'Wind velocity': '; Request Date: 02-MAR-07',
+  'Wind speed, vertical':
+    "The velocity of air movement relative to the earth's surface in a vertical direction.",
+  'Wind velocity':
+    "The speed of air relative to the earth's surface.; Request Date: 02-MAR-07",
   'Windblown particulate': '',
   Wirthiella: 'NWIS',
-  'Withdrawal rate of ground water': '; Request Date: 02-MAR-07',
+  'Withdrawal rate of ground water':
+    'The rate at which a cooled liquid such as chlorine vaporizes from a container.; Request Date: 02-MAR-07',
   Wolga: 'NWIS',
   'Wood class (choice list)': '; Request Date: 08-JUN-10',
   'Wood creosote':
@@ -28036,10 +28413,10 @@ export default {
   'Woody Understory Grasses (choice list)': '',
   'Woody Understory Type (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Woody Understory shrubs (choice list)': '; Request Date: 03-OCT-18',
-  Wormaldia: 'NWIS',
+  Wormaldia: 'TAXON: Animalia Kingdom; NWIS',
   Wulfertia: 'NWIS',
   Xanthacridinum: '; Request Date: 02-MAR-07',
-  Xenochironomus: 'NWIS',
+  Xenochironomus: 'TAXON: Animalia Kingdom; NWIS',
   Xenon: 'NWIS',
   'Xenon-124': 'NWIS',
   'Xenon-124/Xenon-132 error': 'NWIS',
@@ -28067,12 +28444,12 @@ export default {
   'Xenon-131/Xenon-132 ratio': 'NWIS',
   'Xenon-131/xenon-132': '',
   'Xenon-132': 'NWIS',
-  'Xenon-133': '; Request Date: 23-DEC-15',
+  'Xenon-133': 'Xenon, atomic number 54.; Request Date: 23-DEC-15',
   'Xenon-134': 'NWIS',
   'Xenon-134/Xenon-132 error': 'NWIS',
   'Xenon-134/Xenon-132 ratio': 'NWIS',
   'Xenon-134/xenon-132': '',
-  'Xenon-135': '; Request Date: 23-DEC-15',
+  'Xenon-135': 'Xenon, atomic number 54.; Request Date: 23-DEC-15',
   'Xenon-136': 'NWIS',
   'Xenon-136/Xenon-132 error': 'NWIS',
   'Xenon-136/Xenon-132 ratio': 'NWIS',
@@ -28086,7 +28463,7 @@ export default {
   Xylitol: '; Request Date: 13-NOV-18',
   Xylylcarb: 'NWIS',
   Yersinia: 'TAXON: Monera kingdom; Request Date: 22-JUL-14',
-  Yoraperla: 'NWIS',
+  Yoraperla: 'TAXON: Animalia Kingdom; NWIS',
   Yphria: 'NWIS',
   'Ytterbate(1-), tetrakis(1,1,1,5,5,6,6,7,7,7-decafluoro-2,4-heptanedionato)-, ammonium':
     '',
@@ -28099,19 +28476,19 @@ export default {
     '',
   'Ytterbium, tris[3-[2,2,3,3,4,4,4-heptafluoro-1-(oxo-.beta.O)butyl]-1,7,7-trimethylbicyclo[2.2.1]heptan-2-onato-.beta.O]-':
     '',
-  'Ytterbium-169': '; Request Date: 22-JUL-14',
+  'Ytterbium-169': 'Ytterbium, atomic number 70.; Request Date: 22-JUL-14',
   Yttrium: '; Request Date: 22-JUL-14',
   "Yttrium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.beta.O,.beta.O')-":
     '',
   'Yttrium-90': 'Yttrium, atomic number 39.; Request Date: 02-MAR-07',
-  'Yttrium-91': 'Yttrium-91',
-  'Yttrium-91m': 'NWIS',
+  'Yttrium-91': 'Yttrium, atomic number 39.',
+  'Yttrium-91m': 'Yttrium, atomic number 39.; NWIS',
   'Z-bis(perfluoro-n-hexyl)-1,2-ethylene': '',
   Zafirlukast: 'NWIS',
-  Zalutschia: 'NWIS',
+  Zalutschia: 'TAXON: Animalia Kingdom; NWIS',
   Zanamivir: 'NWIS',
-  Zavrelia: 'NWIS',
-  Zavrelimyia: 'NWIS',
+  Zavrelia: 'TAXON: Animalia Kingdom; NWIS',
+  Zavrelimyia: 'TAXON: Animalia Kingdom; NWIS',
   Zearalenone: 'NWIS',
   Zeaxanthin: '; Request Date: 22-JUL-14',
   Zelinkiella: 'NWIS',
@@ -28123,9 +28500,9 @@ export default {
   'Zinc phosphide': '; Request Date: 22-JUL-14',
   'Zinc, bis(2,2,2-trifluoroacetato-.kappa.O)-,hydrate (1:1)': 'PFAS removal',
   'Zinc, iodo[1,2,2,2,-tetrafluoro-1-(trifluoromethyl)ethyl]-': '',
-  'Zinc-64': '',
+  'Zinc-64': 'Zinc, atomic number 30.',
   'Zinc-65': 'Zinc, atomic number 30.; Request Date: 22-JUL-14',
-  'Zinc-66': '',
+  'Zinc-66': 'Zinc, atomic number 30.',
   'Zinc-67': '',
   'Zinc-68': '',
   Zineb: '; Request Date: 02-MAR-07',
@@ -28145,7 +28522,7 @@ export default {
   'Zooplankton Relative Density': '; Request Date: 10-JUL-13',
   Zopiclone: 'NWIS',
   Zoxamide: 'NWIS',
-  Zumatrichia: 'NWIS',
+  Zumatrichia: 'TAXON: Animalia Kingdom; NWIS',
   '[(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)oxy]acetonitrile': '',
   '[(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)ethynyl]benzene': '',
   '[(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)methyl]benzene': '',
@@ -28315,7 +28692,8 @@ export default {
   'anti-Dechlorane Plus': '',
   'anti-Dodecachloropentacyclooctadecadiene': 'NWIS',
   "ar,ar'-Dimethylbiphenyl": '; Request Date: 02-MAR-07',
-  ashes: '; Request Date: 09-AUG-11',
+  ashes:
+    'The residuum from the burning of a combination of carbonaceous materials.  The following elements may be present as oxides:  aluminum, calcium, iron, magnesium, nickel, phosphorus, potassium, silicon, sulfur, titanium, and vanadium.; Request Date: 09-AUG-11',
   'b-D-galactosidase (corrected for carbon content)':
     '; Request Date: 24-NOV-09',
   'b-D-glucosidase (corrected for carbon content)': '; Request Date: 24-NOV-09',
@@ -28427,7 +28805,7 @@ export default {
   'ethyl 4-chloro-2,2,3,3,4,4-hexafluorobutanoate': '',
   'gamma-Chlordane***retired***use 2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene':
     'Request Date: 11-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)',
-  'gamma-HCH (Lindane)':
+  'gamma-HCH (Lindane)***retired***use Lindane':
     'Request Date: 11-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'heptachlor epoxide A': '; Request Date: 11-OCT-12',
   'heptadecafluoro(1,2,3,4,5-13C5)nonanoic acid': '',
@@ -28492,11 +28870,11 @@ export default {
   'nonadecafluoro(1,2-13C2)decanoic acid': '',
   nonadecafluorodecanamide: '',
   "o,p'-DDD":
-    '1040;Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    '1040;Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "o,p'-DDE":
-    '1040;Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    '1040;Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "o,p'-DDT":
-    'Nemi.govRequest Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Nemi.gov; Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "o,p'-Methoxychlor": 'Nemi.gov; Request Date: 02-MAR-07',
   'o,p-DDD':
     'Request Date: 9-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -28665,7 +29043,7 @@ export default {
   'trans-1,2-Dichloroethene***retired***use trans-1,2-Dichloroethylene':
     '; Request Date: 27-MAR-19',
   'trans-1,2-Dichloroethylene':
-    '1040;Nemi.govRequest Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    '1040;Nemi.gov; Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'trans-1,2-Dichloropropene': '; Request Date: 09-JAN-08',
   'trans-1,2-Dimethylcyclohexane': '; Request Date: 23-APR-14',
   'trans-1,3-Dichloropropene': 'Nemi.gov; Request Date: 02-MAR-07',
