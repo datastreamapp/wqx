@@ -16435,12 +16435,12 @@ export default {
     '3658-63-7',
   'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-octadecafluoro-9-(trifluoromethyl)-, compd. with ethanamine (1:1)':
     '68015-85-0',
-  'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-':
-    '335-76-2',
   'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-, ammonium salt (1:1)':
     '3108-42-7',
   'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-, ethyl ester':
     '33304-55-1',
+  'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-^^^retired***use Perfluorodecanoic acid':
+    '335-76-2',
   'Decanoic acid, 2,2,3,3,4,4,5,5-octafluoropentyl ester': '18798-10-2',
   'Decanoic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
     '27854-31-5',
@@ -16781,6 +16781,7 @@ export default {
   'Didemethyl tebuthiuron': '',
   'Didodecyldimethyl ammonium': '',
   'Didodecyldimethylammonium bromide': '',
+  'Didymo Cover': '',
   Dieldrin: '60-57-1',
   'Dieldrin-13C12': '',
   Diepoxybutane: '1464-53-5',
@@ -23444,6 +23445,7 @@ export default {
   Pericoma: '',
   Perindopril: '',
   Periphyton: '',
+  'Periphyton Cover': '',
   'Periphyton biovolume': '',
   'Periphyton productivity': '',
   'Periphyton, substrate rock/bank encrustation (choice list)': '',
@@ -26359,6 +26361,7 @@ export default {
   Stilobezzia: '',
   'Storage transaction date': '',
   'Storm water flow': '',
+  'Storm water flow (choice list)': '',
   'Straight run wide cut kerosene (petroleum)': '92045-37-9',
   Strandesia: '',
   Stratiomys: '',

@@ -19861,11 +19861,11 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-octadecafluoro-9-(trifluoromethyl)-, compd. with ethanamine (1:1)':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-':
-    'PFAS,Perfluorinated Alkyl Substance',
   'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-, ammonium salt (1:1)':
     'PFAS,Perfluorinated Alkyl Substance',
   'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-, ethyl ester':
+    'PFAS,Perfluorinated Alkyl Substance',
+  'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-^^^retired***use Perfluorodecanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   'Decanoic acid, 2,2,3,3,4,4,5,5-octafluoropentyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -20224,6 +20224,7 @@ export default {
   'Didemethyl tebuthiuron': 'Not Assigned',
   'Didodecyldimethyl ammonium': 'Not Assigned',
   'Didodecyldimethylammonium bromide': 'Not Assigned',
+  'Didymo Cover': 'Not Assigned',
   Dieldrin: 'Organics, Pesticide',
   'Dieldrin-13C12': 'Not Assigned',
   Diepoxybutane: 'Not Assigned',
@@ -27824,6 +27825,7 @@ export default {
   Pericoma: 'Not Assigned',
   Perindopril: 'Not Assigned',
   Periphyton: 'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
+  'Periphyton Cover': 'Not Assigned',
   'Periphyton biovolume':
     'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
   'Periphyton productivity':
@@ -31130,6 +31132,7 @@ export default {
   Stilobezzia: 'Not Assigned',
   'Storage transaction date': 'Physical',
   'Storm water flow': 'Physical',
+  'Storm water flow (choice list)': 'Physical',
   'Straight run wide cut kerosene (petroleum)': 'Physical',
   Strandesia: 'Not Assigned',
   Stratiomys: 'Not Assigned',

@@ -2216,6 +2216,7 @@ export default {
   '8270D LL':
     'USEPA 8270D LL ~ https://www.epa.gov/sites/production/files/2014-03/documents/rawp_progress_report_combined.pdf',
   '8270E': '',
+  '8270E (SIM)': '',
   '8275A': '',
   '8280(S)': ' in Sediment',
   '8280(W)': ' in Water',

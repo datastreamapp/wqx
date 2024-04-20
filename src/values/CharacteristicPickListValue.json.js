@@ -320,6 +320,7 @@ export default {
     'Emergent, aquatic vegetation along bank (choice list)',
     'Emergent, aquatic vegetation in channel (choice list)',
     'Bankful Angle (choice list)',
+    'Storm water flow (choice list)',
     'Spring, Flow Status (choice list)',
     'Sex (choice list)',
     'RBP2, Water Quality, Water Surface Oils (choice list)',

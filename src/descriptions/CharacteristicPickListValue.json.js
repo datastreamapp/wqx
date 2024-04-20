@@ -369,7 +369,8 @@ export default {
   'Substrate Dominant, Transect (choice list)': '',
   'Substrate Dominant, Channel (choice list)': 'Wood',
   'Cloud cover (choice list)': 'Scattered. 10 % to 50 % sky cover.',
-  'Sample collection general mode (choice list)': 'Instream/Wading',
+  'Sample collection general mode (choice list)':
+    'Storm drain, infrastructure designed to drain excess rain and ground water from impervious surfaces such as paved streets, car parks, parking lots, footpaths, sidewalks, and roofs. ',
   'Stream flow (choice list)': 'Moderate',
   'Seagrass Cover (choice list)': '<50% cover',
   'Bank conditions - A': 'Vegetated bank',
@@ -446,6 +447,7 @@ export default {
   'Emergent, aquatic vegetation along bank (choice list)': 'Sparse',
   'Emergent, aquatic vegetation in channel (choice list)': 'Sparse',
   'Bankful Angle (choice list)': 'V - Very Steep',
+  'Storm water flow (choice list)': 'Waterbody / Wetland/ or Stream',
   'Spring, Flow Status (choice list)': 'Still/Pooled',
   'Sex (choice list)': 'Male',
   'RBP2, Water Quality, Water Surface Oils (choice list)': 'Slick',

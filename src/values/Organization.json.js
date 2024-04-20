@@ -565,6 +565,7 @@ export default {
     'FAEC',
     'FBUSER_WQX',
     'FCPOTAWATOMI_WQX',
+    'FIGRWQP',
     'FIIR',
     'FLASIOUX',
     'FLO_SEP',

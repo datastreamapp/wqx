@@ -665,6 +665,7 @@ export default {
     'Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal) || Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal)',
   FCPOTAWATOMI_WQX:
     'Forest County Potawatomi Community || Forest County Potawatomi Community (Tribal)',
+  FIGRWQP: '',
   FIIR: 'Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California || Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California',
   FLASIOUX: '',
   FLO_SEP: 'City of Florence-Siuslaw estuary Partnership',
@@ -1570,7 +1571,7 @@ export default {
   'USGS-AR': '',
   'USGS-MN': 'USGS Minnesota Water Science Center',
   USGSNC: '',
-  USIOUX_WQX: 'Upper Sioux Community || Upper Sioux Community (Tribal)',
+  USIOUX_WQX: '',
   USVI: 'Water Quality Monitoring Data BEACHES',
   USVIST_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
   UT0024384_WQX:
