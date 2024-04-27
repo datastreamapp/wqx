@@ -542,6 +542,7 @@ export default {
   CSAZ: 'City of Scottsdale, Arizona',
   CSC_WQX: '',
   CSH: 'New York',
+  CSHH: '',
   CSKTPESTICIDE_WQX:
     'Confederated Salish and Kootenai Tribes of the Flathead Reservation (Tribal) || Confederated Salish and Kootenai Tribes of the Flathead Reservation (Tribal)',
   CSKTRIBE: '',
@@ -588,8 +589,7 @@ export default {
   DOEE: 'Water Quality Monitoring Data for all the Waters in the state',
   DRBA: 'Dan River Basin Association',
   DRBC: 'Interstate River Basin Commission',
-  DRMPWQX:
-    'Mescalero Apache Tribe DRMP || Mescalero Apache Tribe DRMP (Tribal)',
+  DRMPWQX: 'Region 6 - ENIPC - Mescalero Apache Tribe',
   DRMS: 'Colorado Division of Reclamation, Mining and Safety (DRMS), Inactive Mines Program (IMP)',
   DRN: 'Delaware Riverkeeper Network',
   DUCKWATER:
@@ -966,8 +966,7 @@ export default {
   MESKWAKI_DNR:
     'Meskwaki Department of Natural Resources (Tribal) || Meskwaki Department of Natural Resources (Tribal)',
   METC_WQX: 'Metropolitan Council (Minnesota)',
-  MHA_NATN:
-    'Three Affiliated Tribes: Mandan, Hidatsa, and Arikara Nation || Three Affiliated Tribes: Mandan, Hidatsa, and Arikara Nation (Tribal)',
+  MHA_NATN: '',
   MHA_WQX:
     'Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota (Tribal) || Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota (Tribal)',
   MIAMITRIBEOFOKLAHOMA: '',

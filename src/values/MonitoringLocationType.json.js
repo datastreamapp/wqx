@@ -83,6 +83,7 @@ export default {
     'River/stream Effluent-Dominated',
     'Riverine Impoundment',
     'Seep',
+    'Soil sediment',
     'Source-ManMade',
     'Spigot / Faucet',
     'Spring',

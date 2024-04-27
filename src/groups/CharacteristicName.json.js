@@ -6335,6 +6335,7 @@ export default {
   '17.beta.-Estradiol-13,14,15,16,17,18-13C6': 'Not Assigned',
   '17.beta.-Estradiol-13C6': 'Organics, Other',
   '17.beta.-Estradiol-17-glucuronide': 'Not Assigned',
+  '17.beta.-Estradiol-d3': 'Not Assigned',
   '17.beta.-Estradiol-d4': 'Organics, Other',
   '17.beta.-Estriol 17-sulfate': 'Not Assigned',
   '17.beta.-Estriol 3-sulfate': 'Not Assigned',
@@ -7896,6 +7897,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3- heptafluoropropoxy)-13C3 -propanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid':
+    'Not Assigned',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,4,4-octafluoro-4-sulfobutoxy)propanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2-tetrafluoro-2-sulfoethoxy)propanoic acid':
@@ -11610,6 +11613,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-Nonadecafluoroundec-1-ene':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Heneicosafluoro-1-dodecanesulfonic acid, sodium salt (1:1)':
+    'Not Assigned',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Henicosafluoro-1-dodecanesulfonate anion':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Henicosafluorododecanal':
@@ -15108,6 +15113,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '6-Acetyl-1,1,2,4,4,7-hexamethyltetralin': 'Organics, Other',
   '6-Acetylmorphine': 'Organics, Other',
+  '6-Acetylmorphine-d6': 'Not Assigned',
   '6-Amino-1,1,1,2,2,3,3-heptafluoro-7,7-dimethyloct-5-en-4-one':
     'PFAS,Perfluorinated Alkyl Substance',
   '6-Amino-1H-1,3,5-triazine-2,4-dione': 'Not Assigned',
@@ -15382,7 +15388,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Chloro-perfluorononanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': 'Not Assigned',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd': 'Not Assigned',
+  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd****': 'Not Assigned',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate': 'Not Assigned',
@@ -15558,6 +15564,7 @@ export default {
   Acetaminophen: 'Organics, Other',
   'Acetaminophen-13C2-15N': 'Organics, Other',
   'Acetaminophen-d3': 'Organics, Other',
+  'Acetaminophen-d4': 'Not Assigned',
   Acetamiprid: 'Organics, Pesticide',
   'Acetamiprid-13C6': 'Not Assigned',
   'Acetamiprid-N-Desmethyl': 'Not Assigned',
@@ -16229,6 +16236,7 @@ export default {
   'Amount of Refuse on Banks (choice list)': 'Information',
   Amoxicillin: 'Organics, Other',
   'Amoxicillin trihydrate': 'Not Assigned',
+  'Amoxicillin-d4': 'Not Assigned',
   Amphetamine: 'Organics, Other',
   'Amphetamine-d6': 'Not Assigned',
   'Amphibian presence (choice list)': 'Information',
@@ -18575,7 +18583,7 @@ export default {
   Cadusaphos: 'Not Assigned',
   'Caesium perfluoroheptanoate': 'PFAS,Perfluorinated Alkyl Substance',
   Caffeine: 'Organics, Other',
-  'Caffeine-(trimethyl-13C3)': 'Information',
+  'Caffeine-(trimethyl-13C3)****': 'Information',
   'Caffeine-13C': 'Organics, Other',
   'Caffeine-d9': 'Not Assigned',
   'Caffeine-trimethyl-13C3': 'Organics, Other',
@@ -18624,6 +18632,7 @@ export default {
   'Carbamate pesticides': 'Not Assigned',
   Carbamazepine: 'Organics, Other',
   'Carbamazepine 10,11 epoxide': 'Organics, Pesticide',
+  'Carbamazepine-13C,D2': 'Not Assigned',
   'Carbamazepine-d10': 'Organics, Pesticide',
   "Carbamic acid, N,N'-(4-methyl-1,3-phenylene)bis-, C,C'-bis[2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl] ester":
     'PFAS,Perfluorinated Alkyl Substance',
@@ -18992,6 +19001,7 @@ export default {
     'Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton',
   'Chlorophyll a - Phytoplankton (suspended)':
     'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
+  'Chlorophyll a filter amount': 'Not Assigned',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)':
     'Biological, Algae, Phytoplankton, Photosynthetic Pigments',
   'Chlorophyll a, corrected for pheophytin':
@@ -19186,6 +19196,7 @@ export default {
   'Cocaine hydrochloride': 'Organics, Other',
   'Cocaine-D3': 'Organics, Other',
   Codeine: 'Organics, Other',
+  'Codeine-D3': 'Not Assigned',
   'Codeine-d6': 'Organics, Other',
   'Coefficient of Conservation': 'Information',
   Cohesion: 'Information',
@@ -19199,6 +19210,7 @@ export default {
   'Coliphage, Male Specific (F+) all Groups': 'Microbiological',
   'Coliphage, Somatic': 'Microbiological',
   Color: 'Physical',
+  'Color, Forel-Ule scale (choice list)': 'Not Assigned',
   'Colored dissolved organic matter (CDOM)': 'Physical',
   'Community Loss Index': 'Not Assigned',
   'Compass / Tilt (probe)': 'Physical',
@@ -20364,6 +20376,7 @@ export default {
   Diltiazem: 'Not Assigned',
   'Diltiazem hydrochloride': 'Organics, Other',
   'Diltiazem-d3': 'Not Assigned',
+  'Diltiazem-d6': 'Not Assigned',
   Dimerin: 'Organics, Other',
   Dimethachlor: 'Organics, Pesticide',
   'Dimethachlor ESA': 'Organics, Pesticide',
@@ -20807,6 +20820,7 @@ export default {
   'Estriol-2,4,16,17-d4': 'Not Assigned',
   'Estriol-3-glucuronide': 'Not Assigned',
   'Estriol-3-sulfate': 'Not Assigned',
+  'Estriol-d2': 'Not Assigned',
   'Estriol-d3': 'Organics, Other',
   'Estriol-d4': 'Organics, Other',
   Estrone: 'Organics, Other',
@@ -22346,6 +22360,7 @@ export default {
   'Heptyl sulfate': 'Not Assigned',
   'Herbicide mix, unspecified': 'Organics, Pesticide',
   Herbicides: 'Not Assigned',
+  'Heroin-D9': 'Not Assigned',
   'Heterotrophic bacteria': 'Microbiological',
   Heterotrophs: 'Not Assigned',
   'Hexa(methoxy)methylmelamine (HMMM)': 'Not Assigned',
@@ -22706,6 +22721,7 @@ export default {
   'Hydrolyzable phosphorus plus orthophosphate': 'Not Assigned',
   Hydromorphone: 'Organics, Other',
   'Hydromorphone hydrochloride': 'Organics, Other',
+  'Hydromorphone-D3': 'Not Assigned',
   'Hydronium ion': 'Not Assigned',
   'Hydrophilic fraction of organic carbon': 'Organics, Other',
   'Hydrophobic fraction of organic carbon': 'Organics, Other',
@@ -22737,6 +22753,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Hypochlorous acid, 2,2,3,3-tetrafluoropropyl estser':
     'PFAS,Perfluorinated Alkyl Substance',
+  Hypolimnion: 'Not Assigned',
   Ibandronate: 'Not Assigned',
   'Ibandronic acid-d3': 'Not Assigned',
   Ibuprofen: 'Not Assigned',
@@ -22911,6 +22928,7 @@ export default {
   Iopamidol: 'Not Assigned',
   'Iopamidol-d8': 'Not Assigned',
   Iopromide: 'Not Assigned',
+  'Iopromide-d3': 'Not Assigned',
   Ioxaglate: 'Not Assigned',
   Ioxilan: 'Not Assigned',
   Ioxynil: 'Organics, Pesticide',
@@ -23644,10 +23662,12 @@ export default {
   Methacrylonitrile: 'Organics, Other',
   Methadone: 'Organics, Other',
   'Methadone hydrochloride': 'Not Assigned',
+  'Methadone-D3': 'Not Assigned',
   'Methadone-d9': 'Not Assigned',
   Methamidophos: 'Organics, Pesticide',
   Methamphetamine: 'Organics, Pesticide',
   'Methamphetamine hydrochloride': 'Organics, Other',
+  'Methamphetamine-D8': 'Not Assigned',
   "Methanamine, N,N'-[[[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]amino]borylene]bis[N-methyl-":
     'PFAS,Perfluorinated Alkyl Substance',
   'Methanamine, N-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]-':
@@ -24262,9 +24282,12 @@ export default {
   Montelukast: 'Organics, Other',
   'Montelukast-d6 sodium salt': 'Not Assigned',
   Monuron: 'Organics, Pesticide',
+  'Morphinan-3,6-diol, 7,8-didehydro-4,5-epoxy-17-methyl-(5.alpha.,6.alpha.)-, 3,6-diacetate':
+    'Not Assigned',
   'Morphinan-6-one, 4,5-epoxy-14-hydroxy-3-methoxy-17-methyl-, (5.alpha.)-':
     'Organics, Other',
   Morphine: 'Organics, Other',
+  'Morphine-d6': 'Not Assigned',
   'Morpholine, 2,2,3,3,5,5,6,6-octafluoro-4-(1,1,2,2,2-pentafluoroethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Morpholine, 2,2,3,3,5,5,6,6-octafluoro-4-(1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)-':
@@ -25217,7 +25240,10 @@ export default {
   'N-Ethylperfluoroethanesulfonamide': 'PFAS,Perfluorinated Alkyl Substance',
   'N-Ethylperfluorooctane-1-sulfonamide': 'PFAS,Perfluorinated Alkyl Substance',
   'N-Ethylperfluorooctanesulfonamide': 'Not Assigned',
+  'N-Ethylperfluorooctanesulfonamide (N-EtFOSA) (D5, 98%)': 'Not Assigned',
   'N-Ethylperfluorooctanesulfonamidoacetate': 'Not Assigned',
+  'N-Ethylperfluorooctanesulfonamidoacetic acid (N-EtFOSAA) (N-ethyl-D5, 98%)':
+    'Not Assigned',
   'N-Ethylperfluorooctanesulfonamidoethanol': 'Not Assigned',
   'N-Heptafluorobutyrylproline': 'PFAS,Perfluorinated Alkyl Substance',
   'N-Hexyl-perfluorooctanesulfonamide': 'PFAS,Perfluorinated Alkyl Substance',
@@ -25284,7 +25310,10 @@ export default {
   'N-Methylperfluorooctane sulfonamidoacetic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   'N-Methylperfluorooctanesulfonamide': 'Not Assigned',
+  'N-Methylperfluorooctanesulfonamide (N-MeFOSA) (D3, 98%)': 'Not Assigned',
   'N-Methylperfluorooctanesulfonamidoacetate': 'Not Assigned',
+  'N-Methylperfluorooctanesulfonamidoacetic acid (N-MeFOSAA) (N-methyl-D3, 98%)':
+    'Not Assigned',
   'N-Methylperfluorooctanesulfonamidoethanol': 'Not Assigned',
   'N-Nitroso-N-ethylurea': 'Not Assigned',
   'N-Nitroso-N-methylurea': 'Not Assigned',
@@ -25552,10 +25581,10 @@ export default {
   'N-ethylperfluoro-1-octanesulfonamide': 'PFAS,Perfluorinated Alkyl Substance',
   'N-ethylsulfonylglycine, perfluoroalkyl (C5-10), potassium salt':
     'PFAS,Perfluorinated Alkyl Substance',
-  'N-methyl perfluorooctanesulfonamide': 'Not Assigned',
+  'N-methyl perfluorooctanesulfonamide*****': 'Not Assigned',
   'N-methyl perfluorooctanesulfonamidoacetic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  'N-methyl perfluorooctanesulfonamidoethanol': 'Not Assigned',
+  'N-methyl perfluorooctanesulfonamidoethanol****': 'Not Assigned',
   'N-methyl-N-[(3-octadecyl-2-oxo-4-oxazolidinyl)methyl]perfluorooctanesulfonamide':
     'PFAS,Perfluorinated Alkyl Substance',
   'N-methyl-d3-perfluoro-1-octanesulfonamidoacetic acid': 'Not Assigned',
@@ -25898,6 +25927,7 @@ export default {
   Norcarfentanil: 'Organics, Other',
   'Norcarfentanil (hydrochloride)': 'Not Assigned',
   Nordiazepam: 'Not Assigned',
+  'Nordiazepam-d5': 'Not Assigned',
   Nordoxepin: 'Not Assigned',
   Norethindrone: 'Not Assigned',
   'Norethindrone-2,2,4,6,6,10-d6': 'Not Assigned',
@@ -26330,6 +26360,7 @@ export default {
   'Oxygen-consumption rate': 'Not Assigned',
   Oxymorphone: 'Organics, Other',
   'Oxymorphone glucuronide': 'Organics, Other',
+  'Oxymorphone-D3': 'Not Assigned',
   Oxyphenbutazone: 'Not Assigned',
   Oxytetracycline: 'Organics, Other',
   'Oxytetracycline calcium': 'Organics, Other',
@@ -28019,6 +28050,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   Phenylurea: 'Not Assigned',
   Phenytoin: 'Organics, Other',
+  'Phenytoin-d10': 'Not Assigned',
   Pheophytin: 'Biological, Algae, Cyanobacteria',
   'Pheophytin a': 'Biological, Algae, Cyanobacteria',
   'Pheophytin ratio':
@@ -28967,6 +28999,7 @@ export default {
   'Pravastatin sodium': 'Not Assigned',
   'Pravastatin-d3': 'Not Assigned',
   Prazepam: 'Organics, Other',
+  Praziquantel: 'Not Assigned',
   Precipitation: 'Organics, Other',
   'Precipitation (CA SWAMP) (choice list)': 'Not Assigned',
   'Precipitation 120hr prior to monitoring event amount': 'Not Assigned',
@@ -29000,6 +29033,7 @@ export default {
   'Primary productivity': 'Biological, Primary Production',
   'Primary/ Secondary surrounding landuse (choice list)': 'Information',
   Primidone: 'Organics, Other',
+  'Primidone-d5': 'Not Assigned',
   'Primisulfuron-methyl': 'Organics, Pesticide',
   Prionocera: 'Not Assigned',
   Prionocypris: 'Not Assigned',
@@ -31274,6 +31308,7 @@ export default {
   Sulfamethoxazole: 'Organics, Other',
   'Sulfamethoxazole-(phenyl-13C6)': 'Information',
   'Sulfamethoxazole-13C6': 'Organics, Other',
+  'Sulfamethoxazole-d4': 'Not Assigned',
   Sulfanilamide: 'Not Assigned',
   Sulfapyridine: 'Organics, Other',
   Sulfaquinoxaline: 'Organics, Pesticide',
@@ -31463,6 +31498,7 @@ export default {
   Syrphus: 'Not Assigned',
   Systenus: 'Not Assigned',
   'T-2 Mycotoxins': 'Not Assigned',
+  'TCEP-d12': 'Not Assigned',
   Tabanidae: 'Not Assigned',
   Tabanus: 'Not Assigned',
   Tachytrechus: 'Not Assigned',
@@ -32421,6 +32457,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Tris(1,1,2,2,2-pentafluoroethyl) phosphate':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Tris(1,3-dichloro-2-propyl) Phosphate-d15': 'Not Assigned',
   'Tris(1,3-dichloro-2-propyl)phosphate': 'Organics, Other',
   'Tris(1-chloro-2-propyl) phosphate': 'Organics, Other',
   'Tris(1-chloro-2-propyl)phosphate': 'Organics, Other',
@@ -33539,6 +33576,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'tridecafluoroheptanoyl bromide': 'PFAS,Perfluorinated Alkyl Substance',
   'tris((Perfluoropropyl)methyl) borate': 'PFAS,Perfluorinated Alkyl Substance',
+  'tris(1-Chloropropan-2-yl) phosphate-d18': 'Not Assigned',
   'tris(pentafluoroethyl)phosphine Oxide':
     'PFAS,Perfluorinated Alkyl Substance',
   '{(2-Carboxyethyl)(perfluoropropyl)sulfonyl]amino}-3-betaine':

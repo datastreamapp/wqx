@@ -4710,6 +4710,7 @@ export default {
   '17.beta.-Estradiol-13,14,15,16,17,18-13C6': 'NWIS',
   '17.beta.-Estradiol-13C6': '; Request Date: 29-MAR-13',
   '17.beta.-Estradiol-17-glucuronide': 'NWIS',
+  '17.beta.-Estradiol-d3': '',
   '17.beta.-Estradiol-d4': '; Request Date: 29-MAR-13',
   '17.beta.-Estriol 17-sulfate': 'NWIS',
   '17.beta.-Estriol 3-sulfate': 'NWIS',
@@ -6022,6 +6023,8 @@ export default {
   '2,3,3,3-Tetrafluoro-1-[2,3,5,6-tetrafluoro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)phenyl]-2-(trifluoromethyl)propan-1-one':
     '',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3- heptafluoropropoxy)-13C3 -propanoic acid':
+    '',
+  '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid':
     '',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,4,4-octafluoro-4-sulfobutoxy)propanoic acid':
     '',
@@ -9038,6 +9041,8 @@ export default {
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-Nonadecafluoro-N,N-dimethylundecan-1-amine N-oxide':
     '',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-Nonadecafluoroundec-1-ene': '',
+  '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Heneicosafluoro-1-dodecanesulfonic acid, sodium salt (1:1)':
+    '',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Henicosafluoro-1-dodecanesulfonate anion':
     '',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Henicosafluorododecanal':
@@ -11650,6 +11655,7 @@ export default {
   '6-Acetyl-1,1,2,4,4,7-hexamethyltetralin':
     '1040;Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '6-Acetylmorphine': '; Request Date: 30-MAY-13',
+  '6-Acetylmorphine-d6': '',
   '6-Amino-1,1,1,2,2,3,3-heptafluoro-7,7-dimethyloct-5-en-4-one': '',
   '6-Amino-1H-1,3,5-triazine-2,4-dione': 'NWIS',
   '6-Azido-2,2,3,3,4,4,5,5-octafluoro-2,3,4,5-tetrahydropyridine': '',
@@ -11841,8 +11847,8 @@ export default {
   '9-(Perfluoromethoxy)perfluorononane sulfonic acid': '',
   '9-Chloro-perfluorononanoic acid': '',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': '',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd':
-    '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd',
+  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd****':
+    '9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid; 73606-19-6',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate':
     '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate',
@@ -12028,6 +12034,7 @@ export default {
   Acetaminophen: 'Nemi.gov; Request Date: 02-MAR-07',
   'Acetaminophen-13C2-15N': 'Request Date: 25-Mar-14 (nps.gov cas# review)',
   'Acetaminophen-d3': '; Request Date: 02-FEB-15',
+  'Acetaminophen-d4': '',
   Acetamiprid: '; Request Date: 29-NOV-10',
   'Acetamiprid-13C6': 'NWIS',
   'Acetamiprid-N-Desmethyl': 'Acetamiprid-N-Desmethyl',
@@ -12655,6 +12662,7 @@ export default {
   'Amount of Refuse on Banks (choice list)': '; Request Date: 17-DEC-10',
   Amoxicillin: '1;NWIS',
   'Amoxicillin trihydrate': '; Request Date: 02-MAR-07',
+  'Amoxicillin-d4': '',
   Amphetamine: '; Request Date: 22-JUL-14',
   'Amphetamine-d6': '; Request Date: 02-FEB-15',
   'Amphibian presence (choice list)': '',
@@ -14872,7 +14880,7 @@ export default {
   Cadusaphos: 'NWIS',
   'Caesium perfluoroheptanoate': '',
   Caffeine: 'Nemi.gov; Request Date: 22-JUL-14',
-  'Caffeine-(trimethyl-13C3)': 'Caffeine-(trimethyl-13C3)',
+  'Caffeine-(trimethyl-13C3)****': 'Caffeine-(trimethyl-13C3)',
   'Caffeine-13C': 'Request Date: 30-Mar-13 (nps.gov cas# review)',
   'Caffeine-d9': 'NWIS',
   'Caffeine-trimethyl-13C3': '; Request Date: 22-JUL-14',
@@ -14922,6 +14930,7 @@ export default {
   'Carbamate pesticides': 'Nemi.gov; Request Date: 24-SEP-19',
   Carbamazepine: 'Nemi.gov; Request Date: 22-JUL-14',
   'Carbamazepine 10,11 epoxide': '; Request Date: 17-APR-14',
+  'Carbamazepine-13C,D2': '',
   'Carbamazepine-d10': '; Request Date: 22-JUL-14',
   "Carbamic acid, N,N'-(4-methyl-1,3-phenylene)bis-, C,C'-bis[2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl] ester":
     '',
@@ -15282,6 +15291,8 @@ export default {
     'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review)',
   'Chlorophyll a - Phytoplankton (suspended)':
     'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review)',
+  'Chlorophyll a filter amount':
+    'This is a measurement of the volume of water filtered for their chlorophyll measurement.',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)':
     '; Request Date: 10-APR-17',
   'Chlorophyll a, corrected for pheophytin':
@@ -15481,6 +15492,7 @@ export default {
   'Cocaine hydrochloride': '; Request Date: 22-JUL-14',
   'Cocaine-D3': '; Request Date: 22-JUL-14',
   Codeine: 'Nemi.gov; Request Date: 22-JUL-14',
+  'Codeine-D3': '',
   'Codeine-d6': '; Request Date: 24-MAR-14',
   'Coefficient of Conservation': '',
   Cohesion: 'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
@@ -15497,6 +15509,8 @@ export default {
   'Coliphage, Somatic': '; Request Date: 02-MAR-07',
   Color:
     'An attribute of a substance that results from the light it reflects, transmits, or emits, where this light causes a visual sensation depending on its wavelengths.Nemi.gov; Request Date: 24-SEP-19',
+  'Color, Forel-Ule scale (choice list)':
+    "The Forel-Ule scale is a method to estimate the color of bodies of water. The scale provides a visual estimate of the color of a body of water, and it is used in limnology and oceanography with the aim of measuring the water's transparency and classifying its biological activity, dissolved substances, and suspended sediments.",
   'Colored dissolved organic matter (CDOM)':
     'The presence of colored dissolved organic matter in water affects water quality by reducing the amount of ultraviolet light penetration in the water column.; Request Date: 02-MAR-07',
   'Community Loss Index': '',
@@ -16608,6 +16622,7 @@ export default {
   Diltiazem: 'Nemi.gov; Request Date: 01-JUL-11',
   'Diltiazem hydrochloride': '; Request Date: 22-JUL-14',
   'Diltiazem-d3': '; Request Date: 02-FEB-15',
+  'Diltiazem-d6': '',
   Dimerin: '; Request Date: 22-JUL-14',
   Dimethachlor: '; Request Date: 22-JUL-14',
   'Dimethachlor ESA': '; Request Date: 22-JUL-14',
@@ -16974,7 +16989,7 @@ export default {
   'Endosulfan and Metabolites': '; Request Date: 20-NOV-18',
   'Endosulfan ether': '; Request Date: 10-SEP-14',
   'Endosulfan sulfate': 'Nemi.gov; Request Date: 22-JUL-14',
-  'Endosulfan, alpha':
+  'Endosulfan, alpha***retired***use .alpha.-Endosulfan':
     'Request Date: 11-Jul-17 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Endothall: '; Request Date: 22-JUL-14',
   Endrin: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -17067,6 +17082,7 @@ export default {
   'Estriol-2,4,16,17-d4': 'NWIS',
   'Estriol-3-glucuronide': 'NWIS',
   'Estriol-3-sulfate': 'NWIS',
+  'Estriol-d2': '',
   'Estriol-d3': '; Request Date: 29-MAR-13',
   'Estriol-d4': '; Request Date: 29-MAR-13',
   Estrone: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -18487,6 +18503,7 @@ export default {
     'Any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any plant pest (weed).; Request Date: 02-MAR-07',
   Herbicides:
     'Any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any plant pest (weed).Nemi.gov; Request Date: 25-SEP-19',
+  'Heroin-D9': '',
   'Heterotrophic bacteria':
     'Bacteria capable of utilizing only organic materials as a source of food.; Request Date: 22-JUL-14',
   Heterotrophs: '; Request Date: 01-OCT-19',
@@ -18831,6 +18848,7 @@ export default {
     'NWIS',
   Hydromorphone: '; Request Date: 18-DEC-18',
   'Hydromorphone hydrochloride': '; Request Date: 22-JUL-14',
+  'Hydromorphone-D3': '',
   'Hydronium ion': '',
   'Hydrophilic fraction of organic carbon': 'NWIS',
   'Hydrophobic fraction of organic carbon': 'NWIS',
@@ -18862,6 +18880,8 @@ export default {
   Hydroxyzine: '; Request Date: 02-FEB-15',
   'Hypochlorous acid, 2,2,2-trifluoro-1,1-bis(trifluoromethyl)ethyl ester': '',
   'Hypochlorous acid, 2,2,3,3-tetrafluoropropyl estser': '',
+  Hypolimnion:
+    'This is the depth the hypolimnion sample that was taken at  that lake on that day',
   Ibandronate: 'NWIS',
   'Ibandronic acid-d3': '',
   'Ibuprofen***retired***use Benzeneacetic acid, .alpha.-methyl-4-(2-methylpropyl)-':
@@ -19043,6 +19063,7 @@ export default {
   Iopamidol: '; Request Date: 24-MAR-14',
   'Iopamidol-d8': '; Request Date: 24-MAR-14',
   Iopromide: '; Request Date: 04-MAR-16',
+  'Iopromide-d3': '',
   Ioxaglate: 'NWIS',
   Ioxilan: 'NWIS',
   Ioxynil: '; Request Date: 22-JUL-14',
@@ -19817,10 +19838,12 @@ export default {
   Methacrylonitrile: 'Nemi.gov; Request Date: 22-JUL-14',
   Methadone: '; Request Date: 30-MAY-13',
   'Methadone hydrochloride': '; Request Date: 08-APR-19',
+  'Methadone-D3': '',
   'Methadone-d9': '; Request Date: 02-FEB-15',
   Methamidophos: '; Request Date: 22-JUL-14',
   Methamphetamine: '1; Request Date: 08-MAY-15',
   'Methamphetamine hydrochloride': '; Request Date: 22-JUL-14',
+  'Methamphetamine-D8': '',
   "Methanamine, N,N'-[[[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]amino]borylene]bis[N-methyl-":
     '',
   'Methanamine, N-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]-': '',
@@ -20342,9 +20365,12 @@ export default {
   Montelukast: '; Request Date: 30-MAY-13',
   'Montelukast-d6 sodium salt': 'NWIS',
   Monuron: '; Request Date: 22-JUL-14',
+  'Morphinan-3,6-diol, 7,8-didehydro-4,5-epoxy-17-methyl-(5.alpha.,6.alpha.)-, 3,6-diacetate':
+    '',
   'Morphinan-6-one, 4,5-epoxy-14-hydroxy-3-methoxy-17-methyl-, (5.alpha.)-':
     '; Request Date: 05-DEC-12',
   Morphine: '; Request Date: 22-JUL-14',
+  'Morphine-d6': '',
   'Morpholine, 2,2,3,3,5,5,6,6-octafluoro-4-(1,1,2,2,2-pentafluoroethyl)-': '',
   'Morpholine, 2,2,3,3,5,5,6,6-octafluoro-4-(1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)-':
     '',
@@ -21100,7 +21126,11 @@ export default {
   'N-Ethylperfluoroethanesulfonamide': '',
   'N-Ethylperfluorooctane-1-sulfonamide': '',
   'N-Ethylperfluorooctanesulfonamide': '',
+  'N-Ethylperfluorooctanesulfonamide (N-EtFOSA) (D5, 98%)':
+    '98% is WeightBasis',
   'N-Ethylperfluorooctanesulfonamidoacetate': '',
+  'N-Ethylperfluorooctanesulfonamidoacetic acid (N-EtFOSAA) (N-ethyl-D5, 98%)':
+    '98% is WeightBasis',
   'N-Ethylperfluorooctanesulfonamidoethanol': '',
   'N-Heptafluorobutyrylproline': '',
   'N-Hexyl-perfluorooctanesulfonamide': '',
@@ -21145,7 +21175,11 @@ export default {
   'N-Methylperfluorooctane sulfonamido ethanol': '',
   'N-Methylperfluorooctane sulfonamidoacetic acid': '',
   'N-Methylperfluorooctanesulfonamide': '',
+  'N-Methylperfluorooctanesulfonamide (N-MeFOSA) (D3, 98%)':
+    '98% is WeightBasis',
   'N-Methylperfluorooctanesulfonamidoacetate': '',
+  'N-Methylperfluorooctanesulfonamidoacetic acid (N-MeFOSAA) (N-methyl-D3, 98%)':
+    '98% is WeightBasis',
   'N-Methylperfluorooctanesulfonamidoethanol': '',
   'N-Nitroso-N-ethylurea': '; Request Date: 02-MAR-07',
   'N-Nitroso-N-methylurea': '; Request Date: 02-MAR-07',
@@ -21354,9 +21388,10 @@ export default {
   'N-ethylperfluoro-1-octanesulfonamide***retired***use Sulfluramid':
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   'N-ethylsulfonylglycine, perfluoroalkyl (C5-10), potassium salt': '',
-  'N-methyl perfluorooctanesulfonamide': 'N-methyl perfluorooctanesulfonamide',
+  'N-methyl perfluorooctanesulfonamide*****':
+    'N-methyl perfluorooctanesulfonamide',
   'N-methyl perfluorooctanesulfonamidoacetic acid': 'Request Date: 09-MAY-17',
-  'N-methyl perfluorooctanesulfonamidoethanol':
+  'N-methyl perfluorooctanesulfonamidoethanol****':
     'N-methyl perfluorooctanesulfonamidoethanol',
   'N-methyl-N-[(3-octadecyl-2-oxo-4-oxazolidinyl)methyl]perfluorooctanesulfonamide':
     '',
@@ -21702,6 +21737,7 @@ export default {
   Norcarfentanil: '; Request Date: 06-AUG-18',
   'Norcarfentanil (hydrochloride)': '; Request Date: 29-OCT-18',
   Nordiazepam: '; Request Date: 02-FEB-15',
+  'Nordiazepam-d5': '',
   Nordoxepin: '; Request Date: 02-MAR-07',
   'Norethindrone***retired***use Norethisterone': '; Request Date: 31-OCT-19',
   'Norethindrone-2,2,4,6,6,10-d6': 'NWIS',
@@ -22117,6 +22153,7 @@ export default {
   'Oxygen-consumption rate': '',
   Oxymorphone: '; Request Date: 22-JUL-14',
   'Oxymorphone glucuronide': '; Request Date: 30-MAY-13',
+  'Oxymorphone-D3': '',
   Oxyphenbutazone: 'NWIS',
   Oxytetracycline: 'Nemi.gov; Request Date: 02-MAR-07',
   'Oxytetracycline calcium': '; Request Date: 02-MAR-07',
@@ -23704,6 +23741,7 @@ export default {
   Phenylurea: 'NWIS',
   Phenytoin:
     'Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Phenytoin-d10': '',
   Pheophytin: 'Biological,2; ',
   'Pheophytin a': 'Biological,2; Request Date: 02-MAR-07',
   'Pheophytin ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
@@ -24576,6 +24614,7 @@ export default {
   'Pravastatin sodium': '; Request Date: 08-APR-19',
   'Pravastatin-d3': '',
   Prazepam: '; Request Date: 22-JUL-14',
+  Praziquantel: '',
   Precipitation:
     'Rain, snow or sleet that falls from clouds.; Request Date: 02-MAR-07',
   'Precipitation (CA SWAMP) (choice list)':
@@ -24625,6 +24664,7 @@ export default {
   'Primary/ Secondary surrounding landuse (choice list)':
     '; Request Date: 24-AUG-10',
   Primidone: '; Request Date: 30-MAY-13',
+  'Primidone-d5': '',
   'Primisulfuron-methyl':
     'EPA Substance Registry System - www.epa.gov/srs; Request Date: 22-MAY-18',
   Prionocera: 'TAXON: Animalia Kingdom; NWIS',
@@ -26863,6 +26903,7 @@ export default {
   Sulfamethoxazole: 'Nemi.gov; Request Date: 02-MAR-07',
   'Sulfamethoxazole-(phenyl-13C6)': 'Sulfamethoxazole-(phenyl-13C6)',
   'Sulfamethoxazole-13C6': '; Request Date: 22-JUL-14',
+  'Sulfamethoxazole-d4': '',
   Sulfanilamide: 'Nemi.gov; Request Date: 10-JUL-13',
   Sulfapyridine: '',
   Sulfaquinoxaline: '; Request Date: 22-JUL-14',
@@ -27065,6 +27106,7 @@ export default {
   Syrphus: 'NWIS',
   Systenus: 'NWIS',
   'T-2 Mycotoxins': 'Nemi.gov; Request Date: 25-SEP-19',
+  'TCEP-d12': '',
   Tabanidae: 'TAXON: Animalia Kingdom; NWIS',
   Tabanus: 'TAXON: Animalia Kingdom; NWIS',
   Tachytrechus: 'NWIS',
@@ -28010,6 +28052,7 @@ export default {
   'Tris((perfluorohexyl)ethyl)stannane': '',
   'Tris(1,1,1,2,3,3-hexafluoropropan-2-yl) borate': '',
   'Tris(1,1,2,2,2-pentafluoroethyl) phosphate': '',
+  'Tris(1,3-dichloro-2-propyl) Phosphate-d15': '',
   'Tris(1,3-dichloro-2-propyl)phosphate': 'Nemi.gov; Request Date: 02-MAR-07',
   'Tris(1-chloro-2-propyl) phosphate':
     'Request Date: 04-MAR-16| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -29088,6 +29131,7 @@ export default {
     '',
   'tridecafluoroheptanoyl bromide': '',
   'tris((Perfluoropropyl)methyl) borate': '',
+  'tris(1-Chloropropan-2-yl) phosphate-d18': '',
   'tris(pentafluoroethyl)phosphine Oxide': '',
   '{(2-Carboxyethyl)(perfluoropropyl)sulfonyl]amino}-3-betaine': '',
   '{(2-Carboxyethyl)[(perfluorodecyl)sulfonyl]amino}-3-betaine': '',

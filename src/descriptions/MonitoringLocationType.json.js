@@ -148,6 +148,8 @@ export default {
   'Riverine Impoundment':
     'Impoundments (also known as reservoirs) are artificially created standing water bodies, produced by dams on streams or rivers.',
   Seep: "A moist or wet place where water, usually groundwater, reaches the earth's surface from an underground aquifer.",
+  'Soil sediment':
+    'The unconsolidated mineral or organic material on the immediate surface of the Earth that serves as a natural medium for the growth of land plants',
   'Source-ManMade':
     'Industrial, agricultural, stormwater, sewer/septic, discharge/pipe, lagoon, or other source',
   'Spigot / Faucet':

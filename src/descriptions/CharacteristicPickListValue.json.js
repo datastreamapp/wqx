@@ -199,6 +199,7 @@ export default {
     'Optimal, > 50% of substrate favorable for colonization',
   'Wave height (WMO code 1555) (choice list)':
     'Description, WMO Code=9, wave height=4.5m',
+  'Hydrologic Stressors: Corrugated Pipe (choice list)': 'Least stressful',
   'Hydrologic Stressors: Box (choice list)': 'Least stressful',
   'Hydrologic Stressors: Ditches (choice list)': 'Least stressful',
   'Hydrologic Stressors: Channelized Streams (choice list)': 'Least stressful',
@@ -220,6 +221,7 @@ export default {
   'Hydrologic Stressors: Water supply (choice list)': 'Least stressful',
   'Hydrologic Influence: Overbank flooding (choice list)': 'Least influential',
   'Anthropogenic stream alteration (choice list)': 'Other',
+  'Color, Forel-Ule scale (choice list)': '2.5 G 4/8',
   'Wood class (choice list)':
     'Moderate to large amt of wood present; excellent cover',
   'Sediment, inorganic, classification (choice list)':
@@ -253,7 +255,6 @@ export default {
   'Hydrologic Stressors: Excavation/Dredging (choice list)': 'Least stressful',
   'Hydrologic Stressors: Sewer outfall (choice list)': 'Least stressful',
   'Hydrologic Stressors: Standpipe outflow (choice list)': 'Least stressful',
-  'Hydrologic Stressors: Corrugated Pipe (choice list)': 'Least stressful',
   'Filamentous Algae covering streambed (choice list)':
     'filamentous algae observed to cover 76-100% of streambed',
   'Macrophytes covering streambed (emergent and submerged) (choice list)':
@@ -309,12 +310,12 @@ export default {
   'Stream Physical Appearance, Minnesota (choice list)':
     'Cloudy brown from sediment and green from algae growth',
   'RBP Channel Sinuosity (choice list)': 'CHANNELIZED - Self describing.',
-  'Bank Instability Erosion Class (choice list)':
-    'No actively eroding, near vertical cut-banks along channels or pools of geomorphic surface',
-  'Rill/Gully Erosion Class (choice list)':
-    'No removal of soil along drainage lines due to surface run-off of geomorphic surface',
   'Pedestal Development Erosion Class (choice list)':
     'No elevated surfaces within spring perimeter have lost connection to groundwater level of geomorphic surface',
+  'Rill/Gully Erosion Class (choice list)':
+    'No removal of soil along drainage lines due to surface run-off of geomorphic surface',
+  'Bank Instability Erosion Class (choice list)':
+    'No actively eroding, near vertical cut-banks along channels or pools of geomorphic surface',
   'RBP Embeddedness (choice list)': '<25% GRAVL - Self describing.',
   'RBP Channel Flow Status (choice list)': 'MINIMAL EXP. - Self describing.',
   'RBP Bank Stability, Right (choice list)': '<5% - Self describing.',
