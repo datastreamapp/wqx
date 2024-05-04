@@ -148,8 +148,6 @@ export default {
   'Riverine Impoundment':
     'Impoundments (also known as reservoirs) are artificially created standing water bodies, produced by dams on streams or rivers.',
   Seep: "A moist or wet place where water, usually groundwater, reaches the earth's surface from an underground aquifer.",
-  'Soil sediment':
-    'The unconsolidated mineral or organic material on the immediate surface of the Earth that serves as a natural medium for the growth of land plants',
   'Source-ManMade':
     'Industrial, agricultural, stormwater, sewer/septic, discharge/pipe, lagoon, or other source',
   'Spigot / Faucet':
@@ -160,6 +158,8 @@ export default {
     'A Facility to measure systematically concentrations of pollutants in ambient air. Synonym: Air quality measurement station.',
   'Storm Sewer':
     'A system designed to carry rainfall runoff and other drainage.',
+  'Stream sediment':
+    'A naturally occurring material that is broken down by processes of weathering and erosion, and is subsequently transported by the action of wind, water, or ice or by the force of gravity acting on the particles.',
   Subtidal: 'Refers to the area where the seabed is below the lowest tide',
   Sump: 'A sump is a shallow borehole (no well construction) that intersects the water table',
   'Survey Monument':

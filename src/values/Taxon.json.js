@@ -10610,6 +10610,7 @@ export default {
     'Coradion fulvocinctus***retired***use Coradion altivelis',
     'Coradion melanopus',
     'Corallianassa borradailei',
+    'Corallimorpharia',
     'Corallinaceae',
     'Corallinales',
     'Coralliocaris graminea',

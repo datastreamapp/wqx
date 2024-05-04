@@ -37,7 +37,7 @@ export default {
   'Filtered, lab':
     'Performed in the lab. Pertains to constituents in a sample passed through a membrane or fibrous filter.',
   Fixed:
-    'That portion of the analyte found in the liquid layer above a precipitate produced from the sample.',
+    '(of an element) taken into a compound from its free state. nonvolatile, or not easily volatilized',
   'Free Available':
     'The concentration of residual substance present as dissolved gas, and not combined with any substance or in other less readily available form.',
   Inorganic: 'Inorganic content of sample',
