@@ -43,6 +43,8 @@ export default {
   Inorganic: 'Inorganic content of sample',
   Leachable:
     'An analyte capable of being removed from a substance by a percolating liquid.',
+  'Net (Hot)':
+    'Indicates the whole effluent toxicity of substance and dissolved substance ',
   'Non-Filterable (Particle)':
     'That portion of the analyte which is extracted from the SAMPLE medium by filtration.',
   'Non-settleable':

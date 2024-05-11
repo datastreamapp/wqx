@@ -767,7 +767,6 @@ export default {
           'Methylarsonic acid',
           'Methylene chloride',
           'Methylglyoxal',
-          'Metochlor ESA***',
           'Metolachlor',
           'Metolachlor ESA',
           'Metribuzin',

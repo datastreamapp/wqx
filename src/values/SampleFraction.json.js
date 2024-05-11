@@ -27,6 +27,7 @@ export default {
     'Free Available',
     'Inorganic',
     'Leachable',
+    'Net (Hot)',
     'Non-Filterable (Particle)',
     'Non-settleable',
     'Non-volatile',

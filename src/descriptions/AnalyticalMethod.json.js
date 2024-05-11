@@ -3269,6 +3269,40 @@ export default {
     'http://www.vetmed.ucdavis.edu/cahfs/local-assets/pdfs/Toxicology-tests-2-12-2010.pdf',
   'DTOX-02-703t':
     'http://www.vetmed.ucdavis.edu/cahfs/local-assets/pdfs/Toxicology-tests-2-12-2010.pdf',
+  'Dickson SOP 1':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 11':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 12':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 13':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 14':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 2':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 21':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 22':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 23':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 24':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 3a':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 3b':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 4':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 5':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 6a':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 6b':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
+  'Dickson SOP 7':
+    'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
   'E-1192-97':
     'E-1192-97 ~ ASTM . Acute Toxicity Tests for Water with Fishes, Macroinvertebrates, and Amphibians',
   'E-SPEC(CMPX)': '',

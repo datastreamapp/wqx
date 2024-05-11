@@ -18615,7 +18615,6 @@ export default {
   Cadusaphos: 'Not Assigned',
   'Caesium perfluoroheptanoate': 'PFAS,Perfluorinated Alkyl Substance',
   Caffeine: 'Organics, Other',
-  'Caffeine-(trimethyl-13C3)****': 'Information',
   'Caffeine-13C': 'Organics, Other',
   'Caffeine-d9': 'Not Assigned',
   'Caffeine-trimethyl-13C3': 'Organics, Other',
@@ -21617,6 +21616,7 @@ export default {
   Farnesol: 'Organics, Other',
   'Fast Riffle': 'Information',
   'Fathead minnow, larval growth and survival': 'Not Assigned',
+  'Fats, oils, grease': 'Not Assigned',
   'Fatty acids, C18-unsatd., dimers, 2-[methyl[(perfluoro-C4-8-alkyl)sulfonyl]amino]ethyl esters':
     'PFAS,Perfluorinated Alkyl Substance',
   "Fatty acids, C18-unsatd., dimers, diisocyanates, polymers with 2,3-bis(.gamma.-.omega.-perfluoro-C4-18-alkyl)-1,4-butanediol, 1,6-diisocyanato-2,2,4(or 2,4,4)-trimethylhexane and 2,2'-(methylimino)bis[ethanol]":
@@ -24249,7 +24249,7 @@ export default {
   Meticrane: 'Not Assigned',
   Metiram: 'Organics, Pesticide',
   Metobromuron: 'Not Assigned',
-  'Metochlor ESA***': 'Organics, Pesticide',
+  'Metochlor ESA': 'Not Assigned',
   Metolachlor: 'Organics, Pesticide',
   'Metolachlor ESA': 'Organics, Other',
   'Metolachlor OA': 'Organics, Pesticide',
@@ -25666,7 +25666,6 @@ export default {
   'N-ethylperfluoro-1-octanesulfonamide': 'PFAS,Perfluorinated Alkyl Substance',
   'N-ethylsulfonylglycine, perfluoroalkyl (C5-10), potassium salt':
     'PFAS,Perfluorinated Alkyl Substance',
-  'N-methyl perfluorooctanesulfonamide*****': 'Not Assigned',
   'N-methyl perfluorooctanesulfonamidoacetic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   'N-methyl-N-[(3-octadecyl-2-oxo-4-oxazolidinyl)methyl]perfluorooctanesulfonamide':
@@ -26809,6 +26808,7 @@ export default {
   'Particle size, 1.5 inch (37.5mm)': 'Physical',
   'Particle size, 1.5 inch (38.1mm)': 'Physical',
   'Particle size, 1/2 inch (12.5mm)': 'Physical',
+  'Particle size, 1/4 inch (6.3mm)': 'Not Assigned',
   'Particle size, 2 inch, (50.80mm)': 'Physical',
   'Particle size, 2 inch, (50mm)': 'Physical',
   'Particle size, 3 inch, (75.0mm)': 'Physical',

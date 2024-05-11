@@ -15307,7 +15307,6 @@ export default {
   Cadusaphos: '',
   'Caesium perfluoroheptanoate': '171198-24-6',
   Caffeine: '58-08-2',
-  'Caffeine-(trimethyl-13C3)****': '78072-66-9',
   'Caffeine-13C': '202282-98-2',
   'Caffeine-d9': '',
   'Caffeine-trimethyl-13C3': '78072-66-9',
@@ -17975,6 +17974,7 @@ export default {
   Farnesol: '4602-84-0',
   'Fast Riffle': '',
   'Fathead minnow, larval growth and survival': '',
+  'Fats, oils, grease': '',
   'Fatty acids, C18-unsatd., dimers, 2-[methyl[(perfluoro-C4-8-alkyl)sulfonyl]amino]ethyl esters':
     '306974-63-0',
   "Fatty acids, C18-unsatd., dimers, diisocyanates, polymers with 2,3-bis(.gamma.-.omega.-perfluoro-C4-18-alkyl)-1,4-butanediol, 1,6-diisocyanato-2,2,4(or 2,4,4)-trimethylhexane and 2,2'-(methylimino)bis[ethanol]":
@@ -20386,7 +20386,7 @@ export default {
   Meticrane: '',
   Metiram: '9006-42-2',
   Metobromuron: '3060-89-7',
-  'Metochlor ESA***': '',
+  'Metochlor ESA': '',
   Metolachlor: '51218-45-2',
   'Metolachlor ESA': '171118-09-5',
   'Metolachlor OA': '152019-73-3',
@@ -21583,7 +21583,6 @@ export default {
   'N-ethylperfluoro-1-octanesulfonamide': '4151-50-2',
   'N-ethylsulfonylglycine, perfluoroalkyl (C5-10), potassium salt':
     '190605-64-2',
-  'N-methyl perfluorooctanesulfonamide*****': '31506-32-8',
   'N-methyl perfluorooctanesulfonamidoacetic acid': '2355-31-9',
   'N-methyl-N-[(3-octadecyl-2-oxo-4-oxazolidinyl)methyl]perfluorooctanesulfonamide':
     '348144-85-4',
@@ -22658,6 +22657,7 @@ export default {
   'Particle size, 1.5 inch (37.5mm)': '',
   'Particle size, 1.5 inch (38.1mm)': '',
   'Particle size, 1/2 inch (12.5mm)': '',
+  'Particle size, 1/4 inch (6.3mm)': '',
   'Particle size, 2 inch, (50.80mm)': '',
   'Particle size, 2 inch, (50mm)': '',
   'Particle size, 3 inch, (75.0mm)': '',
