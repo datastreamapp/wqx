@@ -11866,8 +11866,6 @@ export default {
   '9-(Perfluoromethoxy)perfluorononane sulfonic acid': '',
   '9-Chloro-perfluorononanoic acid': '',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': '',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd****':
-    '9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid; 73606-19-6',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate':
     '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate',
@@ -14106,6 +14104,8 @@ export default {
     '',
   'Bicyclo[2.2.1]heptan-2-one, 3-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     '',
+  'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-':
+    'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-': '',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-, (1S,4R)-':
     '',
@@ -23376,7 +23376,7 @@ export default {
   'Perfluorobicyclo-(4.4.0)-dec-1,6-ene': '',
   'Perfluorobutane sulfonamide amino carboxylates': '',
   'Perfluorobutane sulfonamido betaine carboxylic acid': '',
-  'Perfluorobutane sulfonate': 'NWIS',
+  'Perfluorobutane sulfonate***retired***use Perfluorobutanesulfonate': 'NWIS',
   'Perfluorobutanesulfinyl chloride': '',
   'Perfluorobutanesulfonamido betaine carboxylate': '',
   Perfluorobutanesulfonate: 'Request Date: 22-JUL-14',
@@ -23818,7 +23818,8 @@ export default {
   Phenylbutazone: 'NWIS',
   'Phenylcarbamic acid--3,3-dichloro-2,2,3-trifluoropropan-1-ol (1/1)': '',
   'Phenylmercapturic acid': 'NWIS',
-  Phenylnaphthalene: '; Request Date: 23-APR-15',
+  'Phenylnaphthalene***retired**use 1-Phenylnaphthalene':
+    '; Request Date: 23-APR-15',
   Phenylpropanolamine: '; Request Date: 22-JUL-14',
   'Phenylpropanolamine hydrochloride':
     'Request Date: 05-DEC-12| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',

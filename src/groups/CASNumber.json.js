@@ -12454,7 +12454,6 @@ export default {
   '9-(Perfluoromethoxy)perfluorononane sulfonic acid': '',
   '9-Chloro-perfluorononanoic acid': '865-79-2',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': '',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd****': '756426-58-1',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate': '',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
@@ -14540,6 +14539,7 @@ export default {
     '52260-98-7',
   'Bicyclo[2.2.1]heptan-2-one, 3-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     '35444-15-6',
+  'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-': '20536-40-7',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-':
     '82947-63-5',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-, (1S,4R)-':
@@ -23713,7 +23713,7 @@ export default {
   'Phenylcarbamic acid--3,3-dichloro-2,2,3-trifluoropropan-1-ol (1/1)':
     '66185-64-6',
   'Phenylmercapturic acid': '',
-  Phenylnaphthalene: '35465-71-5',
+  'Phenylnaphthalene***retired**use 1-Phenylnaphthalene': '',
   Phenylpropanolamine: '14838-15-4',
   'Phenylpropanolamine hydrochloride': '154-41-6',
   'Phenyltris((perfluorohexyl)ethyl)stannane': '175354-30-0',

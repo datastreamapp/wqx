@@ -15406,7 +15406,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Chloro-perfluorononanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': 'Not Assigned',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acd****': 'Not Assigned',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate': 'Not Assigned',
@@ -17719,6 +17718,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Bicyclo[2.2.1]heptan-2-one, 3-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-': 'Not Assigned',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-, (1S,4R)-':
@@ -28127,7 +28127,7 @@ export default {
   'Phenylcarbamic acid--3,3-dichloro-2,2,3-trifluoropropan-1-ol (1/1)':
     'Organics, Other',
   'Phenylmercapturic acid': 'Not Assigned',
-  Phenylnaphthalene: 'Not Assigned',
+  'Phenylnaphthalene***retired**use 1-Phenylnaphthalene': 'Not Assigned',
   Phenylpropanolamine: 'Not Assigned',
   'Phenylpropanolamine hydrochloride': 'Organics, Other',
   'Phenyltris((perfluorohexyl)ethyl)stannane':

@@ -35,7 +35,8 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX': '',
+  '11NPSWRD_WQX':
+    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -54,7 +55,7 @@ export default {
   '21COL001_WQX':
     'Colorado DPHE Water Quality Control Division data migrated from legacy STORET',
   '21DEBCH': 'Delaware environmental agency',
-  '21DELAWQ_WQX': 'Division of Water  Environmental Laboratory Section',
+  '21DELAWQ_WQX': 'Delaware environmental agency',
   '21FLACEP_WQX': 'Water Quality Monitoring Data',
   '21FLACST_WQX': 'Water Quality Monitoring Data',
   '21FLALTA_WQX': 'Water Quality Monitoring Data',
@@ -793,7 +794,7 @@ export default {
   IOWAST_WQX:
     'Physical, chemical, and biological data from 45 wetlands in northern Iowa',
   IOWATER_WQX: '',
-  IOWATROK_WQX: 'Iowa Tribe of Oklahoma || Iowa Tribe of Oklahoma (Tribal)',
+  IOWATROK_WQX: 'Iowa Tribe of Oklahoma',
   IRONMT_WQX: 'Water Quality Monitoring Data',
   IRWA: 'Ipswich River Watershed Association',
   ISDA_WQX: 'Idaho State Department of Agriculture',

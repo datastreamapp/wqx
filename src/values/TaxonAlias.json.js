@@ -121957,6 +121957,7 @@ export default {
     'Trichopsis vittatus',
     'Trichopsis vittatus***retired***use Trichopsis vittata',
     'Trichoptera',
+    'Trichoptera Hyroptila',
     'Trichopterygidae',
     'Trichopus arabicus',
     'Trichopus arabicus***retired***use Thalassoma lunare',

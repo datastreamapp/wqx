@@ -48569,6 +48569,7 @@ export default {
   'Trichopsis vittata': 'Not Assigned',
   'Trichopsis vittatus': 'Not Assigned',
   Trichoptera: 'Not Assigned',
+  'Trichoptera Hyroptila': 'Not Assigned',
   'Trichopus arabicus': 'Not Assigned',
   Trichormus: 'Not Assigned',
   'Trichormus anomalus': 'Not Assigned',
