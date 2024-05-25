@@ -377,6 +377,7 @@ export default {
   'mm/day': 'Speed Velocity, Millimeters per day',
   'mm/g': 'Millimeters per gram',
   'mm/hr': 'Speed Velocity, Millimeters per hour',
+  'mm/sec': 'Flow, Millimeters per second',
   mm2: 'Area, Square millimeters',
   mm3: 'Volume, Cubic millimeters',
   'mm3/L': 'Concentration Percentage, Cubic millimeters per liter',

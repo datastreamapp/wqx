@@ -5088,6 +5088,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Methyl-3-octyl-1H-imidazolium perfluorobutanesulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1-Methyl-3-propylbenzene': 'Not Assigned',
   '1-Methyl-3-propylcyclohexane': 'Not Assigned',
   '1-Methyl-4-(nonadecafluorononyl)benzene':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -17221,6 +17222,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Benzene, 1-methyl-4-(2,2,3,3-tetrafluorocyclopropyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Benzene, 1-methyl-4-(2-propenyl)-': 'Not Assigned',
   'Benzene, 1-methyl-4-[2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Benzene, 1-nitro-2-(1,1,2,2-tetrafluoroethoxy)-':
@@ -22242,6 +22244,18 @@ export default {
   'Habitat cover, brush and log (%)': 'Physical, Habitat',
   'Habitat rating (choice list)': 'Physical, Habitat',
   'Habitat rating, % of ideal': 'Physical, Habitat',
+  'Habitat type, Bank composition': 'Not Assigned',
+  'Habitat type, Channelization Present': 'Not Assigned',
+  'Habitat type, Culverts Present Downstream': 'Not Assigned',
+  'Habitat type, Culverts Present Upstream': 'Not Assigned',
+  'Habitat type, Dams Present Downstream': 'Not Assigned',
+  'Habitat type, Dams Present Upstream': 'Not Assigned',
+  'Habitat type, Distance between Riffles': 'Not Assigned',
+  'Habitat type, Riffle Length': 'Not Assigned',
+  'Habitat type, Riffle Width': 'Not Assigned',
+  'Habitat type, Stream Shade Coverage': 'Not Assigned',
+  'Habitat type, Substrate - Inorganic': 'Not Assigned',
+  'Habitat type, Substrate - Organic': 'Not Assigned',
   Hafnium: 'Inorganics, Minor, Metals',
   'Hafnium-175': 'Not Assigned',
   'Hafnium-181': 'Not Assigned',

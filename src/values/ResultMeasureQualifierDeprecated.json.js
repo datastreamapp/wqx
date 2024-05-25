@@ -77,6 +77,7 @@ export default {
     'DHJ',
     'DJ',
     'DL',
+    'DQC',
     'DR',
     'DU',
     'E',

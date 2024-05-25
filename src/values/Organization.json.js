@@ -1250,6 +1250,7 @@ export default {
     'UMRBA_WQX',
     'UMRR_LTRM',
     'UMT_FLATHEADBIOSTATION',
+    'UNI',
     'UPPERSKAGIT',
     'URIWW',
     'URS',

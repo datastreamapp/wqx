@@ -35,8 +35,7 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX':
-    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
+  '11NPSWRD_WQX': '',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -1318,7 +1317,7 @@ export default {
     'Saginaw Chippewa Indian Tribe of Michigan (Tribal) || Saginaw Chippewa Indian Tribe of Michigan (Tribal)',
   SAINTVSD: 'Colorado',
   SALTCHUCK_WQX: '',
-  SAMISHINDIAN_WQX: 'Samish Indian Nation || Samish Indian Nation (Tribal)',
+  SAMISHINDIAN_WQX: '',
   SANBERNARDINONATIONALFOREST: '',
   SANCARLOSAPACHETRIBE:
     'San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal) || San Carlos Apache Tribe of the San Carlos Reservation, Arizona (Tribal)',
@@ -1538,6 +1537,7 @@ export default {
   UMRBA_WQX: '',
   UMRR_LTRM: '',
   UMT_FLATHEADBIOSTATION: '',
+  UNI: '',
   UPPERSKAGIT:
     'Upper Skagit Indian Tribe (Tribal) || Upper Skagit Indian Tribe (Tribal)',
   URIWW:

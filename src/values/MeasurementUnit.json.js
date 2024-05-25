@@ -360,6 +360,7 @@ export default {
     'mm/day',
     'mm/g',
     'mm/hr',
+    'mm/sec',
     'mm2',
     'mm3',
     'mm3/L',
