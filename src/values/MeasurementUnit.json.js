@@ -459,6 +459,7 @@ export default {
     'uE/m2/sec',
     'uL',
     'uPa2',
+    'uS',
     'uS/cm',
     'uS/m',
     'uW/cm2',

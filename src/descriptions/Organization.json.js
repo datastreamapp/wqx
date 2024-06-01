@@ -1412,8 +1412,7 @@ export default {
   SOU_WQX: 'Southern Oregon University',
   SPC: 'Volunteer Monitoring Group',
   SPIRITLK: '',
-  SQUAXIN:
-    'Squaxin Island Tribe || Squaxin Island Tribe of the Squaxin Island Reservation (Tribal)',
+  SQUAXIN: '',
   SRA: 'staging',
   SRBCI:
     'Santa Rosa Band of Cahuilla Indians (Tribal) || Santa Rosa Band of Cahuilla Indians (Tribal)',

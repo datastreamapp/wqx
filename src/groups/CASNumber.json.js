@@ -1342,7 +1342,7 @@ export default {
   '1,1,1,2,2,3,3-heptafluoropropane;1,2,3,4,5-pentamethylcyclopentane;rhodium(3+);trimethylphosphanium':
     '7223-98-5',
   '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(1,1,2,2,2-pentafluoroethyl)pentane':
-    '288666',
+    '',
   '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(fluoroperoxy)pentane': '828259-48-9',
   '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(trifluoromethyl)pentane': '865-71-4',
   '1,1,1,2,2,3,4,4,5,5,5-Undecafluoropentane': '95576-22-0',
@@ -1725,7 +1725,7 @@ export default {
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8-Pentadecafluorooctan-1-ol': '',
   "1,1,2,2,3,3,4,4,5,5,6,6,7,7-Tetradecafluoro-N,N'-diphenylheptane-1,7-diamine":
     '',
-  '1,1,2,2,3,3,4,4,5,5,6,6,7,7-Tetradecafluoroheptan-1-ol': '1898567',
+  '1,1,2,2,3,3,4,4,5,5,6,6,7,7-Tetradecafluoroheptan-1-ol': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7-Tetradecafluoroheptane': '19493-30-2',
   '1,1,2,2,3,3,4,4,5,5,6,6,7-Tridecafluorooctan-1-ol': '112708-16-4',
   '1,1,2,2,3,3,4,4,5,5,6,6,8,8,8-Pentadecafluorooctyl prop-2-enoate':
@@ -1851,7 +1851,7 @@ export default {
   '1,1,2,2,3-Pentafluorodecan-1-ol': '113791-64-3',
   '1,1,2,2,3-Pentafluoropropan-1-amine': '88690-52-2',
   '1,1,2,2,3-Pentafluoropropane-1-sulfonic acid': '803688-15-5',
-  '1,1,2,2,3-pentafluorocyclobutane': '128966',
+  '1,1,2,2,3-pentafluorocyclobutane': '',
   '1,1,2,2,4,4,4-Heptafluoro-3-(iodomethyl)-1-(1,2,2,2-tetrafluoroethoxy)butane':
     '25080-20-0',
   '1,1,2,2,4,4,4-Heptafluorobutyl prop-2-enoate': '51053-31-7',
@@ -2546,7 +2546,7 @@ export default {
   '1,3,5,7-Tetrathia-9-azaspiro[3.5]nonane, 9-methyl-2,6,8-tris[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]-':
     '66172-24-5',
   '1,3,5-Cycloheptatriene, 7,7-bis(trifluoromethyl)-': '714-82-9',
-  '1,3,5-Hexatriene': '2235-12-3',
+  '1,3,5-Hexatriene': '\t2235-12-3',
   '1,3,5-Triazine, 1,4-dihydro-2,6-diphenyl-4,4-bis(trifluoromethyl)-':
     '24337-46-0',
   '1,3,5-Triazine, 2,4,6-tris(1,1,2,2-tetrafluoro-2-iodoethyl)-': '649560-98-5',
@@ -3373,7 +3373,7 @@ export default {
   '1-Butanaminium, N,N,N-tributyl-, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonate (1:1)':
     '111873-33-7',
   '1-Butanaminium, N,N,N-tributyl-, salt with 2-[3,3-bis(trifluoromethyl)-1,2-benziodoxol-1(3H)-yl]-.alpha.,.alpha.-bis(tri':
-    '4071-01-6',
+    '\t4071-01-6',
   '1-Butanaminium, N,N,N-tributyl-, salt with 2-[3,3-bis(trifluoromethyl)-1,2-benziodoxol-1(3H)-yl]-.alpha.,.alpha.-bis(trifluoromethyl)benzenemethanol (1:1)':
     '80559-53-1',
   '1-Butane sulfonate': '',
@@ -3597,7 +3597,7 @@ export default {
   '1-Chlorocyclohexene': '930-66-5',
   '1-Chloroheptadecafluorooctane': '307-33-5',
   '1-Chloroheptafluorocyclopentene': '1759-63-3',
-  '1-Chlorohexadecane': '4860-03-1',
+  '1-Chlorohexadecane': '\t4860-03-1',
   '1-Chlorohexane': '544-10-5',
   '1-Chloronaphthalene': '90-13-1',
   '1-Chlorononafluorobutane': '558-89-4',
@@ -3613,7 +3613,7 @@ export default {
   '1-Cyclohexene-1-carbonitrile, 2-amino-3,3,4,4,5,5-hexafluoro-6-imino-':
     '90408-50-7',
   '1-Cyclohexyl-4,4,5,5,5-pentafluoropent-1-en-3-one': '89176-04-5',
-  '1-Cyclopentyl-4-n-octyldodecane': '5638-09-5',
+  '1-Cyclopentyl-4-n-octyldodecane': '\t5638-09-5',
   '1-Decanaminium, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-N,N-bis(2-hydroxyethyl)-N-methyl-, iodide (1:1)':
     '31841-41-5',
   '1-Decanaminium, N-(carboxymethyl)-3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-hexadecafluoro-N,N-dimethyl-, inner salt':
@@ -3942,7 +3942,7 @@ export default {
   '1-Hydroxy-5:2 fluorotelomer sulfonate': '',
   '1-Hydroxy-6:2 fluorotelomer sulfonate': '',
   '1-Hydroxy-9:2 fluorotelomer sulfonic acid': '',
-  '1-Hydroxychlordene': '2597-11-7',
+  '1-Hydroxychlordene': '\t2597-11-7',
   '1-Iodo-1,2-bis(perfluoro-n-butyl)ethane': '53638-10-1',
   '1-Iodo-1H,1H-nonafluoropentane': '2253-14-7',
   '1-Iodo-1H,1H-perfluorohexane': '335-50-2',
@@ -4132,7 +4132,7 @@ export default {
   '1-Octanesulfonamide, N-[3-(dimethyloxidoamino)propyl]-3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-':
     '80475-32-7',
   '1-Octanesulfonamide, N-butyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-':
-    '2263-09-4',
+    '\t2263-09-4',
   '1-Octanesulfonamide, N-dodecyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-':
     '75457-12-4',
   '1-Octanesulfonamide, N-ethenyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-methyl-':
@@ -4226,7 +4226,7 @@ export default {
     '1638956-41-8',
   '1-Octanol, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-, reaction products with phosphorus oxide (P2O5), potassium salts':
     '1224952-82-2',
-  '1-Octanol, 5,5,6,6,7,7,8,8,8-nonafluoro-': '691078',
+  '1-Octanol, 5,5,6,6,7,7,8,8,8-nonafluoro-': '',
   '1-Octanol, dimethyl-': '1333-49-9',
   '1-Octene': '111-66-0',
   '1-Octene, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-': '25291-17-2',
@@ -4640,7 +4640,7 @@ export default {
   '1-Propene, 1,1,3,3,3-pentafluoro-2-(trifluoromethyl)-': '382-21-8',
   '1-Propene, 1,1-dichloro-2,3,3,3-tetrafluoro-': '2804-55-9',
   '1-Propene, 1,2,3,3,3-pentafluoro-': '2252-83-7',
-  '1-Propene, 1,2,3,3,3-pentafluoro-, (1E)-': '1349853',
+  '1-Propene, 1,2,3,3,3-pentafluoro-, (1E)-': '',
   '1-Propene, 1,2,3,3,3-pentafluoro-, (1Z)-': '5528-43-8',
   '1-Propene, 1,2,3,3,3-pentafluoro-1-(1,2,3,3,3-pentafluoroprop-1-enoxy)-':
     '3823-94-7',
@@ -4728,7 +4728,7 @@ export default {
   '1-Undecene': '821-95-4',
   '1-Undecene, 4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heptadecafluoro-':
     '61589-64-8',
-  '1-Vinyloxyperfluoropropane': '1861283',
+  '1-Vinyloxyperfluoropropane': '',
   '1-[(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)oxy]pyrrolidine-2,5-dione':
     '252937-66-9',
   '1-[(1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-Heptadecafluoronon-1-en-1-yl)oxy]-4-methylbenzene':
@@ -4849,7 +4849,7 @@ export default {
   '1-[[[[4-(2-(Perfluorobutyl)-1-ethyl)phenyl]methoxy]carbonyl]oxy]-2,5-pyrrolidinedione':
     '825635-46-9',
   '1-benzyl-2,2,3-trifluoro-3-(trifluoromethyl)aziridine': '5585-30-8',
-  '1-benzyl-2,3-difluoro-2,3-bis(trifluoromethyl)aziridine': '1249744',
+  '1-benzyl-2,3-difluoro-2,3-bis(trifluoromethyl)aziridine': '',
   '1-bromo-1,1,2,2-tetrafluorobutane': '127117-30-0',
   '1-bromo-1,1,2,2-tetrafluoropentane': '151831-44-6',
   '1-bromo-2,3,4-trichloro-1,1,2-trifluorobutane': '664-03-9',
@@ -5149,13 +5149,13 @@ export default {
   '1H,1H,3H-Perfluoro(2,4-dimethylpentan-1-ol)': '25065-50-3',
   '1H,1H,3H-Perfluorobutyl 2-methylacrylate': '36405-47-7',
   '1H,1H,3H-Perfluorobutyl acrylate': '54052-90-3',
-  '1H,1H,3H-Perfluoropropyl triflate': '1643990',
+  '1H,1H,3H-Perfluoropropyl triflate': '',
   '1H,1H,5H-Perfluoropentane-1-thiol': '',
   '1H,1H,5H-Perfluoropentyl methacrylate': '355-93-1',
   '1H,1H,5H-Perfluoropentyl-1,1,2,2-tetrafluoroethylether': '16627-71-7',
   '1H,1H,5H-perfluoropentyl 2-fluoroacrylate': '87910-92-7',
   '1H,1H,6H,6H-Perfluoro-1,6-hexanediol': '355-74-8',
-  '1H,1H,6H,6H-Perfluorohexane-1,6-diol diacrylate': '132958',
+  '1H,1H,6H,6H-Perfluorohexane-1,6-diol diacrylate': '',
   '1H,1H,7H-Perfluoroheptyl 4-methylbenzenesulfonate': '424-16-8',
   '1H,1H,8H,8H-Perfluoro-3,6-dioxaoctane-1,8-diol': '129301-42-4',
   '1H,1H,8H,8H-Perfluorooctane-1,8-diol': '90177-96-1',
@@ -5938,7 +5938,7 @@ export default {
     '1447964-86-4',
   '2,2,3,3,4,4,5,5-Octafluoro-1-(nonafluorocyclopentyl)pyrrolidine':
     '86714-20-7',
-  '2,2,3,3,4,4,5,5-Octafluoro-1-(trifluoromethyl)pyrrolidine': '162449',
+  '2,2,3,3,4,4,5,5-Octafluoro-1-(trifluoromethyl)pyrrolidine': '',
   '2,2,3,3,4,4,5,5-Octafluoro-1-(undecafluoropentyl)pyrrolidine': '94718-24-8',
   '2,2,3,3,4,4,5,5-Octafluoro-1-methoxypentan-1-ol': '88332-84-7',
   '2,2,3,3,4,4,5,5-Octafluoro-5-[(tridecafluorohexyl)oxy]pentan-1-amine':
@@ -6761,7 +6761,7 @@ export default {
   '2,5-Bis(pentadecafluoroheptyl)-1,3,4-oxadiazole': '1555-24-4',
   '2,5-Bis[(nonadecafluorononyl)oxy]benzene-1-sulfonic acid': '76069-15-3',
   '2,5-Cyclohexadien-1-one, 4-[[(2,2,3,3,4,4,5,5-octafluoropentyl)amino]methylene]-':
-    '1249441',
+    '',
   '2,5-Dibromobenzoic Acid': '610-71-9',
   '2,5-Dichloro-4-(1,1,2,3,3,3-hexafluoropropoxy)aniline': '103015-84-5',
   '2,5-Dichloroaniline': '95-82-9',
@@ -6825,7 +6825,7 @@ export default {
   '2,6-Dichloro-3-(pentafluoroethyl)pyridine': '1816287-43-0',
   '2,6-Dichloro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-ylsulfinyl)aniline': '',
   '2,6-Dichloro-4-(1,1,2,2,3,3,4,4,4-nonafluorobutylsulfinyl)aniline': '',
-  '2,6-Dichloro-4-methylphenol': '2432-12-4',
+  '2,6-Dichloro-4-methylphenol': '\t2432-12-4',
   '2,6-Dichlorobenzamide': '2008-58-4',
   '2,6-Dichlorobiphenyl': '33146-45-1',
   '2,6-Dichlorophenol': '87-65-0',
@@ -7130,7 +7130,7 @@ export default {
   '2-(Perfluorooctyl)ethoxymethyloxirane': '114482-33-6',
   '2-(Perfluorooctyl)ethyldimethylchlorosilane': '74612-30-9',
   '2-(Perfluoropropoxy)-1H,1H-perfluoropropanol': '26537-88-2',
-  '2-(Perfluoropropyl)benzoxazole': '39601',
+  '2-(Perfluoropropyl)benzoxazole': '',
   '2-(Perfluoropropyl)glycine': '26208-02-6',
   '2-(Perfluorotetradecyl)ethane sulfinic acid': '',
   '2-(Perfluorotetradecyl)ethanethiol': '103119-64-8',
@@ -7373,7 +7373,7 @@ export default {
   '2-Butyl-2,3,3,4,4,5,5-heptafluorooxolane': '76298-23-2',
   '2-Butyl-2-methyl-1,3-dioxane': '25683-00-5',
   '2-Butyl-5,6,6,7,7,8,8,8-octafluorooct-4-enoic acid': '90292-29-8',
-  '2-Butyloctanol': '3913-02-8',
+  '2-Butyloctanol': '\t3913-02-8',
   '2-C-(Heptafluoropropyl)-?-D-ribofuranose': '467220-81-1',
   '2-C-(Nonafluorobutyl)-?-L-ribofuranose': '467220-84-4',
   '2-Carboxy-N,N-diethyl-N-[2-[[(perfluorooctyl)sulfonyl]amino]ethyl]ethanaminium inner salt':
@@ -7400,7 +7400,7 @@ export default {
   '2-Chloro-1-(chlorodifluoromethoxy)-1,1,2-trifluoroethane': '37031-53-1',
   '2-Chloro-1-phenylethanol': '1674-30-2',
   "2-Chloro-2',6'-diethylacetanilide": '6967-29-9',
-  '2-Chloro-2,3,3,3-tetrafluoropropanoic acid': '1566560',
+  '2-Chloro-2,3,3,3-tetrafluoropropanoic acid': '',
   '2-Chloro-2,3,3,3-tetrafluoropropanoyl bromide': '261503-70-2',
   '2-Chloro-2,3,3,3-tetrafluoropropanoyl chloride': '6066-46-2',
   '2-Chloro-2,3,3,3-tetrafluoropropanoyl fluoride': '28627-00-1',
@@ -7583,7 +7583,7 @@ export default {
   '2-Ethyl-4-methyl-1,3-dioxolane': '4359-46-0',
   '2-Ethyl-4-methyl-1-pentanol': '106-67-2',
   '2-Ethyl-6-methylaniline': '24549-06-2',
-  '2-Ethyl-m-xylene': '2870-04-4',
+  '2-Ethyl-m-xylene': '\t2870-04-4',
   '2-Ethyl-p-xylene': '1758-88-9',
   '2-Ethylhexanal': '123-05-7',
   '2-Ethylhexanoic acid': '149-57-5',
@@ -7768,7 +7768,7 @@ export default {
   '2-Isopropyl-6-methyl-4-pyrimidinol': '',
   '2-Isopropylnaphthalene': '2027-17-0',
   '2-Ketomolinate': '',
-  '2-MOBDE': '7025-06-1',
+  '2-MOBDE': '\t7025-06-1',
   '2-Mercaptobenzothiazole': '149-30-4',
   '2-Methoxy-2-methylpropanal': '',
   '2-Methoxyethanol': '109-86-4',
@@ -7819,7 +7819,7 @@ export default {
     '',
   '2-Methyl-3-(pentafluoroethyl)non-2-en-4-yne': '112678-68-9',
   '2-Methyl-3-butyn-2-ol': '115-19-5',
-  '2-Methyl-3-hexanone': '7379-12-6',
+  '2-Methyl-3-hexanone': '\t7379-12-6',
   '2-Methyl-3-nitroaniline': '603-83-8',
   '2-Methyl-3-pentanol': '565-67-3',
   '2-Methyl-3-pentanone': '565-69-5',
@@ -7984,7 +7984,7 @@ export default {
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(2-pyridinylamino)-': '64139-77-1',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(tricyclo[3.3.1.13,7]dec-1-ylamino)-, hydrate (2:3)':
     '63765-69-5',
-  '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-': '2378-02-1',
+  '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-': '\t2378-02-1',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-, acetate':
     '24165-09-1',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-, potassium salt (1:1)':
@@ -8827,7 +8827,7 @@ export default {
     '769169-27-9',
   '2-Thiophenesulfonamide, N-[4-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]phenyl]-':
     '293753-05-6',
-  '2-Trifluoromethyl benzylamine': '3048-01-9',
+  '2-Trifluoromethyl benzylamine': '\t3048-01-9',
   '2-Trifluoromethyl-3H-perfluoro-2-pentene': '90277-94-4',
   '2-Vinylperfluorobutane': '239795-57-4',
   '2-Vinylperfluoropropane': '88562-41-8',
@@ -9563,7 +9563,7 @@ export default {
   '3,3,4,4-Tetrafluorotricyclo[4.2.1.0(2,5)]non-7-ene': '6654-42-8',
   '3,3,4,4-tetrafluoro-1,2-diiodocyclobutene': '15563-92-5',
   '3,3,4,4-tetrafluoro-1,2-dipropylcyclobutene': '711-60-4',
-  '3,3,4,4-tetrafluoro-1,6-diiodohexane': '96217',
+  '3,3,4,4-tetrafluoro-1,6-diiodohexane': '',
   '3,3,4,4-tetrafluorooxolane': '374-33-4',
   '3,3,4,5,5,5-Hexafluoro-1-pentene': '2375-68-0',
   '3,3,4,5,5,6,6,7,7,7-Decafluoroheptan-2-ol': '7618-17-9',
@@ -9680,7 +9680,7 @@ export default {
   '3,4-Dichloronitrobenzene': '99-54-7',
   '3,4-Dichlorophenol': '95-77-2',
   '3,4-Dichlorophenyl isocyanate': '102-36-3',
-  '3,4-Dichlorophenylurea': '2327-02-8',
+  '3,4-Dichlorophenylurea': '\t2327-02-8',
   '3,4-Dihydro-3-[(3-pyridinylmethyl)amino]-6-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]-2(1H)-quinazolinone':
     '337457-78-0',
   '3,4-Dihydroxy-N,N-dimethyl-N-(3-{[(perfluorobutyl)sulfonyl]amino}propyl)-1-butanaminium':
@@ -9723,7 +9723,7 @@ export default {
   '3,5,7,8-Tetrachloro-2,2,3,4,4,5,6,6,7,8,8-undecafluorooctanoic acid--1-phenylpiperazine (1/1)':
     '4627-64-9',
   '3,5,7,8-Tetrachloro-2,2,3,4,4,5,6,6,7,8,8-undecafluorooctanoic acid--cyclohexanamine (1/1)':
-    '389411',
+    '',
   '3,5,7,8-Tetrachloro-2,2,3,4,4,5,6,6,7,8,8-undecafluorooctanoic acid--piperazine (1/1)':
     '1511-09-7',
   '3,5,7,8-Tetrachloroperfluorooctanoic acid': '2923-68-4',
@@ -9807,7 +9807,7 @@ export default {
     '185697-78-3',
   '3,7-Bis(2-hydroxyethyl)-5-(((perfluorononyl)ethyl)oxy)-4,6-dioxa-3,7-diaza-5-phosphanonane-1,9-diol 5-oxide':
     '101896-21-3',
-  '3,7-Dimethyl-1-octene': '4984-01-4',
+  '3,7-Dimethyl-1-octene': '\t4984-01-4',
   '3,8-Dimethylundecane': '17301-30-3',
   '3-(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononyl)oxy)phenyl)sulfonyl)amino)-N,N,N-trimethyl-1-propanaminium':
     '',
@@ -10096,7 +10096,7 @@ export default {
   '3-(Perfluoropentyl)-propane-1-sulfonic acid': '',
   '3-(Perfluoropropanesulfonamido)-N,N,N-trimethylpropan-1-aminium':
     '1966131-51-0',
-  '3-(Perfluoropropyl)-2-iodopropanol acetate': '441336',
+  '3-(Perfluoropropyl)-2-iodopropanol acetate': '',
   '3-(Perfluoropropyl)-2-propanone': '136909-72-3',
   '3-(Perfluoropropyl)propanol': '679-02-7',
   '3-(Perfluorotetradecyl)-2-hydroxypropyl dihydrogen phosphate': '94200-43-8',
@@ -10350,7 +10350,7 @@ export default {
   '3-Methylheptane': '589-81-1',
   '3-Methylhexane': '589-34-4',
   '3-Methylindole': '83-34-1',
-  '3-Methylnonane': '5911-04-6',
+  '3-Methylnonane': '\t5911-04-6',
   '3-Methylpentane': '96-14-0',
   '3-Methylphenanthrene': '832-71-3',
   '3-Methylphenyl pentafluoropropanoate': '24271-51-0',
@@ -11058,7 +11058,7 @@ export default {
   '4,4,5,5,6,7,7,7-Octafluoro-2-hydroxy-6-(trifluoromethyl)heptyl 2-methylprop-2-enoate':
     '16083-79-7',
   '4,4,5,5,9,9,10,10-Octafluoro-2,7-dithiatricyclo[6.2.0.0~3,6~]deca-1(8),3(6)-diene':
-    '374132',
+    '',
   '4,4,5,5-Tetrafluoro-1,3-dioxolan-2-one': '183301-46-4',
   '4,4,5,5-Tetrafluoro-1,3-dioxolane': '76492-96-1',
   '4,4,5,5-Tetrafluoro-1-phenyl-5-(trifluoromethoxy)pentane-1,3-dione':
@@ -11473,7 +11473,7 @@ export default {
   '4-Fluoro-3-phenoxybenzoic acid': '',
   '4-Fluoro-4-(trifluoromethyl)piperidine': '1556809-89-2',
   '4-Fluoro-6-(1,1,2,2,2-pentafluoroethyl)-5-(trifluoromethyl)pyrimidin-2-amine':
-    '1944743',
+    '',
   '4-Fluoro-N-(2-fluoro-3-{[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]carbamoyl}phenyl)-N-methyl-2-nitrobenzamide':
     '862134-28-9',
   '4-Fluoro-N-[1-(4-fluorophenyl)-1-hydroxy-3-(2,2,3,3-tetrafluoro-1,4-benzodioxin-6-yl)propan-2-yl]naphthalene-1-carboxamide':
@@ -11531,7 +11531,7 @@ export default {
   '4-MUB-b-D-galactoside': '6160-78-7',
   '4-MUB-b-D-glucoside': '18997-57-4',
   '4-MUB-b-D-xylopyranoside': '6734-33-4',
-  '4-MUB-phosphate': '3368-04-5',
+  '4-MUB-phosphate': '\t3368-04-5',
   '4-MUB-sulfate': '25892-63-1',
   '4-Methyl-1,3-dioxolane': '1072-47-5',
   '4-Methyl-1-hexene': '3769-23-1',
@@ -11632,7 +11632,7 @@ export default {
   '4-Penten-2-ol, 1,1,1-trifluoro-4-methyl-2-(trifluoromethyl)-': '665-05-4',
   '4-Phenylbutyric acid': '1821-12-1',
   '4-Phenylcyclohexene': '4994-16-5',
-  '4-Phenyldecane': '4537-12-6',
+  '4-Phenyldecane': '\t4537-12-6',
   '4-Phenyldodecane': '2719-64-4',
   '4-Phenylpyridine': '939-23-1',
   '4-Phenyltetradecane': '4534-57-0',
@@ -12069,7 +12069,7 @@ export default {
   '5-Hexen-2-ol, 1,1,1,5,6,6-hexafluoro-3-(2-propen-1-yl)-2-(trifluoromethyl)-':
     '795298-34-9',
   '5-Hexen-2-one': '109-49-9',
-  '5-Hexen-2-one, 5-methyl-': '3240-09-3',
+  '5-Hexen-2-one, 5-methyl-': '\t3240-09-3',
   '5-Hexenoic acid, 2,2,3,3,4,4,5,6,6-nonafluoro-, sodium salt (1:1)':
     '45187-32-4',
   '5-Hydroxy-3,7-bis{2,2,3,3-tetrafluoro-3-[(1,1,1,2,3,3,3-heptafluoropropan-2-yl)oxy]propyl}-4,5,6,7-tetrahydro-3H-2,8-benzodioxacycloundecine-1,9-dione':
@@ -12107,7 +12107,7 @@ export default {
   '5-Oxazolidinone, 4-bromo-3-methyl-2,2-bis(trifluoromethyl)-': '141364-20-7',
   '5-Pentafluoroethyl-[1,3,4]thiadiazol-2-ylamine': '51314-64-8',
   '5-Pentyl-2-[4-(tridecafluorohexyl)phenyl]pyridine': '139030-54-9',
-  '5-Phenyldecane': '4537-11-5',
+  '5-Phenyldecane': '\t4537-11-5',
   '5-Phenyldodecane': '2719-63-3',
   '5-Phenyltetradecane': '4534-56-9',
   '5-Phenyltridecane': '4534-50-3',
@@ -12988,7 +12988,7 @@ export default {
   'Alcohols, C3-12, .beta.-.omega.-perfluoro-.omega.-hydro, sodium salts':
     '68526-97-6',
   'Alcohols, C3-7, .beta.-.omega.-perfluoro-.omega.-hydro, reaction products with 3a,4,7,7a-tetrahydro-1,3-isobenzofurandio':
-    '1992-09-2',
+    '\t1992-09-2',
   'Alcohols, C3-7, .beta.-.omega.-perfluoro-.omega.-hydro, reaction products with 3a,4,7,7a-tetrahydro-1,3-isobenzofurandione':
     '98561-40-1',
   'Alcohols, C3-7, .beta.-.omega.-perfluoro-.omega.-hydro, reaction products with 3a,4,7,7a-tetrahydromethyl-4,7-methanoiso':
@@ -13063,7 +13063,7 @@ export default {
   'Allyl 1H,1H-heptafluorobutyl ether': '648-42-0',
   'Allyl 1H,1H-perfluorooctyl ether': '812-72-6',
   'Allyl 2,2,3,3,3-pentafluoropropyl ether': '186907-75-5',
-  'Allyl 2,2,3,3,4,4,5,5-octafluoropentyl ether': '441399',
+  'Allyl 2,2,3,3,4,4,5,5-octafluoropentyl ether': '',
   'Allyl 3-chloro-2,2,3,3-tetrafluoropropionate': '84145-21-1',
   'Allyl Alcohol': '107-18-6',
   'Allyl chloride': '107-05-1',
@@ -13135,7 +13135,7 @@ export default {
   'Ammonium 1,1,2,2-tetrafluoro-2-{[1,1,1,2,3,3-hexafluoro-3-(pentafluoroethoxy)propan-2-yl]oxy}ethane-1-sulfonate':
     '93644-65-6',
   'Ammonium 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-icosafluoroundecanoate':
-    '1161876',
+    '',
   'Ammonium 2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptanoate': '376-34-1',
   'Ammonium 2,2,3,3,4,4,5,5,6,7,7,7-dodecafluoro-6-(trifluoromethyl)heptanoate':
     '19742-57-5',
@@ -13236,7 +13236,7 @@ export default {
   'Androsterone sulfate': '',
   'Androsterone-glucuronide': '',
   'Angle, vertical': '',
-  Anhydrochlortetracycline: '4497-08-9',
+  Anhydrochlortetracycline: '\t4497-08-9',
   Anhydroerthromycin: '',
   Anhydrotetracycline: '1665-56-1',
   'Anhydrotetracycline (ATC)': '1665-56-1',
@@ -13399,7 +13399,7 @@ export default {
   'Azithromycin-d3': '',
   Azobenzene: '103-33-3',
   'Azobenzene/1,2-Diphenylhydrazine': '',
-  Azorubinol: '6360-07-2',
+  Azorubinol: '\t6360-07-2',
   Azothoate: '5834-96-8',
   Azoxystrobin: '131860-33-8',
   'Azoxystrobin-d4': '',
@@ -14217,8 +14217,7 @@ export default {
   'Benzenemethanol, 2-amino-.alpha.,.alpha.-bis(trifluoromethyl)-': '2713-62-4',
   'Benzenemethanol, 2-amino-3-bromo-5-methyl-.alpha.,.alpha.-bis(trifluoromethyl)-':
     '80360-40-3',
-  'Benzenemethanol, 2-amino-4-methyl-.alpha.,.alpha.-bis(trifluoromethyl)-':
-    '33817',
+  'Benzenemethanol, 2-amino-4-methyl-.alpha.,.alpha.-bis(trifluoromethyl)-': '',
   'Benzenemethanol, 2-amino-5-(1,1-dimethylethyl)-.alpha.,.alpha.-bis(trifluoromethyl)-':
     '84649-61-6',
   'Benzenemethanol, 2-amino-5-methyl-.alpha.,.alpha.-bis(trifluoromethyl)-':
@@ -14246,7 +14245,7 @@ export default {
   'Benzenemethanol, 3-nitro-.alpha.-[3,3,3-trifluoro-2-(trifluoromethyl)-1-propen-1-yl]-':
     '100482-54-0',
   "Benzenemethanol, 4,4'-oxybis[.alpha.,.alpha.-bis(trifluoromethyl)-":
-    '2093-04-1',
+    '\t2093-04-1',
   'Benzenemethanol, 4-(1,1-dimethylethyl)-.alpha.,.alpha.-bis(trifluoromethyl)-':
     '22796-15-2',
   'Benzenemethanol, 4-(bromomethyl)-.alpha.,.alpha.-bis(trifluoromethyl)-':
@@ -14261,7 +14260,7 @@ export default {
   'Benzenemethanol, 4-amino-2-methyl-.alpha.,.alpha.-bis(trifluoromethyl)-':
     '2017-31-4',
   'Benzenemethanol, 4-amino-3-methoxy-.alpha.,.alpha.-bis(trifluoromethyl)-':
-    '1992-01-4',
+    '\t1992-01-4',
   'Benzenemethanol, 4-methyl-.alpha.,.alpha.-bis(trifluoromethyl)-':
     '2010-61-9',
   'Benzenemethanol, ?-[(2,2,3,3,4,4-hexafluoro-1-hydroxycyclobutyl)methyl]-':
@@ -14803,7 +14802,7 @@ export default {
   'Bisphenol A-d8': '',
   'Bisphenol AF': '1478-61-1',
   'Bisphenol B': '77-40-7',
-  'Bisphenol E': '2081-08-5',
+  'Bisphenol E': '\t2081-08-5',
   'Bisphenol F': '620-92-8',
   'Bisphenol F-d10': '',
   'Bisphenol S': '80-09-1',
@@ -14983,7 +14982,7 @@ export default {
   'Butane, 1,1,1,2,3,3,4-heptafluoro-': '53005-35-9',
   'Butane, 1,1,1,2,3,4,4,4-octafluoro-': '75995-72-1',
   'Butane, 1,1,1,2,3,4,4,4-octafluoro-2,3-bis(1,1,2,2,3,3,3-heptafluoropropoxy)-':
-    '219513',
+    '',
   'Butane, 1,1,1,2,3,4-hexafluoro-': '119450-67-8',
   'Butane, 1,1,1,2,3-Pentafluoro-': '161791-22-6',
   'Butane, 1,1,1,2,4,4-hexafluoro-': '158421-88-6',
@@ -15059,7 +15058,7 @@ export default {
   'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-, ammonium salt (1:1)':
     '10495-86-0',
   'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-, compd. with 1-phenylpiperazine (1:1)':
-    '132896',
+    '',
   'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-, ethyl ester': '356-27-4',
   'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-, methyl ester': '356-24-1',
   'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-, silver(1+) salt (1:1)':
@@ -15206,6 +15205,7 @@ export default {
   'C2-Fluorenes': '',
   'C2-Naphthalenes': '',
   'C2-Naphthobenzothiophenes': '',
+  'C2-Phenanthrenes': '',
   'C2-Phenanthrenes/anthracenes': '',
   'C20 Hydrocarbons': '93924-54-0',
   'C20-TAS': '81943-50-2',
@@ -15238,6 +15238,7 @@ export default {
   'C3-Fluorenes': '',
   'C3-Naphthalenes': '',
   'C3-Naphthobenzothiophenes': '',
+  'C3-Phenanthrenes': '',
   'C3-Phenanthrenes/anthracenes': '',
   'C30 Hydrocarbons': '',
   'C30-Hopane': '',
@@ -15260,6 +15261,7 @@ export default {
   'C4-Fluorene': '',
   'C4-Naphthalenes': '',
   'C4-Naphthobenzothiophenes': '',
+  'C4-Phenanthrenes': '',
   'C4-Phenanthrenes/anthracenes': '',
   'C5-Benzenes, pentyl': '',
   'C5-Benzo[a]anthracenes/chrysenes': '',
@@ -15351,9 +15353,9 @@ export default {
   'Canopy Measure Right Bank': '',
   Caprolactam: '105-60-2',
   Capsaicin: '404-86-4',
-  Captafol: '2425-06-1',
+  Captafol: '\t2425-06-1',
   Captan: '133-06-2',
-  Carbadox: '6804-07-5',
+  Carbadox: '\t6804-07-5',
   'Carbamate pesticides': '',
   Carbamazepine: '298-46-4',
   'Carbamazepine 10,11 epoxide': '36507-30-9',
@@ -15368,7 +15370,7 @@ export default {
   'Carbamic acid, N-(3-nitrophenyl)-, 2,2,3,3-tetrafluoropropyl ester':
     '90687-70-0',
   'Carbamic acid, N-[1-(2-ethoxyethoxy)-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-, ethyl ester':
-    '5226-09-5',
+    '\t5226-09-5',
   'Carbamic acid, N-[1-(butoxymethylphosphinyl)-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-, ethylester':
     '133611-25-3',
   'Carbamic acid, N-[1-(diethoxyphosphinyl)-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]-, phenylmethyl ester':
@@ -15709,7 +15711,7 @@ export default {
   'Chlorophyll/Pheophytin ratio': '',
   Chloropicrin: '76-06-2',
   Chloroprene: '126-99-8',
-  Chloropropylate: '5836-10-2',
+  Chloropropylate: '\t5836-10-2',
   'Chlorosulfonamide acid': '130-45-0',
   'Chlorosulfurous acid, 2,2,3,3,4,4,5,5-octafluoropentyl ester': '254756-55-3',
   'Chlorosulfurous acid, 2,2,3,3-tetrafluoropropyl ester': '110920-07-5',
@@ -16140,7 +16142,7 @@ export default {
     '87667-00-3',
   'Cyclohexane, 1,1,2,2,3,3,4,4,5,5,6-undecafluoro-6-(trifluoromethyl)-':
     '355-02-2',
-  'Cyclohexane, 1,1,2,2,3,3,4,5,5,6-decafluoro-, (4S,6S)-': '399951',
+  'Cyclohexane, 1,1,2,2,3,3,4,5,5,6-decafluoro-, (4S,6S)-': '',
   'Cyclohexane, 1,1,2,2,3,3,4,5,5,6-decafluoro-4,6-bis(trifluoromethyl)-':
     '335-27-3',
   'Cyclohexane, 1,2,3,4,5-pentafluoro-6-(1,1,2,2,3,3,3-heptafluoropropyl)-':
@@ -16215,8 +16217,7 @@ export default {
   Cyclohexene: '110-83-8',
   'Cyclohexene oxide': '286-20-4',
   'Cyclohexene, 1,2,3,3,4,4,5,5,6,6-decafluoro-': '355-75-9',
-  'Cyclohexene, 1,3,3,4,4,5,5,6,6-nonafluoro-2-(2,2,2-trifluoroethoxy)-':
-    '166557',
+  'Cyclohexene, 1,3,3,4,4,5,5,6,6-nonafluoro-2-(2,2,2-trifluoroethoxy)-': '',
   'Cyclohexene, 1,3,3,4,4,5,5,6,6-nonafluoro-2-(fluoromethyl)-': '111180-52-0',
   'Cyclohexene, 1,3,3,4,4,5,5,6,6-nonafluoro-2-(pentafluoroethyl)-':
     '80308-96-9',
@@ -16434,7 +16435,7 @@ export default {
   'DG3 DNA marker (purified)': '',
   'DI-Block waxes (CnF2+1CmH2m+1) mp=47-52 grC': '',
   'DL-Amphetamine-D5': '65538-33-2',
-  Dacarbazine: '4342-03-4',
+  Dacarbazine: '\t4342-03-4',
   'Dacthal Acid Metabolites': '',
   Daidzein: '486-66-8',
   Dalapon: '75-99-0',
@@ -17120,7 +17121,7 @@ export default {
     '441765-20-4',
   'Disodium methanearsonate': '144-21-8',
   'Disodium perfluoro-3,5,7,10,13-pentaoxapentadecanedioate': '88707-87-3',
-  Disopyramide: '3737-09-5',
+  Disopyramide: '\t3737-09-5',
   'Disruptive Pressures': '',
   'Dissolved Inorganic Nitrogen/Total Phosphorus ratio': '',
   'Dissolved Oxygen': '',
@@ -17150,7 +17151,7 @@ export default {
   Disulfoton: '298-04-4',
   'Disulfoton oxon sulfone': '',
   'Disulfoton oxon sulfoxide': '',
-  'Disulfoton sulfone': '2497-06-5',
+  'Disulfoton sulfone': '\t2497-06-5',
   'Disulfoton sulfoxide': '2496-92-6',
   Dithianon: '3347-22-6',
   Dithiopyr: '97886-45-8',
@@ -17204,7 +17205,7 @@ export default {
   'Dodecyl mercaptan': '112-55-0',
   'Dodecyl sulfate': '',
   Dodecylbenzene: '123-01-3',
-  Dodine: '2439-10-3',
+  Dodine: '\t2439-10-3',
   'DogBact DNA marker': '',
   Dominance: '',
   'Dominance, Top 3 species': '',
@@ -17250,7 +17251,7 @@ export default {
   'EPTC degradate R248722': '',
   'EPTC-d14': '1219794-88-3',
   'EPTC-d14 (dipropyl-d14)': '',
-  'Ecgonine Methyl Ester': '7143-09-1',
+  'Ecgonine Methyl Ester': '\t7143-09-1',
   'Ecgonine Methyl Ester-D3': '136765-34-9',
   'Ecgonine methyl ester hydrochloride': '38969-40-3',
   Ecolyst: '',
@@ -17802,7 +17803,7 @@ export default {
   'Ethyl 2-acetyl-4,4,5,5,6,6,6-heptafluoro-3-oxohexanoate': '115479-06-6',
   'Ethyl 2-amino-8-(pentafluoroethyl)-3H-1-benzazepine-4-carboxylate':
     '926927-42-6',
-  'Ethyl 2-chlorotetrafluoropropionate': '1435106',
+  'Ethyl 2-chlorotetrafluoropropionate': '',
   'Ethyl 2-diazo-4,4,5,5,6,6,6-heptafluoro-3-oxohexanoate': '15959-98-5',
   'Ethyl 3,3,3-trifluoro-2-(nonafluorobutoxy)-2-(trifluoromethyl)propanoate':
     '38012-79-2',
@@ -18129,6 +18130,7 @@ export default {
   Flonicamid: '158062-67-0',
   'Flonicamid-d3': '',
   'Flood prone area width': '',
+  Florasulam: '145701-23-1',
   Florfenicol: '73231-34-2',
   'Florfenicol-d3': '',
   'Florpyrauxifen-benzyl': '1390661-72-9',
@@ -18188,7 +18190,7 @@ export default {
   Fluorene: '86-73-7',
   'Fluorene,2,4A-Dihydro-': '59247-36-8',
   'Fluorene-d10': '81103-79-9',
-  Fluorescein: '2321-07-5',
+  Fluorescein: '\t2321-07-5',
   'Fluorescence index': '',
   'Fluorescent dissolved organic matter (FDOM)': '',
   Fluoride: '16984-48-8',
@@ -18712,7 +18714,7 @@ export default {
   'Heptane, 1,1,1,2,2,3,3,4,4,5,5-undecafluoro-7-iodo-': '1682-31-1',
   'Heptane, 1,1,1,2,3,3,4,5,5,6,7,7,7-tridecafluoro-2,4,6-tris(trifluoromethyl)-':
     '84808-63-9',
-  'Heptane, 1,1,2,2,3,3,4,4,5,5,6,6,7-tridecafluoro-': '295425',
+  'Heptane, 1,1,2,2,3,3,4,4,5,5,6,6,7-tridecafluoro-': '',
   'Heptane, 1-bromo-1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-': '375-88-2',
   'Heptane, 2,3,6-trimethyl-': '4032-93-3',
   'Heptane, 6,7-dichloro-1,1,2,2,3,3,4,4,5,5,6-undecafluoro-': '538345-75-4',
@@ -18784,7 +18786,7 @@ export default {
     '355-50-0',
   'Hexadecane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14-nonacosafluoro-16-iodo-':
     '65510-55-6',
-  'Hexadecane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluoro-': '1550583',
+  'Hexadecane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluoro-': '',
   'Hexadecane, 2,6,11,15-tetramethyl-': '504-44-9',
   'Hexadecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-hentriacontafluoro-':
     '67905-19-5',
@@ -18849,7 +18851,7 @@ export default {
   'Hexane, 1,1,1,2,2,3,5,5,6,6,6-undecafluoro-4-(pentafluoroethyl)-3,4-bis(trifluoromethyl)-':
     '80632-82-2',
   'Hexane, 1,1,1,2,3,3,4,4,5,5,6,6-dodecafluoro-6-iodo-2-(trifluoromethyl)-':
-    '579494',
+    '',
   'Hexane, 1,1,1,2,3,3-hexafluoro-4-methyl-': '57915-72-7',
   'Hexane, 1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluoro-1-(pentafluoroethoxy)-':
     '133080-89-4',
@@ -18923,7 +18925,7 @@ export default {
   'Hexanoic acid, 6-amino-, reaction products with reduced polymd. oxidized 1,1,2,3,3,3-hexafluoro-1-propene':
     '161212-12-0',
   'Hexanoic acid, 6-chloro-3,3,4,4,5,5,6,6-octafluoro-': '131118-32-6',
-  'Hexanoic acid, undecafluoro-, hexyl ester': '132105',
+  'Hexanoic acid, undecafluoro-, hexyl ester': '',
   'Hexanoic acid, undecafluoro-, propyl ester': '134638-93-0',
   Hexanol: '25917-35-5',
   Hexanone: '30637-87-7',
@@ -19040,7 +19042,7 @@ export default {
   'Hydrogen ion': '12408-02-5',
   'Hydrogen peroxide': '7722-84-1',
   'Hydrogen phosphate': '14066-19-4',
-  'Hydrogen sulfide': '7783-06-4',
+  'Hydrogen sulfide': '\t7783-06-4',
   'Hydrograph limb (choice list)': '',
   'Hydrologic Influence: Culverts (choice list)': '',
   'Hydrologic Influence: Groundwater (choice list)': '',
@@ -19105,7 +19107,7 @@ export default {
   Hydroxymetolachlor: '131068-72-9',
   Hydroxyphenols: '',
   Hydroxyphthalazinone: '',
-  Hydroxysimazine: '2599-11-3',
+  Hydroxysimazine: '\t2599-11-3',
   Hydroxytebuthiuron: '59962-54-8',
   Hydroxyzine: '68-88-2',
   Hymexazol: '10004-44-1',
@@ -19156,7 +19158,7 @@ export default {
   'Imidodicarbonic diamide, N,N?,2-tris(6-isocyanatohexyl)-, reaction products with 3-chloro-1,2-propanediol and alpha-fluoro-omega-(2-hydroxyethyl)poly(difluoromethylene)':
     '110053-43-5',
   'Imidodicarbonic diamide, N,N?,2-tris(6-isocyanatohexyl)-, reaction products with glycidol, hydrolyzed ethylene-pentafluo':
-    '2967-10-4',
+    '\t2967-10-4',
   'Imidodicarbonic diamide, N,N?,2-tris(6-isocyanatohexyl)-, reaction products with glycidol, hydrolyzed ethylene-pentafluoroiodoethane-tetrafluoroethylene telomer reaction product and stearyl alc.':
     '162491-88-5',
   Iminostilbene: '256-96-2',
@@ -19332,7 +19334,7 @@ export default {
   'Isobutyl acetate': '110-19-0',
   'Isobutyl alcohol-d6': '',
   'Isobutyl benzoate': '120-50-3',
-  'Isobutyl paraben': '4247-02-3',
+  'Isobutyl paraben': '\t4247-02-3',
   'Isobutylene-Tetrafluoroethylene copolymer': '25684-89-3',
   Isobutyraldehyde: '78-84-2',
   'Isobutyric acid': '79-31-2',
@@ -19875,7 +19877,7 @@ export default {
   'Malathion-d6': '1189877-72-2',
   'Maleic anhydride': '108-31-6',
   Malononitrile: '109-77-3',
-  Mancozeb: '8018-01-7',
+  Mancozeb: '\t8018-01-7',
   Mandestrobin: '173662-97-0',
   Mandipropamid: '374726-62-2',
   Maneb: '12427-38-2',
@@ -20101,7 +20103,7 @@ export default {
   Methidathion: '950-37-8',
   Methiocarb: '2032-65-7',
   'Methiocarb sulfone': '2179-25-1',
-  'Methiocarb sulfoxide': '2635-10-1',
+  'Methiocarb sulfoxide': '\t2635-10-1',
   Methiozolin: '403640-27-7',
   Methocarbamol: '532-03-6',
   Methomyl: '16752-77-5',
@@ -20315,7 +20317,7 @@ export default {
   'Methyl methacrylate': '80-62-6',
   'Methyl methanesulfonate': '66-27-3',
   'Methyl myristate': '124-10-7',
-  'Methyl nonaflate': '1644019',
+  'Methyl nonaflate': '',
   'Methyl nonafluorovalerate': '13038-26-1',
   'Methyl nonyl ketone': '112-12-9',
   'Methyl o-benzoylbenzoate': '606-28-0',
@@ -20343,7 +20345,7 @@ export default {
   'Methyl perfluorooctadecanoate': '16753-33-6',
   'Methyl perfluorooctanoate': '376-27-2',
   'Methyl perfluoropentadecanoate': '203303-00-8',
-  'Methyl perfluoropentyl ketone': '295306',
+  'Methyl perfluoropentyl ketone': '',
   'Methyl perfluorotetradecanoate': '203302-99-2',
   'Methyl perfluoroundecanoate': '203302-98-1',
   'Methyl propyl disulfide': '2179-60-4',
@@ -21065,7 +21067,7 @@ export default {
   'N-(4-Chlorophenyl)-1,1,2,2,2-pentafluoroethane-1-sulfinamide': '61424-49-5',
   'N-(4-Chlorophenyl)-2,2,3,3,4,4,4-heptafluorobutanamide': '79497-98-6',
   "N-(4-Chlorophenyl)-N'-methylurea": '5352-88-5',
-  'N-(4-Nitrophenyl)perfluorobutanamide': '719320',
+  'N-(4-Nitrophenyl)perfluorobutanamide': '',
   'N-(5-Chloro-3-nitropyridin-2-yl)-2,2,3,3,3-pentafluoropropanamide':
     '60792-72-5',
   'N-(6-Amino-1,3-dimethyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-5-yl)-2,2,3,3,3-pentafluoropropanamide':
@@ -21668,7 +21670,7 @@ export default {
   'Naphthalene, 1,2,3-trichloro-': '50402-52-3',
   'Naphthalene, 1-(2,2,3,3-tetrafluorocyclopropyl)-': '922141-54-6',
   'Naphthalene, 2,7-dichloro-': '2198-77-8',
-  'Naphthalene, 2-(1,1,2,2-tetrafluoroethoxy)-': '327480',
+  'Naphthalene, 2-(1,1,2,2-tetrafluoroethoxy)-': '',
   'Naphthalene, 2-bromo-': '580-13-2',
   'Naphthalene, 2-methylnaphthalene mix': '',
   'Naphthalene, [difluoro(1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)methyl]heptadecafluorodecahydro-':
@@ -21702,7 +21704,7 @@ export default {
   'Neodymium-147': '14269-74-0',
   Neomycin: '1404-04-2',
   'Neomycin sulfate': '1405-10-3',
-  Neon: '7440-01-9',
+  Neon: '\t7440-01-9',
   'Neon-20': '',
   'Neon-20/Neon-22 error': '',
   'Neon-20/Neon-22 ratio': '',
@@ -21743,7 +21745,7 @@ export default {
   'Nimesulide-d5': '',
   Nimodipine: '',
   'Nimodipine-d7': '',
-  Niobium: '7440-03-1',
+  Niobium: '\t7440-03-1',
   'Niobium-94': '14681-63-1',
   'Niobium-95': '13967-76-5',
   Nitenpyram: '150824-47-8',
@@ -21832,7 +21834,7 @@ export default {
   'Nonafluorobutane-1-sulfonoperoxoic acid': '85963-79-7',
   'Nonafluorobutane-1-thiol': '125870-53-3',
   'Nonafluorobutanesulfonamide ammonia salt': '131003-86-6',
-  'Nonafluorobutyl prop-2-enoate': '295180',
+  'Nonafluorobutyl prop-2-enoate': '',
   Nonafluorobutylepoxide: '89807-87-4',
   Nonafluoromorpholine: '378-94-9',
   Nonafluoropentanamide: '13485-61-5',
@@ -22193,7 +22195,7 @@ export default {
   Oseltamivir: '196618-13-0',
   'Oseltamivir acid': '187227-45-8',
   'Oseltamivir carboxylate': '',
-  Osmium: '7440-04-2',
+  Osmium: '\t7440-04-2',
   'Osmotic pressure': '',
   'Other Disturbance (choice list)': '',
   'Other Flow Alterations (Y/N) (choice List)': '',
@@ -22292,7 +22294,7 @@ export default {
   'Oxycodone-d3': '160227-46-3',
   'Oxycodone-d6': '152477-91-3',
   'Oxydemeton-methyl': '301-12-2',
-  Oxydisulfoton: '2497-07-6',
+  Oxydisulfoton: '\t2497-07-6',
   Oxyfluorfen: '42874-03-3',
   Oxygen: '7782-44-7',
   'Oxygen 18/oxygen 16 ratio in sulfate': '',
@@ -22623,7 +22625,7 @@ export default {
   POLYFLGSID_882624: '112310-55-1',
   POLYFLGSID_882625: '112328-98-0',
   Paclobutrazol: '76738-62-0',
-  Palladium: '7440-05-3',
+  Palladium: '\t7440-05-3',
   'Palladium, dichlorobis[tris[4-(2-(perfluorooctyl)ethyl)phenyl]phosphine-.beta.P]-':
     '326475-46-1',
   'Palladium, dichlorobis[tris[4-(heptadecafluorooctyl)phenyl]phosphine-.beta.P]- (9CI)':
@@ -22928,7 +22930,7 @@ export default {
   Penthiopyrad: '',
   Pentobarbital: '76-74-4',
   'Pentobarbital-d5': '',
-  Pentoxifylline: '6493-05-6',
+  Pentoxifylline: '\t6493-05-6',
   'Pentyl 2,2,3,3,4-pentafluoro-4-oxobutanoate': '92614-00-1',
   'Pentyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate': '183873-55-4',
   'Pentyl 4,4,5,5,6,6,7,7,7-nonafluoroheptanoate': '94345-13-8',
@@ -23317,7 +23319,7 @@ export default {
   Perfluorobutanoate: '45048-62-2',
   'Perfluorobutanoate (anionic form)': '45048-62-2',
   'Perfluorobutanoic acid': '375-22-4',
-  Perfluorobutanol: '422228',
+  Perfluorobutanol: '',
   'Perfluorobutyl hydrogen sulfate': '',
   Perfluorobutylcyclohexane: '374-60-7',
   Perfluorobutylcyclopentane: '87744-21-6',
@@ -23498,7 +23500,7 @@ export default {
   'Perfluorooctylsulfonylpropylaminoethyl acrylate': '2357-60-0',
   'Perfluoropalmitic acid': '67905-19-5',
   'Perfluoropent-1-ene': '376-87-4',
-  Perfluoropentadecane: '133010',
+  Perfluoropentadecane: '',
   'Perfluoropentadecanesulfonic acid': '',
   'Perfluoropentadecanoic acid': '141074-63-7',
   Perfluoropentanamide: '355-81-7',
@@ -23528,7 +23530,7 @@ export default {
   Perfluorosebacamide: '307-77-7',
   Perfluorosebacamidine: '865-94-1',
   'Perfluorosebacic acid': '307-78-8',
-  Perfluorosebaconitrile: '161689',
+  Perfluorosebaconitrile: '',
   'Perfluorosuberic acid': '678-45-5',
   'Perfluorosulfonic acid, PTFE copolymer': '66796-30-3',
   Perfluorotetracosane: '1766-41-2',
@@ -23542,7 +23544,7 @@ export default {
   'Perfluorotetradecyl hydrogen sulfate': '',
   'Perfluorotetrakis(carboxyethoxymethyl)methane tetramethyl ester':
     '773148-75-7',
-  Perfluorotetralin: '161625',
+  Perfluorotetralin: '',
   Perfluorotetramethyltetraoxapentadecanoicacidme: '133609-46-8',
   Perfluorotridecane: '376-03-4',
   Perfluorotridecanesulfonate: '',
@@ -23601,7 +23603,7 @@ export default {
   'Perylene-d12': '1520-96-3',
   'Pesticide mix, unspecified': '',
   Petasidae: '',
-  Petroleum: '8002-05-9',
+  Petroleum: '\t8002-05-9',
   'Petroleum hydrocarbons (C9-C44)': '',
   'Petroleum hydrocarbons, total extractable': '',
   'Petroleum hydrocarbons, total volatile': '',
@@ -23629,6 +23631,7 @@ export default {
   'Phenanthrene-1,4-dione': '',
   'Phenanthrene-d10': '1517-22-2',
   Phenanthridine: '229-87-8',
+  'Phenanthro[1,2-b]thiophene': '58426-99-6',
   Phenazopyridine: '94-78-0',
   'Phencyclidine hydrochloride': '956-90-1',
   Phendimetrazine: '634-03-7',
@@ -23753,8 +23756,8 @@ export default {
   'Phorate oxon sulfone': '',
   'Phorate oxon sulfoxide': '',
   'Phorate oxygen analog sulfone': '',
-  'Phorate sulfone': '2588-04-7',
-  'Phorate sulfoxide': '2588-03-6',
+  'Phorate sulfone': '\t2588-04-7',
+  'Phorate sulfoxide': '\t2588-03-6',
   'Phorate-d10': '1219805-45-4',
   Phoridae: '',
   Phoronida: '',
@@ -23863,7 +23866,7 @@ export default {
     '66559-58-8',
   'Phosphorane, difluorotris(nonafluorobutyl)-': '91543-34-9',
   'Phosphorane, diphenyl[2-(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)phenyl]-, oxide':
-    '1945230',
+    '',
   'Phosphorane, iodotrimethyl[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-':
     '89238-61-9',
   'Phosphorane, triethoxy[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]-':
@@ -23969,7 +23972,7 @@ export default {
   Picarbutrazox: '',
   'Picarbutrazox TZ-1E': '1253511-94-2',
   Picene: '213-46-7',
-  Picloram: '1918-02-1',
+  Picloram: '\t1918-02-1',
   'Picloram triethylamine salt': '35832-11-2',
   'Picloram triisopropanolamine salt': '6753-47-5',
   'Picloram-isooctyl': '26952-20-5',
@@ -24022,7 +24025,7 @@ export default {
   'Plastic limit': '',
   'Plasticity index': '',
   Plastics: '',
-  Platinum: '7440-06-4',
+  Platinum: '\t7440-06-4',
   Platycentropus: '',
   Platygymnopa: '',
   Platyhelminthes: '',
@@ -24035,7 +24038,7 @@ export default {
   Ploesoma: '',
   Ploima: '',
   'Plumbane, bis[(2,2,2-trifluoroacetyl)oxy]-': '4146-73-0',
-  Plutonium: '7440-07-5',
+  Plutonium: '\t7440-07-5',
   'Plutonium-238': '13981-16-3',
   'Plutonium-239': '15117-48-3',
   'Plutonium-239 and Plutonium-240 combined': '',
@@ -24047,7 +24050,7 @@ export default {
   'Point Source Pollution - Outfall Pipe Present (Y/N) (choice list)': '',
   'Polar organic chemicals': '',
   'Pollution tolerance abundance': '',
-  Polonium: '7440-08-6',
+  Polonium: '\t7440-08-6',
   'Polonium-210': '13981-52-7',
   'Polvinyl alcohol': '',
   'Poly(1,1-difluoroethylene/1,1,3,3,3-pentafluoropropene/tetrafluoroethylene/trifluoromethyl trifluorovinyl ether)':
@@ -24500,7 +24503,7 @@ export default {
   Potamothrix: '',
   Potamyia: '',
   'Potamyia flava': '',
-  Potassium: '7440-09-7',
+  Potassium: '\t7440-09-7',
   'Potassium (perfluorobutanesulfonyl)azanide': '289042-19-9',
   'Potassium 1,1,2,2,3,3,4,4-octafluorobutane-1-sulphonate': '70259-85-7',
   'Potassium 1,1,2,2-tetrafluoro-2-(pentafluoroethoxy)ethane-1-sulfonate':
@@ -24720,7 +24723,7 @@ export default {
   'Propanal, 2,2,3,3-tetrafluoro-, hydrate (1:1)': '215858-32-5',
   'Propanal, 2,2,3,3-tetrafluoro-3-[[1,1,1,2,3,3-hexafluoro-3-(1,2,2,2-tetrafluoroethoxy)propan-2-yl]oxy-':
     '',
-  'Propanal, 3,3,3-trifluoro-2-(trifluoromethyl)-': '4074-09-3',
+  'Propanal, 3,3,3-trifluoro-2-(trifluoromethyl)-': '\t4074-09-3',
   'Propanamide, 2,2,3,3,3-pentafluoro-': '354-76-7',
   'Propanamide, 2,2,3,3,3-pentafluoro-N-(1-phenylethyl)-': '51241-60-2',
   'Propanamide, 2,2,3,3,3-pentafluoro-N-(2-((propylsulfonyl)amino)-5-(trifluoromethyl)-3-pyridinyl)-':
@@ -24735,7 +24738,7 @@ export default {
   'Propanamide, 3,3,3-trifluoro-2-hydroxy-2-(trifluoromethyl)-': '662-21-5',
   'Propanamide, 3,3,3-trifluoro-N,2-bis(trifluoromethyl)-': '103547-54-2',
   'Propanamide, 3,3,3-trifluoro-N-(4-methyl-2-pyridinyl)-2-(trifluoromethyl)-':
-    '5309-03-5',
+    '\t5309-03-5',
   'Propanamide, 3,3,3-trifluoro-N-(4-nitrophenyl)-2-(trifluoromethyl)-':
     '294651-51-7',
   'Propanamide, 3-[(.gamma.-.omega.-perfluoro-C4-10-alkyl)thio] derivs.':
@@ -24804,7 +24807,7 @@ export default {
   'Propane, 1,1,1,2,3,3-hexafluoro-3-(trichloromethoxy)-': '56860-83-4',
   'Propane, 1,1,1,2,3,3-hexafluoro-3-(trifluoromethoxy)-': '428454-68-6',
   'Propane, 1,1,1,2,3,3-hexafluoro-3-iodo-': '431-90-3',
-  'Propane, 1,1,1,2,3-pentachloro-2,3,3-trifluoro-': '165945',
+  'Propane, 1,1,1,2,3-pentachloro-2,3,3-trifluoro-': '',
   'Propane, 1,1,1,2,3-pentafluoro-': '431-31-2',
   'Propane, 1,1,1,2-tetrafluoro-': '421-48-7',
   'Propane, 1,1,1,2-tetrafluoro-3,3,3-trimethoxy-': '42415-18-9',
@@ -24818,7 +24821,7 @@ export default {
     '66670-22-2',
   'Propane, 1,1,1,3,3,3-hexafluoro-2-methyl-': '382-09-2',
   'Propane, 1,1,1,3,3,3-hexafluoro-2-nitro-': '13071-90-4',
-  'Propane, 1,1,1,3,3-pentachloro-2,2,3-trifluoro-': '165977',
+  'Propane, 1,1,1,3,3-pentachloro-2,2,3-trifluoro-': '',
   'Propane, 1,1,1,3-tetrachloro-2,2,3,3-tetrafluoro-': '2268-46-4',
   'Propane, 1,1,1-trichloro-2,2,3,3,3-pentafluoro-': '4259-43-2',
   'Propane, 1,1,1-trichloro-2,2,3,3-tetrafluoro-': '422-51-5',
@@ -25304,7 +25307,7 @@ export default {
   'Pyrazine, 2-methoxy-5-methyl-': '2882-22-6',
   Pyrazon: '1698-60-8',
   Pyrene: '129-00-0',
-  'Pyrene, 4-methyl-': '3353-12-6',
+  'Pyrene, 4-methyl-': '\t3353-12-6',
   'Pyrene-d10': '1718-52-1',
   'Pyrethrin I': '121-21-1',
   'Pyrethrin II': '121-29-9',
@@ -26310,9 +26313,9 @@ export default {
   'Sodium cacodylate': '124-65-2',
   'Sodium carbonate': '497-19-8',
   'Sodium cetyl sulfate': '1120-01-0',
-  'Sodium chlorate': '7775-09-9',
+  'Sodium chlorate': '\t7775-09-9',
   'Sodium chloride': '7647-14-5',
-  'Sodium chromate(VI)': '7775-11-3',
+  'Sodium chromate(VI)': '\t7775-11-3',
   'Sodium cyanide': '143-33-9',
   'Sodium dichromate': '10588-01-9',
   'Sodium dimethyldithiocarbamate': '128-04-1',
@@ -26753,7 +26756,7 @@ export default {
   'Sulfur Organic Residual Mod': '',
   'Sulfur Sulfate': '14808-79-8',
   'Sulfur Total': '',
-  'Sulfur dioxide': '7446-09-5',
+  'Sulfur dioxide': '\t7446-09-5',
   'Sulfur hexafluoride': '2551-62-4',
   'Sulfur, organic': '',
   'Sulfur, pyritic': '',
@@ -27051,7 +27054,7 @@ export default {
   'Tetrafluorosuccinyl fluoride': '679-13-0',
   'Tetrahydro(perfluorobutyl)furan': '26446-59-3',
   'Tetrahydroabietylamine acetate': '53494-58-9',
-  Tetrahydrocannabinol: '1972-08-3',
+  Tetrahydrocannabinol: '\t1972-08-3',
   Tetrahydrofuran: '109-99-9',
   'Tetrahydrofuran-d8': '',
   Tetrahydrophthalimide: '27813-21-4',
@@ -27528,12 +27531,12 @@ export default {
   Triclopyr: '55335-06-3',
   'Triclopyr-butotyl': '64700-56-7',
   Triclosan: '3380-34-5',
-  'Triclosan methyl ether': '4640-01-1',
-  'Triclosan,C13H10Cl2O- derivative': '4640-07-7',
+  'Triclosan methyl ether': '\t4640-01-1',
+  'Triclosan,C13H10Cl2O- derivative': '\t4640-07-7',
   'Triclosan-13C12': '',
   'Triclosan-d3': '',
   Tricosane: '638-67-5',
-  Tricosanol: '3133-01-5',
+  Tricosanol: '\t3133-01-5',
   'Tricresyl phosphate': '1330-78-5',
   Tricyclazole: '41814-78-2',
   Tricyclene: '508-32-7',
@@ -27686,7 +27689,7 @@ export default {
   'Trimethylsilyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate':
     '152718-74-6',
   'Trimethylsilyl 2-trimethylsilyloxybenzoate': '3789-85-3',
-  'Trimethylsilyl ether of glycerol': '6787-10-6',
+  'Trimethylsilyl ether of glycerol': '\t6787-10-6',
   'Trimethylsilyl heptadecafluorononanoate': '1244856-06-1',
   'Trimethylsilyl heptafluorobutanoate': '24929-99-5',
   'Trimethylsilyl perfluorobutanesulfonate': '68734-62-3',
@@ -27941,7 +27944,7 @@ export default {
   'Verapamil-d6': '',
   Vermicasts: '',
   Vernolate: '1929-77-7',
-  'Verrucarin A': '3148-09-2',
+  'Verrucarin A': '\t3148-09-2',
   'Vertical Height from waterline to high water mark': '',
   'Verticillium lecanii': '67892-35-7',
   'Viable seed count': '',
@@ -28416,7 +28419,7 @@ export default {
   'cis-2-Hexene': '7688-21-3',
   'cis-2-Pentene & 2-methylpentane': '',
   'cis-2-Phenyl-2-butene': '767-99-7',
-  'cis-3-Hexene': '7642-09-3',
+  'cis-3-Hexene': '\t7642-09-3',
   'cis-4-Methyl-2-pentene': '691-38-3',
   'cis-Androsterone-16,16-d2': '',
   'cis-Androsterone-2,2,3,4,4-d5': '',
@@ -28618,7 +28621,7 @@ export default {
   'p-Hydroxybenzaldehyde': '123-08-0',
   'p-Hydroxybenzoic acid': '99-96-7',
   'p-Hydroxycinnamic acid': '7400-08-0',
-  'p-Isopropenylacetophenone': '5359-04-6',
+  'p-Isopropenylacetophenone': '\t5359-04-6',
   'p-Menthane': '99-82-1',
   'p-Methoxyphenol': '150-76-5',
   'p-Methyl styrene': '622-97-9',
@@ -28699,7 +28702,7 @@ export default {
   'trans-1,2-Dimethylcyclohexane': '6876-23-9',
   'trans-1,3-Dichloropropene': '10061-02-6',
   'trans-1,3-Dichloropropene-d4': '93951-86-1',
-  'trans-1,3-Dimethylcyclohexane': '2207-03-6',
+  'trans-1,3-Dimethylcyclohexane': '\t2207-03-6',
   'trans-1,3-Dimethylcyclopentane': '1759-58-6',
   'trans-1,4-Dichloro-2-butene': '110-57-6',
   'trans-1,4-Dichlorocyclohexane': '16890-91-8',

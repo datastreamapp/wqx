@@ -480,6 +480,7 @@ export default {
   'uE/m2/sec': 'Viscosity, Photosynth. radiation,micro-Einsteins/sq.meter/sec',
   uL: 'Volume, Microliters',
   uPa2: 'Micropascals squared',
+  uS: 'Electrical conductance, Micro-Siemens',
   'uS/cm': 'Electric Resistivity, Micro-Siemens per Centimeter',
   'uS/m': 'Electric Resistivity, Micro-Siemens per Meter',
   'uW/cm2': 'Power, Micro-watts per square centimeter',
