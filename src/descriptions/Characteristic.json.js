@@ -22640,8 +22640,6 @@ export default {
   'Parathion-d10': '1; Request Date: 10-SEP-18',
   'Paraxanthine***retired***use 1,7-Dimethylxanthine':
     'Request Date: 9-Apr-19 (nps.gov cas# review)',
-  'Parlar 26':
-    'Request Date: 19-Jul-16 NJDEP Division of Water Monitoring & Standards (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Parlar 50***retired***use Toxaphene Parlar 50':
     'Request Date: 12-Jul-16 NJDEP Division of Water Monitoring & Standards (nps.gov cas# review)',
   'Parlar 62***retired***use Toxaphene Parlar 62':
@@ -27784,21 +27782,36 @@ export default {
   'Toxaphene Cl7': 'GLENDA Biological Data Migration; Request Date: 16-DEC-16',
   'Toxaphene Cl8': 'GLENDA Biological Data Migration; Request Date: 16-DEC-16',
   'Toxaphene Cl9': 'GLENDA Biological Data Migration; Request Date: 16-DEC-16',
+  'Toxaphene Parlar 11/12': '',
   'Toxaphene Parlar 15': 'GLENDA BioData 1978; Request Date: 21-NOV-16',
+  'Toxaphene Parlar 21': '',
+  'Toxaphene Parlar 25': '',
   'Toxaphene Parlar 26':
     'GLENDA Biological Data MigrationRequest Date: 17-NOV-16| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Toxaphene Parlar 26*':
+    'Request Date: 19-Jul-16 NJDEP Division of Water Monitoring & Standards (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Toxaphene Parlar 31/32': '',
   'Toxaphene Parlar 38':
     'GLENDA Biological Data Migration; Request Date: 17-NOV-16',
+  'Toxaphene Parlar 39': '',
   'Toxaphene Parlar 40':
     'GLENDA Biological Data Migration; Request Date: 17-NOV-16',
+  'Toxaphene Parlar 40/41': '',
   'Toxaphene Parlar 41':
     'GLENDA Biological Data Migration; Request Date: 17-NOV-16',
+  'Toxaphene Parlar 42': '',
   'Toxaphene Parlar 44':
     'GLENDA Biological Data Migration; Request Date: 17-NOV-16',
   'Toxaphene Parlar 50':
     'GLENDA Biological Data MigrationRequest Date: 17-NOV-16| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Toxaphene Parlar 51': '',
+  'Toxaphene Parlar 56': '',
+  'Toxaphene Parlar 58': '',
+  'Toxaphene Parlar 59': '',
   'Toxaphene Parlar 62':
     'GLENDA Biological Data MigrationRequest Date: 17-NOV-16| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Toxaphene Parlar 63': '',
+  'Toxaphene Parlar 69': '',
   ToxapheneTMX1: 'GLENDA Biological Data Migration; Request Date: 17-NOV-16',
   'Toxicity acute': '; Request Date: 18-JUN-14',
   'Toxicity chronic': '; Request Date: 18-JUN-14',
