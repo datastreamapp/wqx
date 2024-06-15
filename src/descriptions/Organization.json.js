@@ -671,6 +671,7 @@ export default {
   FLO_SEP: 'City of Florence-Siuslaw estuary Partnership',
   FLO_URBAN: 'City of Florence-Urban Waters Grant; monitoring data',
   FLPRMRWS_WQX: 'Water Quality Monitoring Data',
+  FLYGRB: '',
   FMMI: '',
   FMYN_WQX:
     'Fort McDowell Yavapai Nation, Arizona (Tribal) || Fort McDowell Yavapai Nation, Arizona (Tribal)',
@@ -1148,6 +1149,7 @@ export default {
   OST_SHPD: '',
   OST_SHPD_TEST: '',
   'OSU-OOIEA': "Ocean Observatories Initiative's Endurance Array",
+  OSU_NREM_WQX: '',
   OTIE: '',
   OTTAWATRIBEOFOK: '',
   OVIWC: '',
