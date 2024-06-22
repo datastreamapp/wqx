@@ -565,6 +565,7 @@ export default {
   CT_DEP01_WQX:
     'This is the central agency for all water quality data in this system',
   CURRY_WP: 'Erin Minster - Current VolMon group',
+  CUSH: '',
   CUSP: 'CDSN - Coalition for the Upper South Platte',
   CVC: 'Conemaugh Valley Conservancy',
   CWLT_WQX:
@@ -651,6 +652,7 @@ export default {
   EPIC_WQX: '',
   EQUILIBRIUM: '',
   ERG: 'Eastern Research Group, Inc.',
+  ERMMINNEAPOLIS: '',
   ERWC: '',
   ERWSD: 'Eagle River Water and Sanitation District',
   ESATR08_WQX: 'TechLaw/USEPA ESAT R08 Water Quality Data',

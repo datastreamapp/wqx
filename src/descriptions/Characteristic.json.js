@@ -6448,6 +6448,7 @@ export default {
   '2,4-Dihydroxybenzophenone': 'NWIS',
   '2,4-Dimethoxy-5-(nonafluorobutyl)pyrimidine': '',
   '2,4-Dimethyl-1-(propan-2-yl)benzene': '',
+  '2,4-Dimethyl-1-decene': '',
   '2,4-Dimethyldibenzothiophene': '; Request Date: 31-MAR-14',
   '2,4-Dimethylhept-1-ene': '',
   '2,4-Dimethylhexane': '',
@@ -28561,6 +28562,7 @@ export default {
   'Weather condition, now': 'Weather condition past 7 days',
   Weight:
     'The mass of an object measured in units of mass such as grams, pounds, tons, etc.; Request Date: 02-MAR-07',
+  'Weight, inert material content': '',
   'Weight, volatile portion':
     'The weight of solids lost after ignition at a specified temperature.; Request Date: 02-MAR-07',
   'Well condition (choice list)': '; Request Date: 08-NOV-13',

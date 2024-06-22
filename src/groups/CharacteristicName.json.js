@@ -8391,6 +8391,7 @@ export default {
   '2,4-Dimethoxy-5-(nonafluorobutyl)pyrimidine':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,4-Dimethyl-1-(propan-2-yl)benzene': 'Not Assigned',
+  '2,4-Dimethyl-1-decene': 'Not Assigned',
   '2,4-Dimethyldibenzothiophene': 'Not Assigned',
   '2,4-Dimethylhept-1-ene': 'Not Assigned',
   '2,4-Dimethylhexane': 'Not Assigned',
@@ -32961,6 +32962,7 @@ export default {
   'Weather condition past 24 hours': 'Information',
   'Weather condition, now': 'Not Assigned',
   Weight: 'Physical',
+  'Weight, inert material content': 'Not Assigned',
   'Weight, volatile portion': 'Physical',
   'Well condition (choice list)': 'Not Assigned',
   'Wet Bulk Density of Soils': 'Not Assigned',
