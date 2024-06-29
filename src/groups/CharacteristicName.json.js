@@ -26167,6 +26167,7 @@ export default {
   'Octalphenoxyacetic acid': 'Not Assigned',
   'Octamethyl Pyrophosphoramide': 'Organics, Other',
   Octamethylcyclotetrasiloxane: 'Not Assigned',
+  Octamethyltrisiloxane: 'Not Assigned',
   'Octan-2-yl heptafluorobutanoate': 'PFAS,Perfluorinated Alkyl Substance',
   Octanal: 'Not Assigned',
   'Octanal, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-2-methyl-':
