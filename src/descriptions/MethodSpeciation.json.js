@@ -193,6 +193,8 @@ export default {
     'A photon is a particle representing a quantum of light or other electromagnetic radiation',
   'as qPCR':
     'bacteria studies involving real-time polymerase chain reaction (qPCR) tests',
+  'as trichromatic':
+    'Trichromacy or trichromatism is the possession of three independent channels for conveying color information',
   purified:
     'The purified target DNA should be free of contaminants, including proteins, other cellular components and undesired nucleic acids. Purification is based on selective adsorption of DNA to the silica membrane in the presence of high concentrations of chaotropic salts, washes to efficiently remove contaminants, and elution of the DNA with low-salt solutions such as TE buffer or water.',
   'purified untreated': 'purified untreated',

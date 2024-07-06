@@ -965,7 +965,6 @@ export default {
   MEIYINWUSUNYPLATTSBURGH: '',
   MENOM_WQX:
     'MENOMINEE INDIAN TRIBE OF WISCONSIN (Wisconson) || MENOMINEE INDIAN TRIBE OF WISCONSIN (Wisconson) (Tribal)',
-  MERI: 'Meadowlands Environmental Research Institute, Our mission is to provide the scientific community, policy makers, and the public with the knowledge and predictive understanding necessary to conserve, protect, and manage the District ecosystems and the services they provide.',
   MERRIMACK_RIVER_WATERSHED_WQX: '',
   MESKWAKI_DNR:
     'Meskwaki Department of Natural Resources (Tribal) || Meskwaki Department of Natural Resources (Tribal)',
@@ -1013,6 +1012,8 @@ export default {
   MOUNTOLIVETOWNSHIP: '',
   MPSLML: 'Marine Pollution Studies Lab at Moss Landing Marine Laboratories,',
   MRC: 'Monitoring coalition w/ an approved QAPP through the SC Development of Health and Environmental Control',
+  'MRRI-NJSEA':
+    'Meadowlands Research & Restoration Institute, Our mission is to provide the scientific community, policy makers, and the public with the knowledge and predictive understanding necessary to conserve, protect, and manage the District ecosystems and the services they provide.',
   MRSENVMB_WQX: 'NPDES Monitoring Data',
   MRWA: 'Musconetcong River Watershed Association',
   MSI: 'Mountain Studies Institute (MSI) is an independent not-for-profit mountain research and education center established in 2002 in Silverton, Colorado. MSI develops science that people can use to address environmental issues facing the San Juan Mountains. We conduct and facilitate research, provide educational opportunities and internships, and conduct environmental monitoring. We connect scientists and stakeholders across the San Juan Mountain region to go beyond scientific inquiry to the meaning',
@@ -1093,6 +1094,7 @@ export default {
   NJ_MSU: '',
   NKUWATER_WQX:
     'Water Quality Monitoring Data:Consortia working with local groups including the Licking Watershed Watch.',
+  NMBGMR: '',
   NMW_WQX: '',
   NNB: 'Volunteer Monitoring Group',
   NNEPA:
@@ -1409,8 +1411,7 @@ export default {
   SNSA_WQX: 'Water Quality Monitoring Data',
   SOBOBA_WQX:
     'Soboba Band of Luiseno Indians, California (Tribal) || Soboba Band of Luiseno Indians, California (Tribal)',
-  SOKAOGON_WQX:
-    'Sokaogon Chippewa Community || Sokaogon Chippewa Community (Tribal)',
+  SOKAOGON_WQX: '',
   SONOMAWATER_WQX: '',
   SOUTHSANTIAM_WC: 'Eric Anderson, Current VolMon group',
   SOUTHUTE: '',

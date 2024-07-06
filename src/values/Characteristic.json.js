@@ -14569,6 +14569,7 @@ export default {
     'Ibuprofen***retired***use Benzeneacetic acid, .alpha.-methyl-4-(2-methylpropyl)-',
     'Ibuprofen-13C3',
     'Ibuprofen-d3',
+    'Ice cover duration',
     'Ice cover, floating or solid - severity (choice list)',
     'Ice cover, floating or solid, as % area estimate',
     'Ice thickness',

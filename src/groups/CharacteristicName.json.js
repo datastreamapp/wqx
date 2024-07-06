@@ -22856,6 +22856,7 @@ export default {
   Ibuprofen: 'Not Assigned',
   'Ibuprofen-13C3': 'Organics, Other',
   'Ibuprofen-d3': 'Information',
+  'Ice cover duration': 'Physical',
   'Ice cover, floating or solid - severity (choice list)': 'Physical',
   'Ice cover, floating or solid, as % area estimate': 'Organics, Other',
   'Ice thickness': 'Physical',

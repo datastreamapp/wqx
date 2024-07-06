@@ -18990,6 +18990,7 @@ export default {
     'Request Date: 2-Aug-19 (nps.gov cas# review)',
   'Ibuprofen-13C3': '; Request Date: 22-JUL-14',
   'Ibuprofen-d3': 'Ibuprofen-d3',
+  'Ice cover duration': '',
   'Ice cover, floating or solid - severity (choice list)':
     'Severity of the ice on a body of water, including none, mild, moderate, serious, or extreme.; Request Date: 02-MAR-07',
   'Ice cover, floating or solid, as % area estimate': '14;',

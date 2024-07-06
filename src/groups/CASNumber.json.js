@@ -19126,6 +19126,7 @@ export default {
   Ibuprofen: '15687-27-1',
   'Ibuprofen-13C3': '',
   'Ibuprofen-d3': '121662-14-4',
+  'Ice cover duration': '',
   'Ice cover, floating or solid - severity (choice list)': '',
   'Ice cover, floating or solid, as % area estimate': '',
   'Ice thickness': '',

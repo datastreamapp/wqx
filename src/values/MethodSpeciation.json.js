@@ -112,6 +112,7 @@ export default {
     'as pH',
     'as photons',
     'as qPCR',
+    'as trichromatic',
     'purified',
     'purified untreated',
     'treated',

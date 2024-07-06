@@ -25,6 +25,7 @@
   "BVER": "Continuing calibration blank criteria was not met",
   "C": "Presence of compound may be due to contamination of sample during laboratory processing",
   "C25": "Dual Column result difference >25%",
+  "C40": "Dual Column result difference >40%",
   "CAJ": "Correction Factor, lab",
   "CAN": "No Result Reported, analysis canceled",
   "CBC": "No Result Reported, cannot be calculated",

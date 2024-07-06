@@ -44,6 +44,8 @@ export default {
     'ENVIROLOGIX',
     'FISON',
     'HACH',
+    'HANNA',
+    'HOBO',
     'IDEXX',
     'IL/SWSD',
     'IN-SITU',

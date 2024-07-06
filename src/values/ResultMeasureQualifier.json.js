@@ -30,6 +30,7 @@ export default {
     'BVER',
     'C',
     'C25',
+    'C40',
     'CAJ',
     'CAN',
     'CBC',
