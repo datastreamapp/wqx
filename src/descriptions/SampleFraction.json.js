@@ -25,7 +25,8 @@ export default {
     'Part of a sequential extraction protocol. Pertains to analytes that are assumed to be associated with iron and manganese oxides (also known as the reducible fraction).',
   'Extractable, residual':
     'Part of a sequential extraction protocol. Pertains to analytes present in the crystal lattice of minerals that are dissolved by strong acids.',
-  Field: 'Performed in field.',
+  'Field***':
+    'Performed in field. ***duplicate*** deprecated use "Unfiltered, field" (10-JUN-19)',
   'Filter/sieve residue':
     'The residue retained on a filter or sieve after sample material has been passed through it',
   Filterable:
