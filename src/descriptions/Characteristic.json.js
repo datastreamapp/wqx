@@ -31,6 +31,7 @@ export default {
   '(-)-1-Perfluoropropylethanol': '',
   '(-)-Perfluoro(2-propoxypropionic) acid': '',
   '(-)-cis-Permethrin': '; Request Date: 02-MAR-07',
+  '(-)-delta9-THC-d3': '',
   '(-)-trans-4-(4-Fluorophenyl)-3-(4-hydroxy-3-methoxyphenoxymethyl)piperidine':
     'NWIS',
   '(-)-trans-Permethrin': '; Request Date: 02-MAR-07',

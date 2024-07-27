@@ -4,15 +4,22 @@ export default {
   description: '',
   type: 'string',
   enum: [
+    'Amphibians',
     'Aquatic Vegetation',
     'Bacteria/Virus',
     'Benthic Macroinvertebrates',
+    'Birds',
     'Corals',
     'Diatoms',
     'Fish/Nekton',
+    'Fungi',
+    'Ichthyoplankton',
     'Invertebrates',
+    'Mammals',
     'Not Assigned',
+    'Periphyton',
     'Phytoplankton/Zooplankton',
+    'Reptiles',
     'Terrestrial Vegetation'
   ],
   maxLength: 26

@@ -43,6 +43,7 @@ export default {
   '(-)-Perfluoro(2-propoxypropionic) acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '(-)-cis-Permethrin': 'Organics, Pesticide',
+  '(-)-delta9-THC-d3': 'PFAS,Perfluorinated Alkyl Substance',
   '(-)-trans-4-(4-Fluorophenyl)-3-(4-hydroxy-3-methoxyphenoxymethyl)piperidine':
     'Not Assigned',
   '(-)-trans-Permethrin': 'Organics, Pesticide',

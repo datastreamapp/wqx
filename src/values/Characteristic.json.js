@@ -33,6 +33,7 @@ export default {
     '(-)-1-Perfluoropropylethanol',
     '(-)-Perfluoro(2-propoxypropionic) acid',
     '(-)-cis-Permethrin',
+    '(-)-delta9-THC-d3',
     '(-)-trans-4-(4-Fluorophenyl)-3-(4-hydroxy-3-methoxyphenoxymethyl)piperidine',
     '(-)-trans-Permethrin',
     '(.alpha.R,7.alpha.)-3-Hydroxy-.alpha.-((perfluorobutyl)propyl)-17-oxo-estra-1,3,5(10)-triene-7-decanoic acid',

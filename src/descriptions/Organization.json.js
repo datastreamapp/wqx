@@ -1102,7 +1102,7 @@ export default {
   NOAA_CORALREEFS_WQX: '',
   NOMEESKIMO_WQX:
     'Nome Eskimo Community (Tribal) || Nome Eskimo Community (Tribal)',
-  NOOKSACK_WQX: 'Nooksack Indian Tribe || Nooksack Indian Tribe (Tribal)',
+  NOOKSACK_WQX: '',
   NORMANDEAUASSOC: 'Normandeau Associates Inc.',
   NOTTAWHURON_WQX:
     'Nottawaseppi Huron Band of the Potawatomi (Tribal) || Nottawaseppi Huron Band of the Potawatomi (Tribal)',
