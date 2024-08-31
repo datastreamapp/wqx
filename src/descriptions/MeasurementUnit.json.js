@@ -103,7 +103,8 @@ export default {
   'MPN/g': 'Concentration Solution, Most Probable Number per gram',
   MSC: 'Concentration Solution, Mean Standing Crop',
   'MT/km2/yr': 'Viscosity, Metric tons per square kilometer per year',
-  'Megam-1': 'Concentration Solution, Inverse Megameters or per Mega meters',
+  'Megam-1':
+    'Concentration Solution, Inverse Megameters or per Mega meters or Megam-1',
   'Mg/100cm2/d': 'Mega grams per 100 cm2 per day (d)',
   Mgal: 'Volume, Million gallons',
   'Mgal/day': 'Flow, Millions of gallons per day',
@@ -166,7 +167,8 @@ export default {
   'cfu/gdw': 'Concentration Solution, Colony Forming Units per gram dryweight',
   'cfu/mL': 'Concentration Solution, Colony Forming Units per milliliters',
   cm: 'Length Distance, Centimeters',
-  'cm-1': 'Concentration Solution, Inverse centimeters or per centimeters',
+  'cm-1':
+    'Concentration Solution, Inverse centimeters or per centimeters or cm-1',
   'cm/sec': 'Speed Velocity, Centimeters per second',
   cm2: 'Area, Square centimeters',
   cm3: 'Volume, Cubic centimeters',
@@ -310,7 +312,8 @@ export default {
     'Concentration Solution, Log10 copies (If Loga b = x, then a^x=b)',
   lumens: 'Light Intensity, lumens',
   m: 'Length Distance, Meters',
-  'm-1': 'Inverse meters or per meters',
+  'm-1*^*^*^*^*':
+    'DO NOT USE, Inverse meters or per meters ***retired***use per m',
   'm/sec': 'Speed Velocity, Meters per second',
   'm/y': 'Time, Month/year',
   m2: 'Area, Square meters',

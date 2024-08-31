@@ -25,7 +25,8 @@ export default {
     'Near-microscopic plant material found attached to solid surfaces submerged in the aquatic environment.',
   'Phytoplankton/Zooplankton':
     'Near-microscopic plants and animals found in the water column between the surface and the bottom. - https://www.nps.gov/im/klmn/species-lists.htm',
-  Reptiles: 'Snakes, lizards, turtles, etc.',
+  Reptiles:
+    'Snakes, lizards, turtles, etc. air-breathing, cold-blooded vertebrates that have scaly bodies rather than hair or feathers; most reptile species are egg-laying',
   'Terrestrial Vegetation':
     'Plants normally found growing out of water.  Trees, shrubs, grasses, etc. NPS Terrestrial Vegetation - https://www.nps.gov/im/klmn/vegetation.htm'
 }

@@ -146,7 +146,7 @@ export default {
   'Whole, No Exoskeleton/Shell': 'Whole organism, no exoskeleton or shell',
   'Whole, NoStomachContents/Gills':
     'Whole organism, no stomach contents or gills',
-  'Whole, Not Gut': '',
+  'Whole, Not Gut': 'Whole organism with guts removed',
   Wing: 'A modified forelimb that bears large feathers and is used for flying.',
   Wood: 'The hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub.'
 }

@@ -412,7 +412,7 @@ export default {
   CAPECOD_REG_WQ: '',
   CAPECRD_WQX: 'Water Quality Monitoring Data',
   CARGILLMS_WQX: 'Cargill Meat Solutions (aka. Fort Morgan Beef Plant)',
-  CATAWBA: ' (Tribal)',
+  CATAWBA: '(Tribal)',
   CATAWBARIVERKEEPER: 'Catawba Riverkeeper Foundation (CRF)',
   CA_BVR:
     'Big Valley Band of Pomo Indians of the Big Valley Rancheria, California (Tribal) || Big Valley Band of Pomo Indians of the Big Valley Rancheria, California (Tribal)',
@@ -425,6 +425,7 @@ export default {
   CCAMP_WQX: 'Water Quality Data',
   CCC: '',
   'CCCE-WHSE': 'Cape Cod Cooperative Extension/Woods Hole Sea Grant',
+  CCS: 'https://coastalstudies.org/',
   CCSCD: '',
   CCSHBWA: 'Crafts Creek Spring Hill Brook Watershed Association',
   CCSR: 'Cohasset Center for Student Coastal Research',
@@ -666,8 +667,7 @@ export default {
   FAEC: 'Water Quality Monitoring Data',
   FBUSER_WQX:
     'Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal) || Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal)',
-  FCPOTAWATOMI_WQX:
-    'Forest County Potawatomi Community || Forest County Potawatomi Community (Tribal)',
+  FCPOTAWATOMI_WQX: '',
   FIGRWQP: '',
   FIIR: 'Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California || Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California',
   FLASIOUX: '',
@@ -711,6 +711,7 @@ export default {
   GEC_WQX: 'Water Quality Monitoring Data',
   GEI: '',
   GEICON_WQX: 'Water Quality Monitoring Data',
+  GENESEECSWCD: '',
   GGCWC: 'Volunteer Monitoring Group',
   GIALANDANDWATER: 'Green Iowa AmeriCorps',
   GILLIAM_SWCD: 'Volunteer Monitoring Group',
@@ -1009,6 +1010,7 @@ export default {
   MOOREINSTITUTEPLASTICPOLLUTION_WQX: '',
   MOORETOWNEPO: 'Mooretown Rancheria (Tribal) || Mooretown Rancheria (Tribal)',
   MORONGO1_WQX: '',
+  MOTE_WQX: '',
   MOUNTOLIVETOWNSHIP: '',
   MPSLML: 'Marine Pollution Studies Lab at Moss Landing Marine Laboratories,',
   MRC: 'Monitoring coalition w/ an approved QAPP through the SC Development of Health and Environmental Control',
@@ -1045,6 +1047,7 @@ export default {
   NARSTEST: '',
   NARS_WQX: '',
   NCADH: 'North Carolina Aquatic Data Hub',
+  NCSWCD: '',
   NCUSGS: '',
   NCWA_WQX: 'North Coast Watershed Association',
   NCWCD: 'Water Quality Monitoring Data.',
@@ -1104,8 +1107,7 @@ export default {
     'Nome Eskimo Community (Tribal) || Nome Eskimo Community (Tribal)',
   NOOKSACK_WQX: '',
   NORMANDEAUASSOC: 'Normandeau Associates Inc.',
-  NOTTAWHURON_WQX:
-    'Nottawaseppi Huron Band of the Potawatomi (Tribal) || Nottawaseppi Huron Band of the Potawatomi (Tribal)',
+  NOTTAWHURON_WQX: '',
   NRTHCHEY: 'Environmental Protection Department',
   NRWA_WQX: 'Water Quality Monitoring Data',
   NRWC: '',
@@ -1190,7 +1192,7 @@ export default {
   PICAYUNERANCHERIACWA106:
     'Picayune Rancheria of Chukchansi Indians of California (Tribal) || Picayune Rancheria of Chukchansi Indians of California (Tribal)',
   PICEANCE_LDR: 'Piceance Basin Colorado',
-  PICURIS_PUEBLO: 'Picuris Pueblo (Tribal) || Picuris Pueblo (Tribal)',
+  PICURIS_PUEBLO: 'Picuris Pueblo',
   PIIC_WQX: '',
   PIMA_AZ: '',
   PINOLEVILLEPOMONATION_WQX:
@@ -1204,6 +1206,7 @@ export default {
   PORTGRAHAM:
     'Port Graham Village Council (Tribal) || Port Graham Village Council (Tribal)',
   PORTLANDHARBORRISS: 'City of Portland',
+  POTTERVALLEYTRIBE: '',
   PPNPROGRAM:
     'Pinoleville Pomo Nation, California (Tribal) || Pinoleville Pomo Nation, California (Tribal)',
   PRAIRIEBAND:
@@ -1315,8 +1318,7 @@ export default {
   RTI: 'http://www.rti.org/',
   RU_MUSC: 'Water Quality Monitoring Project for Musconetcong River',
   RVCG: 'Greg Stabach, Current VolMon group',
-  RVRPOMO:
-    'Redwood Valley Rancheria (Tribal) || Redwood Valley Rancheria (Tribal)',
+  RVRPOMO: '',
   SACFOXMO:
     'Sac & Fox Nation of Missouri in Kansas and Nebraska (Tribal) || Sac & Fox Nation of Missouri in Kansas and Nebraska (Tribal)',
   SACWSD_WQX: 'Water Quality Monitoring Data',
@@ -1400,6 +1402,7 @@ export default {
   SLCOWS: 'Salt Lake County Watershed',
   SLPWA: 'Water quality monitoring for Seneca Lake, New York',
   SLU_WQX: 'EPA Urban Waters Grant - St. Louis University',
+  SMAST: 'https://www.umassd.edu/smast/',
   SMENVIRONMENTAL_WQX:
     'San Manuel Band of Mission Indians, California (Tribal) || San Manuel Band of Mission Indians, California (Tribal)',
   SMIE: 'Water Quality Monitoring Data',
@@ -1624,6 +1627,8 @@ export default {
   WATERQUALITYPORTAL: 'www.waterqualitydata.us',
   WAYNE_STATE_UNIVERSITY: '',
   WA_ECOLOGY: 'Washington State Government',
+  WBNERR:
+    'https://waquoitbayreserve.org/research-monitoring/waquoit-baywatchers/',
   WCD: 'A local unit of government in Washington County, Minnesota dedicated to soil and water conservation',
   WC_WQX: '',
   WDEP_WQX:

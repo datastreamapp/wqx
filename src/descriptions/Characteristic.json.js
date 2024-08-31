@@ -6458,6 +6458,7 @@ export default {
   '2,4-Dimethoxy-5-(nonafluorobutyl)pyrimidine': '',
   '2,4-Dimethyl-1-(propan-2-yl)benzene': '',
   '2,4-Dimethyl-1-decene': '',
+  '2,4-Dimethyl-2-pentene': 'https://pubchem.ncbi.nlm.nih.gov/compound/12260',
   '2,4-Dimethyldibenzothiophene': '; Request Date: 31-MAR-14',
   '2,4-Dimethylhept-1-ene': '',
   '2,4-Dimethylhexane': '',
@@ -7534,6 +7535,7 @@ export default {
   '2-Methylisoborneol': '; Request Date: 22-MAY-15',
   '2-Methylnaphthalene': 'Nemi.gov; Request Date: 02-MAR-07',
   '2-Methylnaphthalene-D10': '; Request Date: 01-MAY-14',
+  '2-Methylnonane': '',
   '2-Methylpentane': '; Request Date: 02-MAR-07',
   '2-Methylperfluorobutane': '',
   '2-Methylphenanthrene': '; Request Date: 25-MAR-10',
@@ -10578,6 +10580,7 @@ export default {
   '4,4-Bis[(3,3,4,4,5,5,6,6,6-nonafluorohexyl)sulfanyl]pentanoic acid': '',
   '4,4-Dichloro-5,5,6,6,6-pentafluoro-2-methylhex-1-ene': '',
   '4,4-Dimethyl-1,3-dioxane': '; Request Date: 02-MAR-07',
+  '4,4-Dimethyl-2-pentanone': '',
   '4,4-Dimethyl-3-oxo-2-[2-(2,2,3,3-tetrafluoro-2,3-dihydro-1,4-benzodioxin-6-yl)hydrazinylidene]pentanenitrile':
     '',
   '4,4-Dimethylcyclopentene': 'Minnesota IT Services at MPCA ',
@@ -19575,6 +19578,7 @@ export default {
   'Latitude, Midstream': '',
   'Lauric acid': '1; Request Date: 02-MAR-07',
   'Lauryl acrylate': '',
+  'Lauryl glycidyl ether': '',
   Lauryldiethanolamine: '; Request Date: 08-APR-19',
   Lead: '; Request Date: 02-MAR-07',
   'Lead acetate':
@@ -29295,6 +29299,8 @@ export default {
     '1040;Nemi.gov; Request Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'trans-1,2-Dichloropropene': '; Request Date: 09-JAN-08',
   'trans-1,2-Dimethylcyclohexane': '; Request Date: 23-APR-14',
+  'trans-1,2-Dimethylcyclopropane':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/6427079',
   'trans-1,3-Dichloropropene': 'Nemi.gov; Request Date: 02-MAR-07',
   'trans-1,3-Dichloropropene-d4':
     'Request Date: 22-Dec-15 GLENDA contact (klewin.kenneth@epa.gov) (nps.gov cas# review)',

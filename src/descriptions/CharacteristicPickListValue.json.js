@@ -532,6 +532,9 @@ export default {
   'Spring, Channel Dominant Discharge Type (choice list)':
     'Only one terrace or bankful channel and channel starts at or near the spring orifice',
   'Soil Texture: Organic (choice list)': 'Peat',
+  'Rooted or floating plants restrict access to waterbody (Y/N) (choice list)':
+    'Yes',
+  'Whirling Disease Present (Y/N) (choice list)': 'Yes',
   'Otolith Collected (Y/N) (choice list)': 'Yes',
   'Fish Recaptured (Y/N) (choice list)': 'Yes',
   'NPS POLLUTION - Domestic Pets Present (Y/N) (choice list)': 'Yes',
@@ -552,8 +555,6 @@ export default {
     'Yes',
   'Torrent Scouring-Channel has little evidence of pool-riffle structure (Y/N) (choice list)':
     'Yes',
-  'Sludge (choice list)': 'Yes',
-  'Unnatural oil (choice list)': 'Yes',
   'Unnatural color (choice list)': 'Yes',
   'Abrupt lower boundary present (Y/N) (choice list)':
     'Yes, Abrupt lower boundary present',
@@ -600,7 +601,6 @@ export default {
   'Spring, Channel Present (Y/N) (choice list)': 'Yes',
   'Spring, Flowing Channel Length > 50 Meters (choice list)': 'Yes',
   'Spring, Flow Modification Active (choice list)': 'Yes',
-  'Unnatural bottom deposits (choice list)': 'Yes',
   'Unnatural odor (choice list)': 'Yes',
   'Unnatural plant or algal growth (choice list)': 'Yes',
   'Unnatural turbidity (choice list)': 'Yes',
@@ -654,6 +654,9 @@ export default {
   'Riffle (with flow) present in reach (Y/N) (choice list)': 'Yes',
   'Presence of freshwater sponge (Y/N) (choice list)': 'Yes',
   'Presence of exotic species (Y/N) (choice list)': 'Yes',
+  'Sludge (choice list)': 'Yes',
+  'Unnatural bottom deposits (choice list)': 'Yes',
+  'Unnatural oil (choice list)': 'Yes',
   'Unnatural plant growth (choice list)': 'Yes',
   'Unnatural algal growth (choice list)': 'Yes',
   'Fish Kill (Y/N) (choice list)': 'Yes',
@@ -664,9 +667,6 @@ export default {
   'Depth, Secchi disk visible at bottom (Y/N) (choice list)': 'Yes',
   'Depth, Photic zone includes bottom (Y/N) (choice list)': 'Yes',
   'Waterbody aesthetically degraded (Y/N)': 'Yes',
-  'Rooted or floating plants restrict access to waterbody (Y/N) (choice list)':
-    'Yes',
-  'Whirling Disease Present (Y/N) (choice list)': 'Yes',
   'RBP Undersides of Loose Stones Black Y/N (choice list)':
     'YES - Self describing.',
   'Redoximorphic Features (choice list)': 'Soft Masses',

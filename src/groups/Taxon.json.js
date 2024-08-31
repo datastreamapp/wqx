@@ -47080,6 +47080,7 @@ export default {
   'Synurella bifurca': 'Not Assigned',
   'Synurella chamberlaini': 'Not Assigned',
   'Synurella dentata': 'Not Assigned',
+  Synurophyceae: 'Not Assigned',
   'Syringodium filiforme': 'Not Assigned',
   Syrphidae: 'Not Assigned',
   Syrphus: 'Not Assigned',
