@@ -12533,6 +12533,8 @@ export default {
     'Phenolphthalein alkalinity is a measure of the titratable bases in a water by titration with a standard acid to pH 8.3, irrespective of the color indicator used. Traditionally, phenolphthalein is used as a color indicator, changing from pink to clear as the pH decreases to 8.3. Phenolphthalein alkalinity is usually expressed as milligrams per liter of equivalent calcium carbonate.; 02-MAR-07',
   'Alkalinity, bicarbonate':
     'Bicarbonate alkalinity (HCO3-) is one of the three principle forms of alkalinity present in many surface waters and may be classified stoichiometrically by comparing the values for total (T) and phenolphthalein (P) alkalinity. Bicarbonate alkalinity is present when the phenolphthalein alkalinity is less than one-half the total alkalinity and is equal to the total alkalinity less twice the phenolp',
+  'Alkalinity, borate':
+    "a measure of a water body's ability to neutralize acids and bases, while Borate is a proton acceptor in seawater,   Borate is a buffer against pH increase.",
   'Alkalinity, carbonate':
     'Carbonate alkalinity (CO3-2) is one of the three principle forms of alkalinity present in many surface waters and may be classified stoichiometrically by comparing the values for total (T) and phenolphthalein (P) alkalinity. Carbonate alkalinity is equal to twice the phenolphthalein alkalinity (2P) when the phenolphthalein alkalinity is less than or equal to half the total alkalinity and is equal',
   'Alkalinity, total': '; Request Date: 22-JUL-14',
@@ -15081,6 +15083,8 @@ export default {
   'Carbon Delta': '',
   'Carbon Delta 13': '1; Request Date: 14-JUN-18',
   'Carbon Dioxide (CO2)/Nitrogen (N2) Gas Ratio': '; Request Date: 06-MAR-17',
+  'Carbon Dioxide Fugacity':
+    "the partial pressure of CO2 corrected for non-ideality in the interaction between CO2 and N2/O2. It's a key parameter for determining air-sea CO2 fluxes and ocean acidification.",
   'Carbon Dioxide, fixed CO2': '; Request Date: 26-AUG-13',
   'Carbon Dioxide, free CO2': '; Request Date: 22-JUL-14',
   'Carbon Preference Index (CPI), Odd/Even Carbon Alkane Ratio':
@@ -22700,6 +22704,8 @@ export default {
   'Paroxetine-d6': 'Request Date: 25-Mar-14 (nps.gov cas# review)',
   'Partial Pressure CO2': '14; Request Date: 26-AUG-13',
   'Partial Pressure O2': '; Request Date: 17-MAY-19',
+  'Partial Pressure of Carbon Dioxide':
+    'a measure of the amount of carbon dioxide in blood, and is often used to indicate how well the lungs are ventilating. It can also be used in meteorology, oceanography, climate science, and limnology',
   'Partial pressure of dissolved gases':
     'In a mixture of gases, the pressure exerted by each gas independently of the other gases.; Request Date: 02-MAR-07',
   'Particle Light Scatter': '',
@@ -25937,6 +25943,8 @@ export default {
   Retene: '1; Request Date: 22-JUL-14',
   'Retinoic acid': 'NWIS',
   Retrorsine: '; Request Date: 22-AUG-17',
+  'Revelle Index':
+    'used in the assessment of groundwater salinization which is computed with the following equation. The ion concentration is expressed in meq/L where > 0.5 RI values are said to be influenced by salinization (Karunanidhi et al., 2021) .',
   Rhenium: '; Request Date: 22-JUL-14',
   Rheocricotopus: 'TAXON: Animalia Kingdom; NWIS',
   Rheopelopia: 'TAXON: Animalia Kingdom; NWIS',

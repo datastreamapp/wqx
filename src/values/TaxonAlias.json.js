@@ -99304,6 +99304,7 @@ export default {
     'Phanocerus hubbardi',
     'Phanogomphus',
     'Phanogomphus borealis',
+    'Phanogomphus cavillaris',
     'Phanogomphus descriptus',
     'Phanogomphus diminutus',
     'Phanogomphus exilis',

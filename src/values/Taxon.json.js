@@ -36021,6 +36021,7 @@ export default {
     'Phanocerus clavicornis',
     'Phanogomphus',
     'Phanogomphus borealis',
+    'Phanogomphus cavillaris',
     'Phanogomphus descriptus',
     'Phanogomphus diminutus',
     'Phanogomphus exilis',

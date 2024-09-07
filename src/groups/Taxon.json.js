@@ -36041,6 +36041,7 @@ export default {
   'Phanocerus clavicornis': 'Not Assigned',
   Phanogomphus: 'Not Assigned',
   'Phanogomphus borealis': 'Not Assigned',
+  'Phanogomphus cavillaris': 'Not Assigned',
   'Phanogomphus descriptus': 'Not Assigned',
   'Phanogomphus diminutus': 'Not Assigned',
   'Phanogomphus exilis': 'Not Assigned',
