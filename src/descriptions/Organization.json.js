@@ -12,6 +12,8 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
+  '***MAILSERVER_WQX':
+    'RE-Submit, Assign transaction_id to Export to Excel files with email notification',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -536,8 +538,7 @@ export default {
     'Nez Perce Tribe of Idaho (Tribal) || Nez Perce Tribe of Idaho (Tribal)',
   CRK_WQX: 'Lorri Epstein',
   CROWCRKS: '',
-  CROWNATN:
-    'Crow Tribe of Indians (Montana) || Crow Tribe of Indians (Montana) (Tribal)',
+  CROWNATN: '',
   CRWA: 'Water Quality Monitoring Data',
   CRWC_WQX: 'Crooked River Watershed Council',
   CSAZ: 'City of Scottsdale, Arizona',
@@ -1346,8 +1347,7 @@ export default {
     'Santee Sioux Nation of Nebraska (Tribal) || Santee Sioux Nation of Nebraska (Tribal)',
   SAUKSUIATTLE:
     'Sauk-Suiattle Indian Tribe || Sauk-Suiattle Indian Tribe (Tribal)',
-  SAULTSTEMARIE:
-    'Sault Ste. Marie Tribe of Chippewa Indians (Tribal) || Sault Ste. Marie Tribe of Chippewa Indians (Tribal)',
+  SAULTSTEMARIE: '',
   SBITENV_WQX:
     'Shoaltwater Bay Tribe (Washington) (Tribal) || Shoalwater Bay Indian Tribe of the Shoalwater Bay Indian Reservation (Tribal)',
   SBMWA: 'Stony Brook-Millstone Watershed Association',

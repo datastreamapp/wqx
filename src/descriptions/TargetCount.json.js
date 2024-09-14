@@ -1,4 +1,5 @@
 export default {
+  40: '40 individual organisms',
   100: '100 individual organisms',
   200: '200 individual organisms',
   300: '300 individual organisms',

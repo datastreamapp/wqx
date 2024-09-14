@@ -51,7 +51,7 @@ export default {
     'P=Present, Present but observed outside the riparian plot area',
   'Hydraulic Structure (choice list)': 'Other',
   'Ground Cover Standing Water (choice list)': '4 = Very Heavy (>75%)',
-  'Human Influence: Commercial (choice List)':
+  'Human Influence: Commercial (choice list)':
     'P=Present, Present but observed outside the riparian plot area',
   'Human Influence: Docks/Boats (choice list)':
     'P=Present, Present but observed outside the riparian plot area',
@@ -73,14 +73,14 @@ export default {
   'Aquatic Plant Cover, substrate rock/bank cover (choice list)': '81-99%',
   'Algae, substrate rock/bank cover (choice list)':
     'Algae cover 81 - 99% of substrate',
-  'Surface algae, %': 'Surface algae cover >0-25%',
+  'Surface algae, % (choice list)': 'Surface algae cover >0-25%',
   'Sludge, substrate rock/bank cover - severity (choice list)':
     'Sludge cover 81 - 99% of substrate',
   'Moss Stream Reach Coverage Average (choice list)': 'Too Deep',
   'Periphyton, substrate rock/bank encrustation (choice list)':
     'Periphyton encrustation 81 - 99% of substrate',
   'Macro Algae Stream Reach Coverage Average': 'Too Deep',
-  'Substrate algae, %': 'Substrate algae cover >0-25%',
+  'Substrate algae, % (choice list)': 'Substrate algae cover >0-25%',
   'Forest Age (choice list)': '>75 yrs',
   'Weather condition (WMO code 4677) (choice list)':
     'Thunderstorm. Heavy. Hail.',
@@ -374,7 +374,7 @@ export default {
     'Storm drain, infrastructure designed to drain excess rain and ground water from impervious surfaces such as paved streets, car parks, parking lots, footpaths, sidewalks, and roofs. ',
   'Stream flow (choice list)': 'Moderate',
   'Seagrass Cover (choice list)': '<50% cover',
-  'Bank conditions - A': 'Vegetated bank',
+  'Bank conditions - A (choice list)': 'Vegetated bank',
   'Riparian vegetation density (choice list)': 'Very dense',
   'Substrate (choice list)': 'XB - Large boulders ',
   'Stream Bed Color (choice list)': 'Yellowish',
@@ -472,7 +472,8 @@ export default {
   'Water flow compared to normal conditions (choice list)': 'Normal conditions',
   'Water flow compared to most recent conditions (choice list)':
     'Normal conditions',
-  'Brown spot fungal disease severity': 'Low, 50% or less coverage',
+  'Brown spot fungal disease severity (choice list)':
+    'Low, 50% or less coverage',
   'Slope Variability (choice list)':
     '1-2 changes, e.g., a rheocrene spring with steep banks',
   'Activities - Power Plants (choice list)': 'None',
@@ -521,7 +522,7 @@ export default {
   'Mesh Type (choice list)': 'small',
   'RBP Pool Variability (choice list)': 'SMALL/NONE - Self describing.',
   'Current (choice list)': 'Self-describing',
-  'Bank conditions - B': 'Some erosion on bank',
+  'Bank conditions - B (choice list)': 'Some erosion on bank',
   'Fish Status After Sampling (choice list)': 'Released - fish released',
   'Bank erosion stability (choice list)':
     "Unstable. Many eroded areas. Frequent 'raw' areas.",
@@ -578,9 +579,9 @@ export default {
   'Precipitation 7 days prior to monitoring event (Y/N) (choice list)': 'Yes',
   'Wildlife present (Y/N) (choice list)': 'Yes',
   'Obstructions (Y/N) (choice list)': 'Yes',
-  'Presence of pathogens or pests': 'Yes, present',
+  'Presence of pathogens or pests (choice list)': 'Yes, present',
   'Site Disturbance Evident (choice list)': 'Yes',
-  'Sanitary Waste (Y/N) (choice List)': 'Yes',
+  'Sanitary Waste (Y/N) (choice list)': 'Yes',
   'Monocot plant type present (Y/N) (choice list)':
     'Yes, Plant type is Monocot',
   'Non-Native Fish, Shellfish, or Zooplankton (Y/N) (choice list)': 'Yes',
@@ -592,9 +593,9 @@ export default {
   'Loss of instream cover (Y/N) (choice list)': 'Yes',
   'Low Flow alterations (Y/N) (choice list)': 'Yes',
   'Off Channel (Y/N) (choice list)': 'Yes',
-  'Other Flow Alterations (Y/N) (choice List)': 'Yes',
-  'Physical Substrate Habitat Alterations (Y/N) (choice List)': 'Yes',
-  'Other Habitat Conditions (Y/N) (choice List)': 'Yes',
+  'Other Flow Alterations (Y/N) (choice list)': 'Yes',
+  'Physical Substrate Habitat Alterations (Y/N) (choice list)': 'Yes',
+  'Other Habitat Conditions (Y/N) (choice list)': 'Yes',
   'Spring, Multiple Orifices (Y/N) (choice list)': 'Yes',
   'Spring, Other Springs Within 0.5 Miles (Y/N) (choice list)': 'Yes',
   'Spring, Channel Length > 50 Meters (choice list)': 'Yes',
@@ -666,72 +667,56 @@ export default {
   'Activities - Trash/Litter (Y/N) (choice list)': 'Yes',
   'Depth, Secchi disk visible at bottom (Y/N) (choice list)': 'Yes',
   'Depth, Photic zone includes bottom (Y/N) (choice list)': 'Yes',
-  'Waterbody aesthetically degraded (Y/N)': 'Yes',
+  'Waterbody aesthetically degraded (Y/N) (choice list)': 'Yes',
   'RBP Undersides of Loose Stones Black Y/N (choice list)':
     'YES - Self describing.',
   'Redoximorphic Features (choice list)': 'Soft Masses',
-  'Invasive species found (choice list)': 'Yes',
-  'Precipitation during activity (choice list)': 'Yes',
-  'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
-  'RBP Channelized Y/N (choice list)': 'YES - Self describing.',
-  'Index sample for diatom condition index (YES/NO) (choice list)': 'Yes',
-  'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
-    'P-value & Result indicate test response is not significant',
-  'RBP2, Instream Features, Channelized (Y/N) (choice list)':
-    'Yes the stream is channelized',
-  'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
-  'Toxicity, sediment, species significant (choice list)':
-    'P-value & Result indicate test response is not significant',
   'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
     'P-value & Result indicate test response significantly toxic',
-  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
-  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
-    'Yes',
-  'Significant(choice list)': 'Test response significantly toxic',
-  'Toxicity, sediment, Rhepoxynius abronius, significant (choice list)':
+  'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
+    'P-value & Result indicate test response is not significant',
+  'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
+    'Yes, there has been heavy rain within the last 7 days',
+  'Sewage algae present (choice list)': 'Yes',
+  'Precipitation during activity (choice list)': 'Yes',
+  'Sandy Substrate (choice list)':
+    'Sandy substrate; no bedrock, boulders, etc.',
+  'RBP Channelized Y/N (choice list)': 'YES - Self describing.',
+  'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
+  'Index sample for diatom condition index (YES/NO) (choice list)': 'Yes',
+  'RBP2, Instream Features, Channelized (Y/N) (choice list)':
+    'Yes the stream is channelized',
+  'RBP2, Instream Features, Dam Present (Y/N) (choice list)':
+    'Yes there is a dam present',
+  'Precipitation 24hr prior to monitoring event (choice list)': 'Yes',
+  'Precipitation 48hr prior to monitoring event (choice list)': 'Yes',
+  'Toxicity, sediment, Ampelisca abdita, significant (choice list)':
+    'P-value & Result indicate test response significantly toxic',
+  'Toxicity, sediment, Leptocheirus plumulosus, significant (choice list)':
     'P-value & Result indicate test response is not significant',
   'Toxicity, sediment, microtox, Vibrio fischeri, significant (choice list)':
     'P-value & Result indicate test response is not significant',
-  'Toxicity, sediment, Leptocheirus plumulosus, significant (choice list)':
+  'Toxicity, sediment, Rhepoxynius abronius, significant (choice list)':
     'P-value & Result indicate test response is not significant',
-  'Toxicity, sediment, Ampelisca abdita, significant (choice list)':
-    'P-value & Result indicate test response significantly toxic',
-  'Sandy Substrate (choice list)':
-    'Sandy substrate; no bedrock, boulders, etc.',
-  'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
-    'Yes, there has been heavy rain within the last 7 days',
-  'Precipitation 48hr prior to monitoring event (choice list)': 'Yes',
-  'Precipitation 24hr prior to monitoring event (choice list)': 'Yes',
-  'Sewage algae present (choice list)': 'Yes',
-  'RBP2, Instream Features, Dam Present (Y/N) (choice list)':
-    'Yes there is a dam present',
+  'Significant(choice list)': 'Test response significantly toxic',
+  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
+    'Yes',
+  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
+  'Toxicity, sediment, species significant (choice list)':
+    'P-value & Result indicate test response is not significant',
+  'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
+  'Invasive species found (choice list)': 'Yes',
   'RBP Local Watershed NPS Pollution (choice list)':
     'Some potential sources of NPS pollution',
   'Depth, Secchi disk depth (choice list)':
     'Visible on Bottom, no depth reading possible',
-  'Lake suitability for recreation (choice list)':
-    'Recreational use of lake fully supported',
   'RBP2, Watershed, Local NPS Pollution (choice list)':
     'Some potential sources of Non-point source pollution',
-  'Surface Observation: Surface water (choice list)': 'Surface water present',
-  'Surface Observation: Soil saturation (choice list)': 'Soil is saturated',
-  'Inundation Evidence: Water marks (choice list)': 'Water marks present',
-  'Inundation Evidence: Iron deposits (choice list)': 'Iron deposits present',
-  'Inundation Evidence: Water stained leaves (choice list)':
-    'Water stained leaves present',
-  'Inundation Evidence: Aquatic invertebrates (choice list)':
-    'Aquatic invertebrates present',
-  'Inundation Evidence: Sediment deposits (choice list)':
-    'Sediment deposits present',
-  'Inundation Evidence: Surface soil cracks (choice list)':
-    'Surface soil cracks present',
-  'Inundation Evidence: Drainage patterns (choice list)':
-    'Drainage patterns present',
+  'Lake suitability for recreation (choice list)':
+    'Recreational use of lake fully supported',
+  'Inundation Evidence: Drift Deposits (choice list)': 'Drift deposits present',
   'Inundation Evidence: True aquatic plants (choice list)':
     'True aquatic plants present',
-  'Inundation Evidence: Drift Deposits (choice list)': 'Drift deposits present',
-  'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)':
-    'Sparesely vegetated concave surfaces present',
   'Inundation Evidence: Salt crust (choice list)': 'Salt crust present',
   'Inundation Evidence: Marl deposits (choice list)': 'Marl deposits present',
   'Inundation Evidence: Algal mat or crust (choice list)':
@@ -757,7 +742,7 @@ export default {
     'Fiddler crab burrows present',
   'Other Hydrologic Evidence: Stunted or stressed plants (choice list)':
     'Stunted or stessed plants present',
-  'Other Hydrologic Evidence: Geomorphic position (choise list)':
+  'Other Hydrologic Evidence: Geomorphic position (choice list)':
     'Geomorphic position present',
   'Other Hydrologic Evidence: Shallow aquitard (choice list)':
     'Shallow aquitard present',
@@ -772,6 +757,22 @@ export default {
   'Surface Observation: High water table (choice list)': 'Water table is high',
   'Soil Saturation Evidence: Oxidized rhizospheres along living roots (choice list)':
     'Oxidized rhizospheres along living roots present',
+  'Surface Observation: Surface water (choice list)': 'Surface water present',
+  'Surface Observation: Soil saturation (choice list)': 'Soil is saturated',
+  'Inundation Evidence: Water marks (choice list)': 'Water marks present',
+  'Inundation Evidence: Iron deposits (choice list)': 'Iron deposits present',
+  'Inundation Evidence: Water stained leaves (choice list)':
+    'Water stained leaves present',
+  'Inundation Evidence: Aquatic invertebrates (choice list)':
+    'Aquatic invertebrates present',
+  'Inundation Evidence: Sediment deposits (choice list)':
+    'Sediment deposits present',
+  'Inundation Evidence: Surface soil cracks (choice list)':
+    'Surface soil cracks present',
+  'Inundation Evidence: Drainage patterns (choice list)':
+    'Drainage patterns present',
+  'Inundation Evidence: Sparesely vegetated concave surfaces (choice list)':
+    'Sparesely vegetated concave surfaces present',
   'Water Taste (choice list)': 'UnObjectionable',
   'Water Odor (choice list)': 'Odorless',
   'Day, ice (on/off) (choice list)': 'on the ice',

@@ -617,6 +617,8 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
+  '***retired****Channel Constraining Features (choice list)':
+    '; Request Date: 04-OCT-18',
   '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
@@ -13235,8 +13237,8 @@ export default {
   'Bank class (choice list)': '; Request Date: 08-JUN-10',
   'Bank class, Left (choice list)': '; Request Date: 08-JUN-10',
   'Bank class, Right (choice list)': '; Request Date: 08-JUN-10',
-  'Bank conditions - A': '',
-  'Bank conditions - B': '',
+  'Bank conditions - A (choice list)': '',
+  'Bank conditions - B (choice list)': '',
   'Bank erosion hazard index': '',
   'Bank erosion stability (choice list)':
     'A descriptor to characterize streambank stability with respect to erosion or bank failure.; Request Date: 02-MAR-07',
@@ -14528,7 +14530,7 @@ export default {
   'Bromoxynil octanoate': '; Request Date: 01-APR-15',
   'Bromoxynil-13C6': '; Request Date: 22-JUL-14',
   Bromuconazole: 'NWIS',
-  'Brown spot fungal disease severity': '',
+  'Brown spot fungal disease severity (choice list)': '',
   'Brush Cover (%)': '',
   'Brush Jabs': 'Tyler Ostrovecky <tylero@goldsystems.com>',
   Bufencarb: 'NWIS',
@@ -15193,7 +15195,6 @@ export default {
   'Channel Alteration':
     'A description indicating whether or not the area around the sampling reach or station is channelized. Channel alteration is present when artificial embankments, riprap, and other forms of artificial bank stabilization or structures are present;; Request Date: 25-AUG-16',
   'Channel Constraining Feature (choice list)': '; Request Date: 04-OCT-18',
-  'Channel Constraining Features (choice list)': '; Request Date: 04-OCT-18',
   'Channel Constraint (choice list)': '; Request Date: 04-OCT-18',
   'Channel Constraint - Can See Over Bank': '',
   'Channel Development': '',
@@ -17973,6 +17974,7 @@ export default {
     'A one-digit numerical code ranging from 1 to 9 to classify the flow of a stream.; Request Date: 02-MAR-07',
   'Flow, stream stage (choice list)':
     'The stream stage flow, including above normal, dry, flood, low, or normal.; Request Date: 02-MAR-07',
+  Fluazaindolizine: '',
   Fluazifop: '',
   'Fluazifop-P-butyl': '; Request Date: 02-MAR-07',
   'Fluazifop-butyl': '; Request Date: 08-APR-15',
@@ -18873,7 +18875,7 @@ export default {
   'Human Influence - Row Crops (choice list)': '; Request Date: 04-OCT-18',
   'Human Influence - Wall/Dike/Revetment/Riprap/Dam (choice list)':
     '; Request Date: 04-OCT-18',
-  'Human Influence: Commercial (choice List)': '',
+  'Human Influence: Commercial (choice list)': '',
   'Human Influence: Docks/Boats (choice list)': '',
   'Human Influence: Orchard (choice list)': '',
   'Human Influence: Park Facilities/Man-Made Beach (choice list)': '',
@@ -22195,10 +22197,10 @@ export default {
   'Osmotic pressure':
     'Osmotic pressure is the pressure exerted by the flow of water through a semi-permeable membrane separating two solutions with different concentrations of solute.; Request Date: 02-MAR-07',
   'Other Disturbance (choice list)': '',
-  'Other Flow Alterations (Y/N) (choice List)': '',
-  'Other Habitat Conditions (Y/N) (choice List)': 'Information,4;',
+  'Other Flow Alterations (Y/N) (choice list)': '',
+  'Other Habitat Conditions (Y/N) (choice list)': 'Information,4;',
   'Other Hydrologic Evidence: Frost-heave hummocks (choice list)': '',
-  'Other Hydrologic Evidence: Geomorphic position (choise list)': '',
+  'Other Hydrologic Evidence: Geomorphic position (choice list)': '',
   'Other Hydrologic Evidence: Microtopographic relief (choice list)': '',
   'Other Hydrologic Evidence: Raised ant mounds (choice list)': '',
   'Other Hydrologic Evidence: Shallow aquitard (choice list)': '',
@@ -24116,7 +24118,7 @@ export default {
   Phyllodocidae: 'TAXON: Animalia Kingdom; NWIS',
   Phylloicus: 'NWIS',
   Phylocentropus: 'TAXON: Animalia Kingdom; NWIS',
-  'Physical Substrate Habitat Alterations (Y/N) (choice List)':
+  'Physical Substrate Habitat Alterations (Y/N) (choice list)':
     'Information,4;',
   Physocypria: 'TAXON: Animalia Kingdom; NWIS',
   Phytane: '; Request Date: 02-MAR-07',
@@ -24825,7 +24827,7 @@ export default {
     'Request Date: 02-MAR-07| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Presence of exotic species (Y/N) (choice list)': '',
   'Presence of freshwater sponge (Y/N) (choice list)': '',
-  'Presence of pathogens or pests': '',
+  'Presence of pathogens or pests (choice list)': '',
   Pressure: '14; Request Date: 17-JUN-13',
   'Presumptive Aeromonas': 'NWIS',
   'Primary productivity':
@@ -25520,6 +25522,7 @@ export default {
   'Pyrolytic carbon': '; Request Date: 07-JUN-18',
   Pyroxasulfone: '; Request Date: 01-AUG-13',
   'Pyroxasulfone M1': '',
+  'Pyroxasulfone M3': '',
   Pyroxsulam: '; Request Date: 06-JUN-14',
   'Pyrrolidine, 1-[3-(2,2-dimethyl-1-aziridinyl)-3,3-difluoro-2,2-bis(trifluoromethyl)propyl]-':
     '',
@@ -26132,7 +26135,7 @@ export default {
   'Sand/Substrate Habitat Type (%)': 'Information,4; Request Date: 14-MAY-10',
   'Sandaracopimaric acid': '1; Request Date: 30-APR-15',
   'Sandy Substrate (choice list)': '; Request Date: 14-MAY-10',
-  'Sanitary Waste (Y/N) (choice List)': '',
+  'Sanitary Waste (Y/N) (choice list)': '',
   Sarafloxacin: '; Request Date: 01-JUL-11',
   'Saturated/Noncohesive soils (Y/N) (choice list)': '',
   'Saturation Index Aragonite': '; Request Date: 26-AUG-13',
@@ -27058,7 +27061,7 @@ export default {
   'Substrate Type (choice list)':
     'National Park Service, contact nps.gov; Request Date: 04-JUN-15',
   'Substrate algae color': '',
-  'Substrate algae, %': '',
+  'Substrate algae, % (choice list)': '',
   'Substrate, clay, medium':
     'A general description of the substrate type within a sampling reach consisting of medium-sized clay.; Request Date: 01-APR-13',
   'Substrate-bedrock': '; Request Date: 02-MAR-07',
@@ -27229,7 +27232,7 @@ export default {
   'Surface Observation: Soil saturation (choice list)': '',
   'Surface Observation: Surface water (choice list)': '',
   'Surface algae color': '',
-  'Surface algae, %': '',
+  'Surface algae, % (choice list)': '',
   'Surface area':
     'The area of the external surfaces of an object, usually measured in units of area such as square inches, feet, cm, etc.; Request Date: 02-MAR-07',
   'Surface tension':
@@ -28595,7 +28598,7 @@ export default {
   'Water surface slope longitudinally': '',
   'Water usage':
     'The way water is used, e.g., consumptive or nonconsumptive.; Request Date: 14-MAY-14',
-  'Waterbody aesthetically degraded (Y/N)': '',
+  'Waterbody aesthetically degraded (Y/N) (choice list)': '',
   'Watercraft Observed': '; Request Date: 02-JUL-12',
   'Watershed, predominant surrounding land use':
     'An assessment of the predominant land use around a watershed, including forest, agricultural, commercial, and other uses.; Request Date: 14-MAY-14',

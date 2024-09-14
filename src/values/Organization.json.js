@@ -4,6 +4,7 @@ export default {
   description: '',
   type: 'string',
   enum: [
+    '***MAILSERVER_WQX',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
