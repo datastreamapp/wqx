@@ -12,8 +12,6 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '***MAILSERVER_WQX':
-    'RE-Submit, Assign transaction_id to Export to Excel files with email notification',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -1537,6 +1535,7 @@ export default {
   UC_REGION_USBOR_WQX: '',
   UDAF: 'Utah Department of Agriculture and Food',
   UDWC_WQX: '',
+  UFMILTON_WQX: 'University of Florida Watershed Management Lab',
   UH_CLEARLAKE: '',
   UMC: '',
   UMCRWWTF: 'Colorado',
@@ -1559,6 +1558,7 @@ export default {
   USACESPK: '',
   USACE_WQX: 'Erich Emery - Great Lakes and Ohio River Division',
   USACOEND: 'US Army Corps of Engineers Nashville District',
+  USACOERID: '',
   USBR: 'Utah Branch of United States Beau of Reclamation',
   'USBR-WCAO': 'Bureau of Reclamation Western Colorado Area Office',
   USCOEKY: 'US Army Corps of Engineers District',
@@ -1709,7 +1709,7 @@ export default {
     'Washington State Department of Agriculture, Dairy Nutrient Management Program',
   WSG: 'The WSG mission is to help people and marine life thrive by supplying research, technical expertise and educational activities that support the responsible use and conservation of ocean and coastal ecosystems.',
   WSSC_WQX: 'Water Quality Monitoring',
-  WTGHA: '',
+  WTGHA: 'Tribal',
   WU: '',
   WVDEPNPS: '',
   WVDEP_WIB_WQX:

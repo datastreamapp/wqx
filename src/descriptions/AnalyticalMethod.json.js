@@ -844,6 +844,8 @@ export default {
   '10200H(2)': '',
   '10200H(3)': '',
   '1020A': '',
+  '1020B':
+    'STANDARD TEST METHODS FOR FLASH POINT BY SETAFLASH (SMALL SCALE) CLOSED-CUP APPARATUS; https://19january2017snapshot.epa.gov/hw-sw846/sw-846-test-method-1020b-standard-test-methods-flash-point-setaflash-small-scale-closed-cup_.html',
   '1030-E': '',
   '10300-C': '',
   '10300-D': '',
@@ -1469,8 +1471,7 @@ export default {
   '350_M(B)': '',
   '350_M(C)': '',
   351.1: '351.1 ~ EPA-NERL . TKN by Automated Colorimetry',
-  351.2:
-    '351.2 ~ EPA-ORD / EPA-OST . Total Kjeldahl nitrogen in water by semiautomated colorimetry',
+  351.2: '',
   '351.3 (ELECTRODE)':
     '351.3 (Electrode) ~ EPA-NERL . Total Kjeldahl Nitrogen by Potentiometry',
   '351.3 (TITRATION)':
@@ -1496,6 +1497,8 @@ export default {
   '3535A': '3535A ~ EPA-RCA . Solid-phase extraction for organic analytes.',
   354.1: '354.1 ~ EPA-NERL . Nitrite by Spectrophotometry',
   '3550A': '',
+  '3550B':
+    'Ultrasonic Extraction, http://www.cromlab.es/Articulos/Metodos/EPA/3000/3550B.PDF',
   '3550C':
     'http://www.epa.gov/solidwaste/hazard/testmethods/sw846/pdfs/3550c.pdf',
   360.1: '360.1 ~ EPA-NERL . Dissolve Oxygen by Membrane Electrode',
@@ -3040,6 +3043,8 @@ export default {
   'D4281(A)': '',
   'D4281(B)': '',
   D4282: '',
+  D4318:
+    'Determination of the liquid limit, plastic limit, and the plasticity index of soils; https://www.astm.org/d4318-17e01.html',
   D4323: '',
   D4327: 'D4327 ~ ASTM . Anions in Water by Ion Chromatography',
   D4374: '',
@@ -3207,6 +3212,8 @@ export default {
     'D7315-07a ~ ASTM . Standard Test Method for Determination of Turbidity Above 1 Turbidity Unit (TU) in Static Mode',
   'D7315-12':
     'D7315-12 ~ ASTM . Standard Test Method for Determination of Turbidity Above 1 Turbidity Unit (TU) in Static Mode',
+  D7363:
+    'Determination of Parent and Alkyl Polycyclic Aromatics in Sediment Pore Water Using Solid-Phase Microextraction and Gas Chromatography/Mass Spectrometry in Selected Ion Monitoring Mode; https://www.astm.org/d7363-13ar21e01.html',
   'D7511-12': 'https://www.astm.org/DATABASE.CART/HISTORICAL/D7511-12.htm',
   D7781: 'https://www.astm.org/Standards/D7781.htm',
   D7928: '',

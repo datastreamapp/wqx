@@ -4,7 +4,6 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    '***MAILSERVER_WQX',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -1255,6 +1254,7 @@ export default {
     'UC_REGION_USBOR_WQX',
     'UDAF',
     'UDWC_WQX',
+    'UFMILTON_WQX',
     'UH_CLEARLAKE',
     'UMC',
     'UMCRWWTF',
@@ -1274,6 +1274,7 @@ export default {
     'USACESPK',
     'USACE_WQX',
     'USACOEND',
+    'USACOERID',
     'USBR',
     'USBR-WCAO',
     'USCOEKY',

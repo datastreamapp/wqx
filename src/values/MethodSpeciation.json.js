@@ -47,6 +47,7 @@ export default {
     'as H2S',
     'as H2SO4',
     'as HCO3',
+    'as Hail',
     'as Hg',
     'as IWTU',
     'as K',
