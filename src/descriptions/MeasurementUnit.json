@@ -323,6 +323,7 @@
   "metric ton": "Weight Mass, Metric tons (tonne) or MT",
   "mg": "Weight Mass, milligrams",
   "mg N/l*^*^*^": "DO NOT USE, Concentration Solution, mg nitrogen in one liter of water or milligrams per liter Nitrogen  ***retired***use mg/l, speciation= as N, ",
+  "mg/100g": "Concentration Percentage, milligrams per 100 grams",
   "mg/L": "Concentration Solution, milligrams per liter",
   "mg/L/hr": "Viscosity, milligrams per liter per hour",
   "mg/cm2": "Concentration Solution, milligrams per square centimeters",

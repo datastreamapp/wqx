@@ -328,6 +328,7 @@ export default {
     'metric ton',
     'mg',
     'mg N/l*^*^*^',
+    'mg/100g',
     'mg/L',
     'mg/L/hr',
     'mg/cm2',

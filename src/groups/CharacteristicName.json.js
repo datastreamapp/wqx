@@ -6072,6 +6072,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-chloro-4-[(1,1,2,2,3,3,3-heptafluoropropane)sulfonyl]benzene':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1-chloroeicosafluoro-3-oxaundecane-1-sulfonate': 'Not Assigned',
   '1-fluoro-1,3-bis(1,1,1,2,3,3,3-heptafluoropropan-2-yl)thiazirene':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-methyl-2-propyl-Cyclohexane': 'Organics, Other',
@@ -15335,6 +15336,7 @@ export default {
   '7:1 Fluorotelomer amino ethyl trimethyl ammonium':
     'PFAS,Perfluorinated Alkyl Substance',
   '7:2 Fluorotelomer ketone sulfonate': 'PFAS,Perfluorinated Alkyl Substance',
+  '7:3 perfluorodecanoate': 'Not Assigned',
   '7H-Dibenzo(b,g)carbazole, 7-methyl-': 'Not Assigned',
   '7H-Perfluoroheptanal': 'PFAS,Perfluorinated Alkyl Substance',
   '7H-Perfluoroheptanamide': 'PFAS,Perfluorinated Alkyl Substance',
@@ -27204,6 +27206,7 @@ export default {
   'Perfluoro(2-ethoxy-2-fluoroethoxy)acetic acid ammonium salt':
     'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro(2-ethoxyethane) sulfonate': 'Not Assigned',
+  'Perfluoro(2-ethoxyethane)sulfonate': 'Not Assigned',
   'Perfluoro(2-ethoxyethane)sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro(2-methylpent-2-ene)': 'PFAS,Perfluorinated Alkyl Substance',
@@ -27504,6 +27507,7 @@ export default {
   'Perfluoro-4-hexene-1-sulfonic acid': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro-4-hexenesulfonic acid': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro-4-isopropoxybutanoic acid': 'PFAS,Perfluorinated Alkyl Substance',
+  'Perfluoro-4-methoxybutanoate': 'Not Assigned',
   'Perfluoro-4-methoxybutanoic acid': 'Not Assigned',
   'Perfluoro-4-methylcyclopentane-1-carboxylic acid':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -32200,7 +32204,7 @@ export default {
   'Toxaphene Parlar 21': 'Not Assigned',
   'Toxaphene Parlar 25': 'Not Assigned',
   'Toxaphene Parlar 26': 'Organics, Other',
-  'Toxaphene Parlar 26*': 'Organics, Other',
+  'Toxaphene Parlar 26***': 'Organics, Other',
   'Toxaphene Parlar 31/32': 'Not Assigned',
   'Toxaphene Parlar 38': 'Not Assigned',
   'Toxaphene Parlar 39': 'Not Assigned',
