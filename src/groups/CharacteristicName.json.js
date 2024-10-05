@@ -19889,6 +19889,8 @@ export default {
   'DL-Amphetamine-D5': 'Organics, Other',
   Dacarbazine: 'Not Assigned',
   'Dacthal Acid Metabolites': 'Not Assigned',
+  'Dacthal metabolites (tetrachloroterephthalic acid and monomethyl tetrachloroterephthalic acid)':
+    'Not Assigned',
   Daidzein: 'Not Assigned',
   Dalapon: 'Organics, Pesticide',
   Daminozide: 'Not Assigned',
@@ -31495,7 +31497,7 @@ export default {
   Sulfathiazole: 'Organics, Other',
   'Sulfation rate': 'Not Assigned',
   Sulfentrazone: 'Organics, Pesticide',
-  'Sulfentrazone-3-carboxylic acid': 'Organics, Pesticide',
+  'Sulfentrazone 3-carboxylic acid': 'Organics, Pesticide',
   Sulfide: 'Inorganics, Major, Non-metals',
   Sulfite: 'Inorganics, Minor, Non-metals',
   Sulfluramid: 'PFAS,Perfluorinated Alkyl Substance',

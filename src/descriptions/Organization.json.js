@@ -1394,6 +1394,7 @@ export default {
   SKAGITCOUNTY_WQX: 'Surface Water Quality Monitoring Program',
   SKAGITWG_WQX:
     'Skagit River Watershed Grant (TNC, SRSC, WWAA)  - Washington (Tribal) || Skagit River Watershed Grant (TNC, SRSC, WWAA)  - Washington (Tribal)',
+  SKAGWAYTRADITIONALCOUNCIL_WQX: '',
   SKOKDATA_WQX: '',
   SKYHORSETECH:
     'Surface vehicle collecting water sampling data on the Raritan River in NJ. Partnering with the Lower Raritan Watershed.',

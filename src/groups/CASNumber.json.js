@@ -16465,6 +16465,8 @@ export default {
   'DL-Amphetamine-D5': '65538-33-2',
   Dacarbazine: '\t4342-03-4',
   'Dacthal Acid Metabolites': '',
+  'Dacthal metabolites (tetrachloroterephthalic acid and monomethyl tetrachloroterephthalic acid)':
+    '',
   Daidzein: '486-66-8',
   Dalapon: '75-99-0',
   Daminozide: '1596-84-5',
@@ -26721,7 +26723,7 @@ export default {
   Sulfathiazole: '72-14-0',
   'Sulfation rate': '',
   Sulfentrazone: '122836-35-5',
-  'Sulfentrazone-3-carboxylic acid': '134391-01-8',
+  'Sulfentrazone 3-carboxylic acid': '134391-01-8',
   Sulfide: '18496-25-8',
   Sulfite: '14265-45-3',
   Sulfluramid: '4151-50-2',
