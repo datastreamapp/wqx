@@ -28,17 +28,15 @@ clean () {
 
 validate () {
 	src=$1
-	opts=${*:2}
 
-	ajv validate src/${src}.build.json --valid --strict true ${opts} \
+	ajv validate src/${src}.build.json --valid --strict true \
 		-r src/definitions.json
 }
 
 sast () {
 	src=$1
-	opts=${*:2}
 
-	ajv sast src/${src}.build.json --fail ${opts} \
+	ajv sast src/${src}.build.json --fail\
 		-r src/definitions.json
 }
 
