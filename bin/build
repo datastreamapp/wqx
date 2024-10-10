@@ -26,6 +26,22 @@ clean () {
 	mv src/${src}.build.tmp.json src/${src}.build.json
 }
 
+validate () {
+	src=$1
+	opts=${*:2}
+
+	ajv validate src/${src}.build.json --valid --strict true ${opts} \
+		-r src/definitions.json
+}
+
+sast () {
+	src=$1
+	opts=${*:2}
+
+	ajv sast src/${src}.build.json --fail ${opts} \
+		-r src/definitions.json
+}
+
 post () {
 	src=$1
 	mv src/${src}.build.json dist/json-schema/${src}.json
@@ -35,6 +51,8 @@ build () {
 	pre $1
 	deref $1
 	clean $1
+	validate $1
+	sast $1
 	post $1
 }
 

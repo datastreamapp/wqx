@@ -5,30 +5,31 @@
   "description": "WQX Web Projects",
   "type": "object",
   "additionalProperties": false,
+  "unevaluatedProperties": false,
   "properties": {
     "Project ID": {
-      "$ref": "./definitions.json#/ProjectID"
+      "$ref": "./definitions.json#/definitions/ProjectID"
     },
     "Project Name": {
-      "$ref": "./definitions.json#/ProjectName"
+      "$ref": "./definitions.json#/definitions/ProjectName"
     },
     "Project Description": {
-      "$ref": "./definitions.json#/ProjectDescription"
+      "$ref": "./definitions.json#/definitions/ProjectDescription"
     },
     "Sampling Design Type": {
-      "$ref": "./definitions.json#/SamplingDesignType"
+      "$ref": "./definitions.json#/definitions/SamplingDesignType"
     },
     "QAPP Approved Indicator": {
-      "$ref": "./definitions.json#/QAPPApprovedIndicator"
+      "$ref": "./definitions.json#/definitions/QAPPApprovedIndicator"
     },
     "QAPP Approval Agency Name": {
-      "$ref": "./definitions.json#/QAPPApprovalAgencyName"
+      "$ref": "./definitions.json#/definitions/QAPPApprovalAgencyName"
     },
     "Project Attachment File Name": {
-      "$ref": "./definitions.json#/ProjectAttachmentFileName"
+      "$ref": "./definitions.json#/definitions/ProjectAttachmentFileName"
     },
     "Project Attachment Type": {
-      "$ref": "./definitions.json#/ProjectAttachmentType"
+      "$ref": "./definitions.json#/definitions/ProjectAttachmentType"
     }
   },
   "required": ["Project ID", "Project Name"]

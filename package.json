@@ -24,7 +24,9 @@
     "EPA",
     "water quality exchange",
     "WQX",
-    "json-schema"
+    "json-schema",
+    "JSON",
+    "Schema"
   ],
   "author": "willfarrell",
   "license": "MIT",
@@ -33,15 +35,15 @@
   },
   "homepage": "https://github.com/datastreamapp/wqx#readme",
   "devDependencies": {
-    "@commitlint/cli": "^17.0.0",
-    "@commitlint/config-conventional": "^17.0.0",
-    "ajv-cmd": "0.3.1",
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0",
+    "ajv-cmd": "0.7.6",
     "change-case": "^4.1.2",
     "glob": "^8.0.0",
     "husky": "^8.0.0",
     "json-schema-ref-parser": "^9.0.9",
-    "lint-staged": "^13.0.0",
-    "prettier": "^2.5.1",
+    "lint-staged": "^15.0.0",
+    "prettier": "^3.0.0",
     "standard": "^17.0.0",
     "xml-js": "^1.6.11"
   }

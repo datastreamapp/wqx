@@ -5,327 +5,328 @@
   "description": "WQX Web Habitat Results",
   "type": "object",
   "additionalProperties": false,
+  "unevaluatedProperties": false,
   "properties": {
     "Activity ID": {
-      "$ref": "./definitions.json#/ActivityID"
+      "$ref": "./definitions.json#/definitions/ActivityID"
     },
     "Activity Type": {
-      "$ref": "./definitions.json#/ActivityType"
+      "$ref": "./definitions.json#/definitions/ActivityType"
     },
     "Activity Media Name": {
-      "$ref": "./definitions.json#/ActivityMediaName"
+      "$ref": "./definitions.json#/definitions/ActivityMediaName"
     },
     "Activity Media Subdivision Name": {
-      "$ref": "./definitions.json#/ActivityMediaSubdivisionName"
+      "$ref": "./definitions.json#/definitions/ActivityMediaSubdivisionName"
     },
     "Activity Start Date": {
-      "$ref": "./definitions.json#/ActivityStartDate"
+      "$ref": "./definitions.json#/definitions/ActivityStartDate"
     },
     "Activity Start Time": {
-      "$ref": "./definitions.json#/ActivityStartTime"
+      "$ref": "./definitions.json#/definitions/ActivityStartTime"
     },
     "Activity Start Time Zone": {
-      "$ref": "./definitions.json#/ActivityStartTimeZone"
+      "$ref": "./definitions.json#/definitions/ActivityStartTimeZone"
     },
     "Activity End Date": {
-      "$ref": "./definitions.json#/ActivityEndDate"
+      "$ref": "./definitions.json#/definitions/ActivityEndDate"
     },
     "Activity End Time": {
-      "$ref": "./definitions.json#/ActivityEndTime"
+      "$ref": "./definitions.json#/definitions/ActivityEndTime"
     },
     "Activity End Time Zone": {
-      "$ref": "./definitions.json#/ActivityEndTimeZone"
+      "$ref": "./definitions.json#/definitions/ActivityEndTimeZone"
     },
     "Activity Relative Depth Name": {
-      "$ref": "./definitions.json#/ActivityRelativeDepthName"
+      "$ref": "./definitions.json#/definitions/ActivityRelativeDepthName"
     },
     "Activity Depth/Height Measure": {
-      "$ref": "./definitions.json#/ActivityDepthHeightMeasure"
+      "$ref": "./definitions.json#/definitions/ActivityDepthHeightMeasure"
     },
     "Activity Depth/Height Unit": {
-      "$ref": "./definitions.json#/ActivityDepthHeightUnit"
+      "$ref": "./definitions.json#/definitions/ActivityDepthHeightUnit"
     },
     "Activity Top Depth/Height Measure": {
-      "$ref": "./definitions.json#/ActivityTopDepthHeightMeasure"
+      "$ref": "./definitions.json#/definitions/ActivityTopDepthHeightMeasure"
     },
     "Activity Top Depth/Height Unit": {
-      "$ref": "./definitions.json#/ActivityTopDepthHeightUnit"
+      "$ref": "./definitions.json#/definitions/ActivityTopDepthHeightUnit"
     },
     "Activity Bottom Depth/Height Measure": {
-      "$ref": "./definitions.json#/ActivityBottomDepthHeightMeasure"
+      "$ref": "./definitions.json#/definitions/ActivityBottomDepthHeightMeasure"
     },
     "Activity Bottom Depth/Height Unit": {
-      "$ref": "./definitions.json#/ActivityBottomDepthHeightUnit"
+      "$ref": "./definitions.json#/definitions/ActivityBottomDepthHeightUnit"
     },
     "Activity Depth Altitude Reference Point": {
-      "$ref": "./definitions.json#/ActivityDepthAltitudeReferencePoint"
+      "$ref": "./definitions.json#/definitions/ActivityDepthAltitudeReferencePoint"
     },
     "Project ID": {
-      "$ref": "./definitions.json#/ProjectID"
+      "$ref": "./definitions.json#/definitions/ProjectID"
     },
     "Organization": {
-      "$ref": "./definitions.json#/Organization"
+      "$ref": "./definitions.json#/definitions/Organization"
     },
     "Monitoring Location ID": {
-      "$ref": "./definitions.json#/MonitoringLocationID"
+      "$ref": "./definitions.json#/definitions/MonitoringLocationID"
     },
     "Activity Comment": {
-      "$ref": "./definitions.json#/ActivityComment"
+      "$ref": "./definitions.json#/definitions/ActivityComment"
     },
     "Activity Latitude": {
-      "$ref": "./definitions.json#/ActivityLatitude"
+      "$ref": "./definitions.json#/definitions/ActivityLatitude"
     },
     "Activity Longitude": {
-      "$ref": "./definitions.json#/ActivityLongitude"
+      "$ref": "./definitions.json#/definitions/ActivityLongitude"
     },
     "Activity Source Map Scale": {
-      "$ref": "./definitions.json#/ActivitySourceMapScale"
+      "$ref": "./definitions.json#/definitions/ActivitySourceMapScale"
     },
     "Activity Horizontal Accuracy Measure": {
-      "$ref": "./definitions.json#/ActivityHorizontalAccuracyMeasure"
+      "$ref": "./definitions.json#/definitions/ActivityHorizontalAccuracyMeasure"
     },
     "Activity Horizontal Accuracy Unit": {
-      "$ref": "./definitions.json#/ActivityHorizontalAccuracyUnit"
+      "$ref": "./definitions.json#/definitions/ActivityHorizontalAccuracyUnit"
     },
     "Activity Horizontal Collection Method": {
-      "$ref": "./definitions.json#/ActivityHorizontalCollectionMethod"
+      "$ref": "./definitions.json#/definitions/ActivityHorizontalCollectionMethod"
     },
     "Activity Horizontal Coordinate Reference System": {
-      "$ref": "./definitions.json#/ActivityHorizontalCoordinateReferenceSystem"
+      "$ref": "./definitions.json#/definitions/ActivityHorizontalCoordinateReferenceSystem"
     },
     "Collection Duration Measure": {
-      "$ref": "./definitions.json#/CollectionDurationMeasure"
+      "$ref": "./definitions.json#/definitions/CollectionDurationMeasure"
     },
     "Collection Duration Unit": {
-      "$ref": "./definitions.json#/CollectionDurationUnit"
+      "$ref": "./definitions.json#/definitions/CollectionDurationUnit"
     },
     "Sampling Component Name": {
-      "$ref": "./definitions.json#/SamplingComponentName"
+      "$ref": "./definitions.json#/definitions/SamplingComponentName"
     },
     "Sampling Component Place In Series": {
-      "$ref": "./definitions.json#/SamplingComponentPlaceInSeries"
+      "$ref": "./definitions.json#/definitions/SamplingComponentPlaceInSeries"
     },
     "Reach Length Measure": {
-      "$ref": "./definitions.json#/ReachLengthMeasure"
+      "$ref": "./definitions.json#/definitions/ReachLengthMeasure"
     },
     "Reach Length Unit": {
-      "$ref": "./definitions.json#/ReachLengthUnit"
+      "$ref": "./definitions.json#/definitions/ReachLengthUnit"
     },
     "Reach Width Measure": {
-      "$ref": "./definitions.json#/ReachWidthMeasure"
+      "$ref": "./definitions.json#/definitions/ReachWidthMeasure"
     },
     "Reach Width Unit": {
-      "$ref": "./definitions.json#/ReachWidthUnit"
+      "$ref": "./definitions.json#/definitions/ReachWidthUnit"
     },
     "Pass Count": {
-      "$ref": "./definitions.json#/PassCount"
+      "$ref": "./definitions.json#/definitions/PassCount"
     },
     "Boat Speed Measure": {
-      "$ref": "./definitions.json#/BoatSpeedMeasure"
+      "$ref": "./definitions.json#/definitions/BoatSpeedMeasure"
     },
     "Boat Speed Unit": {
-      "$ref": "./definitions.json#/BoatSpeedUnit"
+      "$ref": "./definitions.json#/definitions/BoatSpeedUnit"
     },
     "Current Speed Measure": {
-      "$ref": "./definitions.json#/CurrentSpeedMeasure"
+      "$ref": "./definitions.json#/definitions/CurrentSpeedMeasure"
     },
     "Current Speed Unit": {
-      "$ref": "./definitions.json#/CurrentSpeedUnit"
+      "$ref": "./definitions.json#/definitions/CurrentSpeedUnit"
     },
     "Toxicity Test Type": {
-      "$ref": "./definitions.json#/ToxicityTestType"
+      "$ref": "./definitions.json#/definitions/ToxicityTestType"
     },
     "Sample Collection Method ID": {
-      "$ref": "./definitions.json#/SampleCollectionMethodID"
+      "$ref": "./definitions.json#/definitions/SampleCollectionMethodID"
     },
     "Sample Collection Equipment Name": {
-      "$ref": "./definitions.json#/SampleCollectionEquipmentName"
+      "$ref": "./definitions.json#/definitions/SampleCollectionEquipmentName"
     },
     "Sample Collection Equipment Comment": {
-      "$ref": "./definitions.json#/SampleCollectionEquipmentComment"
+      "$ref": "./definitions.json#/definitions/SampleCollectionEquipmentComment"
     },
     "Sample Preparation Method ID": {
-      "$ref": "./definitions.json#/SamplePreparationMethodID"
+      "$ref": "./definitions.json#/definitions/SamplePreparationMethodID"
     },
     "Sample Container Type": {
-      "$ref": "./definitions.json#/SampleContainerType"
+      "$ref": "./definitions.json#/definitions/SampleContainerType"
     },
     "Sample Container Color": {
-      "$ref": "./definitions.json#/SampleContainerColor"
+      "$ref": "./definitions.json#/definitions/SampleContainerColor"
     },
     "Chemical Preservative Used": {
-      "$ref": "./definitions.json#/ChemicalPreservativeUsed"
+      "$ref": "./definitions.json#/definitions/ChemicalPreservativeUsed"
     },
     "Thermal Preservative Used": {
-      "$ref": "./definitions.json#/ThermalPreservativeUsed"
+      "$ref": "./definitions.json#/definitions/ThermalPreservativeUsed"
     },
     "Sample Transport Storage Description": {
-      "$ref": "./definitions.json#/SampleTransportStorageDescription"
+      "$ref": "./definitions.json#/definitions/SampleTransportStorageDescription"
     },
     "Activity Attachment File Name": {
-      "$ref": "./definitions.json#/ActivityAttachmentFileName"
+      "$ref": "./definitions.json#/definitions/ActivityAttachmentFileName"
     },
     "Activity Attachment Type": {
-      "$ref": "./definitions.json#/ActivityAttachmentType"
+      "$ref": "./definitions.json#/definitions/ActivityAttachmentType"
     },
     "Data Logger Line": {
-      "$ref": "./definitions.json#/DataLoggerLine"
+      "$ref": "./definitions.json#/definitions/DataLoggerLine"
     },
     "Result Detection Condition": {
-      "$ref": "./definitions.json#/ResultDetectionCondition"
+      "$ref": "./definitions.json#/definitions/ResultDetectionCondition"
     },
     "Characteristic Name": {
-      "$ref": "./definitions.json#/CharacteristicName"
+      "$ref": "./definitions.json#/definitions/CharacteristicName"
     },
     "Method Speciation": {
-      "$ref": "./definitions.json#/MethodSpeciation"
+      "$ref": "./definitions.json#/definitions/MethodSpeciation"
     },
     "Result Sample Fraction": {
-      "$ref": "./definitions.json#/ResultSampleFraction"
+      "$ref": "./definitions.json#/definitions/ResultSampleFraction"
     },
     "Result Value": {
-      "$ref": "./definitions.json#/ResultValue"
+      "$ref": "./definitions.json#/definitions/ResultValue"
     },
     "Result Unit": {
-      "$ref": "./definitions.json#/ResultUnit"
+      "$ref": "./definitions.json#/definitions/ResultUnit"
     },
     "Result Qualifier": {
-      "$ref": "./definitions.json#/ResultQualifier"
+      "$ref": "./definitions.json#/definitions/ResultQualifier"
     },
     "Result Status ID": {
-      "$ref": "./definitions.json#/ResultStatusID"
+      "$ref": "./definitions.json#/definitions/ResultStatusID"
     },
     "Statistical Base Code": {
-      "$ref": "./definitions.json#/StatisticalBaseCode"
+      "$ref": "./definitions.json#/definitions/StatisticalBaseCode"
     },
     "Result Value Type": {
-      "$ref": "./definitions.json#/ResultValueType"
+      "$ref": "./definitions.json#/definitions/ResultValueType"
     },
     "Result Weight Basis": {
-      "$ref": "./definitions.json#/ResultWeightBasis"
+      "$ref": "./definitions.json#/definitions/ResultWeightBasis"
     },
     "Result Time Basis": {
-      "$ref": "./definitions.json#/ResultTimeBasis"
+      "$ref": "./definitions.json#/definitions/ResultTimeBasis"
     },
     "Result Temperature Basis": {
-      "$ref": "./definitions.json#/ResultTemperatureBasis"
+      "$ref": "./definitions.json#/definitions/ResultTemperatureBasis"
     },
     "Result Particle Size Basis": {
-      "$ref": "./definitions.json#/ResultParticleSizeBasis"
+      "$ref": "./definitions.json#/definitions/ResultParticleSizeBasis"
     },
     "Precision": {
-      "$ref": "./definitions.json#/Precision"
+      "$ref": "./definitions.json#/definitions/Precision"
     },
     "Bias": {
-      "$ref": "./definitions.json#/Bias"
+      "$ref": "./definitions.json#/definitions/Bias"
     },
     "Confidence Interval": {
-      "$ref": "./definitions.json#/ConfidenceInterval"
+      "$ref": "./definitions.json#/definitions/ConfidenceInterval"
     },
     "Upper Confidence Limit": {
-      "$ref": "./definitions.json#/UpperConfidenceLimit"
+      "$ref": "./definitions.json#/definitions/UpperConfidenceLimit"
     },
     "Lower Confidence Limit": {
-      "$ref": "./definitions.json#/LowerConfidenceLimit"
+      "$ref": "./definitions.json#/definitions/LowerConfidenceLimit"
     },
     "Result Comment": {
-      "$ref": "./definitions.json#/ResultComment"
+      "$ref": "./definitions.json#/definitions/ResultComment"
     },
     "Result Depth/Height Measure": {
-      "$ref": "./definitions.json#/ResultDepthHeightMeasure"
+      "$ref": "./definitions.json#/definitions/ResultDepthHeightMeasure"
     },
     "Result Depth/Height Unit": {
-      "$ref": "./definitions.json#/ResultDepthHeightUnit"
+      "$ref": "./definitions.json#/definitions/ResultDepthHeightUnit"
     },
     "Result Depth/Altitude Reference Point": {
-      "$ref": "./definitions.json#/ResultDepthAltitudeReferencePoint"
+      "$ref": "./definitions.json#/definitions/ResultDepthAltitudeReferencePoint"
     },
     "Result Sampling Point Name": {
-      "$ref": "./definitions.json#/ResultSamplingPointName"
+      "$ref": "./definitions.json#/definitions/ResultSamplingPointName"
     },
     "Result Attachment File Name": {
-      "$ref": "./definitions.json#/ResultAttachmentFileName"
+      "$ref": "./definitions.json#/definitions/ResultAttachmentFileName"
     },
     "Result Attachment Type": {
-      "$ref": "./definitions.json#/ResultAttachmentType"
+      "$ref": "./definitions.json#/definitions/ResultAttachmentType"
     },
     "Result Analytical Method ID": {
-      "$ref": "./definitions.json#/ResultAnalyticalMethodID"
+      "$ref": "./definitions.json#/definitions/ResultAnalyticalMethodID"
     },
     "Result Analytical Method Context": {
-      "$ref": "./definitions.json#/ResultAnalyticalMethodContext"
+      "$ref": "./definitions.json#/definitions/ResultAnalyticalMethodContext"
     },
     "Laboratory Name": {
-      "$ref": "./definitions.json#/LaboratoryName"
+      "$ref": "./definitions.json#/definitions/LaboratoryName"
     },
     "Analysis Start Date": {
-      "$ref": "./definitions.json#/AnalysisStartDate"
+      "$ref": "./definitions.json#/definitions/AnalysisStartDate"
     },
     "Analysis Start Time": {
-      "$ref": "./definitions.json#/AnalysisStartTime"
+      "$ref": "./definitions.json#/definitions/AnalysisStartTime"
     },
     "Analysis Start Time Zone": {
-      "$ref": "./definitions.json#/AnalysisStartTimeZone"
+      "$ref": "./definitions.json#/definitions/AnalysisStartTimeZone"
     },
     "Analysis End Date": {
-      "$ref": "./definitions.json#/AnalysisEndDate"
+      "$ref": "./definitions.json#/definitions/AnalysisEndDate"
     },
     "Analysis End Time": {
-      "$ref": "./definitions.json#/AnalysisEndTime"
+      "$ref": "./definitions.json#/definitions/AnalysisEndTime"
     },
     "Analysis End Time Zone": {
-      "$ref": "./definitions.json#/AnalysisEndTimeZone"
+      "$ref": "./definitions.json#/definitions/AnalysisEndTimeZone"
     },
     "Result Laboratory Comment Code": {
-      "$ref": "./definitions.json#/ResultLaboratoryCommentCode"
+      "$ref": "./definitions.json#/definitions/ResultLaboratoryCommentCode"
     },
     "Result Detection/Quantitation Limit Type": {
-      "$ref": "./definitions.json#/ResultDetectionQuantitationLimitType"
+      "$ref": "./definitions.json#/definitions/ResultDetectionQuantitationLimitType"
     },
     "Result Detection/Quantitation Limit Measure": {
-      "$ref": "./definitions.json#/ResultDetectionQuantitationLimitMeasure"
+      "$ref": "./definitions.json#/definitions/ResultDetectionQuantitationLimitMeasure"
     },
     "Result Detection/Quantitation Limit Unit": {
-      "$ref": "./definitions.json#/ResultDetectionQuantitationLimitUnit"
+      "$ref": "./definitions.json#/definitions/ResultDetectionQuantitationLimitUnit"
     },
     "Laboratory Accreditation Indicator": {
-      "$ref": "./definitions.json#/LaboratoryAccreditationIndicator"
+      "$ref": "./definitions.json#/definitions/LaboratoryAccreditationIndicator"
     },
     "Laboratory Accreditation Authority": {
-      "$ref": "./definitions.json#/LaboratoryAccreditationAuthority"
+      "$ref": "./definitions.json#/definitions/LaboratoryAccreditationAuthority"
     },
     "Lab Sample Preparation Method ID": {
-      "$ref": "./definitions.json#/LabSamplePreparationMethodID"
+      "$ref": "./definitions.json#/definitions/LabSamplePreparationMethodID"
     },
     "Lab Sample Preparation Start Date": {
-      "$ref": "./definitions.json#/LabSamplePreparationStartDate"
+      "$ref": "./definitions.json#/definitions/LabSamplePreparationStartDate"
     },
     "Lab Sample Preparation Start Time": {
-      "$ref": "./definitions.json#/LabSamplePreparationStartTime"
+      "$ref": "./definitions.json#/definitions/LabSamplePreparationStartTime"
     },
     "Lab Sample Preparation Start Time Zone": {
-      "$ref": "./definitions.json#/LabSamplePreparationStartTimeZone"
+      "$ref": "./definitions.json#/definitions/LabSamplePreparationStartTimeZone"
     },
     "Lab Sample Preparation End Date": {
-      "$ref": "./definitions.json#/LabSamplePreparationEndDate"
+      "$ref": "./definitions.json#/definitions/LabSamplePreparationEndDate"
     },
     "Lab Sample Preparation End Time": {
-      "$ref": "./definitions.json#/LabSamplePreparationEndTime"
+      "$ref": "./definitions.json#/definitions/LabSamplePreparationEndTime"
     },
     "Lab Sample Preparation End Time Zone": {
-      "$ref": "./definitions.json#/LabSamplePreparationEndTimeZone"
+      "$ref": "./definitions.json#/definitions/LabSamplePreparationEndTimeZone"
     },
     "Substance Dilution Factor": {
-      "$ref": "./definitions.json#/SubstanceDilutionFactor"
+      "$ref": "./definitions.json#/definitions/SubstanceDilutionFactor"
     },
     "Activity Group ID": {
-      "$ref": "./definitions.json#/ActivityGroupID"
+      "$ref": "./definitions.json#/definitions/ActivityGroupID"
     },
     "Activity Group Name": {
-      "$ref": "./definitions.json#/ActivityGroupName"
+      "$ref": "./definitions.json#/definitions/ActivityGroupName"
     },
     "Activity Group Type": {
-      "$ref": "./definitions.json#/ActivityGroupType"
+      "$ref": "./definitions.json#/definitions/ActivityGroupType"
     }
   },
   "required": [

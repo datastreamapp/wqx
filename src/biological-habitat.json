@@ -5,27 +5,28 @@
   "description": "WQX Web Biological-Habitat Results",
   "type": "object",
   "additionalProperties": false,
+  "unevaluatedProperties": false,
   "properties": {
     "Index ID": {
-      "$ref": "./definitions.json#/IndexID"
+      "$ref": "./definitions.json#/definitions/IndexID"
     },
     "Index Type ID": {
-      "$ref": "./definitions.json#/IndexTypeID"
+      "$ref": "./definitions.json#/definitions/IndexTypeID"
     },
     "Index Score": {
-      "$ref": "./definitions.json#/IndexScore"
+      "$ref": "./definitions.json#/definitions/IndexScore"
     },
     "Index Qualifier Code": {
-      "$ref": "./definitions.json#/IndexQualifierCode"
+      "$ref": "./definitions.json#/definitions/IndexQualifierCode"
     },
     "Index Comment": {
-      "$ref": "./definitions.json#/IndexComment"
+      "$ref": "./definitions.json#/definitions/IndexComment"
     },
     "Index Calculated Date": {
-      "$ref": "./definitions.json#/IndexCalculatedDate"
+      "$ref": "./definitions.json#/definitions/IndexCalculatedDate"
     },
     "Monitoring Location ID": {
-      "$ref": "./definitions.json#/MonitoringLocationID"
+      "$ref": "./definitions.json#/definitions/MonitoringLocationID"
     }
   },
   "required": [
