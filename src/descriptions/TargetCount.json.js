@@ -1,12 +1,11 @@
 export default {
-  40: '40 individual organisms',
-  100: '100 individual organisms',
-  200: '200 individual organisms',
-  300: '300 individual organisms',
-  400: '400 individual organisms',
-  500: '500 individual organisms',
-  600: '600 individual organisms',
-  1000: '1000 individual organisms',
-  FULL: 'Complete?',
-  Unknown: 'Unknown'
+  "100": "100 individual organisms",
+  "200": "200 individual organisms",
+  "300": "300 individual organisms",
+  "400": "400 individual organisms",
+  "500": "500 individual organisms",
+  "600": "600 individual organisms",
+  "1000": "1000 individual organisms",
+  "FULL": "Complete?",
+  "Unknown": "Unknown"
 }

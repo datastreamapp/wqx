@@ -1,26 +1,12 @@
 export default {
-  $id: 'https://epa.gov/wqx/TaxonGroup',
-  title: 'Taxon Group',
-  description: '',
-  type: 'string',
-  enum: [
-    'Amphibians',
-    'Aquatic Vegetation',
-    'Bacteria/Virus',
-    'Benthic Macroinvertebrates',
-    'Birds',
-    'Corals',
-    'Diatoms',
-    'Fish/Nekton',
-    'Fungi',
-    'Ichthyoplankton',
-    'Invertebrates',
-    'Mammals',
-    'Not Assigned',
-    'Periphyton',
-    'Phytoplankton/Zooplankton',
-    'Reptiles',
-    'Terrestrial Vegetation'
+  "$id": "https://epa.gov/wqx/TaxonGroup",
+  "title": "Taxon Group",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Fish/Nekton",
+    "Not Assigned",
+    "Terrestrial Vegetation"
   ],
-  maxLength: 26
+  "maxLength": 22
 }

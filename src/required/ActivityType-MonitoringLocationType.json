@@ -4,7 +4,6 @@
       "ActivityType": {
         "enum": [
           "Field Msr/Obs",
-          "Field Msr/Obs-Continuous Time Series",
           "Field Msr/Obs-Habitat Assessment",
           "Field Msr/Obs-Portable Data Logger",
           "Quality Control Field Msr/Obs Post-Calibration",
@@ -13,7 +12,6 @@
           "Quality Control Field Replicate Msr/Obs",
           "Quality Control Field Replicate Portable Data Logger",
           "Quality Control Field Replicate Sample-Composite",
-          "Quality Control Field Replicate Sample-Field Subsample",
           "Quality Control Sample-Blind Duplicate",
           "Quality Control Sample-Field Ambient Conditions Blank",
           "Quality Control Sample-Field Replicate",
@@ -37,12 +35,16 @@
         ]
       }
     },
-    "required": ["ActivityType"]
+    "required": [
+      "ActivityType"
+    ]
   },
   "then": {
     "properties": {
       "MonitoringLocationType": {}
     },
-    "required": ["MonitoringLocationType"]
+    "required": [
+      "MonitoringLocationType"
+    ]
   }
 }

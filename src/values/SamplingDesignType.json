@@ -3,6 +3,10 @@
   "title": "Sampling Design Type",
   "description": "",
   "type": "string",
-  "enum": ["Probabilistic", "Target+Probabilistic", "Targeted"],
+  "enum": [
+    "Probabilistic",
+    "Target+Probabilistic",
+    "Targeted"
+  ],
   "maxLength": 20
 }

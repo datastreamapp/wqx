@@ -1,211 +1,107 @@
 export default {
-  Atmosphere:
-    'Atmosphere monitoring stations provide weather data about conditions',
-  'BEACH Program Site-Channelized stream':
-    'The process of straightening or redirecting natural streams in an artificially modified or constructed stream bed. Channelization has been carried out for numerous reasons, most often to drain wetlands , direct water flow for agricultural use, and control flooding . While this process makes a stream more useful for human activities, it tends to interfere with natural river habitats and to destabilize stream banks by destroying riparian vegetation.',
-  'BEACH Program Site-Estuary':
-    'a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\nEstuaries form a transition zone between river environments and maritime environments. \nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.\n',
-  'BEACH Program Site-Great Lake':
-    'The Great Lakes, also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River.',
-  'BEACH Program Site-Lake':
-    'A lake is an area filled with water, localized in a basin, that is surrounded by land, apart from any river or other outlet that serves to feed or drain the lake',
-  'BEACH Program Site-Land':
-    'Land, sometimes referred to as dry land, is the solid surface of Earth that is not permanently covered by water.',
-  'BEACH Program Site-Land runoff':
-    "Also known as overland flow is the flow of water that occurs when excess stormwater, meltwater, or other sources flows over the Earth's surface.",
-  'BEACH Program Site-Ocean':
-    "An ocean is a body of water that composes much of a planet's hydrosphere.",
-  'BEACH Program Site-River/Stream':
-    'A river is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. In some cases a river flows into the ground and becomes dry at the end of its course without reaching another body of water. ',
-  'BEACH Program Site-Storm sewer':
-    'The storm sewer is a system designed to carry rainfall runoff and other drainage.',
-  'BEACH Program Site-Waste sewer':
-    'The wastewater from residences and institutions, carrying bodily wastes (primarily feces and urine), washing water, food preparation wastes, laundry wastes, and other waste products of normal living, are classed as domestic or sanitary sewage.',
-  Borehole:
-    'A borehole is a narrow shaft bored in the ground, either vertically or horizontally. A borehole may be constructed for many different purposes, including the extraction of water, other liquids (such as petroleum) or gases (such as natural gas), as part of a geotechnical investigation, environmental site assessment,',
-  'CERCLA Superfund Site':
-    'The Superfund site assessment process evaluates potential or confirmed releases of hazardous substances that may pose a threat to human health or the environment using the Hazard Ranking System (HRS) criteria guide',
-  'Canal Drainage':
-    'As a channel drainage system it is designed to eliminate the need for further pipework systems to be installed in parallel to the drainage, reducing the environmental impact of production as well as improving water collection.',
-  'Canal Irrigation':
-    'Irrigation canals are the main waterways that bring irrigation water from a water source to the areas to be irrigated. They can be lined with concrete, brick, stone, or a flexible membrane to prevent seepage and erosion.',
-  'Canal Transport':
-    'Canals are human-made channels for water conveyance, or to service water transport vehicles. In most cases, the engineered works will have a series of dams and locks that create areas of low speed current flow. These areas are referred to as slack water levels, often just called levels.',
-  Cave: 'A cave is a hollow place in the ground, specifically a natural underground space large enough for a human to enter. Caves form naturally by the weathering of rock and often extend deep underground. ',
-  'Channelized Stream':
-    'The process of straightening or redirecting natural streams in an artificially modified or constructed stream bed. Channelization has been carried out for numerous reasons, most often to drain wetlands , direct water flow for agricultural use, and control flooding . While this process makes a stream more useful for human activities, it tends to interfere with natural river habitats and to destabilize stream banks by destroying riparian vegetation.',
-  'Combined Sewer':
-    'A combined sewer system (CSS) collects rainwater runoff, domestic sewage, and industrial wastewater into one pipe. Under normal conditions, it transports all of the wastewater it collects to a sewage treatment plant for treatment, then discharges to a water body. Combined sewer overflows (CSOs) contain untreated or partially treated human and industrial waste, toxic materials, and debris as well as stormwater.',
-  'Constructed Diversion Dam':
-    'A diversion dam is a dam that diverts all or a portion of the flow of a river from its natural course. Diversion dams do not generally impound water in a reservoir. Instead, the water is diverted into an artificial water course or canal, which may be used for irrigation or return to the river after passing through hydroelectric generators, flow into a different river or be itself dammed forming a reservoir.',
-  'Constructed Tunnel':
-    'an artificial underground passage, especially one built through a hill or under a building, road, or river.',
-  'Constructed Water Transport Structure':
-    'a system of structures and measures that support the  intentional movement of water over large distances. simple aqueducts to transport water above ground level. short pipelines to transport water above or under another structure such as a water canal or an access road',
-  'Constructed Wetland':
-    'A constructed wetland (CW) is an artificial wetland to treat municipal or industrial wastewater, greywater or stormwater runoff. It may also be designed for land reclamation after mining, or as a mitigation step for natural areas lost to land development.Constructed wetlands are engineered systems that use natural functions vegetation, soil, and organisms to treat wastewater',
-  Estuary:
-    'a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\r\nEstuaries form a transition zone between river environments and maritime environments. \r\nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.\r\n',
-  'Estuary-Freshwater':
-    'Freshwater estuaries are semi-enclosed areas of the Great Lakes in which lake and river water mix, forming a transition zone between river and lake environments that are chemically distinct',
-  'Facility Industrial':
-    'a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. "the price of the house included all utilities',
-  'Facility Municipal Sewage (POTW)':
-    'Treatment works treating domestic sewage means a POTW or any other sewage sludge or waste water treatment devices or systems, regardless of ownership (including federal facilities), used in the storage, treatment, recycling, and reclamation of municipal or domestic sewage, including land dedicated for the disposal of sewage sludge. This definition does not include septic tanks or similar devices.',
-  'Facility Other':
-    'a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as Reclaimed water can supply needed water for some purposes Reclaimed wastewater frees up fresh water that can be used somewhere else, such as for drinking water',
-  'Facility Privately Owned Non-industrial':
-    'Privately owned treatment works means any device or system which is (a) used to treat wastes from any facility whose operator is not the operator of the treatment works',
-  'Facility Public Water Supply (PWS)':
-    'A Public Water System is a public water supply for the provision to the public of piped water for human consumption, A Public Water System includes any collection, treatment, storage,\nand distribution facilities under control of such system, including the operator or administrator of such system, and is used primarily in\nconnection with such system and any collection or pretreatment storage facilities not under such control which are used primarily in\nconnection with such system.”',
-  'Floodwater Urban':
-    'A flood is an overflow of water that submerges land that is usually dry  In the sense of "urban runoff water". it may occur due to an accumulation of rainwater on saturated ground in an areal flood.',
-  'Floodwater non-Urban':
-    'A flood is an overflow of water that submerges land that is usually dry  Flooding may occur as an overflow of water from water bodies, such as a river, lake, or ocean, in which the water overtops or breaks levees, resulting in some of that water escaping its usual boundaries',
-  Gallery:
-    'An infiltration gallery is a structure including perforated conduits in gravel to expedite transfer of water to or from a soil.',
-  'Gas-Condensate':
-    'Natural-gas condensate, also called natural gas liquids, is a low-density mixture of hydrocarbon liquids that are present as gaseous components in the raw natural gas produced from many natural gas fields. ',
-  'Gas-Engine':
-    'A gas engine is an internal combustion engine that runs on a gaseous fuel, such as coal gas, producer gas, biogas, landfill gas or natural gas.',
-  'Gas-Extraction':
-    'Oil and Gas Extraction is the exploration and production of petroleum and natural gas from wells. The industry generates wastewater from the water extracted from the geological formations and from chemicals used during exploration, well drilling and production of oil and gas.',
-  'Gas-Flare':
-    'A gas flare, alternatively known as a flare stack, is a gas combustion device used in industrial plants such as petroleum refineries, chemical plants, natural gas processing plants as well as at oil or gas production sites having oil wells, gas wells, offshore oil and gas rigs and landfills.',
-  'Gas-Monitoring Probe':
-    'Gas monitoring probes are used to enhance environmental protection at landfills. Gas\nconcentrations are measured at permit or regulatory specified time intervals. This process\nallows potential environmental concerns to be identified early, evaluated and corrected\n(when necessary) in accordance with regulations and sound scientific approaches.',
-  'Gas-Passive Vent': 'Dispersion of gas safely from soil.',
-  'Gas-Subslab':
-    'Sub-slab Soil Gas: Sub-slab samples are collected to characterize the nature and extent of vapor contamination in the soil immediately beneath a building with a slab or beneath the basement floor.',
-  'Gas-Temporary': 'a gas capable of liquefaction',
-  'Great Lake':
-    'The Great Lakes, also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River.',
-  Intertidal:
-    'denoting the area of a seashore which is covered at high tide and uncovered at low tide',
-  Lake: 'A lake is an area filled with water, localized in a basin, that is surrounded by land, apart from any river or other outlet that serves to feed or drain the lake',
-  Land: 'Land, sometimes referred to as dry land, is the solid surface of Earth that is not permanently covered by water.',
-  'Land Flood Plain':
-    'An area of land adjacent to a stream or river which stretches from the banks of its channel to the base of the enclosing valley walls, and which experiences flooding during periods of high discharge.',
-  'Land Runoff':
-    "Also known as overland flow is the flow of water that occurs when excess stormwater, meltwater, or other sources flows over the Earth's surface.",
-  Landfill: 'A site for the disposal of waste materials by burial.',
-  'Leachate-Extraction':
-    'The pump systems which extract the leachate from the wastes',
-  'Leachate-Head Well':
-    'The wells and boreholes within the landfill into which the leachate collection system conveys the leachate. The well head where samples of water are taken determining water quality in source Leachate',
-  'Leachate-Lysimeter':
-    'Is a measuring device which can be used to measure the amount of actual evapotranspiration which is released by plants (usually crops or trees)',
-  'Leachate-SamplePoint':
-    "The point where samples of water are taken determining water quality in source the pipes/pipelines which convey the leachate to the collection tank, or treatment plant location. Leachate is the liquid that drains or 'leaches' from a landfill. It varies widely in composition regarding the age of the landfill and the type of waste that it contains. It usually contains both dissolved and suspended material.",
-  'Local Air Monitoring Station':
-    'Ambient air monitoring is the systematic, long-term assessment of pollutant levels by measuring the quantity and types of certain pollutants in the surrounding, outdoor air.',
-  'Mine Pit':
-    'Open-pit mining, also known as opencast mining, is a surface mining technique that extracts minerals from an open pit in the ground. Open-pits are sometimes called ‘quarries’ when they produce building materials and dimension stone.',
-  'Mine/Mine Discharge':
-    'Formed when pyrite (an iron sulfide) is exposed and reacts with air and water to form sulfuric acid and dissolved iron. Some or all of this iron can precipitate to form the red, orange, or yellow sediments in the bottom of streams containing mine drainage. The acid runoff further dissolves heavy metals such as copper, lead, and mercury into groundwater or surface water. ',
-  'Mine/Mine Discharge Adit (Mine Entrance)':
-    'An adit (from Latin aditus, entrance) is an entrance to an underground mine which is horizontal or nearly horizontal, by which the mine can be entered, drained of water, ventilated, and minerals extracted at the lowest convenient level.',
-  'Mine/Mine Discharge Tailings Pile':
-    'Materials left over after the process of separating the valuable fraction from the uneconomic fraction (gangue) of an ore. ',
-  'Mine/Mine Discharge Waste Rock Pile':
-    'Mine drainage is metal-rich water formed from chemical reaction between water and rocks containing. sulfur-bearing minerals. • The runoff formed is usually acidic and frequently comes from areas where ore or coal mining activities. have exposed rocks containing pyrite, a sulfur bearing mineral',
-  'National Air Monitoring Station':
-    'Ambient air monitoring is the systematic, long-term assessment of pollutant levels by measuring the quantity and types of certain pollutants in the surrounding, outdoor air.',
-  Ocean:
-    "An ocean is a body of water that composes much of a planet's hydrosphere.",
-  'Oil and Gas Well':
-    'An oil well is a boring in the Earth that is designed to bring petroleum oil hydrocarbons to the surface. Usually some natural gas is released along with the oil. A well that is designed to produce only gas may be termed a gas well.',
-  'Other-Ground Water':
-    "The water present beneath Earth's surface in soil pore spaces and in the fractures of rock formations.",
-  'Other-Surface Water':
-    'water on the surface of continents such as in a river, lake, or wetland.',
-  'Pipe, Unspecified Source':
-    'Methods used to remove already formed contaminants from a stream of air, water, waste, product or similar. ',
-  Playa:
-    'Known as an alkali flat or sabkha, a desert basin with no outlet which periodically fills with water to form a temporary lake.',
-  Pond: 'Naturally occurring. A pond is an area filled with water, that is smaller than a lake. It may arise naturally in floodplains as part of a river system, or be a somewhat isolated depression (such as a kettle, vernal pool, or prairie pothole).',
-  'Pond-Anchialine':
-    'A landlocked body of water with a subterranean connection to the ocean. ',
-  'Pond-Sediment':
-    'A naturally occurring material that is broken down by processes of weathering and erosion, and is subsequently transported by the action of wind, water, or ice or by the force of gravity acting on the particles.',
-  'Pond-Stock': 'Ponds for a specific purpose for watering livestock.',
-  'Pond-Stormwater':
-    'Stormwater, also spelled storm water, is water that originates during precipitation events and snow/ice melt.',
-  'Pond-Wastewater':
-    'Any water that has been affected by human use. Wastewater is "used water from any combination of domestic, industrial, commercial or agricultural activities, surface runoff or stormwater, and any sewer inflow or sewer infiltration".',
-  Reservoir:
-    'An enlarged natural or artificial lake, pond or impoundment created using a dam or lock to store water.',
-  'River/Stream':
-    'A body of water with surface water flowing within the bed and banks of a channel.',
-  'River/Stream Ephemeral':
-    'A stream that flows only briefly during and following a period of rainfall in the immediate locality',
-  'River/Stream Intermittent':
-    'Mormally cease flowing for weeks or months each year. ',
-  'River/Stream Perennial':
-    'A stream or river (channel) that has continuous flow in parts of its stream bed all year round during years of normal rainfall.',
-  'River/stream Effluent-Dominated':
-    'A stream or river that gets a significant portion of its flow from effulent discharge.',
-  'Riverine Impoundment':
-    'Impoundments (also known as reservoirs) are artificially created standing water bodies, produced by dams on streams or rivers.',
-  Seep: "A moist or wet place where water, usually groundwater, reaches the earth's surface from an underground aquifer.",
-  'Source-ManMade':
-    'Industrial, agricultural, stormwater, sewer/septic, discharge/pipe, lagoon, or other source',
-  'Spigot / Faucet':
-    "A spigot is a single knob faucet that only has one pipe it controls, like the outdoor spigot that you connect a garden hose to. A tap is used when there isn't a pipe",
-  Spring:
-    'the result of an aquifer being filled to the point that the water overflows onto the land surface.',
-  'State/Local Air Monitoring Station':
-    'A Facility to measure systematically concentrations of pollutants in ambient air. Synonym: Air quality measurement station.',
-  'Storm Sewer':
-    'A system designed to carry rainfall runoff and other drainage.',
-  'Stream sediment':
-    'A naturally occurring material that is broken down by processes of weathering and erosion, and is subsequently transported by the action of wind, water, or ice or by the force of gravity acting on the particles.',
-  Subtidal: 'Refers to the area where the seabed is below the lowest tide',
-  Sump: 'A sump is a shallow borehole (no well construction) that intersects the water table',
-  'Survey Monument':
-    'Boundary monuments are placed at every corner of the property, including any angle or change of direction of the boundary line.',
-  'Test Pit':
-    'A trial pit (or test pit) is an excavation of ground in order to study or sample the composition and structure of the subsurface, usually dug during a site investigation, a soil survey or a geological survey. Trial pits are dug before the construction. They are dug to determine the geology and the water table of that site.',
-  'Waste Pit':
-    'A mud pit in which a supply of drilling fluid has been stored. Also, a waste pit, usually an excavated, earthen-walled pit. It may be lined with plastic to prevent soil contamination.',
-  'Waste Sewer': 'a waste pipe that carries away sewage or surface water',
-  Well: 'An excavation or structure created in the ground by digging, driving, or drilling to access liquid resources, usually water.',
-  'Wetland Estuarine-Ditch':
-    'Open water estuary, bay, sound Vegetated and non-vegetated brackish and saltwater ditch',
-  'Wetland Estuarine-Emergent':
-    'Open water estuary, bay, sound Herbaceous marsh, fen, swale and wet meadow',
-  'Wetland Estuarine-Forested':
-    'Open water estuary, bay, sound Vegetated brackish and saltwater forest',
-  'Wetland Estuarine-Marsh':
-    'Open water estuary, bay, sound Vegetated brackish and saltwater marsh',
-  'Wetland Estuarine-Pool':
-    'Open water estuary, bay, sound Vegetated brackish and saltwater pool: lagoons',
-  'Wetland Estuarine-Scrub-Shrub':
-    'Open water estuary, bay, sound Vegetated brackish and saltwater scrub-shrub',
-  'Wetland Estuarine-Tidal Creek':
-    'Open water estuary, bay, sound Vegetated brackish and saltwater tidal creek',
-  'Wetland Lacustrine-Aquatic Bed':
-    'Includes nontidal wetlands fringing lakes and dominated by floating leaved and submergent plants',
-  'Wetland Lacustrine-Emergent':
-    'bounded by upland or by wetland dominated by trees, shrubs, persistent emergents, emergent mosses, or lichens',
-  'Wetland Lacustrine-Unconsolidated Bottom':
-    'Includes nontidal wetlands ringing lakes in which substrate is at least 25% particles smaller than stones and vegetative cover less than 30%',
-  'Wetland Palustrine Pond':
-    'includes all nontidal wetlands dominated by pond and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
-  'Wetland Palustrine-Emergent':
-    'includes all nontidal wetlands characterized by erect, rooted, herbaceous hydrophytes, excluding mosses and lichens and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
-  'Wetland Palustrine-Forested':
-    'includes all nontidal wetlands dominated by trees, forest, and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
-  'Wetland Palustrine-Moss-Lichen':
-    'includes all nontidal wetlands dominated by mosses or lichens, and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
-  'Wetland Palustrine-Shrub-Scrub':
-    'includes all nontidal wetlands dominated by, shrubs, scrub and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰',
-  'Wetland Riverine-Aquatic Bed':
-    'Includes wetlands connected by or within low gradient rivers dominated by floating leaved and submergent plants ',
-  'Wetland Riverine-Emergent':
-    'wetlands connected by rivers. ... They are found along the edges of rivers, streams and creeks and include rivers, floodplains, marshes, lakes and billabongs. characterized by erect, rooted, herbaceous hydrophytes, excluding mosses and lichens',
-  'Wetland Riverine-Unconsolidated Bottom':
-    'Includes nontidal wetlands connected by rivers in which substrate is at least 25% particles smaller than stones and vegetative cover less than 30%  ',
-  'Wetland Undifferentiated':
-    'a land area that is saturated with water, either permanently or seasonally, It primarily is characteristized by vegetation of aquatic plants, adapted to the unique hydric soil.'
+  "Atmosphere": "Atmosphere monitoring stations provide weather data about conditions",
+  "BEACH Program Site-Channelized stream": "The process of straightening or redirecting natural streams in an artificially modified or constructed stream bed. Channelization has been carried out for numerous reasons, most often to drain wetlands , direct water flow for agricultural use, and control flooding . While this process makes a stream more useful for human activities, it tends to interfere with natural river habitats and to destabilize stream banks by destroying riparian vegetation.",
+  "BEACH Program Site-Estuary": "a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\nEstuaries form a transition zone between river environments and maritime environments. \nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.\n",
+  "BEACH Program Site-Great Lake": "The Great Lakes, also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River.",
+  "BEACH Program Site-Lake": "A lake is an area filled with water, localized in a basin, that is surrounded by land, apart from any river or other outlet that serves to feed or drain the lake",
+  "BEACH Program Site-Land": "Land, sometimes referred to as dry land, is the solid surface of Earth that is not permanently covered by water.",
+  "BEACH Program Site-Land runoff": "Also known as overland flow is the flow of water that occurs when excess stormwater, meltwater, or other sources flows over the Earth's surface.",
+  "BEACH Program Site-Ocean": "An ocean is a body of water that composes much of a planet's hydrosphere.",
+  "BEACH Program Site-River/Stream": "A river is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. In some cases a river flows into the ground and becomes dry at the end of its course without reaching another body of water. ",
+  "BEACH Program Site-Storm sewer": "The storm sewer is a system designed to carry rainfall runoff and other drainage.",
+  "BEACH Program Site-Waste sewer": "The wastewater from residences and institutions, carrying bodily wastes (primarily feces and urine), washing water, food preparation wastes, laundry wastes, and other waste products of normal living, are classed as domestic or sanitary sewage.",
+  "Borehole": "A borehole is a narrow shaft bored in the ground, either vertically or horizontally. A borehole may be constructed for many different purposes, including the extraction of water, other liquids (such as petroleum) or gases (such as natural gas), as part of a geotechnical investigation, environmental site assessment,",
+  "CERCLA Superfund Site": "The Superfund site assessment process evaluates potential or confirmed releases of hazardous substances that may pose a threat to human health or the environment using the Hazard Ranking System (HRS) criteria guide",
+  "Canal Drainage": "As a channel drainage system it is designed to eliminate the need for further pipework systems to be installed in parallel to the drainage, reducing the environmental impact of production as well as improving water collection.",
+  "Canal Irrigation": "Irrigation canals are the main waterways that bring irrigation water from a water source to the areas to be irrigated. They can be lined with concrete, brick, stone, or a flexible membrane to prevent seepage and erosion.",
+  "Canal Transport": "Canals are human-made channels for water conveyance, or to service water transport vehicles. In most cases, the engineered works will have a series of dams and locks that create areas of low speed current flow. These areas are referred to as slack water levels, often just called levels.",
+  "Cave": "A cave is a hollow place in the ground, specifically a natural underground space large enough for a human to enter. Caves form naturally by the weathering of rock and often extend deep underground. ",
+  "Channelized Stream": "The process of straightening or redirecting natural streams in an artificially modified or constructed stream bed. Channelization has been carried out for numerous reasons, most often to drain wetlands , direct water flow for agricultural use, and control flooding . While this process makes a stream more useful for human activities, it tends to interfere with natural river habitats and to destabilize stream banks by destroying riparian vegetation.",
+  "Combined Sewer": "A combined sewer system (CSS) collects rainwater runoff, domestic sewage, and industrial wastewater into one pipe. Under normal conditions, it transports all of the wastewater it collects to a sewage treatment plant for treatment, then discharges to a water body. Combined sewer overflows (CSOs) contain untreated or partially treated human and industrial waste, toxic materials, and debris as well as stormwater.",
+  "Constructed Diversion Dam": "A diversion dam is a dam that diverts all or a portion of the flow of a river from its natural course. Diversion dams do not generally impound water in a reservoir. Instead, the water is diverted into an artificial water course or canal, which may be used for irrigation or return to the river after passing through hydroelectric generators, flow into a different river or be itself dammed forming a reservoir.",
+  "Constructed Tunnel": "an artificial underground passage, especially one built through a hill or under a building, road, or river.",
+  "Constructed Water Transport Structure": "a system of structures and measures that support the  intentional movement of water over large distances. simple aqueducts to transport water above ground level; short pipelines to transport water above or under another structure such as a water canal or an access road",
+  "Constructed Wetland": "A constructed wetland (CW) is an artificial wetland to treat municipal or industrial wastewater, greywater or stormwater runoff. It may also be designed for land reclamation after mining, or as a mitigation step for natural areas lost to land development.Constructed wetlands are engineered systems that use natural functions vegetation, soil, and organisms to treat wastewater",
+  "Estuary": "a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\r\nEstuaries form a transition zone between river environments and maritime environments. \r\nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.\r\n",
+  "Estuary-Freshwater": "Freshwater estuaries are semi-enclosed areas of the Great Lakes in which lake and river water mix, forming a transition zone between river and lake environments that are chemically distinct",
+  "Facility Industrial": "a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal; \"the price of the house included all utilities",
+  "Facility Municipal Sewage (POTW)": "Treatment works treating domestic sewage means a POTW or any other sewage sludge or waste water treatment devices or systems, regardless of ownership (including federal facilities), used in the storage, treatment, recycling, and reclamation of municipal or domestic sewage, including land dedicated for the disposal of sewage sludge. This definition does not include septic tanks or similar devices.",
+  "Facility Other": "a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as Reclaimed water can supply needed water for some purposes Reclaimed wastewater frees up fresh water that can be used somewhere else, such as for drinking water",
+  "Facility Privately Owned Non-industrial": "Privately owned treatment works means any device or system which is (a) used to treat wastes from any facility whose operator is not the operator of the treatment works",
+  "Facility Public Water Supply (PWS)": "A Public Water System is a public water supply for the provision to the public of piped water for human consumption, A Public Water System includes any collection, treatment, storage,\nand distribution facilities under control of such system, including the operator or administrator of such system, and is used primarily in\nconnection with such system and any collection or pretreatment storage facilities not under such control which are used primarily in\nconnection with such system.”",
+  "Floodwater Urban": "A flood is an overflow of water that submerges land that is usually dry  In the sense of \"urban runoff water\". it may occur due to an accumulation of rainwater on saturated ground in an areal flood.",
+  "Floodwater non-Urban": "A flood is an overflow of water that submerges land that is usually dry  Flooding may occur as an overflow of water from water bodies, such as a river, lake, or ocean, in which the water overtops or breaks levees, resulting in some of that water escaping its usual boundaries",
+  "Gallery": "An infiltration gallery is a structure including perforated conduits in gravel to expedite transfer of water to or from a soil.",
+  "Gas-Condensate": "Natural-gas condensate, also called natural gas liquids, is a low-density mixture of hydrocarbon liquids that are present as gaseous components in the raw natural gas produced from many natural gas fields. ",
+  "Gas-Engine": "A gas engine is an internal combustion engine that runs on a gaseous fuel, such as coal gas, producer gas, biogas, landfill gas or natural gas.",
+  "Gas-Extraction": "Oil and Gas Extraction is the exploration and production of petroleum and natural gas from wells. The industry generates wastewater from the water extracted from the geological formations and from chemicals used during exploration, well drilling and production of oil and gas.",
+  "Gas-Flare": "A gas flare, alternatively known as a flare stack, is a gas combustion device used in industrial plants such as petroleum refineries, chemical plants, natural gas processing plants as well as at oil or gas production sites having oil wells, gas wells, offshore oil and gas rigs and landfills.",
+  "Gas-Monitoring Probe": "Gas monitoring probes are used to enhance environmental protection at landfills. Gas\nconcentrations are measured at permit or regulatory specified time intervals. This process\nallows potential environmental concerns to be identified early, evaluated and corrected\n(when necessary) in accordance with regulations and sound scientific approaches.",
+  "Gas-Passive Vent": "Dispersion of gas safely from soil.",
+  "Gas-Subslab": "Sub-slab Soil Gas: Sub-slab samples are collected to characterize the nature and extent of vapor contamination in the soil immediately beneath a building with a slab or beneath the basement floor.",
+  "Gas-Temporary": "a gas capable of liquefaction",
+  "Great Lake": "The Great Lakes, also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River.",
+  "Intertidal": "denoting the area of a seashore which is covered at high tide and uncovered at low tide",
+  "Lake": "A lake is an area filled with water, localized in a basin, that is surrounded by land, apart from any river or other outlet that serves to feed or drain the lake",
+  "Land": "Land, sometimes referred to as dry land, is the solid surface of Earth that is not permanently covered by water.",
+  "Land Flood Plain": "An area of land adjacent to a stream or river which stretches from the banks of its channel to the base of the enclosing valley walls, and which experiences flooding during periods of high discharge.",
+  "Land Runoff": "Also known as overland flow is the flow of water that occurs when excess stormwater, meltwater, or other sources flows over the Earth's surface.",
+  "Landfill": "A site for the disposal of waste materials by burial.",
+  "Leachate-Extraction": "The pump systems which extract the leachate from the wastes",
+  "Leachate-Head Well": "The wells and boreholes within the landfill into which the leachate collection system conveys the leachate. The well head where samples of water are taken determining water quality in source Leachate",
+  "Leachate-Lysimeter": "Is a measuring device which can be used to measure the amount of actual evapotranspiration which is released by plants (usually crops or trees)",
+  "Leachate-SamplePoint": "The point where samples of water are taken determining water quality in source the pipes/pipelines which convey the leachate to the collection tank, or treatment plant location; Leachate is the liquid that drains or 'leaches' from a landfill. It varies widely in composition regarding the age of the landfill and the type of waste that it contains. It usually contains both dissolved and suspended material.",
+  "Local Air Monitoring Station": "Ambient air monitoring is the systematic, long-term assessment of pollutant levels by measuring the quantity and types of certain pollutants in the surrounding, outdoor air.",
+  "Mine Pit": "Open-pit mining, also known as opencast mining, is a surface mining technique that extracts minerals from an open pit in the ground. Open-pits are sometimes called ‘quarries’ when they produce building materials and dimension stone.",
+  "Mine/Mine Discharge": "Formed when pyrite (an iron sulfide) is exposed and reacts with air and water to form sulfuric acid and dissolved iron. Some or all of this iron can precipitate to form the red, orange, or yellow sediments in the bottom of streams containing mine drainage. The acid runoff further dissolves heavy metals such as copper, lead, and mercury into groundwater or surface water. ",
+  "Mine/Mine Discharge Adit (Mine Entrance)": "An adit (from Latin aditus, entrance) is an entrance to an underground mine which is horizontal or nearly horizontal, by which the mine can be entered, drained of water, ventilated, and minerals extracted at the lowest convenient level.",
+  "Mine/Mine Discharge Tailings Pile": "Materials left over after the process of separating the valuable fraction from the uneconomic fraction (gangue) of an ore. ",
+  "Mine/Mine Discharge Waste Rock Pile": "Mine drainage is metal-rich water formed from chemical reaction between water and rocks containing. sulfur-bearing minerals. • The runoff formed is usually acidic and frequently comes from areas where ore or coal mining activities. have exposed rocks containing pyrite, a sulfur bearing mineral",
+  "National Air Monitoring Station": "Ambient air monitoring is the systematic, long-term assessment of pollutant levels by measuring the quantity and types of certain pollutants in the surrounding, outdoor air.",
+  "Ocean": "An ocean is a body of water that composes much of a planet's hydrosphere.",
+  "Oil and Gas Well": "An oil well is a boring in the Earth that is designed to bring petroleum oil hydrocarbons to the surface. Usually some natural gas is released along with the oil. A well that is designed to produce only gas may be termed a gas well.",
+  "Other-Ground Water": "The water present beneath Earth's surface in soil pore spaces and in the fractures of rock formations.",
+  "Other-Surface Water": "water on the surface of continents such as in a river, lake, or wetland.",
+  "Pipe, Unspecified Source": "Methods used to remove already formed contaminants from a stream of air, water, waste, product or similar. ",
+  "Playa": "Known as an alkali flat or sabkha, a desert basin with no outlet which periodically fills with water to form a temporary lake.",
+  "Pond": "Naturally occurring. A pond is an area filled with water, that is smaller than a lake. It may arise naturally in floodplains as part of a river system, or be a somewhat isolated depression (such as a kettle, vernal pool, or prairie pothole).",
+  "Pond-Anchialine": "A landlocked body of water with a subterranean connection to the ocean. ",
+  "Pond-Sediment": "A naturally occurring material that is broken down by processes of weathering and erosion, and is subsequently transported by the action of wind, water, or ice or by the force of gravity acting on the particles.",
+  "Pond-Stock": "Ponds for a specific purpose for watering livestock.",
+  "Pond-Stormwater": "Stormwater, also spelled storm water, is water that originates during precipitation events and snow/ice melt.",
+  "Pond-Wastewater": "Any water that has been affected by human use. Wastewater is \"used water from any combination of domestic, industrial, commercial or agricultural activities, surface runoff or stormwater, and any sewer inflow or sewer infiltration\".",
+  "Reservoir": "An enlarged natural or artificial lake, pond or impoundment created using a dam or lock to store water.",
+  "River/Stream": "A body of water with surface water flowing within the bed and banks of a channel.",
+  "River/Stream Ephemeral": "A stream that flows only briefly during and following a period of rainfall in the immediate locality",
+  "River/Stream Intermittent": "Mormally cease flowing for weeks or months each year. ",
+  "River/Stream Perennial": "A stream or river (channel) that has continuous flow in parts of its stream bed all year round during years of normal rainfall.",
+  "River/stream Effluent-Dominated": "A stream or river that gets a significant portion of its flow from effulent discharge.",
+  "Riverine Impoundment": "Impoundments (also known as reservoirs) are artificially created standing water bodies, produced by dams on streams or rivers.",
+  "Seep": "A moist or wet place where water, usually groundwater, reaches the earth's surface from an underground aquifer.",
+  "Spigot / Faucet": "A spigot is a single knob faucet that only has one pipe it controls, like the outdoor spigot that you connect a garden hose to. A tap is used when there isn't a pipe",
+  "Spring": "the result of an aquifer being filled to the point that the water overflows onto the land surface.",
+  "State/Local Air Monitoring Station": "A Facility to measure systematically concentrations of pollutants in ambient air. Synonym: Air quality measurement station.",
+  "Storm Sewer": "A system designed to carry rainfall runoff and other drainage.",
+  "Subtidal": "Refers to the area where the seabed is below the lowest tide",
+  "Sump": "A sump is a shallow borehole (no well construction) that intersects the water table",
+  "Survey Monument": "Boundary monuments are placed at every corner of the property, including any angle or change of direction of the boundary line.",
+  "Test Pit": "A trial pit (or test pit) is an excavation of ground in order to study or sample the composition and structure of the subsurface, usually dug during a site investigation, a soil survey or a geological survey. Trial pits are dug before the construction. They are dug to determine the geology and the water table of that site.",
+  "Waste Pit": "A mud pit in which a supply of drilling fluid has been stored. Also, a waste pit, usually an excavated, earthen-walled pit. It may be lined with plastic to prevent soil contamination.",
+  "Waste Sewer": "a waste pipe that carries away sewage or surface water",
+  "Well": "An excavation or structure created in the ground by digging, driving, or drilling to access liquid resources, usually water.",
+  "Wetland Estuarine-Ditch": "Open water estuary, bay, sound Vegetated and non-vegetated brackish and saltwater ditch",
+  "Wetland Estuarine-Emergent": "Open water estuary, bay, sound Herbaceous marsh, fen, swale and wet meadow",
+  "Wetland Estuarine-Forested": "Open water estuary, bay, sound Vegetated brackish and saltwater forest",
+  "Wetland Estuarine-Marsh": "Open water estuary, bay, sound Vegetated brackish and saltwater marsh",
+  "Wetland Estuarine-Pool": "Open water estuary, bay, sound Vegetated brackish and saltwater pool: lagoons",
+  "Wetland Estuarine-Scrub-Shrub": "Open water estuary, bay, sound Vegetated brackish and saltwater scrub-shrub",
+  "Wetland Estuarine-Tidal Creek": "Open water estuary, bay, sound Vegetated brackish and saltwater tidal creek",
+  "Wetland Lacustrine-Emergent": "bounded by upland or by wetland dominated by trees, shrubs, persistent emergents, emergent mosses, or lichens",
+  "Wetland Palustrine Pond": "includes all nontidal wetlands dominated by pond and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+  "Wetland Palustrine-Emergent": "includes all nontidal wetlands characterized by erect, rooted, herbaceous hydrophytes, excluding mosses and lichens and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+  "Wetland Palustrine-Forested": "includes all nontidal wetlands dominated by trees, forest, and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+  "Wetland Palustrine-Moss-Lichen": "includes all nontidal wetlands dominated by mosses or lichens, and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+  "Wetland Palustrine-Shrub-Scrub": "includes all nontidal wetlands dominated by, shrubs, scrub and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+  "Wetland Riverine-Emergent": "wetlands connected by rivers. ... They are found along the edges of rivers, streams and creeks and include rivers, floodplains, marshes, lakes and billabongs. characterized by erect, rooted, herbaceous hydrophytes, excluding mosses and lichens",
+  "Wetland Undifferentiated": "a land area that is saturated with water, either permanently or seasonally, It primarily is characteristized by vegetation of aquatic plants, adapted to the unique hydric soil."
 }

@@ -1,17 +1,17 @@
 export default {
-  $id: 'https://epa.gov/wqx/HydrologicCondition',
-  title: 'Hydrologic Condition',
-  description: '',
-  type: 'string',
-  enum: [
-    'Falling stage',
-    'Not applicable',
-    'Not determined',
-    'Peak stage',
-    'Rising stage',
-    'Stable, high stage',
-    'Stable, low stage',
-    'Stable, normal stage'
+  "$id": "https://epa.gov/wqx/HydrologicCondition",
+  "title": "Hydrologic Condition",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Falling stage",
+    "Not applicable",
+    "Not determined",
+    "Peak stage",
+    "Rising stage",
+    "Stable, high stage",
+    "Stable, low stage",
+    "Stable, normal stage"
   ],
-  maxLength: 20
+  "maxLength": 20
 }

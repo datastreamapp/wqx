@@ -1,24 +1,24 @@
 export default {
-  $id: 'https://epa.gov/wqx/Assemblage',
-  title: 'Assemblage',
-  description: '',
-  type: 'string',
-  enum: [
-    'Amphibians',
-    'Aquatic Vegetation',
-    'Bacteria/Virus',
-    'Benthic Macroinvertebrates',
-    'Birds',
-    'Corals',
-    'Fish/Nekton',
-    'Fungi',
-    'Ichthyoplankton',
-    'Invertebrates',
-    'Mammals',
-    'Periphyton',
-    'Phytoplankton/Zooplankton',
-    'Reptiles',
-    'Terrestrial Vegetation'
+  "$id": "https://epa.gov/wqx/Assemblage",
+  "title": "Assemblage",
+  "description": "",
+  "type": "string",
+  "enum": [
+    "Amphibians",
+    "Aquatic Vegetation",
+    "Bacteria/Virus",
+    "Benthic Macroinvertebrates",
+    "Birds",
+    "Corals",
+    "Fish/Nekton",
+    "Fungi",
+    "Ichthyoplankton",
+    "Invertebrates",
+    "Mammals",
+    "Periphyton",
+    "Phytoplankton/Zooplankton",
+    "Reptiles",
+    "Terrestrial Vegetation"
   ],
-  maxLength: 26
+  "maxLength": 26
 }

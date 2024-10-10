@@ -1,27 +1,17 @@
 export default {
-  Amphibians: 'Amphibian community.  Frogs, toads, etc.',
-  'Aquatic Vegetation':
-    'Plants normally found growing in the water column, either partially or totally submerged.',
-  'Bacteria/Virus': 'Microbiological pathogens.',
-  'Benthic Macroinvertebrates':
-    'Invertebrate animals inhabiting the bottom of a water body.',
-  Birds:
-    'Warm-blooded egg-laying animals possessing feathers, wings, and a beak.',
-  Corals:
-    'Hard stony substance secreted by certain marine coelenterates as an external skeleton, typically forming large reefs in warm seas.',
-  'Fish/Nekton':
-    'Fish or other animals inhabiting the water column between the surface and the bottom.',
-  Fungi:
-    'Unicellular, multicellular, or syncytial spore-producing organisms feeding on organic matter, including molds, yeast, mushrooms, and toadstools.',
-  Ichthyoplankton: 'Fish-like animals of near-microscopic dimensions.',
-  Invertebrates:
-    'Invertebrate animals is without a vertebral column or lacking backbone/spinal column',
-  Mammals: 'Warm-blooded hairy milk-producing animals.',
-  Periphyton:
-    'Near-microscopic plant material found attached to solid surfaces submerged in the aquatic environment.',
-  'Phytoplankton/Zooplankton':
-    'Near-microscopic plants and animals found in the water column between the surface and the bottom.',
-  Reptiles: 'Snakes, lizards, turtles, etc.',
-  'Terrestrial Vegetation':
-    'Plants normally found growing out of water.  Trees, shrubs, grasses, etc.'
+  "Amphibians": "Amphibian community.  Frogs, toads, etc.",
+  "Aquatic Vegetation": "Plants normally found growing in the water column, either partially or totally submerged.",
+  "Bacteria/Virus": "Microbiological pathogens.",
+  "Benthic Macroinvertebrates": "Invertebrate animals inhabiting the bottom of a water body.",
+  "Birds": "Warm-blooded egg-laying animals possessing feathers, wings, and a beak.",
+  "Corals": "Hard stony substance secreted by certain marine coelenterates as an external skeleton, typically forming large reefs in warm seas.",
+  "Fish/Nekton": "Fish or other animals inhabiting the water column between the surface and the bottom.",
+  "Fungi": "Unicellular, multicellular, or syncytial spore-producing organisms feeding on organic matter, including molds, yeast, mushrooms, and toadstools.",
+  "Ichthyoplankton": "Fish-like animals of near-microscopic dimensions.",
+  "Invertebrates": "Invertebrate animals is without a vertebral column or lacking backbone/spinal column",
+  "Mammals": "Warm-blooded hairy milk-producing animals.",
+  "Periphyton": "Near-microscopic plant material found attached to solid surfaces submerged in the aquatic environment.",
+  "Phytoplankton/Zooplankton": "Near-microscopic plants and animals found in the water column between the surface and the bottom.",
+  "Reptiles": "Snakes, lizards, turtles, etc.",
+  "Terrestrial Vegetation": "Plants normally found growing out of water.  Trees, shrubs, grasses, etc."
 }

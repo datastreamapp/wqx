@@ -6,11 +6,9 @@
   "enum": [
     "Blank-adjusted method detect limit",
     "Blank-adjusted reporting limit",
-    "Censoring level",
     "Contract Detection Limit",
     "Contract Quantitation Limit",
     "Daily detection limit",
-    "Detection Limit",
     "Detection limit by DQCALC",
     "Drinking Water Maximum",
     "Estimated Detection Level",
