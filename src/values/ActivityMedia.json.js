@@ -1,17 +1,17 @@
 export default {
-  "$id": "https://epa.gov/wqx/ActivityMedia",
-  "title": "Activity Media",
-  "description": "",
-  "type": "string",
-  "enum": [
-    "Air",
-    "Biological",
-    "Habitat",
-    "Other",
-    "Sediment",
-    "Soil",
-    "Tissue",
-    "Water"
+  $id: 'https://epa.gov/wqx/ActivityMedia',
+  title: 'Activity Media',
+  description: '',
+  type: 'string',
+  enum: [
+    'Air',
+    'Biological',
+    'Habitat',
+    'Other',
+    'Sediment',
+    'Soil',
+    'Tissue',
+    'Water'
   ],
-  "maxLength": 10
+  maxLength: 10
 }

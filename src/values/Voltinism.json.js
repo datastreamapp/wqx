@@ -1,15 +1,15 @@
 export default {
-  "$id": "https://epa.gov/wqx/Voltinism",
-  "title": "Voltinism",
-  "description": "",
-  "type": "string",
-  "enum": [
-    "Bivoltine",
-    "Facultative Multivoltine",
-    "Facultative Semivoltine",
-    "Multivoltine",
-    "Semivoltine",
-    "Univoltine"
+  $id: 'https://epa.gov/wqx/Voltinism',
+  title: 'Voltinism',
+  description: '',
+  type: 'string',
+  enum: [
+    'Bivoltine',
+    'Facultative Multivoltine',
+    'Facultative Semivoltine',
+    'Multivoltine',
+    'Semivoltine',
+    'Univoltine'
   ],
-  "maxLength": 24
+  maxLength: 24
 }

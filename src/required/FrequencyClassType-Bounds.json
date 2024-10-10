@@ -2,21 +2,15 @@
   "if": {
     "properties": {
       "FrequencyClassType": {
-        "enum": [
-          "Measured Characteristic"
-        ]
+        "enum": ["Measured Characteristic"]
       }
     },
-    "required": [
-      "FrequencyClassType"
-    ]
+    "required": ["FrequencyClassType"]
   },
   "then": {
     "properties": {
       "Bounds": {}
     },
-    "required": [
-      "Bounds"
-    ]
+    "required": ["Bounds"]
   }
 }

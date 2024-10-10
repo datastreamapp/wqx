@@ -22,6 +22,7 @@
     "GA-DNR",
     "GeoEngineers",
     "IDEXX",
+    "KNA__",
     "Kansas DHE",
     "MASSWATER",
     "MDEQ-WQ",
@@ -35,7 +36,8 @@
     "USACE",
     "USDOI/USGS",
     "USEPA",
-    "UTAHDWQ"
+    "UTAHDWQ",
+    "WSDOE"
   ],
   "maxLength": 16
 }

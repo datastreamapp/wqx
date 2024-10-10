@@ -14,19 +14,25 @@
     "15 Deg C",
     "180 Deg C",
     "20 Deg C",
+    "23 Deg C",
     "25 Deg C",
+    "26 Deg C",
     "30 Deg C",
     "35 Deg C",
     "37 Deg C",
+    "4 Deg C",
     "40 Deg C",
     "41 Deg C",
+    "41.5 Deg C",
     "42 Deg C",
     "43 Deg C",
     "44.5 Deg C",
     "45 Deg C",
+    "450 Deg C",
     "50 Deg C",
     "55 Deg C",
     "60 Deg C",
+    "60F,14.73psi",
     "65 Deg C",
     "70 Deg C",
     "75 Deg C",
@@ -34,7 +40,10 @@
     "85 Deg C",
     "90 Deg C",
     "95 Deg C",
-    "STP"
+    "Heated",
+    "Room temp",
+    "STP",
+    "sp.gr. temp"
   ],
-  "maxLength": 10
+  "maxLength": 12
 }

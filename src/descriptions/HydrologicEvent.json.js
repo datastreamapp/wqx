@@ -1,23 +1,28 @@
 export default {
-  "Affected by fire": "Drainage basin for sample was affected by fire prior to sampling",
-  "Algal bloom": "Sample potentially affected by the excessive presence of algae",
-  "Backwater": "",
-  "Dambreak": "",
-  "Drought": "",
-  "Earthquake": "a sudden and violent shaking of the ground, as a result of movements within the earth's crust or volcanic action",
-  "Flood": "",
-  "Glacial lake outbreak": "a sudden release of water (Glacial Lake Outburst) from a lake fed by glacier melt that has formed at the side, in front, within, beneath, or on the surface of a glacier.",
-  "Hurricane": "",
-  "Mudflow": "a fluid or hardened stream or avalanche of mud.",
-  "Not Determined (historical)": "",
-  "Not applicable": "",
-  "Regulated flow": "",
-  "Routine sample": "",
-  "Snowmelt": "",
-  "Spill": "",
-  "Spring breakup": "",
-  "Storm": "a violent atmospheric disturbance, characterized by low barometric pressure, cloud cover, precipitation, strong winds, and possibly lightning and thunder",
-  "Tidal action": "",
-  "Under ice cover": "",
-  "Volcanic action": ""
+  'Affected by fire':
+    'Drainage basin for sample was affected by fire prior to sampling',
+  'Algal bloom':
+    'Sample potentially affected by the excessive presence of algae',
+  Backwater: '',
+  Dambreak: '',
+  Drought: '',
+  Earthquake:
+    "a sudden and violent shaking of the ground, as a result of movements within the earth's crust or volcanic action",
+  Flood: '',
+  'Glacial lake outbreak':
+    'a sudden release of water (Glacial Lake Outburst) from a lake fed by glacier melt that has formed at the side, in front, within, beneath, or on the surface of a glacier.',
+  Hurricane: '',
+  Mudflow: 'a fluid or hardened stream or avalanche of mud.',
+  'Not Determined (historical)': '',
+  'Not applicable': '',
+  'Regulated flow': '',
+  'Routine sample': '',
+  Snowmelt: '',
+  Spill: '',
+  'Spring breakup': '',
+  Storm:
+    'a violent atmospheric disturbance, characterized by low barometric pressure, cloud cover, precipitation, strong winds, and possibly lightning and thunder',
+  'Tidal action': '',
+  'Under ice cover': '',
+  'Volcanic action': ''
 }

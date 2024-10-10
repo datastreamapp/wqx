@@ -44,8 +44,11 @@
     "ENVIROLOGIX",
     "FISON",
     "HACH",
+    "HANNA",
+    "HOBO",
     "IDEXX",
     "IL/SWSD",
+    "IN-SITU",
     "ISO",
     "ITS",
     "KINGWOOD",
@@ -75,6 +78,7 @@
     "PACE LABS",
     "PALINTEST LTD",
     "PRACTICAL STATS",
+    "QuickDrops",
     "R-BIOPHARM",
     "RSC",
     "SEAL",
@@ -115,6 +119,7 @@
     "USFDA",
     "WDNR FISH HABITAT",
     "WEST INC",
+    "WSDOE",
     "YSI"
   ],
   "maxLength": 32

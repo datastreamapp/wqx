@@ -1,5 +1,32 @@
 export default {
-  "Fish/Nekton": "North American Native Fishes Association Fish List -  http://www.nanfa.org/checklist.shtml",
-  "Not Assigned": "",
-  "Terrestrial Vegetation": "NPS Terrestrial Vegetation - https://www.nps.gov/im/klmn/vegetation.htm"
+  Amphibians: 'Amphibian community.  Frogs, toads, etc.',
+  'Aquatic Vegetation':
+    'Plants normally found growing in the water column, either partially or totally submerged. https://www.nps.gov/im/klmn/species-lists.htm',
+  'Bacteria/Virus':
+    'Microbiological pathogens. Bacteria/Virus - https://www.nps.gov/im/klmn/species-lists.htm',
+  'Benthic Macroinvertebrates':
+    'Invertebrate animals inhabiting the bottom of a water body. Benthic Macroinvertebrates - https://www.nps.gov/im/klmn/species-lists.htm',
+  Birds:
+    'Warm-blooded egg-laying animals possessing feathers, wings, and a beak.',
+  Corals:
+    'Hard stony substance secreted by certain marine coelenterates as an external skeleton, typically forming large reefs in warm seas. Corals - https://www.nps.gov/im/klmn/species-lists.htm',
+  Diatoms:
+    'Diatoms are a type of plankton called phytoplankton, diatoms are classed as microalgae. ',
+  'Fish/Nekton':
+    'Fish or other animals inhabiting the water column between the surface and the bottom. North American Native Fishes Association Fish List -  http://www.nanfa.org/checklist.shtml',
+  Fungi:
+    'Unicellular, multicellular, or syncytial spore-producing organisms feeding on organic matter, including molds, yeast, mushrooms, and toadstools.',
+  Ichthyoplankton: 'Fish-like animals of near-microscopic dimensions.',
+  Invertebrates:
+    'Invertebrate animals is without a vertebral column or lacking backbone/spinal column - https://www.nps.gov/im/klmn/species-lists.htm',
+  Mammals: 'Warm-blooded hairy milk-producing animals.',
+  'Not Assigned': 'Not assigned or yet reviewed.',
+  Periphyton:
+    'Near-microscopic plant material found attached to solid surfaces submerged in the aquatic environment.',
+  'Phytoplankton/Zooplankton':
+    'Near-microscopic plants and animals found in the water column between the surface and the bottom. - https://www.nps.gov/im/klmn/species-lists.htm',
+  Reptiles:
+    'Snakes, lizards, turtles, etc. air-breathing, cold-blooded vertebrates that have scaly bodies rather than hair or feathers; most reptile species are egg-laying',
+  'Terrestrial Vegetation':
+    'Plants normally found growing out of water.  Trees, shrubs, grasses, etc. NPS Terrestrial Vegetation - https://www.nps.gov/im/klmn/vegetation.htm'
 }

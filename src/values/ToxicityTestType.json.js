@@ -1,11 +1,8 @@
 export default {
-  "$id": "https://epa.gov/wqx/ToxicityTestType",
-  "title": "Toxicity Test Type",
-  "description": "",
-  "type": "string",
-  "enum": [
-    "Acute",
-    "Chronic"
-  ],
-  "maxLength": 7
+  $id: 'https://epa.gov/wqx/ToxicityTestType',
+  title: 'Toxicity Test Type',
+  description: '',
+  type: 'string',
+  enum: ['Acute', 'Chronic'],
+  maxLength: 7
 }

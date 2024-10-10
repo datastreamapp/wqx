@@ -24,7 +24,9 @@
     "Present Below Quantification Limit",
     "Reported in Raw Data (attached)",
     "Trace",
-    "Value Decensored"
+    "Unable to Measure",
+    "Value Decensored",
+    "Value affected by contamination"
   ],
   "maxLength": 35
 }

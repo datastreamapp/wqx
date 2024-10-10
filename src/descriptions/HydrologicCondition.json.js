@@ -1,10 +1,10 @@
 export default {
-  "Falling stage": "",
-  "Not applicable": "",
-  "Not determined": "",
-  "Peak stage": "",
-  "Rising stage": "",
-  "Stable, high stage": "",
-  "Stable, low stage": "",
-  "Stable, normal stage": ""
+  'Falling stage': '',
+  'Not applicable': '',
+  'Not determined': '',
+  'Peak stage': '',
+  'Rising stage': '',
+  'Stable, high stage': '',
+  'Stable, low stage': '',
+  'Stable, normal stage': ''
 }

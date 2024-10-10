@@ -1,8 +1,14 @@
 export default {
-  "# of hauls": "number (quantity) of hauls, the result of an effort to obtain, collect something",
-  "# of hooks": "number (quantity) of hooks, a piece of metal or other material, curved or bent back at an angle, for catching hold of or hanging things on.",
-  "# of net sweeps": "number (quantity) of sweeps, sturdy nets often with a canvas bag, that are used to collect insects and other invertebrates from long grass.",
-  "# of nets": "number (quantity) of nets,a length of open-meshed material made of twine, cord, rope, or something similar, used typically for catching fish or other animals.",
-  "# of passes": "number (quantity) of passes, a single complete cycle of operations.",
-  "# of traps": "number (quantity) of traps, a contrivance used for catching game or other animals, as a mechanical device that springs shut suddenly."
+  '# of hauls':
+    'number (quantity) of hauls, the result of an effort to obtain, collect something',
+  '# of hooks':
+    'number (quantity) of hooks, a piece of metal or other material, curved or bent back at an angle, for catching hold of or hanging things on.',
+  '# of net sweeps':
+    'number (quantity) of sweeps, sturdy nets often with a canvas bag, that are used to collect insects and other invertebrates from long grass.',
+  '# of nets':
+    'number (quantity) of nets,a length of open-meshed material made of twine, cord, rope, or something similar, used typically for catching fish or other animals.',
+  '# of passes':
+    'number (quantity) of passes, a single complete cycle of operations.',
+  '# of traps':
+    'number (quantity) of traps, a contrivance used for catching game or other animals, as a mechanical device that springs shut suddenly.'
 }

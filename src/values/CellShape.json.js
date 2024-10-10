@@ -1,19 +1,19 @@
 export default {
-  "$id": "https://epa.gov/wqx/CellShape",
-  "title": "Cell Shape",
-  "description": "",
-  "type": "string",
-  "enum": [
-    "Arcuate",
-    "Cylindrical",
-    "Fusiform",
-    "Lunate",
-    "Oval Box",
-    "Ovoid",
-    "Rectangular Box",
-    "Rod",
-    "Sphere",
-    "Teardrop"
+  $id: 'https://epa.gov/wqx/CellShape',
+  title: 'Cell Shape',
+  description: '',
+  type: 'string',
+  enum: [
+    'Arcuate',
+    'Cylindrical',
+    'Fusiform',
+    'Lunate',
+    'Oval Box',
+    'Ovoid',
+    'Rectangular Box',
+    'Rod',
+    'Sphere',
+    'Teardrop'
   ],
-  "maxLength": 15
+  maxLength: 15
 }
