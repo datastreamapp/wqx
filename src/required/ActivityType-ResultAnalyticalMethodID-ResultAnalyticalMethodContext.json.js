@@ -1,5 +1,7 @@
 export default {
   if: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
       ActivityType: {
         enum: [
@@ -56,9 +58,11 @@ export default {
     required: ['ActivityType']
   },
   then: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
-      ResultAnalyticalMethodID: {},
-      ResultAnalyticalMethodContext: {}
+      ResultAnalyticalMethodID: true,
+      ResultAnalyticalMethodContext: true
     },
     required: ['ResultAnalyticalMethodID', 'ResultAnalyticalMethodContext']
   }

@@ -1,5 +1,7 @@
 export default {
   if: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
       CharacteristicName: {
         enum: [
@@ -1092,9 +1094,11 @@ export default {
     required: ['CharacteristicName']
   },
   then: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
-      ResultAnalyticalMethodID: {},
-      ResultAnalyticalMethodContext: {}
+      ResultAnalyticalMethodID: true,
+      ResultAnalyticalMethodContext: true
     },
     required: ['ResultAnalyticalMethodID', 'ResultAnalyticalMethodContext']
   }

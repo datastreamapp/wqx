@@ -1,5 +1,7 @@
 export default {
   if: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
       ActivityType: {
         enum: [
@@ -40,8 +42,10 @@ export default {
     required: ['ActivityType']
   },
   then: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
-      MonitoringLocationType: {}
+      MonitoringLocationType: true
     },
     required: ['MonitoringLocationType']
   }

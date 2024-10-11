@@ -1,5 +1,7 @@
 export default {
   if: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
       FrequencyClassType: {
         enum: ['Measured Characteristic']
@@ -8,8 +10,10 @@ export default {
     required: ['FrequencyClassType']
   },
   then: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
-      Bounds: {}
+      Bounds: true
     },
     required: ['Bounds']
   }

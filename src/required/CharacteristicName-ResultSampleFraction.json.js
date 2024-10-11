@@ -1,5 +1,7 @@
 export default {
   if: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
       CharacteristicName: {
         enum: [
@@ -1856,8 +1858,10 @@ export default {
     required: ['CharacteristicName']
   },
   then: {
+    type: 'object',
+    unevaluatedProperties: false,
     properties: {
-      ResultSampleFraction: {}
+      ResultSampleFraction: true
     },
     required: ['ResultSampleFraction']
   }
