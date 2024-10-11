@@ -77,19 +77,23 @@ const run = async () => {
           if (!required[col.colname]) {
             required[col.colname] = {
               if: {
+                type: 'object',
+                unevaluatedProperties: false,
                 properties: {
                   [requiredMapping[field]]: { enum: [] }
                 },
                 required: [requiredMapping[field]]
               },
               then: {
+                type: 'object',
+                unevaluatedProperties: false,
                 properties: {},
                 required: requiredMapping[col.colname]
               }
             }
             // required to allow use of strict
             for (const property of requiredMapping[col.colname]) {
-              required[col.colname].then.properties[property] = {}
+              required[col.colname].then.properties[property] = true
             }
           }
         }
