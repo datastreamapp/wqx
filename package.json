@@ -37,7 +37,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.0.0",
     "@commitlint/config-conventional": "^19.0.0",
-    "ajv-cmd": "0.7.6",
+    "ajv-cmd": "^0.7.0",
     "change-case": "^4.1.2",
     "glob": "^8.0.0",
     "husky": "^8.0.0",

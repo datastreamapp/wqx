@@ -413,7 +413,8 @@
       "title": "Activity Horizontal Accuracy Measure",
       "description": "The horizontal measure indicating the relative accuracy of the latitude and longitude coordinates",
       "type": "number",
-      "$ref": "#/definitions/number"
+      "$ref": "#/definitions/number",
+      "minimum": 0
     },
     "ActivityHorizontalAccuracyUnit": {
       "title": "Activity Horizontal Accuracy Unit",
