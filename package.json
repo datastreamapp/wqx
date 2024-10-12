@@ -1,6 +1,6 @@
 {
   "name": "wqx",
-  "version": "3.0.185",
+  "version": "3.0.186",
   "description": "Water Quality Exchange (WQX): JSON Schema",
   "type": "module",
   "scripts": {
