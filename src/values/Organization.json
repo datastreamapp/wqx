@@ -603,6 +603,7 @@
     "FWC_SGMP_WQX",
     "FWC_WQMP_WQX",
     "FWS_MATTAMUSKEET",
+    "GARNA",
     "GBMCASSOC2014",
     "GBNERR",
     "GCWIN",
@@ -1001,6 +1002,7 @@
     "POARCHCRK_WQX",
     "POLSWATER_WQX",
     "POMO989_WQX",
+    "PONCA_TRIBE_WQX",
     "PORTGRAHAM",
     "PORTLANDHARBORRISS",
     "POTTERVALLEYTRIBE",
@@ -1425,6 +1427,7 @@
     "YPIT_WQX",
     "YRITWC",
     "YUROKTEP_WQX",
+    "ZENDERGROUP_WQX",
     "ZIAPUEBLO_WQX"
   ],
   "maxLength": 34

@@ -7,7 +7,7 @@ export default {
     'AMSMA',
     'ASTRO',
     'GUAM',
-    'HARN',
+    'HARN*^',
     'JHNSN',
     'NAD27',
     'NAD83',
@@ -22,5 +22,5 @@ export default {
     'WGS72',
     'WGS84'
   ],
-  maxLength: 5
+  maxLength: 6
 }

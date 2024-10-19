@@ -325,6 +325,7 @@ export default {
     'meq',
     'meq/100g',
     'meq/L',
+    'meq/kg',
     'metric ton',
     'mg',
     'mg N/l*^*^*^',

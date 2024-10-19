@@ -2,7 +2,7 @@ export default {
   AMSMA: 'American Samoa Datum',
   ASTRO: 'Midway Astro 1961',
   GUAM: 'Guam 1963',
-  HARN: 'High Accuracy Reference Network for NAD83',
+  'HARN*^': 'High Accuracy Reference Network NAD83(Meters)',
   JHNSN: 'Johnson Island 1961',
   NAD27: 'North American Datum 1927',
   NAD83: 'North American Datum 1983',
