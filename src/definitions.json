@@ -68,7 +68,7 @@
       "type": "string",
       "$ref": "#/definitions/string",
       "minLength": 0,
-      "maxLength": 35
+      "maxLength": 55
     },
     "MonitoringLocationName": {
       "title": "Monitoring Location Name",
@@ -127,7 +127,7 @@
       "type": "string",
       "$ref": "#/definitions/string",
       "minLength": 0,
-      "maxLength": 35
+      "maxLength": 55
     },
     "AlternateMonitoringLocationContext": {
       "title": "Alternate Monitoring Location Context",
