@@ -1413,8 +1413,7 @@ export default {
     'The Seminole Nation of Oklahoma (Tribal) || The Seminole Nation of Oklahoma (Tribal)',
   SNOQUALM_WQX: 'Snoqualmie Tribe || Snoqualmie Indian Tribe (Tribal)',
   SNSA_WQX: 'Water Quality Monitoring Data',
-  SOBOBA_WQX:
-    'Soboba Band of Luiseno Indians, California (Tribal) || Soboba Band of Luiseno Indians, California (Tribal)',
+  SOBOBA_WQX: 'Soboba Band of Luiseno Indians, California (Tribal)',
   SOKAOGON_WQX: '',
   SONOMAWATER_WQX: '',
   SOUTHSANTIAM_WC: 'Eric Anderson, Current VolMon group',

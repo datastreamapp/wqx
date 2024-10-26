@@ -3177,6 +3177,7 @@ export default {
   '1,2-Dimethyl-4-(pentafluoroethyl)benzene':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,2-Dimethyl-4-ethylbenzene': 'Not Assigned',
+  '1,2-Dimethylcyclopentane': 'Not Assigned',
   '1,2-Dimethylhydrazine': 'Not Assigned',
   '1,2-Dimethylnaphthalene': 'Organics, Other',
   '1,2-Diphenylhydrazine': 'Organics, Other',
@@ -3471,6 +3472,7 @@ export default {
   '1,3-Dimethyl-5-ethylbenzene': 'Not Assigned',
   '1,3-Dimethyladamantane': 'Not Assigned',
   '1,3-Dimethylcyclohexene': 'Not Assigned',
+  '1,3-Dimethylcyclopentane': 'Not Assigned',
   '1,3-Dimethylindan': 'Not Assigned',
   '1,3-Dimethylnaphthalene': 'Organics, Other',
   '1,3-Dinitropyrene': 'Not Assigned',
@@ -12063,6 +12065,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3,6-Dihydro-8-(1-methylethyl)-1,3,6-trioxo[1]benzothiopyrano[2,3-e]isoindol-2-yl perfluorobutanesulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3,6-Dimethyldecane': 'Not Assigned',
   '3,6-Dimethyloctane': 'Not Assigned',
   '3,6-Dimethylphenanthrene': 'Organics, PCBs',
   '3,6-Octanediol, 1,2,2,7,7,8-hexafluoro-1,8-bis(heptafluoropropoxy)-':
@@ -12762,6 +12765,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Methyl-4-(methylsulfanyl)phenyl pentafluoroethane-1-sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3-Methyl-4-methylidenehexane': 'Not Assigned',
   '3-Methyl-5-(tridecafluorohexyl)-1,2,4-trioxolane':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Methyl-5-propylnonane': 'Not Assigned',
@@ -16320,6 +16324,7 @@ export default {
   'Animals/Organisms Present': 'Not Assigned',
   'Anion deficit': 'Physical',
   'Anion/cation ratio': 'Physical',
+  'Anions-Cations': 'Not Assigned',
   'Anise oil': 'Organics, Pesticide',
   Anisole: 'Not Assigned',
   'Annual erosion rate': 'Physical',
@@ -18857,6 +18862,7 @@ export default {
   Catechol: 'Organics, Pesticide',
   'Categorical Diatom Thickness': 'Biological, Algae, Phytoplankton',
   'Cation exchange capacity': 'Physical',
+  'Cation/anion ratio': 'Not Assigned',
   'Cations-Anions': 'Physical',
   Cefotaxime: 'Not Assigned',
   Cefoxitin: 'Not Assigned',
@@ -19686,6 +19692,8 @@ export default {
   'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-':
     'Not Assigned',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.alpha.,4.alpha.)-':
+    'Not Assigned',
+  'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.beta.,4.alpha.)-':
     'Not Assigned',
   'Cyclopentane, 1,2-dimethyl-, (1R,2R)-rel-': 'Not Assigned',
   'Cyclopentane, 1-ethyl-2-methyl-, cis-': 'Not Assigned',
@@ -33454,6 +33462,7 @@ export default {
   'cis-(4-Methylcyclohexyl)methanol': 'Not Assigned',
   'cis-1,2-Dichloroethylene': 'Organics, Other',
   'cis-1,2-Dichloropropene': 'Not Assigned',
+  'cis-1,2-Dimethylcyclopentane': 'Not Assigned',
   'cis-1,2-Dimethylcyclopropane': 'Not Assigned',
   'cis-1,3-Dichloropropene': 'Organics, Pesticide',
   'cis-1,3-Dimethylcyclohexane': 'Not Assigned',

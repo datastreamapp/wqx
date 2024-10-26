@@ -7,7 +7,7 @@
     "AMSMA",
     "ASTRO",
     "GUAM",
-    "HARN*^",
+    "HARN",
     "JHNSN",
     "NAD27",
     "NAD83",
@@ -22,5 +22,5 @@
     "WGS72",
     "WGS84"
   ],
-  "maxLength": 6
+  "maxLength": 5
 }

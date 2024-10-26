@@ -2210,6 +2210,7 @@ export default {
   '1,2-Dimethyl-3-ethylbenzene': '; Request Date: 02-MAR-07',
   '1,2-Dimethyl-4-(pentafluoroethyl)benzene': '',
   '1,2-Dimethyl-4-ethylbenzene': '; Request Date: 09-JAN-08',
+  '1,2-Dimethylcyclopentane': 'https://pubchem.ncbi.nlm.nih.gov/compound/17148',
   '1,2-Dimethylhydrazine': '; Request Date: 02-MAR-07',
   '1,2-Dimethylnaphthalene': 'Nemi.gov; Request Date: 02-MAR-07',
   '1,2-Diphenylhydrazine': 'Nemi.gov; Request Date: 02-MAR-07',
@@ -2438,6 +2439,8 @@ export default {
   '1,3-Dimethyl-5-ethylbenzene': '; Request Date: 02-MAR-07',
   '1,3-Dimethyladamantane': '; Request Date: 30-NOV-15',
   '1,3-Dimethylcyclohexene': 'Minnesota IT Services at MPCA ',
+  '1,3-Dimethylcyclopentane':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/102491',
   '1,3-Dimethylindan': '; Request Date: 02-MAR-07',
   '1,3-Dimethylnaphthalene': '; Request Date: 30-AUG-12',
   '1,3-Dinitropyrene': '; Request Date: 09-JAN-08',
@@ -9387,6 +9390,7 @@ export default {
     '',
   '3,6-Dihydro-8-(1-methylethyl)-1,3,6-trioxo[1]benzothiopyrano[2,3-e]isoindol-2-yl perfluorobutanesulfonate':
     '',
+  '3,6-Dimethyldecane': 'https://pubchem.ncbi.nlm.nih.gov/compound/519395',
   '3,6-Dimethyloctane':
     'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/202002',
   '3,6-Dimethylphenanthrene': '; Request Date: 01-NOV-12',
@@ -9885,6 +9889,8 @@ export default {
   '3-Methyl-2-pentanone': '; Request Date: 02-MAR-07',
   '3-Methyl-3-(2,2,3,3,3-pentafluoropropoxy)oxetane': '',
   '3-Methyl-4-(methylsulfanyl)phenyl pentafluoroethane-1-sulfonate': '',
+  '3-Methyl-4-methylidenehexane':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/115485',
   '3-Methyl-5-(tridecafluorohexyl)-1,2,4-trioxolane': '',
   '3-Methyl-5-propylnonane': '',
   '3-Methylbiphenyl': '; Request Date: 02-MAR-07',
@@ -12758,6 +12764,8 @@ export default {
     'A deficit of negatively charged ions.; Request Date: 02-MAR-07',
   'Anion/cation ratio':
     'The ratio of anions and cations in a solution.; Request Date: 02-MAR-07',
+  'Anions-Cations':
+    'The value is calculated as a subtraction (such as in "Cations-anions")',
   'Anise oil':
     'Extractives and their physically modified derivatives.  Pimpinella anisum, Umbelliferae.; Request Date: 02-MAR-07',
   Anisole: '; Request Date: 02-MAR-07',
@@ -15158,6 +15166,7 @@ export default {
   'Categorical Diatom Thickness': 'Sediment,17;',
   'Cation exchange capacity':
     'The sum total of exchangeable cations that a soil can adsorb. Expressed in centimoles per kilogram of soil (or of other adsorbing material such as clay.); Request Date: 17-OCT-08',
+  'Cation/anion ratio': 'The value is calculated as a division',
   'Cations-Anions':
     'Positively charged ions-negatively charged ions.; Request Date: 02-MAR-07',
   Cefotaxime: '; Request Date: 10-JUL-13',
@@ -15964,6 +15973,8 @@ export default {
   'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-':
     'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.alpha.,4.alpha.)-': '',
+  'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.beta.,4.alpha.)-':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/711010',
   'Cyclopentane, 1,2-dimethyl-, (1R,2R)-rel-': '',
   'Cyclopentane, 1-ethyl-2-methyl-, cis-':
     'Cyclopentane, 1-ethyl-2-methyl-, cis-',
@@ -29030,6 +29041,8 @@ export default {
   'cis-(4-Methylcyclohexyl)methanol': 'NWIS',
   'cis-1,2-Dichloroethylene': 'Nemi.gov; Request Date: 02-MAR-07',
   'cis-1,2-Dichloropropene': '',
+  'cis-1,2-Dimethylcyclopentane':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/14498',
   'cis-1,2-Dimethylcyclopropane': '; Request Date: 23-APR-14',
   'cis-1,3-Dichloropropene': 'Nemi.gov; Request Date: 02-MAR-07',
   'cis-1,3-Dimethylcyclohexane': '',
