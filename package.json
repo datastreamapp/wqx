@@ -1,10 +1,9 @@
 {
   "name": "wqx",
-  "version": "3.0.191",
+  "version": "3.0.192",
   "description": "Water Quality Exchange (WQX): JSON Schema",
   "type": "module",
   "scripts": {
-    "prepare": "husky install",
     "commit-msg": "commitlint --config commitlint.config.cjs --edit",
     "pre-commit": "echo lint-staged --allow-empty",
     "lint": "npm run lint:js && npm run lint:json",
