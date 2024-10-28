@@ -5316,7 +5316,6 @@ export default [
   'Oxudercidae***retired***use Gobiidae',
   'Oxychaetodon***retired***use Chaetodon',
   'Oxycottus acuticeps***retired***use Clinocottus acuticeps',
-  'Oxydromus obscurus***retired***use Ophiodromus obscurus',
   'Oxyeleotris gyrinoides***retired***use Bunaka gyrinoides',
   'Oxygadus occa***retired***use Caelorinchus occa',
   'Oxygadus***retired***use Caelorinchus',

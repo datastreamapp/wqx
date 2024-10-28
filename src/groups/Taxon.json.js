@@ -27958,6 +27958,7 @@ export default {
   'Maruina lanceolata': 'Not Assigned',
   Marvinmeyeria: 'Not Assigned',
   'Marvinmeyeria lucida': 'Not Assigned',
+  'Marycarmenia gaspeensis': 'Not Assigned',
   Marzapanus: 'Not Assigned',
   Massartia: 'Not Assigned',
   Mastacembelidae: 'Fish/Nekton',
