@@ -824,7 +824,7 @@
       "title": "Result Comment",
       "description": "Provided to allow for the entry of comments about result",
       "type": "string",
-      "$ref": "#/definitions/string",
+      "$ref": "#/definitions/string-multiline",
       "minLength": 0,
       "maxLength": 4000
     },
