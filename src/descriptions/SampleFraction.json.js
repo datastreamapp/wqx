@@ -40,7 +40,7 @@ export default {
   Fixed:
     '(of an element) taken into a compound from its free state. nonvolatile, or not easily volatilized',
   'Free Available':
-    'The concentration of residual substance present as dissolved gas, and not combined with any substance or in other less readily available form.',
+    'The concentration of residual substance present and not combined with any substance or in other less readily available form.',
   Inorganic: 'Inorganic content of sample',
   Leachable:
     'An analyte capable of being removed from a substance by a percolating liquid.',

@@ -347,6 +347,7 @@ export default {
   meq: '()Milliequivalents',
   'meq/100g': '()Concentration Percentage, milli-equivalents per 100 gram',
   'meq/L': '()Density, milli-equivalents per Liter',
+  'meq/kg': '()Concentration Percentage, milli-equivalents per kilogram',
   'metric ton': 'Weight Mass, Metric tons (tonne) or MT',
   mg: 'Weight Mass, milligrams',
   'mg N/l*^*^*^':

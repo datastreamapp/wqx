@@ -364,7 +364,7 @@ export default {
   BLMRW: 'Water Quality Monitoring Data',
   BLM_WRBBD: '',
   BLR: 'Blue Lake Rancheria (California) (Tribal) || Blue Lake Rancheria (California) (Tribal)',
-  BLR_WQX: '(Tribal)',
+  BLR_WQX: 'BLUE LAKE RANCHERIA',
   BLUERIVERWATERSHEDASSOCIATION: '',
   BMIC_WQX:
     'Bay Mills Indian Community, Michigan (Tribal) || Bay Mills Indian Community, Michigan (Tribal)',
@@ -705,6 +705,7 @@ export default {
   FWC_WQMP_WQX:
     'Water Quality Monitoring Data: entered by the Florida Fish and Wildlife Conservation Commission (Org ID FWC/FWRI)',
   FWS_MATTAMUSKEET: '',
+  GARNA: '',
   GBMCASSOC2014: '',
   GBNERR: 'Great Bay National Estuarine Research Reserve Monitoring Data',
   GCWIN: '',
@@ -1203,6 +1204,7 @@ export default {
   POARCHCRK_WQX: 'Poarch Band of Creek Indians;',
   POLSWATER_WQX: 'Pueblo of Laguna',
   POMO989_WQX: ' (Tribal)',
+  PONCA_TRIBE_WQX: '',
   PORTGRAHAM:
     'Port Graham Village Council (Tribal) || Port Graham Village Council (Tribal)',
   PORTLANDHARBORRISS: 'City of Portland',
@@ -1393,8 +1395,7 @@ export default {
     'Resource data to provide landowners and residents with technical and financial assistance to meet regional natural resource conservation goals',
   SJLWT: '',
   SKAGITCOUNTY_WQX: 'Surface Water Quality Monitoring Program',
-  SKAGITWG_WQX:
-    'Skagit River Watershed Grant (TNC, SRSC, WWAA)  - Washington (Tribal) || Skagit River Watershed Grant (TNC, SRSC, WWAA)  - Washington (Tribal)',
+  SKAGITWG_WQX: 'Upper Skagit Indian Tribe of Washington',
   SKAGWAYTRADITIONALCOUNCIL_WQX: '',
   SKOKDATA_WQX: '',
   SKYHORSETECH:
@@ -1412,8 +1413,7 @@ export default {
     'The Seminole Nation of Oklahoma (Tribal) || The Seminole Nation of Oklahoma (Tribal)',
   SNOQUALM_WQX: 'Snoqualmie Tribe || Snoqualmie Indian Tribe (Tribal)',
   SNSA_WQX: 'Water Quality Monitoring Data',
-  SOBOBA_WQX:
-    'Soboba Band of Luiseno Indians, California (Tribal) || Soboba Band of Luiseno Indians, California (Tribal)',
+  SOBOBA_WQX: 'Soboba Band of Luiseno Indians, California (Tribal)',
   SOKAOGON_WQX: '',
   SONOMAWATER_WQX: '',
   SOUTHSANTIAM_WC: 'Eric Anderson, Current VolMon group',
@@ -1743,5 +1743,6 @@ export default {
     'Yukon River Inter-Tribal Watershed Council (Tribal) || Yukon River Inter-Tribal Watershed Council (Tribal)',
   YUROKTEP_WQX:
     'Yurok Tribe of the Yurok Reservation, California (Tribal) || Yurok Tribe of the Yurok Reservation, California (Tribal)',
+  ZENDERGROUP_WQX: '',
   ZIAPUEBLO_WQX: ''
 }

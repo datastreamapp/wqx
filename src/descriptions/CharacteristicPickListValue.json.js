@@ -450,6 +450,7 @@ export default {
   'Bankful Angle (choice list)': 'V - Very Steep',
   'Storm water flow (choice list)': 'Waterbody / Wetland/ or Stream',
   'Spring, Flow Status (choice list)': 'Still/Pooled',
+  'WIS habitat type (choice list)': 'Obligate Upland',
   'Sex (choice list)': 'Male',
   'RBP2, Water Quality, Water Surface Oils (choice list)': 'Slick',
   'RBP Water Surface Oils (choice list)': 'SLICK - Self describing.',
@@ -554,6 +555,10 @@ export default {
     'Yes',
   'Torrent Scouring-Stream channel recently devegetated two or more times the width of low flow channel (Y/N) (choice list)':
     'Yes',
+  'Redoximorphic features present in soil (choice list) (Y/N)':
+    'Redoxomorphic features are present in soil',
+  'Presence of gley within soil (choice list) (Y/N)':
+    'Gley is present within the soil',
   'Torrent Scouring-Channel has little evidence of pool-riffle structure (Y/N) (choice list)':
     'Yes',
   'Unnatural color (choice list)': 'Yes',
@@ -776,11 +781,11 @@ export default {
   'Water Taste (choice list)': 'UnObjectionable',
   'Water Odor (choice list)': 'Odorless',
   'Day, ice (on/off) (choice list)': 'on the ice',
-  'RBP2, Instream Features, Canopy Cover (choice list)': 'Shaded',
   'RBP Canopy Cover (choice list)': 'SHADED - Self describing.',
+  'RBP2, Instream Features, Canopy Cover (choice list)': 'Shaded',
   'Spring, Flow Affected (choice list)': 'Stopped',
-  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Substrate in reach (choice list)': 'silt',
+  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Pool Substrate (choice list)': 'silt',
   'Dominant Run Substrate (choice list)': 'silt'
 }
