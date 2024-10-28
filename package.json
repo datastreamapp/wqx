@@ -13,7 +13,8 @@
     "build:values": "node --max-old-space-size=8192 --experimental-json-modules bin/build-values.js",
     "build:schema:old": "node --max-old-space-size=8192 --experimental-json-modules bin/build-schema.js",
     "build:schema": "bin/build",
-    "build": "mkdir -p dist/json-schema && npm run build:values && npm run build:schema && cp -r src/deprecated dist/ && cp -r src/groups dist/ && cp -r src/required dist/ && cp -r src/values dist/ && cp -r src/descriptions dist/"
+    "build": "mkdir -p dist/json-schema && npm run build:values && npm run build:schema && cp -r src/deprecated dist/ && cp -r src/groups dist/ && cp -r src/required dist/ && cp -r src/values dist/ && cp -r src/descriptions dist/",
+    "release:publish": "cp package.json dist/package.json && npm publish ./dist"
   },
   "repository": {
     "type": "git",
