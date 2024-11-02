@@ -48,7 +48,7 @@ export default {
   504: '',
   505: '505 ~ EPA-NERL . Pesticides and PCBs in Water GC-ECD',
   506: '506 ~ EPA-NERL . Phthalate and Adipate Esters in Water by GCPID',
-  507: 'Standard Methods (19th ed.) 507 (dissolved oxygen depletion) mg/L',
+  507: '507 ~ EPA-TSC/NERL . Pesticides in Water Using GCNPD',
   508: '508 ~ EPA-TSC/NERL . Chlorinated Pesticides in Water Using GCECD',
   509: '509 ~ EPA-NERL . Ethylene thiourea in water using GC with a N-P detector',
   513: '',
@@ -172,20 +172,20 @@ export default {
   1501: '',
   1550: '',
   1551: '',
-  1600: '',
-  1601: '',
-  1602: '1602 ~ EPA-OW . Coliphage in water by single agar layer (SAL)',
+  1600: '1600 ~ EPA-OW . Enterococci in water by membrane filtration using mEI Agar',
+  1601: '1601 ~ EPA-OW . Coliphage in water by two-step enrichment procedure',
+  1602: '',
   1603: '',
   1604: '',
   1605: '1605 ~ EPA-OW . Aeromonas in Finished Water by Membrane Filtration',
   1606: '',
   1608: '',
-  1609: '',
+  1609: 'with Internal Amplification Control (IAC) Assay',
   1610: '',
   1611: '',
   1612: '',
-  1613: '',
-  1614: '1614 ~ EPA-OW/OST . Brominated Diphenyl Ethers in Water, Soil, Sediment, and Tissue by HRGC/HRMS',
+  1613: '1613 ~ EPA-EAD . Dioxins and Furans by HRGC/HRMS',
+  1614: '',
   1615: '',
   1616: '',
   1617: '',
@@ -404,7 +404,7 @@ export default {
   7013: '',
   7020: '',
   7024: '',
-  7027: '',
+  7027: 'https://www.comm-tec.com/Docs/Brochure/Turner/ISO_7027_S-0132.pdf',
   7029: '',
   7030: '',
   7040: '',
@@ -504,7 +504,7 @@ export default {
   8030: '',
   8031: '8031 ~ EPA-RCA . Acrylonitrile in Water Using Gas Chromatography',
   8032: '',
-  8033: '',
+  8033: '8033 ~ EPA-RCA . Acetonitrile in Aqueous Matrices Using Gas Chromatography with Nitrogen-Phosphorus Detection',
   8034: '',
   8037: '',
   8038: '',
@@ -578,7 +578,7 @@ export default {
   8305: '',
   8306: '',
   8308: '',
-  8310: '',
+  8310: '8310 ~ EPA-RCA . Polynuclear Aromatic Hydrocarbons by HPLC Using Ultraviolet and Fluorescence Detectors',
   8311: '',
   8315: '',
   8316: '8316 ~ EPA-RCA . Acrylamide, Acrylonitrile, and Acrolein by HPLC',
@@ -875,10 +875,11 @@ export default {
     '130 ~ NOAA NST . Capillary gas chromatography analysis for organic contaminates in marine sediments.',
   130.01:
     '130.01 ~ NOAA NST . Organic contaminates in marine animal tissues by GC-FPD',
-  130.1: '130.1 ~ EPA-NERL . Total Hardness by Spectrophotometer',
+  130.1:
+    '130.1 ~ NOAA NST . Organic contaminants in marine sediments by GC-ECD',
   130.11:
     '130.11 ~ NOAA NST . Organic contaminants in marine animal tissues by GC-ECD',
-  130.2: '130.2 ~ NOAA NST . Dioxins and Furans in marine sediments by GC-MS',
+  130.2: '130.2 ~ EPA-NERL . Total Hardness of Water by Titrimetry',
   130.21:
     '130.21 ~ NOAA NST . Dioxins and Furans in marine bivalve tissues by GC-MS',
   130.3: '130.3 ~ NOAA NST . Organic contaminants in marine sediments by GC-MS',
@@ -896,7 +897,7 @@ export default {
   '13A': '',
   '13B': '',
   '140.0': '',
-  140.1: '140.1 ~ NOAA NST . Trace metals in marine animal tissues by GFAA',
+  140.1: 'https://www.nemi.gov/methods/method_summary/7185/',
   '15-2':
     'Klute, Arnold, Ed. Methods of Soil Analysis Part 1:Physical and Mineralogical Methods. Book Series No 5. 2nd ed. Madison, Wisconsin: Soil Society of America, Inc. and American Society of Agronomy, Inc.. 1986: 385-398',
   '15-5':
@@ -1009,14 +1010,15 @@ export default {
   200.6: '',
   '200.62(B)': '',
   '200.62(C)': '',
-  200.7: '200.7 ~ EPA-NERL . Metals in Water by ICP-AES, Revision 4.4',
+  200.7: '200.7 ~ EPA-NERL . Metals in Water by ICP-AES',
   '200.7(S)': ' in Sediment',
   '200.7(W)': '200.7 ~ EPA-NERL . Metals in Water by ICP-AES',
   '200.7_M': '',
   200.8: '200.8 ~ EPA-NERL . Metals in Waters by ICP/MS',
   '200.8(S)': ' in Sediment',
   '200.8(W)': '200.8 ~ EPA-NERL . Metals in Waters by ICP/MS',
-  200.9: '200.9 ~ EPA-NERL . Trace Elements in Water by GFAA',
+  200.9:
+    'https://www.epa.gov/sites/production/files/2015-08/documents/method_200-9_rev_2-2_1994.pdf',
   '2000.0': '',
   '2002.0': '',
   '2004.0': 'https://www.epa.gov/cwa-methods/acute-toxicity-wet-methods',
@@ -1100,7 +1102,7 @@ export default {
   '220.2_M': '',
   221.1: '',
   '2241-2': '',
-  231.1: '',
+  231.1: '231.1 ~ EPA-NERL . Gold by Flame AA',
   231.2: '231.2 ~ EPA-NERL . Gold by Graphite Furnace AA',
   '2310 B': '2310B / 2310 B ~ Standard Methods . Acidity by Titration',
   '2320 B': '',
@@ -1130,8 +1132,7 @@ export default {
   '243.1_M': '',
   243.2: '243.2 ~ EPA-NERL . Manganese by Graphite Furnace AA',
   '243.2_M': '',
-  245.1:
-    'https://www.epa.gov/sites/default/files/2015-06/documents/epa-245.1.pdf',
+  245.1: '245.1 ~ EPA-NERL . Mercury by CVAA',
   '245.1_M': '',
   245.2: '245.2 ~ EPA-NERL . Mercury by CVAA (Automated)',
   '245.2_M': '',
@@ -1147,7 +1148,8 @@ export default {
   '249.1_M': '',
   249.2: '249.2 ~ EPA-NERL . Nickel by Graphite Furnace AA',
   '249.2_M': '',
-  '2510B': '2510B ~ Standard Methods . Conductivity - Laboratory Method',
+  '2510B':
+    'In the laboratory, conductance (or resistance) of a standard KCl solution is measured and from the corresponding conductivity, a cell constant is calculated. Once the cell constant has been determined, or set, the conductivity of an unknown solution will be displayed by the meter. https://archive.org/details/gov.law.apha.method.2510.1992',
   252.1: '252.1 ~ EPA-NERL . Osmium by Flame AA',
   252.2: '252.2 ~ EPA-NERL . Osmium by Graphite Furnace AA',
   '2520-B': '',
@@ -1160,10 +1162,10 @@ export default {
   '2540-B':
     '2540 B ~ Standard Methods . Total Solids Dried at 103-105<sup>o</sup>C',
   '2540-C':
-    '2540 C ~ Standard Methods . Total Dissolved Solids Dried at 180<sup>o</sup>C',
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/9818/',
   '2540-D':
     '2540 D ~ Standard Methods . Total Suspended Solids Dried at 103-105<sup>o</sup>C',
-  '2540-E': '',
+  '2540-E': 'Not current version URL: ',
   '2540-F': '2540 F ~ Standard Methods . Settleable Solids',
   '2540-G': '',
   '2540C':
@@ -1487,7 +1489,8 @@ export default {
   352.1: '352.1 ~ EPA-NERL . Nitrate by Colorimetry',
   '3520C': '3520C ~ EPA-RCA . Continuous Liquid-Liquid Extraction of Organics',
   353.1: '353.1 ~ EPA-NERL . Nitrate-Nitrite by Colorimetry',
-  353.2: '353.2 ~ EPA-NERL . Nitrate-Nitrite Nitrogen by Colorimetry',
+  353.2:
+    'https://www.epa.gov/sites/default/files/2015-08/documents/method_353-2_1993.pdf',
   '353.2_M': '',
   353.3:
     '353.3 ~ EPA-NERL . Nitrate-Nitrite by Cadmium Reduction and Colorimetry',
@@ -1576,7 +1579,7 @@ export default {
   '440(S)': ' in Sediment',
   '440(W)': ' in Water',
   '440.0':
-    '440 ~ EPA-NERL . Elemental C and N by Combustion and Thermal Conductivity',
+    'Determination of Carbon and Nitrogen in Sediments and Particulates of Estuarine/Coastal Waters Using Elemental Analysis',
   '445.0':
     'In Vitro Determination of Chlorophyll a and Pheophytin a in Marine and Freshwater Algae by Fluorescence',
   '446.0':
@@ -1773,8 +1776,7 @@ export default {
   '4500-P F***retired*** 4500-P-F': 'DO NOT USE ~ ',
   '4500-P-C': '',
   '4500-P-D': '',
-  '4500-P-E':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7436/',
+  '4500-P-E': '4500-P E ~ Standard Methods . Phosphorus by Ascorbic Acid',
   '4500-P-F': '',
   '4500-P-G': '',
   '4500-P-H': '',
@@ -1787,7 +1789,8 @@ export default {
   '4500-S-2 F***.retired***4500-S2(F)':
     '4500-S-2 F ~ Standard Methods . Sulfide in Water by Iodometric Method',
   '4500-S2 F***retired*** 4500-S2(F)': 'DO NOT USE ~ ',
-  '4500-S2(D)': '4500-S2- D ~ Standard Methods . Sulfide by Methylene Blue',
+  '4500-S2(D)':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7418/',
   '4500-S2(E)': '',
   '4500-S2(F)': '4500-S2- F ~ Standard Methods . Sulfide by Iodometry',
   '4500-S2(G)':
@@ -1806,7 +1809,7 @@ export default {
   '4500-SI(F)': '',
   '4500-SI(G)': '',
   '4500-SIO2 C':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7411/',
+    '4500-SiO2 C ~ Standard Methods . Silica by Molybdosilicate Method',
   '4500-SIO2 D':
     '4500-SiO2 D ~ Standard Methods . Silica by Heteropoly Blue Method',
   '4500-SIO2 E':
@@ -1866,7 +1869,8 @@ export default {
   515.3: '515.3 ~ EPA-OGWDW/TSC . Chlorinated Acids by GC/ECD',
   515.4: '515.4 ~ EPA-OGWDW/TSC . Chlorinated Acids by GCECD',
   '520011SAES': '',
-  '5210-B': '5210B ~ Standard Methods . BOD: 5-Day Test',
+  '5210-B':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/5715/',
   '5210-C': '',
   '5220-B': '',
   '5220-C': '5220C ~ Standard Methods . COD by Closed Reflux, Titration',
@@ -1889,9 +1893,9 @@ export default {
   531.2:
     '531.2 ~ EPA-OGWDW/TSC . N-Methylcarbamoyloximes and N-Methylcarbamates in Water by HPLC with Post Column Derivitization',
   '5310-B':
-    '5310B ~ Standard Methods . Total organic carbon by High-Temperature Combustion',
+    'Not current version URL: https://www.standardmethods.org/doi/10.2105/SMWW.2882.104',
   '5310-C':
-    '5310C ~ Standard Methods . Total organic carbon by Persulfate-UV or Heated-Persulfate Oxidation',
+    '5310C ~ APHA. Total organic carbon by Persulfate-UV or Heated-Persulfate Oxidation Method',
   '5310-D': '5310 D ~ Standard Methods . TOC by Wet Oxidation',
   '5320-B': '',
   '535 (ITMS)':
@@ -2361,8 +2365,7 @@ export default {
     '9222B,G ~ Standard Methods . Membrane filtration plating of E. coli with MUG-fluorescent detection',
   '9222B_RETIRED': 'G"',
   '9222C': '',
-  '9222D':
-    '9222D ~ Standard Methods . Membrane filtration test for fecal coliforms',
+  '9222D': '9222 D',
   '9222G': '',
   '9223-B':
     'Enzyme Substrate Test – URL: https://www.nemi.gov/methods/method_summary/5583/ or http://standardmethods.org',
@@ -2871,7 +2874,7 @@ export default {
   D1943: 'D1943 ~ ASTM . Alpha Particle Radioactivity of Water',
   D1946:
     'Standard Method for Analysis of Reformed Gas by Gas Chromatography Reference: https://www.astm.org/d1946-90r19.html',
-  D1976: 'D1976 ~ ASTM . Elements in Water by ICP-AES',
+  D1976: 'https://www.astm.org/Standards/D1976.htm',
   D2035: '',
   'D2036(A)':
     'D2036A ~ ASTM . Cyanides, Total, after Distillation (Test Method A)',
@@ -4474,7 +4477,7 @@ export default {
   OG100R: '',
   OH100R: 'OH100R ~ DOE . TCLP Acidic Semivolatiles Using HPLC',
   OHC: '',
-  'OIA-1677': 'OIA-1677 ~ O-I-Analytical . Cyanide by Amperometry',
+  'OIA-1677': 'https://www.nemi.gov/methods/method_summary/4836/',
   OKGRL_LM04:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=OKGRL_LM04',
   OKGRL_LM05:
@@ -4946,7 +4949,7 @@ export default {
   'RA-02': '',
   'RA-02-RC': 'Ra-02-RC ~ DOE EML . Radium-226 - Emanation Procedure',
   'RA-03': '',
-  'RA-04': 'https://www.nemi.gov/methods/method_summary/4848/',
+  'RA-04': '',
   'RA-04-RC': 'Ra-04-RC ~ DOE EML . Radium-226 in Tap Water, Urine, and Feces',
   'RA-05': '',
   'RA-06': '',
