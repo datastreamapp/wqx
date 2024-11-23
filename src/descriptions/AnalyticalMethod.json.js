@@ -4989,6 +4989,8 @@ export default {
   'S-002-1': '',
   'S-003-1': '',
   'S-004-1': '',
+  'S-9.20':
+    'Gavlack, R., Horneck, D., Miller, R., Soil, Plant, and Water Reference Methods for the Western Region. 3rd Edition. WREP-125, 2005. P.144-145',
   SA010: '',
   SA011: '',
   SAGWMD:

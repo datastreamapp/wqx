@@ -119,6 +119,7 @@ export default {
     'USFDA',
     'WDNR FISH HABITAT',
     'WEST INC',
+    'WREP-125',
     'WSDOE',
     'YSI'
   ],
