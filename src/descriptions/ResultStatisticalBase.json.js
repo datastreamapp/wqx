@@ -5,6 +5,8 @@ export default {
     'the 10th percentile is the value (or score) below which 10% of the observations may be found.',
   '15 Pctl':
     'the 15th percentile is the value (or score) below which 15% of the observations may be found.',
+  '16 Pctl':
+    'the 16th percentile is the value (or score) below which 16% of the observations may be found.',
   '2-Sigma CSU': '2-Sigma CSU',
   '20 Pctl':
     'the 20th percentile is the value (or score) below which 20% of the observations may be found.',

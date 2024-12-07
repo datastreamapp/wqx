@@ -99,7 +99,7 @@ export default {
   '21FLDADE_WQX': 'Water Quality Monitoring Data',
   '21FLDELT_WQX': 'Water Quality Monitoring',
   '21FLDOH_WQX': 'Floridas Healthy Beaches Program Water Quality Data',
-  '21FLDUNE_WQX': 'City of Dunedin',
+  '21FLDUNE_WQX': 'Water Quality Monitoring Data',
   '21FLECUA_WQX': 'Water Quality Monitoring Data',
   '21FLEECO_WQX': 'Ambient Surface Water Quality Monitoring Data',
   '21FLERDI_WQX': 'Water Quality Monitoring Data',
@@ -303,6 +303,7 @@ export default {
   ANIMASWP:
     'The AWP is a stakeholder driven, collaborative, watershed-based group made up of partners representing diverse interests across the watershed in New Mexico, the Southern Ute Tribal Lands and Colorado. Current membership is over 100 individuals and entities. The AWP works together across state and Tribal boundaries to protect and improve the quality of water resources in the Animas River.',
   ANTIX_WQX: 'National Park Service',
+  APCC_WQX: '',
   APPLEGATE_WC: 'Former VolMon group',
   AQS: "Beta COPY of AQS which is EPA's repository of ambient air quality data that assists in air quality assessments, designations, modeling for permit review",
   AQUINNAH_WQX:
@@ -318,6 +319,7 @@ export default {
   ARWRF: '',
   ARWWRRI_WQX: 'Water Quality Monitoring Data: BIOmonitoring',
   ASEPA_WQX: '',
+  ASHCREEKCONSERVATIONASSOC: 'Ash Creek Conservation Association',
   ASPECT_WQX: '',
   ASUERF: '',
   AURORA_WQX: 'Water Quality Monitoring Data',
@@ -565,7 +567,7 @@ export default {
   CT_DEP01_WQX:
     'This is the central agency for all water quality data in this system',
   CURRY_WP: 'Erin Minster - Current VolMon group',
-  CUSH: '',
+  CUSH: 'Working to eliminate nitrogen pollution, bacterial contamination and plastic waste from our local waters.',
   CUSP: 'CDSN - Coalition for the Upper South Platte',
   CVC: 'Conemaugh Valley Conservancy',
   CWLT_WQX:
@@ -619,6 +621,7 @@ export default {
   EMAP_CS_WQX: 'Coastal',
   EMAP_GRE: '',
   EMSWCD: 'East Multnomah Soil and Water Conservation District',
+  EMU_WATER: '',
   ENVIROB1_WQX:
     'Confederated Tribes of the Colville Reservation (Tribal) || Confederated Tribes of the Colville Reservation (Tribal)',
   ENVIROSCIENCEASSOC: '',
@@ -665,8 +668,6 @@ export default {
   EXLSTREAM1: 'Appalachian Watershed & Stream Monitors (AWSM) program',
   'FA-NJ': '',
   FAEC: 'Water Quality Monitoring Data',
-  FBUSER_WQX:
-    'Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal) || Fort Belknap Indian Community of the Fort Belknap Reservation of Montana (Tribal)',
   FCPOTAWATOMI_WQX: '',
   FIGRWQP: '',
   FIIR: 'Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California || Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California',
@@ -791,6 +792,7 @@ export default {
   ILRIVERWATCH: 'Illinois RiverWatch Network',
   IL_EPA_WQX: '',
   INDECON: 'Industrial Economics',
+  INSPIRE_WQX: '',
   INSTOR_WQX: 'Indiana Department of Environmental Management',
   INSY_ENVIROMENTAL: '',
   INTRMTN_WQX: 'Superfund',
@@ -1163,6 +1165,7 @@ export default {
   OVIWC: '',
   O_MTRIBE_WQX: '',
   P4_PRODUCTION_IDAHO: 'P4 Production LLC, Soda Springs Plant, Idaho',
+  PACOG_WQX: '',
   PADDLEFISH: '',
   PADEP319_WQX: 'Department of Environmental Protection 319 Program',
   PADEPLAKE_WQX: '',
@@ -1196,8 +1199,6 @@ export default {
   PICURIS_PUEBLO: 'Picuris Pueblo',
   PIIC_WQX: '',
   PIMA_AZ: '',
-  PINOLEVILLEPOMONATION_WQX:
-    'Pinoleville Pomo Nation, California (Tribal) || Pinoleville Pomo Nation, California (Tribal)',
   PLYMOUTHDMEA: 'Plymouth Department of Marine and Environmental Affairs',
   PNDECS_WQX:
     'Pawnee Nation of Oklahoma (Tribal) || Pawnee Nation of Oklahoma (Tribal)',
@@ -1541,6 +1542,7 @@ export default {
   UH_CLEARLAKE: '',
   UMC: '',
   UMCRWWTF: 'Colorado',
+  UMIT: '',
   UMMP: 'THE UMMP IS A VOLUNTEER RIVER QUALITY MONITORING PROGRAM MANAGED BY THE UPPER MERRIMACK RIVER LOCAL ADVISORY COMMITTEE.  ESTABLISHED IN 1995, THE UMMP MONITORS RIVER QUALITY AT 11 SITES FROM FRANKLIN TO BOW ON THE PEMI, WINNI, CONTOOCOOK AND MERRI RIVERS',
   UMR: '',
   UMRBA_WQX: '',
@@ -1618,6 +1620,7 @@ export default {
   WALLAWALLA_WC: 'Current VolMon group',
   WARMSPRINGS09:
     'Confederated Tribes of the Warm Springs Reservation of Oregon (Tribal) || Confederated Tribes of the Warm Springs Reservation of Oregon (Tribal)',
+  WASDNR_WQX: '',
   WASHNVCA_WQX: '',
   WASIT:
     'STILLAGUAMISH TRIBE OF INDIANS (Tribal) || Stillaguamish Tribe of Indians of Washington (Tribal)',
@@ -1661,8 +1664,6 @@ export default {
     'Wiyot Tribe, California (Tribal) || Wiyot Tribe, California (Tribal)',
   WI_MMSD: '',
   WLA: '',
-  WMAT_WQX:
-    'White Mountain Apache Tribe of the Fort Apache Reservation, Arizona (Tribal) || White Mountain Apache Tribe of the Fort Apache Reservation, Arizona (Tribal)',
   WMHMD: 'Colorado',
   WNENVDPT_WQX: '',
   WOOD: 'Energy services company submitting sediment data for a dredging project.',

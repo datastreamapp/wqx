@@ -55,6 +55,7 @@ export default {
   DOM: 'count >= 15 percent (dominant)',
   DT: 'Date value on logger was incorrect; Changed to date of sampling event; Date and Time considered suspect.',
   E: 'Concentration of analyte being analyzed exceeded calibration range of instrument.',
+  EC: 'Analyte and the associated numerical value excluded from calculations',
   ECI: 'Estimated Value, Coelution',
   EE: 'Identifies compounds whose concentration exceed the calibration range addition of the instrument for that specific analysis.',
   EER: 'No Result Reported, entry error; Original value is known to be incorrect due to a data entry error.  The correct value could not be determined. No result value was reported',

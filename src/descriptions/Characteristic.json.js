@@ -432,6 +432,7 @@ export default {
   '(Carboxymethyl)dimethyl[3-(perfluorobutanesulfonamido)propyl]azanium': '',
   '(Carboxymethyl)dimethyl[3-(perfluorohexanesulfonamido)propyl]azanium': '',
   '(Chloromethyl)(pentafluoroethyl)phosphinic chloride': '',
+  '(DONA)*****retired': '',
   '(Dichloromethyl)(3,3,4,4,4-pentafluorobutan-2-yl)silane': '',
   '(Dimethoxymethyl)(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silane': '',
   '(Dodecyl)trimethylammonium 2,2,3,3-tetrafluoropropionate': '',
@@ -3830,7 +3831,7 @@ export default {
     '',
   '1-Octanesulfonamide, N-ethenyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-methyl-':
     '',
-  '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-***retired***use Sulflurami\rd':
+  '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-***retired***use Sulfluramid':
     '',
   '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-, reaction products with succinic anhydride monopolyisobutylene derivs.':
     '',
@@ -4574,6 +4575,7 @@ export default {
   '11-Tricosene': '; Request Date: 02-MAR-07',
   '11-[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)sulfanyl]undecanoic acid': '',
   '11-[(Perfluorododecanesulfonyl)amino]undecyl 2-methylprop-2-enoate': '',
+  '11-chloroeicosafluoro-3-oxaundecane-1-sulfonate': '',
   '11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid':
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   '11-chloroperfluoro-3-oxaundecanesulfonyl fluoride': '',
@@ -5931,6 +5933,7 @@ export default {
   '2,2-Difluoro-3-(nonafluorobutoxy)propanoic acid': '',
   '2,2-Difluoro-3-(nonafluorobutoxy)propanoyl fluoride': '',
   '2,2-Difluoroethyl nonafluorobutane-1-sulfonate': '',
+  '2,2-Dimethyl-1-hexanol': 'https://pubchem.ncbi.nlm.nih.gov/compound/16912',
   '2,2-Dimethyl-N~1~-[(7S)-6-oxo-6,7-dihydro-5H-dibenzo[b,d]azepin-7-yl]-N~3~-(2,2,3,3,3-pentafluoropropyl)propanediamide':
     '',
   '2,2-Dimethylbutane': '; Request Date: 23-APR-14',
@@ -7235,6 +7238,7 @@ export default {
   '2-Ethyl-1,3-hexanediol': '; Request Date: 02-MAR-07',
   '2-Ethyl-1-butene': '',
   '2-Ethyl-1-hexyl 2,3,4,5-tetrabromobenzoate': 'NWIS',
+  '2-Ethyl-1-octene': 'https://pubchem.ncbi.nlm.nih.gov/compound/550804',
   '2-Ethyl-1-pentanol': 'Minnesota IT Services at MPCA ',
   '2-Ethyl-2-methyl-1,3-dioxolane': '; Request Date: 02-MAR-07',
   '2-Ethyl-2-phenylmalonamide': 'NWIS',
@@ -7502,6 +7506,7 @@ export default {
   '2-Methyl-2-butanol': '; Request Date: 02-MAR-07',
   '2-Methyl-2-butene': '',
   '2-Methyl-2-butene & 1-pentene': '',
+  '2-Methyl-2-heptene': 'https://pubchem.ncbi.nlm.nih.gov/compound/12330',
   '2-Methyl-2-nitropropane': '',
   '2-Methyl-2-pentene': '',
   '2-Methyl-2-propenoic acid 2-(diethylamino)ethyl ester polymers with glycidyl methacrylate and .gamma.-.omega.-perfluoro-C6-20-alkyl acrylate, acetates(salts)':
@@ -9888,6 +9893,7 @@ export default {
   '3-Ketocarbofuran': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   '3-MOBDE': '; Request Date: 22-JUL-14',
   '3-Methyl decane': '; Request Date: 14-APR-15',
+  '3-Methyl-1,2-butadiene': 'https://pubchem.ncbi.nlm.nih.gov/compound/11714',
   '3-Methyl-1-((perfluorohexyl)ethyl)-1H-imidazol-3-ium hexafluorophosphate':
     '',
   '3-Methyl-1-butanol': '; Request Date: 19-DEC-12',
@@ -9947,7 +9953,7 @@ export default {
   '3-Perfluoroheptyl propanoate': 'WQP',
   '3-Perfluoroheptyl propanoic acid': '3-Perfluoroheptyl propanoic acid',
   '3-Perfluorohexyl-2-hydroxypropyl acrylate': '',
-  '3-Perfluoropropyl propanoate': '',
+  '3-Perfluoropropyl propanoate': 'Request Date: 23-MAY-23',
   '3-Perfluoropropyl propanoic acid': '3-Perfluoropropyl propanoic acid',
   '3-Phenoxybenzenemethanol': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   '3-Phenoxybenzoic acid': 'NWIS',
@@ -11556,6 +11562,7 @@ export default {
   '5-Hydroxyvalproic acid': 'NWIS',
   '5-Iodoperfluoro-3-oxapentanesulfonyl fluoride': '',
   '5-Isoxazolol, 4,5-dihydro-3-phenyl-5-(1,1,2,2-tetrafluoroethyl)-': '',
+  '5-Methyl-1-heptene': 'https://pubchem.ncbi.nlm.nih.gov/compound/99888',
   '5-Methyl-1-hexene': 'https://pubchem.ncbi.nlm.nih.gov/compound/77058',
   '5-Methyl-2-(1,2,2,2-tetrafluoroethyl)pyridine': '',
   '5-Methyl-2-hexene': '; Request Date: 11-JAN-18',
@@ -11567,6 +11574,8 @@ export default {
   '5-Methylcyclopenta-1,3-diene': '',
   '5-Methylhexan-3-one': '',
   '5-Methylindan': '; Request Date: 02-MAR-07',
+  '5-Methyltetrazole':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/1734463',
   '5-Nitro-o-anisidine': '; Request Date: 14-APR-15',
   '5-Nitro-o-toluidine':
     'Request Date: 25-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -11910,7 +11919,8 @@ export default {
   '9-(Pentafluorosulfanyl)perfluorononyl sulfonic acid': '',
   '9-(Perfluoromethoxy)perfluorononane sulfonic acid': '',
   '9-Chloro-perfluorononanoic acid': '',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': '',
+  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate':
+    'Request Date: 03-JUN-23 ; 1621485-21-9',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate':
     '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate',
@@ -12805,6 +12815,8 @@ export default {
   'Apparent color':
     'The color characteristics of a water sample due to dissolved substances and suspended materials, determined on an unfiltered or uncentrifuged sample.; Request Date: 02-MAR-07',
   'Appealing (choice list)': 'NRSA; Request Date: 11-APR-17',
+  'Apple snail presence (choice list)':
+    'The presence and relative life stage of apple snails found at the site.',
   Apramycin: '; Request Date: 02-MAR-07',
   'Aquatic Animals (choice list)': 'Aquatic Animals',
   'Aquatic Bacteria': 'Nemi.gov; Request Date: 26-SEP-19',
@@ -14764,6 +14776,8 @@ export default {
   'Butyl heptadecafluorononanoate': '',
   'Butyl heptafluorobutanoate': '',
   'Butyl isobutyrate': '',
+  'Butyl isocyanate':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/27466',
   'Butyl pentadecafluorooctanoate': '',
   'Butyl stearate': '; Request Date: 02-MAR-07',
   Butylamine: '; Request Date: 02-MAR-07',
@@ -16641,6 +16655,8 @@ export default {
   'Diesel range organic compounds': 'NWIS',
   'Diesel range organics':
     'Method AK102 is designed to measure the concentration of Diesel Range Organics (DROs) in water and soil.; Request Date: 02-MAR-07',
+  'Diesel range organics (C10-C20)':
+    'A complex of hydrocarbons having carbon numbers in the range of 10 to 20.',
   'Diethatyl ethyl': '; Request Date: 02-MAR-07',
   Diethofencarb: '',
   'Diethoxy(2-(perfluorooctyl)-1-ethyl)methylsilane': '',
@@ -17978,6 +17994,7 @@ export default {
   'Floating vegetation severity, choice list': 'NWIS',
   Flonicamid: '1; Request Date: 09-MAR-15',
   'Flonicamid-d3': '11;',
+  'Flood Frequency': '',
   'Flood prone area width': '',
   Florasulam: '',
   Florfenicol: 'NWIS',
@@ -18442,6 +18459,7 @@ export default {
   'HCFC-122a': '; Request Date: 12-MAR-15',
   'HCFC-123': '; Request Date: 02-MAR-07',
   'HCFC-123A': '; Request Date: 03-JUL-08',
+  'HCFC-141b': '',
   'HCFC-142b': '1-Chloro-1,1-difluoroethane',
   'HCFC-21': '; Request Date: 02-MAR-07',
   'HCFC-22':
@@ -19328,6 +19346,7 @@ export default {
   Isopropalin: '; Request Date: 22-JUL-14',
   Isopropanol: '; Request Date: 02-MAR-07',
   'Isopropenyl acetate': '; Request Date: 02-MAR-07',
+  Isopropenylcyclopropane: 'https://pubchem.ncbi.nlm.nih.gov/compound/78394',
   'Isopropyl acetate': '; Request Date: 02-MAR-07',
   'Isopropyl ether': '; Request Date: 22-JUL-14',
   'Isopropyl myristate': '; Request Date: 02-MAR-07',
@@ -19416,6 +19435,8 @@ export default {
     'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'L-Arginine-7-amido-4-methylcoumarin':
     'Request Date: 23-Jul-14 (nps.gov cas# review)',
+  'L-Camphor':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/46573',
   'L-Cysteine, N-acetyl-S-(1,1,2,2-tetrafluoroethyl)-': '',
   'L-Cysteine, S-(1,1,2,2-tetrafluoroethyl)-': '',
   'L-Cysteine, S-(1,1,2,3,3,3-hexafluoropropyl)-': '',
@@ -20397,6 +20418,7 @@ export default {
   Methylcyclohexane: '; Request Date: 22-JUL-14',
   'Methylcyclohexane-d14': '; Request Date: 02-MAR-07',
   Methylcyclohexanol: '; Request Date: 02-MAR-07',
+  Methylcyclopentadiene: 'https://pubchem.ncbi.nlm.nih.gov/compound/66775',
   Methylcyclopentane: '; Request Date: 02-MAR-07',
   'Methylcyclopentane & 2,4-dimethylpentane': '',
   Methyldibenzothiophene:
@@ -21311,7 +21333,7 @@ export default {
   'N-Ethyl-N-[3-(triethoxysilyl)propyl]-perfluoro-1-octanesulfonamide': '',
   'N-Ethyl-N-[3-(trimethoxysilyl)propyl]perfluoro-1-butanesulfonamide': '',
   'N-Ethyl-perfluorobutane-1-sulfonamide': '',
-  'N-Ethyl-perfluorooctane sulfonamido acetic acid': '',
+  'N-Ethyl-perfluorooctane sulfonamido acetic acid': 'Request Date: 08-FEB-21',
   'N-Ethylcyclohexylamine': 'NWIS',
   'N-Ethylperfluoro-1-decanesulfonamide': '',
   'N-Ethylperfluoro-1-dodecanesulfonamide': '',
@@ -21322,13 +21344,13 @@ export default {
   'N-Ethylperfluoro-1-undecanesulfonamide': '',
   'N-Ethylperfluoroethanesulfonamide': '',
   'N-Ethylperfluorooctane-1-sulfonamide': '',
-  'N-Ethylperfluorooctanesulfonamide': '',
+  'N-Ethylperfluorooctanesulfonamide': 'Request Date: 26-OCT-22',
   'N-Ethylperfluorooctanesulfonamide (N-EtFOSA) (D5, 98%)':
     '98% is WeightBasis',
-  'N-Ethylperfluorooctanesulfonamidoacetate': '',
+  'N-Ethylperfluorooctanesulfonamidoacetate': 'Request Date: 26-OCT-22',
   'N-Ethylperfluorooctanesulfonamidoacetic acid (N-EtFOSAA) (N-ethyl-D5, 98%)':
     '98% is WeightBasis',
-  'N-Ethylperfluorooctanesulfonamidoethanol': '',
+  'N-Ethylperfluorooctanesulfonamidoethanol': 'Request Date: 23-MAY-23',
   'N-Heptafluorobutyrylproline': '',
   'N-Hexyl-perfluorooctanesulfonamide': '',
   'N-Hexylperfluorobutanesulfonamide': '',
@@ -21374,7 +21396,7 @@ export default {
   'N-Methylperfluorooctanesulfonamide': '',
   'N-Methylperfluorooctanesulfonamide (N-MeFOSA) (D3, 98%)':
     '98% is WeightBasis',
-  'N-Methylperfluorooctanesulfonamidoacetate': '',
+  'N-Methylperfluorooctanesulfonamidoacetate': 'Request Date: 26-OCT-22',
   'N-Methylperfluorooctanesulfonamidoacetic acid (N-MeFOSAA) (N-methyl-D3, 98%)':
     '98% is WeightBasis',
   'N-Methylperfluorooctanesulfonamidoethanol': '',
@@ -22174,6 +22196,14 @@ export default {
     '; Request Date: 02-MAR-07',
   'Oil content': 'Nemi.gov; Request Date: 25-SEP-19',
   'Oil range organics': '; Request Date: 02-APR-15',
+  'Oil range organics (C06-C10)':
+    'Complex of hydrocarbons in the oil range with Carbon chains in length from 6 to 10.',
+  'Oil range organics (C19-C36)':
+    'Complex of hydrocarbons in the oil range with Carbon chains in length from 19 to 36.',
+  'Oil range organics (C20-C34)':
+    'Complex of hydrocarbons in the oil range with Carbon chains in length from 20 to 34.',
+  'Oil range organics (C28-C36)':
+    'Complex of hydrocarbons in the oil range with Carbon chains in length from 28 to 36.',
   'Oil range organics C28-C35': 'NWIS',
   'Oil slick coverage severity, choice list': 'NWIS',
   'Oil slick severity, choice list': 'NWIS',
@@ -23302,7 +23332,7 @@ export default {
   'Perfluoro-2-methylindane': '',
   'Perfluoro-2-methyloxane': '',
   'Perfluoro-2-pentanone': '',
-  'Perfluoro-2-propoxypropanoate': '',
+  'Perfluoro-2-propoxypropanoate': 'Request Date: 26-OCT-22',
   'Perfluoro-2-propylpentanoic acid': '',
   'Perfluoro-2-tetradec-7-eneoxyacetic acid': '',
   'Perfluoro-2-{2,3-bis[2-(fluorosulfonyl)ethoxy]propoxy}propanoyl fluoride':
@@ -23501,7 +23531,8 @@ export default {
   'Perfluorobicyclo-(4.4.0)-dec-1,6-ene': '',
   'Perfluorobutane sulfonamide amino carboxylates': '',
   'Perfluorobutane sulfonamido betaine carboxylic acid': '',
-  'Perfluorobutane sulfonate***retired***use Perfluorobutanesulfonate': 'NWIS',
+  'Perfluorobutane sulfonate***retired***use Perfluorobutanesulfonate':
+    'Request Date: 02-OCT-21',
   'Perfluorobutanesulfinyl chloride': '',
   'Perfluorobutanesulfonamido betaine carboxylate': '',
   Perfluorobutanesulfonate: 'Request Date: 22-JUL-14',
@@ -23621,7 +23652,7 @@ export default {
   'Perfluorohexanesulfinate zinc salt': '',
   Perfluorohexanesulfonamide: '',
   Perfluorohexanesulfonate: 'Request Date: 22-JUL-14',
-  'Perfluorohexanesulfonate (PFHxS)': 'NWIS',
+  'Perfluorohexanesulfonate (PFHxS)': 'Request Date: 01-OCT-21',
   'Perfluorohexanesulfonic acid': 'Request Date: 03-MAY-13',
   Perfluorohexanoate: 'Request Date: 30-JAN-14, CAS# 307-24-4',
   'Perfluorohexanoate (anionic form)': 'Request Date: 05-Dec-19',
@@ -23687,7 +23718,7 @@ export default {
   'Perfluorooctanesulfonamido betaine': '',
   'Perfluorooctanesulfonamido ethanol': '',
   Perfluorooctanesulfonate: 'Request Date: 22-JUL-14',
-  'Perfluorooctanesulfonate (PFOS)': 'NWIS',
+  'Perfluorooctanesulfonate (PFOS)': 'Request Date: 01-OCT-21',
   'Perfluorooctanesulfonic acid***retired***use Perfluorooctane sulfonic acid':
     '',
   'Perfluorooctanoate (anionic form)': 'Request Date: 05-Dec-19',
@@ -24205,6 +24236,8 @@ export default {
   'Pinene & p-ethytoluene': '',
   Pioglitazone: '; Request Date: 30-MAY-13',
   'Pipemidic acid': '',
+  Piperazine:
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/27029',
   'Piperazine, 1-[4-(1,1,2,2-tetrafluoroethoxy)phenyl]-': '',
   'Piperidine, 1-(1-phenylcyclohexyl)-': '; Request Date: 18-DEC-18',
   'Piperidine, 1-(1-phenylcyclohexyl)-, hydrochloride':
@@ -25572,6 +25605,8 @@ export default {
   'Pyroxasulfone M1': '',
   'Pyroxasulfone M3': '',
   Pyroxsulam: '; Request Date: 06-JUN-14',
+  Pyrrole:
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/26302',
   'Pyrrolidine, 1-[3-(2,2-dimethyl-1-aziridinyl)-3,3-difluoro-2,2-bis(trifluoromethyl)propyl]-':
     '',
   'Pyrrolidine, 2,2,3,3,4,4,5,5-octafluoro-1-(pentafluoroethyl)-': '',
@@ -28282,6 +28317,7 @@ export default {
   'Trimethyl[3-(perfluorohexyl)-2-hydroxypropyl]azanium': '',
   'Trimethyl[3-(perfluorooctyl)-2-hydroxypropyl]azanium': '',
   'Trimethyl[3-(perfluorotetradecyl)-2-hydroxypropyl]azanium': '',
+  Trimethylamine: 'https://pubchem.ncbi.nlm.nih.gov/compound/1146',
   Trimethylbenzene: '; Request Date: 22-JUL-14',
   Trimethylcyclohexene: '; Request Date: 02-MAR-07',
   Trimethylethyllead: 'NWIS',

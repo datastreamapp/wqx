@@ -58,6 +58,7 @@ export default {
     'DOM',
     'DT',
     'E',
+    'EC',
     'ECI',
     'EE',
     'EER',
