@@ -213,7 +213,7 @@ export default {
   '(2E)-4,4,5,5,6,6,6-Heptafluorohex-2-ene': '1081782-31-1',
   '(2E)-4,4,5,5,6,6,6-Heptafluorohex-2-enoic acid': '37759-76-5',
   '(2E)-4,4,5,5,6,6,7,7,7-Nonafluorohept-2-en-1-ol': '83706-96-1',
-  '(2E)-4,4,5,5,6,6,7,7,8,8,8-Undecafluorooct-2-enoic  acid': '875878-70-9',
+  '(2E)-4,4,5,5,6,6,7,7,8,8,8-Undecafluorooct-2-enoic acid': '875878-70-9',
   '(2E)-4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Pentadecafluorodec-2-ene':
     '89889-22-5',
   '(2E)-4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Pentadecafluorodec-2-enoic acid':
@@ -479,7 +479,6 @@ export default {
   '(Carboxymethyl)dimethyl[3-(perfluorohexanesulfonamido)propyl]azanium':
     '2089109-24-8',
   '(Chloromethyl)(pentafluoroethyl)phosphinic chloride': '105263-73-8',
-  '(DONA)*****retired': '919005-14-4',
   '(Dichloromethyl)(3,3,4,4,4-pentafluorobutan-2-yl)silane': '84442-92-2',
   '(Dimethoxymethyl)(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silane': '83868-08-0',
   '(Dodecyl)trimethylammonium 2,2,3,3-tetrafluoropropionate': '94158-60-8',
@@ -3125,7 +3124,7 @@ export default {
     '326-08-9',
   '1-(6H-Perfluorohexyl)-1-(fluoren-2-yl)-N-(perfluorobutyl)sulfonyloxymethanimine':
     '691358-66-4',
-  '1-(9H-Fluoren-2-yl)-2,2,3,3,4,4,5,5-octafluoro-1-pentanone  O-[(perfluorobutyl)sulfonyl]oxime':
+  '1-(9H-Fluoren-2-yl)-2,2,3,3,4,4,5,5-octafluoro-1-pentanone O-[(perfluorobutyl)sulfonyl]oxime':
     '848352-66-9',
   '1-(9H-Fluoren-2-yl)-perfluoro-1-butanone O-[(perfluorobutyl)sulfonyl]oxime':
     '749924-57-0',
@@ -5239,6 +5238,7 @@ export default {
     '57322-65-3',
   '1H-Benzimidazole-5-sulfonic acid, 2-phenyl-': '27503-81-7',
   '1H-Benzotriazole, 5-chloro-': '94-97-3',
+  '1H-Benzotriazole, sodium salt': '15217-42-2',
   '1H-Benzotriazole-4,5,6,7-d4': '',
   '1H-Imidazo[4,5-b]pyrazine, 5,6-dichloro-2-(1,1,2,2,3,3,3-heptafluoropropyl)-':
     '53338-42-4',
@@ -7277,8 +7277,6 @@ export default {
   "2-Butanone, O,O',O''-[[3-(1,1,2,2-tetrafluoroethoxy)propyl]silylidyne]oxime,(2E,2'E,2''E)-":
     '94232-71-0',
   '2-Butanone-d5': '24313-50-6',
-  "2-Buten-1-one,  4'-phenyl-4,4,4-trifluoro-3-(trifluoromethyl)-":
-    '35444-06-5',
   "2-Buten-1-one, 1,1'-(1,4-phenylene)bis[4,4,4-trifluoro-3-(trifluoromethyl)-":
     '100482-67-5',
   '2-Buten-1-one, 1-(2,5-dichlorophenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
@@ -7305,6 +7303,7 @@ export default {
   "2-Buten-1-one, 4'-chloro-3'-nitro-4,4,4-trifluoro-3-(trifluoromethyl)-":
     '35443-91-5',
   "2-Buten-1-one, 4'-fluoro-4,4,4-trifluoro-3-(trifluoromethyl)-": '35444-02-1',
+  "2-Buten-1-one, 4'-phenyl-4,4,4-trifluoro-3-(trifluoromethyl)-": '35444-06-5',
   '2-Buten-1-one, 4,4,4-trifluoro-1-(1-naphthalenyl)-3-(trifluoromethyl)-':
     '35444-07-6',
   '2-Buten-1-one, 4,4,4-trifluoro-1-(2-methoxyphenyl)-3-(trifluoromethyl)-':
@@ -7494,7 +7493,7 @@ export default {
     '862134-31-4',
   '2-Chloro-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]-3-nitrobenzamide':
     '',
-  '2-Chloro-perfluorohexanoic  acid': '',
+  '2-Chloro-perfluorohexanoic acid': '',
   '2-Chloro-perfluoropentanoic acid': '',
   '2-Chloroacrylonitrile': '920-37-6',
   '2-Chlorobenzaldehyde': '89-98-5',
@@ -7973,7 +7972,7 @@ export default {
     '113341-47-2',
   '2-Pentyne': '627-21-4',
   '2-Pentynoic acid, 4,4,5,5,5-pentafluoro-, ethyl ester': '129922-54-9',
-  '2-Perfluoroalkyl(C4-14)ethyl acrylate-ethyl methacrylate-polyethylene glycol mono methacrylate copolymer  (Surflon S 8405)':
+  '2-Perfluoroalkyl(C4-14)ethyl acrylate-ethyl methacrylate-polyethylene glycol mono methacrylate copolymer (Surflon S 8405)':
     '122304-67-0',
   '2-Perfluoroalkyl(C6-12)ethyl acrylate homopolymer': '105656-07-3',
   '2-Perfluoroalkyl(C6-12)ethyl methacrylate homopolymer': '105681-94-5',
@@ -9853,7 +9852,7 @@ export default {
     '2089108-94-9',
   '3-((3-((N-(2-Carboxyethyl)-perfluorobutyl)sulfonamido)propyl)-dimethylammonio)propanoate':
     '2254560-13-7',
-  '3-((Perfluorooctylsulfonyl)-2-hydroxy-3-sulfopropylamino)-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium  monosodium hydroxide':
+  '3-((Perfluorooctylsulfonyl)-2-hydroxy-3-sulfopropylamino)-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium monosodium hydroxide':
     '94133-91-2',
   '3-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)aniline': '2396-16-9',
   '3-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)benzoic acid': '2396-20-5',
@@ -9903,7 +9902,7 @@ export default {
     '862133-15-1',
   '3-(2-Iodoethyl)-4-(2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl)pyrrolidine-1-carbonitrile':
     '1365808-06-5',
-  '3-(3,3,4,4,4-Pentafluorobutanesulfinyl)propanoic  acid': '',
+  '3-(3,3,4,4,4-Pentafluorobutanesulfinyl)propanoic acid': '',
   '3-(3,3,4,4,4-Pentafluorobutanesulfonyl)propanoic acid': '',
   '3-(3,3,4,4,4-Pentafluorobutylsulfanyl)propanoic acid': '',
   '3-(3,3,4,4,5,5,6,6,6-Nonafluorohexanesulfinyl)propanoic acid': '',
@@ -10448,8 +10447,7 @@ export default {
   '3-[(1,3-Dihydroxy-3-(perfluorododecyl)propan-2-yl)sulfanyl]propanoic acid':
     '',
   '3-[(1,3-Dihydroxy-3-(perfluorohexyl)propan-2-yl)sulfanyl]propanoic acid': '',
-  '3-[(1,3-Dihydroxy-3-(perfluorooctyl)propan-2-yl)sulfanyl]propanoic  acid':
-    '',
+  '3-[(1,3-Dihydroxy-3-(perfluorooctyl)propan-2-yl)sulfanyl]propanoic acid': '',
   '3-[(1,3-Dihydroxy-3-(perfluorotetradecyl)propan-2-yl)sulfanyl]propanoic acid':
     '',
   '3-[(12,12,13,13,14,14,15,15,15-Nonafluoropentadecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
@@ -11773,7 +11771,7 @@ export default {
   '4-[Bromo(difluoro)methyl]-4,5,5,5-tetrafluoropent-1-ene': '89965-96-8',
   '4-[Ethyl(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctylsulfonyl)amino]-2-methylidenebutanoate':
     '',
-  '4-[Ethyl[(perfluorooctyl)sulfonyl]amino]butanesulfonic acid  potassium salt (1:1)':
+  '4-[Ethyl[(perfluorooctyl)sulfonyl]amino]butanesulfonic acid potassium salt (1:1)':
     '60511-72-0',
   '4-[[1,1,1,4,5,5,5-Heptafluoro-3-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-4-(trifluoromethyl)pent-2-en-2-yl]oxy]benzoic acid':
     '65439-50-1',
@@ -12036,8 +12034,7 @@ export default {
   '5-({[(2-(Perfluorooctyl)ethyl)sulfanyl]carbonyl}amino)pentanoic acid': '',
   '5-({[(2-(Perfluorotetradecyl)ethyl)sulfanyl]carbonyl}amino)pentanoic acid':
     '',
-  '5-({[(3,3,4,4,4-Pentafluorobutyl)sulfanyl]carbonyl}amino)pentanoic  acid':
-    '',
+  '5-({[(3,3,4,4,4-Pentafluorobutyl)sulfanyl]carbonyl}amino)pentanoic acid': '',
   '5-({[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)sulfanyl]carbonyl}amino)pentanoic acid':
     '',
   '5-Amino-1,1,1,2,2,3,3-heptafluoroheptan-4-ol-hydrogen chloride (1:1)':
@@ -12915,9 +12912,9 @@ export default {
   'Acibenzolar-S-methyl': '135158-54-2',
   'Acid - Base Potential': '',
   'Acid Generation Potential': '',
-  'Acid Neutralization Potential  as CaCO3 As %CaCO3': '',
   'Acid Neutralization Potential Acidity (ANPA)': '',
   'Acid Neutralization Potential as CaCO3': '',
+  'Acid Neutralization Potential_as CaCO3 As %CaCO3': '',
   'Acid Volatile Sulfides': '',
   'Acid chlorides, C8-14, .beta.-.omega.-perfluoro': '72623-70-2',
   'Acid volatile sulfide/pyritic sulfide': '',
@@ -13025,9 +13022,9 @@ export default {
   Albuterol: '18559-94-9',
   'Albuterol-d3': '1219798-60-3',
   'Albuterol-d9': '1133418-26-4',
-  'Alcohols, C12-26-secondary, .gamma.-.omega.-perfluoro, ethoxylated  (2-Perfluoroalkyl(C9-23)-1-methylethyl polyoxyethyle':
+  'Alcohols, C12-26-secondary, .gamma.-.omega.-perfluoro, ethoxylated (2-Perfluoroalkyl(C9-23)-1-methylethyl polyoxyethyle':
     '',
-  'Alcohols, C12-26-secondary, .gamma.-.omega.-perfluoro, ethoxylated  (2-Perfluoroalkyl(C9-23)-1-methylethyl polyoxyethylene ether)':
+  'Alcohols, C12-26-secondary, .gamma.-.omega.-perfluoro, ethoxylated (2-Perfluoroalkyl(C9-23)-1-methylethyl polyoxyethylene ether)':
     '161075-39-4',
   'Alcohols, C3-11, .beta.-.omega.-perfluoro-.omega.-hydro': '70983-62-9',
   'Alcohols, C3-12, .beta.-.omega.-perfluoro-.omega.-hydro, sodium salts':
@@ -14797,7 +14794,7 @@ export default {
   'Bis(perfluoroheptyl) phosphinic acid': '158986-67-5',
   'Bis(perfluorohexyl) phosphinic acid erbium(3+) salt': '500776-73-8',
   'Bis(perfluorohexyl) phosphinic acid ytterbium(3+) salt': '500776-72-7',
-  'Bis(perfluorooctyl) phosphinic acid  erbium(3+) salt': '500776-70-5',
+  'Bis(perfluorooctyl) phosphinic acid erbium(3+) salt': '500776-70-5',
   'Bis(perfluorooctyl) phosphinic acid methyl ester': '610800-37-8',
   'Bis(perfluorooctyl) phosphinic acid ytterbium(3+) salt': '500776-71-6',
   'Bis(perfluorooctyl) phosphinothioic acid': '610800-36-7',
@@ -14845,6 +14842,11 @@ export default {
   'Bismuth-211': '15229-37-5',
   'Bismuth-212': '14913-49-6',
   'Bismuth-214': '14733-03-0',
+  'Bisphenol A bis(2-hydroxyethyl ether) diacrylate': '24447-78-7',
+  'Bisphenol A bis(2-hydroxyethyl ether) dimethacrylate': '24448-20-2',
+  'Bisphenol A diallyl ether': '3739-67-1',
+  'Bisphenol A dimethacrylate': '3253-39-2',
+  'Bisphenol A divinyl ether': '3754-60-7',
   "Bisphenol A-2,2',3,3',5,5',6,6'-d8": '',
   'Bisphenol A-d14': '',
   'Bisphenol A-d16': '96210-87-6',
@@ -14900,6 +14902,7 @@ export default {
     '452080-67-0',
   'Boron, trifluoro(tetrahydrofuran)-, (T-4)-, polymer with 3-methyl-3-[(2,2,3,3,3-pentafluoropropoxy)methyl]oxetane, ether with 2,2-dimethyl-1,3-propanediol (2:1), polymer with .alpha.-hydro-.omega.-hydroxypoly(oxy-1,2-ethanediyl) and 5-isocyanato-1-(isocya':
     '1029089-63-1',
+  'Boron-10': '14798-12-0',
   'Boron-11': '',
   'Boron-11/boron-10': '',
   'Boronic acid, B-(2,2,4,4-tetrafluoro-4H-1,3-benzodioxin-6-yl)-':
@@ -17122,6 +17125,7 @@ export default {
   'Dipentyl phthalate': '131-18-0',
   Diphacinone: '82-66-6',
   Diphenamid: '957-51-7',
+  'Diphenhydramine hydrochloride': '147-24-0',
   Diphenhydramine: '58-73-1',
   'Diphenhydramine-D3': '170082-18-5',
   'Diphenyl disulfide': '882-33-7',
@@ -20870,9 +20874,9 @@ export default {
     '2089108-67-6',
   'N,N-Dimethyl-N-(3-sulfopropyl)-3-[[(perfluoropropyl)sulfonyl]amino]-1-propanaminium':
     '2089108-65-4',
-  'N,N-Dimethyl-N-(perfluoroalkyl(C4-14)carbonylaminopropyl)-.alpha.-acetic acid betaine  (Surflon S 131, perfluoroalkylbet':
+  'N,N-Dimethyl-N-(perfluoroalkyl(C4-14)carbonylaminopropyl)-.alpha.-acetic acid betaine (Surflon S 131, perfluoroalkylbet':
     '334931-09-8',
-  'N,N-Dimethyl-N-(perfluoroalkyl(C4-14)carbonylaminopropyl)-.alpha.-acetic acid betaine  (Surflon S 131, perfluoroalkylbetaine)':
+  'N,N-Dimethyl-N-(perfluoroalkyl(C4-14)carbonylaminopropyl)-.alpha.-acetic acid betaine (Surflon S 131, perfluoroalkylbetaine)':
     '82030-83-9',
   'N,N-Dimethyl-N-(propan-2-yl)propan-2-aminium nonafluorobutane-1-sulfonate':
     '374571-81-0',
@@ -21220,7 +21224,7 @@ export default {
   'N-2-Pyridinylperfluorobutanamide': '283172-09-8',
   'N-2-Pyrimidinylperfluoro-2-(2-propoxypropoxy)propanamide': '340131-92-2',
   'N-Acetyl-S-(1,2,3,3,3-pentafluoro-1-propenyl)-L-cysteine': '98640-42-7',
-  'N-Alkyl perfluoroalkyl  (linear) sulfonamides': '',
+  'N-Alkyl perfluoroalkyl (linear) sulfonamides': '',
   'N-Alkyl perfluoroalkyl sulfonamidoacetic acids': '',
   'N-Alkyl perfluoroalkyl sulfonamidoethanols': '',
   'N-Allylperfluoro-2-(2-propoxypropoxy)propanamide': '174080-50-3',
@@ -22502,7 +22506,7 @@ export default {
   'PCB-136/154': '',
   'PCB-137/164': '',
   'PCB-137/176': '',
-  "PCB-137/176 +  4,4'-DDD": '',
+  "PCB-137/176 + 4,4'-DDD": '',
   'PCB-137/176/130': '',
   'PCB-138/158': '',
   'PCB-138/160': '',
@@ -23089,7 +23093,7 @@ export default {
     '67963-77-3',
   'Perfluoro-(2,5,8-trimethyl-3,6,9-trioxadodecanoic)acid': '65294-16-8',
   'Perfluoro-(2-n-propyl)pyran': '74948-35-9',
-  'Perfluoro-(C6-18)-alkylphosphonic acid  (Fluowet PL 80, 80% aqueous solution)':
+  'Perfluoro-(C6-18)-alkylphosphonic acid (Fluowet PL 80, 80% aqueous solution)':
     '141615-38-5',
   'Perfluoro-1,1-dichlorooctane': '135941-34-3',
   'Perfluoro-1,10-decanedicarboxylic acid': '865-85-0',
@@ -23131,7 +23135,7 @@ export default {
   'Perfluoro-1-octanesulfinic acid': '187480-42-8',
   'Perfluoro-1-octanesulfonamide': '754-91-6',
   'Perfluoro-1-octanesulfonyl chloride': '423-60-9',
-  'Perfluoro-1-propanesulfinic acid  sodium': '152893-99-7',
+  'Perfluoro-1-propanesulfinic acid sodium': '152893-99-7',
   'Perfluoro-1-propanol': '53520-89-1',
   'Perfluoro-1-propene telomer with chlorotrifluoroethene, oxidized, reduced, hydrolyzed':
     '329238-24-6',
@@ -23401,7 +23405,7 @@ export default {
   'Perfluoroalkyl symmetric diamides': '',
   'Perfluoroalkyl(C4-14)carbonyl aminohexanoic acid, ammonium salt':
     '110070-82-1',
-  'Perfluoroalkyl(C4-14)carbonyl aminomethoxy polyethylene oxide  (Surflon S 145, perfluoroalkyl ethylene oxide adduct)':
+  'Perfluoroalkyl(C4-14)carbonyl aminomethoxy polyethylene oxide (Surflon S 145, perfluoroalkyl ethylene oxide adduct)':
     '82030-85-1',
   'Perfluoroalkyl(C4-23) iodide': '161075-23-6',
   'Perfluoroalkylether (linear) carboxylic acids': '',
@@ -24267,10 +24271,8 @@ export default {
     '245331-02-6',
   'Poly(difluoromethylene), .alpha.-fluoro-.omega.-[2-(sulfooxy)ethyl]-':
     '65530-77-0',
-  'Poly(difluoromethylene), .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]-  (2-Propeonic acid, perfluoro-C6-14-alkylethyl esters, C8 rich)':
-    '65605-70-1',
   'Poly(difluoromethylene), .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]- (2-Propeonic acid, perfluoro-C6-14-alkylethyl esters, C8 rich)':
-    '',
+    '65605-70-1',
   'Poly(difluoromethylene), .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]-, homopolymer':
     '65605-73-4',
   'Poly(difluoromethylene), .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]-, polymer with 1,1-dichlorethene':
@@ -24283,6 +24285,8 @@ export default {
     '65530-57-6',
   'Poly(difluoromethylene), .alpha.-hydro-.omega.-[(phosphonooxy)methyl]-':
     '72987-44-1',
+  'Poly(difluoromethylene),.alpha.-fluoro-.omega.-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]- (2-Propeonic acid, perfluoro-C6-14-alkylethyl esters, C8 rich)':
+    '',
   'Poly(ethane-co-3,3,4,4,5,5,6,6,6-nonafluorohex-1-ene-co-perfluoroethene)':
     '82606-24-4',
   "Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.',.alpha.'',.alpha.'''-(oxydi-3,1,2-propanetriyl)tetrakis[.omega.-[(heptadecafluorononenyl)oxy]]-":
@@ -24432,7 +24436,7 @@ export default {
     '129154-21-8',
   'Poly[oxy(1,1,2,2,3,3,4,4-octafluoro-1,4-butanediyl)], .alpha.-hydro-.omega.-hydroxy-':
     '128840-50-6',
-  'Poly[oxy(1,1,2,2,3,3-hexafluoro-1,3-propanediyl)], .alpha.-(1,1,2,2,3,3,3-heptafluoropropyl)-.omega.-(1,1,2,2,2-pentafluoroethoxy)-  (n=1-60)':
+  'Poly[oxy(1,1,2,2,3,3-hexafluoro-1,3-propanediyl)], .alpha.-(1,1,2,2,3,3,3-heptafluoropropyl)-.omega.-(1,1,2,2,2-pentafluoroethoxy)- (n=1-60)':
     '105060-59-1',
   'Poly[oxy(1,1,2,2,3,3-hexafluoro-1,3-propanediyl)], .alpha.-(1,1,2,2,3,3,3-heptafluoropropyl)-.omega.-(1,1,2,2-tetrafluoro-3-hydroxypropoxy)-':
     '146349-51-1',
@@ -26321,7 +26325,7 @@ export default {
   'Sodium 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-hexadecafluorononyl sulfate':
     '29811-17-4',
   'Sodium 2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptanoate': '2264-25-7',
-  'Sodium 2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptyl  sulfate': '29811-16-3',
+  'Sodium 2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptyl sulfate': '29811-16-3',
   'Sodium 2,2,3,3,4,4,5,5,6,7,7,7-dodecafluoro-6-(trifluoromethyl)heptanoate':
     '18017-22-6',
   'Sodium 2,2,3,3,4,4,5,5-octafluoropentanoate': '22715-46-4',
@@ -26548,6 +26552,7 @@ export default {
   Spinacene: '7683-64-9',
   Spinetoram: '187166-40-1',
   Spinosad: '168316-95-8',
+  'Spinosyn D': '131929-63-0',
   Spintheridae: '',
   Spionidae: '',
   Spirillum: '',
@@ -28353,7 +28358,7 @@ export default {
   '[(2,2,3,3,4,4,5,5-Octafluoropentane-1-sulfonyl)methyl]benzene':
     '201943-30-8',
   '[(3,3,4,4,4-Pentafluorobut-1-yn-1-yl)oxy]benzene': '112586-73-9',
-  '[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)oxy]phosphonic  acid': '150065-76-2',
+  '[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)oxy]phosphonic acid': '150065-76-2',
   '[(4,4,5,5,6,6,6-Heptafluoro-2-iodohexyl)oxy](trimethyl)silane': '89608-38-8',
   '[(4,4,5,5,6,6,6-Heptafluorohexanoyl)sulfanyl]-2-hydroxy-3-oxopropanoic acid':
     '',

@@ -4,7 +4,7 @@ export default {
   'BEACH Program Site-Channelized stream':
     'The process of straightening or redirecting natural streams in an artificially modified or constructed stream bed. Channelization has been carried out for numerous reasons, most often to drain wetlands , direct water flow for agricultural use, and control flooding . While this process makes a stream more useful for human activities, it tends to interfere with natural river habitats and to destabilize stream banks by destroying riparian vegetation.',
   'BEACH Program Site-Estuary':
-    'a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\nEstuaries form a transition zone between river environments and maritime environments. \nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.\n',
+    'a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea. Estuaries form a transition zone between river environments and maritime environments. The sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.',
   'BEACH Program Site-Great Lake':
     'The Great Lakes, also called the Laurentian Great Lakes and the Great Lakes of North America, are a series of interconnected freshwater lakes primarily in the upper mid-east region of North America, on the Canada–United States border, which connect to the Atlantic Ocean through the Saint Lawrence River.',
   'BEACH Program Site-Lake':
@@ -45,7 +45,7 @@ export default {
   'Constructed Wetland':
     'A constructed wetland (CW) is an artificial wetland to treat municipal or industrial wastewater, greywater or stormwater runoff. It may also be designed for land reclamation after mining, or as a mitigation step for natural areas lost to land development.Constructed wetlands are engineered systems that use natural functions vegetation, soil, and organisms to treat wastewater',
   Estuary:
-    'a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\r\nEstuaries form a transition zone between river environments and maritime environments. \r\nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.\r\n',
+    'a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea. Estuaries form a transition zone between river environments and maritime environments. The sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.',
   'Estuary-Freshwater':
     'Freshwater estuaries are semi-enclosed areas of the Great Lakes in which lake and river water mix, forming a transition zone between river and lake environments that are chemically distinct',
   'Facility Industrial':
@@ -57,7 +57,7 @@ export default {
   'Facility Privately Owned Non-industrial':
     'Privately owned treatment works means any device or system which is (a) used to treat wastes from any facility whose operator is not the operator of the treatment works',
   'Facility Public Water Supply (PWS)':
-    'A Public Water System is a public water supply for the provision to the public of piped water for human consumption, A Public Water System includes any collection, treatment, storage,\nand distribution facilities under control of such system, including the operator or administrator of such system, and is used primarily in\nconnection with such system and any collection or pretreatment storage facilities not under such control which are used primarily in\nconnection with such system.”',
+    'A Public Water System is a public water supply for the provision to the public of piped water for human consumption, A Public Water System includes any collection, treatment, storage, and distribution facilities under control of such system, including the operator or administrator of such system, and is used primarily in connection with such system and any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.',
   'Floodwater Urban':
     'A flood is an overflow of water that submerges land that is usually dry  In the sense of "urban runoff water". it may occur due to an accumulation of rainwater on saturated ground in an areal flood.',
   'Floodwater non-Urban':
@@ -73,7 +73,7 @@ export default {
   'Gas-Flare':
     'A gas flare, alternatively known as a flare stack, is a gas combustion device used in industrial plants such as petroleum refineries, chemical plants, natural gas processing plants as well as at oil or gas production sites having oil wells, gas wells, offshore oil and gas rigs and landfills.',
   'Gas-Monitoring Probe':
-    'Gas monitoring probes are used to enhance environmental protection at landfills. Gas\nconcentrations are measured at permit or regulatory specified time intervals. This process\nallows potential environmental concerns to be identified early, evaluated and corrected\n(when necessary) in accordance with regulations and sound scientific approaches.',
+    'Gas monitoring probes are used to enhance environmental protection at landfills. Gas concentrations are measured at permit or regulatory specified time intervals. This process allows potential environmental concerns to be identified early, evaluated and corrected (when necessary) in accordance with regulations and sound scientific approaches.',
   'Gas-Passive Vent': 'Dispersion of gas safely from soil.',
   'Gas-Subslab':
     'Sub-slab Soil Gas: Sub-slab samples are collected to characterize the nature and extent of vapor contamination in the soil immediately beneath a building with a slab or beneath the basement floor.',

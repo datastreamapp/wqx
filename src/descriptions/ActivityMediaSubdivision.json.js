@@ -10,7 +10,7 @@ export default {
   'Borrow Soil, Waste Rock, and Protore material':
     'material (usually soil, gravel or sand) has been dug for use at another location.soil or Rock may contain sub-economic material from which economic mineral deposits may form by geologic concentration processes such as supergene enrichment.',
   'Bottom material':
-    'A mixture of mineral and organic matter that compose the top bed deposits (usually the first few inches) underlying a body of water. Bottom material consists of living and non-living, organic and inorganic material of varying physical, chemical, and biological composition that has been transported by water, ice, and wind and deposited in aquatic systems.\r',
+    'A mixture of mineral and organic matter that compose the top bed deposits (usually the first few inches) underlying a body of water. Bottom material consists of living and non-living, organic and inorganic material of varying physical, chemical, and biological composition that has been transported by water, ice, and wind and deposited in aquatic systems.',
   'Bulk Deposition':
     'the sum of. wet-only deposition and of sedimenting (dry) particles to. a sample collector in ambient air. The fluent delivery of a stream of separate loose pieces onto a receiving surface. The relative size of the pieces is not significant, rather it is the manner in which they are handled, as a mass or stream rather than each particle being individually manipulated.',
   'Canopy water':

@@ -2275,7 +2275,7 @@ export default {
   903.1: '903.1 ~ EPA-NERL . Radium-226 in Drinking Water',
   '9030A': '',
   '9030B':
-    'The distillation procedure described in this method is designed for the determination\r of sulfides in aqueous, solid waste materials, or effluents. https://www.epa.gov/sites/default/files/2015-12/documents/9030b.pdf',
+    'The distillation procedure described in this method is designed for the determination;  of sulfides in aqueous, solid waste materials, or effluents. https://www.epa.gov/sites/default/files/2015-12/documents/9030b.pdf',
   '904.0':
     '904 ~ EPA-ORD / EPA-OST . Radium Isotopes radium-228 in Drinking Water',
   '9040A': '',

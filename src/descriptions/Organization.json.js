@@ -165,7 +165,7 @@ export default {
   '21FLPOLK_WQX':
     'To monitor, manage, prtoect and improve the groundwater and surface water resources of Polk County',
   '21FLRCID_WQX': 'Water Quality Monitoring Data',
-  '21FLROOK_WQX': '',
+  '21FLROOK_WQX': 'Water Quality Monitoring Data',
   '21FLSABR_WQX': 'Water Quality Monitoring Data',
   '21FLSARA_WQX': 'Surface Water, Ground Water, Biological, & Sediment.',
   '21FLSBL_WQX': 'Water Quality Monitoring Data',
@@ -731,6 +731,7 @@ export default {
   GRANDENVIROSVS: '',
   GRIC_WQX:
     'Gila River Indian Community of the Gila River Indian Reservation, Arizona (Tribal) || Gila River Indian Community of the Gila River Indian Reservation, Arizona (Tribal)',
+  GROTONTOWNWATERQUALITY_WQX: '',
   GROUNDWORKDENVER: '',
   GSWA: 'Great Swamp Watershed Association',
   GTBOCI_WQX:

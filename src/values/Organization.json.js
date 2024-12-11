@@ -627,6 +627,7 @@ export default {
     'GPORTAGE_WQX',
     'GRANDENVIROSVS',
     'GRIC_WQX',
+    'GROTONTOWNWATERQUALITY_WQX',
     'GROUNDWORKDENVER',
     'GSWA',
     'GTBOCI_WQX',

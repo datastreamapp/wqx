@@ -5,7 +5,7 @@ export default {
   'as 2,4-D':
     '2-(2,4-Dichlorophenoxy)acetic acid or 2,4-D is a widely used herbicide that controls broadleaf weeds that has been used as a pesticide since the 1940s. 2,4-Dichlorophenoxyacetic acid is an organic compound',
   'as ANC':
-    "acid neutralizing capacity is a measure for the overall buffering capacity against acidification for a solution, e.g. surface water or soil water.\r\nANC is defined dynamically as the amount of acid needed to change the pH value from the sample's value to a chosen different value.",
+    "acid neutralizing capacity is a measure for the overall buffering capacity against acidification for a solution, e.g. surface water or soil water. ANC is defined dynamically as the amount of acid needed to change the pH value from the sample's value to a chosen different value.",
   'as Al':
     "Aluminium is a chemical element with the symbol Al and atomic number 13. It is a silvery-white, soft, non-magnetic and ductile metal in the boron group. By mass, aluminium makes up about 8% of the Earth's crust, where it is the third most abundant element and also the most abundant metal.",
   'as As':
@@ -166,7 +166,7 @@ export default {
   'as SO3':
     'Sulfur trioxide is the chemical compound with the formula SO3, with a relatively narrow liquid range. In the gaseous form, this species is a significant pollutant, being the primary agent in acid rain.',
   'as SO4':
-    'Sulfate or sulphate (see spelling differences) ion is a polyatomic anion with the empirical formula SO2−\r\n4. Sulfate is the spelling recommended by IUPAC, but sulphate is used in British English. Sulfates are salts of sulfuric acid and many are prepared from that acid.',
+    'Sulfate or sulphate (see spelling differences) ion is a polyatomic anion with the empirical formula SO2-4. Sulfate is the spelling recommended by IUPAC, but sulphate is used in British English. Sulfates are salts of sulfuric acid and many are prepared from that acid.',
   'as SRP': 'Soluble Reactive Phosphorus',
   'as SWT': 'Sulfurhodamine water tracer',
   'as Se':
