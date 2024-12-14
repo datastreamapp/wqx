@@ -566,6 +566,7 @@ export default {
   CTVOLMON: 'CT DEEP Volunteer Water Monitoring Program',
   CT_DEP01_WQX:
     'This is the central agency for all water quality data in this system',
+  CT_NERR: '',
   CURRY_WP: 'Erin Minster - Current VolMon group',
   CUSH: 'Working to eliminate nitrogen pollution, bacterial contamination and plastic waste from our local waters.',
   CUSP: 'CDSN - Coalition for the Upper South Platte',
@@ -1463,7 +1464,7 @@ export default {
   SUNENCO: 'Suncor Energy (USA) Inc. (Colorado)',
   SUQUAMISH:
     'Suquamish Tribe (Tribal) || Suquamish Indian Tribe of the Port Madison Reservation (Tribal)',
-  SVR: 'Sherwood Valley Rancheria EPA (Tribal) || Sherwood Valley Rancheria EPA (Tribal)',
+  SVR: '',
   SWFMDDEP_WQX: 'Water Quality Monitoring Data',
   SWINOMISH:
     'Swinomish Indian Tribal Community (Tribal) || Swinomish Indian Tribal Community (Tribal)',

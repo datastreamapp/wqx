@@ -481,6 +481,7 @@ export default {
     'CTUIR_WQX',
     'CTVOLMON',
     'CT_DEP01_WQX',
+    'CT_NERR',
     'CURRY_WP',
     'CUSH',
     'CUSP',

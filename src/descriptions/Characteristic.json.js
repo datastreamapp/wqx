@@ -4876,6 +4876,7 @@ export default {
     '',
   '1H-Benzimidazole-5-sulfonic acid, 2-phenyl-':
     'Request Date: 20-SEP-17| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  '1H-Benzotriazole': '',
   '1H-Benzotriazole, 5-chloro-': '; Request Date: 07-NOV-14',
   '1H-Benzotriazole, sodium salt': '',
   '1H-Benzotriazole-4,5,6,7-d4':
@@ -14838,6 +14839,7 @@ export default {
   'C1-Phenanthrenes/anthracenes':
     'Any mixture of methyl Phenanthrenes/anthracenes.; Request Date: 02-MAR-07',
   'C10 Hydrocarbons': '; Request Date: 02-MAR-07',
+  'C10 alcohol ethoxylate': 'C10-EO4 - C10-EO8',
   'C10-16-Alkyldimethylamines oxides':
     'This substance is identified by SDA Substance Name:  C10-16 alkyl dimethyl amine oxide and SDA Reporting Number:  15-041-00.  Consult SDA Substance Identification Procedure.; Request Date: 02-MAR-07',
   'C10-C12 Aliphatics': '; Request Date: 03-AUG-10',
@@ -17197,6 +17199,7 @@ export default {
     'National Park Service, contact nps.gov; Request Date: 08-JUN-16',
   'Erosion Causes': '',
   'Erythritol anhydride': 'Nemi.gov; Request Date: 25-SEP-19',
+  Erythrohydrobupropion: '',
   Erythromycin: 'Nemi.gov; Request Date: 02-MAR-07',
   'Erythromycin A dihydrate': '',
   'Erythromycin-13C,d3': '',
@@ -19532,6 +19535,7 @@ export default {
   'Lambda-Cyhalothrin': 'λ-Cyhalothrin',
   Lamivudine: '; Request Date: 02-FEB-15',
   Lamotrigine: '; Request Date: 30-MAY-13',
+  'Lamotrigine N2-glucuronide': '',
   'Lamotrigine-N-2-beta-D-glucuronide': 'NWIS',
   'Land Cover (choice list)': 'GRE; Request Date: 11-APR-17',
   'Land Form, Right (choice list)': '; Request Date: 24-AUG-10',
@@ -24725,6 +24729,7 @@ export default {
   Polyplectropus: 'NWIS',
   'Polypropene-co-perfluoroethene-co-(vinyl butan-2-enoate)': '',
   Polypropylene: '; Request Date: 02-MAR-07',
+  'Polypropylene glycol': 'PPG-EO5 - PPG-EO9',
   Polystyrene: '; Request Date: 20-MAR-15',
   Polythiazide: 'NWIS',
   Polytrichophora: 'NWIS',
@@ -26913,6 +26918,7 @@ export default {
     '1H-as-Indaceno[3,2-d]oxacyclododecin-7,15-dione, 2-[(6-deoxy-3-O-ethyl-2,4-di-O-methyl-.alpha.-L-mannopyranosyl)oxy]-13-[[(2R,5S,6R)-5-(dimethylamino)tetrahydro-6-methyl-2H-pyran-2-yl]oxy]-9-ethyl-2,3,3a,4,5,5a,5b,6,9,10,11,12,13,14,16a,16b-hexadecahydro-14-methyl-, (2R,3aR,5aR,5bS,9S,13S,14R,16aS,16bR)-',
   Spinosad:
     'A naturally occurring mixture of Spinosyn A and Spinosyn D.; Nemi.gov; Request Date: 25-SEP-19',
+  'Spinosyn A': '',
   'Spinosyn D': '',
   Spintheridae: 'NWIS',
   Spionidae: 'TAXON: Animalia Kingdom; NWIS',
@@ -27790,9 +27796,9 @@ export default {
     'The area of land that is covered during a period of high tide.; Request Date: 02-MAR-07',
   'Tide rate':
     'The rate at which tidal water covers a tide range.; Request Date: 02-MAR-07',
-  'Tide stage':
-    'A descriptor or code to characterize a tidal stage, including flood, ebb, DL, and others.; Request Date: 02-MAR-07',
   'Tide stage (choice list)': '; Request Date: 02-MAR-07',
+  'Tide stage (text)':
+    'A descriptor or code to characterize a tidal stage, including flood, ebb, DL, and others.; Request Date: 02-MAR-07',
   'Tiller Count': '; Request Date: 04-MAY-15',
   Tilmicosin: '; Request Date: 02-MAR-07',
   Tin: '; Request Date: 02-MAR-07',
