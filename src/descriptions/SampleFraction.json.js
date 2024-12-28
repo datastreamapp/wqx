@@ -25,8 +25,6 @@ export default {
     'Part of a sequential extraction protocol. Pertains to analytes that are assumed to be associated with iron and manganese oxides (also known as the reducible fraction).',
   'Extractable, residual':
     'Part of a sequential extraction protocol. Pertains to analytes present in the crystal lattice of minerals that are dissolved by strong acids.',
-  'Field***':
-    'Performed in field. ***duplicate*** deprecated use "Unfiltered, field" (10-JUN-19)',
   'Filter/sieve residue':
     'The residue retained on a filter or sieve after sample material has been passed through it',
   Filterable:
@@ -78,6 +76,8 @@ export default {
     'Pertains to the constituents in a representative water-suspended-solids sample. (whole)',
   'Unfiltered, field':
     'Performed in field. +/ Pertains to the constituents in a representative water-suspended-solids sample. (whole)',
+  'Unfiltered, lab':
+    'Performed in lab. +/ Pertains to the constituents in a representative water-suspended-solids sample. (whole). Previously deprecated Field use "Unfiltered, field" (10-JUN-19)',
   Vapor:
     'That portion of the analyte which exists in a gaseous state and that under ordinary conditions is liquid or solid.',
   Volatile:

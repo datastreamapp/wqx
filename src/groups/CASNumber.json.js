@@ -676,7 +676,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '': '',
   '.Alpha.-Pinene': '80-56-8',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
@@ -22775,6 +22774,7 @@ export default {
   'Particle size of riffle within reach': '',
   'Particle size, (0.032mm)': '',
   'Particle size, 0.002.mm': '',
+  'Particle size, 0.016 mm': '',
   'Particle size, 0.5 inch (12.5mm)': '',
   'Particle size, 1 inch (25.0mm)': '',
   'Particle size, 1 inch (25.40mm)': '',
@@ -22793,6 +22793,7 @@ export default {
   'Particle size, 30 mesh, (0.59 mm)': '',
   'Particle size, 5/16 inch (8.0mm)': '',
   'Particle size, 50 mesh, (0.297 mm)': '',
+  'Particle size, <0.001 mm': '',
   'Particle size, Hydrometer (.008 mm)': '',
   'Particle size, Hydrometer (.011 mm)': '',
   'Particle size, Hydrometer (.015 mm)': '',

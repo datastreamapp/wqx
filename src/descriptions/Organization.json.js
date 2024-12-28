@@ -559,6 +559,7 @@ export default {
   CTEPO_WQX:
     'Cahuilla Band of Indians - Cahuilla Tribal Environmental Office (Tribal) || Cahuilla Band of Indians - Cahuilla Tribal Environmental Office (Tribal)',
   CTGR: 'Confederated Tribes of the Grand Ronde Community of Oregon (Tribal) || Confederated Tribes of the Grand Ronde Community of Oregon (Tribal)',
+  CTGRGOSHUTE: 'Confederated Tribes Of The Goshute Reservation',
   CTSI_WQX:
     'Confederated Tribes of Siletz Indians of Oregon (Tribal) || Confederated Tribes of Siletz Indians of Oregon (Tribal)',
   CTUIR_WQX:
@@ -637,6 +638,7 @@ export default {
   EPAR2_USVIBAWQMP_WQX:
     'US Virgin Islands Beach Advisory Water Quality Monitoring Program',
   EPAR5_SLR_WQX: 'Sea Level Rise (SLR) and (http:///www.csc.noaa.gov/slr)',
+  EPAR5_WQX: '',
   EPAREG6_WQX: 'US EPA, Region 6 Dallas, TX',
   EPASTAGINGD: 'Volunteer',
   EPATEST: '',
@@ -669,6 +671,7 @@ export default {
   EXLSTREAM1: 'Appalachian Watershed & Stream Monitors (AWSM) program',
   'FA-NJ': '',
   FAEC: 'Water Quality Monitoring Data',
+  FBIC: 'Fort Bidwell Reservation',
   FCPOTAWATOMI_WQX: '',
   FIGRWQP: '',
   FIIR: 'Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California || Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California',
@@ -1361,6 +1364,7 @@ export default {
   SBWC_WQX: 'Pat Welle, Current VolMon group',
   'SC&LRWC': '',
   'SC-NJ': 'Sourland Conservancy, Water Quality Monitoring',
+  SCAPED: '',
   SCCRK: 'South Carolina Congaree RiverKeeper',
   SCCWK: 'South Carolina Charleston WaterKeeper',
   SCDHSECOLOGY: '',
@@ -1576,6 +1580,7 @@ export default {
   USET_WQX:
     'United South and Eastern Tribes, Inc. (Tennessee) (Tribal) || United South and Eastern Tribes, Inc. (Tennessee) (Tribal)',
   USFS0614_WQX: 'Water Quality Data',
+  USFSEASTERN: '',
   USFSPRESCOTT: '',
   USFSWHITEMT: '',
   USFWS_ALASKA: 'US Fish and Wildlife Service - Alaska Region',

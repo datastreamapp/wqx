@@ -620,8 +620,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '***retired****Channel Constraining Features (choice list)':
-    '; Request Date: 04-OCT-18',
   '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
@@ -22824,6 +22822,7 @@ export default {
     'Particle size refers to the size of individual particles that make up a material.; Request Date: 14-JAN-16',
   'Particle size, 0.002.mm':
     'Particle size refers to the size of individual particles that make up a material.; Request Date: 10-JUL-13',
+  'Particle size, 0.016 mm': '',
   'Particle size, 0.5 inch (12.5mm)':
     'Particle size refers to the size of individual particles that make up a material.; Request Date: 10-JUL-13',
   'Particle size, 1 inch (25.0mm)':
@@ -22859,6 +22858,7 @@ export default {
     'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
   'Particle size, 50 mesh, (0.297 mm)':
     'Particle size refers to the size of individual particles that make up a material.1;',
+  'Particle size, <0.001 mm': '',
   'Particle size, Hydrometer (.008 mm)':
     'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
   'Particle size, Hydrometer (.011 mm)':

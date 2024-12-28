@@ -104,6 +104,7 @@ export default {
     'PW',
     'QC',
     'RI',
+    'RM',
     'SC',
     'SD',
     'SK',

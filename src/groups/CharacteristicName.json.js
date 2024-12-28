@@ -933,7 +933,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '': 'Not Assigned',
   '.Alpha.-Pinene': 'Organics, Other',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
@@ -26938,6 +26937,7 @@ export default {
   'Particle size of riffle within reach': 'Physical',
   'Particle size, (0.032mm)': 'Physical',
   'Particle size, 0.002.mm': 'Physical',
+  'Particle size, 0.016 mm': 'Not Assigned',
   'Particle size, 0.5 inch (12.5mm)': 'Physical',
   'Particle size, 1 inch (25.0mm)': 'Physical',
   'Particle size, 1 inch (25.40mm)': 'Physical',
@@ -26956,6 +26956,7 @@ export default {
   'Particle size, 30 mesh, (0.59 mm)': 'Organics, Other',
   'Particle size, 5/16 inch (8.0mm)': 'Physical',
   'Particle size, 50 mesh, (0.297 mm)': 'Stable Isotopes',
+  'Particle size, <0.001 mm': 'Not Assigned',
   'Particle size, Hydrometer (.008 mm)': 'Physical',
   'Particle size, Hydrometer (.011 mm)': 'Physical',
   'Particle size, Hydrometer (.015 mm)': 'Physical',
