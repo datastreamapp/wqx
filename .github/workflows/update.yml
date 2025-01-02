@@ -15,15 +15,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Set up Node.js 20.x
+      - name: Set up Node.js 22.x
         uses: actions/setup-node@master
         with:
-          node-version: 20.x
-      - name: Create .npmrc
-        run: |
-          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          node-version: 22.x
+          registry-url: 'https://registry.npmjs.org'
       - name: Cache npm
         uses: actions/cache@v4
         with:
@@ -31,10 +27,6 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-
-      - name: Use npm 8
-        run: |
-          npm install -g npm@8
 
       - name: Install dependencies
         run: |
