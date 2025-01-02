@@ -53,8 +53,10 @@ jobs:
         name: Publish
         run: |
           cp package.json dist/package.json
-          npm publish ./dist
+          cd ./dist
+          npm publish
         env:
+          NPM_CONFIG_PROVENANCE: 'true'
           NPM_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 #      -
 #        if: env.change != 0

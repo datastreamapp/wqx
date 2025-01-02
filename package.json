@@ -38,13 +38,12 @@
     "@commitlint/cli": "^19.0.0",
     "@commitlint/config-conventional": "^19.0.0",
     "ajv-cmd": "^0.7.0",
-    "change-case": "^4.1.2",
-    "glob": "^8.0.0",
-    "husky": "^8.0.0",
-    "json-schema-ref-parser": "^9.0.9",
+    "change-case": "^5.0.0",
+    "husky": "^9.0.0",
+    "json-schema-ref-parser": "^9.0.0",
     "lint-staged": "^15.0.0",
     "prettier": "^3.0.0",
     "standard": "^17.0.0",
-    "xml-js": "^1.6.11"
+    "xml-js": "^1.0.0"
   }
 }
