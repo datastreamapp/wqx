@@ -16140,6 +16140,7 @@ export default {
   Cyanide: '57-12-5',
   'Cyanide + Thiocyanate': '',
   'Cyanide, available': '',
+  'Cyanide, free': '',
   Cyanides: '57-12-5',
   'Cyanides amenable to chlorination (HCN & CN)': '',
   'Cyanobacteria fluorescence of phycoerythrin (fPE)': '',

@@ -19508,8 +19508,9 @@ export default {
     'PFOS, Perfluorooctane Sulfonate',
   Cyanide: 'Inorganics, Minor, Non-metals',
   'Cyanide + Thiocyanate': 'Organics, Pesticide',
-  'Cyanide, available': 'Not Assigned',
-  Cyanides: 'Not Assigned',
+  'Cyanide, available': 'Inorganics, Minor, Non-metals',
+  'Cyanide, free': 'Inorganics, Minor, Non-metals',
+  Cyanides: 'Inorganics, Minor, Non-metals',
   'Cyanides amenable to chlorination (HCN & CN)': 'Not Assigned',
   'Cyanobacteria fluorescence of phycoerythrin (fPE)':
     'Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin',

@@ -86286,6 +86286,7 @@ export default {
     'Cyanide',
     'Cyanide + Thiocyanate',
     'Cyanide, available',
+    'Cyanide, free',
     'Cyanides',
     'Cyanides Amenable to Chlorination',
     'Cyanides amenable to chlorination (HCN & CN)',

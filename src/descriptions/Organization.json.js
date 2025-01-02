@@ -688,6 +688,7 @@ export default {
   FOCW: 'Restore, preserve, and promote the outstanding natural qualities of the Cheat River watershed.',
   FONDULAC_WQX: '',
   FORTLWWTP: 'Colorado',
+  FORTMOJAVE: '',
   FORTPECK: '',
   FOSCWQ_WQX: '',
   FOUNSD: 'Colorado',
