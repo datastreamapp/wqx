@@ -1133,6 +1133,7 @@ export default {
     'SDDENR_WQX',
     'SDGEO_WQX',
     'SDJSA',
+    'SEAQ',
     'SEATTLERIVER_WQX',
     'SELDOVIA',
     'SENECA_WQX',

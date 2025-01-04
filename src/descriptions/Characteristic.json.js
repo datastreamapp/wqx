@@ -7523,6 +7523,7 @@ export default {
   '2-Methyl-3-nitroaniline': '; Request Date: 10-MAR-15',
   '2-Methyl-3-pentanol': '; Request Date: 02-MAR-07',
   '2-Methyl-3-pentanone': '; Request Date: 02-MAR-07',
+  "2-Methyl-4'-(dimethylamino)azobenzene": '',
   '2-Methyl-4-6-dinitrophenol***retired***use 4,6-Dinitro-o-cresol':
     'Request Date: 9-Apr-19 (nps.gov cas# review)',
   '2-Methyl-4-isothiazolin-3-one': 'NWIS',
@@ -13966,7 +13967,7 @@ export default {
   'Benzo(g,h,i)perylene-D12': '; Request Date: 01-MAY-14',
   'Benzo(j+k)fluoranthene': '; Request Date: 26-AUG-13',
   'Benzo(k)fluoranthene-d12': '',
-  'Benzo[a]fluoranthene':
+  'Benzo[a]fluoranthene***retired***use Benzo(a)fluoranthene':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous SubstancesRequest Date: 23-SEP-16| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Benzo[a]pyrene': 'Nemi.gov; Request Date: 22-JUL-14',
   'Benzo[a]pyrene Total Potency Equivalents (B[a]P TPE)':
@@ -13977,7 +13978,7 @@ export default {
   'Benzo[b,k]fluoranthene': '; Request Date: 22-OCT-14',
   'Benzo[b]chrysene':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
-  'Benzo[b]fluoranthene': '',
+  'Benzo[b]fluoranthene***retired***use Benzo(b)fluoranthene': '',
   'Benzo[b]fluoranthene, mixt with benzo[j]fluoranthene and benzo[k]fluoranthene':
     '',
   'Benzo[b]naphtho[2,1-d]thiophene': '; Request Date: 24-MAR-14',
@@ -14552,7 +14553,7 @@ export default {
   'Bromochloroacetic acid': 'Nemi.gov; Request Date: 02-MAR-07',
   Bromochloroacetonitrile: '; Request Date: 02-MAR-07',
   Bromochloroiodomethane: '; Request Date: 02-MAR-07',
-  Bromochloromethane:
+  'Bromochloromethane***retired***use Halon 1011':
     '1040;Request Date: 25-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Bromochloronitromethane: 'NWIS',
   Bromoconazole: 'NWIS',
@@ -23136,6 +23137,7 @@ export default {
     '',
   'Pentanoic acid, 4,4-bis[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)thio]-':
     '',
+  'Pentanoic acid, 4-methyl-': '',
   'Pentanoic acid, 5,5,5-trifluoro-2-oxo-4-(trifluoromethyl)-, ethyl ester': '',
   'Pentanoic acid, 5,5,5-trifluoro-3-hydroxy-4-(trifluoromethyl)-': '',
   'Pentanoic acid, 5-[(2,6-dimethoxy-4-pyrimidinyl)amino]-5-oxo-, 2,2,3,3-tetrafluoropropyl ester':
@@ -29144,8 +29146,8 @@ export default {
   'cis-Crotonaldehyde': '',
   'cis-Cyhalothric acid': 'NWIS',
   'cis-Cypermethrin': 'NWIS',
-  'cis-Decalin':
-    'Request Date: 29-Apr-16 GLENDA contact (klewin.kenneth@epa.gov) (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'cis-Decalin***retired***use Decahydronaphthalene':
+    'Request Date: 29-Apr-16 GLENDA contact (klewin.kenneth@epa.gov) (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ https://pubchem.ncbi.nlm.nih.gov/compound/Decahydronaphthalene#section=Depositor-Supplied-Synonyms',
   'cis-Deltamethric acid': 'NWIS',
   'cis-Mevinphos':
     '1;https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/substancesearch/search.do?details=displayDetails&selectedSubstanceId=76738',

@@ -9789,6 +9789,7 @@ export default {
   '2-Methyl-3-nitroaniline': 'Not Assigned',
   '2-Methyl-3-pentanol': 'Not Assigned',
   '2-Methyl-3-pentanone': 'Not Assigned',
+  "2-Methyl-4'-(dimethylamino)azobenzene": 'Not Assigned',
   '2-Methyl-4-6-dinitrophenol': 'Organics, Pesticide',
   '2-Methyl-4-isothiazolin-3-one': 'Not Assigned',
   '2-Methyl-4-octanone': 'Not Assigned',
@@ -27214,6 +27215,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Pentanoic acid, 4,4-bis[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)thio]-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Pentanoic acid, 4-methyl-': 'Not Assigned',
   'Pentanoic acid, 5,5,5-trifluoro-2-oxo-4-(trifluoromethyl)-, ethyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
   'Pentanoic acid, 5,5,5-trifluoro-3-hydroxy-4-(trifluoromethyl)-':

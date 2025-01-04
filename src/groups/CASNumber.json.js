@@ -7847,6 +7847,7 @@ export default {
   '2-Methyl-3-nitroaniline': '603-83-8',
   '2-Methyl-3-pentanol': '565-67-3',
   '2-Methyl-3-pentanone': '565-69-5',
+  "2-Methyl-4'-(dimethylamino)azobenzene": '3731-39-3',
   '2-Methyl-4-6-dinitrophenol': '534-52-1',
   '2-Methyl-4-isothiazolin-3-one': '',
   '2-Methyl-4-octanone': '7492-38-8',
@@ -23015,6 +23016,7 @@ export default {
     '71608-61-2',
   'Pentanoic acid, 4,4-bis[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)thio]-':
     '67333-58-8',
+  'Pentanoic acid, 4-methyl-': '646-07-1',
   'Pentanoic acid, 5,5,5-trifluoro-2-oxo-4-(trifluoromethyl)-, ethyl ester':
     '194039-81-1',
   'Pentanoic acid, 5,5,5-trifluoro-3-hydroxy-4-(trifluoromethyl)-':
