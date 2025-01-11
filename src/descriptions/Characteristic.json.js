@@ -408,6 +408,7 @@ export default {
   '(7E)-Perfluorotetradec-7-ene-1-sulfonic acid': '',
   '(7E)-nonadecafluorodec-7-ene-1-sulfonic acid': '',
   '(7E)-tricosafluorododec-7-ene-1-sulfonic acid': '',
+  '(7S)-Hydroprene': '',
   '(7alpha,17beta)-3,17-Bis[(oxan-2-yl)oxy]-7-{9-[(4,4,5,5,5-pentafluoropentyl)sulfanyl]nonyl}estra-1,3,5(10)-trien-6-one':
     '',
   '(7alpha,17beta)-3,17-Dihydroxy-7-{9-[(4,4,5,5,5-pentafluoropentyl)sulfanyl]nonyl}estra-1,3,5(10)-trien-6-one':
@@ -3626,7 +3627,8 @@ export default {
   '1-Hydroxy-3:2 fluorotelomer sulfonic acid': '',
   '1-Hydroxy-4:2 fluorotelomer sulfonate': '',
   '1-Hydroxy-5:2 fluorotelomer sulfonate': '',
-  '1-Hydroxy-6:2 fluorotelomer sulfonate': '',
+  '1-Hydroxy-6:2 fluorotelomer sulfonate':
+    'a biotransformation product of 6:2 fluorotelomer sulfonic acid (6:2 FTSA)',
   '1-Hydroxy-9:2 fluorotelomer sulfonic acid': '',
   '1-Hydroxychlordene': 'Request Date: 3-Mar-07 (nps.gov cas# review)',
   '1-Iodo-1,2-bis(perfluoro-n-butyl)ethane': '',
@@ -3725,7 +3727,7 @@ export default {
   '1-Nitroso-3,5-dinitro-1,3,5-triazacyclohexane': 'NWIS',
   '1-Nonadecene': '; Request Date: 14-APR-15',
   '1-Nonane sulfonate': 'NWIS',
-  '1-Nonanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-nonadecafluoro-':
+  '1-Nonanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-nonadecafluoro-***retired***use Perfluoro-1-nonanesulfonic acid':
     '',
   '1-Nonanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-nonadecafluoro-, ammonium salt':
     'PFOS, Perfluorooctane Sulfonate',
@@ -3878,7 +3880,7 @@ export default {
   '1-Octanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluoro-': '',
   '1-Octanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,8-hexadecafluoro-7(trifluoromethyl)-':
     'PFOA',
-  '1-Octanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-':
+  '1-Octanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-***retired***use 6:2 Fluorotelomer sulfonate acid':
     'Request Date: 19-JUL-17',
   '1-Octanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-, ammonium salt':
     '',
@@ -3949,7 +3951,8 @@ export default {
     '',
   '1-Pentanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,5-undecafluoro-N-[2-(phosphonooxy)ethyl]-':
     '',
-  '1-Pentanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,5-undecafluoro-': '',
+  '1-Pentanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,5-undecafluoro-***retired***use Perfluoropentanesulfonic acid':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/perfluoropentanesulfonic-acid',
   '1-Pentanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,5-undecafluoro-, ammonium salt':
     'PFOS, Perfluorooctane Sulfonate',
   '1-Pentanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,5-undecafluoro-, ammonium salt (1:1)***retired***use 1-Pentanesulfonic acid, ...., ammonium salt':
@@ -4774,7 +4777,7 @@ export default {
     '1H,1H, 2H, 2H-Perfluorodecane sulfonic acid',
   '1H,1H, 2H, 2H-Perfluorohexane sulfonic acid':
     '1H,1H, 2H, 2H-Perfluorohexane sulfonic acid',
-  '1H,1H, 2H, 2H-Perfluorooctane sulfonic acid':
+  '1H,1H, 2H, 2H-Perfluorooctane sulfonic acid***retired***use 6:2 Fluorotelomer sulfonate acid':
     '1H,1H, 2H, 2H-Perfluorooctane sulfonic acid',
   '1H,1H,10H,10H-Perfluorodecane-1,10-diol': '',
   '1H,1H,11H,11H-Perfluorotetraethylene glycol': '',
@@ -5011,8 +5014,6 @@ export default {
   "2,2',3,3',4,4',6-Heptabromodiphenyl ether***retired***use BDE-171":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3,3',4,4',6-Heptachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
-  "2,2',3,3',4,4'-HXBDE***retired***use Hexabromodiphenyl ether":
-    'Request Date: 01-MAY-13| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',3,3',4,4'-Hexachlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,2',3,3',4,5',6'-Heptachlorobiphenyl":
     'PCB Congener; Request Date: 02-MAR-07',
@@ -6504,7 +6505,7 @@ export default {
   '2,4-Pentanedione, 3-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     '',
   '2,4-Toluenediamine': '; Request Date: 02-MAR-07',
-  "2,5,2',5'-Tetrachlorobiphenyl":
+  "2,5,2',5'-Tetrachlorobiphenyl***retired***use 2,2',5,5'-Tetrachlorobiphenyl":
     'Request Date: 24-MAY-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '2,5,8,11,14-Pentaoxapentadecane, 1,1,3,3,4,4,6,6,7,7,9,9,10,10,12,12,13,13,15,15-eicosafluoro-':
     '',
@@ -9957,7 +9958,8 @@ export default {
   '3-Perfluoroheptyl propanoic acid': '3-Perfluoroheptyl propanoic acid',
   '3-Perfluorohexyl-2-hydroxypropyl acrylate': '',
   '3-Perfluoropropyl propanoate': 'Request Date: 23-MAY-23',
-  '3-Perfluoropropyl propanoic acid': '3-Perfluoropropyl propanoic acid',
+  '3-Perfluoropropyl propanoic acid***retired***use 3:3 Fluorotelomer carboxylic acid':
+    '3-Perfluoropropyl propanoic acid',
   '3-Phenoxybenzenemethanol': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   '3-Phenoxybenzoic acid': 'NWIS',
   '3-Phenoxybenzoic acid-13C6': 'NWIS',
@@ -10378,6 +10380,7 @@ export default {
   '3:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '3:2 Fluorotelomer ketone sulfonate': '',
   '3:3 Fluorotelomer carboxylate, ion(1-)': '',
+  '3:3 Fluorotelomer carboxylic acid': '',
   '3H,3H-Perfluoro-2,4-hexanedione': '',
   '3H,3H-Perfluoroheptane-2,4-dione': '',
   '3H,3H-Perfluoropropanol': '',
@@ -11788,7 +11791,9 @@ export default {
   '6:2 Fluorotelomer sulfonamido propyl amine': '',
   '6:2 Fluorotelomer sulfonamido propyl methyl amine': '',
   '6:2 Fluorotelomer sulfonamido propyl methyl amino acetic acid': '',
-  '6:2 Fluorotelomersulfonate': 'Fluorotelomer sulfonate 6:2',
+  '6:2 Fluorotelomer sulfonate acid': '',
+  '6:2 Fluorotelomer sulfonate***retired***use 6:2 Fluorotelomer sulfonate acid':
+    'Fluorotelomer sulfonate 6:2',
   '6:2 fluorotelomer dimethyl ethyl betaine': '',
   '6:4 Fluorotelomer sulfonic acid': '',
   '6H-1,3,5-Oxathiazine, 4-phenyl-2,2,6,6-tetrakis(trifluoromethyl)-': '',
@@ -13500,8 +13505,8 @@ export default {
   'Benzenamine, N-methyl-N-(2,2,3,3-tetrafluoropropyl)-': '',
   Benzene: 'Nemi.gov; Request Date: 22-JUL-14',
   'Benzene & 1,2-dichloroethane': '',
-  'Benzene Hexachloride, Alpha (BHC)':
-    'Request Date: 23-Jan-15 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Benzene Hexachloride, Alpha (BHC)***retired***use .alpha.-Hexachlorocyclohexane':
+    'Request Date: 23-Jan-15 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ https://pubchem.ncbi.nlm.nih.gov/compound/alpha-Hexachlorocyclohexane',
   'Benzene Hexachloride, Beta (BHC)***retired***use .beta.-Hexachlorocyclohexane':
     'Request Date: 23-Jan-15 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Benzene Hexachloride, Delta (BHC)***retired***use .delta.-Hexachlorocyclohexane':
@@ -13523,7 +13528,7 @@ export default {
   "Benzene, 1,1'-(1-methylheptylidene)bis[4-(1,1,2,2-tetrafluoroethoxy)-": '',
   "Benzene, 1,1'-(2,2,3,4,4,4-hexafluorobutylidene)bis-": '',
   "Benzene, 1,1'-(2,3,3,3-tetrafluoro-1-propen-1-ylidene)bis-": '',
-  "Benzene, 1,1'-[1,2-ethanediylbis(oxy)]bis[2,4,6-tribromo-":
+  "Benzene, 1,1'-[1,2-ethanediylbis(oxy)]bis[2,4,6-tribromo-***retired***use 1,2-bis(2,4,6-tribromophenoxy)ethane":
     '; Request Date: 24-MAR-14',
   "Benzene, 1,1'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-": '',
   "Benzene, 1,1'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis[3,4-dimethyl-":
@@ -13590,8 +13595,6 @@ export default {
   'Benzene, 1,2,3-tribromo-4-(2,3,4-tribromophenoxy)-':
     '; Request Date: 12-APR-12',
   "Benzene, 1,2,3-tribromo-4-(2,4,5-tribromophenoxy)-***retired***use 2,2',3,4,4',5'-Hexabromodiphenyl ether":
-    '; Request Date: 27-MAR-19',
-  "Benzene, 1,2,3-tribromo-4-(2,4,6-tribromophenoxy)-***retired***use 2,2',3,4,4',6'-Hexabromodiphenyl ether":
     '; Request Date: 27-MAR-19',
   'Benzene, 1,2,3-tribromo-4-(2,4-dibromophenoxy)-***retired***use BDE-085':
     '; Request Date: 27-MAR-19',
@@ -16185,6 +16188,7 @@ export default {
     "Includes all isomers: o,o'-, o.p'-, and p,p'-DDD. ; Request Date: 22-JUL-14",
   "DDD, o,p'- and p,p'- isomers":
     "Includes o,p'- and p,p'-DDD isomers.; Request Date: 22-JUL-14",
+  "DDD, p,p'- and DDT, o,p'- isomers": '',
   "DDE, o,o'-, o,p'-, and p,p'- isomers":
     "Includes all isomers: o,o'-, o.p'-, and p,p'-DDE.; Request Date: 22-JUL-14",
   "DDE, o,p'- and p,p'- isomers":
@@ -16219,8 +16223,6 @@ export default {
   Dead: 'Residues- Total***retired***use Residue, Total; Request Date: 18-OCT-19',
   'Dead centric diatoms': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   'Dead pennate diatoms': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
-  'Decabromobiphenyl ether(DBBE)***retired***use Decabromodiphenyl ether':
-    'Request Date: 30-May-13 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Decabromodiphenyl ether***retired***use Decabromodiphenyl oxide':
     'Nemi.gov; Request Date: 30-MAY-14| Organics, PCBs ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Decabromodiphenyl oxide':
@@ -16346,6 +16348,7 @@ export default {
     'The denisty of seawater at sea level.; Request Date: 31-JUL-09',
   'Density of water at 20 deg C':
     'The density of a particular water sample at 20 deg C.; NWIS',
+  'Density, in-place': '',
   Deoxycylindrospermopsin:
     'nbsp New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Deoxygenation constant':
@@ -16603,8 +16606,8 @@ export default {
   Dichlorodimethylmethoxybenzene: '; Request Date: 30-MAY-13',
   Dichloroethane: '; Request Date: 22-JUL-14',
   Dichloroethylene: '; Request Date: 02-MAR-07',
-  Dichlorofenthion:
-    'Request Date: 25-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  'Dichlorofenthion***retired***use Dichlofenthion':
+    'Request Date: 25-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ https://pubchem.ncbi.nlm.nih.gov/compound/Dichlofenthion',
   Dichloroiodomethane: '; Request Date: 02-MAR-07',
   'Dichloromethyl((perfluorohexyl)ethyl)silane': '',
   'Dichloromethyl(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silane': '',
@@ -17458,12 +17461,12 @@ export default {
   'Ethanol-d': '; Request Date: 02-MAR-07',
   'Ethanone, 1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)-':
     '1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)ethanone (OTNE)',
-  'Ethanone, 1-(2,3-dihydro-1,1,2,3,3,6-hexamethyl-1H-inden-5-yl)-':
+  'Ethanone, 1-(2,3-dihydro-1,1,2,3,3,6-hexamethyl-1H-inden-5-yl)-***retired***use Phantolide':
     '; Request Date: 05-DEC-12',
   'Ethanone, 1-(2,4-dichlorophenyl)-': '; Request Date: 21-NOV-14',
   'Ethanone, 1-(2,5-dichlorophenyl)-': '; Request Date: 02-MAR-07',
   'Ethanone, 1-[4-(1,1,2,2-tetrafluoroethoxy)phenyl]-': '',
-  'Ethanone, 1-[6-(1,1-dimethylethyl)-2,3-dihydro-1,1-dimethyl-1H-inden-4-yl]-':
+  'Ethanone, 1-[6-(1,1-dimethylethyl)-2,3-dihydro-1,1-dimethyl-1H-inden-4-yl]-***retired***use Celestolide':
     '; Request Date: 04-DEC-12',
   'Ethene, (1,1,2,2-tetrafluoroethoxy)-': '',
   'Ethene, 1,1,2,2-tetrafluoro-': '',
@@ -18356,8 +18359,8 @@ export default {
     '',
   'Glycine, N-ethyl-N-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]-, sodium salt (1:1)':
     '',
-  'Glycine, N-ethyl-N-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]-':
-    '',
+  'Glycine, N-ethyl-N-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]-***retired***use N-ethyl perfluorooctanesulfonamidoacetic acid':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/109702',
   'Glycine, N-ethyl-N-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]-, ammonium salt (1:1)':
     '',
   'Glycine, N-ethyl-N-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]-, ethyl ester':
@@ -18864,7 +18867,8 @@ export default {
     '',
   'Hexanoic acid, 3,3,4,4,5,5,6,6,6-nonafluoro-': '',
   'Hexanoic acid, 3-[(carboxymethyl)thio]-4,4,5,5,6,6,6-heptafluoro-': '',
-  'Hexanoic acid, 4,4,5,5,6,6,6-heptafluoro-': '',
+  'Hexanoic acid, 4,4,5,5,6,6,6-heptafluoro-***retired***use 3:3 Fluorotelomer carboxylic acid':
+    '',
   'Hexanoic acid, 4,4,5,5,6,6,6-heptafluoro-2-methyl-, methyl ester': '',
   'Hexanoic acid, 6-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-nonadecafluorononyl)oxy]-':
     '',
@@ -23559,7 +23563,8 @@ export default {
   'Perfluorobutanesulfonic anhydride': '',
   Perfluorobutanoate: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Perfluorobutanoate (anionic form)': 'Request Date: 05-Dec-19',
-  'Perfluorobutanoic acid': '',
+  'Perfluorobutanoic acid***retired***use Heptafluorobutyric acid':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/Heptafluorobutyric-acid',
   Perfluorobutanol: '422228',
   'Perfluorobutyl hydrogen sulfate': '',
   Perfluorobutylcyclohexane: '',
@@ -24701,6 +24706,10 @@ export default {
     'Polycyclic aromatiac hydrocarbons with 4 or more aromatic rings. ; Request Date: 22-JUL-14',
   'Polycyclic aromatic hydrocarbons, low molecular weight':
     'Polycyclic aromatiac hydrocarbons with 2 or 3 aromatic rings.; Request Date: 22-JUL-14',
+  'Polycyclic aromatic hydrocarbons, sum of 17':
+    'Acenaphthene ;  Acenaphthylene ;  Anthracene ;  Benzo(a)anthracene ;  Benzo(a)pyrene ;  Benzo(b)fluoranthene ;  Benzo(g,h,i)perylene ;  Benzo(k)fluoranthene ;  Chrysene ;  Dibenz(a,h)anthracene ;  Fluoranthene ;  Fluorene ;  Indeno(1,2,3-cd)pyrene ;  2-Methylnaphthalene ;  Naphthalene ;  Phenanthrene ;  Pyrene: https://www.pca.state.mn.us/sites/default/files/c-s3-06ac-2.pdf\r',
+  'Polycyclic aromatic hydrocarbons, sum of 34':
+    'PAH-17 + Benzo(e)pyrene;2,6-dimethylnaphthalene;1-Methylnaphthalene;Perylene;1-methylphenanthrene;2,3,5-trimethylnaphthalene;C1-Chrysenes;C1-Fluoranthene/Pyrene;C1-Fluorene;C1-Naphthalene;C1-Phenanthrene/Anthracene;C2-Chrysene;C2-Fluorene;C2-Naphthalene;C2-Phenanthrene/Anthracene;C3-Chrysene;C3-Fluorene;C3-Naphthalene;C3-Phenanthrene/Anthracene;C4-Chrysene;C4-Napthalene;C4-Phenanthrene/Anthracene:',
   'Polycyclic organic matter':
     ' 49 FR 31680; Aug. 8, 1984: POM is a generic term which covers hundreds of chemical substances containing two or more ring structures. These include compounds made up of only carbon and hydrogen (polycyclic aromatic hydrocarbons. or PAH), compounds with a ring nitrogen (aza and imino arenes), oxygenated species, and nitrated and chlorinated POM (+ dioxins and pesticides such as aldrin and DDT).',
   'Polycyclic organic matter, other than PAHs': '; Request Date: 12-JAN-16',
@@ -28515,7 +28524,7 @@ export default {
     '',
   'Undecanoic acid': '; Request Date: 02-MAR-07',
   'Undecanoic acid, 11-[2,2,2-trifluoro-1,1-bis(trifluoromethyl)ethoxy]-': '',
-  'Undecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heneicosafluoro-':
+  'Undecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heneicosafluoro-***retired***use Perfluoroundecanoic acid':
     '',
   'Undecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-eicosafluoro-':
     '',
