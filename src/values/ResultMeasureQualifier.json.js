@@ -93,6 +93,7 @@ export default {
     'FPR',
     'FQC',
     'FRS',
+    'FS',
     'FSD',
     'FSL',
     'FSP',

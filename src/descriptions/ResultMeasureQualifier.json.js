@@ -90,6 +90,7 @@ export default {
   FPR: 'Ongoing Precision and Recovery, failed',
   FQC: 'Quality Control, failed',
   FRS: 'Lab Reference, failed',
+  FS: 'Comparison of fractions (e.g. filtered > unfiltered) or species (e.g. isotopic Free ions > solids) are not consistent',
   FSD: 'Lab Spike Duplicate, failed',
   FSL: 'Failed. Spiked lab blank recovery not acceptable.',
   FSP: 'Failed. Surrogate spike recovery not acceptable.',

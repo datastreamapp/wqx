@@ -116,6 +116,7 @@ export default {
     'Water Quality Monitoring Data: USEPA Office of Research and Development, National Health and Environmental Effects Research Laboratory (NHEERL), Gulf Ecology Division',
   '21FLGCWW_WQX': 'Groundwater Monitoring',
   '21FLGFWF_WQX': 'Water Quality Monitoring Data',
+  '21FLGJAX_WQX': 'Water Quality Monitoring Data',
   '21FLGPC_WQX': 'Water Quality Monitoring Data',
   '21FLGTM_WQX': 'Water Quality Monitoring Data',
   '21FLGWMS_WQX': 'Water Quality Monitoring Data',
@@ -138,6 +139,7 @@ export default {
   '21FLLEON_WQX': 'Water Quality Monitoring Data',
   '21FLLOXB_WQX': 'Biological Data',
   '21FLLOX_WQX': 'Water Quality Monitoring Data',
+  '21FLMAIT_WQX': 'Water Quality Monitoring Data',
   '21FLMANA_WQX': 'Water Quality Monitoring Data',
   '21FLMAR_WQX': 'Water Quality Monitoring Data',
   '21FLMAYP_WQX': 'Water Quality Monitoring data',
@@ -170,10 +172,12 @@ export default {
   '21FLSARA_WQX': 'Surface Water, Ground Water, Biological, & Sediment.',
   '21FLSBL_WQX': 'Water Quality Monitoring Data',
   '21FLSCCF_WQX': 'Water Quality Monitoring Data',
+  '21FLSCWK_WQX': 'Water Quality Monitoring Data',
   '21FLSEAS_WQX': 'Water Quality Monitoring Data',
   '21FLSEM_WQX': 'Water Quality Monitoring Data',
   '21FLSFWM_WQX': 'Water Quality Monitoring Data',
   '21FLSGCSP': '',
+  '21FLSJUD_WQX': 'Water Quality Monitoring Data',
   '21FLSJWM_WQX': 'Water Quality Monitoring Data',
   '21FLSMRC_WQX': '',
   '21FLSUW_WQX': 'Water quality Monitoring Data',
@@ -554,8 +558,7 @@ export default {
   CSU_AWQP: '',
   CTA_WQX:
     'Craig Tribal Association (Tribal) || Craig Tribal Association (Tribal)',
-  CTCLUSI_WQX:
-    'Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal) || Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians (Tribal)',
+  CTCLUSI_WQX: '',
   CTEPO_WQX:
     'Cahuilla Band of Indians - Cahuilla Tribal Environmental Office (Tribal) || Cahuilla Band of Indians - Cahuilla Tribal Environmental Office (Tribal)',
   CTGR: 'Confederated Tribes of the Grand Ronde Community of Oregon (Tribal) || Confederated Tribes of the Grand Ronde Community of Oregon (Tribal)',

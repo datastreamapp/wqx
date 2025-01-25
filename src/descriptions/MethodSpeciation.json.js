@@ -195,6 +195,8 @@ export default {
     'A photon is a particle representing a quantum of light or other electromagnetic radiation',
   'as qPCR':
     'bacteria studies involving real-time polymerase chain reaction (qPCR) tests',
+  'as sum of congeners': 'as the sum of individual congeners',
+  'as sum of homolog': 'as the sum of homolog groups',
   'as trichromatic':
     'Trichromacy or trichromatism is the possession of three independent channels for conveying color information',
   purified:

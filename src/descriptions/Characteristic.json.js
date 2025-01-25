@@ -12921,6 +12921,8 @@ export default {
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances; Request Date: 23-SEP-16',
   'Arsonium, (carboxymethyl)trimethyl-, inner salt': '1;',
   'Artifical substrate, redundacy index': '; Request Date: 30-MAY-13',
+  'Artificial Lake (Y/N) (choice list)': '',
+  'Artificial Lake Created By': '',
   'Asahiguard AG 310': 'A fluoropolymer emulsion waterproofing agent',
   Asbestos:
     'A grayish, noncombustible fibrous material.  It consists primarily of impure magnesium silicate minerals.Nemi.gov; Request Date: 22-JUL-14',
@@ -13264,6 +13266,18 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Balsalazide-d3': '',
   'Bank Angle': '',
+  'Bank Angle Undercut-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bank Angle Undercut-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bank Angle Water to Bankfull-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bank Angle Water to Bankfull-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bank Erosion Length of 10m Segment-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bank Erosion Length of 10m Segment-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Bank Erosion, Left': '; Request Date: 26-AUG-13',
   'Bank Erosion, Right': '; Request Date: 26-AUG-13',
   'Bank Instability Erosion Class (choice list)': '',
@@ -13287,16 +13301,33 @@ export default {
     'A descriptor to characterize the general vegetative stability on the banks of a water body including excellent, fair, good, or poor.; Request Date: 02-MAR-07',
   'Bankful Angle (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Bankfull Height': '; Request Date: 04-OCT-18',
+  'Bankfull Height-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bankfull Height-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bankfull Hydraulic Radius': '',
   'Bankfull cross-sectional area': '',
   'Bankfull depth': '',
   'Bankfull discharge': '',
   'Bankfull flow velocity': '',
+  'Bankfull perimeter':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
   'Bankfull wetted perimeter': '',
   'Bankfull width': '',
   'Bankfull width-to-depth ratio': '',
+  'Bankfull/Channel-full area ratio': '',
+  'Bankfull/Channel-full depth ratio': '',
+  'Bankfull/Channel-full hydraulic radius ratio': '',
+  'Bankfull/Channel-full perimeter ratio': '',
+  'Bankfull/Channel-full width ratio': '',
+  'Bankfull/Channel-full width/depth ratio': '',
   'Bar Present (Y/N) (choice list)': '; Request Date: 04-OCT-18',
   'Bar Width': '; Request Date: 04-OCT-18',
   Barban: '; Request Date: 22-JUL-14',
+  'Bare Ground % in 1m Wide Strip to Banktop-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bare Ground % in 1m Wide Strip to Banktop-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   Barite: '; Request Date: 22-JUL-14',
   Barium: '; Request Date: 02-MAR-07',
   'Barium bis(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-5-oxooct-3-en-3-olate)':
@@ -13343,6 +13374,8 @@ export default {
     'Request Date: 9-May-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Bentazone-sodium': '',
   'Benthiavalicarb-isopropyl': '',
+  'Benthic Data Collected (Y/N) (choice list)': '',
+  'Benthic Macroinvertebrate Collection Method': '',
   'Benthic macroinvertebrate community': '; Request Date: 01-OCT-19',
   Bentonite:
     'A colloidal clay.  Consists primarily of montmorillonite.; Request Date: 02-MAR-07',
@@ -14200,6 +14233,8 @@ export default {
   'Bifenazate diazene':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   Bifenthrin: '; Request Date: 02-APR-09',
+  'Bifurcation ratio':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868. Ratio of the number of streams in each order to the number of streams in the next highest order.',
   'Big trees (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Bio-toxin':
     'Any poison produced by a biological organism.; Request Date: 02-MAR-07',
@@ -15040,6 +15075,8 @@ export default {
   Cannabidiol: '; Request Date: 22-JUL-14',
   Cannabinol: '; Request Date: 22-JUL-14',
   'Canopy Cover': 'NRSA; Request Date: 01-SEP-16',
+  'Canopy Cover by Big Trees (choice list)': '',
+  'Canopy Cover by Small Trees (choice list)': '',
   'Canopy Cover, Left Bank': '; Request Date: 26-AUG-13',
   'Canopy Cover, Right Bank': '; Request Date: 26-AUG-13',
   'Canopy Measure': '',
@@ -15222,6 +15259,15 @@ export default {
   'Cell Volume': '; Request Date: 02-MAR-07',
   Cellulose: '',
   'Cellulose, 2,2,3,3,4,4,4-heptafluorobutanoate, ethyl ether': '',
+  'Center Channel % Canopy Cover': '',
+  'Center Channel Canopy Cover Facing Downstream (choice list)':
+    'Lazorchak, J.M., Klemm, D.J. and Peck, D.V. eds., 1998. Environmental monitoring and assessment program surface waters: field operations and methods for measuring the ecological condition of wadeable streams.',
+  'Center Channel Canopy Cover Facing Left Bank (choice list)':
+    'Lazorchak, J.M., Klemm, D.J. and Peck, D.V. eds., 1998. Environmental monitoring and assessment program surface waters: field operations and methods for measuring the ecological condition of wadeable streams.',
+  'Center Channel Canopy Cover Facing Right Bank (choice list)':
+    'Lazorchak, J.M., Klemm, D.J. and Peck, D.V. eds., 1998. Environmental monitoring and assessment program surface waters: field operations and methods for measuring the ecological condition of wadeable streams.',
+  'Center Channel Canopy Cover Facing Upstream (choice list)':
+    'Lazorchak, J.M., Klemm, D.J. and Peck, D.V. eds., 1998. Environmental monitoring and assessment program surface waters: field operations and methods for measuring the ecological condition of wadeable streams.',
   'Centrifuge Moisture Equivalent': 'Centrifuge Moisture Equivalent',
   Cephalexin: 'NWIS',
   Cephalothin: '; Request Date: 02-MAR-07',
@@ -15271,6 +15317,16 @@ export default {
   'Channel type (choice list)': '; Request Date: 24-AUG-10',
   'Channel vegetative cover':
     'A description of the vegetative cover surrounding the channel of a stream.; Request Date: 02-MAR-07',
+  'Channel-Full Height-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Channel-Full Height-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Channel-full area': '',
+  'Channel-full depth': '',
+  'Channel-full hydraulic radius': '',
+  'Channel-full perimeter': '',
+  'Channel-full width': '',
+  'Channel-full width-to-depth ratio': '',
   'Channelization Type': '',
   'Chemical oxygen demand':
     'A measure of the oxygen equivalent of the organic matter content of a sample that is susceptible to oxidation by a strong chemical oxidant, usually reported as COD as mg O2/L.Nemi.gov; Request Date: 22-JUL-14',
@@ -15782,6 +15838,7 @@ export default {
   Coumestrol: '; Request Date: 10-JUL-13',
   Count: '; Request Date: 18-JUL-08',
   'Count%': '; Request Date: 10-JUL-13',
+  'Count, class': '',
   'Count, species': 'Information,4 (Unique Taxa)',
   'Count, species 25-30 mm size class':
     'Count determines the total number of (a collection of items).; Request Date: 19-MAR-19',
@@ -15860,6 +15917,13 @@ export default {
     'Free cyanide is a chemical definition that refers to the sum of molecular hydrogen cyanide (HCN)\r and cyanide ion (CN-\r). Methods that determine operationally defined categories of cyanide species, such\r as CATC and Total Cyanide, have also been included. https://www.epa.gov/sites/default/files/2016-08/documents/cyanide-clarification-free-and-total-cyanide-analysis-safe-drinking-water.pdf',
   Cyanides: 'Nemi.gov; Request Date: 24-SEP-19',
   'Cyanides amenable to chlorination (HCN & CN)': '; Request Date: 02-MAR-07',
+  'Cyano Habs- Benthic Mat (Y/N) (choice list)': '',
+  'Cyano Habs- Dead Wildlife (Y/N) (choice list)': '',
+  'Cyano Habs- No Bloom (Y/N) (choice list)': '',
+  'Cyano Habs- Other (Y/N) (choice list)': '',
+  'Cyano Habs- Pea Soup (Y/N) (choice list)': '',
+  'Cyano Habs- Surface Water Streaks (Y/N) (choice list)': '',
+  'Cyano Habs- Thick Scum (Y/N) (choice list)': '',
   'Cyanobacteria fluorescence of phycoerythrin (fPE)': 'NWIS',
   'Cyanobacteria, visual observation': 'Physical,4; ',
   'Cyanobacterial abundance from a phycocyanin sensor (PC)': 'NWIS',
@@ -16361,9 +16425,11 @@ export default {
   'Deposits in Water': '',
   Depth:
     'The distance from the top to the bottom of an object, measured in units of length.; Request Date: 02-MAR-07',
+  'Depth Method (choice list)': '',
   'Depth by Pole': '',
   'Depth by Sonar': '',
   'Depth from surface to lower boundary of soil layer': '',
+  'Depth of Integrated Sampler': '',
   'Depth of pond or reservoir in feet':
     'The distance from the top to the bottom of a pond or reservoir in feet.; NWIS',
   'Depth of water column': '; Request Date: 23-APR-15',
@@ -16964,6 +17030,7 @@ export default {
     'The uptake or amount of dissolved oxygen absorbed in a media, usually water.; Request Date: 02-MAR-07',
   'Distance From Left Bank': '1; Request Date: 04-OCT-18',
   'Distance From Right Bank': '',
+  'Distance Upstream from Transect 1': '',
   'Distance along transect': 'NARS Mobile',
   'Distance from Shore to Riparian': '',
   'Distance from/to':
@@ -17056,6 +17123,7 @@ export default {
     'Particle size refers to the size of individual particles that make up a material.',
   'Dominant particle size class':
     'Particle size refers to the size of individual particles that make up a material.',
+  'Dominant particle size class (choice list)': '',
   'Domoic acid': 'NWIS',
   Donepezil: '; Request Date: 30-MAY-13',
   Dopamine: 'NWIS',
@@ -17097,6 +17165,7 @@ export default {
   'Ecgonine Methyl Ester': 'Request Date: 19-Dec-18 (nps.gov cas# review)',
   'Ecgonine Methyl Ester-D3': '; Request Date: 22-JUL-14',
   'Ecgonine methyl ester hydrochloride': '; Request Date: 22-JUL-14',
+  'Ecological Integrity (choice list)': '',
   Ecolyst: '',
   Edifenphos: '; Request Date: 22-JUL-14',
   Efavirenz: 'NWIS',
@@ -17141,6 +17210,7 @@ export default {
   Emergence: 'Nemi.gov; Request Date: 24-SEP-19',
   'Emergent, aquatic vegetation along bank (choice list)': '',
   'Emergent, aquatic vegetation in channel (choice list)': '',
+  'Emergent/Floating Macrophyte Coverage (choice list)': '',
   Enalapril: '; Request Date: 24-MAR-14',
   'Enalapril-d5': '; Request Date: 24-MAR-14',
   Enalaprilat: 'NWIS',
@@ -17172,6 +17242,8 @@ export default {
   'Enterohemorrhagic E. coli Shiga toxin-2 gene': 'NWIS',
   'Enterotoxin Type B, Staphylococcus aureus': '',
   Enterovirus: 'RNA Virus; NWIS',
+  'Entire Steam Gradient':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868. Difference in elevation between main stem stream network points that are 85% and 10% of the distance upstream of the watershed outlet divided by the distance between the 85% and 10% points.',
   'Entrenchment ratio': '',
   'Epi-chlorotetracycline': '; Request Date: 01-JUL-11',
   'Epi-iso-chlorotetracycline': '; Request Date: 01-JUL-11',
@@ -17202,6 +17274,10 @@ export default {
   'Eroded Fins Present (Y/N) (choice list)':
     'National Park Service, contact nps.gov; Request Date: 08-JUN-16',
   'Erosion Causes': '',
+  'Erosion within 1 Meter of Transect-Left Bank (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Erosion within 1 Meter of Transect-Right Bank (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Erythritol anhydride': 'Nemi.gov; Request Date: 25-SEP-19',
   Erythrohydrobupropion: '',
   Erythromycin: 'Nemi.gov; Request Date: 02-MAR-07',
@@ -17961,14 +18037,25 @@ export default {
   'Fish Cover - Undercut Banks (choice list)': '; Request Date: 04-OCT-18',
   'Fish Cover - Woody debris >0.3m (BIG) (choice list)':
     '; Request Date: 04-OCT-18',
+  'Fish Cover by Aquatic and Inundated Herbaceous Vegetation (choice list)': '',
+  'Fish Cover by Boulders (choice list)': '',
+  'Fish Cover by Human Structures (choice list)': '',
+  'Fish Cover by Ledges/Sharp Dropoffs (choice list)': '',
+  'Fish Cover by Live Trees (choice list)': '',
+  'Fish Cover by Overhanging Vegetation (choice list)': '',
+  'Fish Cover by Woody Brush/Debris (choice list)': '',
+  'Fish Cover by Woody Debris/Snags (choice list)': '',
   'Fish Description (text)': 'Information,4;',
   'Fish Kill (Y/N) (choice list)': '',
   'Fish Kill, Severity (choice list)':
     'A descriptor used to describe fish mortality, including none, moderate, mild, serious, or extreme.; Request Date: 02-MAR-07',
+  'Fish Plug Collected (Y/N) (choice list)': '',
   'Fish Recaptured (Y/N) (choice list)': 'Information,4; ',
+  'Fish Sampling Irregularity (choice list)': '',
   'Fish Status After Sampling (choice list)': 'Information,4;',
   'Fish Tag Number (text)':
     'Information,4; this is intended for recording PIT or Floy tag numbers used to track individual fish in-situ.',
+  'Fish Tissue Collected (Y/N) (choice list)': '',
   'Fish average condition index': '',
   'Fish community': '; Request Date: 01-OCT-19',
   'Fish condition factor':
@@ -18014,6 +18101,14 @@ export default {
   'Flonicamid-d3': '11;',
   'Flood Frequency': '',
   'Flood prone area width': '',
+  'Floodplain Presence (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Floodplain Width':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Floodplain Width-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Floodplain Width-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   Florasulam: '',
   Florfenicol: 'NWIS',
   'Florfenicol-d3': '',
@@ -18519,6 +18614,9 @@ export default {
   'Habitat Quality (choice list)': '',
   'Habitat Total Score': '; Request Date: 25-AUG-16',
   'Habitat Type (choice list)': '; Request Date: 11-APR-17',
+  'Habitat Type, Rapids (%)': '',
+  'Habitat Type, Steps (%)':
+    'An estimate of the portion of a stream reach consisting of steps which occur when a blockage (due to bedrock or large woody debris) is created in the stream creating a step-like structure in the longitudinal profile of the stream',
   'Habitat cover, brush and log (%)': 'Physical,14;',
   'Habitat rating (choice list)': 'Information,4; Request Date: 17-DEC-10',
   'Habitat rating, % of ideal': 'Information,4; Request Date: 15-MAR-11',
@@ -18602,6 +18700,10 @@ export default {
   Heptachlor: 'Nemi.gov; Request Date: 22-JUL-14',
   'Heptachlor and Heptachlor epoxide': '',
   'Heptachlor epoxide': 'Nemi.gov; Request Date: 22-JUL-14',
+  'Heptachlor epoxide A':
+    '(isomer in which a part of the molecule is flipped inside a ring); Request Date: 11-OCT-12',
+  'Heptachlor epoxide B':
+    '(isomer in which a part of the molecule is flipped outside a ring); Request Date: 23-JAN-25 ',
   'Heptachloro-2-norbornene': '; Request Date: 02-MAR-07',
   Heptachlorobiphenyl: '; Request Date: 02-MAR-07',
   'Heptachlorodibenzo-p-dioxin': '; Request Date: 22-JUL-14',
@@ -18923,6 +19025,9 @@ export default {
   Homosalate: 'NWIS',
   'Horiz.Dist.Undercut Banks': '; Request Date: 29-JUN-10',
   'Horizontal Distance from waterline to high water mark': '',
+  'Horizontal Distance of Flooding': '',
+  'Horizontal Distance to High Water Mark of Drawdown': '',
+  'Horizontal Drawdown 1m or Greater': '',
   'Horizontal Secchi Disk': '; Request Date: 08-OCT-19',
   "Hornblende amphibole***retired***use 2,5,2',5'-Tetrachlorobiphenyl":
     '; Request Date: 15-JUN-16',
@@ -18936,6 +19041,7 @@ export default {
     '; Request Date: 04-OCT-18',
   'Human Influence - Mining Activity (choice list)':
     '; Request Date: 04-OCT-18',
+  'Human Influence - Other (choice list)': '',
   'Human Influence - Park/Lawn (choice list)': '; Request Date: 04-OCT-18',
   'Human Influence - Pasture/Range/Hay Field (choice list)':
     '; Request Date: 04-OCT-18',
@@ -18979,9 +19085,13 @@ export default {
     'A complex combination of hydrocarbons produced by thermal cracking and absorber operations and by distillation of crude oil.  It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately minus 164.degree.C to minus 0.5.degree.C (-263.degree.F to 31.degree.F).',
   'Hydrocarbons, C10-19, Light petroleum':
     '1;https://www2.gov.bc.ca/assets/gov/environment/research-monitoring-and-reporting/monitoring/emre/bc_lab_manual_leph-heph_calculation_06nov2015.pdf',
+  'Hydrocarbons, C10-19, Light petroleum minus LMW PAH':
+    'LEPH  calculated as Extractable Petroleum Hydrocarbons (EPH10-19) minus Acenaphthene, Acridine, Anthracene, Fluorene, Naphthalene and Phenanthrene',
   'Hydrocarbons, C10-28': 'NWIS',
   'Hydrocarbons, C19-32, Heavy petroleum':
     '1;https://www2.gov.bc.ca/assets/gov/environment/research-monitoring-and-reporting/monitoring/emre/bc_lab_manual_leph-heph_calculation_06nov2015.pdf',
+  'Hydrocarbons, C19-32, Heavy petroleum minus HMW PAH':
+    'HEPH calcualted as Extractable Petroleum Hydrocarbons (EPH19-32) minus Benz(a)anthracene, Benzo(a)pyrene, Fluoranthene, and Pyrene.',
   'Hydrocarbons, C24-36': 'NWIS',
   'Hydrocarbons, C25-36': 'NWIS',
   'Hydrocarbons, C28-C40': 'NWIS',
@@ -19143,6 +19253,7 @@ export default {
   Imipramine: '; Request Date: 02-MAR-07',
   'Immediate oxygen demand': '; Request Date: 10-SEP-14',
   'Impermeable Layer Present (Y/N) (choice list)': '',
+  'In-Channel Features Description (text)': 'e.g., bars, islands, shelves',
   'Incised Height': '; Request Date: 04-OCT-18',
   Indan: '; Request Date: 02-MAR-07',
   Indapamide: 'NWIS',
@@ -19526,7 +19637,11 @@ export default {
     'EPA Substance Registry System - www.epa.gov/srs; Request Date: 22-MAY-18',
   Lactonitrile: 'Nemi.gov; Request Date: 25-SEP-19',
   'Lake Area': '',
+  'Lake Clear to Bottom': '',
   'Lake Depth Strata (choice list)': '',
+  'Lake Level Changes': '',
+  'Lake Shape Compares with Map': '',
+  'Lake Type (choice list)': '',
   'Lake condition (choice list)':
     'A one-word descriptor to characterize the overall condition of a lake, including excellent, fair, good, or poor.; Request Date: 02-MAR-07',
   'Lake or reservoir elevation': 'NWIS',
@@ -19561,6 +19676,8 @@ export default {
     'The decrease of atmospheric termperature with increase of elevation vertically above a given location.',
   'Large Woody Debris - LWD density (choice list)':
     'NRSA; Request Date: 11-APR-17',
+  'Large Woody Debris Diameter': '',
+  'Large Woody Debris Length': '',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.1-<0.3m; Len:1.5-5m)':
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.1-<0.3m; Len:5-15m)':
@@ -19653,6 +19770,9 @@ export default {
     '; Request Date: 04-OCT-18',
   'Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:>0.8m; Len:>15m)':
     '; Request Date: 04-OCT-18',
+  'Large Woody Debris Total Pieces': '',
+  'Large Woody Debris Volume': '',
+  'Large Woody Debris Volume per Bankfull Area': '',
   'Larkspur alkaloid': '; Request Date: 02-MAR-07',
   'Larvae in Gill Chambers or Attached to Abdomen': '; Request Date: 31-MAR-15',
   Lasalocid: 'NWIS',
@@ -19830,6 +19950,7 @@ export default {
   'Lithology code': '; Request Date: 30-MAY-13',
   'Litter Coverage': '',
   'Littoral Cover Complexity Index': '; Request Date: 07-MAR-16',
+  'Littoral Depth': '',
   'Littoral Fish Microhabitat: Cover Class': '',
   'Littoral Fish Microhabitat: Cover Type': '',
   'Littoral Fish Microhabitat: Human Disturbance': '',
@@ -19906,6 +20027,9 @@ export default {
   'Macrohabitat Type - Pool': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Tributary Mouth': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Unconstrained Channel': 'GRE; Request Date: 01-SEP-16',
+  'Macroinvertebrate Dominant Habitat': '',
+  'Macroinvertebrate Habitat Channel Type': '',
+  'Macroinvertebrate Habitat Substrate Type': '',
   'Macroinvertebrate Multi-Metric Index (MMI), Taxonomic Richness':
     'MMI, Taxonomic Richness',
   'Macroinvertebrate Multi-Metric Index (MMI), non-insect organisms':
@@ -19915,8 +20039,14 @@ export default {
   'Macroinvertebrate Multi-Metric Index (MMI), taxa, pollution tolerance value (PTV) 2-4':
     'MMI, taxa, pollution tolerance value (PTV) 2-4',
   'Macroinvertebrate Multi-Metric Index (MMI), top 3 taxa': 'MMI, top 3 taxa',
+  'Macroinvertebrate Secondary Habitat': '',
   Macroinvertebrates:
     'Animals large enough to be seen without magnification that have no backbone.; Request Date: 02-MAR-07',
+  'Macrophyte Cover Total (choice list)': '',
+  'Macrophyte Cover by Emergent (choice list)': '',
+  'Macrophyte Cover by Floating (choice list)': '',
+  'Macrophyte Cover by Submergent (choice list)': '',
+  'Macrophyte Density (choice list)': '',
   'Macrophyte cover': '',
   'Macrophytes Extend Lakeward (choice list)': 'Information,4; ',
   'Macrophytes covering streambed (emergent and submerged) (choice list)':
@@ -20035,6 +20165,7 @@ export default {
   'Metalaxyl-M': '; Request Date: 29-NOV-10',
   'Metalaxyl-d6': '',
   Metaldehyde: '; Request Date: 02-MAR-07',
+  Metalimnion: '',
   Metals:
     'An element which is crystalline when solid and may be characterized by opacity, ductility, conductivity, and a unique luster when freshly fractured. It yields positively charged ions in aqueous solutions of its salts.; Nemi.gov; Request Date: 25-SEP-19',
   'Metaphosphoric acid (HPO3), aluminum salt':
@@ -20621,6 +20752,8 @@ export default {
   Mortality: '; Request Date: 10-DEC-09',
   'Moss Stream Reach Coverage Average (choice list)':
     '; Request Date: 01-AUG-18',
+  'Motor Boat Density (choice list)': '',
+  'Motor Boat Restrictions (choice list)': '',
   'Motor oil': 'Unspecified petroleum hydrocarbon.; Request Date: 02-MAR-07',
   'Motor oil range organic compounds': 'NWIS',
   'Mottles Present (Y/N) (choice list)': '',
@@ -22302,6 +22435,7 @@ export default {
   'Other Hydrologic Evidence: Sphagnum moss (choice list)': '',
   'Other Hydrologic Evidence: Stunted or stressed plants (choice list)': '',
   'Otolith Collected (Y/N) (choice list)': '',
+  'Outlet Dams (choice list)': '',
   'Overhead Cover': '; Request Date: 29-JUN-10',
   Oxacillin: '; Request Date: 10-JUL-13',
   Oxadiazon: '; Request Date: 02-MAR-07',
@@ -22318,6 +22452,7 @@ export default {
   'Oxazolidine, 4,4-dichloro-2,2,5,5-tetrafluoro-3-(trifluoromethyl)-': '',
   'Oxazolidine, 4-methyl-5-(phenylmethyl)-2,2-bis(trifluoromethyl)-': '',
   'Oxazolidine, 4-methyl-5-phenyl-2,2-bis(trifluoromethyl)-': '',
+  'Oxbow/Riverine Lake (Y/N) (choice list)': '',
   Oxcarbazepine: '; Request Date: 19-JUN-14',
   Oxetane: '; Request Date: 02-MAR-07',
   'Oxetane, 2,2,3,3-tetrafluoro-, homopolymer, fluorinated': '',
@@ -22813,8 +22948,28 @@ export default {
   'Particle Number, 70-100 nm': '',
   'Particle Number, > 200 nm': '',
   'Particle Number, Total Count': '',
+  'Particle Size Center of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle Size Left Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle Size Left-Center Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle Size Right Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle Size Right-Center Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Particle distribution':
     'An assessment of the numbers and kinds of particles arranged in a specific area.; Request Date: 02-MAR-07',
+  'Particle embeddedness % Center of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle embeddedness % Left Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle embeddedness % Left-Center Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle embeddedness % Right Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Particle embeddedness % Right-Center Edge of Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Particle size':
     'Particle size refers to the size of individual particles that make up a material.; Request Date: 02-MAR-07',
   'Particle size (size/range in result Particle Size Basis)':
@@ -23676,7 +23831,6 @@ export default {
   'Perfluorohexanesulfinate zinc salt': '',
   Perfluorohexanesulfonamide: '',
   Perfluorohexanesulfonate: 'Request Date: 22-JUL-14',
-  'Perfluorohexanesulfonate (PFHxS)': 'Request Date: 01-OCT-21',
   'Perfluorohexanesulfonic acid': 'Request Date: 03-MAY-13',
   Perfluorohexanoate: 'Request Date: 30-JAN-14, CAS# 307-24-4',
   'Perfluorohexanoate (anionic form)': 'Request Date: 05-Dec-19',
@@ -24895,6 +25049,7 @@ export default {
   'Pravastatin-d3': '',
   Prazepam: '; Request Date: 22-JUL-14',
   Praziquantel: '',
+  'Pre-European Lake (Y/N) (choice list)': '',
   Precipitation:
     'Rain, snow or sleet that falls from clouds.; Request Date: 02-MAR-07',
   'Precipitation (CA SWAMP) (choice list)':
@@ -24918,6 +25073,7 @@ export default {
     '; Request Date: 31-JUL-18',
   'Precipitation Last 24hrs (CA SWAMP) (choice list)':
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',
+  'Precipitation amount last event': '',
   'Precipitation during activity (choice list)':
     'The amount of precipitation during a specified activity reported from a controlled list of acceptable values.; Request Date: 02-MAR-07',
   'Precipitation event duration':
@@ -25352,6 +25508,8 @@ export default {
   'Propanoic acid, 2-bromo-': '2-Bromopropionic acid',
   'Propanoic acid, 2-bromo-3,3,3-trifluoro-2-(trifluoromethyl)-, ethyl ester':
     '',
+  "Propanoic acid, 3,3'-thiobis-":
+    'https://pubchem.ncbi.nlm.nih.gov/compound/8096',
   'Propanoic acid, 3,3,3-trifluoro-, 2,2,3,3-tetrafluoropropyl ester': '',
   'Propanoic acid, 3,3,3-trifluoro-2,2-bis(trifluoromethyl)-': '',
   'Propanoic acid, 3,3,3-trifluoro-2-(trifluoromethyl)-, 2-methylpropyl ester':
@@ -25569,6 +25727,7 @@ export default {
   Ptilomyia: 'NWIS',
   Ptilostomis: 'TAXON: Animalia Kingdom; NWIS',
   Ptygura: 'TAXON: Animalia Kingdom; NWIS',
+  'Public Access (Y/N) (choice list)': '',
   'Pump efficiency':
     'The percentage at which a pump operates as compared to its theoretical maximum achievable efficiency.; Request Date: 02-MAR-07',
   'Pump hours': 'The number of hours a pump is used.; Request Date: 30-MAY-13',
@@ -26020,6 +26179,7 @@ export default {
   'Reconstructed Mass': '',
   'Recreation Use Disturbance (choice list)': '',
   'Recreational Use': '',
+  'Recreational Value (choice list)': '',
   'Redoximorphic Features (%)': '',
   'Redoximorphic Features (choice list)': '',
   'Redoximorphic Features Color: Chroma': '',
@@ -26032,6 +26192,8 @@ export default {
     'DDOEE url: http://doee.dc.gov/service/water-district; Request Date: 22-SEP-14',
   'Relative Density Species':
     'The density of a species relative to the total densities of all species.; Request Date: 06-JUL-13',
+  'Relative Water Clarity (choice list)': '',
+  'Relative Wind Condition (choice list)': '',
   'Relative abundance': 'NLA; Request Date: 27-APR-16',
   'Relative humidity':
     'The ratio of the actual amount of moisture in the air and the maximum amount of moisture in the air at a given temperature.; Request Date: 02-MAR-07',
@@ -26124,6 +26286,11 @@ export default {
   'Riparian - Row crops (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Riparian - Trash (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Riparian Area Description': '',
+  'Riparian Channel % Canopy Cover': '',
+  'Riparian Channel Canopy Cover Left Bank-Left (choice list)':
+    'Fitzpatrick, F. A., I. R. Waite, P. J. D’Arconte, M. R. Meador, M. A. Maupin, and M. E. Gurtz. 1998. Revised methods for characterizing stream habitat in the National Water-Quality Assessment Program Raleigh, North Carolina. U.S. Geological Survey Water-Resources Investigations Report 98-4052.',
+  'Riparian Channel Canopy Cover Right Bank-Right (choice list)':
+    'Fitzpatrick, F. A., I. R. Waite, P. J. D’Arconte, M. R. Meador, M. A. Maupin, and M. E. Gurtz. 1998. Revised methods for characterizing stream habitat in the National Water-Quality Assessment Program Raleigh, North Carolina. U.S. Geological Survey Water-Resources Investigations Report 98-4052.',
   'Riparian Cover Complexity Index': '; Request Date: 07-MAR-16',
   'Riparian Disturbance Intensity-Extent Index': '; Request Date: 07-MAR-16',
   'Riparian Erosion': '',
@@ -26283,6 +26450,7 @@ export default {
   'Scotchgard PM 490': 'A fluorochemical stain repellant/release agent (3M Co.',
   'Scotchgard PM 930':
     'A fluoro-containing water-resistant and oil-resistant modifier (3M)',
+  'Scum (Y/N) (choice list)': '',
   Scyphozoa: 'TAXON: Animalia Kingdom; NWIS',
   'Sea waves severity (choice list)':
     'A one-digit numerical code ranging from 1 to 4 to describe the severity of sea waves.; Request Date: 02-MAR-07',
@@ -26309,6 +26477,14 @@ export default {
   Sediment:
     'Any material transported by water which will ultimately settle to the bottom after the water loses its transporting power.(; Request Date: 10-SEP-14',
   'Sediment (choice list)': '; Request Date: 07-JUL-17',
+  'Sediment Class-Left Bank (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Sediment Class-Right Bank (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Sediment Code-Left Bank (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Sediment Code-Right Bank (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Sediment Deposition':
     'A measure of sediment deposition as indicated by the formation or expansion of islands and/or point bars within a stream, as defined by Rapid Bioassessment Protocols (RBP)..; Request Date: 25-AUG-16',
   'Sediment Depth':
@@ -26373,6 +26549,15 @@ export default {
   'Shore Type - Other revetment': 'GRE; Request Date: 01-SEP-16',
   'Shore Type - Riprap': 'GRE; Request Date: 01-SEP-16',
   'Shore Type - Stable Bank': 'GRE; Request Date: 01-SEP-16',
+  'Shoreline Characteristics - Agriculture (choice list)': '',
+  'Shoreline Characteristics - Bare Ground (choice list)': '',
+  'Shoreline Characteristics - Development (choice list)': '',
+  'Shoreline Characteristics - Forest (choice list)': '',
+  'Shoreline Characteristics - Grass (choice list)': '',
+  'Shoreline Characteristics - Shore Modifications (choice list)': '',
+  'Shoreline Characteristics - Shrub (choice list)': '',
+  'Shoreline Characteristics - Wetland (choice list)': '',
+  'Shoreline Flooding (Y/N) (choice list)': '',
   'Shrub Coverage': '',
   Sida: 'NWIS',
   'Side Channel (Y/N) (choice list)': '; Request Date: 04-OCT-18',
@@ -26602,6 +26787,8 @@ export default {
   'Site Erosion (text)': '',
   'Site Sampleability Detail': '',
   'Site Sampleability Status': '',
+  'Site Sampled (Y/N) (choice list)': '',
+  'Site Verified (Y/N) (choice list)': '',
   'Site Verified By GPS': '',
   'Site Verified By Local Contact': '',
   'Site Verified By Other': '',
@@ -26823,6 +27010,8 @@ export default {
   'Sodium perfluorodecanesulfonate': '',
   'Sodium perfluorodecanoate': '',
   'Sodium perfluorododecanoate': '',
+  'Sodium perfluoroethanesulfonate':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/23680005',
   'Sodium perfluorohexanesulfonate': '',
   'Sodium perfluorohexylperfluorooctylphosphinate': '',
   'Sodium perfluorooctanoate': '',
@@ -26994,6 +27183,9 @@ export default {
   'Staphylococcus aureus': '; Request Date: 02-MAR-07',
   Starlicide: 'Request Date: 2-Apr-15 (nps.gov cas# review)',
   'Static level': '',
+  'Station Dropped (Y/N) (choice list)': '',
+  'Station Relocated (Y/N) (choice list)': '',
+  'Station is an Island (Y/N) (choice list)': '',
   Stavudine: 'NWIS',
   'Stearic acid': '; Request Date: 02-MAR-07',
   Stearonitrile: '; Request Date: 02-MAR-07',
@@ -27020,6 +27212,8 @@ export default {
   'Storm water flow': 'The flow or movement of storm water.; NWIS',
   'Storm water flow (choice list)':
     'The flow or movement of storm water.; picklist ; SNEP',
+  'Strahler Stream Order':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
   'Straight run wide cut kerosene (petroleum)':
     'A complex combination of hydrocarbons obtained as a wide cut hydrocarbon fuel cut from atmospheric distillation and boiling in the range of approximately 70&#176;C to 220&#176;C (158&#176;F to 428&#176;F).; Request Date: 03-AUG-10',
   Strandesia: 'NWIS',
@@ -27034,6 +27228,8 @@ export default {
     'A term to characterize the general physical appearance of a stream, including clear, milky, foamy, muddy, green, and others.; Request Date: 02-MAR-07',
   'Stream Reach Average - Canopy Cover % (Densiometer)':
     '; Request Date: 01-AUG-18',
+  'Stream Segment Gradient':
+    '"https://irma.nps.gov/DataStore/Reference/Profile/2259868. Difference in the upstream elevation of the stream segment ',
   'Stream Unit Type (choice list)': '; Request Date: 24-AUG-10',
   'Stream bankfull width': '; Request Date: 09-JUN-15',
   'Stream condition (text)':
@@ -27064,6 +27260,16 @@ export default {
   'Stream width measure': '; Request Date: 02-MAR-07',
   'Stream-side or littoral vegetative cover alteration (Y/N) (choice list)':
     'Information,4;',
+  'StreamStats 100 year Flood (1% AEP)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
+  'StreamStats 2 Year Flood (50% AEP)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
+  'StreamStats 50 Year Flood (2% AEP)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
+  'StreamStats Mean Annual Flow':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
+  'StreamStats Watershed Area':
+    'minus the downstream elevation of the stream segment divided by the length of the stream segment."',
   Streptococcus: 'TAXON: Monera Kingdom; Request Date: 02-MAR-07',
   Streptognatha: 'NWIS',
   Streptomycin: '; Request Date: 02-MAR-07',
@@ -27101,6 +27307,7 @@ export default {
   'Submerged Cover (%)': '; Request Date: 29-JUN-10',
   'Submerged Vegetation Habitat Type (%)':
     'Information,4; Request Date: 14-MAY-10',
+  'Submergent Macrophyte Coverage (choice list)': '',
   Subsample_A: 'GLENDA Biological Data Migration; Request Date: 14-APR-17',
   Subsample_B: 'GLENDA Biological Data Migration; Request Date: 14-APR-17',
   Subsample_C: 'GLENDA Biological Data Migration; Request Date: 06-JAN-24',
@@ -27116,6 +27323,10 @@ export default {
     'A general description of the substrate type within a sampling reach consisting of small-sized boulders.; Request Date: 02-MAR-07',
   'Substrate - clay':
     'A general description of the substrate type within a sampling reach consisting of medium-sized clay.; Request Date: 01-APR-13',
+  'Substrate - clay, coarse':
+    'A general description of the substrate type within a sampling reach consisting of coarse clay.',
+  'Substrate - clay, fine to very fine':
+    'A general description of the substrate type within a sampling reach consisting of fine to very fine clay.',
   'Substrate - clay/fine partic. org. matt.':
     'A general description of the substrate type within a sampling reach consisting of a mixture of clay and fine particulate organic matter.; Request Date: 02-MAR-07',
   'Substrate - claypan soil':
@@ -27134,6 +27345,8 @@ export default {
     'A general description of the substrate type within a sampling reach consisting of gravel.; Request Date: 02-MAR-07',
   'Substrate - gravel, coarse':
     'A general description of the substrate type within a sampling reach consisting of coarse gravel.; Request Date: 02-MAR-07',
+  'Substrate - gravel, coarse to medium':
+    'A general description of the substrate type within a sampling reach consisting of coarse to medium-sized gravel.',
   'Substrate - gravel, fine':
     'A general description of the substrate type within a sampling reach consisting of fine gravel.; Request Date: 02-MAR-07',
   'Substrate - gravel, medium':
@@ -27174,10 +27387,21 @@ export default {
     'A description of substrate type within a habitat consisting of submerged logs.; Request Date: 02-MAR-07',
   'Substrate - submerged vegetation':
     'A general description of submerged vegetation within a stream habitat.; Request Date: 02-MAR-07',
+  'Substrate Color (choice list)': '',
+  'Substrate Cover by Bedrock (choice list)': '',
+  'Substrate Cover by Boulders (choice list)': '',
+  'Substrate Cover by Cobble (choice list)': '',
+  'Substrate Cover by Gravel (choice list)': '',
+  'Substrate Cover by Organic, Leaf Pack, Detritus (choice list)': '',
+  'Substrate Cover by Sand (choice list)': '',
+  'Substrate Cover by Silt, Clay, or Muck (choice list)': '',
+  'Substrate Cover by Vegetation/Other (choice list)': '',
+  'Substrate Cover by Woody Debris (choice list)': '',
   'Substrate Description (text)': '; Request Date: 05-SEP-17',
   'Substrate Dominant, Channel (choice list)': '; Request Date: 26-AUG-13',
   'Substrate Dominant, Transect (choice list)': '; Request Date: 26-AUG-13',
   'Substrate Embeddedness': '',
+  'Substrate Odor (choice list)': '',
   'Substrate Origin': '',
   'Substrate Quality': '',
   'Substrate Size Class, Midpoint': '',
@@ -27187,6 +27411,8 @@ export default {
     'National Park Service, contact nps.gov; Request Date: 04-JUN-15',
   'Substrate algae color': '',
   'Substrate algae, % (choice list)': '',
+  'Substrate – pebbles':
+    'A general description of the substrate type within a sampling reach consisting of pebbles.',
   'Substrate, clay, medium':
     'A general description of the substrate type within a sampling reach consisting of medium-sized clay.; Request Date: 01-APR-13',
   'Substrate-bedrock': '; Request Date: 02-MAR-07',
@@ -27195,6 +27421,7 @@ export default {
   Sucralose: '1; Request Date: 22-JUL-14',
   'Sucralose-d6': '',
   Sucrose: '; Request Date: 02-MAR-07',
+  'Sufficient Sampling (Y/N) (choice list)': '',
   'Suite of PCBs for IADN':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Suite of PCBs from Ind. Univ.':
@@ -27354,9 +27581,14 @@ export default {
   Sumatriptan: '; Request Date: 22-JUL-14',
   'Sumatriptan succinate': '; Request Date: 11-JAN-16',
   'Surface Cover, Species (choice list)': '',
+  'Surface Film (choice list)': '',
   'Surface Observation: High water table (choice list)': '',
   'Surface Observation: Soil saturation (choice list)': '',
   'Surface Observation: Surface water (choice list)': '',
+  'Surface Protection (Rock, Vegs, Logs, etc.) % in 1m Wide Strip to Banktop-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Surface Protection (Rock, Vegs, Logs, etc.) % in 1m Wide Strip to Banktop-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Surface algae color': '',
   'Surface algae, % (choice list)': '',
   'Surface area':
@@ -27402,6 +27634,7 @@ export default {
   'Suspended particulate': '',
   Sutroa: 'TAXON: Animalia Kingdom; NWIS',
   Swep: '; Request Date: 22-JUL-14',
+  'Swimability (choice list)': '',
   Syllidae: 'TAXON: Animalia Kingdom; NWIS',
   Symbiocladius: 'TAXON: Animalia Kingdom; NWIS',
   Symphitopsyche: 'TAXON: Animalia Kingdom; NWIS',
@@ -27948,6 +28181,8 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Total Tetrachloro Biphenyls': '; Request Date: 19-MAY-10',
   'Total Trichloro Biphenyls': '; Request Date: 19-MAY-10',
+  'Total Volatile Hydrocarbons C6-C10 minus BTEX':
+    'Volatile Petroleum Hydrocarbons (VPH) calculated as Volatile Hydrocarbons (VH C6-C10) minus benzene, toluene, ethylbenzene, xylenes (BTEX) and styrene.',
   'Total Volatile Hydrocarbons, C6-C10': '',
   'Total beta radioactivity': 'Nemi.gov; Request Date: 25-SEP-19',
   'Total carbon':
@@ -28205,6 +28440,8 @@ export default {
     'Request Date: 30-May-13 (nps.gov cas# review)',
   'Triclosan-13C12': '; Request Date: 24-MAR-14',
   'Triclosan-d3': 'NWIS',
+  'Tricosafluoroundecane-1-sulfonic acid sodium salt':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/101646889',
   Tricosane: '; Request Date: 02-MAR-07',
   Tricosanol: 'Request Date: 15-Apr-15 (nps.gov cas# review)',
   'Tricresyl phosphate': '',
@@ -28457,6 +28694,7 @@ export default {
   Trochochaetidae: 'TAXON: Animalia Kingdom; NWIS',
   Trochosphaera: 'NWIS',
   Troglocambarus: 'NWIS',
+  'Trophic State (choice list)': '',
   Tropocyclops: 'TAXON: Animalia Kingdom; NWIS',
   'True color': '; Request Date: 02-MAR-07',
   Tryptophan: 'NWIS',
@@ -28535,6 +28773,14 @@ export default {
   'Undecyl heptafluorobutanoate': '',
   'Undecyl sulfate': 'NWIS',
   'Undercut Banks (%)': '; Request Date: 29-JUN-10',
+  'Undercut Horizontal-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Undercut Horizontal-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Undercut Vertical-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Undercut Vertical-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Understory Cover': '',
   'Understory Herbaceous (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Undrained Shear Strength':
@@ -28612,6 +28858,10 @@ export default {
   Vannella: '; Request Date: 02-MAR-07',
   Vannellidae: '; Request Date: 02-MAR-07',
   Vedaprofen: 'NWIS',
+  'Vegetation Cover % in 1m Wide Strip to Banktop-Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Vegetation Cover % in 1m Wide Strip to Banktop-Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Vegetation Density, Nudds Board Left':
     'Information,4; Request Date: 26-AUG-13',
   'Vegetation Density, Nudds Board Right':
@@ -28635,6 +28885,8 @@ export default {
   Vernolate: 'Nemi.gov; Request Date: 22-JUL-14',
   'Verrucarin A': 'NWIS',
   'Vertical Height from waterline to high water mark': '',
+  'Vertical Height of Flooding': '',
+  'Vertical Height to High Water Mark of Drawdown': '',
   'Verticillium lecanii': '; Request Date: 02-MAR-07',
   'Viable seed count': '; Request Date: 24-JUL-15',
   'Viable seed weight': '; Request Date: 24-JUL-15',
@@ -28696,6 +28948,7 @@ export default {
   'Volume, total': 'Total volume of wastewater.; Request Date: 03-JUL-08',
   Vomitoxin: 'Vomitoxin',
   Vortioxetine: '',
+  'Voucher Collected (Y/N) (choice list)': '',
   'WIS habitat type (choice list)': '',
   Warfarin: 'Nemi.gov; Request Date: 22-JUL-14',
   'Warfarin-d5': '; Request Date: 24-MAR-14',
@@ -28707,11 +28960,18 @@ export default {
   Water: '; Request Date: 02-MAR-07',
   'Water Body Description (Text)': 'Water Body Description (Text)',
   'Water Clarity': '',
+  'Water Color (choice list)': '',
   'Water Column Habitat Type (%)': 'Information,4; Request Date: 14-MAY-10',
+  'Water Depth at Base of Left Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Water Depth at Base of Right Bank':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Water Odor (choice list)': '; Request Date: 26-AUG-13',
   'Water Pressure': '; Request Date: 26-AUG-13',
+  'Water Pump (choice list)': '',
   'Water Residence Time': '',
   'Water Taste (choice list)': '; Request Date: 26-AUG-13',
+  'Water Visibility (Y/N) (choice list)': '',
   'Water appearance (text)':
     'A text description of water appearance.; Request Date: 02-MAR-07',
   'Water content of snow':
@@ -28734,6 +28994,53 @@ export default {
     'The way water is used, e.g., consumptive or nonconsumptive.; Request Date: 14-MAY-14',
   'Waterbody aesthetically degraded (Y/N) (choice list)': '',
   'Watercraft Observed': '; Request Date: 02-JUL-12',
+  'Watershed Drainage Density':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868. Ratio of the Watershed Sum of All Stream Lengths to Watershed Drainage Area.',
+  'Watershed Elevation':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
+  'Watershed Length':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868. Find the upstream end of main stream path flowline. Find a point on drainage divide uphill from that. Find the nearby point of lowest elevation on the divide. Measure distance from this point on the divide to pour point.',
+  'Watershed NLCD Area - % Barren':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Cultivated':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Deciduous':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Developed High':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Developed Low':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Developed Medium':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Developed Open':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Evergreen':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Grassland':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Herbaceous Wetland':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Mixed Forest':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Open Water':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Pasture':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Shrub':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Snow/Ice':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed NLCD Area - % Woody Wetland':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Calculated from USGS National Land Cover Database.',
+  'Watershed Relief':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868.  Max-min elevation over of the entire watershed.',
+  'Watershed Relief Ratio':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868. Watershed Relief divided by Watershed Length.',
+  'Watershed Shape':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868. Watershed Drainage Area divided by Watershed Length.',
+  'Watershed Slope': 'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
+  'Watershed Sum of All Stream Lengths':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2259868',
   'Watershed, predominant surrounding land use':
     'An assessment of the predominant land use around a watershed, including forest, agricultural, commercial, and other uses.; Request Date: 14-MAY-14',
   'Wave height':
@@ -29210,7 +29517,6 @@ export default {
     'Request Date: 11-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)',
   'gamma-HCH (Lindane)***retired***use Lindane':
     'Request Date: 11-Nov-16 GLENDA BioData 1978 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  'heptachlor epoxide A': '; Request Date: 11-OCT-12',
   'heptadecafluoro(1,2,3,4,5-13C5)nonanoic acid': '',
   'heptadecafluoro(1,2,3,4-13C4)octane-1-sulfonic acid': '',
   'hosphoric acid, methyl bis(2,2,3,3-tetrafluoropropyl) ester': '',
@@ -29394,6 +29700,8 @@ export default {
     'pH measured at laboratory.   WQX equivalent is Characteristic = pH and Activity Type= Routine sample; Request Date: 08-MAR-16',
   'pH, saturated***retired***use pH':
     'pH measured at saturated.   WQX equivalent is Characteristic = pH and Activity Type= Routine sample; Request Date: 12-APR-21',
+  'perfluorohexane sulfonamido propyl amine':
+    'https://www.usgs.gov/data/microbial-populations-pfhxsam-perfluorohexane-sulfonamido-propyl-amine-biodegradation',
   'perfluorooctyl methacrylate': '',
   'phosphatase (corrected for carbon content)': '; Request Date: 24-NOV-09',
   'potassium pentafluoroethane-1-sulfonate': '',

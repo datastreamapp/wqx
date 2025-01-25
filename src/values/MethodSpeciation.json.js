@@ -113,6 +113,8 @@ export default {
     'as pH',
     'as photons',
     'as qPCR',
+    'as sum of congeners',
+    'as sum of homolog',
     'as trichromatic',
     'purified',
     'purified untreated',
