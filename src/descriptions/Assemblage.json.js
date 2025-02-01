@@ -15,7 +15,7 @@ export default {
     'Unicellular, multicellular, or syncytial spore-producing organisms feeding on organic matter, including molds, yeast, mushrooms, and toadstools.',
   Ichthyoplankton: 'Fish-like animals of near-microscopic dimensions.',
   Invertebrates:
-    'Invertebrate animals is without a vertebral column or lacking backbone/spinal column',
+    'Invertebrate animals are without a vertebral column or lacking backbone/spinal column',
   Mammals: 'Warm-blooded hairy milk-producing animals.',
   Periphyton:
     'Near-microscopic plant material found attached to solid surfaces submerged in the aquatic environment.',

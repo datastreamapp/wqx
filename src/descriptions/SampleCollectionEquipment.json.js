@@ -15,7 +15,7 @@ export default {
   'Backpack Electroshock':
     'A scientific survey method used to sample fish populations to determine abundance, density, and species composition.',
   'Beach Seine Net':
-    'Seine (/seɪn/ SAYN) fishing (or seine-haul fishing) is a method of fishing that employs a fishing net called a seine, that hangs vertically in the water with its bottom edge held down by weights and its top edge buoyed by floats. Seine nets can be deployed from the shore as a beach seine, or from a boat.',
+    'Seine fishing (or seine-haul fishing) is a method of fishing that employs a fishing net called a seine, that hangs vertically in the water with its bottom edge held down by weights and its top edge buoyed by floats. Seine nets can be deployed from the shore as a beach seine, or from a boat.',
   'Beam Trawl':
     'A beam trawl consists of a cone-shaped body ending in a bag or codend, which retains the catch. In these trawls the horizontal opening of the net is provided by a beam, made of wood or metal, which is up to 12 m long. The vertically opening is provided by two hoop-like trawl mostly made from steel. No hydrodynamic forces are needed to keep a beam trawl open.heads/shoes',
   'Benthic Corer (Other)':

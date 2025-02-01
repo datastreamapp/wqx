@@ -7001,6 +7001,7 @@ export default {
   '2-(2-Iodoethyl)perfluoropropane': '99324-96-6',
   '2-(2-Nitro-1H-imidazol-1-yl)-N-(2,2,3,3,3-pentafluoropropyl)acetamide':
     '152721-37-4',
+  '2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol': '25973-55-1',
   '2-(3,3,4,4,4-Pentafluorobutylsulfanyl)acetic acid': '',
   '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexane-1-sulfinyl)ethan-1-ol': '917966-97-3',
   '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)propane-1,3-diol': '152220-76-3',
@@ -16332,6 +16333,7 @@ export default {
   'Cyclohexene, 1-(difluoromethyl)-2,3,3,4,4,5,5,6,6-nonafluoro-': '10534-43-7',
   'Cyclohexene, 1-(difluoromethyl)-3,3,4,4,5,5,6,6-octafluoro-': '115880-31-4',
   'Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (4S)-': '5989-54-8',
+  'Cyclohexene, 1-methyl-5-(1-methylethenyl)-': '13898-73-2',
   'Cyclohexene, 1-methylnonafluoro-': '647-53-0',
   'Cyclohexene, 3,3,4,4,5,5,6,6-octafluoro-': '775-40-6',
   'Cyclohexene, 3-[[2,2,2-trifluoro-1-(trifluoromethyl)ethyl]thio]-':
@@ -25258,6 +25260,8 @@ export default {
   'Propanoic acid, 2,2,3,3-tetrafluoro-3-[1,2,2,2-tetrafluoro-1-(fluorocarbonyl)ethoxy]-, methyl ester':
     '69116-72-9',
   'Propanoic acid, 2,2,3,3-tetrafluoro-3-methoxy-, methyl ester': '755-73-7',
+  'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-':
+    '919005-14-4',
   'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-, ammonium salt (1:1)':
     '958445-44-8',
   'Propanoic acid, 2,2-dimethyl-, 8-(2,6-diethyl-4-methylphenyl)-1,2,4,5-tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester':

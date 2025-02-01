@@ -43,7 +43,7 @@ export default {
   'Interpolation-Digital Map Source':
     'The geographic coordinate determination method based on interpolation-Digital Map Source',
   'Interpolation-Digital Map Source (Tiger)':
-    'The geographic coordinate determination method is based on a digital map source (TIGER)',
+    'The geographic coordinate determination method is based on the Topologically Integrated Geographic Encoding and Referencing system (TIGER)',
   'Interpolation-MSS':
     'The geographic coordinate determination method is based on the use of a Multi-Spectral Scanner (MSS)',
   'Interpolation-Map':

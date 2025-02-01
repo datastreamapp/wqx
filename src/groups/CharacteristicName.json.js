@@ -8729,6 +8729,7 @@ export default {
   '2-(2-Iodoethyl)perfluoropropane': 'PFAS,Perfluorinated Alkyl Substance',
   '2-(2-Nitro-1H-imidazol-1-yl)-N-(2,2,3,3,3-pentafluoropropyl)acetamide':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol': 'Not Assigned',
   '2-(3,3,4,4,4-Pentafluorobutylsulfanyl)acetic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexane-1-sulfinyl)ethan-1-ol':
@@ -12838,7 +12839,7 @@ export default {
   '3-Pentene-2,2-diol,1,1,1,3,5,5,5-heptafluoro-4-(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Pentyn-1-ol': 'Not Assigned',
-  '3-Perfluoroheptyl propanoate': 'Not Assigned',
+  '3-Perfluoroheptyl propanoate': 'PFAS,Perfluorinated Alkyl Substance',
   '3-Perfluoroheptyl propanoic acid': 'Not Assigned',
   '3-Perfluorohexyl-2-hydroxypropyl acrylate':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -13225,7 +13226,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3-methyl-4-(2,2,3,3,4,4,5,5,5-nonafluoropentyl)cyclopentane-1,1-dicarboxylic Acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '3-perfluoropentyl propanoate': 'Not Assigned',
+  '3-perfluoropentyl propanoate': 'PFAS,Perfluorinated Alkyl Substance',
   '3-{(2-Carboxyethyl)[(undecafluoropentyl)sulfonyl]amino}-N-(carboxymethyl)-N,N-dimethylpropan-1-aminium':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-{(Perfluorobutanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
@@ -19736,6 +19737,7 @@ export default {
   'Cyclohexene, 1-(difluoromethyl)-3,3,4,4,5,5,6,6-octafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (4S)-': 'Not Assigned',
+  'Cyclohexene, 1-methyl-5-(1-methylethenyl)-': 'Not Assigned',
   'Cyclohexene, 1-methylnonafluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   'Cyclohexene, 3,3,4,4,5,5,6,6-octafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -27401,7 +27403,7 @@ export default {
   'Perfluoro(2-bromoethoxy)ethene': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro(2-ethoxy-2-fluoroethoxy)acetic acid ammonium salt':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Perfluoro(2-ethoxyethane) sulfonate': 'Not Assigned',
+  'Perfluoro(2-ethoxyethane) sulfonate': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro(2-ethoxyethane)sulfonate': 'Not Assigned',
   'Perfluoro(2-ethoxyethane)sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -29905,6 +29907,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Propanoic acid, 2,2,3,3-tetrafluoro-3-methoxy-, methyl ester':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-':
+    'Not Assigned',
   'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-, ammonium salt (1:1)':
     'PFAS,Perfluorinated Alkyl Substance',
   'Propanoic acid, 2,2-dimethyl-, 8-(2,6-diethyl-4-methylphenyl)-1,2,4,5-tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester':

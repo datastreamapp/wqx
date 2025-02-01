@@ -6716,6 +6716,8 @@ export default {
     '',
   '2-(2-Iodoethyl)perfluoropropane': '',
   '2-(2-Nitro-1H-imidazol-1-yl)-N-(2,2,3,3,3-pentafluoropropyl)acetamide': '',
+  '2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/33263',
   '2-(3,3,4,4,4-Pentafluorobutylsulfanyl)acetic acid': '',
   '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexane-1-sulfinyl)ethan-1-ol': '',
   '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)propane-1,3-diol': '',
@@ -12704,7 +12706,7 @@ export default {
   'Ammonium 3-[butyl[(perfluorobutyl)sulfonyl]amino]-2-hydroxypropanesulfonate':
     '',
   'Ammonium 4,8-dioxa-3H-perfluorononanoate':
-    'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
+    'Minnesota Pollution Control Agency; Request Date: 19-JUN-19 (ADONA)',
   'Ammonium 4-(perfluorooctyloxy)benzenesulfonic acid': '',
   'Ammonium 7:2 fluorotelomer phosphate diester': '',
   'Ammonium 8-chlorohexadecafluoro-7-methyloctanoate': '',
@@ -16056,6 +16058,7 @@ export default {
   'Cyclohexene, 1-(difluoromethyl)-2,3,3,4,4,5,5,6,6-nonafluoro-': '',
   'Cyclohexene, 1-(difluoromethyl)-3,3,4,4,5,5,6,6-octafluoro-': '',
   'Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (4S)-': '',
+  'Cyclohexene, 1-methyl-5-(1-methylethenyl)-': '',
   'Cyclohexene, 1-methylnonafluoro-': '',
   'Cyclohexene, 3,3,4,4,5,5,6,6-octafluoro-': '',
   'Cyclohexene, 3-[[2,2,2-trifluoro-1-(trifluoromethyl)ethyl]thio]-': '',
@@ -21750,6 +21753,7 @@ export default {
     '',
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     '',
+  'N-ethyl Perfluorooctane sulfonamide': 'Organics,PFAS: Sulfluramid',
   'N-ethyl Perfluorooctane sulfonamide***retired***use Sulfluramid': '',
   'N-ethyl perfluoro-1-octanesulfonamide':
     'N-ethyl perfluoro-1-octanesulfonamide',
@@ -25457,8 +25461,10 @@ export default {
   'Propanoic acid, 2,2,3,3-tetrafluoro-3-[1,2,2,2-tetrafluoro-1-(fluorocarbonyl)ethoxy]-, methyl ester':
     '',
   'Propanoic acid, 2,2,3,3-tetrafluoro-3-methoxy-, methyl ester': '',
+  'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-':
+    'EPA Registry Name:4,8-Dioxa-3H-perfluorononanoic acid ; WQP-Alias',
   'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-, ammonium salt (1:1)***retired***use Ammonium 4,8-dioxa-3H-perfluorononanoate':
-    '',
+    'ADONA',
   'Propanoic acid, 2,2-dimethyl-, 8-(2,6-diethyl-4-methylphenyl)-1,2,4,5-tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester':
     '',
   'Propanoic acid, 2,3,3,3-tetrafluoro-': '',

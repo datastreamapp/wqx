@@ -9,7 +9,7 @@ export default {
   'as Al':
     "Aluminium is a chemical element with the symbol Al and atomic number 13. It is a silvery-white, soft, non-magnetic and ductile metal in the boron group. By mass, aluminium makes up about 8% of the Earth's crust, where it is the third most abundant element and also the most abundant metal.",
   'as As':
-    "A naturally occurring element that is widely distributed in the Earth's crust. It is found in water, air, food, and soil.",
+    "Arsenic is a naturally occurring element that is widely distributed in the Earth's crust. It is found in water, air, food, and soil.",
   'as Atrazine':
     'Atrazine is a herbicide of the triazine class. It is used to prevent pre- and postemergence broadleaf weeds in crops such as maize and sugarcane and on turf, such as golf courses and residential lawns.',
   'as B':

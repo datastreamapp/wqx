@@ -1,5 +1,6 @@
 export default {
-  Actual: 'existing now; present; current:',
+  Actual:
+    'Existing in reality or in fact; it refers to something that is real and not imagined: essentially meaning "true"',
   'Blank Corrected Calc':
     'The data were blank corrected using the recommended procedure detailed in the analytical method.',
   Calculated:

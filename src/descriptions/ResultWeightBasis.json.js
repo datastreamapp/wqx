@@ -12,7 +12,7 @@ export default {
   Duplicate:
     'Second additional blood sample successfully obtained from subject',
   Escaped: 'Subject escaped trap or handlers prior to sampling attempt',
-  'Freeze-Dried Wt': '',
+  'Freeze-Dried Wt': 'The weight after freeze drying.',
   'Gravimetric Dry':
     'Gravimetric analysis describes a set of methods in analytical chemistry for the quantitative determination of an analyte based on the mass of a solid.',
   Interstitial:
@@ -22,7 +22,7 @@ export default {
   Recaptured:
     'Blood sample previously obtained from subject during monitoring activity, no further sampling',
   Sampled: 'Blood sample successfully obtained from subject',
-  'Sieved Weight': 'The weight after freeze drying',
+  'Sieved Weight': 'The weight after sieving.',
   TSP: 'Total suspended particles (TSP) is an archaic regulatory measure of the mass concentration of particulate matter (PM) in community air. It was defined by the (unintended) size-selectivity of the inlet',
   Wet: 'The wet weight of the material',
   'high wt':

@@ -10,7 +10,7 @@
   "Glass Petri Dish": "Sample container designed for incubation",
   "Glass Tube": "Sample container designed for blood collection",
   "Glass Vial": "Sample vial made of glass",
-  "Glass Vial w/ Septa": "Sample container designed for collection of VOCs",
+  "Glass Vial w/ Septa": "Sample container designed for collection of Volatile Organic Compounds (VOCs)",
   "HDPE Bottle": "Sample bottle made of High Density Poly Ethylene (HDPE)",
   "HDPE Vial": "Sample vial made of High Density Poly Ethylene (HDPE)",
   "Nalgene Bottle": "Sample bottle made of Nalgene",
@@ -30,7 +30,7 @@
   "Polystyrene Container": "Sample container made of Polystyrene",
   "Polystyrene Petri Dish": "Sample placed directly into a Petri Dish",
   "SPMD": "Semipermeable membrane device; also called \"fatbag\". It's a device that mimics parts of aquatic animals that cause bioconcentration.  SPMDs are used to assess contamination in water and air",
-  "Stainless Steel Container": "Container make of Stainless Steel",
+  "Stainless Steel Container": "Container made of Stainless Steel",
   "Teflon Bottle": "Sample bottle made of Teflon",
   "Teflon Vial": "Sample vial made of Teflon",
   "Unspecified": "Unspecified"
