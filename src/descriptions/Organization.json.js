@@ -1487,6 +1487,7 @@ export default {
   TAKSHANUK: 'Takshanuk Watershed Council Water Quality Monitoring',
   TAMUCC: 'Texas A&M University-Corpus Christi',
   TAOSPBLO_WQX: 'Pueblo of Taos',
+  TAOS_FISHERIES_BLM: '',
   TCEQMAIN:
     'The Texas Commission on Environmental Quality (TCEQ) is the environmental agency for the state',
   TDECDOE_WQX: 'DOE Oversight Office',
@@ -1607,7 +1608,8 @@ export default {
   UTRRVA05: '',
   UTTCHD: 'Utah - TriCounty Health Department',
   'UU-SWQ': '',
-  UVAVTSSS_WQX: '',
+  UVAVTSSS_WQX:
+    'University of Virginia: Shenandoah Watershed Study and Virginia Trout Stream Sensitivity Study',
   UWFCEDB_WQX:
     'Center for Environmental Diagnostics and Bioremediation, University of West Florida',
   UWP: '',
@@ -1665,6 +1667,7 @@ export default {
   WIDATCP_WQX:
     'Wisconsin Department of Agriculture, Trade and Consumer Protection',
   WIDNR_WQX: 'Wisconsin Department of Natural Resources.',
+  WILDFISHCONSERVANCY_WA: '',
   WILLOWCREEK: 'CDSN - Willow Creek Reclamation Committee',
   WINDWARDENV_WQX: 'WindwardEnvironmental',
   WINNEBAGO07:

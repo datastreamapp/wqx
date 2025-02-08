@@ -9016,6 +9016,8 @@ export default {
   '3,3,4,4,5,5,5-heptafluoro-1-pyridin-2-ylpentan-2-one': '',
   '3,3,4,4,5,5,5-heptafluoropent-1-yne': '',
   '3,3,4,4,5,5,5-heptafluoropentanal': '',
+  '3,3,4,4,5,5,6,6,6-Nonafluoro-1-hexanesulfonic acid sodium salt (1:1)':
+    'Sodium 1H,1H,2H,2H-perfluorohexane sulfonate (4:2) ',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-1-nitrohex-1-en-2-amine': '',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-1-nitrohexan-2-ol': '',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-2-hydroxy-N,N~2~-dimethylnorleucinamide': '',
@@ -9074,6 +9076,8 @@ export default {
     '',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-Hexadecafluoro-9-(trifluoromethyl)decyl methacrylate':
     '',
+  '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-1-decanesulfonic acid sodium salt (1:1)':
+    'Sodium 1H,1H,2H,2H-perfluorodecane sulfonate (8:2)',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-2-methyldecan-1-ol': '',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-2-methyldecanoic acid':
     '',
@@ -12413,6 +12417,7 @@ export default {
   'Activities - Cropland (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Dams (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Dredging (choice list)': 'NRSA; Request Date: 11-APR-17',
+  'Activities - Drinking Water Treatment (choice list)': '',
   'Activities - Dumping (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Evidence of Fire (choice list)':
     'NRSA; Request Date: 11-APR-17',
@@ -12426,8 +12431,10 @@ export default {
   'Activities - Liming (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Livestock Use (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Logging (choice list)': 'NRSA; Request Date: 11-APR-17',
+  'Activities - Macrophyte Control (choice list)': '',
   'Activities - Maintained Lawns (choice list)':
     'NRSA; Request Date: 11-APR-17',
+  'Activities - Marinas (choice list)': '',
   'Activities - Mines/Quarries (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Odors (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Oil/Gas Wells (choice list)': 'NRSA; Request Date: 11-APR-17',
@@ -12441,6 +12448,7 @@ export default {
   'Activities - Primitive Parks, Camping (choice list)':
     'NRSA; Request Date: 11-APR-17',
   'Activities - Residences (choice list)': 'NRSA; Request Date: 11-APR-17',
+  'Activities - Resorts (choice list)': '',
   'Activities - Roads (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Activities - Sewage Treatment (choice list)':
     'NRSA; Request Date: 11-APR-17',
@@ -19781,6 +19789,7 @@ export default {
   Lasalocid: 'NWIS',
   'Last 7 days weather cloud cover': '',
   'Latitude, Bank': '',
+  'Latitude, Launch': '',
   'Latitude, Midstream': '',
   'Lauric acid': '1; Request Date: 02-MAR-07',
   'Lauryl acrylate': '',
@@ -19979,6 +19988,7 @@ export default {
   Lomustine: '; Request Date: 24-MAR-14',
   Longifolene: 'Nemi.gov; Request Date: 25-SEP-19',
   'Longitude, Bank': '',
+  'Longitude, Launch': '',
   'Longitude, Midstream': '',
   'Longitudinal Distribution': '; Request Date: 21-JUL-17',
   'Loons, visual observation': '',
@@ -28977,7 +28987,7 @@ export default {
   'Water Pump (choice list)': '',
   'Water Residence Time': '',
   'Water Taste (choice list)': '; Request Date: 26-AUG-13',
-  'Water Visibility (Y/N) (choice list)': '',
+  'Water Visibility (choice list)': '',
   'Water appearance (text)':
     'A text description of water appearance.; Request Date: 02-MAR-07',
   'Water content of snow':

@@ -11531,6 +11531,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3,4,4,5,5,5-heptafluoropent-1-yne': 'PFAS,Perfluorinated Alkyl Substance',
   '3,3,4,4,5,5,5-heptafluoropentanal': 'PFAS,Perfluorinated Alkyl Substance',
+  '3,3,4,4,5,5,6,6,6-Nonafluoro-1-hexanesulfonic acid sodium salt (1:1)':
+    'PFOS, Perfluorooctane Sulfonate',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-1-nitrohex-1-en-2-amine':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-1-nitrohexan-2-ol':
@@ -11630,6 +11632,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-Hexadecafluoro-9-(trifluoromethyl)decyl methacrylate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-1-decanesulfonic acid sodium salt (1:1)':
+    'PFOS, Perfluorooctane Sulfonate',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-2-methyldecan-1-ol':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-2-methyldecanoic acid':
@@ -15961,6 +15965,7 @@ export default {
   'Activities - Cropland (choice list)': 'Not Assigned',
   'Activities - Dams (choice list)': 'Not Assigned',
   'Activities - Dredging (choice list)': 'Not Assigned',
+  'Activities - Drinking Water Treatment (choice list)': 'Habitat',
   'Activities - Dumping (choice list)': 'Not Assigned',
   'Activities - Evidence of Fire (choice list)': 'Not Assigned',
   'Activities - Feedlot (choice list)': 'Not Assigned',
@@ -15971,7 +15976,9 @@ export default {
   'Activities - Liming (choice list)': 'Not Assigned',
   'Activities - Livestock Use (choice list)': 'Not Assigned',
   'Activities - Logging (choice list)': 'Not Assigned',
+  'Activities - Macrophyte Control (choice list)': 'Habitat',
   'Activities - Maintained Lawns (choice list)': 'Not Assigned',
+  'Activities - Marinas (choice list)': 'Habitat',
   'Activities - Mines/Quarries (choice list)': 'Not Assigned',
   'Activities - Odors (choice list)': 'Not Assigned',
   'Activities - Oil/Gas Wells (choice list)': 'Not Assigned',
@@ -15983,6 +15990,7 @@ export default {
   'Activities - Power Plants (choice list)': 'Not Assigned',
   'Activities - Primitive Parks, Camping (choice list)': 'Not Assigned',
   'Activities - Residences (choice list)': 'Not Assigned',
+  'Activities - Resorts (choice list)': 'Habitat',
   'Activities - Roads (choice list)': 'Not Assigned',
   'Activities - Sewage Treatment (choice list)': 'Not Assigned',
   'Activities - Surface Films (choice list)': 'Not Assigned',
@@ -23566,6 +23574,7 @@ export default {
   Lasalocid: 'Not Assigned',
   'Last 7 days weather cloud cover': 'Not Assigned',
   'Latitude, Bank': 'Information',
+  'Latitude, Launch': 'Habitat',
   'Latitude, Midstream': 'Information',
   'Lauric acid': 'Organics, Pesticide',
   'Lauryl acrylate': 'Not Assigned',
@@ -23744,6 +23753,7 @@ export default {
   Lomustine: 'Not Assigned',
   Longifolene: 'Not Assigned',
   'Longitude, Bank': 'Information',
+  'Longitude, Launch': 'Habitat',
   'Longitude, Midstream': 'Information',
   'Longitudinal Distribution': 'Information',
   'Loons, visual observation': 'Not Assigned',
@@ -31218,7 +31228,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Sodium 1H, 1H, 2H, 2H-[1,2-13C2] perfluorooctyl phosphate':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Sodium 1H,1H,2H,2H-perfluoro1-decanesulfonate': 'Not Assigned',
+  'Sodium 1H,1H,2H,2H-perfluoro1-decanesulfonate':
+    'PFOS, Perfluorooctane Sulfonate',
   'Sodium 1H,1H,2H,2H-perfluorodecylphosphate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Sodium 1H,1H,2H,2H-perfluorooctylphosphate':
@@ -33278,7 +33289,7 @@ export default {
   'Water Pump (choice list)': 'Not Assigned',
   'Water Residence Time': 'Not Assigned',
   'Water Taste (choice list)': 'Physical',
-  'Water Visibility (Y/N) (choice list)': 'Habitat',
+  'Water Visibility (choice list)': 'Habitat',
   'Water appearance (text)': 'Physical',
   'Water content of snow': 'Physical',
   'Water flow compared to most recent conditions (choice list)': 'Physical',

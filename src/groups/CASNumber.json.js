@@ -9400,6 +9400,8 @@ export default {
   '3,3,4,4,5,5,5-heptafluoro-1-pyridin-2-ylpentan-2-one': '336-60-7',
   '3,3,4,4,5,5,5-heptafluoropent-1-yne': '80337-25-3',
   '3,3,4,4,5,5,5-heptafluoropentanal': '126015-32-5',
+  '3,3,4,4,5,5,6,6,6-Nonafluoro-1-hexanesulfonic acid sodium salt (1:1)':
+    '27619-93-8',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-1-nitrohex-1-en-2-amine': '223260-92-2',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-1-nitrohexan-2-ol': '240408-94-0',
   '3,3,4,4,5,5,6,6,6-Nonafluoro-2-hydroxy-N,N~2~-dimethylnorleucinamide':
@@ -9469,6 +9471,8 @@ export default {
     '15577-26-1',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-Hexadecafluoro-9-(trifluoromethyl)decyl methacrylate':
     '15166-00-4',
+  '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-1-decanesulfonic acid sodium salt (1:1)':
+    '27619-96-1',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-2-methyldecan-1-ol':
     '136022-91-8',
   '3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluoro-2-methyldecanoic acid':
@@ -12958,6 +12962,7 @@ export default {
   'Activities - Cropland (choice list)': '',
   'Activities - Dams (choice list)': '',
   'Activities - Dredging (choice list)': '',
+  'Activities - Drinking Water Treatment (choice list)': '',
   'Activities - Dumping (choice list)': '',
   'Activities - Evidence of Fire (choice list)': '',
   'Activities - Feedlot (choice list)': '',
@@ -12968,7 +12973,9 @@ export default {
   'Activities - Liming (choice list)': '',
   'Activities - Livestock Use (choice list)': '',
   'Activities - Logging (choice list)': '',
+  'Activities - Macrophyte Control (choice list)': '',
   'Activities - Maintained Lawns (choice list)': '',
+  'Activities - Marinas (choice list)': '',
   'Activities - Mines/Quarries (choice list)': '',
   'Activities - Odors (choice list)': '',
   'Activities - Oil/Gas Wells (choice list)': '',
@@ -12980,6 +12987,7 @@ export default {
   'Activities - Power Plants (choice list)': '',
   'Activities - Primitive Parks, Camping (choice list)': '',
   'Activities - Residences (choice list)': '',
+  'Activities - Resorts (choice list)': '',
   'Activities - Roads (choice list)': '',
   'Activities - Sewage Treatment (choice list)': '',
   'Activities - Surface Films (choice list)': '',
@@ -19807,6 +19815,7 @@ export default {
   Lasalocid: '',
   'Last 7 days weather cloud cover': '',
   'Latitude, Bank': '',
+  'Latitude, Launch': '',
   'Latitude, Midstream': '',
   'Lauric acid': '143-07-7',
   'Lauryl acrylate': '2156-97-0',
@@ -19973,6 +19982,7 @@ export default {
   Lomustine: '13010-47-4',
   Longifolene: '475-20-7',
   'Longitude, Bank': '',
+  'Longitude, Launch': '',
   'Longitude, Midstream': '',
   'Longitudinal Distribution': '',
   'Loons, visual observation': '',
@@ -21522,7 +21532,7 @@ export default {
   'N-Ethylperfluorooctane-1-sulfonamide': '',
   'N-Ethylperfluorooctanesulfonamide': '4151-50-2',
   'N-Ethylperfluorooctanesulfonamide (N-EtFOSA) (D5, 98%)': '936109-40-9',
-  'N-Ethylperfluorooctanesulfonamidoacetate': ' 2991-50-6',
+  'N-Ethylperfluorooctanesulfonamidoacetate': '2991-50-6',
   'N-Ethylperfluorooctanesulfonamidoacetic acid (N-EtFOSAA) (N-ethyl-D5, 98%)':
     '1265205-97-7',
   'N-Ethylperfluorooctanesulfonamidoethanol': '1691-99-2',
@@ -26476,7 +26486,7 @@ export default {
   'Sodium 1-[(2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptyl)oxy]-3-(2,2,3,3-tetrafluoropropoxy)-2-propanol 2-sulfate':
     '61119-61-7',
   'Sodium 1H, 1H, 2H, 2H-[1,2-13C2] perfluorooctyl phosphate': '',
-  'Sodium 1H,1H,2H,2H-perfluoro1-decanesulfonate': '',
+  'Sodium 1H,1H,2H,2H-perfluoro1-decanesulfonate': '2708218-90-8',
   'Sodium 1H,1H,2H,2H-perfluorodecylphosphate': '130771-95-8',
   'Sodium 1H,1H,2H,2H-perfluorooctylphosphate': '144965-22-0',
   'Sodium 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-hexadecafluorononyl sulfate':
@@ -28368,7 +28378,7 @@ export default {
   'Water Pump (choice list)': '',
   'Water Residence Time': '',
   'Water Taste (choice list)': '',
-  'Water Visibility (Y/N) (choice list)': '',
+  'Water Visibility (choice list)': '',
   'Water appearance (text)': '',
   'Water content of snow': '',
   'Water flow compared to most recent conditions (choice list)': '',
