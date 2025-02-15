@@ -22637,6 +22637,7 @@ export default {
   'PCB-13/27': 'GLENDA Biological Data Migration; Request Date: 07-JUL-17',
   'PCB-130/137/176':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 10-JUL-17',
+  'PCB-131/133': '',
   'PCB-131/133/142': '; Request Date: 18-OCT-18',
   'PCB-131/142': '; Request Date: 21-MAR-19',
   'PCB-131/142/165':
@@ -23839,6 +23840,7 @@ export default {
   'Perfluorohexane sulfinic acids': '',
   'Perfluorohexane sulfonamide amino carboxylates': '',
   'Perfluorohexane sulfonamido amine oxide': '',
+  'Perfluorohexane sulfonamidopropyl ammonium': '',
   'Perfluorohexane sulfonate': 'Perfluorohexane sulfonate',
   'Perfluorohexane sulfonic anhydride': '',
   'Perfluorohexane-1-sulfinic acid': '',

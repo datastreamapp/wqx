@@ -1438,7 +1438,7 @@ export default {
   SRBCI:
     'Santa Rosa Band of Cahuilla Indians (Tribal) || Santa Rosa Band of Cahuilla Indians (Tribal)',
   SRCD: 'Biomonitoring Program that monitors chemical, physical and biological aspects of local creeks',
-  SRCFLENV_WQX: '',
+  SRCENV_WQX: '',
   SRMTAKNY_WQX:
     'Saint Regis Mohawk Tribe (Tribal) || Saint Regis Mohawk Tribe (Tribal)',
   SRMTWRP_WQX:

@@ -26772,6 +26772,7 @@ export default {
   'PCB-129/178': 'Organics, PCBs',
   'PCB-13/27': 'Organics, PCBs',
   'PCB-130/137/176': 'Organics, PCBs',
+  'PCB-131/133': 'Organics, PCBs',
   'PCB-131/133/142': 'Not Assigned',
   'PCB-131/142': 'Not Assigned',
   'PCB-131/142/165': 'Organics, PCBs',
@@ -28035,6 +28036,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorohexane sulfonamido amine oxide':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Perfluorohexane sulfonamidopropyl ammonium':
+    'PFOS, Perfluorooctane Sulfonate',
   'Perfluorohexane sulfonate': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorohexane sulfonic anhydride': 'PFAS,Perfluorinated Alkyl Substance',
   'Perfluorohexane-1-sulfinic acid': 'PFAS,Perfluorinated Alkyl Substance',

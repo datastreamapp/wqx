@@ -1183,7 +1183,7 @@ export default {
     'SRA',
     'SRBCI',
     'SRCD',
-    'SRCFLENV_WQX',
+    'SRCENV_WQX',
     'SRMTAKNY_WQX',
     'SRMTWRP_WQX',
     'SRPMIC',
