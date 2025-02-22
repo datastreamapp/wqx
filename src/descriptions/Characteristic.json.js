@@ -13290,10 +13290,12 @@ export default {
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Bank Erosion, Left': '; Request Date: 26-AUG-13',
   'Bank Erosion, Right': '; Request Date: 26-AUG-13',
+  'Bank Height': '',
   'Bank Instability Erosion Class (choice list)': '',
   'Bank Side Measured': '',
   'Bank Slope, Left': '; Request Date: 26-AUG-13',
   'Bank Slope, Right': '; Request Date: 26-AUG-13',
+  'Bank Stability Index': '',
   'Bank Stability LDB': '; Request Date: 25-AUG-16',
   'Bank Stability RDB': '; Request Date: 25-AUG-16',
   'Bank Stability, Left (choice list)': '; Request Date: 11-APR-17',
@@ -13311,6 +13313,7 @@ export default {
     'A descriptor to characterize the general vegetative stability on the banks of a water body including excellent, fair, good, or poor.; Request Date: 02-MAR-07',
   'Bankful Angle (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Bankfull Height': '; Request Date: 04-OCT-18',
+  'Bankfull Height above thalweg': '',
   'Bankfull Height-Left Bank':
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Bankfull Height-Right Bank':
@@ -15327,6 +15330,7 @@ export default {
   'Channel type (choice list)': '; Request Date: 24-AUG-10',
   'Channel vegetative cover':
     'A description of the vegetative cover surrounding the channel of a stream.; Request Date: 02-MAR-07',
+  'Channel-Full Height above thalweg': '',
   'Channel-Full Height-Left Bank':
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Channel-Full Height-Right Bank':
@@ -15924,7 +15928,7 @@ export default {
   'Cyanide + Thiocyanate': '1;',
   'Cyanide, available': 'Nemi.gov; Request Date: 04-OCT-17',
   'Cyanide, free':
-    'Free cyanide is a chemical definition that refers to the sum of molecular hydrogen cyanide (HCN)\r and cyanide ion (CN-\r). Methods that determine operationally defined categories of cyanide species, such\r as CATC and Total Cyanide, have also been included. https://www.epa.gov/sites/default/files/2016-08/documents/cyanide-clarification-free-and-total-cyanide-analysis-safe-drinking-water.pdf',
+    'Free cyanide is a chemical definition that refers to the sum of molecular hydrogen cyanide (HCN) and cyanide ion (CN-). Methods that determine operationally defined categories of cyanide species, such  as CATC and Total Cyanide, have also been included. https://www.epa.gov/sites/default/files/2016-08/documents/cyanide-clarification-free-and-total-cyanide-analysis-safe-drinking-water.pdf',
   Cyanides: 'Nemi.gov; Request Date: 24-SEP-19',
   'Cyanides amenable to chlorination (HCN & CN)': '; Request Date: 02-MAR-07',
   'Cyano Habs- Benthic Mat (Y/N) (choice list)': '',
@@ -22169,6 +22173,7 @@ export default {
   'Number of stalks per sample plant': '; Request Date: 24-JUL-15',
   'Number of valves': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   'Number of vine species': '',
+  'Number of young per female': '',
   'Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N':
     'The nitrogen that may be utilized by organisms for growth and sustainability.EPA Workgroup QA; Request Date: 02-MAR-07',
   'Nylon deterioration':
@@ -24877,7 +24882,7 @@ export default {
   'Polycyclic aromatic hydrocarbons, low molecular weight':
     'Polycyclic aromatiac hydrocarbons with 2 or 3 aromatic rings.; Request Date: 22-JUL-14',
   'Polycyclic aromatic hydrocarbons, sum of 17':
-    'Acenaphthene ;  Acenaphthylene ;  Anthracene ;  Benzo(a)anthracene ;  Benzo(a)pyrene ;  Benzo(b)fluoranthene ;  Benzo(g,h,i)perylene ;  Benzo(k)fluoranthene ;  Chrysene ;  Dibenz(a,h)anthracene ;  Fluoranthene ;  Fluorene ;  Indeno(1,2,3-cd)pyrene ;  2-Methylnaphthalene ;  Naphthalene ;  Phenanthrene ;  Pyrene: https://www.pca.state.mn.us/sites/default/files/c-s3-06ac-2.pdf\r',
+    'Acenaphthene ;  Acenaphthylene ;  Anthracene ;  Benzo(a)anthracene ;  Benzo(a)pyrene ;  Benzo(b)fluoranthene ;  Benzo(g,h,i)perylene ;  Benzo(k)fluoranthene ;  Chrysene ;  Dibenz(a,h)anthracene ;  Fluoranthene ;  Fluorene ;  Indeno(1,2,3-cd)pyrene ;  2-Methylnaphthalene ;  Naphthalene ;  Phenanthrene ;  Pyrene: https://www.pca.state.mn.us/sites/default/files/c-s3-06ac-2.pdf',
   'Polycyclic aromatic hydrocarbons, sum of 34':
     'PAH-17 + Benzo(e)pyrene;2,6-dimethylnaphthalene;1-Methylnaphthalene;Perylene;1-methylphenanthrene;2,3,5-trimethylnaphthalene;C1-Chrysenes;C1-Fluoranthene/Pyrene;C1-Fluorene;C1-Naphthalene;C1-Phenanthrene/Anthracene;C2-Chrysene;C2-Fluorene;C2-Naphthalene;C2-Phenanthrene/Anthracene;C3-Chrysene;C3-Fluorene;C3-Naphthalene;C3-Phenanthrene/Anthracene;C4-Chrysene;C4-Napthalene;C4-Phenanthrene/Anthracene:',
   'Polycyclic organic matter':
@@ -27375,6 +27380,8 @@ export default {
     'A general description of the substrate type within a sampling reach consisting of very fine gravel.; Request Date: 02-MAR-07',
   'Substrate - miscellaneous other':
     'A description of substrate type within a habitat consisting of substrate type not otherwise listed.; Request Date: 02-MAR-07',
+  'Substrate - pebbles':
+    'A general description of the substrate type within a sampling reach consisting of pebbles.',
   'Substrate - sand':
     'A general description of the substrate type within a sampling reach consisting of sand.; Request Date: 02-MAR-07',
   'Substrate - sand, coarse':
@@ -27429,8 +27436,6 @@ export default {
     'National Park Service, contact nps.gov; Request Date: 04-JUN-15',
   'Substrate algae color': '',
   'Substrate algae, % (choice list)': '',
-  'Substrate – pebbles':
-    'A general description of the substrate type within a sampling reach consisting of pebbles.',
   'Substrate, clay, medium':
     'A general description of the substrate type within a sampling reach consisting of medium-sized clay.; Request Date: 01-APR-13',
   'Substrate-bedrock': '; Request Date: 02-MAR-07',
@@ -28876,6 +28881,7 @@ export default {
   Vannella: '; Request Date: 02-MAR-07',
   Vannellidae: '; Request Date: 02-MAR-07',
   Vedaprofen: 'NWIS',
+  'Vegetation Cover % in 1m Wide Strip to Banktop-Both Banks': '',
   'Vegetation Cover % in 1m Wide Strip to Banktop-Left Bank':
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Vegetation Cover % in 1m Wide Strip to Banktop-Right Bank':
@@ -28980,6 +28986,7 @@ export default {
   'Water Clarity': '',
   'Water Color (choice list)': '',
   'Water Column Habitat Type (%)': 'Information,4; Request Date: 14-MAY-10',
+  'Water Depth at Base': '',
   'Water Depth at Base of Left Bank':
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Water Depth at Base of Right Bank':
