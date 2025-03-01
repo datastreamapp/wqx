@@ -382,15 +382,15 @@ export default {
   'Flow, stream stage (choice list)': 'Normal',
   'Flow, severity (choice list)': 'Normal',
   'Water Pump (choice list)': 'Pesent',
-  'RBP Sediment Oils (choice list)': 'SLIGHT - Self describing.',
   'RBP2, Sediment/Substrate, Oils (choice list)': 'Slight',
+  'RBP Sediment Oils (choice list)': 'SLIGHT - Self describing.',
   'Cloud type (choice list)': 'Not determined, Clouds obscured',
   'Life stage (choice list)': 'Fish between hatching and yolk absorption.',
-  'Bank class, Right (choice list)': 'Vegetated-Stabilized',
-  'Bank class (choice list)': 'Vegetated-Stabilized',
   'Bank class, Left (choice list)': 'Vegetated-Stabilized',
-  'Land form (choice list)': 'Wetlands-meadow',
+  'Bank class (choice list)': 'Vegetated-Stabilized',
+  'Bank class, Right (choice list)': 'Vegetated-Stabilized',
   'Land form, Left (choice list)': 'Wetlands-meadow',
+  'Land form (choice list)': 'Wetlands-meadow',
   'Land Form, Right (choice list)': 'Wetlands-meadow',
   'Primary/ Secondary surrounding landuse (choice list)': 'Wetland',
   'RBP2, Watershed, Predominant Surrounding Landuse (choice list)':
@@ -400,11 +400,11 @@ export default {
   'Stream Unit Type (choice list)': 'Trench pool',
   'Geomorphic Surface Type (choice list)': 'Upland',
   'Surface Film (choice list)': 'Scum',
-  'Erosion within 1 Meter of Transect-Left Bank (choice list)': 'Unknown',
   'Erosion within 1 Meter of Transect-Right Bank (choice list)': 'Unknown',
-  'Sediment/ Substrate Odors (choice list)': 'SEWAGE - Self describing.',
-  'RBP Sediment Odors (choice list)': 'SEWAGE - Self describing.',
+  'Erosion within 1 Meter of Transect-Left Bank (choice list)': 'Unknown',
   'RBP2, Sediment/Substrate, Odors (choice list)': 'Sewage',
+  'RBP Sediment Odors (choice list)': 'SEWAGE - Self describing.',
+  'Sediment/ Substrate Odors (choice list)': 'SEWAGE - Self describing.',
   'Substrate Odor (choice list)': 'Other',
   'Outlet Dams (choice list)': 'None',
   'Lake Depth Strata (choice list)': 'Transects thermocline',
@@ -413,6 +413,10 @@ export default {
   'Beaver (choice list)': 'Rare',
   'Dominant Land Use (choice list)': 'Urban',
   'Odor type (choice list)': 'Weak hydrogen sulfide',
+  'Bank Stability Index-Left (choice list)': 'Bank Stability Index: 16-22',
+  'Bank Stability Index-Right (choice list)': 'Bank Stability Index: 16-22',
+  'Bank Stability Index-Left/Right (choice list)':
+    'Bank Stability Index: 16-22',
   'Channel Constraint (choice list)':
     'Channel very constrained in V-shaped valley (i.e. it is very unlikely to spread out over valley or erode a new channel during flood)',
   'Snag surf (choice list)': 'SB = Smooth, no algae',
@@ -604,6 +608,7 @@ export default {
   'Activities - Algal Mats (choice list)': 'None',
   'Activities - Water Withdrawal (choice list)': 'None',
   'Activities - Liming (choice list)': 'None',
+  'No sample reason (choice list)': 'Other',
   'Mesh Type (choice list)': 'small',
   'RBP Pool Variability (choice list)': 'SMALL/NONE - Self describing.',
   'Current (choice list)': 'Self-describing',
@@ -785,12 +790,20 @@ export default {
   'Redoximorphic Features (choice list)': 'Soft Masses',
   'RBP2, Instream Features, Channelized (Y/N) (choice list)':
     'Yes the stream is channelized',
-  'RBP2, Instream Features, Dam Present (Y/N) (choice list)':
-    'Yes there is a dam present',
+  'Precipitation 48hr prior to monitoring event (choice list)': 'Yes',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)': 'Yes',
   'Invasive species found (choice list)': 'Yes',
   'Significant(choice list)': 'Test response significantly toxic',
   'Precipitation during activity (choice list)': 'Yes',
+  'RBP2, Instream Features, Dam Present (Y/N) (choice list)':
+    'Yes there is a dam present',
+  'Precipitation 24hr prior to monitoring event (choice list)': 'Yes',
+  'RBP Channelized Y/N (choice list)': 'YES - Self describing.',
+  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
+  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
+    'Yes',
+  'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
+    'Yes, there has been heavy rain within the last 7 days',
   'Sewage algae present (choice list)': 'Yes',
   'Toxicity, sediment, Ampelisca abdita, significant (choice list)':
     'P-value & Result indicate test response significantly toxic',
@@ -810,14 +823,6 @@ export default {
     'P-value & Result indicate test response significantly toxic',
   'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':
     'P-value & Result indicate test response is not significant',
-  'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
-    'Yes, there has been heavy rain within the last 7 days',
-  'RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)':
-    'Yes',
-  'Rocky Substrate (choice list)': 'Rocky substrate; bedrock, boulders, etc.',
-  'RBP Channelized Y/N (choice list)': 'YES - Self describing.',
-  'Precipitation 24hr prior to monitoring event (choice list)': 'Yes',
-  'Precipitation 48hr prior to monitoring event (choice list)': 'Yes',
   'RBP Local Watershed NPS Pollution (choice list)':
     'Some potential sources of NPS pollution',
   'Depth, Secchi disk depth (choice list)':
@@ -891,8 +896,8 @@ export default {
   'RBP2, Instream Features, Canopy Cover (choice list)': 'Shaded',
   'RBP Canopy Cover (choice list)': 'SHADED - Self describing.',
   'Spring, Flow Affected (choice list)': 'Stopped',
-  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Substrate in reach (choice list)': 'silt',
+  'Dominant Substrate receiving flow (choice list)': 'silt',
   'Dominant Pool Substrate (choice list)': 'silt',
   'Dominant Run Substrate (choice list)': 'silt'
 }

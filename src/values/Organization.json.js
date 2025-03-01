@@ -1171,6 +1171,7 @@ export default {
     'SMSCGOV_WQX',
     'SMWC',
     'SNEPO_WQX',
+    'SNOCODCNR_SWM',
     'SNOQUALM_WQX',
     'SNSA_WQX',
     'SOBOBA_WQX',

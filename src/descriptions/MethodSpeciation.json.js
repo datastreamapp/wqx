@@ -90,6 +90,8 @@ export default {
   'as MC-LR equivalents': 'Microcystin-LR equivalents',
   'as Mg':
     'Magnesium is a chemical element with atomic number 12, and atomic weight 24.305 u ± 0.002 u. It is group 2, or alkaline earth metals.',
+  'as Mn':
+    'Manganese is a chemical element with atomic number 25, It is a hard, brittle, silvery metal, often found in minerals in combination with iron',
   'as N':
     "Nitrogen is the chemical element of atomic number 7, a colorless, odorless unreactive gas that forms about 78 percent of the earth's atmosphere.",
   'as NH3':

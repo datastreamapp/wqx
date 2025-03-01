@@ -3326,6 +3326,7 @@ export default {
     'CDC - E. coli and Shigella ~ CDC . E. coli and Shigella in Isolates by Real-time Polymerase Chain Reaction',
   'E1367-99':
     'E1367-99 ~ ASTM . Sediment Toxicity Test Using Marine and Estuarine Amphipods',
+  'E1706-95': 'https://pubs.usgs.gov/publication/5200167',
   E1924: '',
   E318: '',
   EASYGEL:

@@ -310,8 +310,7 @@ export default {
   APCC_WQX: '',
   APPLEGATE_WC: 'Former VolMon group',
   AQS: "Beta COPY of AQS which is EPA's repository of ambient air quality data that assists in air quality assessments, designations, modeling for permit review",
-  AQUINNAH_WQX:
-    'Wampanoag Tribe of Gay Head (Aquinnah) (Tribal) || Wampanoag Tribe of Gay Head (Aquinnah) (Tribal)',
+  AQUINNAH_WQX: 'Wampanoag Tribe of Gay Head (Aquinnah) - Massachusetts;',
   ARCADISNY: '',
   ARDEQH2O_WQX: '',
   AREMP:
@@ -978,8 +977,7 @@ export default {
   MEC: '',
   MEDEP_WQX: 'Maine Dept of Env Protection.',
   MEIYINWUSUNYPLATTSBURGH: '',
-  MENOM_WQX:
-    'MENOMINEE INDIAN TRIBE OF WISCONSIN (Wisconson) || MENOMINEE INDIAN TRIBE OF WISCONSIN (Wisconson) (Tribal)',
+  MENOM_WQX: '',
   MERRIMACK_RIVER_WATERSHED_WQX: '',
   MESKWAKI_DNR:
     'Meskwaki Department of Natural Resources (Tribal) || Meskwaki Department of Natural Resources (Tribal)',
@@ -1425,6 +1423,7 @@ export default {
   SMWC: 'The San Miguel Watershed Coalition is a 501(c)(3) non-profit organization, governed by a 10 person board. The San Miguel Watershed Coalition was formed around 1998, to enable a collaborative forum for all residents, businesses, landowners, land managers and non-profit organizations to discuss and influence the future of the watershed.',
   SNEPO_WQX:
     'The Seminole Nation of Oklahoma (Tribal) || The Seminole Nation of Oklahoma (Tribal)',
+  SNOCODCNR_SWM: '',
   SNOQUALM_WQX: 'Snoqualmie Tribe || Snoqualmie Indian Tribe (Tribal)',
   SNSA_WQX: 'Water Quality Monitoring Data',
   SOBOBA_WQX: 'Soboba Band of Luiseno Indians, California (Tribal)',
