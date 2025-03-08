@@ -4806,6 +4806,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Ethyl-3-methylpyridin-1-ium nonafluorobutane-1-sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1-Ethyl-4-methylcyclohexane': 'Not Assigned',
   '1-Ethylnaphthalene': 'Organics, Other',
   '1-Ethylsulfonyl-1,1,2,2,2-pentafluoroethane':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -14220,6 +14221,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '4-Heptadecafluorooctyl-phenol': 'PFAS,Perfluorinated Alkyl Substance',
   '4-Heptafluorobutyryloxyhexadecane': 'Not Assigned',
+  '4-Heptanone': 'Not Assigned',
   '4-Heptanone, 1,1,1,7,7,7-hexafluoro-2,6-dihydroxy-2,6-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-Heptanone, 1,1,1,7,7,7-hexafluoro-2,6-dihydroxy-2,6-bis(trifluoromethyl)- ,2,2-dimethylhydrazone':
@@ -18539,6 +18541,8 @@ export default {
   'Butyl acrylate vinyl acetate polymer': 'Not Assigned',
   'Butyl benzoate': 'Not Assigned',
   'Butyl benzyl phthalate': 'Organics, Other',
+  'Butyl butyrate': 'Not Assigned',
+  'Butyl ether': 'Not Assigned',
   'Butyl ethyl(heptafluoropropyl)phosphinate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Butyl heptadecafluorononanoate': 'PFAS,Perfluorinated Alkyl Substance',
@@ -18546,6 +18550,7 @@ export default {
   'Butyl isobutyrate': 'Not Assigned',
   'Butyl isocyanate': 'Organics, Other',
   'Butyl pentadecafluorooctanoate': 'PFAS,Perfluorinated Alkyl Substance',
+  'Butyl propionate': 'Not Assigned',
   'Butyl stearate': 'Not Assigned',
   Butylamine: 'Organics, Pesticide',
   Butylate: 'Organics, Pesticide',
@@ -24229,6 +24234,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Methyl 2-methoxytetrafluoropropionate':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Methyl 2-methylpropanoate': 'Not Assigned',
   'Methyl 2H,2H,3H,3H-perfluoroheptanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Methyl 2H,2H-perfluorobutyl ether': 'PFAS,Perfluorinated Alkyl Substance',
@@ -30151,6 +30157,7 @@ export default {
   'Propyl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Propyl acetate': 'Not Assigned',
+  'Propyl butanoate': 'Not Assigned',
   'Propyl ether': 'Not Assigned',
   'Propyl heptadecafluorononanoate': 'PFAS,Perfluorinated Alkyl Substance',
   'Propyl,heptafluoro': 'PFAS,Perfluorinated Alkyl Substance',

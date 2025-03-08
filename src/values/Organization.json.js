@@ -4,6 +4,7 @@ export default {
   description: '',
   type: 'string',
   enum: [
+    '****RENAME***T-BIOPSS',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -1220,7 +1221,6 @@ export default {
     'SWQC',
     'SWRCB',
     'SYCEO_WQX',
-    'T-BIOPSS',
     'TABLEMOUNTAINRANCHERIA_WQX',
     'TAKSHANUK',
     'TAMUCC',

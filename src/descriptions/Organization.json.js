@@ -12,6 +12,7 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
+  '****RENAME***T-BIOPSS': 'Washington Department of Fish and Wildlife (WDFW)',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -322,7 +323,8 @@ export default {
   ARWRF: '',
   ARWWRRI_WQX: 'Water Quality Monitoring Data: BIOmonitoring',
   ASEPA_WQX: '',
-  ASHCREEKCONSERVATIONASSOC: 'Ash Creek Conservation Association',
+  ASHCREEKCONSERVATIONASSOC:
+    'The Ash Creek Conservation Association mission is to advocate for protecting and restoring the ecologically fragile Ash Creek tidal estuary, as well as surrounding waters and coastal land areas.',
   ASPECT_WQX: '',
   ASUERF: '',
   AURORA_WQX: 'Water Quality Monitoring Data',
@@ -849,7 +851,7 @@ export default {
     'Kiowa Indian Tribe of Oklahoma (Tribal) || Kiowa Indian Tribe of Oklahoma (Tribal)',
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX: 'Klamath Tribes (Tribal) || Klamath Tribes (Tribal)',
-  KNA: '',
+  KNA: 'Test  WQX with M.Z. credentials.',
   KNRD_WQX:
     'Kalispel Indian Community of the Kalispel Reservation (Tribal) || Kalispel Indian Community of the Kalispel Reservation (Tribal)',
   KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
@@ -1482,7 +1484,6 @@ export default {
   SWQC: "The Summit Water Quality Committee (SWQC) is a watershed organization formalized by intergovernmental agreement.  Members include the Towns, County and major municipal dischargers (permits # CO-0021598, CO-0020451, CO-0020826, CO-0029955, CO-0021539) in Summit County Colorado. SWQC's focus is on providing definitive environmental assessments of the Blue River Watershed, including Dillon and Green Mountain Reservoirs and promoting pollution control.",
   SWRCB: '',
   SYCEO_WQX: '',
-  'T-BIOPSS': 'Washington Department of Fish and Wildlife (WDFW)',
   TABLEMOUNTAINRANCHERIA_WQX:
     'Table Mountain Rancheria of California (Tribal) || Table Mountain Rancheria of California (Tribal)',
   TAKSHANUK: 'Takshanuk Watershed Council Water Quality Monitoring',
@@ -1652,7 +1653,7 @@ export default {
   WC_WQX: '',
   WDEP_WQX:
     'Wichita Department of Environmental Programs (Tribal) || Wichita Department of Environmental Programs (Tribal)',
-  WDFW: 'Washington Department of Fish and Wildlife; ',
+  WDFW: 'Washington Department of Fish and Wildlife;',
   WEARTH_WQX:
     'Minnesota Chippewa Tribe, Minnesota (White Earth Band) (Tribal) || Minnesota Chippewa Tribe, Minnesota (White Earth Band) (Tribal)',
   WENATCHEEPCBINV_WQX: '',

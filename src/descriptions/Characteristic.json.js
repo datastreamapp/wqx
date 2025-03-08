@@ -3438,6 +3438,8 @@ export default {
   '1-Ethyl-3-methyl-1H-imidazol-3-ium bis(pentafluoroethanesulfonyl)azanide':
     '',
   '1-Ethyl-3-methylpyridin-1-ium nonafluorobutane-1-sulfonate': '',
+  '1-Ethyl-4-methylcyclohexane':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/19503',
   '1-Ethylnaphthalene': '; Request Date: 30-MAY-13',
   '1-Ethylsulfonyl-1,1,2,2,2-pentafluoroethane': '',
   '1-Ethylsulfonyl-1,1,2,2,3,3,3-heptafluoropropane': '',
@@ -11018,6 +11020,7 @@ export default {
   '4-Heptadecafluorooctanesulfonamidobenzenesulfonic acid sodium salt': '',
   '4-Heptadecafluorooctyl-phenol': '',
   '4-Heptafluorobutyryloxyhexadecane': '',
+  '4-Heptanone': '',
   '4-Heptanone, 1,1,1,7,7,7-hexafluoro-2,6-dihydroxy-2,6-bis(trifluoromethyl)-':
     '',
   '4-Heptanone, 1,1,1,7,7,7-hexafluoro-2,6-dihydroxy-2,6-bis(trifluoromethyl)- ,2,2-dimethylhydrazone':
@@ -14840,6 +14843,8 @@ export default {
   'Butyl acrylate vinyl acetate polymer': 'NWIS',
   'Butyl benzoate': '; Request Date: 02-MAR-07',
   'Butyl benzyl phthalate': 'Nemi.gov; Request Date: 02-MAR-07',
+  'Butyl butyrate': '',
+  'Butyl ether': '',
   'Butyl ethyl(heptafluoropropyl)phosphinate': '',
   'Butyl heptadecafluorononanoate': '',
   'Butyl heptafluorobutanoate': '',
@@ -14847,6 +14852,7 @@ export default {
   'Butyl isocyanate':
     'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/27466',
   'Butyl pentadecafluorooctanoate': '',
+  'Butyl propionate': '',
   'Butyl stearate': '; Request Date: 02-MAR-07',
   Butylamine: '; Request Date: 02-MAR-07',
   Butylate: 'Nemi.gov; Request Date: 22-JUL-14',
@@ -20418,6 +20424,7 @@ export default {
   'Methyl 2-methoxy-6-[(1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonyl)oxy]benzoate':
     '',
   'Methyl 2-methoxytetrafluoropropionate': '',
+  'Methyl 2-methylpropanoate': '',
   'Methyl 2H,2H,3H,3H-perfluoroheptanoate': '',
   'Methyl 2H,2H-perfluorobutyl ether': '',
   'Methyl 3,3,4,4,4-pentafluoro-2-oxobutanoate': '',
@@ -25667,6 +25674,7 @@ export default {
   'Propyl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     '',
   'Propyl acetate': '; Request Date: 02-MAR-07',
+  'Propyl butanoate': '',
   'Propyl ether': '; Request Date: 02-MAR-07',
   'Propyl heptadecafluorononanoate': '',
   'Propyl,heptafluoro': '',
