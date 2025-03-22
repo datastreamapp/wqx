@@ -4,7 +4,6 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    '****RENAME***T-BIOPSS',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -515,6 +514,7 @@ export default {
     'DRMPWQX',
     'DRMS',
     'DRN',
+    'DUCKSU_WQX',
     'DUCKWATER',
     'DVSJ',
     'DWH_SCRIBE1082',
@@ -1149,6 +1149,7 @@ export default {
     'SFEI',
     'SFNOES_WQX',
     'SHELLYAB_WQX',
+    'SHINGLESPRINGS_WQX',
     'SHOPAITR_WQX',
     'SHOSHONE_BANNOCK',
     'SHOSHONE_BANNOCK_WQX',

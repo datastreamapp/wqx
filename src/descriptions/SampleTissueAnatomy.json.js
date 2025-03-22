@@ -10,6 +10,8 @@ export default {
     'The red liquid that circulates in the arteries and veins of humans and other vertebrate animals, carrying oxygen to and carbon dioxide from the tissues of the body.',
   'Blood Plasma':
     'A yellowish liquid component of blood that holds the blood cells in whole blood in suspension.',
+  'Blood Serum':
+    'The clear liquid part of the blood that remains after blood cells and clotting proteins have been removed.',
   'Blood,Brachial,prim coll site': '',
   'Blood,Jugular+Metatarsal, pcs': '',
   'Blood,Jugular,prim coll site': '',

@@ -11,6 +11,7 @@ export default {
     'Bile',
     'Blood',
     'Blood Plasma',
+    'Blood Serum',
     'Blood,Brachial,prim coll site',
     'Blood,Jugular+Metatarsal, pcs',
     'Blood,Jugular,prim coll site',

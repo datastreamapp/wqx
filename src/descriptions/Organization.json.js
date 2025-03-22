@@ -12,7 +12,6 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '****RENAME***T-BIOPSS': 'Washington Department of Fish and Wildlife (WDFW)',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -36,8 +35,7 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX':
-    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
+  '11NPSWRD_WQX': '',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -603,6 +601,7 @@ export default {
   DRMPWQX: 'Region 6 - ENIPC - Mescalero Apache Tribe',
   DRMS: 'Colorado Division of Reclamation, Mining and Safety (DRMS), Inactive Mines Program (IMP)',
   DRN: 'Delaware Riverkeeper Network',
+  DUCKSU_WQX: '',
   DUCKWATER:
     'Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada (Tribal) || Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada (Tribal)',
   DVSJ: 'Death Valley Timbi-sha Shoshone Tribe (Tribal) || Death Valley Timbi-sha Shoshone Tribe (Tribal)',
@@ -1394,6 +1393,7 @@ export default {
   SFEI: '',
   SFNOES_WQX: ' (Tribal)',
   SHELLYAB_WQX: 'Water Quality Monitoring Data.',
+  SHINGLESPRINGS_WQX: 'Shingle Springs Band of Miwok Indians UNREGISTERED',
   SHOPAITR_WQX:
     'Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada (Tribal) || Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada (Tribal)',
   SHOSHONE_BANNOCK: 'Shoshone Bannock Tribes',
