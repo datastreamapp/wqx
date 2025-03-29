@@ -688,7 +688,7 @@ export default {
   FMMI: '',
   FMYN_WQX:
     'Fort McDowell Yavapai Nation, Arizona (Tribal) || Fort McDowell Yavapai Nation, Arizona (Tribal)',
-  FOB: 'Volunteer Monitoring Group',
+  FOB: '',
   FOBWV: 'non-profit conservation organization West Virginia',
   FOCW: 'Restore, preserve, and promote the outstanding natural qualities of the Cheat River watershed.',
   FONDULAC_WQX: '',
@@ -1161,6 +1161,7 @@ export default {
   OLMS: "Non-profit dedicated to the protection of Ohio's lakes and their watershed",
   ONEIDA_WQX: 'Oneida Nation',
   OOPBLO: 'Pueblo of Ohkay Owingeh, New Mexico',
+  ORACWA_WQX: '',
   ORDNRMRLSTD_GI:
     'USEPA Office of Research and Development, National Risk Management Research Laboratory',
   OREGONDEQ: '',

@@ -33,8 +33,12 @@ export default {
     'A sample of analyte-free media that has been used to rinse the sampling equipment. It is collected after completion of decontamination and prior to sampling. This blank is useful in documenting adequate decontamination of sampling equipment.',
   'Quality Control Lab Sample Equipment Rinsate Blank':
     'A sample of analyte-free media that has been used to rinse the sampling equipment in the laboratory. It is collected after completion of decontamination and prior to sampling. This blank is useful in documenting adequate decontamination of sampling equipment prior to the equipment being used in the field.',
+  'Quality Control Sample-Archive Blank':
+    'A sample of analyte free water put in the same type of bottle used for a regular sample and stored adjacent to a regular sample in a storage area.',
   'Quality Control Sample-Blind Duplicate':
     'The duplicate samples are identical samples (collected from same source and same time) however blind duplicates are submitted to the laboratory by an identification scheme so that the laboratory does not know the samples are identical.   The purpose of blind duplicates is to test for laboratory bias.  ',
+  'Quality Control Sample-Concurrent Replicate':
+    'Sample collected at the same time and location as an environmental sample, using separate sampling equipment from the environmental sample.',
   'Quality Control Sample-Equipment Blank':
     'A sample of analyte free water analyzed with field samples to assess the presence or absence of equipment or instrument contamination.',
   'Quality Control Sample-Field Ambient Conditions Blank':
@@ -44,9 +48,33 @@ export default {
   'Quality Control Sample-Field Replicate':
     'Multiple samples taken within each combination of time, location, and any other controlled variables. The purpose of collecting replicate samples is to obtain precision. For a large size field it is important to break field into homogeneous sub-areas and collect samples proportions to the size of each sub-area.',
   'Quality Control Sample-Field Spike':
-    'A known mass of target analyte added to a blank sample or subsample in the field. The pupose of a field spike is to show that sample preperation procedures do not contribute to loss of analytes.',
+    'A known quantity of target analyte added to a blank sample or environmental subsample in the field. One purpose of a field spike is to show that sample preparation procedures do not contribute to loss of analytes.',
   'Quality Control Sample-Field Surrogate Spike':
     'A pure substance with properties that mimic the analyte of interest is called surrogate. Target Surrogate is added in sample to determine the recovery efficiency for quality control purposes.',
+  'Quality Control Sample-Integrated Time Series-Ambient Blank':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is a ambient blank, which is a sample of analyte-free water prepared prior to environmental time-composite sample collection, exposed to ambient site conditions, and handled otherwise the same as the environmental samples.',
+  'Quality Control Sample-Integrated Time Series-Concurrent Replicate':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is collected at the same time and location as an environmental sample, using separate sampling equipment from the environmental sample.',
+  'Quality Control Sample-Integrated Time Series-Equipment Blank':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is an equipment blank, which is a sample of analyte-free water passed through the same equipment used for collecting and processing as a regular time-composite sample, typically in controlled conditions such as an office or laboratory',
+  'Quality Control Sample-Integrated Time Series-Field Blank':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is a field blank, which is a sample of analyte-free water subjected to the same aspects of sample collection, field processing, preservation, transportation, and laboratory handling as a regular time-composite sample.',
+  'Quality Control Sample-Integrated Time Series-Lab Blank':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is a laboratory blank, which is a sample prepared in the laboratory of analyte-free water and analyzed the same as a regular time-composite sample. ',
+  'Quality Control Sample-Integrated Time Series-Sequential Replicate':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is collected sequentially in time (usually after) and at the same location as the environmental sample, using separate sampling equipment from the environmental sample.',
+  'Quality Control Sample-Integrated Time Series-Split Replicate':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection.',
+  'Quality Control Sample-Integrated Time Series-SplitConcurrentReplicate':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection; processing is concurrent with environmental sample.',
+  'Quality Control Sample-Integrated Time Series-SplitSequentialReplicate':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection; processing is after the environmental sample.',
+  'Quality Control Sample-Integrated Time Series-Trip Blank':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is a trip blank, which is a sample of analyte-free water prepared prior to environmental time-composite sample collection, remains closed during the field trip, and is handled otherwise the same as the environmental samples.',
+  'Quality Control Sample-Integrated Time Series-Unspecified Blank':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is a blank, which is a sample of analyte-free water, of unspecified treatment or type.',
+  'Quality Control Sample-Integrated Time Series-Unspecified Replicate':
+    'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is collected in association with the environmental sample of unspecified replicate treatment or type.',
   'Quality Control Sample-Inter-lab Split':
     'Split samples are obtained by dividing one sample into two or more identical sub-samples, and analyzed at different laboratories.  Interlaboraory splits are used to compare the accuracy and precision of the laboratories doing the analyses.',
   'Quality Control Sample-Lab Blank':
@@ -76,7 +104,7 @@ export default {
   'Quality Control Sample-Lab Re-Analysis':
     'A sample that is analyzed more than once.',
   'Quality Control Sample-Lab Spike':
-    'A known mass of target analyte added to a blank sample or subsample in the laboratory. The pupose of a laboratory spike is to show that sample preperation procedures do not contribute to loss of analytes.',
+    'A known quantity of target analyte added to a blank sample or environmental subsample in the laboratory. One purpose of a laboratory spike is to show that sample preparation procedures do not contribute to loss of analytes.',
   'Quality Control Sample-Lab Spike Duplicate':
     'A known mass of target analyte added to a blank sample or subsample in the laboratory. The purpose of a laboratory spike is to show that sample preparation procedures do not contribute to loss of analytes.',
   'Quality Control Sample-Lab Spike Target':
@@ -101,10 +129,36 @@ export default {
     'The analyte-free media tested before undergoing the same preserving process as the samples. This Blank is tested to check the quality of preservation process.',
   'Quality Control Sample-Reagent Blank':
     'Reagent Blank is analyte free water analyzed with samples, one per sample test. The reagent blank is analyzed to control the quality. ',
+  'Quality Control Sample-Reference Material':
+    'Reference material is a general term for a homogenous substance generally prepared by laboratories or chemical suppliers where the concentration of one or more constituents is known. Reference-material samples provide the baseline supplier-provided concentrations for comparison to analytical results from reference samples of this material.',
   'Quality Control Sample-Reference Sample':
     'A sample (i.e., test sample or control sample/standard) with known analyte concentration used either singly or in replicate, as appropriate, to monitor method performance characteristics. ',
+  'Quality Control Sample-Sequential Replicate':
+    'Sample collected sequentially in time (usually after) and at the same location as the environmental sample, using separate sampling equipment from the environmental sample.',
+  'Quality Control Sample-Source Solution Blank':
+    'A sample of analyte-free water used to confirm that it is free of the analytes of interest.',
+  'Quality Control Sample-Spike Replicate':
+    'A known quantity of target analyte added to a blank sample or environmental subsample. This spiked sample is one of multiples prepared to assess variability. ',
+  'Quality Control Sample-Spike, Unspecified Type':
+    'A known quantity of target analyte added to a blank sample or environmental subsample. This spiked sample is of unspecified treatment or type.',
+  'Quality Control Sample-Split Concurrent Replicate':
+    'Sample collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection; processing is concurrent with environmental sample.',
+  'Quality Control Sample-Split Replicate':
+    'Sample collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection.',
+  'Quality Control Sample-Split Sequential Replicate':
+    'Sample collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection; processing is after the environmental sample.',
+  'Quality Control Sample-Topical Replicate':
+    'Sample collected at the same time and location as an environmental subsample and collected using modified procedures to assess variability for project-specific purposes.',
+  'Quality Control Sample-Topical Spike':
+    'Sample where a known quantity of a target analyte has been added and collected using modified procedures to assess variability for project-specific purposes.',
   'Quality Control Sample-Trip Blank':
     'Trip blanks are test samples of analyte-free media taken from the laboratory to the sampling site and returned to the laboratory unopened. They are used to measure cross-contamination from the container and preservative during transport, field handling, and storage. Usually, at least one trip blank should be prepared for each sample type per trip.',
+  'Quality Control Sample-Unspecified Blank':
+    'A sample of analyte-free water that is used to assess contamination of unspecified treatment or type.',
+  'Quality Control Sample-Unspecified Replicate':
+    'Sample collected in association with the environmental sample of unspecified replicate treatment or type.',
+  'Quality Control Sample-Unspecified Topical':
+    'Sample of unspecified type collected using modified procedures to assess variabiltiy for project-specific purposes.',
   'Quality Control-Calibration Check':
     'The resulting value for a standard run during or after field work to verify that an instrument has maintained its calibration.',
   'Quality Control-Calibration Check Buffer':
@@ -132,13 +186,15 @@ export default {
   'Sample-Integrated Flow Proportioned':
     'A sample integrated over an interval or space within which changes in flow are used to alter the proportion of the sampled medium contributing to the integrated sample.',
   'Sample-Integrated Horizontal Profile':
-    'A discrete/integrated sample, usually derived from a continuous record, representing some portion or segment of a horizontal track within the study area.',
+    'A discrete/integrated sample, representing some portion or segment of a horizontal track within the study area.',
   'Sample-Integrated Horizontal and Vertical Composite Profile':
     'A discrete/integrated sample, usually derived from a continuous record, representing some portion or segment of a horizontal and vertical track within the study area.',
   'Sample-Integrated Time Series':
     'A discrete/integrated sample, usually derived from a continuous time series of samples, representing some portion or segment of elapsed time within the overall activity duration or sample period. This Activity Type Code should not be used for Continuous Time Series data collected using a data logger (sensors).',
+  'Sample-Integrated Unspecified Profile':
+    'A discrete/integrated sample, representing some portion or segment of an unspecified track within the study area.',
   'Sample-Integrated Vertical Profile':
-    'A discrete/integrated sample, usually derived from a continuous record, representing some portion or segment of a vertical track within the study area.',
+    'A discrete/integrated sample, representing some portion or segment of a vertical track within the study area.',
   'Sample-Negative Control': 'A controlled sample with absence of analyte.',
   'Sample-Other':
     'This category contains a sample collected following a process which is not included in this list.',

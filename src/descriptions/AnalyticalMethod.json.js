@@ -504,7 +504,7 @@ export default {
   8030: '',
   8031: '8031 ~ EPA-RCA . Acrylonitrile in Water Using Gas Chromatography',
   8032: '',
-  8033: '8033 ~ EPA-RCA . Acetonitrile in Aqueous Matrices Using Gas Chromatography with Nitrogen-Phosphorus Detection',
+  8033: '',
   8034: '',
   8037: '',
   8038: '',
@@ -578,7 +578,7 @@ export default {
   8305: '',
   8306: '',
   8308: '',
-  8310: '8310 ~ EPA-RCA . Polynuclear Aromatic Hydrocarbons by HPLC Using Ultraviolet and Fluorescence Detectors',
+  8310: '',
   8311: '',
   8315: '',
   8316: '8316 ~ EPA-RCA . Acrylamide, Acrylonitrile, and Acrolein by HPLC',
@@ -1746,7 +1746,7 @@ export default {
     '4500-NO3- F ~ Standard Methods . Nitrate by Automated Cadmium Reduction Method',
   '4500-NO3(G)': '',
   '4500-NO3(H)':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7417/',
+    '4500-NO3- H ~ Standard Methods . Nitrate by Automated Hydrazine Reduction',
   '4500-NO3(I)': '',
   '4500-NO3- D***retired*// 4500-NO3 D': 'DO NOT USE ~ ',
   '4500-NO3- E***retired***4500-NO3(E)': 'DO NOT USE ~ ',
@@ -1759,7 +1759,8 @@ export default {
   '4500-NORGB':
     '4500-NorgB ~ Standard Methods . Nitrogen, organic, in Water by Macro-Kjeldahl',
   '4500-O-B': '',
-  '4500-O-C': '4500-O C ~ Standard Methods . Oxygen by Azide Modification',
+  '4500-O-C':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7389/',
   '4500-O-D': '',
   '4500-O-E': '',
   '4500-O-F': '',
@@ -1776,9 +1777,10 @@ export default {
   '4500-P F***retired*** 4500-P-F': 'DO NOT USE ~ ',
   '4500-P-C': '',
   '4500-P-D': '',
-  '4500-P-E': '4500-P E ~ Standard Methods . Phosphorus by Ascorbic Acid',
+  '4500-P-E':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7436/',
   '4500-P-F': '',
-  '4500-P-G': '',
+  '4500-P-G': 'https://www.standardmethods.org/doi/10.2105/SMWW.2882.093',
   '4500-P-H': '',
   '4500-P-I':
     'URL: (page 19 on pdf): http://www.lachatinstruments.com/download/LL022-Rev-7.pdf',
@@ -1789,8 +1791,7 @@ export default {
   '4500-S-2 F***.retired***4500-S2(F)':
     '4500-S-2 F ~ Standard Methods . Sulfide in Water by Iodometric Method',
   '4500-S2 F***retired*** 4500-S2(F)': 'DO NOT USE ~ ',
-  '4500-S2(D)':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7418/',
+  '4500-S2(D)': '4500-S2- D ~ Standard Methods . Sulfide by Methylene Blue',
   '4500-S2(E)': '',
   '4500-S2(F)': '4500-S2- F ~ Standard Methods . Sulfide by Iodometry',
   '4500-S2(G)':
@@ -1809,7 +1810,7 @@ export default {
   '4500-SI(F)': '',
   '4500-SI(G)': '',
   '4500-SIO2 C':
-    '4500-SiO2 C ~ Standard Methods . Silica by Molybdosilicate Method',
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7411/',
   '4500-SIO2 D':
     '4500-SiO2 D ~ Standard Methods . Silica by Heteropoly Blue Method',
   '4500-SIO2 E':
