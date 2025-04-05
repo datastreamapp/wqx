@@ -9107,6 +9107,7 @@ export default {
     'Chloromeson',
     'Chloromonas',
     'Chloromonas grovei',
+    'Chloroperla',
     'Chloroperlidae',
     'Chloroperlinae',
     'Chlorophthalmidae',

@@ -54261,6 +54261,7 @@ export default {
     'Chloromeson',
     'Chloromonas',
     'Chloromonas grovei',
+    'Chloroperla',
     'Chloroperla brevis',
     'Chloroperla ovibovis',
     'Chloroperla terna',

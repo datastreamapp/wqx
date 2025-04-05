@@ -43,7 +43,7 @@ export default {
     'Organics, Other',
     'Organics, PCBs',
     'Organics, Pesticide',
-    'PFAS,Perfluorinated Alkyl Substance',
+    'PFAS, Perfluorinated Alkyl Substance',
     'PFOA, Perfluorooctanoic Acid',
     'PFOS, Perfluorooctane Sulfonate',
     'Periphyton',

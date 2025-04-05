@@ -41,7 +41,7 @@ export default {
           'Organic Nitrogen',
           'Organic phosphorus',
           'Orthophosphate',
-          'Oxygen 18/oxygen 16 ratio in sulfate',
+          'Oxygen 18/oxygen 16 ratio in sulfate***retired***use Oxygen-18/oxygen-16 ratio as SO4',
           'Oxygen-18',
           'Oxygen-18/Oxygen-16 ratio',
           'Phosphate-phosphorus',

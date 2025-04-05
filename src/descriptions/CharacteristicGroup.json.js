@@ -43,7 +43,7 @@ export default {
   'Organics, Other': '<http://hydro.geodab.eu/hydro-ontology/concept/42>',
   'Organics, PCBs': '<http://hydro.geodab.eu/hydro-ontology/concept/1282>',
   'Organics, Pesticide': '<http://hydro.geodab.eu/hydro-ontology/concept/1833>',
-  'PFAS,Perfluorinated Alkyl Substance': '',
+  'PFAS, Perfluorinated Alkyl Substance': '',
   'PFOA, Perfluorooctanoic Acid':
     'renamed from PFOS, Perfluorooctane Sulfonate',
   'PFOS, Perfluorooctane Sulfonate':

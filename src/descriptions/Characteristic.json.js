@@ -1,4 +1,5 @@
 export default {
+  'Acetic acid, 2-ethylhexyl ester': 'WQP; Rejected',
   '% undercut bank': '; Request Date: 08-JUN-10',
   '(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononyl)oxy)phenyl)sulfonyl)(methyl)amino)acetic acid':
     '',
@@ -3975,6 +3976,7 @@ export default {
     'nbsp',
   '1-Pentanone, 4,4,5,5-tetrafluoro-3-hydroxy-1-phenyl-': '',
   '1-Penten-3-one, 2-bromo-1-(bromoamino)-4,4,5,5-tetrafluoro-1-phenyl-': '',
+  '1-Penten-3-yne': '',
   '1-Pentene': '; Request Date: 02-MAR-07',
   '1-Pentene, 1,1,2,3,3,4,4,5,5-nonafluoro-5-[(1,2,2-trifluoroethenyl)oxy]-':
     '',
@@ -4671,6 +4673,8 @@ export default {
   '13C2-8:2 FTS': '',
   '13C2-PFDA': '',
   '13C2-PFDoA': '',
+  '13C2-PFDoDA':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/13C2-PFDoA#section=PFAS-and-Fluorinated-Organic-Compounds-in-PubChem',
   '13C2-PFHxA': '',
   '13C2-PFOA': '',
   '13C2-PFTeDA': '',
@@ -7513,6 +7517,7 @@ export default {
   '2-Methyl-2-butene': '',
   '2-Methyl-2-butene & 1-pentene': '',
   '2-Methyl-2-heptene': 'https://pubchem.ncbi.nlm.nih.gov/compound/12330',
+  '2-Methyl-2-hexene': '',
   '2-Methyl-2-nitropropane': '',
   '2-Methyl-2-pentene': '',
   '2-Methyl-2-propenoic acid 2-(diethylamino)ethyl ester polymers with glycidyl methacrylate and .gamma.-.omega.-perfluoro-C6-20-alkyl acrylate, acetates(salts)':
@@ -11574,6 +11579,8 @@ export default {
     '',
   '5-Hydroxydicamba': '; Request Date: 02-MAR-07',
   '5-Hydroxyimidacloprid': '; Request Date: 13-MAY-15',
+  '5-Hydroxythiabendazole':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/5-Hydroxythiabendazole',
   '5-Hydroxyvalproic acid': 'NWIS',
   '5-Iodoperfluoro-3-oxapentanesulfonyl fluoride': '',
   '5-Isoxazolol, 4,5-dihydro-3-phenyl-5-(1,1,2,2-tetrafluoroethyl)-': '',
@@ -11664,6 +11671,7 @@ export default {
     '',
   '5:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '5:2 Fluorotelomer ketone sulfonate': '',
+  '5:3 FTCA': '',
   '5H,5H-Perfluoro-4,6-nonanedione': '',
   '5H-Octafluoropentanoic acid': '',
   '5H-Octafluoropentanoyl chloride': '',
@@ -11870,6 +11878,7 @@ export default {
   '7229-93-8': '',
   '7:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '7:2 Fluorotelomer ketone sulfonate': '',
+  '7:3 FTCA': '',
   '7:3 perfluorodecanoate': '',
   '7H-Dibenzo(b,g)carbazole, 7-methyl-': '; Request Date: 11-JAN-18',
   '7H-Perfluoroheptanal': '',
@@ -22560,7 +22569,8 @@ export default {
   Oxydisulfoton: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   Oxyfluorfen: '; Request Date: 22-JUL-14',
   Oxygen: '; Request Date: 02-MAR-07',
-  'Oxygen 18/oxygen 16 ratio in sulfate': '; Request Date: 02-MAR-07',
+  'Oxygen 18/oxygen 16 ratio in sulfate***retired***use Oxygen-18/oxygen-16 ratio as SO4':
+    '; Request Date: 02-MAR-07',
   'Oxygen Delta 18': '; Request Date: 22-JUL-14',
   'Oxygen plus argon': 'NWIS',
   'Oxygen uptake, day':
@@ -28547,6 +28557,8 @@ export default {
   'Triethylene glycol monobutyl ether': '; Request Date: 02-MAR-07',
   'Triethylene glycol monotetradecyl ether': 'NWIS',
   Trifloxystrobin: '; Request Date: 22-JUL-14',
+  'Trifloxystrobin acid':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/Trifloxystrobin-acid#section=Depositor-Supplied-Synonyms',
   'Trifloxysulfuron-sodium': '; Request Date: 29-NOV-10',
   Triflumezopyrim: '',
   Triflumizole: 'NWIS',
@@ -29562,7 +29574,8 @@ export default {
   'heptadecafluoro(1,2,3,4-13C4)octane-1-sulfonic acid': '',
   'hosphoric acid, methyl bis(2,2,3,3-tetrafluoropropyl) ester': '',
   'human-specific Bacteroides species': '; Request Date: 21-OCT-15',
-  'hydrogen isotopes of water (d2H)': '',
+  'hydrogen isotopes of water (d2H)***retired***use Deuterium/Hydrogen ratio (as H2O)':
+    'Method speciation = as H2O',
   'larval growth and survival': 'Fathead minnow, larval growth and survival',
   'm and p-Cresol': '1;',
   'm(and p)-Ethyltoluene': '',
@@ -29661,7 +29674,8 @@ export default {
   'o-chlorobenzoic acid': '; Request Date: 10-MAR-15',
   'octadecan-1-ol': '; Request Date: 14-APR-15',
   'ortho & para Xylene mix': 'Request Date: 3-Mar-07 (nps.gov cas# review)',
-  'oxygen isotopes of water (d18O)': '1;',
+  'oxygen isotopes of water (d18O)***retired***use Oxygen-18/Oxygen-16 ratio (as H2O)':
+    'Method speciation = as H2O',
   "p,p' DDE + DDT": 'GLENDA BioData 1978; Request Date: 21-NOV-16',
   "p,p'-Bis(undecafluorocyclohexanemethanol) pyrophosphate": '',
   "p,p'-DDD": 'Nemi.gov; Request Date: 02-MAR-07',

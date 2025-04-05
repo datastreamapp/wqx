@@ -1,4 +1,5 @@
 export default {
+  'Acetic acid, 2-ethylhexyl ester': '103-09-3',
   '% undercut bank': '',
   '(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononyl)oxy)phenyl)sulfonyl)(methyl)amino)acetic acid':
     '',
@@ -4302,6 +4303,7 @@ export default {
   '1-Pentanone, 4,4,5,5-tetrafluoro-3-hydroxy-1-phenyl-': '105602-59-3',
   '1-Penten-3-one, 2-bromo-1-(bromoamino)-4,4,5,5-tetrafluoro-1-phenyl-':
     '143674-86-6',
+  '1-Penten-3-yne': '646-05-9',
   '1-Pentene': '109-67-1',
   '1-Pentene, 1,1,2,3,3,4,4,5,5-nonafluoro-5-[(1,2,2-trifluoroethenyl)oxy]-':
     '122440-16-8',
@@ -5037,6 +5039,7 @@ export default {
   '13C2-8:2 FTS': '',
   '13C2-PFDA': '',
   '13C2-PFDoA': '',
+  '13C2-PFDoDA': '',
   '13C2-PFHxA': '',
   '13C2-PFOA': '',
   '13C2-PFTeDA': '',
@@ -7834,6 +7837,7 @@ export default {
   '2-Methyl-2-butene': '513-35-9',
   '2-Methyl-2-butene & 1-pentene': '',
   '2-Methyl-2-heptene': '627-97-4',
+  '2-Methyl-2-hexene': '2738-19-4',
   '2-Methyl-2-nitropropane': '594-70-7',
   '2-Methyl-2-pentene': '625-27-4',
   '2-Methyl-2-propenoic acid 2-(diethylamino)ethyl ester polymers with glycidyl methacrylate and .gamma.-.omega.-perfluoro-C6-20-alkyl acrylate, acetates(salts)':
@@ -12120,6 +12124,7 @@ export default {
     '62478-08-4',
   '5-Hydroxydicamba': '7600-50-2',
   '5-Hydroxyimidacloprid': '380912-09-4',
+  '5-Hydroxythiabendazole': '948-71-0',
   '5-Hydroxyvalproic acid': '',
   '5-Iodoperfluoro-3-oxapentanesulfonyl fluoride': '66137-74-4',
   '5-Isoxazolol, 4,5-dihydro-3-phenyl-5-(1,1,2,2-tetrafluoroethyl)-':
@@ -12211,6 +12216,7 @@ export default {
     '97220-62-7',
   '5:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '5:2 Fluorotelomer ketone sulfonate': '',
+  '5:3 FTCA': '914637-49-3',
   '5H,5H-Perfluoro-4,6-nonanedione': '113116-18-0',
   '5H-Octafluoropentanoic acid': '376-72-7',
   '5H-Octafluoropentanoyl chloride': '376-71-6',
@@ -12433,6 +12439,7 @@ export default {
   '7229-93-8': '7229-93-8',
   '7:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '7:2 Fluorotelomer ketone sulfonate': '',
+  '7:3 FTCA': '812-70-4',
   '7:3 perfluorodecanoate': '1799325-95-3',
   '7H-Dibenzo(b,g)carbazole, 7-methyl-': '3557-49-1',
   '7H-Perfluoroheptanal': '647-44-9',
@@ -27968,6 +27975,7 @@ export default {
   'Triethylene glycol monobutyl ether': '143-22-6',
   'Triethylene glycol monotetradecyl ether': '',
   Trifloxystrobin: '141517-21-7',
+  'Trifloxystrobin acid': '252913-85-2',
   'Trifloxysulfuron-sodium': '290332-10-4',
   Triflumezopyrim: '1263133-33-0',
   Triflumizole: '68694-11-1',

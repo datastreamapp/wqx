@@ -9102,6 +9102,7 @@ export default {
   Chloromeson: 'Not Assigned',
   Chloromonas: 'Not Assigned',
   'Chloromonas grovei': 'Not Assigned',
+  Chloroperla: 'Not Assigned',
   Chloroperlidae: 'Not Assigned',
   Chloroperlinae: 'Not Assigned',
   Chlorophthalmidae: 'Not Assigned',

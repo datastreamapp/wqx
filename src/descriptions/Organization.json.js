@@ -12,6 +12,7 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
+  '***RENAME****XQW_ZIRA12': '',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -45,7 +46,6 @@ export default {
   '21ALBCH': 'State of Alabama Environmental Agency',
   '21AQ_WQX': '',
   '21ARIZGW_WQX': 'Water Quality Monitoring',
-  '21ARIZ_WQX': 'Water Quality Monitoring Data for all the Waters in the state',
   '21AS_WQX': '',
   '21AWIC': '',
   '21BRBCH': 'The Natural Resources Department within the Bad River Tribe',
@@ -327,6 +327,7 @@ export default {
   ASPECT_WQX: '',
   ASUERF: '',
   AURORA_WQX: 'Water Quality Monitoring Data',
+  'AUSABLECENTER.': '',
   AWC_WQX:
     'Water Quality Monitoring Data. American Water is a water resource company where the majority of the companys activities are centered in locally-managed utility subsidiaries that are regulated by the state in which each operates.',
   AWQDECJN: '',
@@ -497,6 +498,7 @@ export default {
   CLALLAMCODCD: "Clallam County-DCD || Jamestown S'Klallam Tribe (Tribal)",
   CLALLAMCOUNTYDCD: '',
   CLALLAMCOUNTYEH_WQX: 'Clallam County Environmental Health Services',
+  CLEARFIELDCD: '',
   CLINCHVALLEYSWCD_WQX: '',
   CLPWC: 'Volunteer Monitoring Group',
   CMCNRMI_WQX:
@@ -530,6 +532,7 @@ export default {
     'Coquille Indian Tribe (Tribal) || Coquille Indian Tribe (Tribal)',
   COQUILLE_WA: 'Current VolMon group',
   CORIVWCH_WQX: 'Water Quality Monitoring',
+  CORNELLSCALE: '',
   CORTINARANCHERIA_WQX: 'Cortina Rancheria Kletsel Dehe Wintun Nation',
   COYOTEVAL_WQX:
     'Coyote Valley Band of Pomo Indians of California (Tribal) || Coyote Valley Band of Pomo Indians of California (Tribal)',
@@ -847,8 +850,7 @@ export default {
   KICKAPOO07: 'Kickapoo Tribe in Kansas;',
   KINGCOENVIROLAB: '',
   KINGCOUNTY: '',
-  KIOWA_WQX:
-    'Kiowa Indian Tribe of Oklahoma (Tribal) || Kiowa Indian Tribe of Oklahoma (Tribal)',
+  KIOWA_WQX: 'Kiowa Tribe of Oklahoma; Kiowa Tribe of Oklahoma',
   KITSAPCHD_WQX: '',
   KLAMATHTRIBES_WQX: 'Klamath Tribes (Tribal) || Klamath Tribes (Tribal)',
   KNA: 'Test  WQX with M.Z. credentials.',
@@ -1323,6 +1325,7 @@ export default {
     'This data was collected as part of the Supplemental Remedial Investigation/Feasibility Study (RI/FS) conducted along the east side of the Willamette River between approximately River Mile (RM) 10.9 and RM 11.6 (referred to as RM11E) in Portland, Oregon. The results were uploaded by GSI Water Solutions, Inc. on behalf of the RM11E Group,  including Cargill, Inc., CBS Corporation, the City of Portland, DIL Trust, Glacier Northwest, Inc., and PacifiCorp.',
   ROBINSONRANCHERIAENVIRONMENTAL:
     'Robinson Rancheria (Tribal) || Robinson Rancheria (Tribal)',
+  ROCKBRIDGE_WQX: '',
   ROSEBUDSIOUXTRIBE: 'Rosebud Sioux Tribe',
   ROUNDVALLEY:
     'Round Valley Indian Tribes, Round Valley Reservation, California (Tribal) || Round Valley Indian Tribes, Round Valley Reservation, California (Tribal)',
