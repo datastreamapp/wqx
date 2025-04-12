@@ -52087,6 +52087,7 @@ export default {
     'Ceratopsyche cf. aenigma',
     'Ceratopsyche cheilonis',
     'Ceratopsyche cockerelli',
+    'Ceratopsyche etnieri',
     'Ceratopsyche macleodi',
     'Ceratopsyche morosa',
     'Ceratopsyche morosa bifida',

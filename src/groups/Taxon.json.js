@@ -7865,6 +7865,7 @@ export default {
   'Ceratopsyche cf. aenigma': 'Not Assigned',
   'Ceratopsyche cheilonis': 'Not Assigned',
   'Ceratopsyche cockerelli': 'Not Assigned',
+  'Ceratopsyche etnieri': 'Not Assigned',
   'Ceratopsyche macleodi': 'Not Assigned',
   'Ceratopsyche morosa': 'Not Assigned',
   'Ceratopsyche morosa bifida': 'Not Assigned',

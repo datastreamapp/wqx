@@ -4,7 +4,6 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    '***RENAME****XQW_ZIRA12',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -658,6 +657,7 @@ export default {
     'HAYWOOD_WQX',
     'HBMI_WQX',
     'HDRINC_WQX',
+    'HEDINENV_WQX',
     'HEMPSTEAD_BAY_WQMP',
     'HEPD_WQX',
     'HERRERA_ENVIRONMENTAL',
@@ -1101,6 +1101,7 @@ export default {
     'ROCKBRIDGE_WQX',
     'ROSEBUDSIOUXTRIBE',
     'ROUNDVALLEY',
+    'RPI_SCALE',
     'RREPA_WQX',
     'RRK_WQX',
     'RRWC_WQX',

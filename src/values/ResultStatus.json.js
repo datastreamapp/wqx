@@ -6,6 +6,7 @@ export default {
   enum: [
     'Accepted',
     'Final',
+    'Historical',
     'Preliminary',
     'Provisional',
     'Raw',

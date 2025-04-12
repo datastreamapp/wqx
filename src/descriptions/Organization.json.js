@@ -12,7 +12,6 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '***RENAME****XQW_ZIRA12': '',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -764,6 +763,7 @@ export default {
   HAYWOOD_WQX: '',
   HBMI_WQX: ' (Tribal)',
   HDRINC_WQX: '',
+  HEDINENV_WQX: '',
   HEMPSTEAD_BAY_WQMP: '',
   HEPD_WQX: '',
   HERRERA_ENVIRONMENTAL: '',
@@ -1329,6 +1329,7 @@ export default {
   ROSEBUDSIOUXTRIBE: 'Rosebud Sioux Tribe',
   ROUNDVALLEY:
     'Round Valley Indian Tribes, Round Valley Reservation, California (Tribal) || Round Valley Indian Tribes, Round Valley Reservation, California (Tribal)',
+  RPI_SCALE: '',
   RREPA_WQX:
     'Resighini Rancheria, California (Tribal) || Resighini Rancheria, California (Tribal)',
   RRK_WQX: 'Rogue Riverkeeper',

@@ -622,6 +622,12 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
+  '.*****retired*****1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-':
+    'NWIS',
+  '.*****retired*****Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-':
+    'NWIS',
+  '.*****retired****Heptanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-':
+    'NWIS',
   '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
@@ -3776,8 +3782,6 @@ export default {
     '',
   '1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-N-(26-hydroxy-3,6,9,12,15,18,21,24-octaoxahexacos':
     '',
-  '1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-':
-    'NWIS',
   '1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-***retired***use Perfluorooctanesulfonamide':
     '',
   '1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-, ammonium salt (1:1)':
@@ -6264,7 +6268,7 @@ export default {
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEC': '',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ':
     'Request Date: 22-JUL-14| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TTE': '',
+  '2,3,7,8-Tetrachlorodibenzo-p-dioxin, TTE': '1746-01-6',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin-C13':
     'PBDE Delaware River Basin Commission/New Jersey; Request Date: 17-JUN-16',
   '2,3,7,8-Tetrachlorodibenzo-p-dioxin-Cl37':
@@ -6811,7 +6815,7 @@ export default {
   '2-(N-Methyl1,1,2,2,3,3,4,4,5,5,6,6,6- tridecafluorohexanesulfonamido)acetic acid':
     '',
   '2-(N-Methylperfluorooctanesulfonamido)acetate': '',
-  '2-(N-ethylperfluoro-1-octanesulfonamido)-ethanol***retired***use N-Ethyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide':
+  '2-(N-ethylperfluoro-1-octanesulfonamido)-ethanol***retired***use N-Ethylperfluorooctanesulfonamidoethanol':
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   '2-(N-methylperfluoro-1-octanesulfonamido)-ethanol':
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
@@ -9969,7 +9973,9 @@ export default {
   '3-Pentyn-1-ol': '',
   '3-Perfluoroheptyl propanoate': 'WQP',
   '3-Perfluoroheptyl propanoic acid': '3-Perfluoroheptyl propanoic acid',
+  '3-Perfluoroheptylpropanoic acid (7:3 FTCA)': '',
   '3-Perfluorohexyl-2-hydroxypropyl acrylate': '',
+  '3-Perfluoropentylpropanoic acid (5:3 FTCA)': '',
   '3-Perfluoropropyl propanoate': 'Request Date: 23-MAY-23',
   '3-Perfluoropropyl propanoic acid***retired***use 3:3 Fluorotelomer carboxylic acid':
     '3-Perfluoropropyl propanoic acid',
@@ -11671,7 +11677,6 @@ export default {
     '',
   '5:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '5:2 Fluorotelomer ketone sulfonate': '',
-  '5:3 FTCA': '',
   '5H,5H-Perfluoro-4,6-nonanedione': '',
   '5H-Octafluoropentanoic acid': '',
   '5H-Octafluoropentanoyl chloride': '',
@@ -11878,7 +11883,6 @@ export default {
   '7229-93-8': '',
   '7:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '7:2 Fluorotelomer ketone sulfonate': '',
-  '7:3 FTCA': '',
   '7:3 perfluorodecanoate': '',
   '7H-Dibenzo(b,g)carbazole, 7-methyl-': '; Request Date: 11-JAN-18',
   '7H-Perfluoroheptanal': '',
@@ -11948,6 +11952,8 @@ export default {
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate':
     'Request Date: 03-JUN-23 ; 1621485-21-9',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
+  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid (9Cl-PF3ONS)':
+    'https://ez.restek.com/compound/view/it/756426-58-1/9-chlorohexadecafluoro-3-oxanonane-1-sulfonic%20acid',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate':
     '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
@@ -14779,8 +14785,8 @@ export default {
   'Butanenitrile, 2,2,3,3,4,4,4-heptafluoro-': '',
   'Butanenitrile, 4,4,4-trifluoro-3-hydroxy-3-(trifluoromethyl)-': '',
   'Butanesulfonyl fluoride, nonafluoro-, branched': '',
-  'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-***retired***use Heptafluorobutyric acid':
-    '',
+  'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-***retired***use Perfluorobutanoic acid':
+    '19-JUN-20 ; Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-***retired***use Heptafluorobutyric acid',
   "Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-, 1,1'-anhydride": '',
   'Butanoic acid, 2,2,3,3,4,4,4-heptafluoro-, 2-[6,7-dihydro-3-methyl-2-[[[4-(2-phenyldiazenyl)phenyl]amino]carbonyl]-4(5H)-benzofuranylidene]hydrazide':
     '',
@@ -18776,8 +18782,9 @@ export default {
   'Heptafluorobutanoic acid anhydride, compd. with dihexyl phosphonate (2:1)':
     '',
   'Heptafluorobutanoic acid-piperazine (1:1)': '',
-  'Heptafluorobutyric acid': 'Request Date: 21-OCT-08',
   'Heptafluorobutyric acid hexadecyl ester': '',
+  'Heptafluorobutyric acid***retired***use Perfluorobutanoic acid':
+    'Request Date: 21-OCT-08',
   'Heptafluorobutyric acid, n-pentade': '',
   Heptafluoroethanamine: '',
   'Heptafluoroisopropyl acrylate': '',
@@ -18813,9 +18820,8 @@ export default {
   'Heptanedioic acid, decafluoro-': '',
   'Heptaneperoxoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-': '',
   'Heptanoic acid': '; Request Date: 02-MAR-07',
-  'Heptanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-': 'NWIS',
   'Heptanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-***retired***use Perfluoroheptanoic acid':
-    '',
+    'NWIS, 01-OCT-21 ; ',
   'Heptanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-, ammonium salt (1:1)':
     '',
   'Heptanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-, sodium salt (1:1)':
@@ -20039,6 +20045,12 @@ export default {
   'Low-level Mercury': 'Request Date: 7-Apr-18 (nps.gov cas# review)',
   Lutetium: '; Request Date: 02-MAR-07',
   'M-Diethylbenzene': '; Request Date: 03-JUL-08',
+  'M2-4:2 FTS':
+    'This refers to the specific type of 4:2 fluorotelomer sulfonate (4:2 FTS)',
+  'M2-6:2 FTS':
+    'This refers to the specific type of 4:2 fluorotelomer sulfonate (6:2 FTS)',
+  'M2-8:2 FTS':
+    'This refers to the specific type of 4:2 fluorotelomer sulfonate (8:2 FTS)',
   MBAS: 'Methylene blue active substances amenable to measurement by the method described in Methods for Chemical Analysis of Water and Waste.; Request Date: 02-MAR-07',
   'MC 1 (part of chlordane total)': '; Request Date: 30-MAY-13',
   'MC 2 (part of chlordane total)': '; Request Date: 30-MAY-13',
@@ -21537,13 +21549,15 @@ export default {
   'N-Ethylperfluoro-1-undecanesulfonamide': '',
   'N-Ethylperfluoroethanesulfonamide': '',
   'N-Ethylperfluorooctane-1-sulfonamide': '',
-  'N-Ethylperfluorooctanesulfonamide': 'Request Date: 26-OCT-22',
   'N-Ethylperfluorooctanesulfonamide (N-EtFOSA) (D5, 98%)':
     '98% is WeightBasis',
+  'N-Ethylperfluorooctanesulfonamide***retired***use Sulfluramid':
+    'Request Date: 26-OCT-22',
   'N-Ethylperfluorooctanesulfonamidoacetate': 'Request Date: 26-OCT-22',
   'N-Ethylperfluorooctanesulfonamidoacetic acid (N-EtFOSAA) (N-ethyl-D5, 98%)':
     '98% is WeightBasis',
-  'N-Ethylperfluorooctanesulfonamidoethanol': 'Request Date: 23-MAY-23',
+  'N-Ethylperfluorooctanesulfonamidoethanol':
+    'Request Date: 23-MAY-23 ; https://pubchem.ncbi.nlm.nih.gov/compound/n-Ethyl-perfluorooctanesulfonamidoethanol',
   'N-Heptafluorobutyrylproline': '',
   'N-Hexyl-perfluorooctanesulfonamide': '',
   'N-Hexylperfluorobutanesulfonamide': '',
@@ -21790,7 +21804,8 @@ export default {
     '',
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     '',
-  'N-ethyl Perfluorooctane sulfonamide': 'Organics,PFAS: Sulfluramid',
+  'N-ethyl Perfluorooctane sulfonamide****retired***use Sulfluramid':
+    'Organics,PFAS: Sulfluramid',
   'N-ethyl Perfluorooctane sulfonamide***retired***use Sulfluramid': '',
   'N-ethyl perfluoro-1-octanesulfonamide':
     'N-ethyl perfluoro-1-octanesulfonamide',
@@ -22058,7 +22073,8 @@ export default {
   'Nonafluoro(nitroso)cyclopentane': '',
   'Nonafluoro(trifluoromethoxy)cyclopentane': '',
   'Nonafluoro-3,6-dioxaheptanate': '',
-  'Nonafluoro-3,6-dioxaheptanoic acid': 'Nonafluoro-3,6-dioxaheptanoic acid',
+  'Nonafluoro-3,6-dioxaheptanoic acid***retired***use Perfluoro-3,6-dioxaheptanoic acid':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/Perfluoro-3_6-dioxaheptanoic-acid',
   'Nonafluorobutan-1-amine': '',
   'Nonafluorobutane-1-sulfinic acid': '',
   'Nonafluorobutane-1-sulfonoperoxoic acid': '',
@@ -22105,7 +22121,6 @@ export default {
   'Nonanethioic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-, S-[3-(trimethoxysilyl)propyl] ester':
     '',
   'Nonanoic acid': '; Request Date: 02-MAR-07',
-  'Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-': 'NWIS',
   'Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-***retired***use Perfluorononanoic acid':
     '',
   'Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-hexadecafluoro-, ammonium salt':
@@ -23450,7 +23465,8 @@ export default {
   'Perfluoro-1-butanesulfinic acid ammonium': '',
   'Perfluoro-1-butanesulfonyl chloride': '',
   'Perfluoro-1-decanesulfonamide': '',
-  'Perfluoro-1-decanesulfonic acid': 'Perfluoro-1-decanesulfonic acid',
+  'Perfluoro-1-decanesulfonic acid***retired***use 1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro-':
+    'Perfluoro-1-decanesulfonic acid',
   'Perfluoro-1-decanol': '',
   'Perfluoro-1-decene': '',
   'Perfluoro-1-dodecanesulfonamide': '',
@@ -23465,7 +23481,8 @@ export default {
   'Perfluoro-1-nonanesulfonamide': '',
   'Perfluoro-1-nonanesulfonic acid': 'Perfluoro-1-nonanesulfonic acid',
   'Perfluoro-1-octanesulfinic acid': '',
-  'Perfluoro-1-octanesulfonamide': 'Perfluoro-1-octanesulfonamide',
+  'Perfluoro-1-octanesulfonamide***retired***use Perfluorooctanesulfonamide':
+    'Perfluoro-1-octanesulfonamide',
   'Perfluoro-1-octanesulfonyl chloride': '',
   'Perfluoro-1-propanesulfinic acid sodium': '; Request Date: 17-May-22',
   'Perfluoro-1-propanol': '',
@@ -23763,8 +23780,8 @@ export default {
   'Perfluorobutanesulfonic anhydride': '',
   Perfluorobutanoate: 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Perfluorobutanoate (anionic form)': 'Request Date: 05-Dec-19',
-  'Perfluorobutanoic acid***retired***use Heptafluorobutyric acid':
-    'https://pubchem.ncbi.nlm.nih.gov/compound/Heptafluorobutyric-acid',
+  'Perfluorobutanoic acid':
+    '10-FEB-21 ; Perfluorobutanoic acid***retired***use Heptafluorobutyric acid ;  https://pubchem.ncbi.nlm.nih.gov/compound/Heptafluorobutyric-acid',
   Perfluorobutanol: '422228',
   'Perfluorobutyl hydrogen sulfate': '',
   Perfluorobutylcyclohexane: '',
@@ -23799,7 +23816,7 @@ export default {
   'Perfluorodecane sulfonic anhydride': '',
   'Perfluorodecane-1-sulfinic acid': '',
   Perfluorodecanesulfonate: '',
-  'Perfluorodecanesulfonic acid ***retired***use 1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro':
+  'Perfluorodecanesulfonic acid***retired***use 1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro':
     'Request Date: 19-Nov-18 (nps.gov cas# 375-22-4 review)',
   Perfluorodecanoate: 'Request Date: 01-APR-13, cas# 73829-36-4',
   'Perfluorodecanoate (anionic form)': 'Request Date: 05-Dec-19',
@@ -23846,7 +23863,8 @@ export default {
   'Perfluoroheptane sulfonamide': '',
   'Perfluoroheptane sulfonamide amino carboxylates': '',
   'Perfluoroheptane sulfonamido amine oxide': '',
-  'Perfluoroheptane sulfonate': 'Perfluoroheptane sulfonate',
+  'Perfluoroheptane sulfonate***retired***use 1-Heptanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-':
+    'Perfluoroheptane sulfonate 26-OCT-22 ;',
   'Perfluoroheptane sulfonic anhydride': '',
   'Perfluoroheptane-1-sulfinic acid': '',
   Perfluoroheptanenitrile: '',
@@ -23925,8 +23943,8 @@ export default {
   Perfluorooctanamide: '',
   Perfluorooctanamidine: '',
   'Perfluorooctane amido amine': '',
-  'Perfluorooctane sulfonamide': '',
   'Perfluorooctane sulfonamide amino carboxylates': '',
+  'Perfluorooctane sulfonamide***retired***use Perfluorooctanesulfonamide': '',
   'Perfluorooctane sulfonamido ammonium bromide': '',
   'Perfluorooctane sulfonate': 'Perfluorooctane sulfonate',
   'Perfluorooctane sulfonic acid': 'Request Date: 21-OCT-08',
@@ -24068,6 +24086,7 @@ export default {
   Petasidae: 'NWIS',
   Petroleum:
     'A complex combination of hydrocarbons.  It consists predominantly of aliphatic, alicyclic and aromatic hydrocarbons.  It may also contain small amounts of nitrogen, oxygen and sulfur compounds.  This category encompasses light, medium, and heavy petroleums, as well as the oils extracted from tar sands. Hydrocarbonaceous materials requiring major chemical changes for their recovery or conversion t',
+  'Petroleum hydrocarbons (C4-C12)': '; Request Date: 09-APR-25',
   'Petroleum hydrocarbons (C9-C44)': '; Request Date: 31-JAN-18',
   'Petroleum hydrocarbons, total extractable': '; Request Date: 08-DEC-15',
   'Petroleum hydrocarbons, total volatile': 'Hydorcarbons through C12.;',
@@ -25503,7 +25522,7 @@ export default {
   'Propanoic acid, 2,2,3,3-tetrafluoro-3-[1,2,2,2-tetrafluoro-1-(fluorocarbonyl)ethoxy]-, methyl ester':
     '',
   'Propanoic acid, 2,2,3,3-tetrafluoro-3-methoxy-, methyl ester': '',
-  'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-':
+  'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-***retired***use 4,8-Dioxa-3H-perfluorononanoic acid':
     'EPA Registry Name:4,8-Dioxa-3H-perfluorononanoic acid ; WQP-Alias',
   'Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-, ammonium salt (1:1)***retired***use Ammonium 4,8-dioxa-3H-perfluorononanoate':
     'ADONA',
