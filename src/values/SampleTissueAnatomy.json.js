@@ -27,6 +27,8 @@ export default {
     'Carapace',
     'Connective Tissue',
     'Digestive Gland',
+    'Dorsal Muscle Plug, Skin Off',
+    'Dorsal Muscle Plug, Skin On',
     'Ear',
     'Edible Portion',
     'Egg/Ovum',

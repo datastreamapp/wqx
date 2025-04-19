@@ -1,5 +1,4 @@
 [
-  ".*****retired*****Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-",
   ".gamma.-Hexachlorocyclohexane***retired***use Lindane",
   "1,1,2-Trichlorotrifluoroethane***retired***use CFC-113",
   "1,1-Dichloroethene***retired***use 1,1-Dichloroethylene",
@@ -329,6 +328,7 @@
   "Number of individuals***retired***use Individuals examined, actual number",
   "Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N",
   "Octadecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,18-pentatriacontafluoro-***retired***use Octadecanoic acid, pentatriacontafluoro-",
+  "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-***retired***use Perfluorooctanoic acid",
   "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, methyl ester***retired***use Methyl perfluorooctanoate",
   "Octylphenol monoethoxylate***retired***use 2-(4-Octylphenoxy)ethanol",
   "PAH***retired***use Polycyclic aromatic hydrocarbons",
@@ -391,6 +391,7 @@
   "Tributlytin***retired***use Tributyltin",
   "Trichloroethene (TCE)***retired***use Trichloroethylene",
   "Triclocarban (3-4-4'-Trichlorocarbanilide)***retired***use Triclocarban",
+  "Tridecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-pentacosafluoro-***retired***use Perfluorotridecanoic acid",
   "Tris(1-chloro-2-propyl)phosphate***retired***use Tris(1-chloro-2-propyl) phosphate",
   "Xylenes, m- & p- Mix***retired***use m,p-Xylene",
   "alpha-HCH (aLindane)***retired***use .alpha.-Hexachlorocyclohexane",

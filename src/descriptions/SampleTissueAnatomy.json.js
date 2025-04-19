@@ -35,6 +35,10 @@ export default {
     'Tissue that connects, supports, binds, or separates other tissues or organs, typically having relatively few cells embedded in an amorphous matrix, often with collagen or other fibers, and including cartilaginous, fatty, and elastic tissues.',
   'Digestive Gland':
     'a glandular organ of digestion present in crustaceans, mollusks, and certain other invertebrates.',
+  'Dorsal Muscle Plug, Skin Off':
+    'The plug is a "mini fillet" taken from the anterior dorsal area: muscle tissue taken from the back, with the skin removed.',
+  'Dorsal Muscle Plug, Skin On':
+    'The plug is a "mini fillet" taken from the anterior dorsal area, presumably without harming it, muscle tissue taken from the back, including the attached skin.',
   Ear: 'The organ of hearing and balance in humans and other vertebrates.',
   'Edible Portion': '',
   'Egg/Ovum': 'The female reproductive cell in animals and plants.',

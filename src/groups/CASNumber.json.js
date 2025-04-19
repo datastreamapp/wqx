@@ -678,7 +678,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '.**': '375-85-9',
   '.Alpha.-Pinene': '80-56-8',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
@@ -12514,8 +12513,7 @@ export default {
   '9-Chloro-perfluorononanoic acid': '865-79-2',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate': '756426-58-1',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid (9Cl-PF3ONS)':
-    '756426-58-1',
+  '9-Chlorohexadecafluoro-3-oxanone-1-sulfonic acid': '756426-58-1',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate': '',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
     '23068-06-6',
@@ -12547,7 +12545,6 @@ export default {
   '9-[2-(2-Methoxyethoxy)ethoxy]-9-[3-[(perfluoroheptyl)methoxy]propyl]-2,5,8,10,13,16-hexaoxa-9-silaheptadecane':
     '154380-27-5',
   '9-aminoacridine': '90-45-9',
-  '9-chlorohexadecafluoro-3-oxanone-1-sulfonic acid': '756426-58-1',
   '9-ethyl-9-borabicyclo[3.3.1]nonane': '52102-17-7',
   '9-n-Dodecyl[tetradecahydroanthracene]': '55401-75-7',
   '9:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
@@ -13014,6 +13011,7 @@ export default {
   'Adipic acid': '124-04-9',
   'Adiponitrile, perfluoro': '376-53-4',
   'Adjusted gross alpha activity': '',
+  'Adsorbable organic fluorine (AOF)': '',
   'Adsorbable organic halides': '',
   'Aeromonas hydrophila': '',
   'Aerosols, (nonflammable)': '',
@@ -16535,6 +16533,8 @@ export default {
   'D3-Digoxin': '127299-95-0',
   'D3-Lincomycin': '',
   'D3-N-MeFOSA': '',
+  'D3-NMeFOSAA': '',
+  'D3-NMePFOSA': '936109-37-4',
   'D3-Naproxen': '',
   'D3-Norgestimate': '',
   'D3-Ofloxacin': '2208780-63-4',
@@ -16549,6 +16549,8 @@ export default {
   'D5-Enrofloxacin': '1219795-24-0',
   'D5-Miconazole': '1398065-80-9',
   'D5-N-EtFOSA': '',
+  'D5-NEtFOSAA': '',
+  'D5-NEtPFOSA': '',
   'D5-Norfloxacin': '1015856-57-1',
   'D5-Oxacillin': '',
   'D5-Oxolinic Acid': '1189890-98-9',
@@ -16559,9 +16561,11 @@ export default {
   'D6-Dehydronifedipine': '125464-52-0',
   'D6-Ranitidine': '',
   'D6-Sulfadimethoxine': '',
+  'D7-N-MeFOSE-M': '',
   'D7-Roxithromycin': '',
   'D8-Sarafloxacin': '',
   'D9 (+/-)11-nor-9-carboxy-delta-THC': '136765-52-1',
+  'D9-N-EtFOSE-M': '',
   'DCPA mono-acid degradate': '887-54-7',
   'DCPA-d6': '',
   'DCPA-d6 (dimethyl-d6)': '350818-66-5',
@@ -22321,6 +22325,7 @@ export default {
   'Octanethioic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, S-ethyl ester':
     '111918-92-4',
   'Octanoic acid': '124-07-2',
+  'Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-': '335-67-1',
   "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, 1,1'-anhydride":
     '33496-48-9',
   "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, [1,1'-biphenyl]-3-yl ester":
@@ -27712,7 +27717,6 @@ export default {
   'Toxaphene Parlar 21': ' ',
   'Toxaphene Parlar 25': '166106-91-8',
   'Toxaphene Parlar 26': '142534-71-2',
-  'Toxaphene Parlar 26***': '142534-71-2',
   'Toxaphene Parlar 31/32': ' ',
   'Toxaphene Parlar 38': '165820-15-5',
   'Toxaphene Parlar 39': ' ',

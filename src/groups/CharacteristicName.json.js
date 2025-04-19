@@ -937,7 +937,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS, Perfluorinated Alkyl Substance',
-  '.**': 'Not Assigned',
   '.Alpha.-Pinene': 'Organics, Other',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
@@ -15547,8 +15546,8 @@ export default {
     'PFAS, Perfluorinated Alkyl Substance',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid':
     'PFAS, Perfluorinated Alkyl Substance',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid (9Cl-PF3ONS)':
-    'Not Assigned',
+  '9-Chlorohexadecafluoro-3-oxanone-1-sulfonic acid':
+    'PFAS, Perfluorinated Alkyl Substance',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate': 'Not Assigned',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
     'PFAS, Perfluorinated Alkyl Substance',
@@ -15583,8 +15582,6 @@ export default {
   '9-[2-(2-Methoxyethoxy)ethoxy]-9-[3-[(perfluoroheptyl)methoxy]propyl]-2,5,8,10,13,16-hexaoxa-9-silaheptadecane':
     'PFAS, Perfluorinated Alkyl Substance',
   '9-aminoacridine': 'Not Assigned',
-  '9-chlorohexadecafluoro-3-oxanone-1-sulfonic acid':
-    'PFAS, Perfluorinated Alkyl Substance',
   '9-ethyl-9-borabicyclo[3.3.1]nonane': 'Not Assigned',
   '9-n-Dodecyl[tetradecahydroanthracene]': 'Not Assigned',
   '9:1 Fluorotelomer amino ethyl trimethyl ammonium':
@@ -16091,6 +16088,7 @@ export default {
   'Adipic acid': 'Not Assigned',
   'Adiponitrile, perfluoro': 'PFAS, Perfluorinated Alkyl Substance',
   'Adjusted gross alpha activity': 'Radiochemical',
+  'Adsorbable organic fluorine (AOF)': 'Not Assigned',
   'Adsorbable organic halides': 'Organics, Other',
   'Aeromonas hydrophila': 'Microbiological',
   'Aerosols, (nonflammable)': 'Not Assigned',
@@ -20047,6 +20045,8 @@ export default {
   'D3-Digoxin': 'Not Assigned',
   'D3-Lincomycin': 'Not Assigned',
   'D3-N-MeFOSA': 'Stable Isotopes',
+  'D3-NMeFOSAA': 'Not Assigned',
+  'D3-NMePFOSA': 'Not Assigned',
   'D3-Naproxen': 'Not Assigned',
   'D3-Norgestimate': 'Not Assigned',
   'D3-Ofloxacin': 'Not Assigned',
@@ -20061,6 +20061,8 @@ export default {
   'D5-Enrofloxacin': 'Not Assigned',
   'D5-Miconazole': 'Not Assigned',
   'D5-N-EtFOSA': 'Stable Isotopes',
+  'D5-NEtFOSAA': 'Not Assigned',
+  'D5-NEtPFOSA': 'Not Assigned',
   'D5-Norfloxacin': 'Not Assigned',
   'D5-Oxacillin': 'Not Assigned',
   'D5-Oxolinic Acid': 'Not Assigned',
@@ -20071,9 +20073,11 @@ export default {
   'D6-Dehydronifedipine': 'Not Assigned',
   'D6-Ranitidine': 'Not Assigned',
   'D6-Sulfadimethoxine': 'Not Assigned',
+  'D7-N-MeFOSE-M': 'Not Assigned',
   'D7-Roxithromycin': 'Not Assigned',
   'D8-Sarafloxacin': 'Not Assigned',
   'D9 (+/-)11-nor-9-carboxy-delta-THC': 'Organics, Other',
+  'D9-N-EtFOSE-M': 'Not Assigned',
   'DCPA mono-acid degradate': 'Not Assigned',
   'DCPA-d6': 'Not Assigned',
   'DCPA-d6 (dimethyl-d6)': 'Information',
@@ -26564,6 +26568,8 @@ export default {
   'Octanethioic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, S-ethyl ester':
     'PFAS, Perfluorinated Alkyl Substance',
   'Octanoic acid': 'Not Assigned',
+  'Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-':
+    'PFOA, Perfluorooctanoic Acid',
   "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, 1,1'-anhydride":
     'PFAS, Perfluorinated Alkyl Substance',
   "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, [1,1'-biphenyl]-3-yl ester":
@@ -28325,7 +28331,7 @@ export default {
   'Perfluorotetradecanesulfonic acid': 'PFAS, Perfluorinated Alkyl Substance',
   Perfluorotetradecanoate: 'PFAS, Perfluorinated Alkyl Substance',
   'Perfluorotetradecanoic acid': 'PFAS, Perfluorinated Alkyl Substance',
-  'Perfluorotetradecanoic acid (PFTeA)': 'Organics, Other',
+  'Perfluorotetradecanoic acid (PFTeA)': 'PFAS, Perfluorinated Alkyl Substance',
   'Perfluorotetradecyl hydrogen sulfate':
     'PFAS, Perfluorinated Alkyl Substance',
   'Perfluorotetrakis(carboxyethoxymethyl)methane tetramethyl ester':
@@ -32655,7 +32661,6 @@ export default {
   'Toxaphene Parlar 21': 'Not Assigned',
   'Toxaphene Parlar 25': 'Not Assigned',
   'Toxaphene Parlar 26': 'Organics, Other',
-  'Toxaphene Parlar 26***': 'Organics, Other',
   'Toxaphene Parlar 31/32': 'Not Assigned',
   'Toxaphene Parlar 38': 'Not Assigned',
   'Toxaphene Parlar 39': 'Not Assigned',

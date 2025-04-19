@@ -622,12 +622,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '.*****retired*****1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-':
-    'NWIS',
-  '.*****retired*****Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-':
-    'NWIS',
-  '.*****retired****Heptanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-':
-    'NWIS',
   '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
@@ -11952,8 +11946,8 @@ export default {
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate':
     'Request Date: 03-JUN-23 ; 1621485-21-9',
   '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid': '',
-  '9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid (9Cl-PF3ONS)':
-    'https://ez.restek.com/compound/view/it/756426-58-1/9-chlorohexadecafluoro-3-oxanonane-1-sulfonic%20acid',
+  '9-Chlorohexadecafluoro-3-oxanone-1-sulfonic acid':
+    'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate':
     '9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate',
   '9-Diethoxyphosphoryl-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-9-iodononane':
@@ -11986,8 +11980,6 @@ export default {
   '9-[2-(2-Methoxyethoxy)ethoxy]-9-[3-[(perfluoroheptyl)methoxy]propyl]-2,5,8,10,13,16-hexaoxa-9-silaheptadecane':
     '',
   '9-aminoacridine': '',
-  '9-chlorohexadecafluoro-3-oxanone-1-sulfonic acid':
-    'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   '9-ethyl-9-borabicyclo[3.3.1]nonane': '; Request Date: 21-NOV-14',
   '9-n-Dodecyl[tetradecahydroanthracene]': '; Request Date: 23-APR-15',
   '9:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
@@ -12484,6 +12476,8 @@ export default {
   'Adipic acid': '',
   'Adiponitrile, perfluoro': '',
   'Adjusted gross alpha activity': '; Request Date: 11-DEC-14',
+  'Adsorbable organic fluorine (AOF)':
+    'a group of organic fluorine-containing compounds that can be adsorbed onto a solid surface, such as activated carbon. ; https://www.epa.gov/system/files/documents/2021-09/cq1_br1_shoemaker.pdf',
   'Adsorbable organic halides':
     'A bulk parameter that measures the mass of chlorinated organic matter in water and wastewater.;',
   'Aeromonas hydrophila': '; Request Date: 02-MAR-07',
@@ -16259,6 +16253,10 @@ export default {
   'D3-Digoxin': '',
   'D3-Lincomycin': '',
   'D3-N-MeFOSA': '',
+  'D3-NMeFOSAA':
+    'D3-(N-Methylperfluorooctanesulfonamido)acetic acid ; https://www.mvdwater.org/wp-content/uploads/2019/05/PFAS-4-18-19.pdf',
+  'D3-NMePFOSA':
+    'D3-N-Methylperfluorooctanesulfonamide ; https://pubchem.ncbi.nlm.nih.gov/compound/N-Methylperfluorooctanesulfonamide-d3',
   'D3-Naproxen': '',
   'D3-Norgestimate': '',
   'D3-Ofloxacin': '',
@@ -16273,6 +16271,10 @@ export default {
   'D5-Enrofloxacin': '',
   'D5-Miconazole': '',
   'D5-N-EtFOSA': '',
+  'D5-NEtFOSAA':
+    'D5-N-ethyl perfluorooctanesulfonamidoacetic Acid; D5-N-Ethyl-N-[(heptadecafluorooctyl)sulphonyl]glycine ; https://www.mvdwater.org/wp-content/uploads/2019/05/PFAS-4-18-19.pdf',
+  'D5-NEtPFOSA':
+    'D5-N-ethylperfluoro-1-octanesulfonamide ; https://www.mvdwater.org/wp-content/uploads/2019/05/PFAS-4-18-19.pdf',
   'D5-Norfloxacin': '',
   'D5-Oxacillin': '',
   'D5-Oxolinic Acid': '',
@@ -16283,10 +16285,14 @@ export default {
   'D6-Dehydronifedipine': '',
   'D6-Ranitidine': '',
   'D6-Sulfadimethoxine': '',
+  'D7-N-MeFOSE-M':
+    'D7-N-ethylperfluorooctanesulfonamidoethanol ; Labeled Isotope Quality Control',
   'D7-Roxithromycin': '',
   'D8-Sarafloxacin': '',
   'D9 (+/-)11-nor-9-carboxy-delta-THC':
     'Request Date: 4-Dec-12 (nps.gov cas# review)',
+  'D9-N-EtFOSE-M':
+    'https://comptox.epa.gov/dashboard/chemical/synonyms/DTXSID401337612',
   'DCPA mono-acid degradate': 'Nemi.gov; Request Date: 24-SEP-19',
   'DCPA-d6': 'NWIS',
   'DCPA-d6 (dimethyl-d6)': 'DCPA-d6 (dimethyl-d6)',
@@ -22335,6 +22341,8 @@ export default {
   'Octanethioic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, S-ethyl ester':
     '',
   'Octanoic acid': '; Request Date: 02-MAR-07',
+  'Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-***retired***use Perfluorooctanoic acid':
+    'Request Date: 19-JUL-20 ; 20,1040',
   "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, 1,1'-anhydride":
     '',
   "Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, [1,1'-biphenyl]-3-yl ester":
@@ -23337,7 +23345,6 @@ export default {
   'Pentanedioyl dichloride, 2,2,3,3,4,4-hexafluoro-': '',
   'Pentanenitrile, 5,5,5-trifluoro-4,4-bis(trifluoromethyl)-': '',
   Pentaneura: 'TAXON: Animalia Kingdom; NWIS',
-  'Pentanoic acid, 2,2,3,3,4,4,5,5,5-nonafluoro-': 'NWIS',
   'Pentanoic acid, 2,2,3,3,4,4,5,5,5-nonafluoro-***retired***use Perfluorovaleric acid':
     '',
   'Pentanoic acid, 2,2,3,3,4,4,5,5,5-nonafluoro-, ammonium salt (1:1)': '',
@@ -23967,7 +23974,7 @@ export default {
   'Perfluorooctanoate N,N,N-trimethylmethanaminium': '',
   'Perfluorooctanoate***retired***use PFOA ion':
     'Request Date: 01-APR-13; SRS# 1833944, CAS# 45285-51-6',
-  'Perfluorooctanoic acid': 'Request Date: 22-JUL-14',
+  'Perfluorooctanoic acid': 'Request Date: 22-JUL-14 ; 1040,20',
   'Perfluorooctanoic acid diethanolamide': '',
   'Perfluorooctanoic acid-1,2-13C2': '',
   'Perfluorooctyl Ethylene': 'PFOS, Perfluorooctane Sulfonate',
@@ -28284,8 +28291,6 @@ export default {
   'Toxaphene Parlar 25': '',
   'Toxaphene Parlar 26':
     'GLENDA Biological Data MigrationRequest Date: 17-NOV-16| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  'Toxaphene Parlar 26***':
-    'Request Date: 19-Jul-16 NJDEP Division of Water Monitoring & Standards (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Toxaphene Parlar 31/32': '',
   'Toxaphene Parlar 38':
     'GLENDA Biological Data Migration; Request Date: 17-NOV-16',
@@ -28538,7 +28543,7 @@ export default {
   Tridecane: '; Request Date: 02-MAR-07',
   'Tridecanoic acid': '; Request Date: 02-MAR-07',
   'Tridecanoic acid, 12,12,13,13,13-pentafluoro-': '',
-  'Tridecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-pentacosafluoro-':
+  'Tridecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-pentacosafluoro-***retired***use Perfluorotridecanoic acid':
     '',
   'Tridecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-docosafluoro-':
     '',

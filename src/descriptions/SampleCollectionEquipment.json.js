@@ -33,7 +33,8 @@ export default {
     'block net used to funnel species downstream through a narrow opening so that they can be enumerated using sonar.',
   'Boat-Mounted Electroshock':
     'Sometimes called a stunboat the boat itself is the cathode, and the anode(s) are generally mounted off the bow. Electricity flowing between the cathode and anode. This affects the movement of the fish so that they swim toward the anode, where they can be caught.',
-  'Bod Dredge': '',
+  'Bod Dredge':
+    'Bio-Dredging, a biological process to remove sediment and nutrients from water bodies, and dredging equipment that uses suction or mechanical methods to remove sediment.',
   'Bongo Net':
     'Floating or suspended fish eggs and newly hatched larvae are often caught with Bongo nets. The mesh size is very fine, ranging from 20 µm up to 1000 µm (1 mm), thus allowing eggs and larvae with sizes of order 1-20 mm to be caught. The nets, mounted on a rigid yoke, can be towed from the surface to near the bottom for sampling throughout the water column.',
   'Boomerang Corer':
@@ -200,7 +201,8 @@ export default {
   'PTFE netting': 'Teflon netting used to measure water surface',
   'Pair Trawl':
     'A fishing activity carried out by two boats, with one towing each warp (the towing cables). As the mouth of the net is kept open by the lateral pull of the individual vessels, otter boards are not required.',
-  'Pamatmat Multiple Quartz Corer': '',
+  'Pamatmat Multiple Quartz Corer':
+    'sampling devices that can collect several sediment cores simultaneously. These are used for multiple sampling at a single location, comparative studies, and assessing sampling precision or sediment heterogeneity.',
   'Peterson Grab':
     'A deliberately heavy device for biting deep into hard bottoms and can hold up to 8 removable weights. Vent holes permit water to flow through while the grab is lowered, minimising diagonal movement and reducing the frontal shock wave. Jaws close clamshell- fashion.',
   'Petite Ponar Grab':
@@ -214,6 +216,7 @@ export default {
     'A net for horizontal or vertical tows in fresh or salt water.',
   'Plexiglass Slide Device': '',
   'Plexiglass Trap': '',
+  Plug: 'a device, typically a small cartridge or column, used to collect and pre-concentrate analytes from a sample.',
   'Plummet Net':
     'Plummet nets are a down-fishing zooplankton sampler that has no mouth obstructions and is cinched shut when the desired depth is reached. ',
   'Pneumatic Drive Core':

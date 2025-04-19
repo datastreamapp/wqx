@@ -136,6 +136,7 @@ export default {
     'Plankton Net',
     'Plexiglass Slide Device',
     'Plexiglass Trap',
+    'Plug',
     'Plummet Net',
     'Pneumatic Drive Core',
     'Point-integrating suspended sampler',

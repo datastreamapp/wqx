@@ -3,7 +3,7 @@ export default {
   Final: 'Publishable, released to public; Water Quality Portal visible.',
   Historical:
     'Originally entered in the database prior to the existence of a discoverable review process. Review, verification, and validation procedures not recorded in the database.',
-  Preliminary: 'Internal use only, not released to public.',
+  Preliminary: 'INTERNAL USE ONLY, NOT RELEASED TO PUBLIC.',
   Provisional:
     'Data are provisional and subject to revision until they have been thoroughly reviewed and received final approval. Users are cautioned to consider carefully the provisional nature of the information',
   Raw: 'State of original collection, not undergone any QC procedures; Water Quality Portal visible.',

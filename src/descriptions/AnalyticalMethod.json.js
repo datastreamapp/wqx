@@ -192,6 +192,7 @@ export default {
   1618: '',
   1619: '',
   1620: '',
+  1621: 'https://www.epa.gov/system/files/documents/2024-01/method-1621-for-web-posting.pdf',
   1622: '1622 ~ EPA-MICRO . Cryptosporidium by filtration/IMS/FA microscopy',
   1623: '1623 ~ EPA-MICRO . Cryptosporidium and giardia by filtration/IMS/FA microscopy',
   1624: '1624 ~ EPA-EAD . Volatile Organic Compounds by GC/MS',
@@ -942,6 +943,8 @@ export default {
   '1631B':
     'http://nepis.epa.gov/Exe/ZyNET.exe/40001EQ2.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1995+Thru+1999&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C95thru99%5CTxt%5C00000022%5C40001EQ2.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL',
   '1631E': '',
+  '1633A':
+    'https://www.epa.gov/system/files/documents/2024-12/method-1633a-december-5-2024-508-compliant.pdf',
   '1656(ECD)': '',
   '1656(HSD)': '',
   '1657A': '',
