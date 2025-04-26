@@ -678,6 +678,8 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
+  '.*****REUSE****1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
+    '39108-34-4',
   '.Alpha.-Pinene': '80-56-8',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
@@ -6872,6 +6874,7 @@ export default {
   '2,6-Dimethylheptane': '1072-05-5',
   '2,6-Dimethylnaphthalene': '581-42-0',
   '2,6-Dimethylnaphthalene-D12': '350820-12-1',
+  '2,6-Dimethylnonane': '17302-28-2',
   '2,6-Dimethyloctane': '2051-30-1',
   '2,6-Dimethylphenanthrene': '17980-16-4',
   '2,6-Dimethylphenol': '576-26-1',
@@ -23461,7 +23464,6 @@ export default {
   'Perfluoro-4-hexenesulfonic acid': '2089109-50-0',
   'Perfluoro-4-isopropoxybutanoic acid': '801212-59-9',
   'Perfluoro-4-methoxybutanoate': '1432017-36-1',
-  'Perfluoro-4-methoxybutanoic acid': '',
   'Perfluoro-4-methylcyclopentane-1-carboxylic acid': '',
   'Perfluoro-4-methylheptanoic acid': '1144512-18-4',
   'Perfluoro-4-methylpent-2-enoyl chloride': '207671-78-1',

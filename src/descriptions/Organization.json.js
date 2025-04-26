@@ -299,9 +299,10 @@ export default {
   ALLARM: '',
   ALO_WQX:
     'Promote and maintain clean water and a healthy coastal environment through education, research, and active participation.',
-  ALS: 'The American Littoral Society promotes the study and conservation of marine life and habitat, protects the coast from harm, and empowers others to do the same.',
   'ALS-SJ':
     'American Littoral Society - Delaware Bayshore Office, Water Quality Monitoring',
+  ALS_WQX:
+    'The American Littoral Society promotes the study and conservation of marine life and habitat, protects the coast from harm, and empowers others to do the same.',
   ANCHORQEA: 'Clients',
   ANIMASWP:
     'The AWP is a stakeholder driven, collaborative, watershed-based group made up of partners representing diverse interests across the watershed in New Mexico, the Southern Ute Tribal Lands and Colorado. Current membership is over 100 individuals and entities. The AWP works together across state and Tribal boundaries to protect and improve the quality of water resources in the Animas River.',

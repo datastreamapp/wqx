@@ -65,7 +65,7 @@ export default {
     'That portion of the analyte found in the liquid layer above a precipitate produced from the sample.',
   Suspended:
     'That portion of the analyte which is suspended in the sampled medium, either as, or adsorbed to, particles which are more or less uniformly dispersed within the medium.',
-  Total: 'The total of all fractions of the analyte.',
+  Total: 'The total of all fractions of the analyte. (sum)',
   'Total Recoverable':
     'The analyte concentration available for analysis in an unfiltered sample following solubilization.',
   'Total Residual':

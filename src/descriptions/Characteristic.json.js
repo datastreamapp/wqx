@@ -622,6 +622,8 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
+  '.*****REUSE****1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
+    '',
   '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
@@ -3340,8 +3342,6 @@ export default {
     '',
   '1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-icosafluoro-':
     '',
-  '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
-    '',
   '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-***retired***use Fluorotelomer sulfonate 8:2':
     'Request Date: 19-JUL-17',
   '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-, ion(1-)***retired***use FtS 8:2 ion':
@@ -3594,7 +3594,8 @@ export default {
   '1-Hexanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6-dodecafluoro-': '',
   '1-Hexanesulfonic acid, 1,1,2,2,3,3,5,5,6,6,6-undecafluoro-4,4-bis(trifluoromethyl)-':
     '',
-  '1-Hexanesulfonic acid, 3,3,4,4,5,5,6,6,6-nonafluoro-': '',
+  '1-Hexanesulfonic acid, 3,3,4,4,5,5,6,6,6-nonafluoro-***retired***use Fluorotelomer sulfonate 4:2':
+    '',
   '1-Hexanesulfonic acid, 3,3,4,4,5,5,6,6,6-nonafluoro-, ion(1-)***retired***use FtS 4:2 ion':
     '',
   '1-Hexanesulfonic acid, 3,3,4,4,5,5,6,6,6-nonafluoro-1-hydroxy-': '',
@@ -4777,9 +4778,9 @@ export default {
   '1H, 1H, 2H, 2H-[1,2-13C2]perfluorodecylphosphate': '',
   '1H, 1H, 2H, 2H-[1,2-13C2]perfluorodecylphosphate ion(1-)': '',
   '1H,10H-Perfluorodecane': '',
-  '1H,1H, 2H, 2H-Perfluorodecane sulfonic acid':
+  '1H,1H, 2H, 2H-Perfluorodecane sulfonic acid***retired***use Fluorotelomer sulfonate 8:2':
     '1H,1H, 2H, 2H-Perfluorodecane sulfonic acid',
-  '1H,1H, 2H, 2H-Perfluorohexane sulfonic acid':
+  '1H,1H, 2H, 2H-Perfluorohexane sulfonic acid***retired***use Fluorotelomer sulfonate 4:2':
     '1H,1H, 2H, 2H-Perfluorohexane sulfonic acid',
   '1H,1H, 2H, 2H-Perfluorooctane sulfonic acid***retired***use 6:2 Fluorotelomer sulfonate acid':
     '1H,1H, 2H, 2H-Perfluorooctane sulfonic acid',
@@ -6604,6 +6605,7 @@ export default {
   '2,6-Dimethylheptane': '',
   '2,6-Dimethylnaphthalene': 'Nemi.gov; Request Date: 02-MAR-07',
   '2,6-Dimethylnaphthalene-D12': '; Request Date: 01-MAY-14',
+  '2,6-Dimethylnonane': '',
   '2,6-Dimethyloctane': '',
   '2,6-Dimethylphenanthrene': '; Request Date: 31-MAR-14',
   '2,6-Dimethylphenol': 'Nemi.gov; Request Date: 24-SEP-19',
@@ -16556,7 +16558,7 @@ export default {
   Deuterium: '; Request Date: 17-AUG-15',
   'Deuterium, delta': '1; Request Date: 09-MAY-18',
   'Deuterium/Hydrogen ratio':
-    'The ratio of deuterium and hydrogen.; Request Date: 02-MAR-07',
+    'The ratio of deuterium and hydrogen.; Request Date: 02-MAR-07 ; 2H:1H, H2:H1 ',
   'Dew point':
     'The temperature to which air must be cooled at a given pressure and water-vapor content, for it to reach saturation.',
   Dexamethasone: '; Request Date: 22-JUL-14',
@@ -22025,7 +22027,8 @@ export default {
     'EPA Workgroup QA; Request Date: 02-APR-09',
   'Nitrogen-15':
     'Nitrogen, atomic number 7.Nitrogen, atomic number 7.; Request Date: 02-MAR-07',
-  'Nitrogen-15/Nitrogen-14 ratio': '; Request Date: 02-MAR-07',
+  'Nitrogen-15/Nitrogen-14 ratio':
+    '; Request Date: 02-MAR-07 ; 15N:14N, N15:N14',
   'Nitrogen/Phosphorus molar ratio': '; Request Date: 20-NOV-13',
   'Nitrogen/carbon monoxide': '',
   'Nitrogenous biochemical oxygen demand':
@@ -22602,7 +22605,7 @@ export default {
     'The uptake or utilization of oxygen during the night.; Request Date: 02-MAR-07',
   'Oxygen-17/oxygen-16 ratio': '',
   'Oxygen-18': 'Oxygen, atomic number 8.; Request Date: 02-MAR-07',
-  'Oxygen-18/Oxygen-16 ratio': '; Request Date: 02-MAR-07',
+  'Oxygen-18/Oxygen-16 ratio': '; Request Date: 02-MAR-07 ; 18O:16O, O18:O16 ',
   'Oxygen-consumption rate': '',
   Oxymorphone: '; Request Date: 22-JUL-14',
   'Oxymorphone glucuronide': '; Request Date: 30-MAY-13',
@@ -23637,7 +23640,6 @@ export default {
   'Perfluoro-4-hexenesulfonic acid': '',
   'Perfluoro-4-isopropoxybutanoic acid': '',
   'Perfluoro-4-methoxybutanoate': '',
-  'Perfluoro-4-methoxybutanoic acid': '',
   'Perfluoro-4-methylcyclopentane-1-carboxylic acid': '',
   'Perfluoro-4-methylheptanoic acid': '',
   'Perfluoro-4-methylpent-2-enoyl chloride': '',

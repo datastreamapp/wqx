@@ -22,7 +22,7 @@
   "Lower limit of detection": "- Generally the same as Instrument Detection Level (IDL). IDLs are explicitly determined and generally defined as three times the standard deviation of the mean noise level.",
   "Measurement Uncertainty": "A quantitative expression of error that results from incomplete knowledge or information about a parameter or value",
   "Method Detection Level": "Synonymous with Method Detection Limit (MDL), is the minimum concentration of a substance that can be measured and reported with a 99% confidence that the analyte concentration is greater than zero.",
-  "Minimum Reporting Level": "Minimum Reporting Level is the smallest measured concentration of a constituent that can be reliably measured using a given analytical method",
+  "Minimum Reporting Level": "Minimum Reporting Level is the smallest measured concentration of a constituent that can be reliably measured using a given analytical method (Method Reporting Level).",
   "Practical Quantitation Limit": "Practical Quantitation Limit (PQL)",
   "Reporting limit": "Reporting limit (RL) is defined as the smallest concentration of a chemical that can be reported by a laboratory.",
   "Reporting limit by DQCALC": "Greater than or equal to two times the detection limit by DQCALC, where the detection limit by DQCALC is the critical level \"Lc\" by ASTM D6091. DQCALC software used to determine limits (ASTM D7510-10)",

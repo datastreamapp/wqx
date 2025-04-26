@@ -42,7 +42,7 @@ export default {
   'Method Detection Level':
     'Synonymous with Method Detection Limit (MDL), is the minimum concentration of a substance that can be measured and reported with a 99% confidence that the analyte concentration is greater than zero.',
   'Minimum Reporting Level':
-    'Minimum Reporting Level is the smallest measured concentration of a constituent that can be reliably measured using a given analytical method',
+    'Minimum Reporting Level is the smallest measured concentration of a constituent that can be reliably measured using a given analytical method (Method Reporting Level).',
   'Practical Quantitation Limit': 'Practical Quantitation Limit (PQL)',
   'Reporting limit':
     'Reporting limit (RL) is defined as the smallest concentration of a chemical that can be reported by a laboratory.',

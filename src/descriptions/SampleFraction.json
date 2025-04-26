@@ -34,7 +34,7 @@
   "Strong Acid Diss": "Strong Acid Dissociable, analyte that is released from analyte containing compounds under highly acidic conditions.",
   "Supernate": "That portion of the analyte found in the liquid layer above a precipitate produced from the sample.",
   "Suspended": "That portion of the analyte which is suspended in the sampled medium, either as, or adsorbed to, particles which are more or less uniformly dispersed within the medium.",
-  "Total": "The total of all fractions of the analyte.",
+  "Total": "The total of all fractions of the analyte. (sum)",
   "Total Recoverable": "The analyte concentration available for analysis in an unfiltered sample following solubilization.",
   "Total Residual": "The amount of available analyte remaining after a given contact time. The sum of the combined available residual analyte and the free available residual analyte.",
   "Total Soluble": "The total of all fractions of the analyte / The sum of all of the different forms of the analyte present which becomes dissolved within the sample.",

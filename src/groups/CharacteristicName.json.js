@@ -937,6 +937,8 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS, Perfluorinated Alkyl Substance',
+  '.*****REUSE****1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
+    'PFAS, Perfluorinated Alkyl Substance',
   '.Alpha.-Pinene': 'Organics, Other',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
@@ -4711,7 +4713,7 @@ export default {
   '1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-icosafluoro-':
     'PFAS, Perfluorinated Alkyl Substance',
   '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
-    'Organics, Other',
+    'PFAS, Perfluorinated Alkyl Substance',
   '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-, ion(1-)':
     'PFAS, Perfluorinated Alkyl Substance',
   '1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-1-hydroxy-':
@@ -6436,8 +6438,10 @@ export default {
   '1H, 1H, 2H, 2H-[1,2-13C2]perfluorodecylphosphate ion(1-)':
     'PFAS, Perfluorinated Alkyl Substance',
   '1H,10H-Perfluorodecane': 'PFAS, Perfluorinated Alkyl Substance',
-  '1H,1H, 2H, 2H-Perfluorodecane sulfonic acid': 'Not Assigned',
-  '1H,1H, 2H, 2H-Perfluorohexane sulfonic acid': 'Not Assigned',
+  '1H,1H, 2H, 2H-Perfluorodecane sulfonic acid':
+    'PFAS, Perfluorinated Alkyl Substance',
+  '1H,1H, 2H, 2H-Perfluorohexane sulfonic acid':
+    'PFAS, Perfluorinated Alkyl Substance',
   '1H,1H, 2H, 2H-Perfluorooctane sulfonic acid':
     'PFAS, Perfluorinated Alkyl Substance',
   '1H,1H,10H,10H-Perfluorodecane-1,10-diol':
@@ -8609,6 +8613,7 @@ export default {
   '2,6-Dimethylheptane': 'Not Assigned',
   '2,6-Dimethylnaphthalene': 'Organics, Other',
   '2,6-Dimethylnaphthalene-D12': 'Not Assigned',
+  '2,6-Dimethylnonane': 'Not Assigned',
   '2,6-Dimethyloctane': 'Not Assigned',
   '2,6-Dimethylphenanthrene': 'Not Assigned',
   '2,6-Dimethylphenol': 'Not Assigned',
@@ -19640,7 +19645,7 @@ export default {
   'Cumulative Precipitation Since Last Measurement': 'Not Assigned',
   'Cupric hydroxide': 'Microbiological',
   'Cupric sulfate': 'Not Assigned',
-  'Curium-242': 'Not Assigned',
+  'Curium-242': 'Radiochemical',
   'Curium-243': 'Radiochemical',
   'Curium-244': 'Radiochemical',
   'Curium-245': 'Radiochemical',
@@ -22287,7 +22292,7 @@ export default {
   'Gage height': 'Physical',
   Galactosan: 'Not Assigned',
   Gallium: 'Inorganics, Minor, Metals',
-  'Gallium-67': 'Not Assigned',
+  'Gallium-67': 'Radiochemical',
   'Gamma emitting isotopes': 'Radiochemical',
   'Gamma linolenic acid': 'Not Assigned',
   'Gamma radiation': 'Not Assigned',
@@ -22548,7 +22553,7 @@ export default {
   'Habitat type, Substrate - Organic': 'Not Assigned',
   Hafnium: 'Inorganics, Minor, Metals',
   'Hafnium-175': 'Not Assigned',
-  'Hafnium-181': 'Not Assigned',
+  'Hafnium-181': 'Radiochemical',
   'Halauxifen acid': 'Organics, Pesticide',
   'Halauxifen-methyl': 'Organics, Pesticide',
   Halides: 'Not Assigned',
@@ -23335,7 +23340,7 @@ export default {
   Irbesartan: 'Not Assigned',
   'Irbesartan-d7': 'Not Assigned',
   Iridium: 'Inorganics, Minor, Metals',
-  'Iridium-192': 'Not Assigned',
+  'Iridium-192': 'Radiochemical',
   Iron: 'Inorganics, Minor, Metals',
   'Iron + aluminum mix': 'Not Assigned',
   'Iron + manganese mix': 'Not Assigned',
@@ -23347,7 +23352,7 @@ export default {
   'Iron, dicarbonyl(.eta.5-2,4-cyclopentadien-1-yl)[tetrahydro-5,5-bis(trifluoromethyl)-3-furanyl]-':
     'PFAS, Perfluorinated Alkyl Substance',
   'Iron-54': 'Radiochemical',
-  'Iron-55': 'Not Assigned',
+  'Iron-55': 'Radiochemical',
   'Iron-56': 'Radiochemical',
   'Iron-57': 'Radiochemical',
   'Iron-59': 'Radiochemical',
@@ -23490,7 +23495,7 @@ export default {
   'Krypton-83/Krypton-84 ratio': 'Not Assigned',
   'Krypton-83/krypton-84': 'Not Assigned',
   'Krypton-84': 'Not Assigned',
-  'Krypton-85': 'Not Assigned',
+  'Krypton-85': 'Radiochemical',
   'Krypton-85 error': 'Not Assigned',
   'Krypton-86': 'Not Assigned',
   'Krypton-86/Krypton-84 error': 'Not Assigned',
@@ -26178,7 +26183,7 @@ export default {
   'Nickel, bis(2,2,2-trifluoroacetato-.kappa.O)-, hydrate (1:4)':
     'PFOS, Perfluorooctane Sulfonate',
   'Nickel-58': 'Radiochemical',
-  'Nickel-59': 'Not Assigned',
+  'Nickel-59': 'Radiochemical',
   'Nickel-60': 'Radiochemical',
   'Nickel-63': 'Radiochemical',
   Niclosamide: 'Not Assigned',
@@ -27864,7 +27869,6 @@ export default {
   'Perfluoro-4-hexenesulfonic acid': 'PFAS, Perfluorinated Alkyl Substance',
   'Perfluoro-4-isopropoxybutanoic acid': 'PFAS, Perfluorinated Alkyl Substance',
   'Perfluoro-4-methoxybutanoate': 'Not Assigned',
-  'Perfluoro-4-methoxybutanoic acid': 'Not Assigned',
   'Perfluoro-4-methylcyclopentane-1-carboxylic acid':
     'PFAS, Perfluorinated Alkyl Substance',
   'Perfluoro-4-methylheptanoic acid': 'PFOA, Perfluorooctanoic Acid',
@@ -28904,7 +28908,7 @@ export default {
   'Plutonium-239 and Plutonium-240 combined': 'Not Assigned',
   'Plutonium-239 and/or plutonium-240': 'Radiochemical',
   'Plutonium-239/plutonium-240': 'Not Assigned',
-  'Plutonium-240': 'Not Assigned',
+  'Plutonium-240': 'Radiochemical',
   'Plutonium-241': 'Not Assigned',
   'Point Source Pollution - Outfall Pipe Discharging (Y/N) (choice list)':
     'Not Assigned',
@@ -30699,7 +30703,7 @@ export default {
   'Radium-226': 'Radiochemical',
   'Radium-226/228': 'Radiochemical',
   'Radium-228': 'Radiochemical',
-  Radon: 'Not Assigned',
+  Radon: 'Radiochemical',
   'Radon-219': 'Radiochemical',
   'Radon-220': 'Not Assigned',
   'Radon-222': 'Radiochemical',
@@ -31014,7 +31018,7 @@ export default {
   'Selenium-75': 'Radiochemical',
   'Selenium-77': 'Stable Isotopes',
   'Selenium-78': 'Radiochemical',
-  'Selenium-79': 'Not Assigned',
+  'Selenium-79': 'Radiochemical',
   'Selenium-82': 'Stable Isotopes',
   Selenocyanate: 'Organics, Other',
   Selenomethionine: 'Organics, Other',
@@ -32038,7 +32042,7 @@ export default {
   'Sulfur-32': 'Not Assigned',
   'Sulfur-34': 'Stable Isotopes',
   'Sulfur-34/Sulfur-32 ratio': 'Stable Isotopes',
-  'Sulfur-35': 'Not Assigned',
+  'Sulfur-35': 'Radiochemical',
   'Sulfuric acid': 'Not Assigned',
   'Sulfuric acid, mono(.gamma.-.omega.-perfluoro-C6-12-alkyl) esters, ammonium salts':
     'PFAS, Perfluorinated Alkyl Substance',
@@ -32494,7 +32498,7 @@ export default {
   'Thorium-227': 'Radiochemical',
   'Thorium-228': 'Radiochemical',
   'Thorium-230': 'Radiochemical',
-  'Thorium-231': 'Not Assigned',
+  'Thorium-231': 'Radiochemical',
   'Thorium-232': 'Radiochemical',
   'Thorium-234': 'Radiochemical',
   Thulium: 'Inorganics, Minor, Metals',
@@ -33306,7 +33310,7 @@ export default {
   'Unnatural turbidity (choice list)': 'Not Assigned',
   Uranium: 'Radiochemical',
   'Uranium 238/234 ratio': 'Not Assigned',
-  'Uranium-232': 'Not Assigned',
+  'Uranium-232': 'Radiochemical',
   'Uranium-233': 'Radiochemical',
   'Uranium-233/234': 'Radiochemical',
   'Uranium-234': 'Radiochemical',
@@ -33588,7 +33592,7 @@ export default {
   'Xenon-131/Xenon-132 ratio': 'Not Assigned',
   'Xenon-131/xenon-132': 'Not Assigned',
   'Xenon-132': 'Not Assigned',
-  'Xenon-133': 'Not Assigned',
+  'Xenon-133': 'Radiochemical',
   'Xenon-134': 'Not Assigned',
   'Xenon-134/Xenon-132 error': 'Not Assigned',
   'Xenon-134/Xenon-132 ratio': 'Not Assigned',

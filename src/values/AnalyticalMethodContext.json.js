@@ -7,6 +7,7 @@ export default {
     'ABRAXIS LLC',
     'AFS',
     'AGILENT',
+    'ALS',
     'AOAC',
     'APHA',
     'APHA (1991)',
