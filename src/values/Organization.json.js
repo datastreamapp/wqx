@@ -580,6 +580,7 @@ export default {
     'ESTOO',
     'ESTO_WQX',
     'ETEC',
+    'EVR',
     'EXLSTREAM1',
     'FA-NJ',
     'FAEC',

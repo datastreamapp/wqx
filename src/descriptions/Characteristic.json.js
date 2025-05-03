@@ -622,8 +622,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '.*****REUSE****1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
-    '',
   '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
@@ -6539,6 +6537,7 @@ export default {
   '2,5-Dimethylheptane': '; Request Date: 14-APR-15',
   '2,5-Dimethylhexane': '',
   '2,5-Dimethylnonane': 'NWIS',
+  '2,5-Dimethyloctane': '',
   '2,5-Dimethylphenol': 'Nemi.gov; Request Date: 24-SEP-19',
   '2,5-Dimethylstyrene': '; Request Date: 13-AUG-18',
   '2,5-Dimethylthiophene': '; Request Date: 02-MAR-07',
@@ -11010,6 +11009,7 @@ export default {
   '4-Ethyl-2,2,6,6-tetramethylheptane': '',
   '4-Ethyl-2-(heptafluoropropyl)pyrimidine-5-carboxylic acid': '',
   '4-Ethyl-4H-1,2,4-triazole-3-amine': '; Request Date: 02-MAR-07',
+  '4-Ethyloctane': '',
   '4-Ethylresorcinol': '; Request Date: 02-MAR-07',
   '4-Fluoro-2-methyl-6-(pentafluoroethyl)-5-(trifluoromethyl)pyrimidine': '',
   '4-Fluoro-2-nitrophenol': '; Request Date: 02-MAR-07',
@@ -19439,6 +19439,8 @@ export default {
   Ioxilan: 'NWIS',
   Ioxynil: '; Request Date: 22-JUL-14',
   Ipconazole: 'NWIS',
+  Ipflufenoquin:
+    'Benzenemethanol, 2-[(7,8-difluoro-2-methyl-3-quinolinyl)oxy]-6-fluoro-?,?-dimethyl-',
   Iprodione: '; Request Date: 22-JUL-14',
   'Iprodione amide': 'NWIS',
   'Iprodione isomer': 'NWIS',

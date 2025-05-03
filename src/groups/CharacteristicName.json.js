@@ -937,8 +937,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS, Perfluorinated Alkyl Substance',
-  '.*****REUSE****1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
-    'PFAS, Perfluorinated Alkyl Substance',
   '.Alpha.-Pinene': 'Organics, Other',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
@@ -8536,6 +8534,7 @@ export default {
   '2,5-Dimethylheptane': 'Not Assigned',
   '2,5-Dimethylhexane': 'Not Assigned',
   '2,5-Dimethylnonane': 'Not Assigned',
+  '2,5-Dimethyloctane': 'Not Assigned',
   '2,5-Dimethylphenol': 'Not Assigned',
   '2,5-Dimethylstyrene': 'Not Assigned',
   '2,5-Dimethylthiophene': 'Not Assigned',
@@ -14279,6 +14278,7 @@ export default {
   '4-Ethyl-2-(heptafluoropropyl)pyrimidine-5-carboxylic acid':
     'PFAS, Perfluorinated Alkyl Substance',
   '4-Ethyl-4H-1,2,4-triazole-3-amine': 'Organics, Pesticide',
+  '4-Ethyloctane': 'Not Assigned',
   '4-Ethylresorcinol': 'Not Assigned',
   '4-Fluoro-2-methyl-6-(pentafluoroethyl)-5-(trifluoromethyl)pyrimidine':
     'PFAS, Perfluorinated Alkyl Substance',
@@ -23329,6 +23329,7 @@ export default {
   Ioxilan: 'Not Assigned',
   Ioxynil: 'Organics, Pesticide',
   Ipconazole: 'Not Assigned',
+  Ipflufenoquin: 'Not Assigned',
   Iprodione: 'Organics, Pesticide',
   'Iprodione amide': 'Not Assigned',
   'Iprodione isomer': 'Not Assigned',

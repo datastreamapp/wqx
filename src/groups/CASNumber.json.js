@@ -678,8 +678,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '.*****REUSE****1-Decanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-':
-    '39108-34-4',
   '.Alpha.-Pinene': '80-56-8',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
@@ -6807,6 +6805,7 @@ export default {
   '2,5-Dimethylheptane': '2216-30-0',
   '2,5-Dimethylhexane': '592-13-2',
   '2,5-Dimethylnonane': '',
+  '2,5-Dimethyloctane': '15869-89-3',
   '2,5-Dimethylphenol': '95-87-4',
   '2,5-Dimethylstyrene': '2039-89-6',
   '2,5-Dimethylthiophene': '638-02-8',
@@ -11517,6 +11516,7 @@ export default {
   '4-Ethyl-2,2,6,6-tetramethylheptane': '62108-31-0',
   '4-Ethyl-2-(heptafluoropropyl)pyrimidine-5-carboxylic acid': '914201-17-5',
   '4-Ethyl-4H-1,2,4-triazole-3-amine': '42786-06-1',
+  '4-Ethyloctane': '15869-86-0',
   '4-Ethylresorcinol': '2896-60-8',
   '4-Fluoro-2-methyl-6-(pentafluoroethyl)-5-(trifluoromethyl)pyrimidine':
     '170865-78-8',
@@ -19490,6 +19490,7 @@ export default {
   Ioxilan: '',
   Ioxynil: '1689-83-4',
   Ipconazole: '125225-28-7',
+  Ipflufenoquin: '1314008-27-9',
   Iprodione: '36734-19-7',
   'Iprodione amide': '',
   'Iprodione isomer': '',

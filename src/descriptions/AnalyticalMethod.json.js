@@ -134,12 +134,12 @@ export default {
   1002: '',
   1003: '',
   1004: '',
-  1005: 'http://www.tceq.state.tx.us/assets/public/compliance/compliance_support/qa/1005_final.pdf',
+  1005: '',
   1006: '',
   1007: '',
   1008: '',
   1009: '',
-  1010: '',
+  1010: 'https://www.epa.gov/hw-sw846/sw-846-test-method-1010a-test-methods-flash-point-pensky-martens-closed-cup-tester',
   1011: '',
   1012: '',
   1013: '',
@@ -652,7 +652,7 @@ export default {
   10027: '',
   10028: '',
   10029:
-    '10029 ~ Hach Co. . E. coli by m-ColiBlue24 Broth Procedure for Membrane Filtration',
+    'Coliforms: Membrane Filtration (simultaneous detection) In: Hach Analytical Procedures. m-ColiBlue24 Broth Procedure for Membrane Filtration. Hach Product Literature #8433. Hach: Loveland, CO. Dec.',
   10031: '',
   10071: '',
   10072: '',
@@ -793,6 +793,7 @@ export default {
     'http://www.lachatinstruments.com/download/LL022_Methods-List_Rev%206.pdf',
   '10-107-04-4-B':
     'http://www.lachatinstruments.com/download/LL022_Methods-List_Rev%206.pdf',
+  '10-107-04-6-A': '',
   '10-107-06-1-B':
     'This method covers the determination of ammonia in drinking, ground,surface, and saline waters, domestic and industrial wastes. Determination of ammonia nitrogen by semi-automated colorimetry. https://www.hach.com/asset-get.download.jsa?id=32128559557',
   '10-107-06-1-J': '',
@@ -878,10 +879,11 @@ export default {
     '130 ~ NOAA NST . Capillary gas chromatography analysis for organic contaminates in marine sediments.',
   130.01:
     '130.01 ~ NOAA NST . Organic contaminates in marine animal tissues by GC-FPD',
-  130.1: '130.1 ~ EPA-NERL . Total Hardness by Spectrophotometer',
+  130.1:
+    '130.1 ~ NOAA NST . Organic contaminants in marine sediments by GC-ECD',
   130.11:
     '130.11 ~ NOAA NST . Organic contaminants in marine animal tissues by GC-ECD',
-  130.2: '130.2 ~ NOAA NST . Dioxins and Furans in marine sediments by GC-MS',
+  130.2: '130.2 ~ EPA-NERL . Total Hardness of Water by Titrimetry',
   130.21:
     '130.21 ~ NOAA NST . Dioxins and Furans in marine bivalve tissues by GC-MS',
   130.3: '130.3 ~ NOAA NST . Organic contaminants in marine sediments by GC-MS',
