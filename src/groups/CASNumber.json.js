@@ -678,6 +678,7 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
+  '.****Methylselenic acid': '28274-57-9',
   '.Alpha.-Pinene': '80-56-8',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
@@ -20258,6 +20259,7 @@ export default {
   'Methane, dibromoiodo-': '593-94-2',
   'Methane, oxybis[(difluoromethoxy)difluoro-': '249932-25-0',
   'Methane, oxybis[difluoro-': '1691-17-4',
+  'Methaneselenonic acid': '',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-':
     '82113-65-3',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':

@@ -291,7 +291,7 @@ export default {
     'ASPECT_WQX',
     'ASUERF',
     'AURORA_WQX',
-    'AUSABLECENTER.',
+    'AUSABLECENTER',
     'AWC_WQX',
     'AWQDECJN',
     'AWQDECJN_WQX',

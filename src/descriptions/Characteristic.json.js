@@ -622,6 +622,8 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
+  '.****Methylselenic acid':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/methylseleninic%20acid',
   '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
@@ -20287,6 +20289,7 @@ export default {
   'Methane, dibromoiodo-': 'Methane, dibromoiodo-',
   'Methane, oxybis[(difluoromethoxy)difluoro-': '',
   'Methane, oxybis[difluoro-': '',
+  'Methaneselenonic acid': 'https://pubchem.ncbi.nlm.nih.gov/compound/15768299',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-': '',
   'Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-, lithium salt':
     '',
