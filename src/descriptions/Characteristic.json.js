@@ -12393,7 +12393,7 @@ export default {
   'Acidity***retired***use Acidity, (H+)':
     'The acidity of water is its quantitative capacity to react with a strong base to a designated pH and is usually expressed in milligrams per liter of equivalent calcium carbonate.; Request Date: 06-JAN-15',
   'Acidity, (H+)':
-    'The acidity of water is its quantitative capacity to react with a strong base to a designated pH and is usually expressed in milligrams per liter of equivalent calcium carbonate.; Request Date: 3-Mar-07 (nps.gov cas# review)',
+    'The acidity of water is its quantitative capacity to react with a strong base to a designated pH and is usually expressed in milligrams per liter of equivalent calcium carbonate.; Request Date: 3-Mar-07 (nps.gov cas# review) https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/1640572',
   'Acidity, mineral methyl orange (as CaCO3)':
     'The measure of acidity of a water sample using methyl orange or bromophenol blue as an endpoint indicator, usually expressed in milligrams per liter of equivalent calcium carbonate. This value is traditionally identified as methyl orange acidity and includes all titratable acids and dissolved gases that react with standard alkali to pH 3.7.; NWIS',
   'Acidity, total, phenolphthalein (as CaCO3)':
