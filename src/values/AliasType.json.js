@@ -5,7 +5,10 @@ export default {
   type: 'string',
   enum: [
     'AQS PARM CODE',
+    'ATTAINS.PARAMETER',
     'CAS NUMBER',
+    'CST.POLLUTANT',
+    'CST.STD.POLLUTANT',
     'EPA ID (SUBSTANCE REGISTRY #)',
     'ITIS TAXON SERIAL NUMBER',
     'MOLECULAR WEIGHT',

@@ -935,7 +935,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '.****Methylselenic acid': 'Not Assigned',
   '.Alpha.-Pinene': 'Organics, Other',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
@@ -7841,6 +7840,7 @@ export default {
   '2,2-Dimethyldecane': 'Not Assigned',
   '2,2-Dimethylheptane': 'Not Assigned',
   '2,2-Dimethylhexane': 'Not Assigned',
+  '2,2-Dimethylpentane': 'Not Assigned',
   '2,2-Dimethylpropane': 'Organics, PCBs',
   '2,2-Oxybis(2-chloropropane)': 'Not Assigned',
   '2,2-Propanediamine, 1,1,1,3,3,3-hexafluoro-':
@@ -12042,6 +12042,7 @@ export default {
   '3,5-Dimethylcyclohexene': 'Not Assigned',
   '3,5-Dimethylcyclopentene': 'Not Assigned',
   '3,5-Dimethylphenol': 'Organics, Other',
+  '3,5-Dimethylundecane': 'Not Assigned',
   '3,5-Dinitroaniline': 'Organics, Other',
   '3,5-Heptanedione, 1,1,2,2-tetrafluoro-6,6-dimethyl-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -19411,7 +19412,7 @@ export default {
   'Condition class, based on thresholds': 'Information',
   'Condition class, chemical (Chlorophyll a)':
     'Biological, Photosynthetic Pigments',
-  'Condition class, chemical (Conductivity/Salinity)': 'Information',
+  'Condition class, chemical (Conductivity/Salinity)': 'Physical',
   'Condition class, chemical (acid neutralizing capacity)': 'Information',
   'Condition class, diatom index': 'Biological, Algae, Phytoplankton',
   'Condition class, nutrient (Total Nitrogen)': 'Information',
@@ -19422,7 +19423,7 @@ export default {
   'Condition class, recreational Cyanobacteria (bluegreen)':
     'Biological, Algae, Cyanobacteria',
   'Conditions Preventing Sampling': 'Information',
-  Conductance: 'Not Assigned',
+  Conductance: 'Physical',
   Conductivity: 'Physical',
   'Conductivity, Debye-Huckel-Onsager': 'Physical',
   'Consolidated-Undrained Triaxial C': 'Not Assigned',
@@ -33818,6 +33819,7 @@ export default {
   'cis-1,3-Dimethylcyclohexane': 'Not Assigned',
   'cis-1,3-Dimethylcyclopentane': 'Not Assigned',
   'cis-1,4-Dichloro-2-butene': 'Organics, Other',
+  'cis-1,4-Dimethylcyclohexane': 'Not Assigned',
   'cis-1-Bromo-2-chlorocyclohexane': 'Not Assigned',
   'cis-1-Ethyl-3-methyl-cyclohexane': 'Not Assigned',
   'cis-1-Iodo-2-(heptafluoropropyl)cyclohexane':

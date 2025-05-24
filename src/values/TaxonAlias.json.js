@@ -40753,6 +40753,7 @@ export default {
     'Anchoa tricolor',
     'Anchoa trinitatis',
     'Anchoa walkeri',
+    'Anchodemus angustus',
     'Anchovia',
     'Anchovia clupeoides',
     'Anchovia macrolepidota',

@@ -2336,6 +2336,7 @@ export default {
   'Anchoa tricolor': 'Not Assigned',
   'Anchoa trinitatis': 'Not Assigned',
   'Anchoa walkeri': 'Not Assigned',
+  'Anchodemus angustus': 'Not Assigned',
   Anchovia: 'Not Assigned',
   'Anchovia clupeoides': 'Not Assigned',
   'Anchovia macrolepidota': 'Not Assigned',
