@@ -113,9 +113,9 @@ export default {
   'Substrate Cover by Cobble (choice list)': '4 = Very Heavy (>75%)',
   'Micro Algae Stream Reach Thickness Average': 'Too Deep',
   'Wind Speed (choice list)': '>20 mph',
+  'Macro Algae Stream Reach Coverage Average': 'Too Deep',
   'Algae, substrate rock/bank cover (choice list)':
     'Algae cover 81 - 99% of substrate',
-  'Macro Algae Stream Reach Coverage Average': 'Too Deep',
   'Aquatic Plant Cover, substrate rock/bank cover (choice list)': '81-99%',
   'Sludge, substrate rock/bank cover - severity (choice list)':
     'Sludge cover 81 - 99% of substrate',
@@ -382,13 +382,13 @@ export default {
   'Flow, stream stage (choice list)': 'Normal',
   'Flow, severity (choice list)': 'Normal',
   'Water Pump (choice list)': 'Pesent',
-  'RBP2, Sediment/Substrate, Oils (choice list)': 'Slight',
   'RBP Sediment Oils (choice list)': 'SLIGHT - Self describing.',
+  'RBP2, Sediment/Substrate, Oils (choice list)': 'Slight',
   'Cloud type (choice list)': 'Not determined, Clouds obscured',
   'Life stage (choice list)': 'Fish between hatching and yolk absorption.',
+  'Bank class, Right (choice list)': 'Vegetated-Stabilized',
   'Bank class, Left (choice list)': 'Vegetated-Stabilized',
   'Bank class (choice list)': 'Vegetated-Stabilized',
-  'Bank class, Right (choice list)': 'Vegetated-Stabilized',
   'Land form, Left (choice list)': 'Wetlands-meadow',
   'Land form (choice list)': 'Wetlands-meadow',
   'Land Form, Right (choice list)': 'Wetlands-meadow',
@@ -400,10 +400,10 @@ export default {
   'Stream Unit Type (choice list)': 'Trench pool',
   'Geomorphic Surface Type (choice list)': 'Upland',
   'Surface Film (choice list)': 'Scum',
-  'Erosion within 1 Meter of Transect-Right Bank (choice list)': 'Unknown',
   'Erosion within 1 Meter of Transect-Left Bank (choice list)': 'Unknown',
-  'RBP2, Sediment/Substrate, Odors (choice list)': 'Sewage',
+  'Erosion within 1 Meter of Transect-Right Bank (choice list)': 'Unknown',
   'RBP Sediment Odors (choice list)': 'SEWAGE - Self describing.',
+  'RBP2, Sediment/Substrate, Odors (choice list)': 'Sewage',
   'Sediment/ Substrate Odors (choice list)': 'SEWAGE - Self describing.',
   'Substrate Odor (choice list)': 'Other',
   'Outlet Dams (choice list)': 'None',
@@ -413,10 +413,10 @@ export default {
   'Beaver (choice list)': 'Rare',
   'Dominant Land Use (choice list)': 'Urban',
   'Odor type (choice list)': 'Weak hydrogen sulfide',
-  'Bank Stability Index-Left (choice list)': 'Bank Stability Index: 16-22',
-  'Bank Stability Index-Right (choice list)': 'Bank Stability Index: 16-22',
   'Bank Stability Index-Left/Right (choice list)':
     'Bank Stability Index: 16-22',
+  'Bank Stability Index-Left (choice list)': 'Bank Stability Index: 16-22',
+  'Bank Stability Index-Right (choice list)': 'Bank Stability Index: 16-22',
   'Channel Constraint (choice list)':
     'Channel very constrained in V-shaped valley (i.e. it is very unlikely to spread out over valley or erode a new channel during flood)',
   'Snag surf (choice list)': 'SB = Smooth, no algae',
@@ -637,7 +637,7 @@ export default {
   'Scum (Y/N) (choice list)': 'Yes',
   'Shoreline Flooding (Y/N) (choice list)': 'Yes',
   'Site Sampled (Y/N) (choice list)': 'Yes',
-  'Site Verified (Y/N) (choice list)': 'Yes',
+  'Site NOT Verified (Y/N) (choice list)': 'Yes',
   'Station Dropped (Y/N) (choice list)': 'Yes',
   'Station is an Island (Y/N) (choice list)': 'Yes',
   'Station Relocated (Y/N) (choice list)': 'Yes',
@@ -805,20 +805,20 @@ export default {
   'RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)':
     'Yes, there has been heavy rain within the last 7 days',
   'Sewage algae present (choice list)': 'Yes',
-  'Toxicity, sediment, Ampelisca abdita, significant (choice list)':
-    'P-value & Result indicate test response significantly toxic',
   'Toxicity, sediment, Leptocheirus plumulosus, significant (choice list)':
     'P-value & Result indicate test response is not significant',
   'Toxicity, sediment, microtox, Vibrio fischeri, significant (choice list)':
     'P-value & Result indicate test response is not significant',
   'Toxicity, sediment, Rhepoxynius abronius, significant (choice list)':
     'P-value & Result indicate test response is not significant',
+  'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
   'Sandy Substrate (choice list)':
     'Sandy substrate; no bedrock, boulders, etc.',
   'Index sample for diatom condition index (YES/NO) (choice list)': 'Yes',
+  'Toxicity, sediment, Ampelisca abdita, significant (choice list)':
+    'P-value & Result indicate test response significantly toxic',
   'Toxicity, sediment, species significant (choice list)':
     'P-value & Result indicate test response is not significant',
-  'Chlorophyll a, index (YES/NO) (choice list)': 'Yes',
   'Toxicity, sediment, Ampelisca verrilli, significant (choice list)':
     'P-value & Result indicate test response significantly toxic',
   'Toxicity, sediment, Eohaustorius estuarius, significant (choice list)':

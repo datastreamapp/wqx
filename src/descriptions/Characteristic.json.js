@@ -5944,8 +5944,6 @@ export default {
   '2,2-Dimethyldecane': '',
   '2,2-Dimethylheptane': '',
   '2,2-Dimethylhexane': '; Request Date: 23-APR-14',
-  '2,2-Dimethylpentane':
-    'https://pubchem.ncbi.nlm.nih.gov/compound/2_2-Dimethylpentane',
   '2,2-Dimethylpropane': '; Request Date: 02-MAR-07',
   '2,2-Oxybis(2-chloropropane)': '',
   '2,2-Propanediamine, 1,1,1,3,3,3-hexafluoro-': '',
@@ -12586,7 +12584,8 @@ export default {
     'Any of numerous groups of chlorophyll-containing, mostly aquatic eukaryotic organisms, distinguished from plants by the absence of true roots, stems, and leaves.; Request Date: 02-MAR-07',
   'Algae, yellow-green (phylum xanthophyta) density':
     'The mass or weight of yellow-green algae (phylum xanthophyta) per unit volume of water.; Request Date: 02-MAR-07',
-  'Algae-Phycocyanin': 'Physical,4; ',
+  'Algae-Phycocyanin':
+    'Physical,4; ;Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin;58',
   'Algal Bloom Severity (choice list)': 'Physical,14;',
   'Algal growth potential':
     'The potential in a given system for the growth of algae.; Request Date: 02-MAR-07',
@@ -14305,7 +14304,7 @@ export default {
     'The amount or weight of euglenophycophyta (euglenoids) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, mysid': '',
   'Biomass, periphyton':
-    'The amount or weight of periphyton (attached algae) that live within a specific volume or area of an ecosystem.Nemi.gov; Request Date: 02-MAR-07',
+    'The amount or weight of periphyton (attached algae) that live within a specific volume or area of an ecosystem.Nemi.gov; Request Date: 02-MAR-07;Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton;63',
   'Biomass, phytoplankton':
     'The amount or weight of phytoplankton (microscopic plants) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass, plankton':
@@ -14325,7 +14324,7 @@ export default {
   'Biomass, zooplankton':
     'The amount or weight of zooplankton (small floating or weakly swimming animals) that live within a specific volume or area of an ecosystem.; Request Date: 02-MAR-07',
   'Biomass/chlorophyll ratio':
-    'A ratio comparing the total biomass to the mass of chlorophyll in an ecosystem.; Request Date: 02-MAR-07',
+    'A ratio comparing the total biomass to the mass of chlorophyll in an ecosystem.; Request Date: 02-MAR-07;Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   Biopermethrin: 'Nemi.gov; Request Date: 24-SEP-19',
   'Biovolume per individual': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   Biphenyl: '; Request Date: 02-MAR-07',
@@ -15501,38 +15500,43 @@ export default {
   Chlorophacinone: '; Request Date: 01-APR-15',
   Chlorophene: 'NWIS',
   Chlorophenol: '; Request Date: 22-JUL-14',
-  Chlorophyll: 'Biological,2;  Request Date: 22-JUL-14',
-  'Chlorophyll a': 'Biological,2; Nemi.gov; Request Date: 22-JUL-14',
+  Chlorophyll:
+    'Biological,2;  Request Date: 22-JUL-14;Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
+  'Chlorophyll a':
+    'Biological,2; Nemi.gov; Request Date: 22-JUL-14;Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a (probe relative fluorescence)':
-    'Biological,2; Request Date: 02-MAR-07',
-  'Chlorophyll a (probe)': 'Biological,2; Request Date: 02-MAR-07',
+    'Biological,2; Request Date: 02-MAR-07;Biological, Algae,Phytoplankton,Cyanobacteria,Photosynthetic;64',
+  'Chlorophyll a (probe)':
+    'Biological,2; Request Date: 02-MAR-07;Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a (probe) concentration, Chlorophyte (green algae)':
-    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review)',
+    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a (probe) concentration, Cryptophyta (cryptophytes)':
-    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review)',
+    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a (probe) concentration, Cyanobacteria (bluegreen)':
-    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review)',
+    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review);Biological, Algae,Phytoplankton,Cyanobacteria,Photosynthetic;64',
   'Chlorophyll a (probe) concentration, Dinophyta (diatoms)':
-    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review)',
+    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a (probe) concentration, Xanthophyte (yellow algae)':
-    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review)',
+    'Request Date: 21-May-16 New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a - Periphyton (attached)':
-    'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review)',
+    'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review);Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton;63',
   'Chlorophyll a - Phytoplankton (suspended)':
-    'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review)',
+    'Biological,2; Request Date: 12-Mar-13 (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a filter amount':
     'This is a measurement of the volume of water filtered for their chlorophyll measurement.',
   'Chlorophyll a, collected/analyzed (YES/NO) (choice list)':
-    '; Request Date: 10-APR-17',
+    '; Request Date: 10-APR-17;Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a, corrected for pheophytin':
-    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review)',
+    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a, free of pheophytin':
-    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review)',
-  'Chlorophyll a, index (YES/NO) (choice list)': '; Request Date: 10-APR-17',
+    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
+  'Chlorophyll a, index (YES/NO) (choice list)':
+    '; Request Date: 10-APR-17;Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a, non-photochemical': 'Chlorophyll a, nonPC',
-  'Chlorophyll a, pheophytin correction unspecified': 'Biological,2; ',
+  'Chlorophyll a, pheophytin correction unspecified':
+    'Biological,2; ;Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll a, uncorrected for pheophytin':
-    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review)',
+    'Biological,2; Request Date: 23-Jul-14 (nps.gov cas# review);Biological, Algae, Phytoplankton, Photosynthetic Pigments;65',
   'Chlorophyll b': 'Biological,2; Nemi.gov; Request Date: 02-MAR-07',
   'Chlorophyll c': 'Biological,2; Request Date: 02-MAR-07',
   'Chlorophyll c1': 'Nemi.gov; Request Date: 26-SEP-19',
@@ -15966,10 +15970,13 @@ export default {
   'Cyano Habs- Pea Soup (Y/N) (choice list)': '',
   'Cyano Habs- Surface Water Streaks (Y/N) (choice list)': '',
   'Cyano Habs- Thick Scum (Y/N) (choice list)': '',
-  'Cyanobacteria fluorescence of phycoerythrin (fPE)': 'NWIS',
+  'Cyanobacteria fluorescence of phycoerythrin (fPE)':
+    'NWIS;Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin;59',
   'Cyanobacteria, visual observation': 'Physical,4; ',
-  'Cyanobacterial abundance from a phycocyanin sensor (PC)': 'NWIS',
-  'Cyanobacterial abundance from a phycoerythrin sensor (PE)': 'NWIS',
+  'Cyanobacterial abundance from a phycocyanin sensor (PC)':
+    'NWIS;Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin;58',
+  'Cyanobacterial abundance from a phycoerythrin sensor (PE)':
+    'NWIS;Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin;59',
   'Cyanogen bromide': 'NWIS',
   'Cyanogen chloride': '; Request Date: 02-MAR-07',
   Cyanophos: '1;',
@@ -16027,6 +16034,7 @@ export default {
   'Cyclohexane, 1,1,2,2,3,3,4,5,5,6-decafluoro-4,6-bis(trifluoromethyl)-': '',
   'Cyclohexane, 1,2,3,4,5-pentafluoro-6-(1,1,2,2,3,3,3-heptafluoropropyl)-': '',
   'Cyclohexane, 1,2,4-trimethyl-, (1R,2R,4R)-rel-': '',
+  'Cyclohexane, 2-ethyl-1,1,3-trimethyl-': '',
   'Cyclohexane, 4-chloro-1,1-bis(trifluoromethyl)-': '',
   'Cyclohexane, butyl-': '',
   'Cyclohexane, decafluoro-': '',
@@ -18048,10 +18056,10 @@ export default {
   Fexofenadine: '; Request Date: 02-FEB-15',
   'Fexofenadine-d10': '',
   'Field or Lab Anomaly': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
-  'Filamentous Algae Cover': '',
+  'Filamentous Algae Cover': ';Biological, Habitat, Filamentous Algae;72',
   'Filamentous Algae covering streambed (choice list)':
-    '; Request Date: 17-DEC-10',
-  'Filamentous Presence': '',
+    '; Request Date: 17-DEC-10;Biological, Habitat, Filamentous Algae;72',
+  'Filamentous Presence': ';Biological, Habitat, Filamentous Algae;72',
   'Filter Contamination Mass': '',
   'Final Void Ratio':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
@@ -18072,7 +18080,8 @@ export default {
   'Fipronil-13C3-15N2': '',
   'Fipronil-13C4-15N2': 'NWIS',
   'FireMaster BP 6': '; Request Date: 02-MAR-07',
-  'Firmly attached algae or submerged veg (choice list)': '',
+  'Firmly attached algae or submerged veg (choice list)':
+    'Biological, Habitat, Algae, Aquatic Plants;69',
   'Fish - Passage Barrier (Y/N) (choice list)': '',
   'Fish Anomalies - Deformities': 'Physical,14; Request Date: 02-MAR-07',
   'Fish Anomalies - Erosions': 'Physical,14; Request Date: 02-MAR-07',
@@ -18313,6 +18322,8 @@ export default {
   Forchlorfenuron: '',
   'Forest Age (choice list)': 'NRSA; Request Date: 01-SEP-16',
   Formaldehyde: '; Request Date: 02-MAR-07',
+  "Formamide, N,N'-[dithiobis[2-(2-hydroxyethyl)-1-methyl-2,1-ethenediyl]]bis[N-[(4-amino-2-methyl-5-pyrimidinyl)methyl]-":
+    '',
   Formate: 'Request Date: 26-Sep-19 Nemi.gov (nps.gov cas# review)',
   'Formation code': '; Request Date: 30-MAY-13',
   Formetanate: 'NWIS',
@@ -18662,7 +18673,8 @@ export default {
   'HUMM2 DNA Marker (purified)': '; Request Date: 08-OCT-19',
   'Habitat Cover Extent': 'Physical,14;',
   'Habitat Cover Type': 'Physical,14;',
-  'Habitat Cover, Filamentous Algae (choice list)': 'Information,4;',
+  'Habitat Cover, Filamentous Algae (choice list)':
+    'Information,4;;Biological, Habitat, Filamentous Algae;72',
   'Habitat Cover, Macrophytes (choice list)': 'Information,4;',
   'Habitat Cover, Periphyton (choice list)': 'Information,4;',
   'Habitat Cover, other (%)': 'Physical,14;',
@@ -18724,7 +18736,7 @@ export default {
   'Hardness, non-carbonate':
     'Non-carbonate hardness is the amount of hardness in excess of the total alkalinity (the sum of the carbonate and bicarbonate alkalinity) when the numerical value for hardness is greater than the total alkalinity.; Request Date: 22-JUL-14',
   'Harmful Algal Blooms Present (Y/N) (choice list)':
-    '; Request Date: 21-MAY-18',
+    '; Request Date: 21-MAY-18;Biological, Algae, Phytoplankton, Cyanobacteria;62',
   Hartmannella: '; Request Date: 02-MAR-07',
   'Hartmannella limax': '; Request Date: 02-MAR-07',
   'Hartmannella vermiformis': '; Request Date: 02-MAR-07',
@@ -20038,7 +20050,8 @@ export default {
   'Longitude, Midstream': '',
   'Longitudinal Distribution': '; Request Date: 21-JUL-17',
   'Loons, visual observation': '',
-  'Loosely attached filamentous algae (choice list)': '',
+  'Loosely attached filamentous algae (choice list)':
+    ';Biological, Habitat, Filamentous Algae;72',
   'Loosely sorbed Phosphorus (LSP)': '; Request Date: 12-JAN-16',
   Loperamide: '; Request Date: 02-FEB-15',
   'Loperamide-d6': '',
@@ -20083,7 +20096,8 @@ export default {
   MDMA: '; Request Date: 22-JUL-14',
   'MIOX micaceous iron oxide':
     'Micaceous iron oxide (MIOX), or flaky haemetite, is a pigment used in paint that provides a metallic glint. It has a lamella structure which overlaps within the paint film providing excellent water resistance.; Request Date: 02-MAR-07',
-  'Macro Algae Stream Reach Coverage Average': '; Request Date: 01-AUG-18',
+  'Macro Algae Stream Reach Coverage Average':
+    '; Request Date: 01-AUG-18;Biological, Habitat, Algae, Phytoplankton;70',
   'Macrohabitat Type - Channel Crossover': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Constrained Channel': 'GRE; Request Date: 01-SEP-16',
   'Macrohabitat Type - Inside Bend': 'GRE; Request Date: 01-SEP-16',
@@ -20694,7 +20708,8 @@ export default {
   Mexacarbate: '; Request Date: 02-MAR-07',
   'Mica group minerals': '; Request Date: 02-MAR-07',
   Miconazole: '; Request Date: 10-JUL-13',
-  'Micro Algae Stream Reach Thickness Average': '; Request Date: 01-AUG-18',
+  'Micro Algae Stream Reach Thickness Average':
+    '; Request Date: 01-AUG-18;Biological, Habitat, Algae, Phytoplankton;70',
   'Microalgae Cover': '',
   Microcystin:
     'Organics, Other,11; Toxin produced by blue green algae & bacteria.Toxin produced by blue green algae ; Request Date: 22-JUL-14',
@@ -20740,7 +20755,8 @@ export default {
     'Organics, Other,11; or cyanoginosins—are a class of toxins produced by certain freshwater cyanobacteria, commonly known as blue-green algae.; Request Date: 20-MAY-16',
   'Microcystins and nodularins': 'Organics, Other,11; Request Date: 08-JUN-17',
   'Microcystins/nodularin': 'NWIS',
-  'Microhabitat Type - Plant': '; Request Date: 05-JUL-17',
+  'Microhabitat Type - Plant':
+    '; Request Date: 05-JUL-17;Biological, Habitat, Aquatic Plants;71',
   'Microhabitat Type - Pool': '; Request Date: 05-JUL-17',
   'Microhabitat Type - Riffle': '; Request Date: 05-JUL-17',
   'Microhabitat Type - Root': '; Request Date: 05-JUL-17',
@@ -22130,6 +22146,7 @@ export default {
   'Nonane, 1,1,1,2,3,3,7,7,8,9,9,9-dodecafluoro-4-methyl-': '',
   'Nonane, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluoro-9-methoxy-': '',
   'Nonane, 1-[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)oxy]-': '',
+  'Nonane, 2,2,4,4,6,8,8-heptamethyl-': '',
   'Nonane, heptadecafluoro-1-[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)oxy]-':
     '',
   'Nonanedioic acid, 4,4,5,5,6,6-hexafluoro-3,7-dioxo-2,8-bis(triphenylphosphoranylidene)-, diethyl ester':
@@ -23346,6 +23363,8 @@ export default {
   'Pentane, 1,1,1,2,3,3-hexafluoro-4-(1,1,2,3,3,3-hexafluoropropoxy)-': '',
   'Pentane, 1,1,1,2,3,3-hexafluoro-4-methyl-': '',
   'Pentane, 1,1-dichloro-2,2,3,3,4,4,5,5-octafluoro-1-(propylthio)-': '',
+  'Pentane, 2,2-dimethyl-':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/2_2-Dimethylpentane',
   'Pentane, 3,3-dimethyl-': 'Minnesota IT Services at MPCA ',
   'Pentane, 5-chloro-1,1,2,2,3,3,4,4-octafluoro-': '',
   'Pentanedioic acid': '; Request Date: 06-JUN-14',
@@ -24071,11 +24090,13 @@ export default {
   Pericoma: 'TAXON: Animalia Kingdom; NWIS',
   Perindopril: 'NWIS',
   Periphyton:
-    'Biological,2; Microscopic underwater plants and animals that are firmly attached to solid surfaces such as rocks, logs, pilings, and other structures.; Request Date: 22-JUL-14',
+    'Biological,2; Microscopic underwater plants and animals that are firmly attached to solid surfaces such as rocks, logs, pilings, and other structures.; Request Date: 22-JUL-14;Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton;63',
   'Periphyton Cover':
     'Results are in % of the stream bed at a specific transect that is covered by periphyton: https://diatoms.org/glossary/periphyton',
-  'Periphyton biovolume': 'Physical,14; Request Date: 07-DEC-09',
-  'Periphyton productivity': 'Microbiological,2; Request Date: 02-MAR-07',
+  'Periphyton biovolume':
+    'Physical,14; Request Date: 07-DEC-09;Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton;63',
+  'Periphyton productivity':
+    'Microbiological,2; Request Date: 02-MAR-07;Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton;63',
   'Periphyton, substrate rock/bank encrustation (choice list)':
     '; Request Date: 02-MAR-07',
   'Permeability, K': 'Permeability, K at 20 deg C',
@@ -24247,9 +24268,12 @@ export default {
   'Phenytoin-d10': '',
   Pheophytin: 'Biological,2; ',
   'Pheophytin a': 'Biological,2; Request Date: 02-MAR-07',
-  'Pheophytin ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
-  'Pheophytin/Chlorophyll ratio': 'Stable Isotopes,18; Request Date: 02-MAR-07',
-  'Pheopigments of Chlorophyll': 'Nemi.gov; Request Date: 25-SEP-19',
+  'Pheophytin ratio':
+    'Stable Isotopes,18; Request Date: 02-MAR-07;Biological, Algae, Cyanobacteria, Photosynthetic Pigments;57',
+  'Pheophytin/Chlorophyll ratio':
+    'Stable Isotopes,18; Request Date: 02-MAR-07;Biological, Algae, Cyanobacteria, Photosynthetic Pigments;57',
+  'Pheopigments of Chlorophyll':
+    'Nemi.gov; Request Date: 25-SEP-19;Biological, Algae, Cyanobacteria, Photosynthetic Pigments;57',
   Pherbellia: 'TAXON: Animalia Kingdom; NWIS',
   Philobdella: 'TAXON: Animalia Kingdom; NWIS',
   Philocasca: 'NWIS',
@@ -24444,13 +24468,20 @@ export default {
   'Phthalic anhydride': '; Request Date: 02-MAR-07',
   Phthalide: '; Request Date: 02-MAR-07',
   'Phthalocyanine, tetrakis(pentadecafluoroheptyl)-, copper deriv.': '',
-  Phycocyanin: 'Organics, Other,11; Request Date: 06-MAR-14',
-  'Phycocyanin (probe relative fluorescence)': '; Request Date: 08-OCT-19',
-  'Phycocyanin (probe)': '; Request Date: 08-OCT-19',
-  Phycocyanins: 'NWIS',
-  Phycoerythrin: 'NWIS',
-  'Phycoerythrin (PE)': 'NWIS',
-  'Phycoerythrin fluorescence (fPE)': 'NWIS',
+  Phycocyanin:
+    'Organics, Other,11; Request Date: 06-MAR-14;Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin;58',
+  'Phycocyanin (probe relative fluorescence)':
+    '; Request Date: 08-OCT-19;Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin;58',
+  'Phycocyanin (probe)':
+    '; Request Date: 08-OCT-19;Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin;58',
+  Phycocyanins:
+    'NWIS;Biological, Algae, Cyanobacteria, Photosynthetic,Phycocyanin;58',
+  Phycoerythrin:
+    'NWIS;Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin;59',
+  'Phycoerythrin (PE)':
+    'NWIS;Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin;59',
+  'Phycoerythrin fluorescence (fPE)':
+    'NWIS;Biological, Algae,Cyanobacteria,Photosynthetic,Phycoerythrin;59',
   Phyllodocida: 'NWIS',
   Phyllodocidae: 'TAXON: Animalia Kingdom; NWIS',
   Phylloicus: 'NWIS',
@@ -26869,10 +26900,10 @@ export default {
   'Site Disturbance (text)': '',
   'Site Disturbance Evident (choice list)': '',
   'Site Erosion (text)': '',
+  'Site NOT Verified (Y/N) (choice list)': '2025-01-17',
   'Site Sampleability Detail': '',
   'Site Sampleability Status': '',
   'Site Sampled (Y/N) (choice list)': '',
-  'Site Verified (Y/N) (choice list)': '',
   'Site Verified By GPS': '',
   'Site Verified By Local Contact': '',
   'Site Verified By Other': '',
@@ -28331,7 +28362,11 @@ export default {
   'Toxicity sediment survival': '; Request Date: 18-JUN-14',
   'Toxicity sediment survival significant': '; Request Date: 18-JUN-14',
   'Toxicity water 100%/ LC50 (% effluent)': '; Request Date: 18-JUN-14',
+  'Toxicity water IC25':
+    "inhibitory concentrationis a measure of a drug's potency, specifically its ability to inhibit a biological process or response by 25%. Whole effluent toxicity",
   'Toxicity water LC50': '; Request Date: 18-JUN-14',
+  'Toxicity water LOEC':
+    'Lowest Observed Effect Concentration, is the lowest tested concentration that is significantly different from control. Whole effluent toxicity',
   'Toxicity water microtox': '; Request Date: 20-JUN-14',
   'Toxicity water norm embryo': '; Request Date: 20-JUN-14',
   'Toxicity, A. abdita, coefficient of variation**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
@@ -28880,7 +28915,8 @@ export default {
   'Unnatural odor (choice list)': '; Request Date: 02-JUL-19',
   'Unnatural oil (choice list)': '; Request Date: 02-JUL-19',
   'Unnatural plant growth (choice list)': '',
-  'Unnatural plant or algal growth (choice list)': '; Request Date: 02-JUL-19',
+  'Unnatural plant or algal growth (choice list)':
+    '; Request Date: 02-JUL-19;Biological, Algae, Phytoplankton, Aquatic Plants;61',
   'Unnatural turbidity (choice list)': '; Request Date: 02-JUL-19',
   Uranium: '; Request Date: 22-JUL-14',
   'Uranium 238/234 ratio': '; Request Date: 02-MAR-07',
@@ -29796,7 +29832,7 @@ export default {
   'phosphatase (corrected for carbon content)': '; Request Date: 24-NOV-09',
   'potassium pentafluoroethane-1-sulfonate': '',
   'psi,psi-Carotene, 7,7,8,8,11,11,12,12,15,15-decahydro-':
-    '; Request Date: 23-APR-15',
+    '; Request Date: 23-APR-15;Biological, Algae, Phytoplankton, Aquatic Plants;61',
   'rac-(1,5R,6S,9S,10R)-Pentabromocyclododecene': 'NWIS',
   'rac-10,11-Dihydro-10,11-dihydroxy carbamazepine': 'NWIS',
   'rac-Clopidogrel carboxylic acid': 'NWIS',

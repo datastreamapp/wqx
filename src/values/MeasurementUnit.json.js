@@ -43,6 +43,7 @@ export default {
     '% saturatn*^',
     '% sediment',
     '% solids',
+    '%/cm',
     '(kg/sec)/m',
     '0/00',
     '1000m3/day',

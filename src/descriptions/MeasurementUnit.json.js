@@ -43,6 +43,7 @@ export default {
   '% sediment':
     '()Concentration Percentage, % target/clean sed mix which produces response',
   '% solids': '()Concentration Percentage, Percent of solids',
+  '%/cm': 'Light intensity, Percentage per centimeter',
   '(kg/sec)/m': '()Kilograms per second per meter',
   '0/00': 'Concentration Percentage, Parts per thousand',
   '1000m3/day': '()Flow, 1000 cubic metres per day',

@@ -6238,7 +6238,6 @@ export default {
   '2,2-Dimethyldecane': '17302-37-3',
   '2,2-Dimethylheptane': '1071-26-7',
   '2,2-Dimethylhexane': '590-73-8',
-  '2,2-Dimethylpentane': '590-35-2',
   '2,2-Dimethylpropane': '463-82-1',
   '2,2-Oxybis(2-chloropropane)': '',
   '2,2-Propanediamine, 1,1,1,3,3,3-hexafluoro-': '1737-80-0',
@@ -16294,6 +16293,7 @@ export default {
   'Cyclohexane, 1,2,3,4,5-pentafluoro-6-(1,1,2,2,3,3,3-heptafluoropropyl)-':
     '918409-18-4',
   'Cyclohexane, 1,2,4-trimethyl-, (1R,2R,4R)-rel-': '7667-60-9',
+  'Cyclohexane, 2-ethyl-1,1,3-trimethyl-': '442662-72-8',
   'Cyclohexane, 4-chloro-1,1-bis(trifluoromethyl)-': '65018-64-6',
   'Cyclohexane, butyl-': '1678-93-9',
   'Cyclohexane, decafluoro-': '55101-67-2',
@@ -18449,6 +18449,8 @@ export default {
   Forchlorfenuron: '68157-60-8',
   'Forest Age (choice list)': '',
   Formaldehyde: '50-00-0',
+  "Formamide, N,N'-[dithiobis[2-(2-hydroxyethyl)-1-methyl-2,1-ethenediyl]]bis[N-[(4-amino-2-methyl-5-pyrimidinyl)methyl]-":
+    '67-16-3',
   Formate: '71-47-6',
   'Formation code': '',
   Formetanate: '22259-30-9',
@@ -22122,6 +22124,7 @@ export default {
     '112806-31-2',
   'Nonane, 1-[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)oxy]-':
     '113659-14-6',
+  'Nonane, 2,2,4,4,6,8,8-heptamethyl-': '4390-04-9',
   'Nonane, heptadecafluoro-1-[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)oxy]-':
     '84029-59-4',
   'Nonanedioic acid, 4,4,5,5,6,6-hexafluoro-3,7-dioxo-2,8-bis(triphenylphosphoranylidene)-, diethyl ester':
@@ -23159,6 +23162,7 @@ export default {
   'Pentane, 1,1,1,2,3,3-hexafluoro-4-methyl-': '53072-71-2',
   'Pentane, 1,1-dichloro-2,2,3,3,4,4,5,5-octafluoro-1-(propylthio)-':
     '141700-49-4',
+  'Pentane, 2,2-dimethyl-': '590-35-2',
   'Pentane, 3,3-dimethyl-': '562-49-2',
   'Pentane, 5-chloro-1,1,2,2,3,3,4,4-octafluoro-': '755-21-5',
   'Pentanedioic acid': '110-94-1',
@@ -26459,10 +26463,10 @@ export default {
   'Site Disturbance (text)': '',
   'Site Disturbance Evident (choice list)': '',
   'Site Erosion (text)': '',
+  'Site NOT Verified (Y/N) (choice list)': '',
   'Site Sampleability Detail': '',
   'Site Sampleability Status': '',
   'Site Sampled (Y/N) (choice list)': '',
-  'Site Verified (Y/N) (choice list)': '',
   'Site Verified By GPS': '',
   'Site Verified By Local Contact': '',
   'Site Verified By Other': '',
@@ -27748,7 +27752,9 @@ export default {
   'Toxicity sediment survival': '',
   'Toxicity sediment survival significant': '',
   'Toxicity water 100%/ LC50 (% effluent)': '',
+  'Toxicity water IC25': '',
   'Toxicity water LC50': '',
+  'Toxicity water LOEC': '',
   'Toxicity water microtox': '',
   'Toxicity water norm embryo': '',
   'Toxicity, A. abdita, coefficient of variation**retired**useBiologicalSample,SubjectTaxon,IntentToxicity':
