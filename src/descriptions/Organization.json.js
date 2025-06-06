@@ -1205,8 +1205,7 @@ export default {
   PDHP7L: 'Park District of Highland Park',
   PECHANGA_WQX:
     'Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California (Tribal) || Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California (Tribal)',
-  PENOBSCOTINDIANNATIONDNR:
-    'Penobscot Indian Nation Department of Natural Resources (Tribal) || Penobscot Nation (Tribal)',
+  PENOBSCOTINDIANNATIONDNR: 'Penobscot Indian Nation',
   PEORIAWATER: '',
   PGSTNATR_WQX:
     "Port Gamble S'Klallam Tribe (Tribal) || Port Gamble S'Klallam Tribe (Tribal)",

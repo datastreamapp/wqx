@@ -622,7 +622,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '.Alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -646,6 +645,7 @@ export default {
   '.alpha.-Methylstyrene': '; Request Date: 02-MAR-07',
   '.alpha.-Naphthylthiourea': '; Request Date: 02-MAR-07',
   '.alpha.-Nitrotoluene': '; Request Date: 02-MAR-07',
+  '.alpha.-Pinene': '; Request Date: 03-JUL-08',
   '.alpha.-Terpineol': '; Request Date: 02-MAR-07',
   '.alpha.-[2-Hydroxy-3-[.alpha.-perfluoroisopropylpoly(degree of polymerization 7-15)(difluoromethylene)]propyl]-.omega.-methoxy-poly(degree of polymerization 1-25)(oxyethylene)':
     '',
@@ -16511,6 +16511,8 @@ export default {
   'Depth, Secchi disk depth':
     'The transparency of water determined by lowering a Secchi disk (an 8-inch disk with alternating black and white quadrants) into a body of water until it can no longer be seen. The Secchi depth is typically reported in inches, feet, or meters. Algae, color, and suspended solids decrease the transparency of water or Secchi depth.; Request Date: 02-MAR-07',
   'Depth, Secchi disk depth (choice list)': '; Request Date: 02-MAR-07',
+  'Depth, Secchi disk depth disappears':
+    'This depth of disappearance, called the Secchi depth, is a measure of the transparency of the water. Transparency decreases as color, suspended sediments, or algal abundance increases.',
   'Depth, Secchi disk depth reappears': '',
   'Depth, Secchi disk visible at bottom (Y/N) (choice list)': '',
   'Depth, below bottom surface': '; Request Date: 02-MAR-07',
@@ -21890,7 +21892,8 @@ export default {
   NSC174337: '',
   'NYSDEC Bioassessment Score': '',
   'NYSDEC Fish Impairment Score': '',
-  'NYSDEC Model Affinity by trophic class': '',
+  'NYSDEC Model Affinity by trophic class':
+    'The New York State Department of Environmental Conservation uses Percent Model Affinity (PMA) by trophic class as a metric for assessing water quality and the health of fish communities in NY state. This index compares the observed fish community with model communities representing different levels of environmental impact, for an assessment of the similarity to a healthy, non-impacted state. ',
   Nabam: '; Request Date: 02-MAR-07',
   Nadolol: '; Request Date: 02-FEB-15',
   Naegleria: 'TAXON: Animalia Kingdom; Request Date: 02-MAR-07',
@@ -26904,12 +26907,12 @@ export default {
   'Site Sampleability Detail': '',
   'Site Sampleability Status': '',
   'Site Sampled (Y/N) (choice list)': '',
-  'Site Verified By GPS': '',
-  'Site Verified By Local Contact': '',
-  'Site Verified By Other': '',
-  'Site Verified By Roads': '',
-  'Site Verified By Signs': '',
-  'Site Verified By Topographic Map': '',
+  'Site Verified by GPS': '',
+  'Site Verified by Local Contact': '',
+  'Site Verified by Other': '',
+  'Site Verified by Roads': '',
+  'Site Verified by Signs': '',
+  'Site Verified by Topographic Map': '',
   'Site Visit Number': '',
   'Sky Code (CA SWAMP) (choice list)':
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',
@@ -28443,6 +28446,7 @@ export default {
   'Transect Spacing - Actual': '',
   'Transect Spacing - Intended': '',
   'Transit Rate, sampler': '; Request Date: 30-MAY-13',
+  'Transmittance at 254 nm': '',
   'Transmittance, Horizontal':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Transparency, Secchi tube with disk': '; Request Date: 22-DEC-11',
