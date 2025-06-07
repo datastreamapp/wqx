@@ -169,8 +169,8 @@ export default {
     '()Concentration Solution, Colony Forming Units per gram dryweight',
   'cfu/mL': '()Concentration Solution, Colony Forming Units per milliliters',
   cm: 'Length Distance, Centimeters',
-  'cm-1':
-    'Concentration Solution, Inverse centimeters or per centimeters or cm-1',
+  'cm-1*^*^*^*^':
+    'DO NOT USE, retired use per cm Concentration Solution, Inverse centimeters or per centimeters or cm-1',
   'cm/sec': 'Speed Velocity, Centimeters per second',
   cm2: 'Area, Square centimeters',
   cm3: 'Volume, Cubic centimeters',
@@ -420,7 +420,7 @@ export default {
   'ng/m3': 'Density, Nanograms per cubic meter',
   'ng/mL': '()Density, Nanograms per milliliter',
   nm: 'Length Distance, Nanometers',
-  'nm-1':
+  'nm-1*^*^*^*^':
     'DO NOT USE, Inverse nanometers or per nanometers ***deprecated***use per nm 19-JUL-10',
   nmi: 'Length Distance, Nautical miles',
   nmi2: 'Area, Square nautical miles',
@@ -442,10 +442,12 @@ export default {
   'pCi/m3': 'Concentration Solution, Picocuries per cubic meter',
   'pCi/mL': 'Density, Picocuries per milliliter',
   'pct modern': '()Concentration Percentage, Percent modern',
+  'per cm':
+    'Concentration Solution, Inverse centimeters or per centimeters or cm-1',
   'per day': '()Time, Inverse days or per day',
-  'per m': 'Inverse meter or per meter',
+  'per m': 'Inverse meter or per meter or m-1',
   'per mil': 'Concentration Percentage, Parts per thousand',
-  'per nm': 'Inverse nanometers or per nanometers',
+  'per nm': 'Inverse nanometers or per nanometers or nm-1',
   'pfu/100L': '()Concentration Solution, Plaque Forming Units per 100 liters',
   'pfu/100mL':
     '()Concentration Solution, Plaque Forming Units per 100 milliliters',
