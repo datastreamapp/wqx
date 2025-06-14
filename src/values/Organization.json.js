@@ -1104,6 +1104,7 @@ export default {
     'ROCKBRIDGE_WQX',
     'ROSEBUDSIOUXTRIBE',
     'ROUNDVALLEY',
+    'RPI',
     'RPI_SCALE',
     'RREPA_WQX',
     'RRK_WQX',

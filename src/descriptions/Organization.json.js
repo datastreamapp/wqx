@@ -1332,6 +1332,7 @@ export default {
   ROSEBUDSIOUXTRIBE: 'Rosebud Sioux Tribe',
   ROUNDVALLEY:
     'Round Valley Indian Tribes, Round Valley Reservation, California (Tribal) || Round Valley Indian Tribes, Round Valley Reservation, California (Tribal)',
+  RPI: '',
   RPI_SCALE: '',
   RREPA_WQX:
     'Resighini Rancheria, California (Tribal) || Resighini Rancheria, California (Tribal)',

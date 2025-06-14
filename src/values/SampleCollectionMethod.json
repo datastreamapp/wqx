@@ -34,6 +34,7 @@
     "DWQFISHELE",
     "DWQFISHHAL",
     "DWQFISHNET",
+    "Deep Riffle/Run",
     "EPA RBP (Fish)",
     "EPA RBP (Inverts MHAB)",
     "EPA RBP (Inverts SHAB)",
@@ -71,6 +72,9 @@
     "Guidance on Systematic Planning",
     "HBMP 2012 Multihabitat Invert",
     "HBMP Invert Multihabitat",
+    "HD_Artificial Substrate",
+    "LENTIC_VD",
+    "MH_LowGradient",
     "Marion Invert 1999-2001",
     "Method to estimate discharge",
     "NAWQA Algal DTH 2002 (Wade)",
@@ -125,9 +129,12 @@
     "PNAMP Invert Collection",
     "Pole-MassWateR",
     "Radiello",
+    "SP-Macro",
+    "SP-Water",
     "SWAMP Bioassessment 2016",
     "SWAMP RWB",
     "Sample Collected per QAPP",
+    "Stream Chlorophyll",
     "TARRIFFLE",
     "TCEQ",
     "TM1-D3 Field Meter Calibration",
@@ -149,8 +156,10 @@
     "USGS TM1-D5",
     "USGS WRIR 03–4331",
     "WRIR 98-4052 RHAB",
+    "WY-GS",
     "Wade-MassWateR",
-    "Water Sampling Device-MassWateR"
+    "Water Sampling Device-MassWateR",
+    "Water_Depth-Int."
   ],
   "maxLength": 32
 }

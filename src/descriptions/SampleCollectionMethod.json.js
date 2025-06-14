@@ -37,6 +37,8 @@ export default {
   DWQFISHELE: '',
   DWQFISHHAL: '',
   DWQFISHNET: '',
+  'Deep Riffle/Run':
+    'Macroinvertebrate sampling for riffle/run > 1 ft. depth.  30x50 cm rect. frame, placed 5 or 8 times.',
   'EPA RBP (Fish)': 'https://www.nemi.gov/methods/method_summary/12391/',
   'EPA RBP (Inverts MHAB)':
     'https://www.nemi.gov/methods/method_summary/12655/',
@@ -85,6 +87,11 @@ export default {
     'https://www.nemi.gov/protocols/protocol_summary/657/',
   'HBMP Invert Multihabitat':
     'https://www.nemi.gov/methods/method_summary/12916/',
+  'HD_Artificial Substrate':
+    'Hester-Dendy Artificial Substrate for macroinvertebrate colletion',
+  LENTIC_VD:
+    'Water Chemistry at Depth in Lake or Reservoir Sampled with Van Dorn Sampler',
+  MH_LowGradient: 'Multi-Habitat Kick/Jab Method (Kick Net)',
   'Marion Invert 1999-2001':
     'https://www.nemi.gov/methods/method_summary/12920/',
   'Method to estimate discharge': 'http://pubs.usgs.gov/tm/1a1/pdf/GWP10.pdf',
@@ -178,11 +185,14 @@ export default {
   'Pole-MassWateR':
     'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
   Radiello: '21-day indoor air sampling with Radiello carbon cartridges',
+  'SP-Macro': 'Benthic Macroinvertebrate Sampling',
+  'SP-Water': 'Water Grab Sampling',
   'SWAMP Bioassessment 2016':
     'https://www.nemi.gov/protocols/protocol_summary/655/',
   'SWAMP RWB': 'https://www.nemi.gov/methods/method_summary/12835/',
   'Sample Collected per QAPP':
     'See Study Detail at: https://apps.ecology.wa.gov/eim/search/default.aspx',
+  'Stream Chlorophyll': 'Processed from stream periphyton sample as per SOP.',
   TARRIFFLE:
     'Procedure follows EMAP 2002 Targeted Riffle Standard Operating Procedure',
   TCEQ: 'https://www.tceq.texas.gov/waterquality/monitoring, Quality Assurance and Monitoring Procedures for Surface Water Quality Monitoring, https://www.tceq.texas.gov/waterquality/monitoring/swqm_guides.html',
@@ -213,8 +223,11 @@ export default {
   'USGS TM1-D5': 'https://www.nemi.gov/protocols/protocol_summary/650/',
   'USGS WRIR 03–4331': 'https://www.nemi.gov/protocols/protocol_summary/664/',
   'WRIR 98-4052 RHAB': 'https://www.nemi.gov/methods/method_summary/12239/',
+  'WY-GS': '',
   'Wade-MassWateR':
     'Sample collected in-stream while wading in from bank. Sample taken in water bottle with "scoop" method 6-12 inches below surface in flowing current.',
   'Water Sampling Device-MassWateR':
-    'This method involves the collection of a water sample by lowering a sampling container to depth and using a physical or mechanical method of closing the container (e.g., Lamotte, Rosette, Van Dorn). This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/'
+    'This method involves the collection of a water sample by lowering a sampling container to depth and using a physical or mechanical method of closing the container (e.g., Lamotte, Rosette, Van Dorn). This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
+  'Water_Depth-Int.':
+    'Depth Integrated Water Chemistry Sampling Method (EWI or EDI)'
 }
