@@ -11,7 +11,7 @@ export default {
   Corals:
     'Hard stony substance secreted by certain marine coelenterates as an external skeleton, typically forming large reefs in warm seas. Corals - https://www.nps.gov/im/klmn/species-lists.htm',
   Diatoms:
-    'Diatoms are a type of plankton called phytoplankton, diatoms are classed as microalgae. ',
+    'Diatoms are a type of plankton called phytoplankton, diatoms are unicellular organisms classed as microalgae. ',
   'Fish/Nekton':
     'Fish or other animals inhabiting the water column between the surface and the bottom. North American Native Fishes Association Fish List -  http://www.nanfa.org/checklist.shtml',
   Fungi:

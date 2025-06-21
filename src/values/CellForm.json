@@ -3,6 +3,16 @@
   "title": "Cell Form",
   "description": "",
   "type": "string",
-  "enum": ["Coccoids", "Diatom", "Filaments", "Flagellates", "Haptophytes"],
+  "enum": [
+    "Cells",
+    "Coccoids",
+    "Cysts",
+    "Diatom",
+    "Filaments",
+    "Flagellates",
+    "Frustules",
+    "Haptophytes",
+    "Valves"
+  ],
   "maxLength": 11
 }
