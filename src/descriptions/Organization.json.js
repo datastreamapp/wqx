@@ -248,7 +248,7 @@ export default {
   '21PABCH': 'Local health department',
   '21PA_WQX': 'PA ENVIRONMENTAL PROTECTION',
   '21RIBCH': '',
-  '21SC60WQ_WQX': 'South Carolina Department of Environmental Services',
+  '21SC60WQ_WQX': '',
   '21SCBCH_WQX': '',
   '21SCESOP_WQX': 'Water Quality Monitoring Data',
   '21SCGW_WQX': 'Groundwater Monitoring Data',

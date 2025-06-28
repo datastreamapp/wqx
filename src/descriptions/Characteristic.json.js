@@ -15353,8 +15353,8 @@ export default {
     'National Park Service, contact nps.gov; Request Date: 21-JUL-16',
   'Channel form (choice list)': '; Request Date: 08-JUN-10',
   'Channel slope at bankfull stage': '',
-  'Channel type': '',
   'Channel type (choice list)': '; Request Date: 24-AUG-10',
+  'Channel type (text)': '07-21-2020 08:53 AM',
   'Channel vegetative cover':
     'A description of the vegetative cover surrounding the channel of a stream.; Request Date: 02-MAR-07',
   'Channel-Full Height above thalweg': '',
@@ -18165,6 +18165,8 @@ export default {
   'Floating vegetation severity, choice list': 'NWIS',
   Flonicamid: '1; Request Date: 09-MAR-15',
   'Flonicamid-d3': '11;',
+  'Flood Evidence (choice list)':
+    'https://irma.nps.gov/DataStore/Reference/Profile/2233293',
   'Flood Frequency': '',
   'Flood prone area width': '',
   'Floodplain Presence (choice list)':
