@@ -20228,6 +20228,7 @@ export default {
   Gymnocarpium: 'Not Assigned',
   'Gymnocarpium dryopteris': 'Not Assigned',
   Gymnocephalus: 'Not Assigned',
+  'Gymnocephalus cernua': 'Not Assigned',
   'Gymnocephalus cernuus': 'Not Assigned',
   Gymnochthebius: 'Not Assigned',
   'Gymnochthebius fossatus': 'Not Assigned',

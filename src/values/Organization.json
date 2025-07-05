@@ -4,6 +4,7 @@
   "description": "",
   "type": "string",
   "enum": [
+    "*********RIVERWATCH",
     "*******CMC",
     "0800257_WQX",
     "0800597_WQX",

@@ -2843,6 +2843,7 @@ export default {
   'D1429(D)': '',
   'D1452-07A':
     'D1452-07a ~ ASTM . Standard Practice for Soil Investigation and Sampling by Auger Borings',
+  D1481: 'https://store.astm.org/d1481-17.html',
   D1498: 'D1498 ~ ASTM . Redox Potential of Water',
   D1552: '',
   D1590: '',
@@ -2881,7 +2882,7 @@ export default {
   D1943: 'D1943 ~ ASTM . Alpha Particle Radioactivity of Water',
   D1946:
     'Standard Method for Analysis of Reformed Gas by Gas Chromatography Reference: https://www.astm.org/d1946-90r19.html',
-  D1976: 'https://www.astm.org/Standards/D1976.htm',
+  D1976: 'D1976 ~ ASTM . Elements in Water by ICP-AES',
   D2035: '',
   'D2036(A)':
     'D2036A ~ ASTM . Cyanides, Total, after Distillation (Test Method A)',
@@ -3063,6 +3064,7 @@ export default {
   D4409: '',
   D4412: 'D4412 ~ ASTM . Sulfate-reducing Bacteria in Water',
   D4413: '',
+  D445: 'https://store.astm.org/d0445-24.html',
   D4454: 'D4454 ~ ASTM . Respiring Bacteria in Water',
   D4455: 'D4455 ~ ASTM . Aquatic Bacteria by Epifluoresence Microscopy',
   D4458: 'D4458 ~ ASTM . Chloride in Water',
@@ -3201,6 +3203,7 @@ export default {
   D6592: 'D6592 ~ ASTM . Water Quality by Chemiluminesence',
   D6888:
     'D6888 ~ ASTM . Available Cyanide in water with Ligand Displacement and FIA Utilizing Gas Diffusion Separation and Amperometric Detection',
+  'D6888-09': 'https://store.astm.org/d6888-16.html',
   D6913:
     'This test method uses a square opening sieve criterion in determining the gradation of soil between the 3-in. (75-mm) and No. 200 (75-µm) sieves.',
   D6913M:
@@ -3268,6 +3271,7 @@ export default {
   D932: '',
   'D934(A)': '',
   'D934(B)': '',
+  D971: 'https://store.astm.org/d0971-20.html',
   'DATA QUALITY (DEFT)':
     'A ~ EPA-QUALITY . Data Quality Objectives Decision Error Feasibility Trials (DEFT) Software',
   'DATA QUALITY GUIDE':
