@@ -2924,6 +2924,7 @@ export default {
   '1,2,3,4,7,7-Hexafluorobicyclo[2.2.1]hept-2-ene': 'Organics, Other',
   '1,2,3,4,7,7-Hexafluorobicyclo[2.2.1]hepta-2,5-diene': 'Organics, Other',
   '1,2,3,4,7,8,9-Heptachlorodibenzofuran': 'Organics, Other',
+  '1,2,3,4,7,8,9-Heptachlorodibenzofuran-13C12': 'Not Assigned',
   '1,2,3,4,7,8-Hexabromodibenzo-p-dioxin': 'Not Assigned',
   '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin': 'Organics, Other',
   '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin-C13': 'Organics, Other',
@@ -11352,6 +11353,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '27,27,28,28,29,29,30,30,31,31,32,32,33,33, 34,34,34-Heptadecafluoro-3,6,9,12,15,18,21,24-octaoxatetratriacont-1-yl tridecanoate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '27-Nor-25-ketocholesterol': 'Not Assigned',
   '29-(Perfluorooctyl)-2,5,8,11,14,17,20,23-octaoxa-27-thianonaicosan-25-ol':
     'PFAS,Perfluorinated Alkyl Substance',
   '2:1 Fluorotelomer amino ethyl trimethyl ammonium':
@@ -26398,6 +26400,7 @@ export default {
   Octachlorobiphenyl: 'Organics, PCBs',
   Octachlorocyclopentene: 'Not Assigned',
   'Octachlorodibenzo-p-dioxin-C13': 'Organics, Other',
+  'Octachlorodibenzofuran-13C12': 'Not Assigned',
   Octachloronaphthalene: 'Organics, Other',
   Octachlorostyrene: 'Organics, Other',
   Octacosane: 'Organics, Other',

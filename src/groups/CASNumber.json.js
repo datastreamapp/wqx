@@ -2209,6 +2209,7 @@ export default {
   '1,2,3,4,7,7-Hexafluorobicyclo[2.2.1]hept-2-ene': '1482-03-7',
   '1,2,3,4,7,7-Hexafluorobicyclo[2.2.1]hepta-2,5-diene': '17065-31-5',
   '1,2,3,4,7,8,9-Heptachlorodibenzofuran': '55673-89-7',
+  '1,2,3,4,7,8,9-Heptachlorodibenzofuran-13C12': '109719-94-0',
   '1,2,3,4,7,8-Hexabromodibenzo-p-dioxin': '110999-44-5',
   '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin': '39227-28-6',
   '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin-C13': '109719-80-4',
@@ -9259,6 +9260,7 @@ export default {
     '75860-11-6',
   '27,27,28,28,29,29,30,30,31,31,32,32,33,33, 34,34,34-Heptadecafluoro-3,6,9,12,15,18,21,24-octaoxatetratriacont-1-yl tridecanoate':
     '67535-33-5',
+  '27-Nor-25-ketocholesterol': '7494-34-0',
   '29-(Perfluorooctyl)-2,5,8,11,14,17,20,23-octaoxa-27-thianonaicosan-25-ol':
     '121912-28-5',
   '2:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
@@ -22278,6 +22280,7 @@ export default {
   Octachlorobiphenyl: '55722-26-4',
   Octachlorocyclopentene: '706-78-5',
   'Octachlorodibenzo-p-dioxin-C13': '114423-97-1',
+  'Octachlorodibenzofuran-13C12': '109719-78-0',
   Octachloronaphthalene: '2234-13-1',
   Octachlorostyrene: '29082-74-4',
   Octacosane: '630-02-4',

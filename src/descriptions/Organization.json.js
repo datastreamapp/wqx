@@ -13,7 +13,6 @@ export default {
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
   '*********RIVERWATCH': '',
-  '*******CMC': '(https://www.chesapeakemonitoringcoop.org/)',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -1665,7 +1664,7 @@ export default {
   WCD: 'A local unit of government in Washington County, Minnesota dedicated to soil and water conservation',
   WC_WQX: '',
   WDEP_WQX:
-    'Wichita Department of Environmental Programs (Tribal) || Wichita Department of Environmental Programs (Tribal)',
+    'Wichita and Affiliated Tribes of Oklahoma Water Quality Monitoring Data',
   WDFW: 'Washington Department of Fish and Wildlife;',
   WEARTH_WQX:
     'Minnesota Chippewa Tribe, Minnesota (White Earth Band) (Tribal) || Minnesota Chippewa Tribe, Minnesota (White Earth Band) (Tribal)',
@@ -1762,6 +1761,7 @@ export default {
   YAKAMA_WQX:
     'Confederated Tribes and Bands of the Yakama Nation (Tribal) || Confederated Tribes and Bands of the Yakama Nation (Tribal)',
   YAKIMAVLYDAIRIES_WQX: 'c/o  Inland Earth Sciences Corp.',
+  YANKTONSIOUX_WQX: 'https://www.yanktonsiouxtribe.net/',
   YAN_WQX:
     'Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona (Tribal) || Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona (Tribal)',
   YERINGTON_WQX:

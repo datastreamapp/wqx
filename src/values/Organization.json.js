@@ -5,7 +5,6 @@ export default {
   type: 'string',
   enum: [
     '*********RIVERWATCH',
-    '*******CMC',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -1458,6 +1457,7 @@ export default {
     'WYOMING_EXTERNAL',
     'YAKAMA_WQX',
     'YAKIMAVLYDAIRIES_WQX',
+    'YANKTONSIOUX_WQX',
     'YAN_WQX',
     'YERINGTON_WQX',
     'YOMBA',

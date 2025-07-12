@@ -227,6 +227,8 @@ export default {
     'Point-integrating samplers accumulate a water-sediment sample at any selected point in a stream.',
   'Polar Orga. Chem. Integrative Sampler':
     '(POCIS) is a passive sampling device which allows for the in situ collection of a time-integrated average of hydrophilic organic contaminants developed by researchers with the United States Geological Survey in Columbia, Missouri.',
+  'Polyethylene Device':
+    'PEDs provide a reliable tool for measuring dissolved concentrations of hydrophobic organic contaminants (HOCs)',
   'Polyethylene wipe': '',
   'Polyurethane Foam matrix': '',
   'Ponar Grab':
