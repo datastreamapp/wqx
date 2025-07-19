@@ -4,7 +4,6 @@
   "description": "",
   "type": "string",
   "enum": [
-    "*********RIVERWATCH",
     "0800257_WQX",
     "0800597_WQX",
     "0800650_WQX",
@@ -763,6 +762,7 @@
     "LEECHLAK_WQX",
     "LEIGHROCKS",
     "LEVELOCK",
+    "LEVSN_WQX",
     "LEWWTP_WQX",
     "LFGC",
     "LFMSDD",

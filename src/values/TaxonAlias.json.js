@@ -42542,6 +42542,7 @@ export default {
     'Arachnida',
     'Arachnida*',
     'Arachnochloris',
+    'Arachnoidea',
     'Araeopidius',
     'Araeopidius monachus',
     'Araiophos',

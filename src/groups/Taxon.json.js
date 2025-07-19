@@ -3204,6 +3204,7 @@ export default {
   Arachnanthus: 'Not Assigned',
   Arachnida: 'Not Assigned',
   Arachnochloris: 'Not Assigned',
+  Arachnoidea: 'Not Assigned',
   Araeopidius: 'Not Assigned',
   'Araeopidius monachus': 'Not Assigned',
   Araiophos: 'Not Assigned',

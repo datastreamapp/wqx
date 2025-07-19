@@ -12,7 +12,6 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '*********RIVERWATCH': '',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -362,8 +361,7 @@ export default {
     'Big Lagoon Rancheria, California (Tribal) || Big Lagoon Rancheria, California (Tribal)',
   BIGPINEPAIUTE:
     'Big Pine Paiute Tribe of the Owens Valley (Tribal) || Big Pine Paiute Tribe of the Owens Valley (Tribal)',
-  BIGSANDY:
-    'Big Sandy Rancheria of Western Mono Indians of California || Big Sandy Rancheria of Western Mono Indians of California (Tribal)',
+  BIGSANDY: 'Big Sandy Rancheria;',
   BIISHNIINI4: '',
   BILLIONOYSTERPROJECT: '',
   BISHOPPAIUTETRIBE:
@@ -888,6 +886,7 @@ export default {
   LEECHLAK_WQX: '',
   LEIGHROCKS: 'Contact Name: Leigh Lager',
   LEVELOCK: 'Levelock Village (Tribal) || Levelock Village (Tribal)',
+  LEVSN_WQX: '',
   LEWWTP_WQX: 'Water Quality Monitoring Data',
   LFGC: 'Colorado',
   LFMSDD: 'Colorado',
