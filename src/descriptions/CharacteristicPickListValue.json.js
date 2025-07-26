@@ -550,7 +550,7 @@ export default {
   'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
   'RBP2, Watershed, Local Erosion (choice list)':
     'Light/Slight local watershed erosion',
-  'Motor Boat Density (choice list)': 'Low',
+  'Motor Boat Density (choice list)': 'None',
   'Current Precipitation (choice list)': 'Snow',
   'Precipitation, how heavy (choice list)': 'No precipitation',
   'Aquatic Animals (choice list)': 'Normal amount of Aquatic Animals Present',
