@@ -1,5 +1,6 @@
 export default {
   'Acetic acid, 2-ethylhexyl ester': 'WQP; Rejected',
+  Buliminidae: 'WQP, GRP=3',
   '% undercut bank': '; Request Date: 08-JUN-10',
   '(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononyl)oxy)phenyl)sulfonyl)(methyl)amino)acetic acid':
     '',
@@ -16529,6 +16530,7 @@ export default {
   'Depth, below bottom surface': '; Request Date: 02-MAR-07',
   'Depth, bottom':
     'The distance from a reference point to the bottom measured in units of length.; Request Date: 22-JUL-14',
+  'Depth, composite': 'composite sample depth',
   'Depth, data-logger (non-ported)':
     'The depth of an object, measured by a non-ported data-logger.; Request Date: 02-MAR-07',
   'Depth, data-logger (ported)':
@@ -18421,6 +18423,7 @@ export default {
   'GFD DNA marker (purified)': '; Request Date: 08-OCT-19',
   'GULL2 DNA marker': '; Request Date: 08-OCT-19',
   'GULL2 DNA marker (purified)': '; Request Date: 08-OCT-19',
+  'GULL4 DNA marker': 'https://pmc.ncbi.nlm.nih.gov/articles/PMC3298170/',
   Gabapentin: 'Gabapentin',
   Gadolinium: '; Request Date: 22-JUL-14',
   'Gage height***retired***use Height, gage': '; Request Date: 27-MAR-19',
@@ -19724,6 +19727,8 @@ export default {
   'Lake Clear to Bottom': '',
   'Lake Depth Strata (choice list)': '',
   'Lake Level Changes': '',
+  'Lake Overturn (text)':
+    'see comment field for additional information about the lakeover turn event ',
   'Lake Shape Compares with Map': '',
   'Lake Type (choice list)': '',
   'Lake condition (choice list)':

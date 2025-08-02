@@ -1,5 +1,6 @@
 export default {
   'Acetic acid, 2-ethylhexyl ester': '103-09-3',
+  Buliminidae: '',
   '% undercut bank': '',
   '(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononyl)oxy)phenyl)sulfonyl)(methyl)amino)acetic acid':
     '',
@@ -16772,6 +16773,7 @@ export default {
   'Depth, Secchi disk visible at bottom (Y/N) (choice list)': '',
   'Depth, below bottom surface': '',
   'Depth, bottom': '',
+  'Depth, composite': '',
   'Depth, data-logger (non-ported)': '',
   'Depth, data-logger (ported)': '',
   'Depth, from below top of casing to water level': '',
@@ -18542,6 +18544,7 @@ export default {
   'GFD DNA marker (purified)': '',
   'GULL2 DNA marker': '',
   'GULL2 DNA marker (purified)': '',
+  'GULL4 DNA marker': '',
   Gabapentin: '60142-96-3',
   Gadolinium: '7440-54-2',
   'Gage height': '',
@@ -19735,6 +19738,7 @@ export default {
   'Lake Clear to Bottom': '',
   'Lake Depth Strata (choice list)': '',
   'Lake Level Changes': '',
+  'Lake Overturn (text)': '',
   'Lake Shape Compares with Map': '',
   'Lake Type (choice list)': '',
   'Lake condition (choice list)': '',

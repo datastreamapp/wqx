@@ -1,7 +1,6 @@
 export default {
   'RBP2, Weather Condition, Now (choice list)': 'Storm (heavy rain)',
   'RBP2, Weather Condition, Past 24 Hours (choice list)': 'Storm (heavy rain)',
-  'Substrate Cover by Sand (choice list)': '4 = Very Heavy (>75%)',
   'Substrate Cover by Silt, Clay, or Muck (choice list)':
     '4 = Very Heavy (>75%)',
   'Substrate Cover by Vegetation/Other (choice list)': '4 = Very Heavy (>75%)',
@@ -18,6 +17,7 @@ export default {
     '9 Densiometer Intersections',
   'Riparian Channel Canopy Cover Left Bank-Left (choice list)':
     '9 Densiometer Intersections',
+  'Understory Herbaceous (choice list)': '4 = Very Heavy (>75%)',
   'Woody Understory shrubs (choice list)': '4 = Very Heavy (>75%)',
   'Woody Understory Grasses (choice list)': '4 = Very Heavy (>75%)',
   'Human Influence: Park Facilities/Man-Made Beach (choice list)':
@@ -36,7 +36,6 @@ export default {
   'Fish Cover - Live Trees or Roots (choice list)': '4=Very Heavy (>75%)',
   'Fish Cover - Boulders (choice list)': '4=Very Heavy (>75%)',
   'Ground Coverage Bare (choice list)': '4 = Very Heavy (>75%)',
-  'Understory Herbaceous (choice list)': '4 = Very Heavy (>75%)',
   'Ground Coverage Herbaceous (choice list)': '4 = Very Heavy (>75%)',
   'Hydraulic Structure (choice list)': 'Other',
   'Ground Cover Standing Water (choice list)': '4 = Very Heavy (>75%)',
@@ -108,6 +107,7 @@ export default {
   'Substrate Cover by Gravel (choice list)': '4 = Very Heavy (>75%)',
   'Substrate Cover by Organic, Leaf Pack, Detritus (choice list)':
     '4 = Very Heavy (>75%)',
+  'Substrate Cover by Sand (choice list)': '4 = Very Heavy (>75%)',
   'Micro Algae Stream Reach Thickness Average': 'Too Deep',
   'Wind Speed (choice list)': '>20 mph',
   'Macro Algae Stream Reach Coverage Average': 'Too Deep',
@@ -239,7 +239,6 @@ export default {
     'Optimal, Gravel/boulder 0-25% surrounded by fine sediments',
   'Wave height (WMO code 1555) (choice list)':
     'Description, WMO Code=9, wave height=4.5m',
-  'Hydrologic Stressors: Recent Sedimentation (choice list)': 'Least stressful',
   'Hydrologic Stressors: Other (choice list)': 'Least stressful',
   'Stream width (choice list)': '>1.22m (>4ft)',
   'Leaf Status (choice list)': 'No Leaves Out',
@@ -298,6 +297,7 @@ export default {
   'Hydrologic Stressors: Box (choice list)': 'Least stressful',
   'Hydrologic Stressors: Ditches (choice list)': 'Least stressful',
   'Hydrologic Stressors: Channelized Streams (choice list)': 'Least stressful',
+  'Hydrologic Stressors: Recent Sedimentation (choice list)': 'Least stressful',
   'Macrophytes covering streambed (emergent and submerged) (choice list)':
     'Macrophytes covering 76-100% of the streambed',
   'Filamentous Algae covering streambed (choice list)':

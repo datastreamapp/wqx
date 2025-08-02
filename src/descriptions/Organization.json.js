@@ -217,7 +217,7 @@ export default {
   '21LABCH': '',
   '21MABCH': '',
   '21MEBCH': 'Maine Dept of Env Protection.',
-  '21MICH_WQX': '',
+  '21MICH_WQX': 'Michigan Department of Environmental Quality',
   '21MNBCH': '',
   '21MSBCH': 'Mississippi Agency responsible for Beaches data',
   '21MSWQ_WQX':
