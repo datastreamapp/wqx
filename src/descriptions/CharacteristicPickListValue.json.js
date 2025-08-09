@@ -303,9 +303,9 @@ export default {
   'Filamentous Algae covering streambed (choice list)':
     'filamentous algae observed to cover 76-100% of streambed',
   'Mussels observed (choice list)': 'Live organisms',
-  'Fish presence (choice list)': 'fish present',
-  'Amphibian presence (choice list)': 'amphibian present',
-  'Crayfish presence (choice list)': 'crayfish present',
+  'Fish presence (choice list)': 'Unknown',
+  'Amphibian presence (choice list)': 'Unknown',
+  'Crayfish presence (choice list)': 'Unknown',
   'Amount of Refuse on Banks (choice list)':
     'large volume of refuse (tires/carts) common',
   'Salt Appearance at Waters Edge (choice list)':
@@ -368,9 +368,9 @@ export default {
   'RBP Sediment Deposition (choice list)': '<5% - Self describing.',
   'Macrophyte Density (choice list)': 'Sparse <=== RETIRED 1 = Sparse (<10%)',
   'RBP Channel Alteration (choice list)': 'MINIMAL - Self describing.',
-  'RBP Bank Vegetative Protection, Left (choice list)':
-    '<50% - Self describing.',
   'RBP Bank Vegetative Protection, Right (choice list)':
+    '<50% - Self describing.',
+  'RBP Bank Vegetative Protection, Left (choice list)':
     '<50% - Self describing.',
   'Precipitation Last 24hrs (CA SWAMP) (choice list)':
     'Precipitation occurred in general area, amount unknown',

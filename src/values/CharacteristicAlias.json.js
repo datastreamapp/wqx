@@ -101836,6 +101836,7 @@ export default {
     'Water Odor (choice list)',
     'Water Pressure',
     'Water Pump (choice list)',
+    'Water Quality Index',
     'Water Residence Time',
     'Water Taste (choice list)',
     'Water Visibility (choice list)',

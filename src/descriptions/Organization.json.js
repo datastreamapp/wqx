@@ -196,7 +196,7 @@ export default {
   '21FLWPBH_WQX': 'Water Quality',
   '21FLWPB_WQX': 'Water Quality Monitoring Data',
   '21FLWQA_WQX':
-    'Watershed Assessment Section (WAS) - Formerly WQAS\nSurface Water Quality Monitoring Data and TMDLs',
+    'Watershed Assessment Section (WAS) - Formerly WQASSurface Water Quality Monitoring Data and TMDLs',
   '21FLWQSP_WQX': 'Water Quality Monitoring Data',
   '21GACRD': 'COASTAL RESOURCES DIVISION',
   '21GAEPD_WQX': 'Georgia DNR Environmental Protection Division',
@@ -389,6 +389,7 @@ export default {
     'Bridgeport Indian Colony (Tribal) || Bridgeport Indian Colony (Tribal)',
   BRIGHTON_WQX: 'Water Quality Monitoring Data',
   BROADRIVERNC: 'French Broad Riverkeeper monitoring',
+  BROADWATERCD_WQX: 'Broadwater Conservation District',
   BRWC_WV: '',
   BTBAQUATIC_WQX:
     'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
@@ -782,6 +783,7 @@ export default {
   HOPI_WQX: 'Hopi Tribe of Arizona (Tribal) || Hopi Tribe of Arizona (Tribal)',
   HOPTERA_WQX:
     'Hopland Band of Pomo Indians, California (Tribal) || Hopland Band of Pomo Indians, California (Tribal)',
+  HORSLEYWITTEN_WQX: '',
   HO_CHUNK_WQX: '',
   HPUL1EPA_WQX:
     'Habematolel Pomo of Upper Lake, California (Tribal) || Habematolel Pomo of Upper Lake, California (Tribal)',

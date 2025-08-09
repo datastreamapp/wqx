@@ -33353,6 +33353,7 @@ export default {
   'Water Odor (choice list)': 'Physical',
   'Water Pressure': 'Physical',
   'Water Pump (choice list)': 'Not Assigned',
+  'Water Quality Index': 'Not Assigned',
   'Water Residence Time': 'Not Assigned',
   'Water Taste (choice list)': 'Physical',
   'Water Visibility (choice list)': 'Habitat',
