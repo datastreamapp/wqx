@@ -679,6 +679,7 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
+  '****renamed': '102-06-7',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': '86194-41-4',
@@ -2817,6 +2818,7 @@ export default {
     '156000-47-4',
   '1,3-bis(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)urea':
     '1543-55-1',
+  '1,3-diphenylguanidine': '102-06-7',
   '1,4,2-Dioxazolidine, 2,3,3,5,5-pentakis(trifluoromethyl)-': '63527-91-3',
   '1,4,5,5,6,6-Hexafluoro-2,3-dimethoxycyclohexa-1,3-diene': '33103-52-5',
   '1,4,5,5,6,6-Hexafluoro-2,3-dimethylbicyclo[2.2.0]hex-2-ene': '33103-47-8',
@@ -3249,7 +3251,6 @@ export default {
   '1-1-Difluoro(trifluoroethenyl)oxymethyl-1,2,2,2-tetrafluoroethoxy-1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propane polymer with tetrafluoroethene and 1,1,2,2-tetrafluoro-3-iodo-1-(trifluoroethenyl)oxypropane':
     '106108-23-0',
   '1-3-Dicyclohexylurea': '2387-23-7',
-  '1-3-diphenylguanidine (DPG)': '102-06-7',
   '1-?Propanaminium, 3-?[[[4-?[(heptadecafluoronon?yl)?oxy]?phenyl]?sulfonyl]?amino]?-?N,?N,?N-?trimethyl-':
     '59493-69-5',
   '1-Acetyl-2-thiourea': '591-08-2',
@@ -9638,6 +9639,7 @@ export default {
   '3,3-Dimethylbutan-2-yl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     '107368-63-8',
   '3,3-Dimethylhexane': '563-16-6',
+  '3,3-Dimethyloctane': '4110-44-5',
   '3,3-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]': '1428-40-6',
   "3,4',5-Trichlorobiphenyl": '38444-88-1',
   "3,4'-Bis(heptadecafluorooctyl)-2,2'-bithiophene": '677033-16-8',
@@ -15958,6 +15960,7 @@ export default {
   'Cis-2-Pentene': '627-20-3',
   Citalopram: '59729-33-8',
   'Citalopram-d6': '1190003-26-9',
+  'Citizens Qualitative Habitat Evaluation Index': '',
   Citral: '5392-40-5',
   Citrobacter: '',
   Citronellol: '106-22-9',

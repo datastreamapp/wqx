@@ -5,7 +5,9 @@ export default {
   type: 'string',
   enum: [
     'VENLAFAXINE',
+    '1,4-DICHLOROBUTANE',
     'DISSOLVED OXYGEN (DO)',
+    '1,4-Dichlorobutane',
     'CHLOROPHYLL A, UNCORRECTED FOR PHEOPHYTIN',
     'DEPTH, SECCHI DISK DEPTH',
     'DEUTERIUM/HYDROGEN RATIO',

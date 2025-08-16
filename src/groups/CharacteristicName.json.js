@@ -936,6 +936,7 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '****renamed': 'Not Assigned',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -3634,6 +3635,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1,3-bis(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)urea':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1,3-diphenylguanidine': 'Not Assigned',
   '1,4,2-Dioxazolidine, 2,3,3,5,5-pentakis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,4,5,5,6,6-Hexafluoro-2,3-dimethoxycyclohexa-1,3-diene':
@@ -4174,7 +4176,6 @@ export default {
   '1-1-Difluoro(trifluoroethenyl)oxymethyl-1,2,2,2-tetrafluoroethoxy-1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propane polymer with tetrafluoroethene and 1,1,2,2-tetrafluoro-3-iodo-1-(trifluoroethenyl)oxypropane':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-3-Dicyclohexylurea': 'Not Assigned',
-  '1-3-diphenylguanidine (DPG)': 'Not Assigned',
   '1-?Propanaminium, 3-?[[[4-?[(heptadecafluoronon?yl)?oxy]?phenyl]?sulfonyl]?amino]?-?N,?N,?N-?trimethyl-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Acetyl-2-thiourea': 'Organics, Other',
@@ -11843,6 +11844,7 @@ export default {
   '3,3-Dimethylbutan-2-yl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3-Dimethylhexane': 'Not Assigned',
+  '3,3-Dimethyloctane': 'Not Assigned',
   '3,3-Oxybis[2,2,3,3-tetrafluoropropanoyl fluoride]':
     'PFAS,Perfluorinated Alkyl Substance',
   "3,4',5-Trichlorobiphenyl": 'Organics, PCBs',
@@ -19316,6 +19318,7 @@ export default {
   'Cis-2-Pentene': 'Not Assigned',
   Citalopram: 'Not Assigned',
   'Citalopram-d6': 'Not Assigned',
+  'Citizens Qualitative Habitat Evaluation Index': 'Not Assigned',
   Citral: 'Not Assigned',
   Citrobacter: 'Microbiological',
   Citronellol: 'Not Assigned',
