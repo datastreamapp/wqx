@@ -7781,6 +7781,7 @@ export default {
   '2,2,4-Trimethylheptane': 'Not Assigned',
   '2,2,4-Trimethylhexane': 'Not Assigned',
   '2,2,4-Trimethylpentane': 'Organics, Other',
+  '2,2,5,5-Tetramethylhexane': 'Not Assigned',
   '2,2,5-Trimethylhexane': 'Not Assigned',
   '2,2,6-Trimethylcyclohexanone': 'Not Assigned',
   '2,2,7,7-Tetramethyloctane': 'Not Assigned',
