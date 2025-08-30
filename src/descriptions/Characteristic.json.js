@@ -623,7 +623,7 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '****renamed': '',
+  '*****renamed': '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -6746,6 +6746,7 @@ export default {
     'Request Date: 31-OCT-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '2-(4-Trimethylammoniophenyl)perfluoro(4-methyl-3-(propan-2-yl)pent-2-ene) iodide':
     '',
+  '2-(4-morpholinyl)-benzothiazole': '',
   '2-(4H-Perfluorobutyl)-2-propanol': '',
   '2-(5,5,7,7,8,8,10,10,11,11,13,13,14,14,15,15,16,16,16-Nonadecafluoro-2-oxo-3,6,9,12-tetraoxa-1-azahexadecan-1-yl)ethyl 2-methylprop-2-enoate':
     '',
@@ -11677,6 +11678,7 @@ export default {
   '5-alpha-Dihydrotestosterone': '5-alpha-Dihydrotestosterone',
   '5-bromo-4,4,5,5-tetrafluoropentan-1-ol': '',
   '5-fluoro-2-methyl-6-(pentafluoroethyl)pyrimidin-4(1h)-one': '',
+  '5-methyl-1-H-benzotriazole': '',
   '5-methylbenzotriazole***retired***use 5-Tolyltriazole':
     'Request Date: 30-May-19 (nps.gov cas# review)',
   '5-tert-Butyl-7-(heptafluoropropyl)-2-phenylpyrazolo[1,5-a]pyrimidine': '',
@@ -21859,6 +21861,7 @@ export default {
     '',
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     '',
+  'N-cyclohexyl-1.3-benzothiazole-2-amine': '',
   'N-ethyl Perfluorooctane sulfonamide****retired***use Sulfluramid':
     'Organics,PFAS: Sulfluramid',
   'N-ethyl Perfluorooctane sulfonamide***retired***use Sulfluramid': '',

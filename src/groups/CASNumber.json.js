@@ -679,7 +679,7 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '****renamed': '102-06-7',
+  '*****renamed': '3089-11-0',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': '86194-41-4',
@@ -7034,6 +7034,7 @@ export default {
   '2-(4-Octylphenoxy)ethanol': '51437-89-9',
   '2-(4-Trimethylammoniophenyl)perfluoro(4-methyl-3-(propan-2-yl)pent-2-ene) iodide':
     '1033035-91-4',
+  '2-(4-morpholinyl)-benzothiazole': '4225-26-7',
   '2-(4H-Perfluorobutyl)-2-propanol': '2673-15-6',
   '2-(5,5,7,7,8,8,10,10,11,11,13,13,14,14,15,15,16,16,16-Nonadecafluoro-2-oxo-3,6,9,12-tetraoxa-1-azahexadecan-1-yl)ethyl 2-methylprop-2-enoate':
     '549549-24-8',
@@ -12224,6 +12225,7 @@ export default {
   '5-alpha-Dihydrotestosterone': '521-18-6',
   '5-bromo-4,4,5,5-tetrafluoropentan-1-ol': '222725-20-4',
   '5-fluoro-2-methyl-6-(pentafluoroethyl)pyrimidin-4(1h)-one': '1548-79-4',
+  '5-methyl-1-H-benzotriazole': '1246820-65-4',
   '5-methylbenzotriazole': '136-85-6',
   '5-tert-Butyl-7-(heptafluoropropyl)-2-phenylpyrazolo[1,5-a]pyrimidine':
     '346637-99-8',
@@ -21862,6 +21864,7 @@ export default {
     '90179-38-7',
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     '85228-95-1',
+  'N-cyclohexyl-1.3-benzothiazole-2-amine': '28291-75-0',
   'N-ethyl Perfluorooctane sulfonamide*': '4151-50-2',
   'N-ethyl Perfluorooctane sulfonamide': '4151-50-2',
   'N-ethyl perfluoro-1-octanesulfonamide': '',
