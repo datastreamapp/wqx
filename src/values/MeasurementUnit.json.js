@@ -171,6 +171,7 @@ export default {
     'cm3/sec',
     'code',
     'copies',
+    'copies/100mL',
     'copies/250mL',
     'copies/mL',
     'count',

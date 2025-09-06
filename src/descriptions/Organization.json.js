@@ -218,7 +218,7 @@ export default {
   '21LABCH': '',
   '21MABCH': '',
   '21MEBCH': 'Maine Dept of Env Protection.',
-  '21MICH_WQX': 'Michigan Department of Environmental Quality',
+  '21MICH_WQX': 'Michigan Department of Environment, Great Lakes, and Energy',
   '21MNBCH': '',
   '21MSBCH': 'Mississippi Agency responsible for Beaches data',
   '21MSWQ_WQX':
@@ -1754,7 +1754,7 @@ export default {
     'High frequency data in three locations along the Kanawha River, WV measuring temperature, pH, DO, NO3, Cl, ORP, specific conductance, turbidity',
   WVSU_WQX: 'West Virginia State University',
   WVU_WQX: 'West Virginia University',
-  WWMD_VA: 'Tribal',
+  WWMD_VA: '',
   WWMD_VA_WQX: 'Water Quality Monitoring Data',
   WWP: '',
   WWSD: 'Colorado',

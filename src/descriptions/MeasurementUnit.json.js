@@ -183,6 +183,8 @@ export default {
   'cm3/sec': 'Flow, Cubic centimeters per second',
   code: '()Picklist or Choicelist, Please see http://waterdata.usgs.gov/nwis/qwdata?codes_table26_help#62955',
   copies: '()Concentration Solution, copies (ie viral load)',
+  'copies/100mL':
+    'Concentration Solution, copies per 100 milliliters (ie viral load)',
   'copies/250mL':
     'Concentration Solution, copies per 250 milliliters (ie viral load)',
   'copies/mL':
