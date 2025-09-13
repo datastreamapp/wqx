@@ -936,11 +936,9 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '*****renamed': 'Not Assigned',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
-  '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
-    'Not Assigned',
+  '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': 'Information',
   '.alpha.-1,2,5,6-Tetrabromocyclooctane': 'Not Assigned',
   '.alpha.-Amino-1H-1,2,4-triazole-1-propanoic acid': 'Not Assigned',
   '.alpha.-Amino-2,3-dihydro-5-methyl-3-oxo-4-isoxazolepropanoic acid':
@@ -6594,7 +6592,7 @@ export default {
   '1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethyl)-':
     'Not Assigned',
   '1H-Pyrazole-3-carboxamide, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-':
-    'Not Assigned',
+    'Organics, Pesticide',
   '1H-Pyrazole-4-carbonitrile, 4,5-dihydro-5,5-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1H-Pyrazole-4-carboxamide, 1,3,5-trimethyl-N-(2-methyl-1-oxopropyl)-N-(3-(2-methylpropyl)-4-(2,2,2-trifluoro-1-methoxy-1-(trifluoromethyl)ethyl)phenyl)-':
@@ -6864,7 +6862,7 @@ export default {
   "2,2',4,4'-Tetrabromodiphenyl ether": 'Organics, BDEs',
   "2,2',4,4'-Tetrachlorobiphenyl": 'Organics, PCBs',
   "2,2',4,4'-Tetrahydroxybenzophenone": 'Not Assigned',
-  "2,2',4,4'-tetrabrominated diphenyl ether": 'Organics, Other',
+  "2,2',4,4'-tetrabrominated diphenyl ether": 'Organics, BDEs',
   "2,2',4,5',6-Pentachlorobiphenyl": 'Organics, PCBs',
   "2,2',4,5'-TEBDE": 'Organics, BDEs',
   "2,2',4,5'-Tetrabromodiphenyl ether": 'Organics, BDEs',
@@ -13772,7 +13770,7 @@ export default {
   '4,6-Dinitro-o-cresol': 'Organics, Pesticide',
   '4,7-Dimethylindan': 'Not Assigned',
   '4,7-Dimethylundecane': 'Not Assigned',
-  '4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-':
+  '4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-*':
     'Not Assigned',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandi':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -14283,7 +14281,6 @@ export default {
   '4-Hydroxy-3-(hydroxyimino)-4-(nonafluorobutyl)-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-Hydroxy-4-methyl-2-pentanone': 'Not Assigned',
-  '4-Hydroxy-chlorothalonil': 'Organics, Pesticide',
   '4-Hydroxy-tert-fluometuron': 'Not Assigned',
   '4-Hydroxybenzophenone': 'Not Assigned',
   '4-Hydroxybenzotriazole': 'Not Assigned',
@@ -20195,9 +20192,11 @@ export default {
   'Depth of pond or reservoir in feet': 'Not Assigned',
   'Depth of water column': 'Physical',
   'Depth to Ground from Casing Rim': 'Information',
+  'Depth to Water (from bottom of meter box)': 'Information',
+  'Depth to Water (from shutoff valve)': 'Information',
   'Depth to bottom of sample interval': 'Not Assigned',
   'Depth to top of sample interval': 'Not Assigned',
-  'Depth to water from rim of well casing': 'Not Assigned',
+  'Depth to water from rim of well casing': 'Information',
   'Depth to water level below land surface': 'Information',
   'Depth, Midstream': 'Not Assigned',
   'Depth, Midstream Left': 'Not Assigned',
@@ -21803,6 +21802,7 @@ export default {
   'Extract volume': 'Not Assigned',
   'Extractable fuel hydrocarbons (C13-C22 DRO)': 'Physical',
   'Extractable hydrocarbons': 'Organics, Other',
+  'Extractable hydrocarbons, C8 and up': 'Organics, Other',
   'Extractable organic matter (EOM)': 'Organics, Other',
   Ezetimibe: 'Not Assigned',
   'Ezetimibe-d4': 'Not Assigned',
@@ -23103,7 +23103,6 @@ export default {
   'Imidacloprid desnitro': 'Not Assigned',
   'Imidacloprid desnitro-olefin': 'Organics, Pesticide',
   'Imidacloprid desnitro-olefin hydrochloride': 'Organics, Pesticide',
-  'Imidacloprid urea': 'Organics, Pesticide',
   'Imidacloprid-d4': 'Not Assigned',
   'Imidacloprid-olefin': 'Organics, Pesticide',
   'Imidacloprid-urea': 'Organics, Pesticide',
@@ -23168,6 +23167,7 @@ export default {
   'Initial Void Ratio': 'Physical',
   'Initial sample volume': 'Physical',
   'Inorganic antimony(III)': 'Not Assigned',
+  'Inorganic arsenic (arsenate and arsenite)': 'Inorganics, Minor, Non-metals',
   'Inorganic carbon': 'Inorganics, Major, Non-metals',
   'Inorganic fraction': 'Inorganics, Major, Non-metals',
   'Inorganic monomeric aluminum': 'Inorganics, Minor, Metals',
@@ -24054,6 +24054,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Methane, bis(difluoromethoxy)difluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Methane, bis[(trifluoromethyl)sulfonyl]-':
+    'PFAS,Perfluorinated Alkyl Substance',
   'Methane, bromodichloronitro-': 'Not Assigned',
   'Methane, bromodiiodo-': 'Not Assigned',
   'Methane, chloro(difluoromethoxy)difluoro-':
@@ -24533,6 +24535,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   Methylphenanthrene: 'Not Assigned',
   Methylphenidate: 'Organics, Other',
+  'Methylphosphinicopropionic acid': 'Not Assigned',
   Methylprednisolone: 'Organics, Other',
   'Methylprednisolone-d3': 'Not Assigned',
   Methylpyridine: 'Organics, Other',
@@ -26399,7 +26402,6 @@ export default {
   'O-Ethyl S-methyl S-propyl phosphorodithioate': 'Not Assigned',
   'O-Ethyl S-propyl phosphorothioate': 'Not Assigned',
   'O-Ethyl-S-methyl-S-propyl phosphorodithioate': 'Not Assigned',
-  'O-Ethyl-S-propyl phosphorothioate': 'Not Assigned',
   'O-xylene & N-nonane': 'Not Assigned',
   'Observed Recreational Use - Boating (Y/N) (choice list)': 'Physical',
   'Observed Recreational Use - Fishing (Y/N) (choice list)': 'Biological, Fish',
@@ -27781,6 +27783,8 @@ export default {
   'Perfluoro-4-(pentafluoro-omega6-sulfanyl)butanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro-4-butylcyclopentane-1-carboxylic acid':
+    'PFAS,Perfluorinated Alkyl Substance',
+  'Perfluoro-4-ethenyloxybutane-1-sulfonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   'Perfluoro-4-ethylcyclopentane-1-carboxylic acid':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -30229,6 +30233,7 @@ export default {
   'Protactinium-234m': 'Radiochemical',
   Protanypus: 'Population/Community',
   Prothioconazole: 'Physical',
+  'Prothioconazole-desthio': 'Not Assigned',
   Prothiofos: 'Organics, Pesticide',
   Protoaricia: 'Population/Community',
   Protohydra: 'Population/Community',
@@ -32060,8 +32065,8 @@ export default {
   'Tebuconazole tert-Butylhydroxy': 'Not Assigned',
   'Tebuconazole-d6': 'Not Assigned',
   Tebufenozide: 'Organics, Pesticide',
-  Tebupirimfos: 'Organics, Pesticide',
   'Tebupirimfos oxon': 'Not Assigned',
+  Tebupirimfos: 'Organics, Pesticide',
   'Tebupirimphos oxon': 'Not Assigned',
   Tebuthiuron: 'Organics, Pesticide',
   'Tebuthiuron TP 104': 'Not Assigned',
@@ -33011,6 +33016,8 @@ export default {
   'Tripropyltin chloride': 'Not Assigned',
   Tripylidae: 'Population/Community',
   'Tris((perfluorohexyl)ethyl)stannane': 'PFAS,Perfluorinated Alkyl Substance',
+  'Tris((trifluoromethyl)sulfonyl)methane':
+    'PFAS,Perfluorinated Alkyl Substance',
   'Tris(1,1,1,2,3,3-hexafluoropropan-2-yl) borate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Tris(1,1,2,2,2-pentafluoroethyl) phosphate':

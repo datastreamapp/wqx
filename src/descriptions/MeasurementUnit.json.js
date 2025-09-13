@@ -448,7 +448,7 @@ export default {
     'Concentration Solution, Inverse centimeters or per centimeters or cm-1',
   'per day': '()Time, Inverse days or per day',
   'per m': 'Inverse meter or per meter or m-1',
-  'per mil': 'Concentration Percentage, Parts per thousand',
+  'per mil': 'Concentration Percentage, Parts per thousand (per mille)',
   'per nm': 'Inverse nanometers or per nanometers or nm-1',
   'pfu/100L': '()Concentration Solution, Plaque Forming Units per 100 liters',
   'pfu/100mL':
@@ -470,7 +470,7 @@ export default {
   ppm: '()Concentration Percentage, Parts per million',
   ppmv: 'Concentration Percentage, Parts per million by volume',
   ppt: 'Concentration Percentage, Parts per trillion',
-  ppth: 'Concentration Percentage, Parts per thousand',
+  ppth: 'Concentration Percentage, Parts per thousand (per mille)',
   psf: '()Concentration Solution, Pounds per square foot',
   psi: 'Pressure, pounds per square inch',
   pt: 'Volume, Fluid pints',
