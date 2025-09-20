@@ -152,6 +152,8 @@ export default {
     'JCW',
     'K',
     'K10',
+    'K11',
+    'K12',
     'K5',
     'K6',
     'K7',

@@ -21603,7 +21603,7 @@ export default {
   'N-Ethylperfluorooctanesulfonamidoacetate': '',
   'N-Ethylperfluorooctanesulfonamidoacetic acid (N-EtFOSAA) (N-ethyl-D5, 98%)':
     '1265205-97-7',
-  'N-Ethylperfluorooctanesulfonamidoethanol': '',
+  'N-Ethylperfluorooctanesulfonamidoethanol': '1691-99-2',
   'N-Heptafluorobutyrylproline': '56236-41-0',
   'N-Hexyl-perfluorooctanesulfonamide': '89932-70-7',
   'N-Hexylperfluorobutanesulfonamide': '606966-46-5',

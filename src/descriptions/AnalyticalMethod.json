@@ -3584,6 +3584,7 @@
   "MEHG-DRY-GCAFS": "This method follows the procedures published by Liang, Bloom and Horvat in Clinical Chemistry (Vol 40, No 4, 1994). Samples are homogenized and then digested in a methanolic potassium hydroxide solution. An aliquot of the digestate is analyzed by aqueous phase ethylation, purge and trap, desorption and GC separation. The separated species are then pyrolized to elemental Hg and quantified by cold vapour atomic fluorescence spectroscopy. Results are reported \"\"as MeHg\"\".",
   "MEHG-WET-GCAFS": "This method follows the procedures published by Liang, Bloom and Horvat in Clinical Chemistry (Vol 40, No 4, 1994). Samples are homogenized and then digested in a methanolic potassium hydroxide solution. An aliquot of the digestate is analyzed by aqueous phase ethylation, purge and trap, desorption and GC separation. The separated species are then pyrolized to elemental Hg and quantified by cold vapour atomic fluorescence spectroscopy. Results are reported \"\"as MeHg\"\".",
   "MET-TDIG": "https://www.alsglobal.com/en/Search#q=Biological%20Tissue%20",
+  "MLA-110 Rev 02": "Per-and Polyfluoroalkyl Substances (PFAS) Analysis\r NEW! DoD ELAP Accreditation for PFAS Draft EPA 1633",
   "MLM ASSEMBLAGE": "Maximum Likelihood Method for Predicting Environmental Conditions from Assemblage Composition ~ EPA . Yuan, Lester L.",
   "MM100": "MM100 ~ DOE . ICP/MS Radionuclide Analyses",
   "MM210": "",

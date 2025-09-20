@@ -83,6 +83,7 @@ export default {
     'Root/Tuber',
     'Saliva',
     'Seed',
+    'Shell',
     'Skeleton',
     'Skin',
     'Skin-On Fillets/Scales_On',

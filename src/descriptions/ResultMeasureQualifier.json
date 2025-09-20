@@ -147,6 +147,8 @@
   "JCW": "Sample Container Damaged, sample lost",
   "K": "Value below the detection Limit.  For BOD: depletion is less than 1.0",
   "K10": "Initial Dissolved Oxygen (DO) or temperature conditions of BOD, or Biochemical Oxygen Demand sample unacceptable",
+  "K11": "All dilutions result in residual D.O. <1 mg/L",
+  "K12": "Test replicates show >30% difference between high and low values",
   "K5": "The dilution water D.O. depletion was > 0.2 mg/L",
   "K6": "Glucose/glutamic acid BOD was below method acceptance criteria",
   "K7": "GGA Average not within 198 +/- 30.5 (167.5-228.5 mg/L)",

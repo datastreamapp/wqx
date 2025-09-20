@@ -113,6 +113,7 @@ export default {
   Saliva:
     'Watery liquid secreted into the mouth by glands, providing lubrication for chewing and swallowing, and aiding digestion.',
   Seed: "A flowering plant's unit of reproduction, capable of developing into another such plant.",
+  Shell: 'The hard protective outer case of a mollusk or crustacean',
   Skeleton:
     'An internal or external framework of bone, cartilage, or other rigid material supporting or containing the body of an animal.',
   Skin: 'The thin layer of tissue forming the natural outer covering of the body of an animal.',
