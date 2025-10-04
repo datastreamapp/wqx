@@ -694,6 +694,7 @@ export default {
   FLPRMRWS_WQX: 'Water Quality Monitoring Data',
   FLYGRB: '',
   FMMI: '',
+  FMPST_WQX: '',
   FMYN_WQX:
     'Fort McDowell Yavapai Nation, Arizona (Tribal) || Fort McDowell Yavapai Nation, Arizona (Tribal)',
   FOB: '',

@@ -598,6 +598,7 @@ export default {
     'FLPRMRWS_WQX',
     'FLYGRB',
     'FMMI',
+    'FMPST_WQX',
     'FMYN_WQX',
     'FOB',
     'FOBWV',

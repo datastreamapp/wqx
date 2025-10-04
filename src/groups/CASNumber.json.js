@@ -19222,7 +19222,7 @@ export default {
   'Human norovirus': '',
   'Hyaluronic acid': '9004-61-9',
   Hydramethylnon: '67485-29-4',
-  'Hydraulic Oil': '64741-53-3 ',
+  'Hydraulic Oil': '',
   'Hydraulic Structure (choice list)': '',
   'Hydraulic radius': '',
   Hydrazine: '302-01-2',
