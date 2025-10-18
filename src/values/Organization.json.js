@@ -4,6 +4,7 @@ export default {
   description: '',
   type: 'string',
   enum: [
+    '****RENAMED_ORG',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -840,7 +841,6 @@ export default {
     'MDE_WQPR',
     'MDNR',
     'MDO',
-    'MDPOINTSOURCE',
     'MEC',
     'MEDEP_WQX',
     'MEIYINWUSUNYPLATTSBURGH',

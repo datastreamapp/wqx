@@ -623,7 +623,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*****RETIRED*4-Nonylphenol decaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol dodecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': 'NWIS',
@@ -643,6 +642,7 @@ export default {
   '*****RETIRED*Cyanides': 'Nemi.gov; Request Date: 24-SEP-19',
   '*****RETIRED*Deiodo flubendiamide': 'NWIS',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
+  '*****RETIRED*Lambda-Cyhalothrin': 'λ-Cyhalothrin',
   '*****RETIRED*Phyllodocida': 'NWIS',
   '*****RETIRED*Phyllodocidae': 'TAXON: Animalia Kingdom; NWIS',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
@@ -14096,10 +14096,10 @@ export default {
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Benzo[e]pyrene-d14':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  'Benzo[g,h,i]perylene':
+    'Nemi.govRequest Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Benzo[ghi]fluoranthene':
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
-  'Benzo[ghi]perylene':
-    'Nemi.govRequest Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Benzo[j]fluoranthene': '; Request Date: 02-MAR-07',
   'Benzo[k]fluoranthene': 'Nemi.gov; Request Date: 02-MAR-07',
   Benzobicyclon:
@@ -19759,7 +19759,6 @@ export default {
   'Lake suitability for recreation (choice list)': '; Request Date: 02-MAR-07',
   'Lake surface condition (choice list)': '',
   'Lake water level (choice list)': '',
-  'Lambda-Cyhalothrin': 'λ-Cyhalothrin',
   Lamivudine: '; Request Date: 02-FEB-15',
   Lamotrigine: '; Request Date: 30-MAY-13',
   'Lamotrigine N2-glucuronide': '',
@@ -23161,6 +23160,8 @@ export default {
   'Particle size, 50 mesh, (0.297 mm)':
     'Particle size refers to the size of individual particles that make up a material.1;',
   'Particle size, <0.001 mm': '',
+  'Particle size, Hydrometer':
+    'Result Particle Size Basis and Characteristic Name',
   'Particle size, Hydrometer (.008 mm)':
     'Particle size refers to the size of individual particles that make up a material.; Request Date: 18-APR-13',
   'Particle size, Hydrometer (.011 mm)':
