@@ -639,12 +639,14 @@ export default {
   '*****RETIRED*4-Nonylphenol triethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol undecaethoxylates': 'NWIS',
   '*****RETIRED*4-Octylphenol monoethoxylates': 'NWIS',
-  '*****RETIRED*Cyanides': 'Nemi.gov; Request Date: 24-SEP-19',
+  '*****RETIRED*Benzo[g,h,i]perylene':
+    'Nemi.govRequest Date: 24-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '*****RETIRED*Deiodo flubendiamide': 'NWIS',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
   '*****RETIRED*Lambda-Cyhalothrin': 'λ-Cyhalothrin',
   '*****RETIRED*Phyllodocida': 'NWIS',
   '*****RETIRED*Phyllodocidae': 'TAXON: Animalia Kingdom; NWIS',
+  '*****RETIRED*m/p Xylene***retired***use m,p-Xylene': '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -3860,8 +3862,6 @@ export default {
   '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-***retired***use Sulfluramid':
     '',
   '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-, reaction products with succinic anhydride monopolyisobutylene derivs.':
-    '',
-  '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-***retired***use N-Ethyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide':
     '',
   '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-, reaction products with N-ethyl-1,1,2,2,3,3,4,4,4-nonafluoro-N-(2-hydroxyethyl)-1-butanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-N':
     '',
@@ -9950,6 +9950,7 @@ export default {
   '3-Methyl-1-butanol': '; Request Date: 19-DEC-12',
   '3-Methyl-1-butene & Cyclopentene': '',
   '3-Methyl-1-indanone': '; Request Date: 02-MAR-07',
+  '3-Methyl-1-pentene': '',
   '3-Methyl-2,3-dihydrofuran': '',
   '3-Methyl-2-(nonafluorobutyl)-1H-indole': '',
   '3-Methyl-2-pentanone': '; Request Date: 02-MAR-07',
@@ -11620,6 +11621,7 @@ export default {
   '5-Methylindan': '; Request Date: 02-MAR-07',
   '5-Methyltetrazole':
     'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/1734463',
+  '5-Nitro-1-pentene': '',
   '5-Nitro-o-anisidine': '; Request Date: 14-APR-15',
   '5-Nitro-o-toluidine':
     'Request Date: 25-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -27292,6 +27294,7 @@ export default {
     '',
   Spirodiclofen: '11;',
   Spiromesifen: '11;',
+  Spiropentane: '',
   Spirotetramat: '1; Request Date: 08-APR-19',
   Spiroxamine: '',
   'Split Count': '; Request Date: 19-APR-17',
@@ -28532,7 +28535,6 @@ export default {
   Tribromomethane: 'Nemi.gov; Request Date: 22-JUL-14',
   Tribromonitromethane: 'NWIS',
   Tribufos: '; Request Date: 02-MAR-07',
-  'Tributlytin***retired***use Tributyltin': '; Request Date: 02-MAR-07',
   'Tributoxy(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)silane': '',
   'Tributyl phosphate': 'Nemi.gov; Request Date: 22-JUL-14',
   'Tributyl(pentafluoroethyl)stannane': '',

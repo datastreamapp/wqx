@@ -125,7 +125,7 @@ export default {
   '21FLHBOI_WQX': 'Water Quality Monitoring Data',
   '21FLHESD_WQX': 'Water Quality Monitoring Data',
   '21FLHILL_WQX':
-    'Ambient water quality monitoring data collected by Hillsborough County Environmental Protection Commission, Monitoring and Analysis SectionNote: Detection limit for Enterococcus bacteria is 2 / 100 mL unless otherwise indicated for 2001.',
+    'Ambient water quality monitoring data collected by Hillsborough County Environmental Protection Commission, Monitoring and Analysis Section\n\nNote: Detection limit for Enterococcus bacteria is 2 / 100 mL unless otherwise indicated for 2001.',
   '21FLIMCA_WQX': 'Surface Water Data',
   '21FLJEA_WQX': 'Water Quality Monitoring data',
   '21FLJXWQ_WQX': 'Water Quality Monitoring data',
@@ -996,6 +996,7 @@ export default {
   MESKWAKI_DNR:
     'Meskwaki Department of Natural Resources (Tribal) || Meskwaki Department of Natural Resources (Tribal)',
   METC_WQX: 'Metropolitan Council (Minnesota)',
+  METLAKATLA_WQX: '',
   MHA_NATN: '',
   MHA_WQX:
     'Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota (Tribal) || Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota (Tribal)',

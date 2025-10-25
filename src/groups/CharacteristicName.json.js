@@ -952,12 +952,13 @@ export default {
   '*****RETIRED*4-Nonylphenol triethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol undecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Octylphenol monoethoxylates': 'Not Assigned',
-  '*****RETIRED*Cyanides': 'Inorganics, Minor, Non-metals',
+  '*****RETIRED*Benzo[g,h,i]perylene': 'PFAS,Perfluorinated Alkyl Substance',
   '*****RETIRED*Deiodo flubendiamide': 'Not Assigned',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'Not Assigned',
   '*****RETIRED*Lambda-Cyhalothrin': 'Not Assigned',
   '*****RETIRED*Phyllodocida': 'Population/Community',
   '*****RETIRED*Phyllodocidae': 'Population/Community',
+  '*****RETIRED*m/p Xylene': 'Not Assigned',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': 'Information',
@@ -5295,8 +5296,6 @@ export default {
   '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-, reaction products with succinic anhydride monopolyisobutylene derivs.':
-    'PFAS,Perfluorinated Alkyl Substance',
-  '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-, reaction products with N-ethyl-1,1,2,2,3,3,4,4,4-nonafluoro-N-(2-hydroxyethyl)-1-butanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-N':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -12819,6 +12818,7 @@ export default {
   '3-Methyl-1-butanol': 'Not Assigned',
   '3-Methyl-1-butene & Cyclopentene': 'Not Assigned',
   '3-Methyl-1-indanone': 'Not Assigned',
+  '3-Methyl-1-pentene': 'Not Assigned',
   '3-Methyl-2,3-dihydrofuran': 'Not Assigned',
   '3-Methyl-2-(nonafluorobutyl)-1H-indole':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -15013,6 +15013,7 @@ export default {
   '5-Methylhexan-3-one': 'Not Assigned',
   '5-Methylindan': 'Not Assigned',
   '5-Methyltetrazole': 'Organics, Other',
+  '5-Nitro-1-pentene': 'Not Assigned',
   '5-Nitro-o-anisidine': 'Not Assigned',
   '5-Nitro-o-toluidine': 'Organics, Other',
   '5-Nitroacenaphthene': 'Not Assigned',
@@ -31586,6 +31587,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   Spirodiclofen: 'Organics, Pesticide',
   Spiromesifen: 'Organics, Pesticide',
+  Spiropentane: 'Not Assigned',
   Spirotetramat: 'Physical',
   Spiroxamine: 'Not Assigned',
   'Split Count': 'Not Assigned',
@@ -32713,7 +32715,6 @@ export default {
   Tribromomethane: 'Organics, Other',
   Tribromonitromethane: 'Not Assigned',
   Tribufos: 'Organics, Pesticide',
-  Tributlytin: 'Not Assigned',
   'Tributoxy(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)silane':
     'PFAS,Perfluorinated Alkyl Substance',
   'Tributyl phosphate': 'Organics, Other',
