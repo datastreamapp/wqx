@@ -306,6 +306,7 @@ export default {
   ALS_WQX:
     'The American Littoral Society promotes the study and conservation of marine life and habitat, protects the coast from harm, and empowers others to do the same.',
   AMIGOSBRAVOS_WQX: '',
+  AMRW: '',
   ANCHORQEA: 'Clients',
   ANIMASWP:
     'The AWP is a stakeholder driven, collaborative, watershed-based group made up of partners representing diverse interests across the watershed in New Mexico, the Southern Ute Tribal Lands and Colorado. Current membership is over 100 individuals and entities. The AWP works together across state and Tribal boundaries to protect and improve the quality of water resources in the Animas River.',
@@ -717,6 +718,7 @@ export default {
   FSAWQP_WQX: '',
   FSCD: 'Freehold Soil Conservation District',
   FTBLKNAP: '',
+  FUBIOL_WQX: 'Fairfield University Biology Department',
   'FWC-CREMP_WQX':
     'Florida Fish and Wildlife Conservation Commission, Fish and Wildlife Research Institute',
   'FWC/FWRI_WQX':
