@@ -198,7 +198,7 @@ export default {
   '21FLWPBH_WQX': 'Water Quality',
   '21FLWPB_WQX': 'Water Quality Monitoring Data',
   '21FLWQA_WQX':
-    'Watershed Assessment Section (WAS) - Formerly WQASSurface Water Quality Monitoring Data and TMDLs',
+    'Watershed Assessment Section (WAS) - Formerly WQAS\nSurface Water Quality Monitoring Data and TMDLs',
   '21FLWQSP_WQX': 'Water Quality Monitoring Data',
   '21GACRD': 'COASTAL RESOURCES DIVISION',
   '21GAEPD_WQX': 'Georgia DNR Environmental Protection Division',
