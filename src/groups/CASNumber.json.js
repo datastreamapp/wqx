@@ -699,9 +699,6 @@ export default {
   '*****RETIRED*Deiodo flubendiamide': '',
   '*****RETIRED*Diethylstilbesterol glucuronide': '',
   '*****RETIRED*Lambda-Cyhalothrin': '91465-08-6',
-  '*****RETIRED*Phyllodocida': '',
-  '*****RETIRED*Phyllodocidae': '',
-  '*****RETIRED*m/p Xylene': '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '122-09-8',
   '.alpha.,2,6-Trichlorotoluene': '2014-83-7',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': '',
@@ -11211,8 +11208,7 @@ export default {
   '4,6-Dinitro-o-cresol': '534-52-1',
   '4,7-Dimethylindan': '6682-71-9',
   '4,7-Dimethylundecane': '17301-32-5',
-  '4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-*':
-    '',
+  '4,7-Methano-1H-indene, octahydro-, (3aR,4R,7S,7aS)-rel-': '2825-83-4',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandi':
     '196314-61-1',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandione and 2,2,3,3-tetrafluoro-1-propanol':
@@ -15327,6 +15323,7 @@ export default {
   'C16 Hydrocarbons': '93924-49-3',
   'C16-C21 Aliphatics': '',
   'C16-C21 Aromatics': '',
+  'C16-C21 Hydrocarbons': '',
   'C16-C34 Hydrocarbons': '',
   'C18 Hydrocarbons': '93924-52-8',
   'C19-C36 Aliphatics': '',
@@ -15350,6 +15347,7 @@ export default {
   'C2-Phenanthrenes/anthracenes': '',
   'C20 Hydrocarbons': '93924-54-0',
   'C20-TAS': '81943-50-2',
+  'C21-C32 Hydrocarbons': '',
   'C21-C34 Aliphatics': '',
   'C21-C34 Aromatics': '',
   'C21-TAS': '',
@@ -17254,6 +17252,8 @@ export default {
   'Diphenyl disulfide': '882-33-7',
   'Diphenyl ether': '101-84-8',
   'Diphenyl isophthalate': '744-45-6',
+  'Diphenyl o-isopropylphenylphenyl phosphate': '64532-94-1',
+  'Diphenyl p-tert-butylphenyl phosphate': '981-40-8',
   'Diphenyl phthalate': '84-62-8',
   'Diphenyl(2,4,6-trimethylphenyl)sulfonium perfluoro-1-octanesulfonate':
     '258341-99-0',

@@ -421,6 +421,7 @@ export default {
   'ng/m2/day': '()Viscosity, Nanograms per square meter per day',
   'ng/m3': 'Density, Nanograms per cubic meter',
   'ng/mL': '()Density, Nanograms per milliliter',
+  'ng/uL': 'Density, Nanograms per microliter',
   nm: 'Length Distance, Nanometers',
   'nm-1*^*^*^*^':
     'DO NOT USE, Inverse nanometers or per nanometers ***deprecated***use per nm 19-JUL-10',

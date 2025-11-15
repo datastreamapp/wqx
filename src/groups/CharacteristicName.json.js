@@ -956,9 +956,6 @@ export default {
   '*****RETIRED*Deiodo flubendiamide': 'Not Assigned',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'Not Assigned',
   '*****RETIRED*Lambda-Cyhalothrin': 'Not Assigned',
-  '*****RETIRED*Phyllodocida': 'Population/Community',
-  '*****RETIRED*Phyllodocidae': 'Population/Community',
-  '*****RETIRED*m/p Xylene': 'Not Assigned',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': 'Information',
@@ -13793,8 +13790,7 @@ export default {
   '4,6-Dinitro-o-cresol': 'Organics, Pesticide',
   '4,7-Dimethylindan': 'Not Assigned',
   '4,7-Dimethylundecane': 'Not Assigned',
-  '4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-*':
-    'Not Assigned',
+  '4,7-Methano-1H-indene, octahydro-, (3aR,4R,7S,7aS)-rel-': 'Not Assigned',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandi':
     'PFAS,Perfluorinated Alkyl Substance',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandione and 2,2,3,3-tetrafluoro-1-propanol':
@@ -18641,6 +18637,7 @@ export default {
   'C16 Hydrocarbons': 'Organics, Other',
   'C16-C21 Aliphatics': 'Organics, Other',
   'C16-C21 Aromatics': 'Organics, Other',
+  'C16-C21 Hydrocarbons': 'Organics, Other',
   'C16-C34 Hydrocarbons': 'Organics, Other',
   'C18 Hydrocarbons': 'Organics, Other',
   'C19-C36 Aliphatics': 'Organics, Other',
@@ -18664,6 +18661,7 @@ export default {
   'C2-Phenanthrenes/anthracenes': 'Organics, Other',
   'C20 Hydrocarbons': 'Organics, Other',
   'C20-TAS': 'Not Assigned',
+  'C21-C32 Hydrocarbons': 'Organics, Other',
   'C21-C34 Aliphatics': 'Organics, Other',
   'C21-C34 Aromatics': 'Organics, Other',
   'C21-TAS': 'Not Assigned',
@@ -20742,6 +20740,8 @@ export default {
   'Diphenyl disulfide': 'Not Assigned',
   'Diphenyl ether': 'Organics, Other',
   'Diphenyl isophthalate': 'Not Assigned',
+  'Diphenyl o-isopropylphenylphenyl phosphate': 'Not Assigned',
+  'Diphenyl p-tert-butylphenyl phosphate': 'Not Assigned',
   'Diphenyl phthalate': 'Not Assigned',
   'Diphenyl(2,4,6-trimethylphenyl)sulfonium perfluoro-1-octanesulfonate':
     'PFAS,Perfluorinated Alkyl Substance',

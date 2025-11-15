@@ -644,9 +644,6 @@ export default {
   '*****RETIRED*Deiodo flubendiamide': 'NWIS',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
   '*****RETIRED*Lambda-Cyhalothrin': 'λ-Cyhalothrin',
-  '*****RETIRED*Phyllodocida': 'NWIS',
-  '*****RETIRED*Phyllodocidae': 'TAXON: Animalia Kingdom; NWIS',
-  '*****RETIRED*m/p Xylene***retired***use m,p-Xylene': '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -10715,8 +10712,7 @@ export default {
     '1040;Nemi.govRequest Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '4,7-Dimethylindan': '; Request Date: 02-MAR-07',
   '4,7-Dimethylundecane': '',
-  '4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-****retired***use Endosulfan ether':
-    '',
+  '4,7-Methano-1H-indene, octahydro-, (3aR,4R,7S,7aS)-rel-': '',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandi':
     '',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandione and 2,2,3,3-tetrafluoro-1-propanol':
@@ -14960,6 +14956,7 @@ export default {
   'C16 Hydrocarbons': '; Request Date: 02-MAR-07',
   'C16-C21 Aliphatics': '; Request Date: 03-AUG-10',
   'C16-C21 Aromatics': '; Request Date: 03-AUG-10',
+  'C16-C21 Hydrocarbons': '',
   'C16-C34 Hydrocarbons': '',
   'C18 Hydrocarbons': '; Request Date: 02-MAR-07',
   'C19-C36 Aliphatics': '; Request Date: 13-JAN-16',
@@ -14987,6 +14984,7 @@ export default {
     'Any mixture of ethyl or dimethyl Phenanthrenes/anthracenes; Request Date: 02-MAR-07',
   'C20 Hydrocarbons': '; Request Date: 02-MAR-07',
   'C20-TAS': '',
+  'C21-C32 Hydrocarbons': '',
   'C21-C34 Aliphatics': '; Request Date: 03-AUG-10',
   'C21-C34 Aromatics': '; Request Date: 03-AUG-10',
   'C21-TAS': '',
@@ -17052,6 +17050,8 @@ export default {
   'Diphenyl ether':
     'Request Date: 22-May-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'Diphenyl isophthalate': 'Nemi.gov; Request Date: 25-SEP-19',
+  'Diphenyl o-isopropylphenylphenyl phosphate': '',
+  'Diphenyl p-tert-butylphenyl phosphate': '',
   'Diphenyl phthalate': 'Nemi.gov; Request Date: 25-SEP-19',
   'Diphenyl(2,4,6-trimethylphenyl)sulfonium perfluoro-1-octanesulfonate': '',
   'Diphenyl[4-(tridecafluorohexyl)phenyl]phosphine': '',
