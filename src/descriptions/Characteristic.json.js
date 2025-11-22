@@ -639,8 +639,6 @@ export default {
   '*****RETIRED*4-Nonylphenol triethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol undecaethoxylates': 'NWIS',
   '*****RETIRED*4-Octylphenol monoethoxylates': 'NWIS',
-  '*****RETIRED*Benzo[g,h,i]perylene':
-    'Nemi.govRequest Date: 24-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '*****RETIRED*Deiodo flubendiamide': 'NWIS',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
   '*****RETIRED*Lambda-Cyhalothrin': 'λ-Cyhalothrin',
@@ -7571,6 +7569,7 @@ export default {
   '2-Methylanthracene': 'Nemi.gov; Request Date: 02-MAR-07',
   '2-Methylbenzothiazole':
     'Request Date: 2-Oct-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  '2-Methylbicyclo[3.2.1]octane': '',
   '2-Methylbiphenyl': '; Request Date: 14-APR-15',
   '2-Methylbut-1-en-3-yne': '',
   '2-Methylbutanal': '; Request Date: 02-MAR-07',
@@ -18706,8 +18705,8 @@ export default {
   'HFE-356mec3': '',
   'HFE-356mmz1': '',
   'HT-2 toxin': 'HT-2 toxin',
-  'HUMM2 DNA Marker': '; Request Date: 08-OCT-19',
-  'HUMM2 DNA Marker (purified)': '; Request Date: 08-OCT-19',
+  'HUMM2 DNA marker': '; Request Date: 08-OCT-19',
+  'HUMM2 DNA marker (purified)': '; Request Date: 08-OCT-19',
   'Habitat Cover Extent': 'Physical,14;',
   'Habitat Cover Type': 'Physical,14;',
   'Habitat Cover, Filamentous Algae (choice list)':
@@ -19121,6 +19120,8 @@ export default {
   'Hilsenhoff Biotic Index': '; Request Date: 02-MAR-07',
   'Hind Femur Length': '',
   'Hindwing Length': '',
+  'HoF597 DNA marker':
+    'Horse-Associated Bacteroidales Hof597 Marker in Water by Quantitative Polymerase Chain Reaction (qPCR) Assay.',
   Holmium: '; Request Date: 22-JUL-14',
   'Holmium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.beta.O3,.beta.O5)-':
     '',
@@ -21877,8 +21878,6 @@ export default {
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     '',
   'N-cyclohexyl-1.3-benzothiazole-2-amine': '',
-  'N-ethyl Perfluorooctane sulfonamide****retired***use Sulfluramid':
-    'Organics,PFAS: Sulfluramid',
   'N-ethyl Perfluorooctane sulfonamide***retired***use Sulfluramid': '',
   'N-ethyl perfluoro-1-octanesulfonamide':
     'N-ethyl perfluoro-1-octanesulfonamide',

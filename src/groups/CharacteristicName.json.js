@@ -952,7 +952,6 @@ export default {
   '*****RETIRED*4-Nonylphenol triethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol undecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Octylphenol monoethoxylates': 'Not Assigned',
-  '*****RETIRED*Benzo[g,h,i]perylene': 'PFAS,Perfluorinated Alkyl Substance',
   '*****RETIRED*Deiodo flubendiamide': 'Not Assigned',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'Not Assigned',
   '*****RETIRED*Lambda-Cyhalothrin': 'Not Assigned',
@@ -9833,6 +9832,7 @@ export default {
   '2-Methyl-5-nitroaniline': 'Organics, Other',
   '2-Methylanthracene': 'Organics, Other',
   '2-Methylbenzothiazole': 'Organics, Other',
+  '2-Methylbicyclo[3.2.1]octane': 'Not Assigned',
   '2-Methylbiphenyl': 'Not Assigned',
   '2-Methylbut-1-en-3-yne': 'Not Assigned',
   '2-Methylbutanal': 'Not Assigned',
@@ -22225,7 +22225,7 @@ export default {
   'GFD DNA marker (purified)': 'Microbiological',
   'GULL2 DNA marker': 'Microbiological',
   'GULL2 DNA marker (purified)': 'Microbiological',
-  'GULL4 DNA marker': 'Not Assigned',
+  'GULL4 DNA marker': 'Microbiological',
   Gabapentin: 'Organics, Other',
   Gadolinium: 'Inorganics, Minor, Metals',
   'Gage height': 'Physical',
@@ -22462,8 +22462,8 @@ export default {
   'HFE-356mec3': 'PFAS,Perfluorinated Alkyl Substance',
   'HFE-356mmz1': 'PFAS,Perfluorinated Alkyl Substance',
   'HT-2 toxin': 'Not Assigned',
-  'HUMM2 DNA Marker': 'Microbiological',
-  'HUMM2 DNA Marker (purified)': 'Microbiological',
+  'HUMM2 DNA marker': 'Microbiological',
+  'HUMM2 DNA marker (purified)': 'Microbiological',
   'Habitat Cover Extent': 'Physical, Habitat',
   'Habitat Cover Type': 'Physical, Habitat',
   'Habitat Cover, Filamentous Algae (choice list)':
@@ -22918,6 +22918,7 @@ export default {
   'Hilsenhoff Biotic Index': 'Physical',
   'Hind Femur Length': 'Biological',
   'Hindwing Length': 'Biological',
+  'HoF597 DNA marker': 'Microbiological',
   Holmium: 'Inorganics, Minor, Metals',
   'Holmium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.beta.O3,.beta.O5)-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -25965,7 +25966,6 @@ export default {
   'N-[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]-N-methylglycine sodium salt':
     'PFAS,Perfluorinated Alkyl Substance',
   'N-cyclohexyl-1.3-benzothiazole-2-amine': 'Not Assigned',
-  'N-ethyl Perfluorooctane sulfonamide*': 'PFAS,Perfluorinated Alkyl Substance',
   'N-ethyl Perfluorooctane sulfonamide': 'PFAS,Perfluorinated Alkyl Substance',
   'N-ethyl perfluoro-1-octanesulfonamide': 'Not Assigned',
   'N-ethyl perfluorooctanesulfonamidoacetic acid':
