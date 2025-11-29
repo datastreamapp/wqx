@@ -1498,6 +1498,7 @@ export default {
   SUQUAMISH:
     'Suquamish Tribe (Tribal) || Suquamish Indian Tribe of the Port Madison Reservation (Tribal)',
   SVR: '',
+  SWAN: 'Salonga Wetland Advocates Network, Inc. (SWAN) is a 501 (c)(3) tax-exempt environmental nonprofit dedicated to revitalizing and protecting wetlands in Fort Salonga, Long Island, NY.',
   SWFMDDEP_WQX: 'Water Quality Monitoring Data',
   SWINOMISH:
     'Swinomish Indian Tribal Community (Tribal) || Swinomish Indian Tribal Community (Tribal)',
@@ -1625,9 +1626,10 @@ export default {
     'At South Valley Water Reclamation Facility, our goal is to treat the wastewater that comes to our facility adequately to ensure the water discharged from our facility has no negative affects on the environment or to the Jordan River.',
   UTAHDWQ_WQX: 'Ambient Water Quality Monitoring Data',
   UTAHGS: 'Utah Geological Survey',
+  UTAMPASEL: '',
   UTDWR: 'Utah Division of Wildlife Resources',
   UTEMTN: '',
-  UTOGM_WQX: 'Utah Division of Oil, Gas, and Mining',
+  UTOGM_WQX: '',
   UTRRVA05: '',
   UTTCHD: 'Utah - TriCounty Health Department',
   'UU-SWQ': '',
