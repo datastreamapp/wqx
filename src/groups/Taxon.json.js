@@ -42744,7 +42744,7 @@ export default {
   'Salmo timbure': 'Not Assigned',
   'Salmo tiririca': 'Not Assigned',
   'Salmo trutta': 'Fish/Nekton',
-  'Salmo trutta x Salvelinus fontinalis': 'Not Assigned',
+  'Salmo trutta x Salvelinus fontinalis': 'Fish/Nekton',
   'Salmo tumbil': 'Not Assigned',
   'Salmo visovacensis': 'Not Assigned',
   'Salmo zrmanjaensis': 'Not Assigned',

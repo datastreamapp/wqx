@@ -109540,6 +109540,7 @@ export default {
     'Robinsia',
     'Robinsia catherinae',
     "Robinson's sea bream",
+    'Robust baskettail',
     'Roccus',
     'Roccus americanus',
     'Roccus americanus***retired***use Morone americana',

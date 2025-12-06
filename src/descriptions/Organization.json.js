@@ -1498,7 +1498,7 @@ export default {
   SUQUAMISH:
     'Suquamish Tribe (Tribal) || Suquamish Indian Tribe of the Port Madison Reservation (Tribal)',
   SVR: '',
-  SWAN: 'Salonga Wetland Advocates Network, Inc. (SWAN) is a 501 (c)(3) tax-exempt environmental nonprofit dedicated to revitalizing and protecting wetlands in Fort Salonga, Long Island, NY.',
+  SWAN: 'NGO Protecting Fort Salonga Wetlands',
   SWFMDDEP_WQX: 'Water Quality Monitoring Data',
   SWINOMISH:
     'Swinomish Indian Tribal Community (Tribal) || Swinomish Indian Tribal Community (Tribal)',
