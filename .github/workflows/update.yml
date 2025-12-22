@@ -56,14 +56,3 @@ jobs:
           cp package.json dist/package.json
           cd ./dist
           npm publish
-        env:
-          NPM_CONFIG_PROVENANCE: 'true'
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-#      -
-#        if: env.change != 0
-#        name: Trigger @gordonfn/data-schema rebuild
-#        run: |
-#          curl -X POST https://api.github.com/repos/gordonfn/schema/dispatches \
-#          -H 'Accept: application/vnd.github.everest-preview+json' \
-#          -u ${{ secrets.GITHUB_TOKEN }} \
-#          --data '{"event_type": "wqx", "client_payload": {}'
