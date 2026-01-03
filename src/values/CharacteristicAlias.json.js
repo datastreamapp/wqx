@@ -87997,6 +87997,7 @@ export default {
     'Carbonic acid sodium salt (1:2)',
     'Carbonic acid, 3-(2,5-dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro[4.5]dec-3-en-4-yl ethyl ester mixt. with N2-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide',
     'Carbonic acid, compd. with 2,2,3,4,4,4-hexafluoro-1-butanol (1:2)',
+    'Carbonic acid, prop-1-en-2-yl tridecyl ester',
     'Carbonic acid--2,2,3,3,3-pentafluoropropan-1-ol (1/2)',
     'Carbonic acid--2,2,3,3,4,4,5,5-octafluoropentan-1-ol (1/2)',
     'Carbonic dichloride, reaction products with reduced ammonia-Me esters of reduced polymd. oxidized tetrafluoroethylene reaction product',

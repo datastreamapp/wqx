@@ -15607,6 +15607,7 @@ export default {
     '1000984-35-9',
   'Carbonic acid, compd. with 2,2,3,4,4,4-hexafluoro-1-butanol (1:2)':
     '847755-25-3',
+  'Carbonic acid, prop-1-en-2-yl tridecyl ester': '',
   'Carbonic acid--2,2,3,3,3-pentafluoropropan-1-ol (1/2)': '154496-21-6',
   'Carbonic acid--2,2,3,3,4,4,5,5-octafluoropentan-1-ol (1/2)': '4454-75-5',
   'Carbonic dichloride, reaction products with reduced ammonia-Me esters of reduced polymd. oxidized tetrafluoroethylene reaction product':

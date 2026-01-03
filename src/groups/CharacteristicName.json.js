@@ -18924,6 +18924,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Carbonic acid, compd. with 2,2,3,4,4,4-hexafluoro-1-butanol (1:2)':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Carbonic acid, prop-1-en-2-yl tridecyl ester': 'Not Assigned',
   'Carbonic acid--2,2,3,3,3-pentafluoropropan-1-ol (1/2)':
     'PFAS,Perfluorinated Alkyl Substance',
   'Carbonic acid--2,2,3,3,4,4,5,5-octafluoropentan-1-ol (1/2)':
