@@ -16,10 +16,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - name: Set up Node.js 22.x
+      - name: Set up Node.js 24.x
         uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # v4.1.0
         with:
-          node-version: 22.x
+          node-version: 24
           registry-url: 'https://registry.npmjs.org'
       - name: Cache npm
         uses: actions/cache@1bd1e32a3bdc45362d1e726936510720a7c30a57 # v4.2.0
@@ -53,6 +53,7 @@ jobs:
       - if: env.change != 0
         name: Publish
         run: |
+          unset NODE_AUTH_TOKEN
           cp package.json dist/package.json
           cd ./dist
           npm publish
