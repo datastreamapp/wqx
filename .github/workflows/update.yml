@@ -56,6 +56,3 @@ jobs:
           cp package.json dist/package.json
           cd ./dist
           npm publish
-        env:
-          NPM_CONFIG_PROVENANCE: 'true'
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
