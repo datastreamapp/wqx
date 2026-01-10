@@ -9949,6 +9949,7 @@ export default {
   '3-Methyl-1-pentene': '',
   '3-Methyl-2,3-dihydrofuran': '',
   '3-Methyl-2-(nonafluorobutyl)-1H-indole': '',
+  '3-Methyl-2-hexene': 'https://pubchem.ncbi.nlm.nih.gov/compound/25402',
   '3-Methyl-2-pentanone': '; Request Date: 02-MAR-07',
   '3-Methyl-3-(2,2,3,3,3-pentafluoropropoxy)oxetane': '',
   '3-Methyl-4-(methylsulfanyl)phenyl pentafluoroethane-1-sulfonate': '',
@@ -16160,6 +16161,8 @@ export default {
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.beta.,4.alpha.)-':
     'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/711010',
   'Cyclopentane, 1,2-dimethyl-, (1R,2R)-rel-': '',
+  'Cyclopentane, 1-ethyl-2-methyl-':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/17148867',
   'Cyclopentane, 1-ethyl-2-methyl-, cis-':
     'Cyclopentane, 1-ethyl-2-methyl-, cis-',
   'Cyclopentane, 1-ethyl-3-methyl-, (1R,3S)-rel-': '',
@@ -17260,6 +17263,8 @@ export default {
   'Ecgonine Methyl Ester': 'Request Date: 19-Dec-18 (nps.gov cas# review)',
   'Ecgonine Methyl Ester-D3': '; Request Date: 22-JUL-14',
   'Ecgonine methyl ester hydrochloride': '; Request Date: 22-JUL-14',
+  'Echo intensity':
+    "Echo intensity is a measure of the signal strength of the echo returning from the Acoustic Doppler Current Profiler (ADCP)'s transmit pulse. Echo intensity is sometimes used to survey the concentration of zooplankton or suspended sediment. https://www.tele",
   'Ecological Integrity (choice list)': '',
   Ecolyst: '',
   Edifenphos: '; Request Date: 22-JUL-14',

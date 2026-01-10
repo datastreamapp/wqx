@@ -220,7 +220,11 @@ export default {
   '21LABCH': '',
   '21MABCH': '',
   '21MEBCH': 'Maine Dept of Env Protection.',
+  '21MICH_MICORPS':
+    'Michigan Department of Environment, Great Lakes, and Energy - MiCorps Volunteer Program',
   '21MICH_WQX': 'Michigan Department of Environment, Great Lakes, and Energy',
+  '21MICH_WRD':
+    'Michigan Department of Environment, Great Lakes, and Energy - Water Resources Division',
   '21MNBCH': '',
   '21MSBCH': 'Mississippi Agency responsible for Beaches data',
   '21MSWQ_WQX':

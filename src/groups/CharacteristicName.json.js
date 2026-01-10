@@ -12819,6 +12819,7 @@ export default {
   '3-Methyl-2,3-dihydrofuran': 'Not Assigned',
   '3-Methyl-2-(nonafluorobutyl)-1H-indole':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3-Methyl-2-hexene': '',
   '3-Methyl-2-pentanone': 'Not Assigned',
   '3-Methyl-3-(2,2,3,3,3-pentafluoropropoxy)oxetane':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -19832,6 +19833,7 @@ export default {
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.beta.,4.alpha.)-':
     'Not Assigned',
   'Cyclopentane, 1,2-dimethyl-, (1R,2R)-rel-': 'Not Assigned',
+  'Cyclopentane, 1-ethyl-2-methyl-': '',
   'Cyclopentane, 1-ethyl-2-methyl-, cis-': 'Not Assigned',
   'Cyclopentane, 1-ethyl-3-methyl-, (1R,3S)-rel-': 'Not Assigned',
   'Cyclopentane, octafluoro(hexafluorocyclobutylidene)-':
@@ -20948,6 +20950,7 @@ export default {
   'Ecgonine Methyl Ester': 'Organics, Other',
   'Ecgonine Methyl Ester-D3': 'Organics, Other',
   'Ecgonine methyl ester hydrochloride': 'Organics, Other',
+  'Echo intensity': 'Physical',
   'Ecological Integrity (choice list)': 'Habitat',
   Ecolyst: 'Not Assigned',
   Edifenphos: 'Organics, Pesticide',
