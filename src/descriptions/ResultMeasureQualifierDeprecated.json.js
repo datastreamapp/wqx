@@ -312,6 +312,7 @@ export default {
   Q: 'The result did not pass the lab quality checks and there was an insufficient amount of the sample for re-analysis.',
   QC: 'QC problems',
   QCI: 'Quality Control incomplete',
+  QIG: 'Sample held beyond accepted holding time',
   R: 'Rejected: The sample results are unusable due to the quality of the data generated because certain criteria were not met. The analyte may or may not be present in the sample. ',
   REJ: 'Estimated, Rejected',
   REX: 'Re-Prepared',

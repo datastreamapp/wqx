@@ -277,6 +277,7 @@ export default {
     'Q',
     'QC',
     'QCI',
+    'QIG',
     'R',
     'REJ',
     'REX',

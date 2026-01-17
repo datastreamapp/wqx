@@ -1314,6 +1314,7 @@ export default {
     'UMRBA_WQX',
     'UMRR_LTRM',
     'UMT_FLATHEADBIOSTATION',
+    'UNC_IMS',
     'UNI',
     'UPPERSKAGIT',
     'URIWW',

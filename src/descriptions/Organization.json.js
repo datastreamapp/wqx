@@ -68,7 +68,7 @@ export default {
     'Partnering of The Bream Fisherman Association with  The Florida Department of Environmental Protection for Water Quality Monitoring for Santa Rosa and Escambia Counties',
   '21FLBRA_WQX': 'Water Quality Monitoring Data',
   '21FLBREV_WQX': 'Water Quality Monitoring Data',
-  '21FLBROW_WQX': 'Water Quality Monitoring Data\nNELAC Certification #E46053',
+  '21FLBROW_WQX': 'Water Quality Monitoring Data\r NELAC Certification #E46053',
   '21FLBSG_WQX': 'Surface water Biological Sediment',
   '21FLCASS_WQX': 'Water Quality Monitoring Data',
   '21FLCBA_WQX': 'Water Quality Monitoring Data',
@@ -199,7 +199,7 @@ export default {
   '21FLWPBH_WQX': 'Water Quality',
   '21FLWPB_WQX': 'Water Quality Monitoring Data',
   '21FLWQA_WQX':
-    'Watershed Assessment Section (WAS) - Formerly WQAS\nSurface Water Quality Monitoring Data and TMDLs',
+    'Watershed Assessment Section (WAS) - Formerly WQAS\r Surface Water Quality Monitoring Data and TMDLs',
   '21FLWQSP_WQX': 'Water Quality Monitoring Data',
   '21GACRD': 'COASTAL RESOURCES DIVISION',
   '21GAEPD_WQX': 'Georgia DNR Environmental Protection Division',
@@ -221,8 +221,8 @@ export default {
   '21MABCH': '',
   '21MEBCH': 'Maine Dept of Env Protection.',
   '21MICH_MICORPS':
-    'Michigan Department of Environment, Great Lakes, and Energy - MiCorps Volunteer Program',
-  '21MICH_WQX': 'Michigan Department of Environment, Great Lakes, and Energy',
+    'Michigan Department of Environment, Great Lakes, and Energy - MiCorp Volunteer Program',
+  '21MICH_WQX': '',
   '21MICH_WRD':
     'Michigan Department of Environment, Great Lakes, and Energy - Water Resources Division',
   '21MNBCH': '',
@@ -1587,6 +1587,7 @@ export default {
   UMRBA_WQX: '',
   UMRR_LTRM: '',
   UMT_FLATHEADBIOSTATION: '',
+  UNC_IMS: '',
   UNI: '',
   UPPERSKAGIT:
     'Upper Skagit Indian Tribe (Tribal) || Upper Skagit Indian Tribe (Tribal)',

@@ -17290,17 +17290,21 @@ export default {
   'Electromotive force': 'Nemi.gov; Request Date: 25-SEP-19',
   Elevation: '',
   'Elevation, MSL':
-    'The elevation with respect to the mean sea level (MSL).; Request Date: 02-MAR-07',
+    'The elevation with respect to the mean sea level (MSL).; Request Date: 02-MAR-07 USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
   'Elevation, aquifer top, MSL':
-    'The vertical distance between an aquifer top and the mean sea level (MSL).; Request Date: 02-MAR-07',
+    'The vertical distance between an aquifer top and the mean sea level (MSL).; Request Date: 02-MAR-07 USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
   'Elevation, groundwater surface, MSL':
-    'The vertical distance between the groundwater surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
+    'The vertical distance between the groundwater surface and the mean sea level (MSL).; Request Date: 02-MAR-07 USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
+  'Elevation, groundwater surface, NAVD88':
+    'Elevation of groundwater at a specific point in time using NAVD88 as a reference datum, collected by a data logger. USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
   'Elevation, land surface, MSL':
-    'The vertical distance between the land surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
+    'The vertical distance between the land surface and the mean sea level (MSL).; Request Date: 02-MAR-07 USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
   'Elevation, tailwater surface, MSL':
-    'The vertical distance between the tailwater surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
+    'The vertical distance between the tailwater surface and the mean sea level (MSL).; Request Date: 02-MAR-07 USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
   'Elevation, water surface, MSL':
-    'The vertical distance between a water surface and the mean sea level (MSL).; Request Date: 02-MAR-07',
+    'The vertical distance between a water surface and the mean sea level (MSL).; Request Date: 02-MAR-07 USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
+  'Elevation, water surface, NAVD88':
+    'Elevation of surface water at a specific point in time using NAVD88 as a reference datum, collected by a data logger. USE Monitoring location elements: VerticalMeasure, Vertical Measure Unit Code, Vertical Collection Method Name, Vertical Coordinate Reference System Datum Name',
   Eltenac: 'NWIS',
   'Emamectin benzoate': '; Request Date: 29-NOV-10',
   Embeddedness:
