@@ -40981,6 +40981,7 @@ export default {
     'Pycnopsyche luculenta',
     'Pycnopsyche rossi',
     'Pycnopsyche scabripennis',
+    'Pycnopsyche sonso',
     'Pyganodon',
     'Pyganodon cataracta',
     'Pyganodon grandis',

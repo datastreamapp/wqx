@@ -107348,6 +107348,7 @@ export default {
     'Pycnopsyche perplexa',
     'Pycnopsyche rossi',
     'Pycnopsyche scabripennis',
+    'Pycnopsyche sonso',
     'Pycreus flavescens',
     'Pycreus polystachyos',
     'Pycreus polystachyos ssp. holosericeus',

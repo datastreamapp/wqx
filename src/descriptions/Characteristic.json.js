@@ -1811,6 +1811,7 @@ export default {
   '1,1,2-Trifluoro-2-chloro-3-methyl-3-vinylcyclobutane': '',
   '1,1,2-Trifluorotrinitroethane': '',
   '1,1,2-Trimethyl-3-methylidenecyclopropane': 'Minnesota IT Services at MPCA ',
+  '1,1,2-Trimethylcyclopentane': '',
   '1,1,3,3,4,4,4-Heptafluorobutan-2-one': '',
   '1,1,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-Hexadecafluoro-2-(trifluoromethyl)decahydroisoquinoline':
     '',
@@ -6268,6 +6269,7 @@ export default {
   '2,3,5-Trifluorotetrahydro-4-(pentafluoroethyl)-2,3,4,5-tetrakis(trifluoromethyl)furan':
     '',
   '2,3,5-Trimethyldecane': '',
+  '2,3,5-Trimethylhexane': '',
   '2,3,5-Trimethylnaphthalene***retired***use 1,6,7-Trimethylnaphthalene':
     'Request Date: 01-APR-13| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '2,3,5-trimethyl-Phenanthrene': '; Request Date: 23-APR-15',
@@ -16155,6 +16157,7 @@ export default {
   'Cyclopentane, 1,1,2,2,3,3,4,4-octafluoro': '',
   'Cyclopentane, 1,1,2,2,3,3,4-heptafluoro-': '',
   'Cyclopentane, 1,1,2,2,3,3-hexafluoro-': '',
+  'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.alpha.)-': '',
   'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-':
     'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.alpha.,4.alpha.)-': '',

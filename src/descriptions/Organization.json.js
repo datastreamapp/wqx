@@ -311,7 +311,7 @@ export default {
   ALS_WQX:
     'The American Littoral Society promotes the study and conservation of marine life and habitat, protects the coast from harm, and empowers others to do the same.',
   AMIGOSBRAVOS_WQX: '',
-  AMRW: '',
+  AMRW: 'NGO focused on the Mystic River Watershed in southeast Connecticut bringing together the four towns (Groton, Ledyard, North Stonington, and Stonington, and the Mashantucket and Eastern Pequot Tribal Nations, all located within the watershed',
   ANCHORQEA: 'Clients',
   ANIMASWP:
     'The AWP is a stakeholder driven, collaborative, watershed-based group made up of partners representing diverse interests across the watershed in New Mexico, the Southern Ute Tribal Lands and Colorado. Current membership is over 100 individuals and entities. The AWP works together across state and Tribal boundaries to protect and improve the quality of water resources in the Animas River.',

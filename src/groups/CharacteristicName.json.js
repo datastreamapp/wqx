@@ -2681,6 +2681,7 @@ export default {
   '1,1,2-Trifluoro-2-chloro-3-methyl-3-vinylcyclobutane': 'Organics, Other',
   '1,1,2-Trifluorotrinitroethane': 'Organics, Other',
   '1,1,2-Trimethyl-3-methylidenecyclopropane': 'Not Assigned',
+  '1,1,2-Trimethylcyclopentane': 'Not Assigned',
   '1,1,3,3,4,4,4-Heptafluorobutan-2-one': 'PFAS,Perfluorinated Alkyl Substance',
   '1,1,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-Hexadecafluoro-2-(trifluoromethyl)decahydroisoquinoline':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -8180,6 +8181,7 @@ export default {
   '2,3,5-Trifluorotetrahydro-4-(pentafluoroethyl)-2,3,4,5-tetrakis(trifluoromethyl)furan':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,3,5-Trimethyldecane': 'Not Assigned',
+  '2,3,5-Trimethylhexane': 'Not Assigned',
   '2,3,5-Trimethylnaphthalene': 'Organics, Other',
   '2,3,5-trimethyl-Phenanthrene': 'Not Assigned',
   '2,3,6,7-Tetrachloronaphthalene': 'Not Assigned',
@@ -19826,6 +19828,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopentane, 1,1,2,2,3,3-hexafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
+  'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.alpha.)-':
+    'Not Assigned',
   'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-':
     'Not Assigned',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.alpha.,4.alpha.)-':

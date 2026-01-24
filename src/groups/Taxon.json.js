@@ -41003,6 +41003,7 @@ export default {
   'Pycnopsyche luculenta': 'Not Assigned',
   'Pycnopsyche rossi': 'Not Assigned',
   'Pycnopsyche scabripennis': 'Not Assigned',
+  'Pycnopsyche sonso': 'Not Assigned',
   Pyganodon: 'Not Assigned',
   'Pyganodon cataracta': 'Not Assigned',
   'Pyganodon grandis': 'Not Assigned',

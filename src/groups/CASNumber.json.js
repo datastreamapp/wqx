@@ -2026,6 +2026,7 @@ export default {
   '1,1,2-Trifluoro-2-chloro-3-methyl-3-vinylcyclobutane': '4265-28-5',
   '1,1,2-Trifluorotrinitroethane': '20165-38-2',
   '1,1,2-Trimethyl-3-methylidenecyclopropane': '34462-28-7',
+  '1,1,2-Trimethylcyclopentane': '4259-00-1',
   '1,1,3,3,4,4,4-Heptafluorobutan-2-one': '370862-34-3',
   '1,1,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-Hexadecafluoro-2-(trifluoromethyl)decahydroisoquinoline':
     '86714-34-3',
@@ -6530,6 +6531,7 @@ export default {
   '2,3,5-Trifluorotetrahydro-4-(pentafluoroethyl)-2,3,4,5-tetrakis(trifluoromethyl)furan':
     '69661-30-9',
   '2,3,5-Trimethyldecane': '62238-11-3',
+  '2,3,5-Trimethylhexane': '1069-53-0',
   '2,3,5-Trimethylnaphthalene': '2245-38-7',
   '2,3,5-trimethyl-Phenanthrene': '3674-73-5',
   '2,3,6,7-Tetrachloronaphthalene': '34588-40-4',
@@ -16419,6 +16421,7 @@ export default {
   'Cyclopentane, 1,1,2,2,3,3,4,4-octafluoro': '139064-01-0',
   'Cyclopentane, 1,1,2,2,3,3,4-heptafluoro-': '15290-77-4',
   'Cyclopentane, 1,1,2,2,3,3-hexafluoro-': '123768-18-3',
+  'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.alpha.)-': '2613-69-6',
   'Cyclopentane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.beta.)-': '15890-40-1',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.alpha.,4.alpha.)-': '4850-28-6',
   'Cyclopentane, 1,2,4-trimethyl-, (1.alpha.,2.beta.,4.alpha.)-': '16883-48-0',
