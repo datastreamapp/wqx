@@ -400,6 +400,7 @@ export default {
   BROADRIVERNC: 'French Broad Riverkeeper monitoring',
   BROADWATERCD_WQX: 'Broadwater Conservation District',
   BRWC_WV: '',
+  BRWG: 'a non-profit organization based in Summit County, Colorado since 2004',
   BTBAQUATIC_WQX:
     'Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal) || Grand Traverse Band of Ottawa and Chippewa Indians, Michigan (Tribal)',
   BTMUA: 'Drinking water provider',
@@ -950,6 +951,7 @@ export default {
   MAWRWMP:
     'Monitoring of physical, chemical and biological attributes of the Westfield River and some of it tributaries',
   MA_DEP: 'Division of Watershed Management (DWM)',
+  MA_DEP_TEST: '',
   MBCI_OEP: '',
   MBMG_WQX:
     'The MBMG_WQX organization is for data collected and stored by the Montana Bureau of Mines and Geology.',
@@ -1549,8 +1551,7 @@ export default {
   "TOHONOO'ODHAMNATION":
     "Tohono O'odham Nation of Arizona (Tribal) || Tohono O'odham Nation of Arizona (Tribal)",
   TOMWC: '',
-  TONKAWA1:
-    'Tonkawa Tribe of Indians of Oklahoma (Tribal) || Tonkawa Tribe of Indians of Oklahoma (Tribal)',
+  TONKAWA1: '',
   TONKAWA_WQX:
     'Tonkawa Tribe of Indians of Oklahoma (Tribal) || Tonkawa Tribe of Indians of Oklahoma (Tribal)',
   TPCHD_WQX: '',

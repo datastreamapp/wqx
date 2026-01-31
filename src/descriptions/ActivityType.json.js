@@ -147,6 +147,8 @@ export default {
     'Sample collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection.',
   'Quality Control Sample-Split Sequential Replicate':
     'Sample collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection; processing is after the environmental sample.',
+  'Quality Control Sample-Topical Blank':
+    'Blank solution subjected to typical sample collection, field processing, preservation, transportation, and laboratory handling but with some procedure that is modified in some way to assess variability for project-specific purposes',
   'Quality Control Sample-Topical Replicate':
     'Sample collected at the same time and location as an environmental subsample and collected using modified procedures to assess variability for project-specific purposes.',
   'Quality Control Sample-Topical Spike':
