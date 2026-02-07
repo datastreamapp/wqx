@@ -66,7 +66,7 @@ export default {
   'COHS/1000ft':
     '()Concentration Solution, COHS/1,000 linear feet, represents the concentration of haze per 1000 linear feet of air sampled. 1 COH unit is the amount of dust. A linear foot is a 12-inch straight length',
   CU: 'Picklist or Choicelist, One color unit (CU) is equivalent to one Hazen unit and to one Pt-Co unit',
-  DOY: '()Time, Day of year is a number between 1 and 365 ( or 1-366 for leap years) : Number Day / Day Number',
+  DOY: '()Time, Day of year is a number between 1 and 365 ( or 1-366 for leap years) : Number Day / Day Number / Julian Date is "ordinal" date representing the day of the year ',
   Da: '()Molecular mass, Daltons',
   Deg: '()Location, Direction or angle, degrees',
   FAU: 'Turbidity, Formazine Attenuation Units',
@@ -549,7 +549,7 @@ export default {
   'units/m': 'Concentration Solution, Units per metre, for UV absorbance',
   volts: '()Power, Electro-motive force, volts',
   weeks: 'Time, Weeks',
-  'y/m/d': '()Time, Year/month/day',
+  'y/m/d': '()Time, Date Year/Month/Day',
   yd: 'Length Distance, Yards',
   yd2: 'Area, Square yards',
   yd3: 'Volume, Cubic yards',

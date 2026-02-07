@@ -4904,6 +4904,7 @@ export default {
     '17886-82-7',
   '1-methyl-2-propyl-Cyclohexane': '4291-79-6',
   '1-nitro-4-(pentafluoroethoxy)benzene': '1743-96-0',
+  '1-phenyl-1-butene': '824-90-8',
   '1-phenyl-1H-Indene': '1961-96-2',
   '1-phenylpiperazine; 2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoic acid':
     '985-60-4',
@@ -6585,6 +6586,7 @@ export default {
   '2,3-Difluoro-2-(pentafluoroethyl)-3-(trifluoromethyl)oxirane': '71917-15-2',
   '2,3-Difluoro-4-[(5,5,6,6,7,7,8,8,8-nonafluorooctyl)oxy]benzoic acid':
     '668989-63-7',
+  '2,3-Dimethyl-1-butene': '563-78-0',
   '2,3-Dimethyl-2-pentene': '10574-37-5',
   '2,3-Dimethyl-3-hexanol': '4166-46-5',
   '2,3-Dimethylbutane': '79-29-8',
@@ -7839,6 +7841,7 @@ export default {
   '2-Methyl-1-[4-(pentafluoroethoxy)phenyl]propan-1-one': '56425-87-7',
   '2-Methyl-1-butanol': '137-32-6',
   '2-Methyl-1-butene': '563-46-2',
+  '2-Methyl-1-heptene': '15870-10-7',
   '2-Methyl-1-pentene': '763-29-1',
   '2-Methyl-1-phenyl-1-butene': '56253-64-6',
   '2-Methyl-2-[3-(2-(perfluorododecyl)ethanesulfinyl)propanamido]propane-1-sulfonic acid':
@@ -12356,6 +12359,7 @@ export default {
   '6-Methoxy-5-(pentafluoroethyl)naphthalene-1-carboxylic acid': '103654-81-5',
   '6-Methoxyquinolin-4-yl nonafluorobutane-1-sulfonate': '1161941-02-1',
   '6-Methyl-2-(undecafluoropentyl)-1,3-benzoxazole': '93416-26-3',
+  '6-Methyl-2-heptene': '73548-72-8',
   '6-Methyl-4-(tridecafluorohexyl)pyrimidine-2(1H)-thione': '240801-02-9',
   '6-Methylchrysene': '1705-85-7',
   '6-Methyltetraline': '1680-51-9',
@@ -16410,6 +16414,7 @@ export default {
   'Cyclohexyl pentafluoropropanoate': '24262-73-5',
   Cyclohexylamine: '108-91-8',
   Cyclonite: '121-82-4',
+  Cyclooctane: '292-64-8',
   'Cyclopent-1-en-1-yl nonafluorobutane-1-sulfonate': '36839-94-8',
   'Cyclopenta[cd]pyrene': '27208-37-3',
   Cyclopentadiene: '542-92-7',

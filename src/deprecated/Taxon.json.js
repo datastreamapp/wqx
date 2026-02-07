@@ -2757,7 +2757,6 @@ export default [
   'Gynutoclinus rotundifrons***retired***use Clinus rotundifrons',
   'Gynutoclinus***retired***use Clinus',
   'Gyptis brevipalpa***retired***use Podarkeopsis brevipalpa',
-  'Gyraulus crista***retired***use Armiger crista',
   'Gyrinophilus porphyriticus porphyriticus***retired***use Gyrinophilus porphyriticus',
   'Gyropleurodus ramalheira***retired***use Heterodontus ramalheira',
   'Gyropleurodus***retired***use Heterodontus',

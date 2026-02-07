@@ -35,6 +35,8 @@ export default {
     'A sample of analyte-free media that has been used to rinse the sampling equipment in the laboratory. It is collected after completion of decontamination and prior to sampling. This blank is useful in documenting adequate decontamination of sampling equipment prior to the equipment being used in the field.',
   'Quality Control Sample-Archive Blank':
     'A sample of analyte free water put in the same type of bottle used for a regular sample and stored adjacent to a regular sample in a storage area.',
+  'Quality Control Sample-Blind':
+    'Blind sample prepared from a reference material and submitted for analysis with a composition that is unknown to the analyst',
   'Quality Control Sample-Blind Duplicate':
     'The duplicate samples are identical samples (collected from same source and same time) however blind duplicates are submitted to the laboratory by an identification scheme so that the laboratory does not know the samples are identical.   The purpose of blind duplicates is to test for laboratory bias.  ',
   'Quality Control Sample-Concurrent Replicate':
@@ -71,6 +73,8 @@ export default {
     'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is collected at the same time and location as an environmental sample, using the same sampling equipment as the environmental sample and split after sample collection; processing is after the environmental sample.',
   'Quality Control Sample-Integrated Time Series-Trip Blank':
     'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is a trip blank, which is a sample of analyte-free water prepared prior to environmental time-composite sample collection, remains closed during the field trip, and is handled otherwise the same as the environmental samples.',
+  'Quality Control Sample-Integrated Time Series-Unspecified':
+    'A sample, representing some portion or segment of elapsed time within the overall activity duration or sample period, of unspecified type collected for quality control',
   'Quality Control Sample-Integrated Time Series-Unspecified Blank':
     'A discrete/integrated quality control sample, representing some portion or segment of elapsed time within the overall activity duration or sample period. This sample is a blank, which is a sample of analyte-free water, of unspecified treatment or type.',
   'Quality Control Sample-Integrated Time Series-Unspecified Replicate':
@@ -139,6 +143,8 @@ export default {
     'A sample of analyte-free water used to confirm that it is free of the analytes of interest.',
   'Quality Control Sample-Spike Replicate':
     'A known quantity of target analyte added to a blank sample or environmental subsample. This spiked sample is one of multiples prepared to assess variability. ',
+  'Quality Control Sample-Spike Solution':
+    'Spike solution is a specific term for a homogenous substance generally prepared by laboratories or chemical suppliers where the concentration of one or more constituents is known. A spike solution is added to a blank or environmental sample to create a quality-control sample spike',
   'Quality Control Sample-Spike, Unspecified Type':
     'A known quantity of target analyte added to a blank sample or environmental subsample. This spiked sample is of unspecified treatment or type.',
   'Quality Control Sample-Split Concurrent Replicate':
@@ -155,6 +161,8 @@ export default {
     'Sample where a known quantity of a target analyte has been added and collected using modified procedures to assess variability for project-specific purposes.',
   'Quality Control Sample-Trip Blank':
     'Trip blanks are test samples of analyte-free media taken from the laboratory to the sampling site and returned to the laboratory unopened. They are used to measure cross-contamination from the container and preservative during transport, field handling, and storage. Usually, at least one trip blank should be prepared for each sample type per trip.',
+  'Quality Control Sample-Unspecified':
+    'A sample of unspecified type collected for quality control.',
   'Quality Control Sample-Unspecified Blank':
     'A sample of analyte-free water that is used to assess contamination of unspecified treatment or type.',
   'Quality Control Sample-Unspecified Replicate':
