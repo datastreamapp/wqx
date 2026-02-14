@@ -390,6 +390,7 @@ export default {
   BOOMSNUBSITE_EA:
     'Data loaded by EA Engineering Inc. for the Boomsnub Superfund Site, Vancouver, Clark County, Washington.',
   BOUNTIFL_WQX: ' Superfund',
+  BPMDCAG_WQX: 'bonitapeakcag.org',
   BPMWQX:
     "Supporing EPA's Bonita Peak Mining District's (Superfund site) public data sharing efforts",
   BRB: 'Bear River Band of the Rohnerville Rancheria, California (Tribal) || Bear River Band of the Rohnerville Rancheria, California (Tribal)',
@@ -1747,6 +1748,7 @@ export default {
   WQXWEBTRAINING7: 'Volunteer',
   WQXWEBTRAINING8: 'Volunteer',
   WQXWEBTRAINING9: 'Volunteer',
+  WQX_SRSC: '',
   WRDM18: 'Chesapeake Commons',
   WREQC_WQX: '',
   WRFOBLM: '',

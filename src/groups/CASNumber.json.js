@@ -19523,6 +19523,7 @@ export default {
   'Iodononafluoro-t-butane': '4459-18-1',
   'Iodoperfluoroalkane(C5-14)': '160738-69-2',
   Iodoperfluorocyclohexane: '355-69-1',
+  'Iodosulfuron-methyl': '144550-06-1',
   'Iodosulfuron-methyl-sodium': '144550-36-7',
   Iohexol: '',
   'Iohexol-d5': '',

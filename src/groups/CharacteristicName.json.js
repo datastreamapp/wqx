@@ -23267,6 +23267,7 @@ export default {
   'Iodononafluoro-t-butane': 'PFAS,Perfluorinated Alkyl Substance',
   'Iodoperfluoroalkane(C5-14)': 'PFAS,Perfluorinated Alkyl Substance',
   Iodoperfluorocyclohexane: 'PFAS,Perfluorinated Alkyl Substance',
+  'Iodosulfuron-methyl': 'Not Assigned',
   'Iodosulfuron-methyl-sodium': 'Not Assigned',
   Iohexol: 'Not Assigned',
   'Iohexol-d5': 'Not Assigned',

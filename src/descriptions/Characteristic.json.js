@@ -19496,6 +19496,7 @@ export default {
   'Iodononafluoro-t-butane': '',
   'Iodoperfluoroalkane(C5-14)': '',
   Iodoperfluorocyclohexane: '',
+  'Iodosulfuron-methyl': '',
   'Iodosulfuron-methyl-sodium': 'Iodosulfuron-methyl',
   Iohexol: 'NWIS',
   'Iohexol-d5': '',
@@ -24031,7 +24032,8 @@ export default {
   Perfluorononanesulfonate:
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   'Perfluorononanesulfonate potassium': '',
-  Perfluorononanoate: 'Request Date: 01-APR-13, cas# 375-95-1',
+  Perfluorononanoate:
+    'Request Date: 01-APR-13, registered incorrect cas# 375-95-1',
   'Perfluorononanoate (anionic form)': 'Request Date: 05-Dec-19',
   'Perfluorononanoic acid': 'Request Date: 22-JUL-14',
   'Perfluorononanoyl chloride': '',
