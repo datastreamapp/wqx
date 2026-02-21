@@ -2885,6 +2885,7 @@ export default {
   D1890: 'D1890 ~ ASTM . Beta Activity in Water',
   D1941: '',
   D1943: 'D1943 ~ ASTM . Alpha Particle Radioactivity of Water',
+  D1945: 'https://store.astm.org/d1945-25.html',
   D1946:
     'Standard Method for Analysis of Reformed Gas by Gas Chromatography Reference: https://www.astm.org/d1946-90r19.html',
   D1976: 'D1976 ~ ASTM . Elements in Water by ICP-AES',

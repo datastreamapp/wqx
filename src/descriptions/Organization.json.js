@@ -310,6 +310,7 @@ export default {
     'American Littoral Society - Delaware Bayshore Office, Water Quality Monitoring',
   ALS_WQX:
     'The American Littoral Society promotes the study and conservation of marine life and habitat, protects the coast from harm, and empowers others to do the same.',
+  AMAFCA: '',
   AMIGOSBRAVOS_WQX: '',
   AMRW: 'NGO focused on the Mystic River Watershed in southeast Connecticut bringing together the four towns (Groton, Ledyard, North Stonington, and Stonington, and the Mashantucket and Eastern Pequot Tribal Nations, all located within the watershed',
   ANCHORQEA: 'Clients',
@@ -362,6 +363,7 @@ export default {
   BEAR_CRK_WQX: 'Water Quality Data',
   BENTON_SWCD: '',
   BERGERGROUP: '',
+  BERNCO_WQX: '',
   BERRY: '',
   BESD: 'Colorado',
   BETA_OCMA: '',
@@ -1125,6 +1127,7 @@ export default {
   NJDEP_PESTICIDES: '',
   NJHDG:
     'Nine northeastern NJ wastewater treatment agencies working collaboratively on water quality issues in the NY/NJ Harbor Estuary.',
+  NJHIGHLANDSCOUNCIL: '',
   NJMC: '',
   NJPC: 'The New Jersey Pinelands Commission is an independent state agency whose mission is to "preserve, protect, and enhance the natural and cultural resources of the Pinelands National Reserve, and to encourage compatible economic and other human activities consistent with that purpose."',
   NJRCD:

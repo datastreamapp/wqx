@@ -504,6 +504,7 @@ export default {
   '(3Z)-4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-Hexadecafluoroundec-3-en-2-one':
     'PFAS,Perfluorinated Alkyl Substance',
   '(3Z)-Hexa-1,3,5-triene': 'Not Assigned',
+  '(3Z)-beta-Ocimene': 'Not Assigned',
   '(3b,8x,9x,14x,17x)-cholest-5-en-3-yl heptafluorobutanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   '(4,4,5,5,6,6,6-Heptafluoro-2-iodohex-2-en-1-yl)(trimethyl)silane':
@@ -8248,6 +8249,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2,3-Difluoro-4-[(5,5,6,6,7,7,8,8,8-nonafluorooctyl)oxy]benzoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2,3-Dihydrofuran': 'Not Assigned',
   '2,3-Dimethyl-1-butene': 'Not Assigned',
   '2,3-Dimethyl-2-pentene': 'Not Assigned',
   '2,3-Dimethyl-3-hexanol': 'Not Assigned',
@@ -9404,7 +9406,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Chloro-6-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline':
     'PFAS,Perfluorinated Alkyl Substance',
-  '2-Chloro-6-ethylamino-4-amino-s-triazine': 'Not Assigned',
+  '2-Chloro-6-ethylamino-4-amino-s-triazine': 'Organics, Other',
   '2-Chloro-6-iodo-4-(trifluoromethyl)aniline': 'Not Assigned',
   '2-Chloro-7-(difluoromethyl)-1,3,4,4,5,6,6,7,8,8,9,9,10,10,11,12,12,12-octadecafluoro-11-(trifluoromethyl)dodec-1-ene':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -9449,7 +9451,7 @@ export default {
   '2-Chloropropane': 'Not Assigned',
   '2-Chlorosyringaldehyde': 'Not Assigned',
   '2-Chlorotetrafluoropropanamide': 'PFAS,Perfluorinated Alkyl Substance',
-  '2-Choro-6-ethylamino-4-amino-s-triazine': 'Organics, Other',
+  '2-Choro-6-ethylamino-4-amino-s-triazine': 'Not Assigned',
   '2-Cyano-2,3,3,3-tetrafluoropropanoyl fluoride':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Cyanoethyl 4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heptadecafluoroundecyl N,N-dipropan-2-ylphosphoramidoite':
@@ -32362,6 +32364,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   Thifensulfuron: 'Not Assigned',
   'Thifensulfuron-methyl': 'Organics, Pesticide',
+  Thiirane: 'Not Assigned',
   Thioacetamide: 'Not Assigned',
   'Thioacetic acid S-(4,4,5,5,5-pentafluoro-pentyl)ester':
     'PFAS,Perfluorinated Alkyl Substance',

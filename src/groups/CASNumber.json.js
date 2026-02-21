@@ -357,6 +357,7 @@ export default {
   '(3Z)-4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-Hexadecafluoroundec-3-en-2-one':
     '136909-85-8',
   '(3Z)-Hexa-1,3,5-triene': '2612-46-6',
+  '(3Z)-beta-Ocimene': '3338-55-4',
   '(3b,8x,9x,14x,17x)-cholest-5-en-3-yl heptafluorobutanoate': '',
   '(4,4,5,5,6,6,6-Heptafluoro-2-iodohex-2-en-1-yl)(trimethyl)silane':
     '89608-30-0',
@@ -6586,6 +6587,7 @@ export default {
   '2,3-Difluoro-2-(pentafluoroethyl)-3-(trifluoromethyl)oxirane': '71917-15-2',
   '2,3-Difluoro-4-[(5,5,6,6,7,7,8,8,8-nonafluorooctyl)oxy]benzoic acid':
     '668989-63-7',
+  '2,3-Dihydrofuran': '1191-99-7',
   '2,3-Dimethyl-1-butene': '563-78-0',
   '2,3-Dimethyl-2-pentene': '10574-37-5',
   '2,3-Dimethyl-3-hexanol': '4166-46-5',
@@ -7509,7 +7511,7 @@ export default {
     '1262665-50-8',
   '2-Chloro-6-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline':
     '1630969-89-9',
-  '2-Chloro-6-ethylamino-4-amino-s-triazine': '',
+  '2-Chloro-6-ethylamino-4-amino-s-triazine': '1007-28-9',
   '2-Chloro-6-iodo-4-(trifluoromethyl)aniline': '1065102-88-6',
   '2-Chloro-7-(difluoromethyl)-1,3,4,4,5,6,6,7,8,8,9,9,10,10,11,12,12,12-octadecafluoro-11-(trifluoromethyl)dodec-1-ene':
     '',
@@ -7552,7 +7554,7 @@ export default {
   '2-Chloropropane': '75-29-6',
   '2-Chlorosyringaldehyde': '76341-69-0',
   '2-Chlorotetrafluoropropanamide': '6066-47-3',
-  '2-Choro-6-ethylamino-4-amino-s-triazine': '1007-28-9',
+  '2-Choro-6-ethylamino-4-amino-s-triazine': '',
   '2-Cyano-2,3,3,3-tetrafluoropropanoyl fluoride': '54675-68-2',
   '2-Cyanoethyl 4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heptadecafluoroundecyl N,N-dipropan-2-ylphosphoramidoite':
     '1036029-24-9',
@@ -27563,6 +27565,7 @@ export default {
   "Thietane, 2,2'-oxybis[4,4-bis(trifluoromethyl)-": '62378-47-6',
   Thifensulfuron: '79277-67-1',
   'Thifensulfuron-methyl': '79277-27-3',
+  Thiirane: '420-12-2',
   Thioacetamide: '62-55-5',
   'Thioacetic acid S-(4,4,5,5,5-pentafluoro-pentyl)ester': '160598-75-4',
   Thiobencarb: '28249-77-6',
