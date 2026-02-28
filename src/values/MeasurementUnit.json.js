@@ -311,6 +311,7 @@ export default {
     'm3/sec',
     'm3/week',
     'm3/yr',
+    'mBq/L',
     'mCi',
     'mCi/km2',
     'mL',

@@ -25,6 +25,8 @@ export default {
   'Inorganics, Minor, Non-metals':
     '<http://hydro.geodab.eu/hydro-ontology/concept/2360>',
   Microbiological: '<http://hydro.geodab.eu/hydro-ontology/concept/2512>',
+  'Microbiological, eDNA':
+    'eDNA is genetic material shed by organisms into the environment (water, soil, air), comprising DNA from skin, feces, mucus, and tissues. Genetic material - Metazoan (Animal) DNA: Often targeted via 16S or COI genes. Microbial/Plant DNA:\nMicrobial/Plant DNA: Often studied via 18S or ITS.',
   'Not Assigned': 'Not Assigned values for field.',
   Nutrient: '<http://hydro.geodab.eu/hydro-ontology/concept/2381>',
   'Organics, BDEs': '',

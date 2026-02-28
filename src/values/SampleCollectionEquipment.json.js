@@ -146,6 +146,7 @@ export default {
     'Polyethylene wipe',
     'Polyurethane Foam matrix',
     'Ponar Grab',
+    'Portable sediment centrifuge',
     'Pound Net',
     'Pram Electroshock',
     'Probe/Sensor',
