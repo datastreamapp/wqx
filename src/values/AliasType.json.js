@@ -10,6 +10,7 @@ export default {
     'CST.POLLUTANT',
     'CST.STD.POLLUTANT',
     'EPA ID (SUBSTANCE REGISTRY #)',
+    'HMW PARM CODE',
     'ITIS TAXON SERIAL NUMBER',
     'MOLECULAR WEIGHT',
     'NOAA - National Center for Environm',

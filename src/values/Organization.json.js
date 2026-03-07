@@ -327,6 +327,7 @@ export default {
     'BESD',
     'BETA_OCMA',
     'BIGDRY',
+    'BIGELOW_WQX',
     'BIGLAG_WQX',
     'BIGPINEPAIUTE',
     'BIGSANDY',
