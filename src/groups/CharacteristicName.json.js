@@ -937,6 +937,7 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '******RENAMED': 'PFAS,Perfluorinated Alkyl Substance',
   '*****RETIRED*4-Nonylphenol dodecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': 'Not Assigned',
@@ -22768,7 +22769,6 @@ export default {
   'Hexafluoropropylene oxide dimer acid': 'PFAS,Perfluorinated Alkyl Substance',
   'Hexafluoropropylene oxide dimer acid ammonium salt':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Hexafluoropropylene oxide-dimer acid': 'PFAS,Perfluorinated Alkyl Substance',
   'Hexafluoropropylene polymer': 'PFAS,Perfluorinated Alkyl Substance',
   'Hexahydrohexamethyl cyclopentabenzopyran lactone': 'Not Assigned',
   'Hexakis (1H,1H,6H-Decafluorohexyloxy) phosphazine': 'Organics, Other',
@@ -24625,8 +24625,8 @@ export default {
   'Microcystin mLR': 'Cyanotoxins, Phytotoxins',
   'Microcystin mRR': 'Cyanotoxins, Phytotoxins',
   'Microcystin/nodularin genes mcyE/ndaF': 'Cyanotoxins, Phytotoxins',
-  Microcystins: 'Cyanotoxins, Phytotoxins',
   'Microcystins and nodularins': 'Cyanotoxins, Phytotoxins',
+  Microcystins: 'Cyanotoxins, Phytotoxins',
   'Microcystins/nodularin': 'Cyanotoxins, Phytotoxins',
   'Microhabitat Type - Plant': 'Biological, Aquatic Plants',
   'Microhabitat Type - Pool': 'Physical, Habitat',

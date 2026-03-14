@@ -624,6 +624,7 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
+  '******RENAMED': '',
   '*****RETIRED*4-Nonylphenol dodecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': 'NWIS',
@@ -19006,7 +19007,6 @@ export default {
     'Minnesota Pollution Control Agency; Request Date: 19-JUN-19',
   'Hexafluoropropylene oxide dimer acid ammonium salt':
     'PFOS, Perfluorooctane Sulfonate',
-  'Hexafluoropropylene oxide-dimer acid': '',
   'Hexafluoropropylene polymer': '',
   'Hexahydrohexamethyl cyclopentabenzopyran lactone': 'NWIS',
   'Hexakis (1H,1H,6H-Decafluorohexyloxy) phosphazine': '',
@@ -20816,9 +20816,9 @@ export default {
   'Microcystin mRR':
     'Organics, Other,11; New York State Department of Environmental Conservation  |  david.newman@dec.ny.gov; Request Date: 20-MAY-16',
   'Microcystin/nodularin genes mcyE/ndaF': 'NWIS',
-  Microcystins:
-    'Organics, Other,11; or cyanoginosins—are a class of toxins produced by certain freshwater cyanobacteria, commonly known as blue-green algae.; Request Date: 20-MAY-16',
   'Microcystins and nodularins': 'Organics, Other,11; Request Date: 08-JUN-17',
+  'Microcystins***retired***use Microcystin':
+    'Organics, Other,11; or cyanoginosins—are a class of toxins produced by certain freshwater cyanobacteria, commonly known as blue-green algae.; Request Date: 20-MAY-16',
   'Microcystins/nodularin': 'NWIS',
   'Microhabitat Type - Plant':
     '; Request Date: 05-JUL-17;Biological, Habitat, Aquatic Plants;71',
