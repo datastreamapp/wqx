@@ -56,6 +56,8 @@ export default {
   'Daily Median':
     'The  median value of a set (also known as the 50 Pctl), each period of a day cycle',
   'Daily Minimum': 'The smallest value of a set, each period of a day cycle',
+  'Daily Standard Deviation':
+    'Daily standard deviation measures volatility over a single day, while general standard deviation calculates dispersion over any specified period (e.g., annual, monthly).',
   Delta: 'The measurable difference between two points or results themselves',
   'Geometric Mean':
     'the geometric mean is a mean or average, which indicates the central tendency or typical value of a set of numbers by using the product of their values.',

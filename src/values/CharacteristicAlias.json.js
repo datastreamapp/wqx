@@ -643,6 +643,7 @@ export default {
     '*****RETIRED*Deiodo flubendiamide',
     '*****RETIRED*Diethylstilbesterol glucuronide',
     '*****RETIRED*Lambda-Cyhalothrin',
+    '---- retired-----Taxonomic richness, EPT----',
     '.ALPHA.-CHLORDENE',
     '.Alpha.,.Alpha.-Dimethylphenethylamine',
     '.Alpha.-Amino-2,3-Dihydro-5-Methyl-3-Oxo-4-Isoxazolepropanoic Acid',

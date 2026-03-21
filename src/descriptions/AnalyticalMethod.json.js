@@ -152,9 +152,12 @@ export default {
   1020: '',
   1022: '',
   1024: '',
+  1030: '',
   1104: '',
   1300: '',
   1301: '',
+  1311: '',
+  1312: '',
   1400: '',
   1401: '',
   1402: '',
@@ -174,7 +177,7 @@ export default {
   1551: '',
   1600: '1600 ~ EPA-OW . Enterococci in water by membrane filtration using mEI Agar',
   1601: '1601 ~ EPA-OW . Coliphage in water by two-step enrichment procedure',
-  1602: '',
+  1602: '1602 ~ EPA-OW . Coliphage in water by single agar layer (SAL)',
   1603: '',
   1604: '',
   1605: '1605 ~ EPA-OW . Aeromonas in Finished Water by Membrane Filtration',
@@ -184,7 +187,7 @@ export default {
   1610: '',
   1611: '',
   1612: '',
-  1613: '1613 ~ EPA-EAD . Dioxins and Furans by HRGC/HRMS',
+  1613: '',
   1614: '',
   1615: '',
   1616: '',
@@ -229,6 +232,7 @@ export default {
   1667: '',
   1671: '',
   1673: '1673 ~ EPA-EAD . PEG-600 by Derivatization and HPLC',
+  1681: 'Fecal Coliforms in Sewage Sludge (Biosolids) by MultipleTube Fermentation using A-1 medium',
   1682: '1682 ~ EPA-OW . Salmonella in Sewage Sludge (Biosolids) by MSRV Medium',
   1693: 'Procedure to concentrate, detect and enumerate Cryptosporidium and Giardia in disinfected wastewater',
   1694: '1694 ~ EPA-OW/OST . Pharmaceuticals and personal care products in water, soil, sediment, and biosolids by HPLC/MS/MS',
@@ -315,8 +319,11 @@ export default {
   3515: '',
   3516: '',
   3518: '',
+  3541: '',
+  3546: '',
   3570: '3570 ~ EPA-RCA . Organic Compounds from Solids by Microscale Solvent Extraction',
   3571: '',
+  3585: '',
   3700: '',
   3701: '',
   3702: '',
@@ -401,6 +408,7 @@ export default {
   6601: '',
   6602: '',
   6603: '',
+  6850: 'PERCHLORATE IN WATER, SOILS AND SOLID WASTES USING HIGH PERFORMANCE LIQUID CHROMATOGRAPHY/ELECTROSPRAY IONIZATION /MASS SPECTROMETRY (HPLC/ESI/MS OR HPLC/ESI/MS/MS)',
   7010: '',
   7013: '',
   7020: '',
@@ -446,6 +454,7 @@ export default {
   7461: '',
   7472: '',
   7473: '7473 ~ EPA-RCA . Mercury in Solids and Solutions by Thermal Decomposition and AA',
+  7474: 'MERCURY IN SEDIMENT AND TISSUE SAMPLES BY ATOMIC FLUORESCENCE SPECTROMETRY',
   7480: '',
   7481: '',
   7500: '',
@@ -505,7 +514,7 @@ export default {
   8030: '',
   8031: '8031 ~ EPA-RCA . Acrylonitrile in Water Using Gas Chromatography',
   8032: '',
-  8033: '8033 ~ EPA-RCA . Acetonitrile in Aqueous Matrices Using Gas Chromatography with Nitrogen-Phosphorus Detection',
+  8033: '',
   8034: '',
   8037: '',
   8038: '',
@@ -519,6 +528,7 @@ export default {
   8061: '',
   8070: '',
   8071: '',
+  8080: '',
   8081: '',
   8082: '',
   8091: '',
@@ -579,7 +589,7 @@ export default {
   8305: '',
   8306: '',
   8308: '',
-  8310: '8310 ~ EPA-RCA . Polynuclear Aromatic Hydrocarbons by HPLC Using Ultraviolet and Fluorescence Detectors',
+  8310: '',
   8311: '',
   8315: '',
   8316: '8316 ~ EPA-RCA . Acrylamide, Acrylonitrile, and Acrolein by HPLC',
@@ -837,6 +847,7 @@ export default {
   '1002.0**ret**use TEST METHOD 1002.0': 'DO NOT USE ~ ',
   '1002G': '',
   '100P': '100P EPA ASB.pdf',
+  '1010a': '',
   '10150 B':
     'Determining Chlorophyll a in the Presence of Pheophytin a.  https://www.standardmethods.org/doi/10.2105/SMWW.2882.253',
   '101A': '',
@@ -879,8 +890,7 @@ export default {
     '130 ~ NOAA NST . Capillary gas chromatography analysis for organic contaminates in marine sediments.',
   130.01:
     '130.01 ~ NOAA NST . Organic contaminates in marine animal tissues by GC-FPD',
-  130.1:
-    '130.1 ~ NOAA NST . Organic contaminants in marine sediments by GC-ECD',
+  130.1: '130.1 ~ EPA-NERL . Total Hardness by Spectrophotometer',
   130.11:
     '130.11 ~ NOAA NST . Organic contaminants in marine animal tissues by GC-ECD',
   130.2: '130.2 ~ EPA-NERL . Total Hardness of Water by Titrimetry',
@@ -1108,12 +1118,11 @@ export default {
   '220.2_M': '',
   221.1: '',
   '2241-2': '',
-  231.1: '',
+  231.1: '231.1 ~ EPA-NERL . Gold by Flame AA',
   231.2: '231.2 ~ EPA-NERL . Gold by Graphite Furnace AA',
   '2310 B': '',
   '2320 B': '',
-  '2320-B':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/9694/',
+  '2320-B': '2320B ~ Standard Methods . Alkalinity by Titration',
   '2330-B': '',
   '2340-B': 'https://lams.nelac-institute.org/TestMethodDetails?code=20046440',
   '2340B': '2340B ~ Standard Methods . Hardness in Water by EDTA Titration',
@@ -1169,8 +1178,7 @@ export default {
   '2530-C': '',
   '2540-B':
     '2540 B ~ Standard Methods . Total Solids Dried at 103-105<sup>o</sup>C',
-  '2540-C':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/9818/',
+  '2540-C': '',
   '2540-D':
     '2540 D ~ Standard Methods . Total Suspended Solids Dried at 103-105<sup>o</sup>C',
   '2540-E': 'Not current version URL: ',
@@ -1188,6 +1196,7 @@ export default {
   '2570-B': '',
   258.1: '258.1 ~ EPA-NERL . Potassium by Flame AA',
   '258.1_M': '',
+  '2580B': '',
   '25A': '',
   '25B': '',
   '25C': '',
@@ -1245,10 +1254,14 @@ export default {
   300.1: '300.1 ~ EPA-OGWDW/TSC . Anions in Water by IC',
   300.6: '',
   300.7: '',
+  '3005A': '',
   '300_M': '',
+  '3010A': '',
+  '3015A': '',
   '302***retired***use 302..0':
     'DO NOT USE ~ 302 ~ EPA-OGWDW/TSC . Bromate in Drinking Water Using 2-D IC With Suppressed Conductivity Detection',
   '302.0': '',
+  '3020A': '',
   '3030 E':
     '3030E / 3030 E ~ Standard Methods . Nitric Acid Digestion of Metals',
   '3030 F':
@@ -1271,6 +1284,8 @@ export default {
   305.1: '305.1 ~ EPA-NERL . Acidity by Titration',
   305.2: '',
   '3050B': '',
+  '3051A': '',
+  '3060A': '',
   '306A': '',
   '31-107-04-3-A': '',
   '31-107-04-4-A':
@@ -1388,7 +1403,7 @@ export default {
   '3500-CD(D)': '',
   '3500-CO(B)': '',
   '3500-CO(C)': '',
-  '3500-CR(B)': '3500-Cr B ~ Standard Methods . Chromium by Colorimetry',
+  '3500-CR(B)': '',
   '3500-CR(C)':
     '3500-Cr C ~ Standard Methods . Chromium by Ion Chromatographic Method',
   '3500-CR(D)': '',
@@ -1507,14 +1522,18 @@ export default {
   353.6: '',
   '3535A': '3535A ~ EPA-RCA . Solid-phase extraction for organic analytes.',
   354.1: '354.1 ~ EPA-NERL . Nitrite by Spectrophotometry',
+  '3540C': '',
   '3550A': '',
   '3550B':
     'Ultrasonic Extraction, http://www.cromlab.es/Articulos/Metodos/EPA/3000/3550B.PDF',
   '3550C':
     'http://www.epa.gov/solidwaste/hazard/testmethods/sw846/pdfs/3550c.pdf',
+  '3580A': '',
   360.1: '360.1 ~ EPA-NERL . Dissolve Oxygen by Membrane Electrode',
   360.2: '360.2 ~ EPA-NERL . Dissolved Oxygen Using a Modified Winkler Method',
+  '3610B': '',
   '3611B': '',
+  '3620C': '',
   '3630C': '',
   '3640A': '',
   365.1:
@@ -1530,6 +1549,8 @@ export default {
   '366***retired***use 366..0':
     'DO NOT USE ~ 366 ~ EPA-NERL . Silicate by Colorimetry',
   '366.0': '366 ~ EPA-NERL . Silicate by Colorimetry',
+  '3660B': '',
+  '3665A': '',
   370.1: '370.1 ~ EPA-NERL . Silica by Colorimetry',
   375.1: '375.1 ~ EPA-NERL . Sulfate by Colorimetry',
   375.2: '375.2 ~ EPA-NERL . Sulfate by Colorimetry',
@@ -1846,6 +1867,7 @@ export default {
   5.6: '',
   '50020B': '50020B ~ Abraxis . Spinosyn in water by Immunoassay, Coated Tube',
   502.1: '',
+  502.2: '',
   '502.2 (BY ELCD)':
     '502.2 (by ELCD) ~ EPA-NERL . VOCs in Water by GC/PID/ELCD',
   '502.2 (BY PID)': '502.2 (by PID) ~ EPA-NERL . VOCs in Water by GC/PID/ELCD',
@@ -1878,8 +1900,7 @@ export default {
   515.3: '515.3 ~ EPA-OGWDW/TSC . Chlorinated Acids by GC/ECD',
   515.4: '515.4 ~ EPA-OGWDW/TSC . Chlorinated Acids by GCECD',
   '520011SAES': '',
-  '5210-B':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/5715/',
+  '5210-B': '5210B ~ Standard Methods . BOD: 5-Day Test',
   '5210-C': '',
   '5220-B': '',
   '5220-C': '5220C ~ Standard Methods . COD by Closed Reflux, Titration',
@@ -1932,6 +1953,8 @@ export default {
   552.1: '552.1 ~ EPA-NERL . Haloacetic Acids and Dalapon in Water Using GCECD',
   552.2:
     '552.2 ~ EPA-OGWDW/TSC . Haloacetic Acids and Dalapon in Water Using GCECD',
+  552.3:
+    'DETERMINATION OF HALOACETIC ACIDS AND DALAPON IN DRINKING WATER BY LIQUID-LIQUID MICROEXTRACTION, DERIVATIZATION, AND GAS CHROMATOGRAPHY WITH ELECTRON CAPTURE DETECTION',
   '552.3REV1.0':
     '552.3rev1.0 ~ EPA-OGWDW/TSC . Haloacetic Acids and Dalapon in Drinking Water by Microextraction, Derivitization, and GC-ECD',
   '5520-B':
@@ -2134,6 +2157,7 @@ export default {
   '8000A': '',
   '8000B': '',
   '8000C': '',
+  '8000D': '',
   '8001(1)': '',
   '8001(2)': '',
   '8001(3)': '',
@@ -2196,8 +2220,10 @@ export default {
   '8120A': '',
   '8141(S)': ' in Sediment',
   '8141(W)': ' in Water',
+  '8141A': '',
   '8141A(S)': ' in Sediment',
   '8141A(W)': ' in Water',
+  '8141B': '',
   '8141B (BY GC-FPD)':
     '8141B (by GC-FPD) ~ EPA-RCA . Organophosphorus Compounds in Water, Soil, and Waste Samples by GC-FPD',
   '8141B (BY GC-NPD)':
@@ -2255,6 +2281,8 @@ export default {
   '8325(LLE)': '',
   '8330(S)': ' in Sediment',
   '8330(W)': ' in Water',
+  '8330A':
+    'NITROAROMATICS AND NITRAMINES BY HIGH PERFORMANCE LIQUID CHROMATOGRAPHY (HPLC)',
   '8330B': '8330B ~ EPA-RCA . Explosives by HPLC',
   '8331(S)': ' in Sediment',
   '8331(W)': ' in Water',
@@ -2275,9 +2303,12 @@ export default {
   901.1: '901.1 ~ EPA-NERL . Gamma Radionuclides Screening',
   '9010A(A)': '',
   '9010A(B)': '',
+  '9010B': 'Cyanide, Total and Amenable - Colorimetric, Manu',
+  '9010C': 'Cyanide, Total and Amenable - distillation',
   '9012A':
     '9012A ~ EPA-RCA . Cyanides, Total and Amenable (CN- Amenable) by Colorimetry',
   '9012B': '',
+  '9013A': '',
   '9020B': '',
   '903***retired***use 903..0':
     'DO NOT USE ~ 903 ~ EPA-ORD / EPA-OST . Alpha-Emitting Radium Isotopes in Drinking Water',
@@ -2307,6 +2338,7 @@ export default {
   '9060A':
     '9060A ~ EPA-RCA . Total Organic Carbon in water and wastes by Carbonaceous Analyzer',
   '9060AM': '',
+  '9070A': '',
   '9071A': '',
   '9071B':
     'https://www.epa.gov/sites/production/files/2015-12/documents/9071b.pdf',
@@ -2358,7 +2390,7 @@ export default {
   '9221-C': '',
   '9221-D': '',
   '9221-E':
-    '9221E ~ Standard Methods . Fecal coliforms by Multiple tube fermentation',
+    'Standard Methods (19th ed.) 9221-E (Multiple-Tube Fermentation Technique) MPN ',
   '9221-E.1': '',
   '9221-E.2': '',
   '9221-F': '',
@@ -2596,6 +2628,8 @@ export default {
   A00246: 'A00246 ~ MWI . Simazine in water by Immunoassay',
   A2540G:
     'Standard Method (19th ed.) 2540 G: TOTAL, FIXED AND VOLATILES IN SOLIDS AND SEMI-SOLID SAMPLES',
+  A406B: '',
+  A418C: '',
   A905904K:
     'Foppe Smedes, Analyst, 1999,124, 1711-1718 https://doi.org/10.1039/A905904K or https://pubs.rsc.org/en/content/articlehtml/1999/an/a905904k',
   'AES-0029': '',
@@ -2604,6 +2638,10 @@ export default {
   'AFS-WWSTC':
     'AFS-WWSTC ~ AFS . Fish collection in warmwater streams by electrofishing',
   'AG-625': 'AG-625 ~ Syngenta . Atrazine by Immunoassay',
+  AKP01:
+    'Nutrients, unfiltered water, acidified, alkaline-persulfate digestion, continuous flow colorimetry',
+  ALGOR:
+    'Hach-Hydrolab with Turner Designs Cyanobacteria (blue-green algae) submersible fluorescence sensor, in-vivo fluorescence, phycocyanin, excitation 590 nm, emission 650 nm',
   'AM-01': '',
   'AM-02': '',
   'AM-03(A)': '',
@@ -2611,8 +2649,21 @@ export default {
   'AM-03(W)': ' in Water',
   'AM-04-RC':
     'Am-04-RC ~ DOE EML . Americium and Plutonium by Ion Exchange and Alpha Spectrometry',
+  AM20GAX:
+    'Analytical Method AM20GAX is a specialized laboratory procedure used for the analysis of dissolved gases—specifically methane, ethane, and ethylene—in water samples. Developed by Microseeps (now Pace Analytical), this method utilizes a gas chromatography (GC) headspace equilibration technique, often as a modification of EPA method RSK-175.',
   'ANION-01': '',
   AQ4500: 'AQ4500 ~ Thermo-Scientific . Turbidity of Water by LED Nephelometry',
+  AS089:
+    'YSI 6131 blue-green algae (BGA-PC) sensor, phycocyanin, in-vivo fluorescence, excitation 590-595 nm, emission 650-670 nm',
+  AS094:
+    'Turner Designs SCUFA submersible fluorometer, in-vivo fluorescence, Cyanobacteria (blue-green algae), phycocyanin, excitation 590 nm, emission 670 nm',
+  AS101:
+    'Turner Designs CYCLOPS-7 submersible fluorometer, in-vivo fluorescence, Cyanobacteria (blue-green algae), phycocyanin, excitation 590 nm, emission 645-715 nm',
+  AS102: 'Computation by NWIS algorithm',
+  AS105: 'Carbon-14, Solid Material, by Accelerator Mass Spectrometry (AMS)',
+  AS110: 'Carbon-14, Water, Unfiltered, by Accelerator Mass Spectrometry (AMS)',
+  ASM01:
+    'Americium-241, bed sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   ASPILA: 'https://pubmed.ncbi.nlm.nih.gov/1259177/',
   'ASTM 3972-02':
     'ASTM 3972-02 ~ ASTM . Uranium isotopes in water by chemical separations and alpha pulse-height analysis.',
@@ -2681,7 +2732,11 @@ export default {
   B8100: '',
   B8120: '',
   B8502: '',
+  BAC19: 'Americium-241, Suspended, by Alpha Spectrometry',
   'BACANTR-SG': 'Bacantr-SG ~ EPA-OW . Bacillus anthracis - Sentinel Procedure',
+  BAROM: 'Americium-241, Water, Filtered, by Alpha Spectrometry',
+  BC009:
+    'Americium-241, water, unfiltered @ 0.1 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   'BIOO-1018':
     'BIOO-1018 ~ Bioo Scientific . Malachite Green Water Test - column-based',
   BREVELCMS: 'BreveLCMS ~ EPA-OW . Brevetoxin in water by LCMS',
@@ -2713,6 +2768,8 @@ export default {
   'CA-02': '',
   'CAB-EC-1-2001':
     'CAB-EC-1-2001 ~ EnvCanada-NWRI . Benthic Invertebrate sample collection. 3 minute kicknet in wadeable streams',
+  CAL06:
+    'Americium-241, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
   'CDC - E. coli and Shigella': '',
   'CDC - S. TYPHI':
     'CDC - S. Typhi ~ CDC . Salmonella Typhi in Isolates by Real-time Polymerase Chain Reaction.',
@@ -2741,6 +2798,19 @@ export default {
   'CHEM-TP-SR.1':
     'CHEM-TP-SR.1 ~ DOE RESL . Strontium-90 in Soil, Water, and Filter Samples',
   'CHEM-TP-SR.7': 'CHEM-TP-SR.7 ~ DOE RESL . Sr-90 Carbonate Method',
+  CL020: 'Americium-241, suspended sediment, pCi/g, by alpha spectrometry',
+  CL021: 'Americium-241, Water, Filtered, by Alpha Spectrometry',
+  CL037:
+    'Americium-241, water, unfiltered, by alpha spectrometry (analysis by Eberline Services)',
+  CL041: 'G.ALPHA, FIL, U-NA',
+  CL048:
+    'Gross alpha radioactivity, Thorium-230 curve, with data package, water, filtered (analysis by Eberline Services)',
+  CL050:
+    'Gross alpha radioactivity, Thorium-230 curve, with data package, water, filtered, pCi/L, high solids',
+  CL053:
+    'Gross alpha radioactivity, Thorium-230 curve, with data package, water, unfiltered, pCi/L, 30 day recount',
+  CL057:
+    'Gross alpha radioactivity, Thorium-230 curve, with data package, water, unfiltered, pCi/L, 72 hours',
   COLILERT:
     'Colilert ~ IDEXX . Coliform/E. coli Enzyme substrate test. ONPG-MUG test',
   'COLILERT-18':
@@ -2751,6 +2821,12 @@ export default {
     'Coliscan ~ Micrology Labs . E. coli and other coliform bacteria by Coliscan MF',
   COLISURE:
     'Colisure ~ IDEXX . Coliform/E. coli Enzyme substrate test. CPRG-MUG test',
+  COMB6:
+    'Gross alpha radioactivity, Thorium-230 curve, 30 day recount, water, filtered',
+  COMB7:
+    'Gross alpha radioactivity, Thorium-230 curve, count within 72 hours, water, filtered',
+  COMB9:
+    'Gross alpha radioactivity, Thorium-230 curve, with data package, water, filtered',
   'CONTINUOUS DATA':
     'Guidelines and Standard Procedures for Continuous Water-Quality Monitors: Station Operation, Record Computation, and Data Reporting ~ USGS . Wagner, R.J., Boulger, R.W., Jr., Oblinger, C.J., and Smith, B.A.',
   'CP-85.01': '',
@@ -2791,6 +2867,9 @@ export default {
   'CTM-006': '',
   'CTM-010': '',
   'CTM-011': '',
+  CV014:
+    'Gross alpha radioactivity, Thorium-230 curve, with data package, water, filtered, pCi/L',
+  CV018: 'Gross alpha, high solids (HS), FIL, U curve, lab filtered (LF)',
   'CVAA Mercury':
     'https://www.pacelabs.com/assets/documents/Environmental/capabilities-2015.pdf',
   CalCOFI: '',
@@ -3350,6 +3429,9 @@ export default {
   EASYGEL:
     'Easygel ~ Micrology Labs . E. coli and other coliform bacteria by Coliscan Easygel method',
   'ECO METHOD': 'Ecological Methodology ~  . Krebs, C.J.',
+  EL003:
+    'Gross alpha, high solids (HS), Thorium-230 curve, FIL, lab filtered (LF)',
+  EL006: 'Gross alpha, high solids (HS), co-precipitation, Uranium, FIL',
   ENTEROLERT: 'Enterolert ~ IDEXX . Enterolert',
   'ENVIRONMENT STANDARD':
     "Setting Environmental Standards: The Statistical Approach to Handling Uncertainty and Variation ~ NTU UK . Barnett, Vic and O'Hagan, A.",
@@ -3388,6 +3470,19 @@ export default {
     'G-03 ~ DOE EML . Microprecipitation Source Preparation for Alpha Spectrometry',
   'GC/MS':
     'https://www.pacelabs.com/assets/documents/Environmental/capabilities-2015.pdf',
+  GCM29: 'Gross alpha, Thorium-230 curve, SUS, lab filtered (LF)',
+  GCM31:
+    'Gross-Alpha radioactivity, Thorium-230 curve, water, unfiltered, pCi/L',
+  GCM33: 'Gross-Alpha, Bottom Material, Thorium-230 curve',
+  GCM35: 'Gross-Alpha, Suspended, Thorium-230 Curve',
+  GCM39:
+    'Gross-Alpha, Water, Filtered, High Solids, Thorium-230 curve, by Co-precipitation',
+  GCM40:
+    'Gross-Alpha, Water, Filtered, Thorium-230 curve, by Residue Procedure',
+  GF075:
+    'Plutonium-238, bed sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  GRV28:
+    'Plutonium-238, suspended sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   'GWPD 1':
     'D ~ USGS . GWPD 1-Measuring water levels by use of a graduated steel tape',
   'GWPD 17':
@@ -4063,6 +4158,12 @@ export default {
     'I-7499 ~ USGS-NWQL . Nickel, suspended recoverable, calculation from FLAA',
   I7500: '',
   I7552: '',
+  IC003:
+    'Plutonium-238, water, filtered, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  IC004:
+    'Plutonium-238, water, unfiltered, @ 0.1 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  IC022:
+    'Plutonium-238, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
   'ICP-AES': '',
   IDUSR_WQ01:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=IDUSR_WQ01',
@@ -4166,19 +4267,39 @@ export default {
   'IP-7-A': '',
   'IP-7-B': '',
   'IP-8': '',
+  ISE04:
+    'Plutonium-238, suspended sediment, by alpha spectrometry (analysis by Eberline Services)',
+  ISE05:
+    'Plutonium-238, water, filtered, by alpha spectrometry (analysis by Eberline Services)',
   'ISM01.3_CN': 'EPA Inorganic Superfund Methods 1.3',
   'ISM01.3_HG': 'EPA Inorganic Superfund Methods 1.3',
   'ISM01.3_ICP/AES': 'EPA Inorganic Superfund Methods 1.3',
   'ISM01.3_ICP/MS': 'EPA Inorganic Superfund Methods 1.3',
   'ITM-001': '',
   'KELADA-01': '',
+  KJ002:
+    'Plutonium-238, water, unfiltered, by alpha spectrometry (analysis by Eberline Services)',
+  KJ004:
+    'Plutonium-239/240, bottom material, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  KJ005:
+    'Plutonium-239/240, suspended sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  KJ008:
+    'Plutonium-239/240, water, filtered, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  KJ009:
+    'Plutonium-239/240, water, unfiltered, @ 0.1 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   'KR-01': '',
+  LCM29:
+    'Plutonium-239/240, bottom material, by alpha spectrometry (analysis by Eberline Services)',
   LC_PEST: '',
   LC_SV: '',
   LC_VOA: '',
   'LIPIDS MIXED METHODS': '',
   LOADEST:
     'Load Estimator (LOADEST): A FORTRAN Program for Estimating Constituent Loads in Streams and Rivers ~ USGS . Runkel, R.L., Crawford, C.G., and Cohn, T.A.',
+  LSC14:
+    'Plutonium-239/240, suspended sediment, by alpha spectrometry (analysis by Eberline Services)',
+  LUMIN:
+    'Plutonium-239/240, water, filtered, by alpha spectrometry (analysis by Eberline Services)',
   'Lipids Mixed Methods':
     'Biological Tissue Analysis - Analytes: Lipids (fat content)  In House SOP,   https://www.pacelabs.com/environmental-services/specialty-services/biological-tissue-analysis/methods.html',
   'M-01': '',
@@ -4211,6 +4332,8 @@ export default {
     'This method follows the procedures published by Liang, Bloom and Horvat in Clinical Chemistry (Vol 40, No 4, 1994). Samples are homogenized and then digested in a methanolic potassium hydroxide solution. An aliquot of the digestate is analyzed by aqueous phase ethylation, purge and trap, desorption and GC separation. The separated species are then pyrolized to elemental Hg and quantified by cold vapour atomic fluorescence spectroscopy. Results are reported ""as MeHg"".',
   'MEHG-WET-GCAFS':
     'This method follows the procedures published by Liang, Bloom and Horvat in Clinical Chemistry (Vol 40, No 4, 1994). Samples are homogenized and then digested in a methanolic potassium hydroxide solution. An aliquot of the digestate is analyzed by aqueous phase ethylation, purge and trap, desorption and GC separation. The separated species are then pyrolized to elemental Hg and quantified by cold vapour atomic fluorescence spectroscopy. Results are reported ""as MeHg"".',
+  MEMBR:
+    'Plutonium-239/240, water, unfiltered, by alpha spectrometry (analysis by Eberline Services)',
   'MET-TDIG': 'https://www.alsglobal.com/en/Search#q=Biological%20Tissue%20',
   'MLA-110 Rev 02':
     'Per-and Polyfluoroalkyl Substances (PFAS) Analysis NEW! DoD ELAP Accreditation for PFAS Draft EPA 1633',
@@ -4219,6 +4342,12 @@ export default {
   MM100: 'MM100 ~ DOE . ICP/MS Radionuclide Analyses',
   MM210: '',
   MM800: 'MM800 ~ DOE . ICP/MS of Uranium in Water',
+  MS007:
+    'Polonium-210, bed sediment, by alpha apectrometry (analysis by Severn-Trent Laboratory)',
+  MS020:
+    'Polonium-210, suspended sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  MS042:
+    'Polonium-210, water, filtered, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   MS100: '',
   MS110: '',
   MS210: '',
@@ -4550,6 +4679,11 @@ export default {
   'OS040(W)': ' in Water',
   'OSW-A': '',
   'OSW-B': '',
+  OTSD: 'Polonium-210, bed sediment, by alpha apectrometry (analysis by Eberline Services)',
+  OX006:
+    'Polonium-210, suspended sediment, by alpha spectrometry (analysis by Eberline Services)',
+  OX008:
+    'Polonium-210, water, filtered, by alpha spectrometry (analysis by Eberline Services)',
   'P-001-1': '',
   'P-002-1': '',
   'P-003-1': '',
@@ -4597,6 +4731,27 @@ export default {
   'PHOS-3': '',
   'PHOS-4': '',
   'PHOS-5': '',
+  PLA11:
+    'Polonium-210, water, unfiltered, pCi/L, pCi/L,, by alpha spectrometry',
+  PLA13:
+    'Radium-224, water, filtered, @ 1.0 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  PLA14: 'Radium-224, bed sediment, pCi/g, by alpha spectrometry',
+  PLA15: 'Radium-224, suspended sediment, pCi/g, by alpha spectrometry',
+  PLM10:
+    'Radium-224, water, filtered, by alpha spectrometry (analysis by Eberline Services)',
+  PLM11: 'Radium-224, water, unfiltered, pCi/L, by alpha spectrometry',
+  PLM13: 'Radium-226, Water, Filtered, @ 1.0 pCi/L, by Alpha Spectrometry',
+  PLM40: 'Radium-226, bed sediment, pCi/g, by alpha spectrometry',
+  PLM43: 'Radium-226, water, filtered, pCi/L, by alpha spectrometry',
+  PLM46: 'Radium-226, water, unfiltered, pCi/L, by alpha spectrometry',
+  PLM47:
+    'Thorium-228, bed sediment, @ 0.1 pCi/g, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  PLM48:
+    'Thorium-228, water, filtered, @ 1.0 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  PLO01:
+    'Thorium-228, water, filtered, by alpha spectrometry (analysis by NWQL)',
+  PLO03:
+    'Thorium-228, water, unfiltered @ 0.4 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   'PM-01': '',
   'PM-02': '',
   'PMD-ACA': '',
@@ -4900,6 +5055,8 @@ export default {
   'PO_02(W)': ' in Water',
   'PREDICTIVE MODELING':
     'RIVPACS-type predictive modeling ~ EPA . Van Sickle, J.',
+  PROBE:
+    'Thorium-228, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
   PSWMRU_WQ10:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=PSWMRU_WQ10',
   PSWMRU_WQ11:
@@ -4940,9 +5097,19 @@ export default {
   'Percent Moisture':
     'Biological Tissue Analysis - Percent Moisture  In House SOP, https://www.pacelabs.com/environmental-services/specialty-services/biological-tissue-analysis/methods.html',
   Pole: 'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users.',
+  'Q-EST':
+    'Thorium-228, water, filtered, by alpha spectrometry (analysis by Eberline Services)',
+  QADCP: 'Thorium-228, suspended sediment, pCi/L, by alpha spectrometry',
   QAPP: 'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=QAPP',
+  QFLUM:
+    'Thorium-228, water, unfiltered, by alpha spectrometry (analysis by Eberline Services)',
+  QSCMM:
+    'Thorium-230, bed sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  QSTGQ:
+    'Thorium-230, suspended sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   'QUALITY ASSESSMENT':
     'Data Quality Assessment: Statistical Methods for Practitioners ~ EPA-QUALITY . U.S. Environmental Protection Agency',
+  QVOLM: 'Thorium-230, Water, Filtered, @ 1.0 pCi/L, by Alpha Spectrometry',
   'Quanti-Tray/2000':
     'IDEXX Quanti-Tray/2000 is designed to give quantitated bacterial counts of 100 ml samples using IDEXX Defined Substrate Technology reagent products.',
   'R-001-1': '',
@@ -4980,12 +5147,18 @@ export default {
   RA010: '',
   RA020: '',
   RBP: 'Rapid Boassessment Protocols for Use in Wadeable Streams and Rivers: Periphyton, Benthic Macroinvertebrates, and Fish ~ EPA . Barbour, M.T., Gerritsen, J., Snyder, B., and Stribling, J.B.',
+  RED01:
+    'Thorium-230, water, unfiltered @ 0.4 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  RED02:
+    'Thorium-230, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
   'REDOX GW':
     'Excel® Workbook for Identifying Redox Processes in Ground Water ~ USGS . Jurgens, Bryant C., McMahon, Peter B., Chapelle, Francis H., and Eberts, Sandra M.',
   RI010: '',
   RI100: '',
   'RM8-10': '',
   'RN-01': '',
+  ROE10:
+    'Thorium-230, suspended sediment, by alpha spectrometry (analysis by Eberline Services)',
   RP230: '',
   RP280: '',
   RP300: '',
@@ -5018,6 +5191,7 @@ export default {
   SAGWMD:
     'Statistical Analysis of Groundwater Monitoring Data at RCRA Facilities - Unified Guidance ~ EPA . USEPA',
   'SAMP-U,RA': 'Samp-U,Ra ~ DOE EML . Uranium and Radium in Water',
+  SC001: 'Thorium-230, water, filtered, pCi/L, by alpha spectrometry',
   SDRU_WQ02:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ02',
   SDRU_WQ03:
@@ -5032,6 +5206,16 @@ export default {
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ11',
   'SE-01': '',
   'SE-03': 'Se-03 ~ DOE EML . Americium, Plutonium and Uranium in Water',
+  SED02:
+    'Thorium-232, bed sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  SED09:
+    'Thorium-232, suspended sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  SED10:
+    'Thorium-232, water, filtered, @ 1.0 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  SED16:
+    'Thorium-232, water, unfiltered @ 0.4 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  SED30:
+    'Thorium-232, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
   'SFAM01.1':
     'SFAM01.1 ~ USEPA . https://www.epa.gov/clp/superfund-analytical-methods-sfam011 The Superfund CLP Organic and Inorganic analytical services are presented in the Superfund Analytical Methods (SFAM01.1) Statement of Work (SOW). This SOW defines the analytical methods for the isolation, detection, and quantitative measurement of 54 Trace Volatiles [5 analytes by Selected Ion Monitoring (SIM)], 54 Low/Medium Volatiles, 71 Semivolatiles (20 analytes by SIM), 21 Pesticides, 9 Aroclors, 23 metals (including Mercury), Cyanide, Anions, Hexavalent Chromium, and Total Organic Carbon (TOC) in aqueous/water, soil/sediment, waste, or wipe samples as applicable. In addition, the SOW specifies procedures for percent solids, pH and the leaching of samples by the Toxicity Characteristic Leaching Procedures (TCLP) and the Synthetic Precipitation Leaching Procedure (SPLP).',
   SFSAS_1: '',
@@ -5069,8 +5253,12 @@ export default {
     'SGS AXYS Method MLA-080: analytical procedure for the analysis of alkylphenols and alkylphenol ethoxylates in tissue by LC-MS/MS.',
   SGS_AXYS3:
     'SGS AXYS Method MLA-115: analytical method for the determination of triclosan and methyl triclosan in tissues by GC/HRMS.',
+  SHC02:
+    'a propriety analytical method for measuring ammonia in filtered water using a discrete analyzer with a salicylate colorimetric technique',
   'SIMILARITY ANALYSIS': 'Mean Similarity Analysis ~ EPA . Van Sickle, J.',
   SIMPLATE: 'SimPlate ~ IDEXX . SimPlate for HPC',
+  SLD04:
+    'Thorium-232, water, filtered, by alpha spectrometry (analysis by Eberline Services)',
   SM2310B: '',
   SM2310B4a: '',
   SM2310B4d: '',
@@ -5112,6 +5300,8 @@ export default {
   'SR-04': '',
   'SR-04-RC':
     'Sr-04-RC ~ DOE EML . Strontium-90 in Water Containing Other Radioisotopes by Cerenkov Counting',
+  SSM01:
+    'Thorium-232, water, unfiltered, by alpha spectrometry (analysis by Eberline Services)',
   'STATISTICAL METHODS':
     'Using Statistical Methods for Water Quality Management ~ NIWA . McBride, Graham B.',
   'STATISTICAL PRIMER':
@@ -5170,6 +5360,12 @@ export default {
   'TEST METHOD 2021.0':
     'Test Method 2021.0 ~ EPA-OW . Acute Toxicity Tests with Effluents and Receiving Waters using Daphnia',
   'TH-01': '',
+  THM01: 'Uranium Curve, Gross Alpha, SUS',
+  THM02:
+    'Uranium-234, bed sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  THM04:
+    'Uranium-234, suspended sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  THM05: 'Uranium-234, Water, Filtered, by Alpha Spectrometry',
   'THODS FOR ECOLOGISTS':
     'Ordination Methods for Ecologists ~ Ok St U . Palmer, M.',
   'TM1-D5 Data Collection': '',
@@ -5182,7 +5378,9 @@ export default {
   'TO-11': '',
   'TO-12': '',
   'TO-13': '',
+  'TO-13A': '',
   'TO-14': '',
+  'TO-14A': '',
   'TO-14B': '',
   'TO-15': '',
   'TO-15-SIM':
@@ -5200,6 +5398,22 @@ export default {
   'TO15***retired*** TO-15':
     'DO NOT USE ~ https://www3.epa.gov/ttn/amtic/files/ambient/airtox/to-15r.pdf',
   TOXG: 'ToxG ~ EPA-OW . Toxoplasma gondii (ToxG) by Real-Time-PCR',
+  TS098:
+    'Uranium-234, water, unfiltered @ 0.1 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  TT013:
+    'Uranium-234, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
+  TT017:
+    'Uranium-234, suspended sediment, by alpha spectrometry (analysis by Eberline Services)',
+  TT019:
+    'Uranium-234, water, unfiltered, by alpha spectrometry (analysis by Eberline Services)',
+  TT023:
+    'Uranium-235, bed sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  TT040:
+    'Uranium-235, suspended sediment, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  TT057:
+    'Uranium-235, water, filtered, by alpha spectrometry (analysis by NWQL)',
+  TT061:
+    'Uranium-235, water, unfiltered @ 0.1 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   'TWRI (SUSP SED CONC)':
     'TWRI BK 5 CH1 (Susp Sed Conc) ~ USGS . Suspended-sediment concentration in water by filtration or evaporation',
   'TWRI (SUSP SED FINE)':
@@ -5225,6 +5439,8 @@ export default {
   'USDA HWQ3': 'USDA HWQ3 ~ USDA-ARS . Automated Storm Water Sampling',
   'USDA HWQ4':
     'USDA HWQ4 ~ USDA-ARS . Estimating Uncertainty in Measured Discharge and Water Quality Data',
+  UV002:
+    'Uranium-235, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
   'VA-001-1': '',
   'VA-002-1': '',
   'VA-003-1': '',
@@ -5266,6 +5482,8 @@ export default {
   'VW-013-1': '',
   'VW-014-1': '',
   WARP: 'Watershed Regressions for Pesticides (WARP) ~ USGS NAWQA . US Geological Survey',
+  WHT03:
+    'Uranium-235, suspended sediment, by alpha spectrometry (analysis by Eberline Services)',
   'WI DNR BMI KICK':
     'WI DNR BMI Kick ~ WDNR Fish Habitat . Guidelines for Collecting Macroinvertebrate Samples from Wadable Streams in Wisconsin',
   WRTDS:

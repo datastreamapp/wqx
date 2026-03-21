@@ -644,6 +644,7 @@ export default {
   '*****RETIRED*Deiodo flubendiamide': 'NWIS',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
   '*****RETIRED*Lambda-Cyhalothrin': 'λ-Cyhalothrin',
+  '---- retired-----Taxonomic richness, EPT----': '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -28134,7 +28135,6 @@ export default {
     'The number of species, this is a diversity measure.; Request Date: 02-MAR-07',
   'Taxonomic Richness, Ephemeroptera, Plecoptera, Tricoptera':
     'An indicator of water quality based upon community diversity.; Request Date: 02-MAR-07',
-  'Taxonomic richness, EPT': '',
   'Taxonomic richness, weighted': '',
   'Taxonomic unit, assigned': 'NLA OEModel; Request Date: 31-MAY-16',
   'Taxonomic, pollution tolerance value (PTV) 2-4': '',
