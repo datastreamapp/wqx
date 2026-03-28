@@ -185,6 +185,12 @@ export default {
   'Pole-MassWateR':
     'This method involves the collection of a surface water sample using a water bottle affixed to a poll, typically extended from shore. This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
   Radiello: '21-day indoor air sampling with Radiello carbon cartridges',
+  'Reserved-RENAME':
+    'Depth Integrated Water Chemistry Sampling Method (EWI or EDI)',
+  'Reserved-RENAME1':
+    'Depth Integrated Water Chemistry Sampling Method (EWI or EDI)',
+  'Reserved-RENAME2':
+    'Depth Integrated Water Chemistry Sampling Method (EWI or EDI)',
   'SP-Macro': 'Benthic Macroinvertebrate Sampling',
   'SP-Water': 'Water Grab Sampling',
   'SWAMP Bioassessment 2016':
@@ -228,6 +234,6 @@ export default {
     'Sample collected in-stream while wading in from bank. Sample taken in water bottle with "scoop" method 6-12 inches below surface in flowing current.',
   'Water Sampling Device-MassWateR':
     'This method involves the collection of a water sample by lowering a sampling container to depth and using a physical or mechanical method of closing the container (e.g., Lamotte, Rosette, Van Dorn). This is a generic method intended for use by MassWateR users. https://massbays-tech.github.io/MassWateR/',
-  'Water_Depth-Int.':
+  Water_Depth_Int:
     'Depth Integrated Water Chemistry Sampling Method (EWI or EDI)'
 }

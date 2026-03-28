@@ -504,6 +504,8 @@ export default {
   8011: '8011 ~ EPA-RCA . EDB and DBCP by Microextraction and Gas Chromatography',
   8012: '8012 ~ Hach Co. . Aluminum in water by Aluminon Indicator',
   8013: '',
+  8015: 'Analyzes nonhalogenated volatile organics (like alcohols/ketones) and Gasoline/Diesel Range Organics (GRO/DRO) using Flame Ionization Detection.',
+  8020: 'Legacy method for BTEX (Benzene, Toluene, Ethylbenzene, Xylene) using Photoionization Detection. Often replaced by 8021 or 8260.',
   8021: '',
   8023: '',
   8024: '',
@@ -525,6 +527,7 @@ export default {
   8048: '8048 ~ Hach Co. . Orthophosphate by Colorimetry',
   8049: '',
   8051: '',
+  8060: 'Specifically targets phthalate esters in water and soil extracts using Electron Capture Detection.',
   8061: '',
   8070: '',
   8071: '',
@@ -544,6 +547,7 @@ export default {
   8141: '',
   8146: '',
   8149: '0.006 to 0.700 mg/L Mn (LR).  Scope and application: For water and wastewater. digestion is necessary for total manganese determinations. Adapted from Goto, K., et al., Talanta, 24, 652-3 (1977). https://www.hach.com/asset-get.download.jsa?id=7639983728',
+  8151: 'Analyzes acidic herbicides (like 2,4-D) through extraction and derivatization to esters.',
   8155: 'http://www.hach.com/asset-get.download.jsa?id=7639982436',
   8156: '8156 ~ Hach Co. . pH in Water',
   8157: '',
@@ -574,7 +578,9 @@ export default {
   8230: '',
   8233: '',
   8237: '',
+  8240: 'Legacy method for VOCs using packed-column Gas Chromatography/Mass Spectrometry.',
   8241: '',
+  8270: 'The base method for a wide range of semivolatile organic compounds (Phenols, PAHs, Phthalates) by capillary GC/MS.',
   8271: '',
   8275: '',
   8276: '',
@@ -597,6 +603,7 @@ export default {
   8323: '',
   8326: '0.006 to 0.250 mg/L Al3+.  Scope and application: For water.  Adapted from Standard Methods for the Examination of Water and Wastewater. https://www.hach.com/asset-get.download-en.jsa?id=7639983676',
   8327: 'https://www.epa.gov/hw-sw846/validated-test-method-8327-and-polyfluoroalkyl-substances-pfas-using-external-standard',
+  8330: 'Analyzes nitroaromatics and nitramines (explosive residues) in water and soil using High-Performance Liquid Chromatography.',
   8332: '',
   8334: '',
   8368: '',
@@ -609,10 +616,12 @@ export default {
   8520: '',
   9000: '',
   9002: '',
+  9010: 'Uses distillation and colorimetry to measure cyanide species in aqueous and solid samples.',
   9012: '',
   9013: '',
   9014: '',
   9016: 'https://www.epa.gov/hw-sw846/validated-test-method-9016-free-cyanide-water-soils-and-solid-wastes-microdiffusion',
+  9020: 'Measures the total concentration of organic halides in water by carbon adsorption and titration.',
   9021: '',
   9022: '',
   9023: '',
@@ -621,6 +630,7 @@ export default {
   9035: '',
   9036: '',
   9038: '',
+  9040: 'Standard procedure for determining the pH of aqueous samples using a pH meter and glass electrode.',
   9050: '',
   9056: '',
   9057: '',
@@ -702,6 +712,8 @@ export default {
   76300: '76300 ~ MWI . Lindane in soils/sediment by immunoassay',
   77000: '',
   78900: '78900 ~ MWI . Picloram in water by Immunoassay',
+  82080:
+    'A legacy STORET/Region 5 parameter code used to report the elevation of water levels (in feet) above a datum (e.g., NGVD 1929).',
   481297: '',
   481300: '',
   500001: '500001 ~ Abraxis . Atrazine by Immunoassay, Magnetic Particle',
@@ -1683,6 +1695,7 @@ export default {
   '4500-CN-F***retired*** 4500-CN(F)': 'DO NOT USE ~ ',
   '4500-CO2(B)': '',
   '4500-CO2(C)': '',
+  '4500-CO2(D)': '250-mL amber glass',
   '4500-Cl D***retired**/ 4500-CL(D)': 'DO NOT USE ~ ',
   '4500-Cl G***retired**/ 4500-CL-(G)': 'DO NOT USE ~ ',
   '4500-Cl- B***retired**/ 4500-CL-(B)': 'DO NOT USE ~ ',
@@ -1788,8 +1801,7 @@ export default {
   '4500-NORGB':
     '4500-NorgB ~ Standard Methods . Nitrogen, organic, in Water by Macro-Kjeldahl',
   '4500-O-B': '',
-  '4500-O-C':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7389/',
+  '4500-O-C': '4500-O C ~ Standard Methods . Oxygen by Azide Modification',
   '4500-O-D': '',
   '4500-O-E': '',
   '4500-O-F': '',
@@ -1806,8 +1818,7 @@ export default {
   '4500-P F***retired*** 4500-P-F': 'DO NOT USE ~ ',
   '4500-P-C': '',
   '4500-P-D': '',
-  '4500-P-E':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7436/',
+  '4500-P-E': '4500-P E ~ Standard Methods . Phosphorus by Ascorbic Acid',
   '4500-P-F': '',
   '4500-P-G': 'https://www.standardmethods.org/doi/10.2105/SMWW.2882.093',
   '4500-P-H': '',
@@ -1820,7 +1831,8 @@ export default {
   '4500-S-2 F***.retired***4500-S2(F)':
     '4500-S-2 F ~ Standard Methods . Sulfide in Water by Iodometric Method',
   '4500-S2 F***retired*** 4500-S2(F)': 'DO NOT USE ~ ',
-  '4500-S2(D)': '4500-S2- D ~ Standard Methods . Sulfide by Methylene Blue',
+  '4500-S2(D)':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7418/',
   '4500-S2(E)': '',
   '4500-S2(F)': '4500-S2- F ~ Standard Methods . Sulfide by Iodometry',
   '4500-S2(G)':
@@ -2103,6 +2115,8 @@ export default {
   '7110-B': '7110 B ~ Standard Methods . Gross Alpha-Beta Evaporation Method',
   '7110-C':
     '7110 C ~ Standard Methods . Gross Alpha Radioactivity by Coprecipitation',
+  '7110-D':
+    'Expedited Approval of Alternative Test Procedures for the Analysis of Contaminants Under the Safe Drinking Water Act; Analysis and Sampling Procedures. SM 7110 D utilizes Liquid Scintillation Counting (LSC) for simultaneous alpha/beta',
   '7120B':
     '7120B ~ Standard Methods . Gamma-emitting isotopes by Gamma Spectroscopic Method',
   '7131 A***retired***use 7131A': 'DO NOT USE ~ ',
@@ -2176,6 +2190,8 @@ export default {
   '8015M':
     'Recommended for determining total petroleum hydrocarbons in soils, sediments, and solid wastes. 8015M is a known modification of Method 8015B that provides an analysis of motor oil range organics. Sources: http://ocdimage.emnrd.state.nm.us/imaging/filestore/SantaFeAdmin/CF/259041/15239_58_CF.pdf https://www.sigmaaldrich.com/technical-documents/articles/analytical-applications/gc/us-epa-method-8015-modified-gc-analysis-of-gasoline-range-organics-gro-g005229.html',
   '8020A': '',
+  '8021A':
+    'Analyzes aromatic and halogenated volatiles using dual detectors (PID and Electrolytic Conductivity Detector).',
   '8021A(ELCD)': '',
   '8021A(PID)': '',
   '8021B': '',
@@ -2233,6 +2249,8 @@ export default {
   '8151(W)': ' in Water',
   '8151A':
     '8151A ~ EPA-RCA . Chlorinated Herbicides and Related Compounds in Water, Soil, and Waste Samples by Capillary GC-ECD',
+  '8151B':
+    'The updated version of 8151, providing improved precision for herbicide extraction and analysis.',
   '818-87T': '',
   '8240B': '',
   '8240B(S)': ' in Sediment',
@@ -2248,6 +2266,10 @@ export default {
     'Selected ion monitoring (SIM) is a major application for GC-MS and allows the instrument to be used in its most sensitive mode for quantitative measurements.',
   '8260M':
     "Total Petroleum Hydrocarbons - Gasoline Range (TPH-g) are relatively short hydrocarbons that easily evaporate and are flammable. Total Petroleum Hydrocarbons - (TPH-d) are medium length hydrocarbons that don't evaporate as well as the smaller compounds, but do produce a lot of energy when burned.",
+  '8270 (SIM)':
+    'Uses "Selected Ion Monitoring" to achieve much lower detection limits for specific SVOCs like 1,4-Dioxane.',
+  '8270A': 'Revision A of the primary SVOC protocol.',
+  '8270B': 'Revision B of the primary SVOC protocol.',
   '8270B(S)': ' in Sediment',
   '8270B(W)': ' in Water',
   '8270C': '',
@@ -2263,6 +2285,8 @@ export default {
   '8275A': '',
   '8280(S)': ' in Sediment',
   '8280(W)': ' in Water',
+  '8280A':
+    'Analyzes Polychlorinated Dibenzo-p-Dioxins and Dibenzofurans using Low-Resolution GC/MS.',
   '8280A(O)': '',
   '8280A(S)': ' in Sediment',
   '8280A(W)': ' in Water',
@@ -2301,6 +2325,7 @@ export default {
   '900.0': '',
   900.1: '',
   901.1: '901.1 ~ EPA-NERL . Gamma Radionuclides Screening',
+  '9010A': 'Revision A of the cyanide distillation protocol.',
   '9010A(A)': '',
   '9010A(B)': '',
   '9010B': 'Cyanide, Total and Amenable - Colorimetric, Manu',
@@ -2385,7 +2410,8 @@ export default {
   '9215-C': '',
   '9215-D': '',
   '9216-B': '',
-  '9221-B': '',
+  '9221-B':
+    'Standard Methods (19th ed.) 9221-B (Multiple-Tube Fermentation Technique) MPN',
   '9221-B.1': '',
   '9221-C': '',
   '9221-D': '',
@@ -2408,11 +2434,10 @@ export default {
     '9222B,G ~ Standard Methods . Membrane filtration plating of E. coli with MUG-fluorescent detection',
   '9222B_RETIRED': 'G"',
   '9222C': '',
-  '9222D':
-    '9222D ~ Standard Methods . Membrane filtration test for fecal coliforms',
+  '9222D': '9222 D',
   '9222G': '',
   '9223-B':
-    '9223B ~ Standard Methods . Enzyme substrate assay for measuring total coliforms and E. coli (ONPG-MUG test or CPRG-MUG test)',
+    'Enzyme Substrate Test – URL: https://www.nemi.gov/methods/method_summary/5583/ or http://standardmethods.org',
   '9223-B-04': '',
   '9223B***retired*** 9223-B': 'DO NOT USE ~ ',
   '9230-B': '',
@@ -3426,6 +3451,10 @@ export default {
   'E1706-95': 'https://pubs.usgs.gov/publication/5200167',
   E1924: '',
   E318: '',
+  'E325.1': 'Automated colorimetric determination of chloride in water.',
+  'E325.2': 'Updated automated colorimetric method for chloride analysis.',
+  'E325.3':
+    'Determines chloride concentration via potentiometric titration with silver nitrate.',
   EASYGEL:
     'Easygel ~ Micrology Labs . E. coli and other coliform bacteria by Coliscan Easygel method',
   'ECO METHOD': 'Ecological Methodology ~  . Krebs, C.J.',
@@ -5186,6 +5215,7 @@ export default {
   'S-004-1': '',
   'S-9.20':
     'Gavlack, R., Horneck, D., Miller, R., Soil, Plant, and Water Reference Methods for the Western Region. 3rd Edition. WREP-125, 2005. P.144-145',
+  S249: 'NIOSH-validated method used to measure worker exposure to carbon dioxide ( ) in workplace atmospheres',
   SA010: '',
   SA011: '',
   SAGWMD:
@@ -5488,6 +5518,8 @@ export default {
     'WI DNR BMI Kick ~ WDNR Fish Habitat . Guidelines for Collecting Macroinvertebrate Samples from Wadable Streams in Wisconsin',
   WRTDS:
     'Weighted Regressions on Time, Discharge, and Season (WRTDS), with an Application to Chesapeake Bay River Inputs ~ USGS . Hirsch, R.M., Moyer, D.L., and Archfield, S.A',
+  'Walkley-Black':
+    'Appropriate for determining the low concentrations of organic carbon expected in subsurface soils.',
   'Water Sampling Device': 'Reference:  https://www.astm.org/d1946-90r19.html',
   XENO: '',
   'X_89_176(N)': '',

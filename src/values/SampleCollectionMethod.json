@@ -129,6 +129,9 @@
     "PNAMP Invert Collection",
     "Pole-MassWateR",
     "Radiello",
+    "Reserved-RENAME",
+    "Reserved-RENAME1",
+    "Reserved-RENAME2",
     "SP-Macro",
     "SP-Water",
     "SWAMP Bioassessment 2016",
@@ -159,7 +162,7 @@
     "WY-GS",
     "Wade-MassWateR",
     "Water Sampling Device-MassWateR",
-    "Water_Depth-Int."
+    "Water_Depth_Int"
   ],
   "maxLength": 32
 }
