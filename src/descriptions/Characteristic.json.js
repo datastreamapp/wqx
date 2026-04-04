@@ -644,7 +644,6 @@ export default {
   '*****RETIRED*Deiodo flubendiamide': 'NWIS',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
   '*****RETIRED*Lambda-Cyhalothrin': 'λ-Cyhalothrin',
-  '---- retired-----Taxonomic richness, EPT----': '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -15405,6 +15404,8 @@ export default {
   'Channel-full width': '',
   'Channel-full width-to-depth ratio': '',
   'Channelization Type': '',
+  'Chara cover':
+    'Results are a % of the steam bed at a specific transect that is covered by Chara: srs# 17099003 - https://en.wikipedia.org/wiki/Chara_(alga)',
   'Chemical oxygen demand':
     'A measure of the oxygen equivalent of the organic matter content of a sample that is susceptible to oxidation by a strong chemical oxidant, usually reported as COD as mg O2/L.Nemi.gov; Request Date: 22-JUL-14',
   'Chemical oxygen demand, (high level)':
@@ -20901,6 +20902,8 @@ export default {
   Mortality: '; Request Date: 10-DEC-09',
   'Moss Stream Reach Coverage Average (choice list)':
     '; Request Date: 01-AUG-18',
+  'Moss cover':
+    'Results are a % of the steam bed at a specific transect that is covered by Moss: https://en.wikipedia.org/wiki/Moss',
   'Motor Boat Density (choice list)': '',
   'Motor Boat Restrictions (choice list)': '',
   'Motor oil': 'Unspecified petroleum hydrocarbon.; Request Date: 02-MAR-07',
@@ -30233,6 +30236,7 @@ export default {
   'trans-1,4-Dichloro-2-butene': 'Nemi.gov; Request Date: 02-MAR-07',
   'trans-1,4-Dichlorocyclohexane': '; Request Date: 02-MAR-07',
   'trans-1-Butyl-2-methylcyclopropane': '',
+  'trans-1-Ethyl-4-methylcyclohexane': '',
   'trans-2-Hexene': '',
   'trans-2-Methylcrotonaldehyde': '; Request Date: 02-MAR-07',
   'trans-2-Phenyl-2-butene': '; Request Date: 02-MAR-07',
