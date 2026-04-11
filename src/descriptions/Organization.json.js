@@ -601,6 +601,7 @@ export default {
   CWQL: '',
   CWSC_WQX: '',
   CWSD_WQX: 'Water Quality Monitoring Data and and SPCURE member',
+  DARIENCTWATERQUALITY_WQX: '',
   DAUPHINCD_WQX: 'Dauphin County Conservation District',
   DCD: 'Dickinson Conservation District',
   'DCRBPI_ WQX':
@@ -1501,7 +1502,7 @@ export default {
   STOI: 'Spokane Tribe of the Spokane Reservation (Tribal) || Spokane Tribe of the Spokane Reservation (Tribal)',
   STORLVD_WQX: 'Water Quality Monitoring Data',
   STROUD_WQX: 'Water Quality Monitoring Data',
-  STS: 'NGO',
+  STS: 'The mission of Save the Sound is to protect and improve the land, air, and water of the whole Long Island Sound region.',
   ST_CROIX_WQX:
     'St. Croix Chippewa Indians of Wisconsin (Tribal) || St. Croix Chippewa Indians of Wisconsin (Tribal)',
   SUMFS: 'Stockton University Marine Field Station',

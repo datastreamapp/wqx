@@ -513,6 +513,7 @@ export default {
     'CWQL',
     'CWSC_WQX',
     'CWSD_WQX',
+    'DARIENCTWATERQUALITY_WQX',
     'DAUPHINCD_WQX',
     'DCD',
     'DCRBPI_ WQX',

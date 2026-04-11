@@ -930,6 +930,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '(Z)-(Perfluorooctyl)ethyl 9-octadecenoate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '(Z)-3-Methyl-2-hexene': 'Not Assigned',
   '(Z)-Chloro-1-propene': 'Not Assigned',
   '(Z)-Dimethomorph': 'Not Assigned',
   '(Z)-Octadec-9-enyl (5-(((2-(((perfluorooctyl)sulphonyl)methylamino)ethoxy)carbonyl)amino)-o-tolyl)carbamate':
@@ -32425,6 +32426,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Tetramethylammonium perfluorooctane sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
+  Tetramethylfulvene: 'Not Assigned',
   Tetramethyllead: 'Not Assigned',
   Tetramethylpyrazine: 'Not Assigned',
   Tetramethyltin: 'Not Assigned',

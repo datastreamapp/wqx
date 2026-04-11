@@ -673,6 +673,7 @@ export default {
   '(Z)-(Perfluorodecyl)ethyl 9-octadecenoate': '125768-41-4',
   '(Z)-(Perfluorohexyl)ethyl 9-octadecenoate': '220237-47-8',
   '(Z)-(Perfluorooctyl)ethyl 9-octadecenoate': '167289-73-8',
+  '(Z)-3-Methyl-2-hexene': '10574-36-4',
   '(Z)-Chloro-1-propene': '16136-84-8',
   '(Z)-Dimethomorph': '113210-98-3',
   '(Z)-Octadec-9-enyl (5-(((2-(((perfluorooctyl)sulphonyl)methylamino)ethoxy)carbonyl)amino)-o-tolyl)carbamate':
@@ -27629,6 +27630,7 @@ export default {
   'Tetramethylammonium perfluorobutane sulfonate': '25628-17-5',
   'Tetramethylammonium perfluorohexane sulfonate': '189274-31-5',
   'Tetramethylammonium perfluorooctane sulfonate': '56773-44-5',
+  Tetramethylfulvene: '76089-59-3',
   Tetramethyllead: '75-74-1',
   Tetramethylpyrazine: '1124-11-4',
   Tetramethyltin: '',
