@@ -139,6 +139,8 @@ export default {
   IS: 'instrument sensitivity problem',
   ISAC: 'Internal standard acceptance criteria not met',
   ISP: 'Improper Sample Preservation',
+  ISPC: 'Improper CHEMICAL Sample Preservation ',
+  ISPT: 'Improper THERMAL Sample Preservation',
   'ISR**': 'Internal Standard acceptance criteria not met***retired***use ISAC',
   ITNA: 'Incubation time not attained',
   ITNM: 'Incubation temperature not maintained',

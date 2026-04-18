@@ -141,6 +141,8 @@ export default {
     'IS',
     'ISAC',
     'ISP',
+    'ISPC',
+    'ISPT',
     'ISR**',
     'ITNA',
     'ITNM',
