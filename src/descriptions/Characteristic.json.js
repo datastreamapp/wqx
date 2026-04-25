@@ -625,7 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '******RENAMED': '',
   '*****RETIRED*4-Nonylphenol dodecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': 'NWIS',
@@ -2545,6 +2544,7 @@ export default {
     '',
   '1,3-Isobenzofurandione, polymer with .alpha.-fluoro-.omega.-(oxiranylmethyl)poly(difluoromethylene) and (phenoxymethyl)oxirane':
     '',
+  '1,3-Octadiene': '',
   '1,3-Oxathiolane-4-acetic acid, 5-oxo-2,2-bis(trifluoromethyl)-': '',
   '1,3-Pentadiene': '',
   '1,3-Pentadiene, (3E)-': 'Minnesota IT Services at MPCA ',

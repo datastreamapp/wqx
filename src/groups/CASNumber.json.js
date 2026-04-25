@@ -681,7 +681,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '******RENAMED': '',
   '*****RETIRED*4-Nonylphenol dodecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': '',
@@ -2793,6 +2792,7 @@ export default {
     '69577-65-7',
   '1,3-Isobenzofurandione, polymer with .alpha.-fluoro-.omega.-(oxiranylmethyl)poly(difluoromethylene) and (phenoxymethyl)oxirane':
     '107097-76-7',
+  '1,3-Octadiene': '1002-33-1',
   '1,3-Oxathiolane-4-acetic acid, 5-oxo-2,2-bis(trifluoromethyl)-':
     '170996-97-1',
   '1,3-Pentadiene': '504-60-9',

@@ -938,7 +938,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '******RENAMED': 'PFAS,Perfluorinated Alkyl Substance',
   '*****RETIRED*4-Nonylphenol dodecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': 'Not Assigned',
@@ -3605,6 +3604,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1,3-Isobenzofurandione, polymer with .alpha.-fluoro-.omega.-(oxiranylmethyl)poly(difluoromethylene) and (phenoxymethyl)oxirane':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1,3-Octadiene': 'Not Assigned',
   '1,3-Oxathiolane-4-acetic acid, 5-oxo-2,2-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,3-Pentadiene': 'Not Assigned',

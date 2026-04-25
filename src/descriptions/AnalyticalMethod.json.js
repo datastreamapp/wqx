@@ -420,6 +420,7 @@ export default {
   7041: '',
   7048: '',
   7056: '',
+  7060: 'Determination of arsenic in water and waste by atomic absorption spectrophotometry using the graphite furnace technique.',
   7062: '',
   7063: '',
   7081: '',
@@ -580,11 +581,13 @@ export default {
   8237: '',
   8240: 'Legacy method for VOCs using packed-column Gas Chromatography/Mass Spectrometry.',
   8241: '',
+  8260: 'Analysis of polychlorinated dibenzo-p-dioxins and Dibenzofurans.',
   8270: 'The base method for a wide range of semivolatile organic compounds (Phenols, PAHs, Phthalates) by capillary GC/MS.',
   8271: '',
   8275: '',
   8276: '',
   8277: '',
+  8280: 'POLYCHLORINATED DIBENZO-P-DIOXINS AND DIBENZOFURANS',
   8288: '8288 ~ Hach Co. . Acid/Base Milliequivalent Determination Using Sodium Hydroxide',
   8289: '8289 ~ Hach Co. . Acid/Base Milliequivalent Determination Using Sulfuric Acid',
   8290: '',
@@ -654,6 +657,7 @@ export default {
   9213: '',
   9214: '',
   9215: '',
+  9222: 'A membrane filtration method (as well as a partition method for E. coli) where the analytical process requires that all filtration series begin with membrane filtration equipment that has been sterilized by autoclaving',
   9223: 'Standard Methods for the Examination of Water and Wastewater 18th Edition 1992. https://law.resource.org/pub/us/cfr/ibr/002/apha.method.9223.1992.pdf',
   9250: '',
   9251: '',
@@ -783,11 +787,16 @@ export default {
   '00-06': '',
   '00-07': '',
   '00-09': '',
+  '00048': 'Nutrients in filtered water, colorimetric, by discrete analyzer',
+  '00049':
+    'Nutrients in filtered water by enzymatic reductase colorimetry by discrete analyzer',
   '0010(B)': '',
   '0010(BT)': '',
   '0010(W)': ' in Water',
   '0011-0': '',
   '0011A': '',
+  '00127':
+    'Carbon, inorganic, suspended (Total Particulate Inorganic Carbon (PIC))',
   '002(A)': '',
   '002(W)': ' in Water',
   '0023A': '',
@@ -2434,10 +2443,11 @@ export default {
     '9222B,G ~ Standard Methods . Membrane filtration plating of E. coli with MUG-fluorescent detection',
   '9222B_RETIRED': 'G"',
   '9222C': '',
-  '9222D': '9222 D',
+  '9222D':
+    '9222D ~ Standard Methods . Membrane filtration test for fecal coliforms',
   '9222G': '',
   '9223-B':
-    'Enzyme Substrate Test – URL: https://www.nemi.gov/methods/method_summary/5583/ or http://standardmethods.org',
+    '9223B ~ Standard Methods . Enzyme substrate assay for measuring total coliforms and E. coli (ONPG-MUG test or CPRG-MUG test)',
   '9223-B-04': '',
   '9223B***retired*** 9223-B': 'DO NOT USE ~ ',
   '9230-B': '',
@@ -2836,6 +2846,8 @@ export default {
     'Gross alpha radioactivity, Thorium-230 curve, with data package, water, unfiltered, pCi/L, 30 day recount',
   CL057:
     'Gross alpha radioactivity, Thorium-230 curve, with data package, water, unfiltered, pCi/L, 72 hours',
+  CL151:
+    'Silica in filtered water by reduced silicomolybdate acid colorimetry using a discrete analyzer',
   COLILERT:
     'Colilert ~ IDEXX . Coliform/E. coli Enzyme substrate test. ONPG-MUG test',
   'COLILERT-18':
@@ -3404,6 +3416,7 @@ export default {
     'http://www.vetmed.ucdavis.edu/cahfs/local-assets/pdfs/Toxicology-tests-2-12-2010.pdf',
   'DTOX-02-703t':
     'http://www.vetmed.ucdavis.edu/cahfs/local-assets/pdfs/Toxicology-tests-2-12-2010.pdf',
+  DZ001: 'Colorimetry, diazotization, DA',
   'Dickson SOP 1':
     'Guide to Best Practices for Ocean CO2 Measurements: https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Handbook_2007.html',
   'Dickson SOP 11':
@@ -3461,6 +3474,7 @@ export default {
   EL003:
     'Gross alpha, high solids (HS), Thorium-230 curve, FIL, lab filtered (LF)',
   EL006: 'Gross alpha, high solids (HS), co-precipitation, Uranium, FIL',
+  EL009: 'PH, water, field, glass electrode (NRP @ CO WSC)',
   ENTEROLERT: 'Enterolert ~ IDEXX . Enterolert',
   'ENVIRONMENT STANDARD':
     "Setting Environmental Standards: The Statistical Approach to Handling Uncertainty and Variation ~ NTU UK . Barnett, Vic and O'Hagan, A.",
@@ -4755,6 +4769,8 @@ export default {
   'PCB-008': '',
   'PCB-009': '',
   'PFAS ID36': 'Pace proprietary method: PFAS by Isotope Dilution',
+  PHM01:
+    'Used to determine the concentration of dissolved orthophosphate (as phosphorus) in water',
   'PHOS-1': '',
   'PHOS-2': '',
   'PHOS-3': '',
@@ -4777,10 +4793,13 @@ export default {
     'Thorium-228, bed sediment, @ 0.1 pCi/g, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
   PLM48:
     'Thorium-228, water, filtered, @ 1.0 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  PLM77: '',
+  PLM78: '',
   PLO01:
     'Thorium-228, water, filtered, by alpha spectrometry (analysis by NWQL)',
   PLO03:
     'Thorium-228, water, unfiltered @ 0.4 pCi/L, by alpha spectrometry (analysis by Severn-Trent Laboratory)',
+  PLO07: '',
   'PM-01': '',
   'PM-02': '',
   'PMD-ACA': '',
@@ -5222,6 +5241,7 @@ export default {
     'Statistical Analysis of Groundwater Monitoring Data at RCRA Facilities - Unified Guidance ~ EPA . USEPA',
   'SAMP-U,RA': 'Samp-U,Ra ~ DOE EML . Uranium and Radium in Water',
   SC001: 'Thorium-230, water, filtered, pCi/L, by alpha spectrometry',
+  SC003: 'Specific conductance, water, field, electrometry (NRP @ CO WSC)',
   SDRU_WQ02:
     'https://www.nrrig.mwa.ars.usda.gov/st40_javascript/methods.aspx?methodstring=SDRU_WQ02',
   SDRU_WQ03:
@@ -5293,6 +5313,8 @@ export default {
   SM2310B4a: '',
   SM2310B4d: '',
   SMWR: 'Statistical Methods in Water Resources ~ USGS . Helsel, D.R. and Hirsch, R.M.',
+  'SOM01.1':
+    'Solvent extraction and cleanup followed by dual-column capillary GC/ECD analysis.',
   'SOM01.2_AROCLOR':
     'EPA Superfund Organic Methods 1.2 (https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100GLDS.TXT)',
   'SOM01.2_PEST':
@@ -5471,6 +5493,7 @@ export default {
     'USDA HWQ4 ~ USDA-ARS . Estimating Uncertainty in Measured Discharge and Water Quality Data',
   UV002:
     'Uranium-235, bed sediment, by alpha spectrometry (analysis by Eberline Services)',
+  UV006: 'UV Absorbing Organic Constituents - 254 nm, Filtered, Supor Filter',
   'VA-001-1': '',
   'VA-002-1': '',
   'VA-003-1': '',
