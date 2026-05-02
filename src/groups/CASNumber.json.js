@@ -681,7 +681,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '*****RETIRED*4-Nonylphenol dodecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': '',
   '*****RETIRED*4-Nonylphenol hexadecaethoxylates': '',
@@ -24054,6 +24053,7 @@ export default {
   PeriSubLrg: '',
   PeriSubSoft: '',
   Pericoma: '',
+  Peridinin: '33281-81-1',
   Perindopril: '',
   Periphyton: '',
   'Periphyton Cover': '',

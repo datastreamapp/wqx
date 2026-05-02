@@ -938,7 +938,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '*****RETIRED*4-Nonylphenol dodecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol hexadecaethoxylates': 'Not Assigned',
@@ -28448,6 +28447,7 @@ export default {
   PeriSubLrg: 'Not Assigned',
   PeriSubSoft: 'Not Assigned',
   Pericoma: 'Population/Community',
+  Peridinin: 'Not Assigned',
   Perindopril: 'Not Assigned',
   Periphyton: 'Biological, Algae, Phytoplankton',
   'Periphyton Cover': 'Not Assigned',

@@ -35,8 +35,7 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX':
-    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
+  '11NPSWRD_WQX': '',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -313,7 +312,7 @@ export default {
     'The American Littoral Society promotes the study and conservation of marine life and habitat, protects the coast from harm, and empowers others to do the same.',
   AMAFCA: '',
   AMIGOSBRAVOS_WQX: '',
-  AMRW: 'NGO focused on the Mystic River Watershed in southeast Connecticut bringing together the four towns (Groton, Ledyard, North Stonington, and Stonington, and the Mashantucket and Eastern Pequot Tribal Nations, all located within the watershed',
+  AMRW: 'The Alliance for the Mystic River Watershed is an NGO concerned about the Mystic River Watershed.',
   ANCHORQEA: 'Clients',
   ANIMASWP:
     'The AWP is a stakeholder driven, collaborative, watershed-based group made up of partners representing diverse interests across the watershed in New Mexico, the Southern Ute Tribal Lands and Colorado. Current membership is over 100 individuals and entities. The AWP works together across state and Tribal boundaries to protect and improve the quality of water resources in the Animas River.',
@@ -389,6 +388,7 @@ export default {
   BMIC_WQX:
     'Bay Mills Indian Community, Michigan (Tribal) || Bay Mills Indian Community, Michigan (Tribal)',
   BMWM_TEST: 'TEST',
+  BNWRIVERWATCH: '',
   BOISNETT_WQX:
     'Region 5 Wild Rice - Bois Forte/Nett Lake Band of Chippewa Indians',
   BOOMSNUBSITE_EA:
@@ -511,6 +511,7 @@ export default {
   CITYFTCO_WQX: 'Water Quality Data',
   CITYOFPG_WQX: 'Water Quality Monitoring Data.',
   CITYPUEBLO_WWD: 'Colorado',
+  CITY_LONGMONT_CO: '',
   CLACKAMAS_SWCD: 'Current VolMon group',
   CLALLAMCODCD: "Clallam County-DCD || Jamestown S'Klallam Tribe (Tribal)",
   CLALLAMCOUNTYDCD: '',

@@ -170,6 +170,8 @@ export default {
     'The Van Veen grab is designed for collecting sediment samples in fresh and marine water, from soft or medium-hard bottoms like sand, gravel, consolidated marl or clay. It consists of two buckets connected by a hinge. ',
   'Larval Light Fish Trap':
     'Passive sampling of a broad range of planktonic organisms',
+  'Light Meter':
+    'Device that measures the intensity of light in the visible spectrum',
   'Long Line':
     'A type of deep-sea fishing gear consisting of a long main line anchored to the bottom to which shorter lines with baited hooks are fastened at intervals.',
   'MIC-B, XAD Resin': '',

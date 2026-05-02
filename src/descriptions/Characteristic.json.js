@@ -625,7 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*****RETIRED*4-Nonylphenol dodecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol heptaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol hexadecaethoxylates': 'NWIS',
@@ -24428,6 +24427,7 @@ export default {
   PeriSubLrg: 'GRE; Request Date: 01-SEP-16',
   PeriSubSoft: 'GRE; Request Date: 01-SEP-16',
   Pericoma: 'TAXON: Animalia Kingdom; NWIS',
+  Peridinin: '',
   Perindopril: 'NWIS',
   Periphyton:
     'Biological,2; Microscopic underwater plants and animals that are firmly attached to solid surfaces such as rocks, logs, pilings, and other structures.; Request Date: 22-JUL-14;Biological, Algae, Phytoplankton, Cyanobacteria, Periphyton;63',
