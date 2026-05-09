@@ -139,7 +139,7 @@ export default {
   1007: '',
   1008: '',
   1009: '',
-  1010: 'https://www.epa.gov/hw-sw846/sw-846-test-method-1010a-test-methods-flash-point-pensky-martens-closed-cup-tester',
+  1010: '',
   1011: '',
   1012: '',
   1013: '',
@@ -885,6 +885,8 @@ export default {
   '1030-E': '',
   '10300-C': '',
   '10300-D': '',
+  '1030E':
+    'The following procedures for checking analyses" correctness apply specifically to water samples with relatively complete analyses [e.g., pH, conductivity, total dissolved solids (TDS), and major anionic and cationic constituents that indicate general water quality]',
   '10400-D': '',
   '10400-E': '',
   '10500-C': '',
@@ -914,7 +916,7 @@ export default {
   130.1: '130.1 ~ EPA-NERL . Total Hardness by Spectrophotometer',
   130.11:
     '130.11 ~ NOAA NST . Organic contaminants in marine animal tissues by GC-ECD',
-  130.2: '130.2 ~ EPA-NERL . Total Hardness of Water by Titrimetry',
+  130.2: '130.2 ~ NOAA NST . Dioxins and Furans in marine sediments by GC-MS',
   130.21:
     '130.21 ~ NOAA NST . Dioxins and Furans in marine bivalve tissues by GC-MS',
   130.3: '130.3 ~ NOAA NST . Organic contaminants in marine sediments by GC-MS',

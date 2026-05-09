@@ -35,7 +35,8 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX': '',
+  '11NPSWRD_WQX':
+    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -1142,6 +1143,7 @@ export default {
   NKUWATER_WQX:
     'Water Quality Monitoring Data:Consortia working with local groups including the Licking Watershed Watch.',
   NMBGMR: '',
+  NMMA: 'Monitoring Program',
   NMW_WQX: '',
   NNB: 'Volunteer Monitoring Group',
   NNEPA:
@@ -1633,6 +1635,7 @@ export default {
   'USGS-AR': '',
   'USGS-MN': 'USGS Minnesota Water Science Center',
   USGSNC: '',
+  USIBWC: 'International Boundary and Water Commission  United States',
   USIOUX_WQX: '',
   USVI: 'Water Quality Monitoring Data BEACHES',
   USVIST_WQX: 'Water Quality Monitoring Data for all the Waters in the state',
