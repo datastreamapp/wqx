@@ -1,4 +1,5 @@
 export default {
+  '****Mastogloia danseyi': 'Diatoms',
   'Abalistes macrophthalmus': 'Not Assigned',
   'Abalistes stellatus': 'Not Assigned',
   Abarenicola: 'Not Assigned',

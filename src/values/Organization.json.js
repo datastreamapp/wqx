@@ -4,6 +4,7 @@ export default {
   description: '',
   type: 'string',
   enum: [
+    '***',
     '0800257_WQX',
     '0800597_WQX',
     '0800650_WQX',
@@ -1166,6 +1167,7 @@ export default {
     'SC&LRWC',
     'SC-NJ',
     'SCAPED',
+    'SCAT',
     'SCCRK',
     'SCCWK',
     'SCDHSECOLOGY',

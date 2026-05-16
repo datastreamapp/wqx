@@ -16,7 +16,6 @@ export default [
   '*****RETIRED*4-Octylphenol monoethoxylates',
   '*****RETIRED*Deiodo flubendiamide',
   '*****RETIRED*Diethylstilbesterol glucuronide',
-  '*****RETIRED*Lambda-Cyhalothrin',
   '.gamma.-Hexachlorocyclohexane***retired***use Lindane',
   '1,1,2-Trichlorotrifluoroethane***retired***use CFC-113',
   '1,1-Dichloroethene***retired***use 1,1-Dichloroethylene',

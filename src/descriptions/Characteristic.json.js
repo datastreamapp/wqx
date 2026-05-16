@@ -642,7 +642,6 @@ export default {
   '*****RETIRED*4-Octylphenol monoethoxylates': 'NWIS',
   '*****RETIRED*Deiodo flubendiamide': 'NWIS',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
-  '*****RETIRED*Lambda-Cyhalothrin': 'λ-Cyhalothrin',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -16217,6 +16216,7 @@ export default {
   'Cyclopropane, pentafluoro-1-propen-1-yl-': '',
   'Cyclopropanecarbonyl chloride, 3-formyl-2,2-bis(trifluoromethyl)-, trans)-':
     '',
+  Cyclopropanecarboxaldehyde: '',
   'Cyclopropanecarboxylic acid, 1,2,2,3,3-pentafluoro-': '',
   'Cyclopropanecarboxylic acid, 2,2,3,3-tetrafluoro-': '',
   'Cyclopropanecarboxylic acid, 2,2,3,3-tetrafluoro-1-(trifluoromethyl)-': '',

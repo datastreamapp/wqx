@@ -955,7 +955,6 @@ export default {
   '*****RETIRED*4-Octylphenol monoethoxylates': 'Not Assigned',
   '*****RETIRED*Deiodo flubendiamide': 'Not Assigned',
   '*****RETIRED*Diethylstilbesterol glucuronide': 'Not Assigned',
-  '*****RETIRED*Lambda-Cyhalothrin': 'Not Assigned',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': 'Information',
@@ -19901,6 +19900,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopropanecarbonyl chloride, 3-formyl-2,2-bis(trifluoromethyl)-, trans)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  Cyclopropanecarboxaldehyde: 'Not Assigned',
   'Cyclopropanecarboxylic acid, 1,2,2,3,3-pentafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclopropanecarboxylic acid, 2,2,3,3-tetrafluoro-':

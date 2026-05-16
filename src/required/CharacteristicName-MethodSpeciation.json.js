@@ -16,7 +16,6 @@ export default {
           'Carbon-13/Carbon-12 ratio',
           'Deuterium',
           'Deuterium/Hydrogen ratio',
-          'Helium-3/helium-4 ratio',
           'Inorganic nitrogen (NO2, NO3, & NH3)',
           'Inorganic nitrogen (ammonia, nitrate and nitrite)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)',
           'Inorganic nitrogen (nitrate and nitrite) ***retired***use Nitrate + Nitrite',
@@ -80,8 +79,6 @@ export default {
           'delta Chromium-53/chromium-52 uncertainty',
           'delta carbon-13/carbon-12',
           'delta chromium-53/chromium-52',
-          'delta helium-3/helium-4',
-          'delta helium-3/helium-4 error',
           'delta strontium-88/strontium-86'
         ]
       }

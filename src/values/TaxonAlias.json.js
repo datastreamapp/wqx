@@ -11,6 +11,7 @@ export default {
     "'opule",
     "'upalalu",
     "'upapalu",
+    '****Mastogloia danseyi',
     '****RETIRED*Anomoeoneis sphaerophora',
     '****RETIRED*Aulacoseira islandica',
     '****RETIRED*Denticula tenuis',

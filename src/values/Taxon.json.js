@@ -4,6 +4,7 @@ export default {
   description: '',
   type: 'string',
   enum: [
+    '****Mastogloia danseyi',
     'Abalistes macrophthalmus***retired***use Abalistes stellatus',
     'Abalistes stellatus',
     'Abarenicola',
