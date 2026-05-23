@@ -2954,6 +2954,7 @@ export default {
   '1,5-Pentanedione, 2,2,3,3,4,4-hexafluoro-N,5-diphenyl-': '2525-83-9',
   '1,5-dibromo-2,2,3,3,4,4-hexafluoropentane': '33619-78-2',
   '1,6,7-Trimethylnaphthalene': '2245-38-7',
+  '1,6-Anhydro-beta-D-glucopyranose-13C6': '478518-93-3',
   '1,6-B+D873is(trimethoxysilanylethyl)perfluorohexane': '94403-04-0',
   '1,6-Bis(perfluoroethyl)hexane': '1835251-86-9',
   '1,6-Dibromo-2,3,5-trichloro-1,1,2,3,4,4,5,6,6-nonafluorohexane':
@@ -2970,6 +2971,7 @@ export default {
   '1,6-Hexanediamine, polymers with Et esters of reduced polymd. oxidized tetrafluoroethylene':
     '588699-63-2',
   '1,6-Hexanediol': '629-11-8',
+  '1,6-anhydro-beta-D-mannopyranose': '14168-65-1',
   '1,6-dibromo-2-chloro-1,1,2-trifluorohexane': '126828-28-2',
   '1,7-Dimethylfluorene': '442-66-0',
   '1,7-Dimethylphenanthrene': '483-87-4',
@@ -18356,6 +18358,7 @@ export default {
   Flonicamid: '158062-67-0',
   'Flonicamid-d3': '',
   'Flood Evidence (choice list)': '',
+  'Flood Evidence (text)': '',
   'Flood Frequency': '',
   'Flood prone area width': '',
   'Floodplain Presence (choice list)': '',
@@ -27119,6 +27122,7 @@ export default {
   Styrene: '100-42-5',
   'Styrene and o-xylene': '',
   'Styrene oxide': '96-09-3',
+  'Subdominant Substrate Description (text)': '',
   'Submerged Cover (%)': '',
   'Submerged Vegetation Habitat Type (%)': '',
   'Submergent Macrophyte Coverage (choice list)': '',

@@ -2700,6 +2700,7 @@ export default {
   '1,5-dibromo-2,2,3,3,4,4-hexafluoropentane': '',
   '1,6,7-Trimethylnaphthalene':
     '1040;Request Date: 22-JUL-14| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  '1,6-Anhydro-beta-D-glucopyranose-13C6': '',
   '1,6-B+D873is(trimethoxysilanylethyl)perfluorohexane': '',
   '1,6-Bis(perfluoroethyl)hexane': '',
   '1,6-Dibromo-2,3,5-trichloro-1,1,2,3,4,4,5,6,6-nonafluorohexane': '',
@@ -2715,6 +2716,7 @@ export default {
   '1,6-Hexanediamine, polymers with Et esters of reduced polymd. oxidized tetrafluoroethylene':
     '',
   '1,6-Hexanediol': '; Request Date: 10-DEC-15',
+  '1,6-anhydro-beta-D-mannopyranose': '',
   '1,6-dibromo-2-chloro-1,1,2-trifluorohexane': '',
   '1,7-Dimethylfluorene': '; Request Date: 31-MAR-14',
   '1,7-Dimethylphenanthrene': '; Request Date: 31-MAR-14',
@@ -18222,6 +18224,7 @@ export default {
   'Flonicamid-d3': '11;',
   'Flood Evidence (choice list)':
     'https://irma.nps.gov/DataStore/Reference/Profile/2233293',
+  'Flood Evidence (text)': '',
   'Flood Frequency': '',
   'Flood prone area width': '',
   'Floodplain Presence (choice list)':
@@ -27758,6 +27761,7 @@ export default {
   Styrene: 'Nemi.gov; Request Date: 22-JUL-14',
   'Styrene and o-xylene': '',
   'Styrene oxide': '; Request Date: 02-MAR-07',
+  'Subdominant Substrate Description (text)': '',
   'Submerged Cover (%)': '; Request Date: 29-JUN-10',
   'Submerged Vegetation Habitat Type (%)':
     'Information,4; Request Date: 14-MAY-10',

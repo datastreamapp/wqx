@@ -338,8 +338,7 @@ export default {
   'Stationary Drop Net': '',
   'Still Camera': '',
   'Stop Net': '',
-  'Storm Water Sampler':
-    'A device for collecting quarterly storm water grab samples.',
+  'Storm Water Sampler': 'A device for collecting storm water grab samples.',
   'Stovepipe Sampler':
     'An alternative method to collect macroinvertebrate samples in areas where it may be difficult to use a D-frame net. s a five-gallon plastic bucket with the bottom removed. The bottom diameter is 25 cm. The sampler is used to enclose fixed-area plots to restrict the movement of organisms. ',
   'Stream-Side Electroshock':

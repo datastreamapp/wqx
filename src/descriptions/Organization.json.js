@@ -12,7 +12,6 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '***': '',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -1194,6 +1193,7 @@ export default {
   ONEIDA_WQX: 'Oneida Nation',
   OOPBLO: 'Pueblo of Ohkay Owingeh, New Mexico',
   ORACWA_WQX: '',
+  ORCOSWCD: '',
   ORDNRMRLSTD_GI:
     'USEPA Office of Research and Development, National Risk Management Research Laboratory',
   OREGONDEQ: '',
@@ -1568,6 +1568,7 @@ export default {
   TPCHD_WQX: '',
   TPEO_WQX:
     'Pueblo of Taos, New Mexico (Tribal) || Pueblo of Taos, New Mexico (Tribal)',
+  TREECC25: '',
   TREX: 'Tribal Environmental Exchange Network (Tribal) || Tribal Environmental Exchange Network (Tribal)',
   TRILWWTF: 'Colorado',
   TRINIDADRANCHERIAEPA:
@@ -1593,11 +1594,11 @@ export default {
   UH_CLEARLAKE: '',
   UMC: '',
   UMCRWWTF: 'Colorado',
-  UMIT: '',
   UMMP: 'THE UMMP IS A VOLUNTEER RIVER QUALITY MONITORING PROGRAM MANAGED BY THE UPPER MERRIMACK RIVER LOCAL ADVISORY COMMITTEE.  ESTABLISHED IN 1995, THE UMMP MONITORS RIVER QUALITY AT 11 SITES FROM FRANKLIN TO BOW ON THE PEMI, WINNI, CONTOOCOOK AND MERRI RIVERS',
   UMR: '',
   UMRBA_WQX: '',
   UMRR_LTRM: '',
+  UMT: '',
   UMT_FLATHEADBIOSTATION: '',
   UNC_IMS: '',
   UNI: '',

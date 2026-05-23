@@ -3791,6 +3791,7 @@ export default {
   '1,5-dibromo-2,2,3,3,4,4-hexafluoropentane':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,6,7-Trimethylnaphthalene': 'Organics, Other',
+  '1,6-Anhydro-beta-D-glucopyranose-13C6': 'Not Assigned',
   '1,6-B+D873is(trimethoxysilanylethyl)perfluorohexane':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,6-Bis(perfluoroethyl)hexane': 'PFAS,Perfluorinated Alkyl Substance',
@@ -3810,6 +3811,7 @@ export default {
   '1,6-Hexanediamine, polymers with Et esters of reduced polymd. oxidized tetrafluoroethylene':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,6-Hexanediol': 'Not Assigned',
+  '1,6-anhydro-beta-D-mannopyranose': 'Not Assigned',
   '1,6-dibromo-2-chloro-1,1,2-trifluorohexane': 'Organics, Other',
   '1,7-Dimethylfluorene': 'Not Assigned',
   '1,7-Dimethylphenanthrene': 'Not Assigned',
@@ -22014,6 +22016,7 @@ export default {
   Flonicamid: 'Organics, Pesticide',
   'Flonicamid-d3': 'Organics, Pesticide',
   'Flood Evidence (choice list)': 'Habitat',
+  'Flood Evidence (text)': 'Not Assigned',
   'Flood Frequency': 'Habitat',
   'Flood prone area width': 'Physical',
   'Floodplain Presence (choice list)': 'Habitat',
@@ -31898,6 +31901,7 @@ export default {
   Styrene: 'Organics, Other',
   'Styrene and o-xylene': 'Organics, Other',
   'Styrene oxide': 'Not Assigned',
+  'Subdominant Substrate Description (text)': 'Not Assigned',
   'Submerged Cover (%)': 'Information',
   'Submerged Vegetation Habitat Type (%)': 'Physical, Habitat',
   'Submergent Macrophyte Coverage (choice list)': 'Habitat',
