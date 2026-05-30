@@ -938,11 +938,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'Not Assigned',
-  '*****RETIRED*4-Nonylphenol heptaethoxylates': 'Not Assigned',
-  '*****RETIRED*4-Nonylphenol hexadecaethoxylates': 'Not Assigned',
-  '*****RETIRED*4-Nonylphenol hexaethoxylates': 'Not Assigned',
-  '*****RETIRED*4-Nonylphenol nonaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol octadecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol octaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates': 'Not Assigned',
@@ -5028,6 +5023,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Hexanol, 6-chloro-3,3,4,4,5,5,6,6-octafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1-Hexen-3-one': 'Not Assigned',
   '1-Hexen-3-yne, 5-methyl-5-(2,2,3,3-tetrafluoropropoxy)-':
     'PFAS,Perfluorinated Alkyl Substance',
   '1-Hexene': 'Not Assigned',
@@ -6684,6 +6680,7 @@ export default {
   '2, 4-DB DMA': 'Not Assigned',
   '2,1-Benzoxaphospholium, 1,3-dihydro-1,1-diphenyl-3,3-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2,10-Dimethylundecane': 'Not Assigned',
   "2,2',3',4,5-Pentabromodiphenyl ether": 'Organics, BDEs',
   "2,2',3',4,5-Pentachlorobiphenyl": 'Organics, PCBs',
   "2,2',3',4,6-Pentabromodiphenyl ether": 'Organics, BDEs',
@@ -14352,6 +14349,7 @@ export default {
   '4-Methylchrysene': 'Not Assigned',
   '4-Methyldecane': 'Not Assigned',
   '4-Methyldibenzofuran': 'Not Assigned',
+  '4-Methyldodecane': 'Not Assigned',
   '4-Methylheptane': 'Not Assigned',
   '4-Methylhexan-2-one': 'Not Assigned',
   '4-Methylindan': 'Not Assigned',
@@ -15011,6 +15009,7 @@ export default {
   '5-Methyl-2-hexene': 'Not Assigned',
   '5-Methyl-5-[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]hex-1-en-3-yne':
     'PFAS,Perfluorinated Alkyl Substance',
+  '5-Methyl-5-propylnonane': 'Not Assigned',
   '5-Methyl-6-[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)sulfanyl]hexahydro-4,7-methano-2-benzofuran-1,3-dione':
     'PFAS,Perfluorinated Alkyl Substance',
   '5-Methylchrysene': 'Not Assigned',
@@ -33347,6 +33346,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Undecyl heptafluorobutanoate': 'PFAS,Perfluorinated Alkyl Substance',
   'Undecyl sulfate': 'Not Assigned',
+  Undecylcyclohexane: 'Not Assigned',
   'Undercut Banks (%)': 'Information',
   'Undercut Horizontal-Left Bank': 'Habitat',
   'Undercut Horizontal-Right Bank': 'Habitat',

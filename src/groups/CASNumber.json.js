@@ -681,11 +681,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '*****RETIRED*4-Nonylphenol heptadecaethoxylates': '',
-  '*****RETIRED*4-Nonylphenol heptaethoxylates': '',
-  '*****RETIRED*4-Nonylphenol hexadecaethoxylates': '',
-  '*****RETIRED*4-Nonylphenol hexaethoxylates': '',
-  '*****RETIRED*4-Nonylphenol nonaethoxylates': '',
   '*****RETIRED*4-Nonylphenol octadecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol octaethoxylates': '',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates': '',
@@ -3956,6 +3951,7 @@ export default {
   "1-Hexanol, 3,3,4,4,5,5,6,6,6-nonafluoro-, 1,1'-(hydrogen phosphate)":
     '135098-69-0',
   '1-Hexanol, 6-chloro-3,3,4,4,5,5,6,6-octafluoro-': '131118-30-4',
+  '1-Hexen-3-one': '1629-60-3',
   '1-Hexen-3-yne, 5-methyl-5-(2,2,3,3-tetrafluoropropoxy)-': '72063-49-1',
   '1-Hexene': '592-41-6',
   '1-Hexene & 2-Methyl-1-pentene': '',
@@ -5366,6 +5362,7 @@ export default {
   '2, 4-DB DMA': '',
   '2,1-Benzoxaphospholium, 1,3-dihydro-1,1-diphenyl-3,3-bis(trifluoromethyl)-':
     '77047-91-7',
+  '2,10-Dimethylundecane': '17301-27-8',
   "2,2',3',4,5-Pentabromodiphenyl ether": '446254-64-4',
   "2,2',3',4,5-Pentachlorobiphenyl": '41464-51-1',
   "2,2',3',4,6-Pentabromodiphenyl ether": '38463-82-0',
@@ -11645,6 +11642,7 @@ export default {
   '4-Methylchrysene': '3351-30-2',
   '4-Methyldecane': '2847-72-5',
   '4-Methyldibenzofuran': '7320-53-8',
+  '4-Methyldodecane': '6117-97-1',
   '4-Methylheptane': '589-53-7',
   '4-Methylhexan-2-one': '105-42-0',
   '4-Methylindan': '824-22-6',
@@ -12163,6 +12161,7 @@ export default {
   '5-Methyl-2-hexene': '3404-62-4',
   '5-Methyl-5-[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]hex-1-en-3-yne':
     '85915-52-2',
+  '5-Methyl-5-propylnonane': '17312-75-3',
   '5-Methyl-6-[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)sulfanyl]hexahydro-4,7-methano-2-benzofuran-1,3-dione':
     '94413-32-8',
   '5-Methylchrysene': '3697-24-3',
@@ -28450,6 +28449,7 @@ export default {
     '34598-33-9',
   'Undecyl heptafluorobutanoate': '959103-74-3',
   'Undecyl sulfate': '',
+  Undecylcyclohexane: '54105-66-7',
   'Undercut Banks (%)': '',
   'Undercut Horizontal-Left Bank': '',
   'Undercut Horizontal-Right Bank': '',

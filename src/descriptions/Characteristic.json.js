@@ -625,11 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*****RETIRED*4-Nonylphenol heptadecaethoxylates': 'NWIS',
-  '*****RETIRED*4-Nonylphenol heptaethoxylates': 'NWIS',
-  '*****RETIRED*4-Nonylphenol hexadecaethoxylates': 'NWIS',
-  '*****RETIRED*4-Nonylphenol hexaethoxylates': 'NWIS',
-  '*****RETIRED*4-Nonylphenol nonaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol octadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol octaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates': 'NWIS',
@@ -3633,6 +3628,7 @@ export default {
   '1-Hexanol, 3,3,4,4,5,5,6,6,6-nonafluoro-': '',
   "1-Hexanol, 3,3,4,4,5,5,6,6,6-nonafluoro-, 1,1'-(hydrogen phosphate)": '',
   '1-Hexanol, 6-chloro-3,3,4,4,5,5,6,6-octafluoro-': '',
+  '1-Hexen-3-one': '',
   '1-Hexen-3-yne, 5-methyl-5-(2,2,3,3-tetrafluoropropoxy)-': '',
   '1-Hexene': '; Request Date: 11-JAN-18',
   '1-Hexene & 2-Methyl-1-pentene': '',
@@ -5002,6 +4998,7 @@ export default {
   '2, 4-DB DMA': '',
   '2,1-Benzoxaphospholium, 1,3-dihydro-1,1-diphenyl-3,3-bis(trifluoromethyl)-':
     '',
+  '2,10-Dimethylundecane': '',
   "2,2',3',4,5-Pentabromodiphenyl ether***retired***use BDE-097":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3',4,5-Pentachlorobiphenyl":
@@ -11138,6 +11135,7 @@ export default {
   '4-Methylchrysene': '; Request Date: 30-AUG-12',
   '4-Methyldecane': '; Request Date: 02-MAR-07',
   '4-Methyldibenzofuran': '; Request Date: 23-APR-15',
+  '4-Methyldodecane': '',
   '4-Methylheptane': '',
   '4-Methylhexan-2-one': '',
   '4-Methylindan': '; Request Date: 02-MAR-07',
@@ -11618,6 +11616,7 @@ export default {
   '5-Methyl-2-(1,2,2,2-tetrafluoroethyl)pyridine': '',
   '5-Methyl-2-hexene': '; Request Date: 11-JAN-18',
   '5-Methyl-5-[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]hex-1-en-3-yne': '',
+  '5-Methyl-5-propylnonane': '',
   '5-Methyl-6-[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)sulfanyl]hexahydro-4,7-methano-2-benzofuran-1,3-dione':
     '',
   '5-Methylchrysene': '; Request Date: 01-MAY-14',
@@ -29236,6 +29235,7 @@ export default {
     '',
   'Undecyl heptafluorobutanoate': '',
   'Undecyl sulfate': 'NWIS',
+  Undecylcyclohexane: '',
   'Undercut Banks (%)': '; Request Date: 29-JUN-10',
   'Undercut Horizontal-Left Bank':
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',

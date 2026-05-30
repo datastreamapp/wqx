@@ -35,7 +35,8 @@ export default {
   '11COETUL_WQX': 'Water Quality Monitoring Data',
   '11DELMOD_WQX': 'Water Quality Monitoring Data',
   '11FLKNMS_WQX': 'Water Quality Monitoring Data.',
-  '11NPSWRD_WQX': '',
+  '11NPSWRD_WQX':
+    'The NPS preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The WRD supports this mission by providing assistance, expertise, and guidance for aquatic ecosystem stewardship to parks through programs in the areas of fisheries, natural resource condition assessments, information management, hydrology, ocean and coastal resources, wetlands, water quality, and water rights.',
   '11TOX09_WQX': 'Priority Pollutant Data',
   '1CTDPHBM': '',
   '1VTDECWQ': '',
@@ -677,6 +678,7 @@ export default {
   EPA_OCMA_R2: '',
   EPA_OCMA_R4: '',
   EPA_OCMA_R6: 'EPA Ocean and Coastal Monitoring Assessment',
+  EPA_OCSPP_OPPT: '',
   EPA_R2: 'EPA Region 2',
   EPA_R2_EXT: 'EPA Region 2 Volunteer Partners',
   EPA_R7_GRANT_WQX: 'Grantee groups in EPA Region 7',

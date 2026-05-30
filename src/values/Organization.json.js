@@ -581,6 +581,7 @@ export default {
     'EPA_OCMA_R2',
     'EPA_OCMA_R4',
     'EPA_OCMA_R6',
+    'EPA_OCSPP_OPPT',
     'EPA_R2',
     'EPA_R2_EXT',
     'EPA_R7_GRANT_WQX',
