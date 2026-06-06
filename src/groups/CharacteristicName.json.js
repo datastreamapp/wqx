@@ -948,8 +948,6 @@ export default {
   '*****RETIRED*4-Nonylphenol triethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol undecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Octylphenol monoethoxylates': 'Not Assigned',
-  '*****RETIRED*Deiodo flubendiamide': 'Not Assigned',
-  '*****RETIRED*Diethylstilbesterol glucuronide': 'Not Assigned',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': 'Information',
@@ -17859,6 +17857,7 @@ export default {
   'Bicyclo[2.2.1]heptan-2-one, 3-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-': 'Not Assigned',
+  'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, exo-': 'Not Assigned',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-, (1S,4R)-':
@@ -19743,6 +19742,7 @@ export default {
   'Cyclohexanecarboxylic acid': 'Not Assigned',
   'Cyclohexanecarboxylic acid, 1-(1,1,2,2-tetrafluoroethyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  Cyclohexaneethanol: 'Not Assigned',
   'Cyclohexanemethanol, 1,2,2,3,3,4,4,5,5,6,6-undecafluoro-':
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclohexanemethanol, 4-[(ethenyloxy)methyl]-, polymer with chlorotrifluoroethene, (ethenyloxy)cyclohexane, .alpha.-[[4-[(ethenyloxy)methyl]cyclohexyl]methyl]-.omega.-hydroxypoly(oxy-1,2-ethanediyl) and ethoxyethene':

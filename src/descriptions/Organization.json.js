@@ -1193,6 +1193,7 @@ export default {
   OKWRB_WQX: 'Water Quality',
   OLMS: "Non-profit dedicated to the protection of Ohio's lakes and their watershed",
   ONEIDA_WQX: 'Oneida Nation',
+  ONEWATERCONSULTINGNJ_WQX: '',
   OOPBLO: 'Pueblo of Ohkay Owingeh, New Mexico',
   ORACWA_WQX: '',
   ORCOSWCD: '',

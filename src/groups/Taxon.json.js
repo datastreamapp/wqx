@@ -1,5 +1,4 @@
 export default {
-  '****Mastogloia danseyi': 'Diatoms',
   'Abalistes macrophthalmus': 'Not Assigned',
   'Abalistes stellatus': 'Not Assigned',
   Abarenicola: 'Not Assigned',
@@ -4257,6 +4256,7 @@ export default {
   'Aulacoseira tenuior': 'Not Assigned',
   'Aulacoseira tethera': 'Not Assigned',
   'Aulacoseira valida': 'Not Assigned',
+  'Aulacoseira wyomingensis': 'Diatoms',
   Aulacoseiraceae: 'Not Assigned',
   Aulacoseirales: 'Not Assigned',
   Aulastomatomorpha: 'Not Assigned',

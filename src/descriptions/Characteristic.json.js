@@ -635,8 +635,6 @@ export default {
   '*****RETIRED*4-Nonylphenol triethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol undecaethoxylates': 'NWIS',
   '*****RETIRED*4-Octylphenol monoethoxylates': 'NWIS',
-  '*****RETIRED*Deiodo flubendiamide': 'NWIS',
-  '*****RETIRED*Diethylstilbesterol glucuronide': 'NWIS',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -14280,6 +14278,7 @@ export default {
     '',
   'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-':
     'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-',
+  'Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, exo-': '',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-': '',
   'Bicyclo[2.2.1]heptane-2,2-dicarbonitrile, 3,3-bis(trifluoromethyl)-, (1S,4R)-':
     '',
@@ -16096,6 +16095,7 @@ export default {
     '',
   'Cyclohexanecarboxylic acid': '; Request Date: 22-JUL-14',
   'Cyclohexanecarboxylic acid, 1-(1,1,2,2-tetrafluoroethyl)-': '',
+  Cyclohexaneethanol: '',
   'Cyclohexanemethanol, 1,2,2,3,3,4,4,5,5,6,6-undecafluoro-': '',
   'Cyclohexanemethanol, 4-[(ethenyloxy)methyl]-, polymer with chlorotrifluoroethene, (ethenyloxy)cyclohexane, .alpha.-[[4-[(ethenyloxy)methyl]cyclohexyl]methyl]-.omega.-hydroxypoly(oxy-1,2-ethanediyl) and ethoxyethene':
     '',

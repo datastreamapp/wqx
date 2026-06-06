@@ -4,7 +4,6 @@ export default {
   description: '',
   type: 'string',
   enum: [
-    '****Mastogloia danseyi',
     'Abalistes macrophthalmus***retired***use Abalistes stellatus',
     'Abalistes stellatus',
     'Abarenicola',
@@ -4262,6 +4261,7 @@ export default {
     'Aulacoseira tenuior',
     'Aulacoseira tethera',
     'Aulacoseira valida',
+    'Aulacoseira wyomingensis',
     'Aulacoseiraceae',
     'Aulacoseirales',
     'Aulastomatomorpha',
