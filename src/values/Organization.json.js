@@ -1322,6 +1322,7 @@ export default {
     'UDWC_WQX',
     'UFMILTON_WQX',
     'UH_CLEARLAKE',
+    'UI_WQX',
     'UMC',
     'UMCRWWTF',
     'UMMP',
