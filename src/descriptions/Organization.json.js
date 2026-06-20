@@ -450,6 +450,7 @@ export default {
   CCAMP_WQX: 'Water Quality Data',
   CCC: '',
   'CCCE-WHSE': 'Cape Cod Cooperative Extension/Woods Hole Sea Grant',
+  CCPD_WQX: 'Cayuga County Department of Planning and Economic Development',
   CCS: 'https://coastalstudies.org/',
   CCSCD: '',
   CCSHBWA: 'Crafts Creek Spring Hill Brook Watershed Association',
@@ -757,7 +758,7 @@ export default {
   GIALANDANDWATER: 'Green Iowa AmeriCorps',
   GILLIAM_SWCD: 'Volunteer Monitoring Group',
   GLC_WQX: '',
-  GLEC: '',
+  GLEC: 'Great Lakes Environmental Center, Inc. (GLEC) is a national contracting firm offering applied environmental sciences, research, and compliance assistance focused on water quality and the protection of aquatic ecosystems.',
   GLENDALE_WQX: 'Water Quality Monitoring Data',
   GLEON: 'GLEON Lake Observer mobile app data',
   GLIFWC: 'Great Lakes Indian Fish and Wildlife Commission',
@@ -1164,7 +1165,7 @@ export default {
   NTEMPLE_WQX: 'Water Quality Data',
   NTHRNUTE: '',
   NVC_WQX:
-    'Native Village of Council (Tribal) || Native Village of Council (Tribal)',
+    'The Native Village of Council (NVC) is a federally recognized tribe of Inupiat peoples who originated in the Niukluk River and Fish River.',
   NVEPA_WQP:
     'Navajo Nation, Arizona, New Mexico & Utah (Tribal) || Navajo Nation, Arizona, New Mexico & Utah (Tribal)',
   NWIFC_WQX:

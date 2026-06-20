@@ -625,7 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*****RETIRED*4-Nonylphenol octadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol octaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol pentaethoxylates': '1;NWIS',
@@ -4617,6 +4616,7 @@ export default {
     '',
   '12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,19-Heptadecafluorononadecan-1-ol':
     '',
+  '12,14-Dichlorodehydroabietic acid': 'Datastream',
   '12-Azido-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-henicosafluorododecane':
     '',
   '12-Bromo-1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-henicosafluorododecane':
@@ -9316,6 +9316,7 @@ export default {
   '3,4,6-Trichloro-2-(2-chloro-4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heptadecafluoroundecyl)phenyl acetate':
     '',
   '3,4,6-Trichloro-5-cyano-2-hydroxybenzamide': 'NWIS',
+  '3,4,6-Trichlorocatechol': 'Datastream',
   '3,4,6-Trichloroguaiacol': '; Request Date: 30-APR-15',
   '3,4-Bis((perfluoro-1-oxooctyl)amino)benzenesulfonyl chloride': '',
   '3,4-Bis(2,2,3,3,4,4,4-heptafluorobutyl)-1H-pyrrole-2,5-dicarboxylic acid':
@@ -9332,6 +9333,7 @@ export default {
   '3,4-Dichlorobenzotrifluoride':
     '1,2-Dichloro-4-(trifluoromethyl)benzene (3,4-Dichlorobenzotrifluoride)',
   '3,4-Dichlorobiphenyl': 'Nemi.gov; Request Date: 02-MAR-07',
+  '3,4-Dichlorocatechol': 'Datastream',
   '3,4-Dichloroguaiacol': '; Request Date: 30-APR-15',
   '3,4-Dichloronitrobenzene': 'Nemi.gov; Request Date: 24-SEP-19',
   '3,4-Dichlorophenol': '; Request Date: 02-MAR-07',
@@ -9398,6 +9400,7 @@ export default {
   '3,5-Dichloroaniline': 'Request Date: 11-Sep-14 (nps.gov cas# review)',
   '3,5-Dichlorobenzoic acid': 'Nemi.gov; Request Date: 02-MAR-07',
   '3,5-Dichlorobiphenyl': 'PCB Congener; Nemi.gov; Request Date: 02-MAR-07',
+  '3,5-Dichlorocatechol': 'Datastream',
   '3,5-Dichloromethoxy triclosan': 'NWIS',
   '3,5-Dichlorophenol': '; Request Date: 22-JUL-14',
   '3,5-Diethyltoluene': '',
@@ -10695,6 +10698,7 @@ export default {
   '4,5-Dichloro-4,5,5-trifluoropent-1-ene': '',
   '4,5-Dichlorocatechol': '; Request Date: 02-MAR-07',
   '4,5-Dichloroperfluoro-3-oxapentanesulfonyl fluoride': '',
+  '4,5-Dichloroveratrole': 'Datastream',
   '4,5-Dihydro-2-phenyl-.alpha.-((perfluorohexyl)ethyloxy)methyl-1H-Imidazole-1-ethanol':
     '',
   '4,5-Dimethyl-1,2-dithiol-3-one': '; Request Date: 02-MAR-07',
@@ -11013,6 +11017,7 @@ export default {
   '4-Chlorobiphenyl': 'Nemi.gov; Request Date: 02-MAR-07',
   '4-Chlorobiphenyl-C13':
     'Request Date: 28-JAN-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  '4-Chlorocatechol': 'Datastream',
   '4-Chlorophenyl (2,2,3,3,4,4,4-heptafluorobutanoyl)sulfamate': '',
   '4-Chlorophenyl ether': '; Request Date: 22-JUL-14',
   '4-Chlorophenylurea': 'NWIS',
@@ -12504,6 +12509,7 @@ export default {
   'Actual Number of Individuals Measured': '; Request Date: 02-MAR-07',
   'Actual Number of Individuals Weighed': '; Request Date: 02-MAR-07',
   Acyclovir: '; Request Date: 02-FEB-15',
+  'Adamantane Carboxylic Acid-D15': 'Datastream',
   'Adenosine triphosphate': '; Request Date: 22-JUL-14',
   'Adipic acid': '',
   'Adiponitrile, perfluoro': '',
@@ -12648,6 +12654,7 @@ export default {
   'Alkyl iodides, C8-14, gamma-mu-perfluoro': '',
   'Alkylbenzene sulfonate': 'NWIS',
   Allethrin: '; Request Date: 22-JUL-14',
+  Allidochlor: 'Datastream',
   Allobarbital: 'NWIS',
   'Allyl 1H,1H-heptafluorobutyl ether': '',
   'Allyl 1H,1H-perfluorooctyl ether': '',
@@ -13001,6 +13008,8 @@ export default {
   Atraton: 'Nemi.gov; Request Date: 02-MAR-07',
   Atrazine: 'Nemi.gov; Request Date: 02-MAR-07',
   'Atrazine + N-Dealkylated Metabolites': '',
+  'Atrazine + all metabolites':
+    'All metabolites of Atrazine, including n-dealkylated metabolites and other metabolites',
   'Atrazine-13C3': 'NWIS',
   'Atrazine-d5': 'Atrazine-d5',
   'Atrazine-d5 (ethyl-d5)': '; Request Date: 03-DEC-12',
@@ -13278,6 +13287,7 @@ export default {
     'BOD mass is determined as concentration times the flow rate, usually expressed as pounds per day.; Nemi.gov; Request Date: 24-SEP-19',
   'BOD, ultimate':
     'The amount of oxygen consumed as a result of biological respiration of both carbonaceous and nitrogenous materials over an extended incubation period or the sum of carbonaceous oxygen demand (CBOD) and nitrogenous oxygen demand (NOD).; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
+  'BTEX plus styrene, Total': 'Datastream',
   'BTEX, Total':
     '1;GLENDA contact (klewin.kenneth@epa.gov); Request Date: 22-JUL-19',
   BTU: '; Request Date: 03-OCT-14',
@@ -13418,6 +13428,7 @@ export default {
   'Beaver Flow Modification (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Beck Biotic Index': '; Request Date: 02-MAR-07',
   Bedrock: '',
+  Benalaxyl: 'Datastream',
   Bendiocarb: '; Request Date: 22-JUL-14',
   'Bendiocarb phenol': '; Request Date: 22-JUL-14',
   Bendroflumethiazide:
@@ -14204,6 +14215,7 @@ export default {
   'Benzoylecgonine hydrate': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   'Benzoylecgonine-D3': '; Request Date: 22-JUL-14',
   'Benzoylecgonine-d8': '; Request Date: 24-MAR-14',
+  'Benzoylprop-ethyl': 'Datastream',
   Benzphetamine: '; Request Date: 18-DEC-18',
   'Benzphetamine hydrochloride': '; Request Date: 22-JUL-14',
   Benzthiazide: 'NWIS',
@@ -14690,6 +14702,7 @@ export default {
   'Bulk Density': '',
   Bumetanide: 'NWIS',
   'Bumetanide-d5': '',
+  Bupirimate: 'Datastream',
   Buprenorphine: '; Request Date: 18-DEC-18',
   'Buprenorphine hydrochloride': '; Request Date: 30-MAY-13',
   Buprofezin: 'Buprofezin',
@@ -14952,6 +14965,7 @@ export default {
   'C10-C12 Aliphatics': '; Request Date: 03-AUG-10',
   'C10-C12 Aromatics': '; Request Date: 03-AUG-10',
   'C10-C16 Hydrocarbons': '',
+  'C10-C50 Hydrocarbons': 'Datastream',
   'C11-C22 Aromatics': '; Request Date: 13-JAN-16',
   'C11-C22 Aromatics, Adjusted': '',
   'C11-C22 Aromatics, Unadjusted':
@@ -14967,6 +14981,7 @@ export default {
   'C16-C21 Aromatics': '; Request Date: 03-AUG-10',
   'C16-C21 Hydrocarbons': '',
   'C16-C34 Hydrocarbons': '',
+  'C16-C50 Hydrocarbons': 'Datastream',
   'C18 Hydrocarbons': '; Request Date: 02-MAR-07',
   'C19-C36 Aliphatics': '; Request Date: 13-JAN-16',
   'C19-C36 Aliphatics, Unadjusted': '',
@@ -15612,6 +15627,7 @@ export default {
   'Chlorthal-Monomethyl': '; Request Date: 22-JUL-14',
   'Chlorthal-dimethyl': 'Nemi.gov; Request Date: 22-JUL-14',
   Chlorthalidone: 'NWIS',
+  Chlorthiamid: 'Datastream',
   Chlorthion: '; Request Date: 02-MAR-07',
   Chlorthiophos: '1;',
   'Cholest-5-en-3-one': '; Request Date: 23-APR-15',
@@ -15900,6 +15916,7 @@ export default {
   'Copper-63': 'Copper, atomic number 29.',
   'Copper-65': '',
   'Coprostan-3-one': '; Request Date: 23-APR-15',
+  Coprostanol: 'Datastream',
   Coprosterol: 'Nemi.gov; Request Date: 02-MAR-07',
   'Coral Bleached Cover': '; Request Date: 12-NOV-14',
   'Coral Diseased Cover': '; Request Date: 12-NOV-14',
@@ -16431,6 +16448,7 @@ export default {
   'Decane, 3,3,4,4,5,5,6,6,7,7,8,8-dodecafluoro-1,10-diiodo-': '',
   'Decane, 6-bromo-1,1,1,2,2,3,3-heptafluoro-4,4-bis(trifluoromethyl)-': '',
   'Decane-1,10-diyl bis(heptafluorobutanoate)': '',
+  'Decanoic Acid-D19': 'Datastream',
   'Decanoic acid': '; Request Date: 02-MAR-07',
   'Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-octadecafluoro-9-(trifluoromethyl)-':
     '',
@@ -18087,6 +18105,7 @@ export default {
   Fenofibrate: '; Request Date: 02-FEB-15',
   'Fenofibrate-d6': '',
   Fenoprofen: '1;NWIS',
+  Fenoxaprop: 'Datastream',
   'Fenoxaprop-P-ethyl': '1;NWIS',
   'Fenoxaprop-ethyl': '; Request Date: 28-APR-09',
   Fenoxycarb: 'Fenoxycarb',
@@ -18193,6 +18212,8 @@ export default {
     'The weight of the solid remaining after a well-mixed sample is filtered through a standard glass filter, the resultant filtrate evaporated and dried to a constant weight at 103-105 deg C. and then ignited at 550 +/ 50 deg C.; Request Date: 02-MAR-10',
   'Fixed suspended solids':
     'The weight of solid remaining after a representative sample is filtered, the non-filterable portion of the sample is dried to a constant weight at 103-105 deg C., and then ignited at 550 +/- 50 deg C.; Request Date: 02-MAR-07',
+  'Flamprop-isopropyl': 'Datastream',
+  'Flamprop-methyl': 'Datastream',
   'Flash point':
     'The lowest temperature at which a liquid in a specified apparatus will give off sufficient vapor to ignite momentarily on application of a flame, measured in deg C.; Request Date: 01-JUL-11',
   Flavobacterium: '; Request Date: 22-JUL-14',
@@ -18663,6 +18684,7 @@ export default {
   Griseofulvin: 'NWIS',
   'Gross Alpha radioactivity': '',
   'Gross Beta radioactivity': '',
+  'Gross alpha radioactivity (ref std unspecified)': 'Datastream',
   'Gross alpha radioactivity, (Americium-241 ref std)':
     '; Request Date: 02-MAR-07',
   'Gross alpha radioactivity, (Plutonium-239 ref std)':
@@ -18931,6 +18953,7 @@ export default {
   'Heptatriacontafluorononadecanoic acid': '',
   Heptatriacontane: 'NWIS',
   Heptene: '; Request Date: 02-MAR-07',
+  Heptenophos: 'Datastream',
   'Heptyl sulfate': 'NWIS',
   'Herbicide mix, unspecified':
     'Any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any plant pest (weed).; Request Date: 02-MAR-07',
@@ -18979,6 +19002,7 @@ export default {
     '',
   'Hexadecane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluoro-': '1550583',
   'Hexadecane, 2,6,11,15-tetramethyl-': '; Request Date: 14-APR-15',
+  'Hexadecanoic Acid-D31': 'Datastream',
   'Hexadecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-hentriacontafluoro-':
     'NWIS',
   'Hexadecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-hentriacontafluoro-***retired***use Perfluoropalmitic acid':
@@ -19988,6 +20012,7 @@ export default {
     'The percent of light that is transmitted through a substance.; Request Date: 23-APR-15',
   'Light, (PAR at depth/PAR at surface) x 100':
     'The ratio of the measured Photosynthetic Active Radiation (PAR) at a given water depth and the measured PAR at the water surface.  Refer to Photosynthetic Active Radiation.; Request Date: 02-MAR-07',
+  'Light, Photosynthetic Photon Flux Density (PPFD)': 'Datastream',
   'Light, incident':
     'The total amount of light striking a surface.; Request Date: 02-MAR-07',
   'Light, incident + reflected (ambient)':
@@ -20027,6 +20052,7 @@ export default {
   'Linear alkylbenzene sulfonate': 'NWIS',
   'Linear perfluoroalkyl(C1-24)iodide': '',
   'Linoleic acid': '1; Request Date: 02-MAR-07',
+  'Linolenic acid': 'Datastream',
   Linuron: 'Nemi.gov; Request Date: 22-JUL-14',
   'Linuron-d6': '1;NWIS',
   'Lipid (dry) content': '',
@@ -20084,6 +20110,7 @@ export default {
     'Lithium, atomic number 3.Lithium, atomic number 3.; Request Date: 02-MAR-07',
   'Lithium-7/Lithium-6 ratio': '; Request Date: 02-MAR-07',
   'Lithium/calcium ratio': '',
+  'Lithocholic Acid-D4': 'Datastream',
   'Lithology code': '; Request Date: 30-MAY-13',
   'Litter Coverage': '',
   'Littoral Cover Complexity Index': '; Request Date: 07-MAR-16',
@@ -22618,6 +22645,7 @@ export default {
   'O-Ethyl S-propyl phosphorothioate': 'NWIS',
   'O-Ethyl-S-methyl-S-propyl phosphorodithioate':
     'O-Ethyl-S-methyl-S-propyl phosphorodithioate',
+  'O-Methylpodocarpic Acid': 'Datastream',
   'O-xylene & N-nonane': '',
   'Observed Recreational Use - Boating (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
@@ -22963,6 +22991,7 @@ export default {
     'The uptake or utilization of oxygen during the day.; Request Date: 02-MAR-07',
   'Oxygen uptake, night':
     'The uptake or utilization of oxygen during the night.; Request Date: 02-MAR-07',
+  'Oxygen-17': 'Datastream',
   'Oxygen-17/oxygen-16 ratio': '',
   'Oxygen-18': 'Oxygen, atomic number 8.; Request Date: 02-MAR-07',
   'Oxygen-18/Oxygen-16 ratio': '; Request Date: 02-MAR-07 ; 18O:16O, O18:O16 ',
@@ -28363,6 +28392,7 @@ export default {
   Tetrasiphonidae: 'NWIS',
   Tetrastemma: 'TAXON: Animalia Kingdom; NWIS',
   Tetrastemmatidae: 'TAXON: Animalia Kingdom; NWIS',
+  Tetrasul: 'Datastream',
   Tetratetracontane: '; Request Date: 02-MAR-07',
   Tetrathionate: 'NWIS',
   'Tetratriacontafluoro-10,13,16,19-tetraoxaoctacosadiene': '',
@@ -28591,6 +28621,7 @@ export default {
   'Total Furans': '; Request Date: 14-AUG-18',
   'Total Heptachloro Biphenyls': '; Request Date: 19-MAY-10',
   'Total Hexachloro Biphenyls': '; Request Date: 19-MAY-10',
+  'Total Hexachlorocyclohexane, sum of isomers': 'Datastream',
   'Total Hexachloronaphthalene': '; Request Date: 18-OCT-18',
   'Total Kjeldahl nitrogen':
     'Chesapeake Bay Program Data Migration; Request Date: 11-JAN-17',
@@ -29935,6 +29966,7 @@ export default {
   'cis-Decalin***retired***use Decahydronaphthalene':
     'Request Date: 29-Apr-16 GLENDA contact (klewin.kenneth@epa.gov) (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ https://pubchem.ncbi.nlm.nih.gov/compound/Decahydronaphthalene#section=Depositor-Supplied-Synonyms',
   'cis-Deltamethric acid': 'NWIS',
+  'cis-Hydrindane': '',
   'cis-Mevinphos':
     '1;https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/substancesearch/search.do?details=displayDetails&selectedSubstanceId=76738',
   'cis-Nonachlor': 'Nemi.gov; Request Date: 02-MAR-07',
