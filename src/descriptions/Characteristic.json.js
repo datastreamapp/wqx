@@ -625,7 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*****RETIRED*4-Nonylphenol octaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol pentaethoxylates': '1;NWIS',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates': 'NWIS',
@@ -13327,6 +13326,8 @@ export default {
   'Bacteria, nitrifiers':
     'Bacteria that oxidize ammonia to nitrites, nitrates, and their corresponding acids.; Request Date: 02-MAR-07',
   'Bacteria, slime-forming': '; Request Date: 10-SEP-14',
+  'Bacteroides - avian': '',
+  'Bacteroides - canine': '',
   Balsalazide:
     'GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'Balsalazide-d3': '',
@@ -13339,6 +13340,7 @@ export default {
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Bank Angle Water to Bankfull-Right Bank':
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
+  'Bank Erosion': '',
   'Bank Erosion Length of 10m Segment-Left Bank':
     'https://irma.nps.gov/DataStore/Reference/Profile/2296564',
   'Bank Erosion Length of 10m Segment-Right Bank':
@@ -13350,6 +13352,7 @@ export default {
   'Bank Height, Right': '',
   'Bank Instability Erosion Class (choice list)': '',
   'Bank Side Measured': '',
+  'Bank Slope': '',
   'Bank Slope, Left': '; Request Date: 26-AUG-13',
   'Bank Slope, Right': '; Request Date: 26-AUG-13',
   'Bank Stability Index': '',
@@ -13362,6 +13365,7 @@ export default {
   'Bank Stability RDB': '; Request Date: 25-AUG-16',
   'Bank Stability, Left (choice list)': '; Request Date: 11-APR-17',
   'Bank Stability, Right (choice list)': '; Request Date: 11-APR-17',
+  'Bank Substrate': '',
   'Bank Undercut': '',
   'Bank class (choice list)': '; Request Date: 08-JUN-10',
   'Bank class, Left (choice list)': '; Request Date: 08-JUN-10',
@@ -13373,6 +13377,7 @@ export default {
     'A descriptor to characterize streambank stability with respect to erosion or bank failure.; Request Date: 02-MAR-07',
   'Bank vegetative stability (choice list)':
     'A descriptor to characterize the general vegetative stability on the banks of a water body including excellent, fair, good, or poor.; Request Date: 02-MAR-07',
+  'Banke Vegetative Cover': '',
   'Bankful Angle (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Bankfull Height': '; Request Date: 04-OCT-18',
   'Bankfull Height above thalweg': '',
@@ -16545,6 +16550,7 @@ export default {
   'Deoxygenation constant-nitrogen':
     'The rate of oxygen consumption by aquatic organisms as they oxidize nitrogen-containing materials in an aquatic environment, expressed as a constant.; Request Date: 02-MAR-07',
   Deoxynivalenol: 'NWIS',
+  'Deposition and scouring (Y/N) (choice list)': '',
   'Deposits in Water': '',
   Depth:
     'The distance from the top to the bottom of an object, measured in units of length.; Request Date: 02-MAR-07',
@@ -17243,6 +17249,7 @@ export default {
     'https://www.sciencedirect.com/science/article/abs/pii/S0043135410002794?via%3Dihub',
   Dominance: '',
   'Dominance, Top 3 species': '',
+  'Dominant Bank Vegetation (choice list)': '',
   'Dominant Habitat Type': 'Information,4; Request Date: 10-SEP-11',
   'Dominant Land Use (choice list)': 'NRSA; Request Date: 11-APR-17',
   'Dominant Pool Substrate (choice list)': '',
@@ -17408,6 +17415,7 @@ export default {
   'Erbium, tris[3-[2,2,3,3,4,4,4-heptafluoro-1-(oxo-.kappa.O)butyl]-1,7,7-trimethylbicyclo[2.2.1]heptan-2-onato-.kappa.O]-':
     '',
   Ergosterol: 'Nemi.gov; Request Date: 25-SEP-19',
+  'Eroded Bank Height': '',
   'Eroded Fins Present (Y/N) (choice list)':
     'National Park Service, contact nps.gov; Request Date: 08-JUN-16',
   'Erosion Causes': '',
@@ -18766,7 +18774,11 @@ export default {
   'Habitat Quality (choice list)': '',
   'Habitat Total Score': '; Request Date: 25-AUG-16',
   'Habitat Type (choice list)': '; Request Date: 11-APR-17',
+  'Habitat Type, Dry (choice list)': '',
+  'Habitat Type, Pool (choice list)': '',
   'Habitat Type, Rapids (%)': '',
+  'Habitat Type, Riffle (choice list)': '',
+  'Habitat Type, Run (choice list)': '',
   'Habitat Type, Steps (%)':
     'An estimate of the portion of a stream reach consisting of steps which occur when a blockage (due to bedrock or large woody debris) is created in the stream creating a step-like structure in the longitudinal profile of the stream',
   'Habitat cover, brush and log (%)': 'Physical,14;',
@@ -19466,6 +19478,15 @@ export default {
   'Insect Infestation Disturbance (choice list)': '',
   Insectivores: '',
   'Instream Cover (%)': '',
+  'Instream Cover, Bedrock ledges': '',
+  'Instream Cover, Cobble, boulder, & growth': '',
+  'Instream Cover, Emergent aquatic vegetation': '',
+  'Instream Cover, Large woody debris': '',
+  'Instream Cover, Roots': '',
+  'Instream Cover, Small woody debris': '',
+  'Instream Cover, Submerged aquatic vegetation': '',
+  'Instream Cover, Terrestrial vegetation': '',
+  'Instream Cover, Undercut banks': '',
   'Instream Snags': '; Request Date: 26-AUG-13',
   'Instream feature, stream substrate (choice list)':
     '; Request Date: 24-AUG-10',
@@ -24956,6 +24977,7 @@ export default {
     '; Request Date: 11-APR-17',
   'Point Source Pollution - Outfall Pipe Present (Y/N) (choice list)':
     '; Request Date: 11-APR-17',
+  'Point bar (Y/N) (choice list)': '',
   'Polar organic chemicals': 'Nemi.gov; Request Date: 25-SEP-19',
   'Pollution tolerance abundance': '',
   Polonium: 'Nemi.gov; Request Date: 25-SEP-19',
@@ -25552,6 +25574,7 @@ export default {
     '; Request Date: 31-JUL-18',
   'Precipitation 96hr prior to monitoring event amount':
     '; Request Date: 31-JUL-18',
+  'Precipitation Intensity (choice list)': '',
   'Precipitation Last 24hrs (CA SWAMP) (choice list)':
     'California State Water Resources Control Board - https://www.waterboards.ca.gov; Request Date: 16-MAR-16',
   'Precipitation amount last event': '',
@@ -26776,10 +26799,12 @@ export default {
     'Fitzpatrick, F. A., I. R. Waite, P. J. D’Arconte, M. R. Meador, M. A. Maupin, and M. E. Gurtz. 1998. Revised methods for characterizing stream habitat in the National Water-Quality Assessment Program Raleigh, North Carolina. U.S. Geological Survey Water-Resources Investigations Report 98-4052.',
   'Riparian Channel Canopy Cover Right Bank-Right (choice list)':
     'Fitzpatrick, F. A., I. R. Waite, P. J. D’Arconte, M. R. Meador, M. A. Maupin, and M. E. Gurtz. 1998. Revised methods for characterizing stream habitat in the National Water-Quality Assessment Program Raleigh, North Carolina. U.S. Geological Survey Water-Resources Investigations Report 98-4052.',
+  'Riparian Condition (choice list)': '',
   'Riparian Cover Complexity Index': '; Request Date: 07-MAR-16',
   'Riparian Disturbance Intensity-Extent Index': '; Request Date: 07-MAR-16',
   'Riparian Erosion': '',
   'Riparian Floodplain': '',
+  'Riparian Width': '',
   'Riparian Width LDB': '; Request Date: 25-AUG-16',
   'Riparian Width RDB': '; Request Date: 25-AUG-16',
   'Riparian Width, Both Banks': '',
@@ -27892,6 +27917,7 @@ export default {
   'Substrate Odor (choice list)': '',
   'Substrate Origin': '',
   'Substrate Quality': '',
+  'Substrate Size Class': '',
   'Substrate Size Class, Midpoint': '',
   'Substrate Size Class, Transect': '',
   'Substrate Subdominant, Transect (choice list)': '; Request Date: 26-AUG-13',
@@ -29952,6 +29978,7 @@ export default {
   'cis-2-Hexene': '',
   'cis-2-Pentene & 2-methylpentane': '',
   'cis-2-Phenyl-2-butene': '; Request Date: 02-MAR-07',
+  'cis-3-Dodecene': '',
   'cis-3-Hexene': '',
   'cis-4-Methyl-2-pentene': '',
   'cis-Androsterone-16,16-d2': 'NWIS',

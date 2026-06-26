@@ -17,6 +17,11 @@ export default {
     '9 Densiometer Intersections',
   'Riparian Channel Canopy Cover Left Bank-Left (choice list)':
     '9 Densiometer Intersections',
+  'Habitat Type, Dry (choice list)': '<10',
+  'Habitat Type, Pool (choice list)': '<10',
+  'Habitat Type, Riffle (choice list)': '<10',
+  'Habitat Type, Run (choice list)': '<10',
+  'Precipitation Intensity (choice list)': 'Other',
   'Understory Herbaceous (choice list)': '4 = Very Heavy (>75%)',
   'Woody Understory shrubs (choice list)': '4 = Very Heavy (>75%)',
   'Woody Understory Grasses (choice list)': '4 = Very Heavy (>75%)',
@@ -461,9 +466,10 @@ export default {
   'Relative Wind Condition (choice list)': 'Windy',
   'Spring Type (choice list)':
     'Flowing spring, emerges into one or more stream channels',
+  'Bank Substrate': 'Silt',
   'USDA Soil Texture Classification (choice list)': 'Silty Clay Loam',
-  'Sky Code (CA SWAMP) (choice list)': 'Smoky',
   'Subsystem classification stream type (choice list)': 'Stained',
+  'Sky Code (CA SWAMP) (choice list)': 'Smoky',
   'Aquifer Rock Type (choice list)':
     'Fine grained, bedding places present (fine grains gritty, not visible to eye)',
   'Substrate Type (choice list)': 'Self-describing',
@@ -534,6 +540,7 @@ export default {
   'Bankful Angle (choice list)': 'V - Very Steep',
   'WIS habitat type (choice list)': 'Obligate Upland',
   'Sex (choice list)': 'Male',
+  'Riparian Condition (choice list)': 'Wetland Riparian',
   'RBP2, Water Quality, Water Surface Oils (choice list)': 'Slick',
   'RBP Water Surface Oils (choice list)': 'SLICK - Self describing.',
   'Swimability (choice list)': 'Not Swimmable',
@@ -547,9 +554,10 @@ export default {
     'Trees are the dominant species present',
   'Habitat rating (choice list)':
     'Less than the 25th percentile of reference condition',
-  'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
+  'Dominant Bank Vegetation (choice list)': 'Trees',
   'RBP2, Watershed, Local Erosion (choice list)':
     'Light/Slight local watershed erosion',
+  'RBP Local Watershed Erosion (choice list)': 'Slight Erosion',
   'Motor Boat Density (choice list)': 'None',
   'Current Precipitation (choice list)': 'Snow',
   'Precipitation, how heavy (choice list)': 'No precipitation',
@@ -644,6 +652,8 @@ export default {
   'Station Relocated (Y/N) (choice list)': 'Yes',
   'Sufficient Sampling (Y/N) (choice list)': 'Yes',
   'Voucher Collected (Y/N) (choice list)': 'Yes',
+  'Deposition and scouring (Y/N) (choice list)': 'Yes',
+  'Point bar (Y/N) (choice list)': 'Yes',
   'Floating debris (Y/N) (choice list)': 'Yes',
   'Macrophytes Extend Lakeward (choice list)':
     'Yes, Macrophytes extend lakeward',

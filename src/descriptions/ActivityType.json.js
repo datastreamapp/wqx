@@ -7,6 +7,12 @@ export default {
     'A field activity conducted to evaluate a habitat, according to an organizations pre-defined habitat assessment scheme.',
   'Field Msr/Obs-Incidental':
     'A field observation of a non-target species/analytes made during a formal survey and/or a field observation made during a non-formal survey.',
+  'Field Msr/Obs-Integrated Flow Proportioned':
+    'A discrete measurement collected in the field integrated over an interval or space within which changes in flow are used to alter the proportion of the sampled medium contributing to the integrated sample.',
+  'Field Msr/Obs-Integrated Time Series':
+    'A discrete measurement collected in the field that represents an integrated portion or segment of elapsed time.',
+  'Field Msr/Obs-Integrated Vertical Profile':
+    'A discrete measurement collected in the field that represents an integrated portion or segment of a vertical track within the study area.',
   'Field Msr/Obs-Portable Data Logger':
     'Continuous time series (sensor) data collected and submitted as a series of measurements with equal time steps in between. Measurements are collected in the field by an "attended or unattended" single or multi-parameter data logger. This Activity Type Code should only be used for short deployments (less than two weeks). For longer deployments, submit using "Field Msr/Obs-Continuous Time Series".',
   'Quality Control Alternative Measurement Sensitivity':

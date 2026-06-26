@@ -1,5 +1,4 @@
 export default [
-  '*****RETIRED*4-Nonylphenol octaethoxylates',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates',
   '*****RETIRED*4-Nonylphenol pentaethoxylates',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates',
