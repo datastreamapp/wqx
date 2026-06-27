@@ -160,7 +160,7 @@ export default {
   'cells/dL': '()Concentration Solution, Cells per deciliter',
   cfm: 'Flow, Cubic feet per minute',
   cfs: '()Flow, Cubic feet per second',
-  'cfs-day': '()Flow, Cubic feet per year',
+  'cfs-day': '()Viscosity, Cubic feet per second per day',
   'cfu/100g': '()Concentration Solution, Colony Forming Units per 100 grams',
   'cfu/100mL':
     '()Concentration Solution, Colony Forming Units per 100 milliliters. CFU (Colony Forming Unit) estimates the number of viable microorganisms by growing them in a solid agar.',
