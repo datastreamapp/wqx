@@ -938,6 +938,8 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '*******4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-':
+    'Not Assigned',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol pentaethoxylates': 'Organics, Other',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates': 'Not Assigned',

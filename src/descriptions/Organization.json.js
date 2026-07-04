@@ -285,6 +285,7 @@ export default {
     'Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation, California (Tribal) || Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation, California (Tribal)',
   ACOMA_PUEBLO_WQX:
     'Pueblo of Acoma, New Mexico (Tribal) || Pueblo of Acoma, New Mexico (Tribal)',
+  ADA_WQX: '',
   ADGGS: 'Alaska Division of Geological & Geophysical Surveys',
   ADVENTURESCIENTISTS:
     'Citizen science data collection in far flung locations around the world.',
@@ -947,6 +948,7 @@ export default {
   MANZANITA:
     'Manzanita Band of Diegueno Mission Indians of the Manzanita Reservation, California (Tribal) || Manzanita Band of Diegueno Mission Indians of the Manzanita Reservation, California (Tribal)',
   'MARITIME-PLANNING-WQX': '',
+  MARSHALL_UNIV_NRES: '',
   MARSHALL_WQX: 'Marshall University',
   MASSBAYS: '',
   MASSBAYS01: 'Massachusetts Bays National Estuary Program',

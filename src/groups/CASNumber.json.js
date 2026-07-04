@@ -681,6 +681,8 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
+  '*******4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-':
+    '3369-52-6',
   '*****RETIRED*4-Nonylphenol pentadecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol pentaethoxylates': '',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates': '',
