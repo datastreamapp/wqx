@@ -625,9 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*******4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-':
-    '',
-  '*****RETIRED*4-Nonylphenol pentadecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol pentaethoxylates': '1;NWIS',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol tetraethoxylates': '1;NWIS',
@@ -9240,6 +9237,7 @@ export default {
   '3,3,5-Trichloro-1,1,1,2,2-pentafluoropentane': '',
   '3,3,5-Trifluoro-5-(trifluoromethyl)-1,2,4-trioxolane': '',
   '3,3,5-Trimethylcyclohexyl salicylate': 'NWIS',
+  '3,3,5-Trimethylheptane': '',
   '3,3-Bis(2,2,3,3,4,4,5,5-octafluoropentoxymethyl)oxetane': '',
   '3,3-Bis(trifluoromethyl)-2-propenoic acid': '',
   '3,3-Bis(trifluoromethyl)-3-hydroxypropionic acid': '',
@@ -10971,6 +10969,7 @@ export default {
   '4-Bromophenyl phenyl ether***retired***use BDE-003':
     'Nemi.gov; Request Date: 24-SEP-19',
   '4-Carbethoxyhexafluorobutyryl chloride': '',
+  '4-Carene': '',
   '4-Chloro-1,1,1,3,3,4,4-heptafluorobutan-2-one': '',
   '4-Chloro-1,1,2,2,3,3-hexafluorobutane': '',
   '4-Chloro-1,1,2,3,3,4,4-heptafluorobut-1-ene': '',

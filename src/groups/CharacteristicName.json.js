@@ -938,9 +938,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '*******4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-':
-    'Not Assigned',
-  '*****RETIRED*4-Nonylphenol pentadecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol pentaethoxylates': 'Organics, Other',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol tetraethoxylates': 'Organics, Other',
@@ -11850,6 +11847,7 @@ export default {
   '3,3,5-Trifluoro-5-(trifluoromethyl)-1,2,4-trioxolane':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3,5-Trimethylcyclohexyl salicylate': 'Not Assigned',
+  '3,3,5-Trimethylheptane': 'Not Assigned',
   '3,3-Bis(2,2,3,3,4,4,5,5-octafluoropentoxymethyl)oxetane':
     'PFAS,Perfluorinated Alkyl Substance',
   '3,3-Bis(trifluoromethyl)-2-propenoic acid':
@@ -14157,6 +14155,7 @@ export default {
   '4-Bromophenyl phenyl ether': 'Organics, BDEs',
   '4-Carbethoxyhexafluorobutyryl chloride':
     'PFAS,Perfluorinated Alkyl Substance',
+  '4-Carene': 'Not Assigned',
   '4-Chloro-1,1,1,3,3,4,4-heptafluorobutan-2-one':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-Chloro-1,1,2,2,3,3-hexafluorobutane':

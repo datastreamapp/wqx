@@ -681,9 +681,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '71317-73-2',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '63513-18-8',
-  '*******4,7-Methanoisobenzofuran, 4,5,6,7,8,8-hexachloro-1,3,3a,4,7,7a-hexahydro-':
-    '3369-52-6',
-  '*****RETIRED*4-Nonylphenol pentadecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol pentaethoxylates': '',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates': '',
   '*****RETIRED*4-Nonylphenol tetraethoxylates': '',
@@ -9649,6 +9646,7 @@ export default {
   '3,3,5-Trichloro-1,1,1,2,2-pentafluoropentane': '18621-12-0',
   '3,3,5-Trifluoro-5-(trifluoromethyl)-1,2,4-trioxolane': '120030-78-6',
   '3,3,5-Trimethylcyclohexyl salicylate': '118-56-9',
+  '3,3,5-Trimethylheptane': '7154-80-5',
   '3,3-Bis(2,2,3,3,4,4,5,5-octafluoropentoxymethyl)oxetane': '60176-94-5',
   '3,3-Bis(trifluoromethyl)-2-propenoic acid': '1763-28-6',
   '3,3-Bis(trifluoromethyl)-3-hydroxypropionic acid': '1547-36-0',
@@ -11484,6 +11482,7 @@ export default {
     '',
   '4-Bromophenyl phenyl ether': '101-55-3',
   '4-Carbethoxyhexafluorobutyryl chloride': '18381-53-8',
+  '4-Carene': '29050-33-7',
   '4-Chloro-1,1,1,3,3,4,4-heptafluorobutan-2-one': '42287-76-3',
   '4-Chloro-1,1,2,2,3,3-hexafluorobutane': '75877-96-2',
   '4-Chloro-1,1,2,3,3,4,4-heptafluorobut-1-ene': '89551-62-2',

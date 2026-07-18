@@ -76,6 +76,7 @@ export default {
     'Pond-Stormwater',
     'Pond-Wastewater',
     'Reservoir',
+    'River Large',
     'River/Stream',
     'River/Stream Ephemeral',
     'River/Stream Intermittent',

@@ -50683,6 +50683,7 @@ export default {
     'Wisteria floribunda',
     'Wisteria frutescens',
     'Wisteria sinensis',
+    'Witkowskia explanata',
     'Wlassicsia kinistinensis',
     'Wolffia',
     'Wolffia borealis',

@@ -50709,6 +50709,7 @@ export default {
   'Wisteria floribunda': 'Not Assigned',
   'Wisteria frutescens': 'Not Assigned',
   'Wisteria sinensis': 'Not Assigned',
+  'Witkowskia explanata': 'Not Assigned',
   'Wlassicsia kinistinensis': 'Not Assigned',
   Wolffia: 'Not Assigned',
   'Wolffia borealis': 'Not Assigned',

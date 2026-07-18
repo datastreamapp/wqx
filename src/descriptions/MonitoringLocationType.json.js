@@ -135,6 +135,7 @@ export default {
     'Any water that has been affected by human use. Wastewater is "used water from any combination of domestic, industrial, commercial or agricultural activities, surface runoff or stormwater, and any sewer inflow or sewer infiltration".',
   Reservoir:
     'An enlarged natural or artificial lake, pond or impoundment created using a dam or lock to store water.',
+  'River Large': 'Non wadeable free flowing river',
   'River/Stream':
     'A body of water with surface water flowing within the bed and banks of a channel.',
   'River/Stream Ephemeral':
