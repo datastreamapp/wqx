@@ -6,6 +6,7 @@ export default {
   enum: [
     '#',
     '$',
+    '%',
     '&',
     '(',
     ')',
@@ -278,6 +279,7 @@ export default {
     'VS',
     'VVRR',
     'VVRR2',
+    'Y',
     'ZZ',
     '^'
   ],

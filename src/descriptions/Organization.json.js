@@ -347,6 +347,7 @@ export default {
   AWRL: '',
   AWW_WQX: 'Citizen Science Monitoring Program',
   AZDEQ_GW: 'Water Quality Division: Groundwater',
+  AZDEQ_SP: '',
   AZDEQ_SW: 'Water Quality Division: Surface Water',
   AZDEQ_WPD: 'Waste Programs Division',
   BACKBAYNWR: 'Back Bay National Wildlife Refuge',
@@ -628,7 +629,8 @@ export default {
   DUCKSU_WQX: '',
   DUCKWATER:
     'Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada (Tribal) || Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada (Tribal)',
-  DVSJ: 'Death Valley Timbi-sha Shoshone Tribe (Tribal) || Death Valley Timbi-sha Shoshone Tribe (Tribal)',
+  DVSJ_RETIRED:
+    'Retired Death Valley Timbi-sha Shoshone Tribe (Tribal) || Death Valley Timbi-sha Shoshone Tribe (Tribal)',
   DWH_SCRIBE1082:
     'Surface water and sediment sampling collected in response to the BP Gulf of Mexico Oil Spill',
   EAENGINEERING_WQX: '',

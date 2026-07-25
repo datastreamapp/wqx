@@ -1,6 +1,7 @@
 export default {
   '#': 'No Field/Trip Blank carried with samples',
   $: 'Incorrect sample container',
+  '%': 'High RPD, estimated',
   '&': 'biological organism established as dominant',
   '(': 'blank greater than the sample-specific Critical Level',
   ')': 'sample specific MDC (Minimum Detectable Change) above contractual MDC',
@@ -277,6 +278,7 @@ export default {
   VS: 'compound identified verified by 2nd method',
   VVRR: 'Value verified by rerun',
   VVRR2: 'value verified by rerun, 2nd method',
+  Y: 'Labeled standard recovery ',
   ZZ: 'Blank-corrected data were indicated by the "Z" qualifier code. The laboratory reported the concentration of analyte to the nearest unit. These data were qualified as blank-corrected and as undetected when the blank correction resulted in a concentration below the DL.',
   '^': 'Yield outside of contractual acceptable range (USGS)'
 }

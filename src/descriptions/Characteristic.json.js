@@ -625,7 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*****RETIRED*4-Nonylphenol pentaethoxylates': '1;NWIS',
   '*****RETIRED*4-Nonylphenol tetradecaethoxylates': 'NWIS',
   '*****RETIRED*4-Nonylphenol tetraethoxylates': '1;NWIS',
   '*****RETIRED*4-Nonylphenol tridecaethoxylates': 'NWIS',
@@ -4967,7 +4966,7 @@ export default {
   '1~3~,3~3~-Bis(tridecafluorohexyl)-1~2~,2~2~:2~5~,3~2~-terthiophene': '',
   "2',3,4,4',5-Pentachlorobiphenyl-C13": '; Request Date: 28-JAN-19',
   "2',3,4,5,6'-Pentachlorobiphenyl":
-    'PCB Congener; Request Date: 24-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 24-Sep-19 (nps.gov cas# review)| 74472-39-2',
   "2',3,4-Trichlorobiphenyl":
     'Request Date: 24-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2'-Deoxy-5-(heptafluoropropyl)uridine": '',
@@ -4998,14 +4997,14 @@ export default {
   "2,2',3',4,5-Pentabromodiphenyl ether***retired***use BDE-097":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3',4,5-Pentachlorobiphenyl":
-    'Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| 41464-51-1',
   "2,2',3',4,6-Pentabromodiphenyl ether***retired***use BDE-098":
     'Request Date: 30-May-14 (nps.gov cas# review)',
   "2,2',3',4,6-Pentachlorobiphenyl":
-    'PCB Congener; Request Date: 25-Sep-19 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 25-Sep-19 (nps.gov cas# review)| 60233-25-2',
   "2,2',3,3',4',5,6-Heptabromodiphenyl ether": '; Request Date: 29-MAY-14',
   "2,2',3,3',4',5,6-Heptachlorobiphenyl":
-    'PCB Congener; Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| 52663-70-4',
   "2,2',3,3',4,4',5,5',6-NOBDE***retired***use Nonabromophenoxybenzene":
     'Request Date: 31-MAR-10| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl":
@@ -5027,7 +5026,7 @@ export default {
   "2,2',3,3',4,4',5,6-Octachlorobiphenyl":
     'PCB Congener; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',5,6-Octachorobiphenyl":
-    'Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| 52663-78-2\n',
   "2,2',3,3',4,4',5-Heptabromodiphenyl ether***retired***use BDE-170":
     'Request Date: 31-Jan-15 (nps.gov cas# review)',
   "2,2',3,3',4,4',5-Heptachlorobiphenyl": 'Nemi.gov; Request Date: 22-JUL-14',
@@ -5302,7 +5301,7 @@ export default {
   "2,2',3-Trichlorobiphenyl": 'Nemi.gov; Request Date: 02-MAR-07',
   "2,2',4,4',5',6-HXBDE": 'Request Date: 23-Jul-15 (nps.gov cas# review)',
   "2,2',4,4',5',6-Hexachlorobiphenyl":
-    'PCB Congener; Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+    'PCB Congener; Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| 60145-22-4',
   "2,2',4,4',5,5'-HXBDE***retired***use BDE-153":
     'Request Date: 16-Jun-18 (nps.gov cas# review)',
   "2,2',4,4',5,5'-Hexabromo-1,1-biphenyl":
@@ -5991,7 +5990,7 @@ export default {
   "2,3',4',6-Tetrabromodiphenyl ether***retired***use 2,3',4',6-TEBDE":
     'Kalispel Natural Resources DepartmentRequest Date: 06-APR-17| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   "2,3',4',6-Tetrachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
-  "2,3',4'-Trichlorobiphenyl": '; Request Date: 02-MAR-07',
+  "2,3',4'-Trichlorobiphenyl": 'CAS 38444-86-9; Request Date: 02-MAR-07',
   "2,3',4,4',5',6-Hexachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3',4,4',5'-Pentachlorobiphenyl": 'PCB Congener; Request Date: 02-MAR-07',
   "2,3',4,4',5,5'-Hexachlorobiphenyl":
@@ -20027,7 +20026,7 @@ export default {
     'The depth at which the measured light intensity decreases 50%.; Request Date: 02-MAR-07',
   'Light attenuation, depth at 99%':
     'The depth at which the measured light intensity decreases 99%.; Request Date: 02-MAR-07',
-  'Light availability': "2,2',4,5,'6-PeCB",
+  'Light availability': "Retired - 2,2',4,5,'6-PeCB: 60145-21-3",
   'Light scatter':
     'The dispersion or diffusion of light by collision with particles in the air.; Request Date: 07-JUN-18',
   'Light transmissivity at measurement depth':
@@ -29497,6 +29496,7 @@ export default {
   'Water Quality Index': '',
   'Water Residence Time': '',
   'Water Taste (choice list)': '; Request Date: 26-AUG-13',
+  'Water Treatment Volume': '',
   'Water Visibility (choice list)': '',
   'Water appearance (text)':
     'A text description of water appearance.; Request Date: 02-MAR-07',
