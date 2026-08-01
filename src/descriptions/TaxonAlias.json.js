@@ -101662,10 +101662,8 @@ export default {
   'Holorusia hespera':
     '(Arnaud and Byers 1990)~http://www.catalogueoflife.org/col/details/species/id/13671113',
   Holostei:
-    'ITIS Synonyms - (Pfitzer)~http://www.catalogueoflife.org/annual-checklist/details/species/id/50010',
-  'Holostei***retired***use Semionotiformes':
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161089',
-  'Holosteum umbellatum': 'national unique domain values',
+    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161089',
+  'Holosteum umbellatum': 'table unique identifier',
   Holothuria: 'Holothuria***retired***use Holothuria',
   'Holothuria (Acanthotrapeza) coluber': 'ITIS TAXON SERIAL NUMBER',
   'Holothuria (Halodeima) edulis': 'ITIS TAXON SERIAL NUMBER',

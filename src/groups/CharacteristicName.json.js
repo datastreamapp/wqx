@@ -938,9 +938,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '*****RETIRED*4-Nonylphenol tetradecaethoxylates': 'Not Assigned',
-  '*****RETIRED*4-Nonylphenol tetraethoxylates': 'Organics, Other',
-  '*****RETIRED*4-Nonylphenol tridecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol triethoxylates': 'Not Assigned',
   '*****RETIRED*4-Nonylphenol undecaethoxylates': 'Not Assigned',
   '*****RETIRED*4-Octylphenol monoethoxylates': 'Not Assigned',
@@ -2602,6 +2599,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1,1,2,2-Tetrahydroperfluorotetradecyl acrylate':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1,1,2,2-Tetramethylcyclopropane': 'Not Assigned',
   '1,1,2,2-tetrafluoro-7,7a-dihydro-2aH-cyclobuta[a]indene':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,1,2,3,3,3-Hexafluoro-2-(trifluoromethyl)propane-1-sulphonic anhydride':
@@ -8155,6 +8153,7 @@ export default {
   '2,3,4-Trifluorotoluene': 'Not Assigned',
   '2,3,4-Trimethylcyclopent-2-en-1-one': 'Not Assigned',
   '2,3,4-Trimethylhexane': 'Not Assigned',
+  '2,3,4-Trimethylpent-2-ene': 'Not Assigned',
   '2,3,4-Trimethylpentane': 'Not Assigned',
   '2,3,4-trichloro-3,4,4-trifluorobut-1-ene': 'Organics, Other',
   '2,3,5,5,6,6,7,7-Octafluorocyclohepta-1,3-diene':
@@ -12714,6 +12713,7 @@ export default {
   '3-Ethenyl-1,2,2-trifluoro-1-(trifluoromethyl)cyclobutane':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Ethyl-2-methylheptane': 'Not Assigned',
+  '3-Ethyl-3-hexene': 'Not Assigned',
   '3-Ethyl-7,8,8,9,9,10,10,11,11,12,12,13,13,13-tetradecafluorotridec-6-en-6-yl phosphate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Ethylcyclopentene': 'Not Assigned',

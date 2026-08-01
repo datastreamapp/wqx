@@ -44403,7 +44403,7 @@ export default {
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=118890',
   'Holorusia hespera':
     '(Arnaud and Byers 1990)~http://www.catalogueoflife.org/col/details/species/id/13671113',
-  'Holostei***retired***use Semionotiformes':
+  Holostei:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161089',
   'Holosteum umbellatum':
     '(L.)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=503057',

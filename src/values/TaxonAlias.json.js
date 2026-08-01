@@ -76044,7 +76044,6 @@ export default {
     'Holorusia',
     'Holorusia hespera',
     'Holostei',
-    'Holostei***retired***use Semionotiformes',
     'Holosteum umbellatum',
     'Holothuria',
     'Holothuria (Acanthotrapeza) coluber',

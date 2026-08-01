@@ -22427,7 +22427,7 @@ export default {
     'Holopristes riddlei***retired***use Pristella maxillaris',
     'Holorusia',
     'Holorusia hespera',
-    'Holostei***retired***use Semionotiformes',
+    'Holostei',
     'Holosteum umbellatum',
     'Holothuria',
     'Holothuria (Acanthotrapeza) coluber',
