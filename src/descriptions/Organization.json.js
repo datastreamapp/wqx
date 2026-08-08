@@ -581,6 +581,7 @@ export default {
     'Cold Springs Rancheria of Mono Indians of California (Tribal) || Cold Springs Rancheria of Mono Indians of California (Tribal)',
   'CSU-CIVIL&ENVIRONMENTAL-ENG': '',
   CSU_AWQP: '',
+  CSU_CFCC: '',
   CTA_WQX:
     'Craig Tribal Association (Tribal) || Craig Tribal Association (Tribal)',
   CTCLUSI_WQX: '',
@@ -1618,6 +1619,7 @@ export default {
   URS: '',
   URWA: 'Upper Raritan Watershed Association',
   'USACE-STL-EC-E': '',
+  USACEMVP_WQX: '',
   USACENWP_WQX: '',
   USACENWS_WQX:
     'U.S. Army Corps of Engineers, Seattle District Water Management Section',

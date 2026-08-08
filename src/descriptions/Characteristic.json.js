@@ -625,9 +625,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '*****RETIRED*4-Nonylphenol triethoxylates': 'NWIS',
-  '*****RETIRED*4-Nonylphenol undecaethoxylates': 'NWIS',
-  '*****RETIRED*4-Octylphenol monoethoxylates': 'NWIS',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -9952,6 +9949,7 @@ export default {
   '3-Methyl-1-butanol': '; Request Date: 19-DEC-12',
   '3-Methyl-1-butene & Cyclopentene': '',
   '3-Methyl-1-indanone': '; Request Date: 02-MAR-07',
+  '3-Methyl-1-pentanol': '',
   '3-Methyl-1-pentene': '',
   '3-Methyl-2,3-dihydrofuran': '',
   '3-Methyl-2-(nonafluorobutyl)-1H-indole': '',
@@ -11141,6 +11139,7 @@ export default {
   '4-Methylheptane': '',
   '4-Methylhexan-2-one': '',
   '4-Methylindan': '; Request Date: 02-MAR-07',
+  '4-Methylnonane': '',
   '4-Methyloctane': '',
   '4-Methylpentene & 3-methylpentene': '',
   '4-Methylphenanthrene': '; Request Date: 14-APR-15',
@@ -11628,6 +11627,7 @@ export default {
   '5-Methylindan': '; Request Date: 02-MAR-07',
   '5-Methyltetrazole':
     'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/1734463',
+  '5-Methylundecane': '',
   '5-Nitro-1-pentene': '',
   '5-Nitro-o-anisidine': '; Request Date: 14-APR-15',
   '5-Nitro-o-toluidine':
