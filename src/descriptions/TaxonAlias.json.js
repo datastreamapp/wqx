@@ -96755,19 +96755,20 @@ export default {
     'STANDARDIZE NAME (Normalized)',
   Halamphora:
     '((Cleve) Levkov)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=970029#',
-  'Halamphora abuensis':
-    '((Foged) Levkov 2009)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=624066',
-  'Halamphora acutiuscula': 'STANDARDIZE NAME (Normalized)',
+  'Halamphora abuensis': 'STANDARDIZE NAME (Normalized)',
+  'Halamphora acutiuscula':
+    'Diatom,Halamphora acutiuscula ((Kutzing) Levkov); BioData: Ver=13.2 Sort=3010378',
   'Halamphora aponina': 'STANDARDIZE NAME (Normalized)',
-  'Halamphora coffeaeformis': 'STANDARDIZE NAME (Normalized)',
-  'Halamphora coffeiformis': 'table unique identifier',
+  'Halamphora coffeaeformis':
+    '(Levkov 2009)~http://www.algaebase.org/search/species/detail/?species_id=pfdd27754f3b16f05&-session=abv4:A107FB5C0cdea2D4BBpYT1EFE893',
+  'Halamphora coffeiformis': 'national unique domain values',
   'Halamphora coloradiana': 'table unique identifier',
   'Halamphora dusenii':
     'http://www.algaebase.org/search/species/detail/?species_id=U76267b67e3978529',
   'Halamphora elongata': 'national unique domain values',
-  'Halamphora hassiaca': 'table unique identifier',
+  'Halamphora hassiaca': 'national unique domain values',
   'Halamphora holsatica': 'STANDARDIZE NAME (Normalized)',
-  'Halamphora latecostata': 'national unique domain values',
+  'Halamphora latecostata': 'table unique identifier',
   'Halamphora montana':
     '(Levkov 2009)~http://www.algaebase.org/search/species/detail/?species_id=f7d33d563c77bee96&sk=0&from=results',
   'Halamphora normanii':
@@ -96775,18 +96776,20 @@ export default {
   'Halamphora oligotraphenta':
     'Diatom,Halamphora oligotraphenta ((Lange-Bertalot) Levkov); BioData: Ver=13.2 Sort=3010396',
   'Halamphora sabiniana': 'STANDARDIZE NAME (Normalized)',
-  'Halamphora schroederi':
-    '((Hustedt) Levkov 2009)~http://www.algaebase.org/search/species/detail/?species_id=T3e4ee4bb3b1b1d98',
+  'Halamphora schroederi': 'STANDARDIZE NAME (Normalized)',
   'Halamphora subangularis': 'STANDARDIZE NAME (Normalized)',
-  'Halamphora subcapitata': 'STANDARDIZE NAME (Normalized)',
+  'Halamphora subcapitata':
+    '((Kisselew) Hustedt 1959)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=624128',
   'Halamphora submontana': 'STANDARDIZE NAME (Normalized)',
   'Halamphora subtilis': 'table unique identifier',
   'Halamphora subturgida':
     '((Hustedt) Levkov 2009)~https://www.gbif.org/species/8248444',
-  'Halamphora thumensis': 'STANDARDIZE NAME (Normalized)',
+  'Halamphora thumensis':
+    '((A.Mayer) Levkov 2009)~http://www.gbif.org/species/8230445',
   'Halamphora tumida':
     '((Hustedt) Levkov 2009)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=624139',
-  'Halamphora turgida': 'STANDARDIZE NAME (Normalized)',
+  'Halamphora turgida':
+    'Diatom,Halamphora turgida ((Gregory) Levkov); BioData: Ver=13.2 Sort=3010418',
   'Halamphora veneta':
     '(Levkov 2009)~http://www.algaebase.org/search/species/detail/?species_id=Z329b371ab81176b4&sk=60&from=results',
   Halargyreus: 'STANDARDIZE NAME (Normalized)',
@@ -97479,7 +97482,7 @@ export default {
     '(Patrick)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=3320',
   'Hannaea arcus': 'STANDARDIZE NAME (Normalized)',
   'Hannaea arcus var. amphioxys': 'STANDARDIZE NAME (Normalized)',
-  'Hannaea superiorensis': 'table unique identifier',
+  'Hannaea superiorensis': 'national unique domain values',
   Hannia:
     '(Vari 1978)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168042',
   'Hannia greenwayi': 'STANDARDIZE NAME (Normalized)',
@@ -98005,46 +98008,43 @@ export default {
     'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=5120',
   'Healing blade': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
   'Heathia porosa': 'STANDARDIZE NAME (Normalized)',
-  Hebella:
-    '(Allman 1888)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=50715',
+  Hebella: 'STANDARDIZE NAME (Normalized)',
   Hebellidae:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=50714',
   'Hebellopsis expansa':
     '(Fraser 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=50724',
   Hebetancylus: 'national unique domain values',
   Hebetoncylus: 'Hebetoncylus***retired***use Hebetancylus',
-  'Hebetoncylus***retired***use Hebetancylus':
-    '(Pilsbry 1914)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=76585',
+  'Hebetoncylus***retired***use Hebetancylus': 'STANDARDIZE NAME (Normalized)',
   Hebridae: 'STANDARDIZE NAME (Normalized)',
-  Hebrinae:
-    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=717536',
-  Hebrus: 'STANDARDIZE NAME (Normalized)',
+  Hebrinae: 'STANDARDIZE NAME (Normalized)',
+  Hebrus:
+    '(Curtis 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103965',
   'Hebrus buenoi': 'national unique domain values',
   Hecamede: 'national unique domain values',
   Hecamedoides: 'national unique domain values',
   'Hedeoma drummondii': 'table unique identifier',
-  'Hedeoma hispida': 'STANDARDIZE NAME (Normalized)',
+  'Hedeoma hispida':
+    '(Pursh) Common Name "rough false pennyroyal" http://plants.usda.gov/core/profile?symbol=HEHI',
   'Hedeoma hispidum':
-    'ITIS Synonyms - (Pursh)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=32513',
+    'ITIS Synonyms - (Lacep�de 1800)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166696',
   'Hedera canariensis':
-    'ITIS Synonyms - (Willd.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=822344',
-  'Hedera helix':
-    'Common Name "English ivy" http://plants.usda.gov/core/profile?symbol=HEHE',
+    'ITIS Synonyms - (Hamilton 1822)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=650046',
+  'Hedera helix': 'STANDARDIZE NAME (Normalized)',
   'Hedera helix ssp. canariensis':
     'ITIS Synonyms - ((Willd.) Cout.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=822375',
   'Hedera quinquefolia':
     'ITIS Synonyms - (Richardson 1859-60)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615207     ,TAX_UID=915',
   'Hedge plant': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
-  'Hediste limnicola': 'table unique identifier',
+  'Hediste limnicola': 'national unique domain values',
   Hedria: 'STANDARDIZE NAME (Normalized)',
   Hedriodiscina:
-    'ITIS Synonyms - (Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170138',
-  Hedriodiscus:
-    '(Enderlein 1914)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=130488',
+    'ITIS Synonyms - (Enderlein, 1914)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=626108',
+  Hedriodiscus: 'STANDARDIZE NAME (Normalized)',
   'Hedriodiscus/Odontomyia':
     'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=130407',
   'Hedyotis caerulea':
-    'ITIS Synonyms - (Bleeker 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615193     ,TAX_UID=17138',
+    'ITIS Synonyms - ((L.) Hook.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514490',
   'Hedyotis corymbosa':
     'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615174',
   'Hedyotis fasciculata':
@@ -98052,11 +98052,11 @@ export default {
   'Hedyotis greenmanii':
     'ITIS Synonyms - (Lac�p�de 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615189     ,TAX_UID=12474',
   'Hedyotis michauxii':
-    'ITIS Synonyms - (Fosberg)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514506',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615206     ,TAX_UID=15722',
   'Hedyotis procumbens':
-    'ITIS Synonyms - ((J.F. Gmel.) Fosberg)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514512',
+    'ITIS Synonyms - (Wang 1941)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615186     ,TAX_UID=15327',
   'Hedyotis procumbens var. hirsuta':
-    'ITIS Synonyms - (W.H. Lewis)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536057',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170146',
   'Hedyotis uniflora':
     'ITIS Synonyms - ((L.) Lam.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514521',
   'Hedyotis uniflora var. fasciculata':
@@ -98064,21 +98064,20 @@ export default {
   Hedysaraceae:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=897464',
   'Hedysarum violaceum':
-    'ITIS Synonyms - (Bloch 1790)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615183     ,TAX_UID=12455',
+    'ITIS Synonyms - (L.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514535',
   Hegesipyle:
     'ITIS Synonyms - (Bennett 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613230',
   Helaeomyia: 'table unique identifier',
-  Helcogramma: 'STANDARDIZE NAME (Normalized)',
+  Helcogramma:
+    '(McCulloch and Waite 1918)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171483',
   'Helcogramma capidata':
     'ITIS Synonyms - (Bory de Saint-Vincent 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615199     ,TAX_UID=19777',
   'Helcogramma capidatum':
     '(Rosenblatt in Schultz Chapman Lachner and Woods 1960)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638510',
-  'Helcogramma chica':
-    '(Rosenblatt in Schultz et al 1960)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171485',
+  'Helcogramma chica': 'STANDARDIZE NAME (Normalized)',
   'Helcogramma medium':
     'ITIS Synonyms - ((G?nther, 1861))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638360',
-  'Helcogramma obtusirostre':
-    '(Klunzinger 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638527',
+  'Helcogramma obtusirostre': 'STANDARDIZE NAME (Normalized)',
   Heleidae:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=127077',
   'Heleidae***retired***use Ceratopogonidae':
@@ -98093,13 +98092,13 @@ export default {
   'Helenium autumnale var. autumnale':
     'ITIS Synonyms - (L.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=528347',
   'Helenium autumnale var. canaliculatum':
-    'ITIS Synonyms - ((Lam.) Torr. & A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536088',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615206     ,TAX_UID=15722',
   'Helenium autumnale var. fylesii':
     'ITIS Synonyms - (Boivin)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=528348',
   'Helenium autumnale var. grandiflorum':
-    'ITIS Synonyms - ((Nutt.) Torr. & A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=528349',
+    'ITIS Synonyms - (Bennett 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613230',
   'Helenium autumnale var. montanum':
-    'ITIS Synonyms - ((Nutt.) Fernald)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=528350',
+    'ITIS Synonyms - (Bory de Saint-Vincent 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615199     ,TAX_UID=19777',
   'Helenium autumnale var. parviflorum':
     'ITIS Synonyms - (Lac�p�de 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615189     ,TAX_UID=12474',
   'Helenium canaliculatum':
@@ -98111,21 +98110,21 @@ export default {
   'Helenium godfreyi':
     'ITIS Synonyms - (Fernald)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514544',
   'Helenium helenium':
-    'ITIS Synonyms - ((Nutt.) Small)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514545',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170146',
   'Helenium hoopesii':
-    'ITIS Synonyms - (A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514546',
+    'ITIS Synonyms - (Allen 1973)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170139',
   'Helenium latifolium':
     'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615180',
   'Helenium macranthum':
-    'ITIS Synonyms - (Rydb.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514549',
+    'ITIS Synonyms - (Bory de Saint-Vincent 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615199     ,TAX_UID=19777',
   'Helenium montanum':
     'ITIS Synonyms - (Bennett 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613230',
   'Helenium nudiflorum':
     'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615174',
   'Helenium nuttallii':
-    'ITIS Synonyms - (A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514552',
+    'ITIS Synonyms - (Bleeker 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615193     ,TAX_UID=17138',
   'Helenium parviflorum':
-    'ITIS Synonyms - (Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170138',
+    'ITIS Synonyms - (Nutt.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514554',
   'Helenium pinnatifidum': 'table unique identifier',
   'Helenium vernale': 'STANDARDIZE NAME (Normalized)',
   Heleobia:
@@ -98135,11 +98134,11 @@ export default {
   Heleochloa:
     'ITIS Synonyms - (P. Beauv.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=781633',
   'Heleochloa compacta':
-    'ITIS Synonyms - ((Steud.) T. Durand & Schinz)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790377',
+    'ITIS Synonyms - (Bleeker 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170145',
   'Heleochloa distans':
     'ITIS Synonyms - ((L.) Drejer)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790378',
   'Heleochloa juncea':
-    'ITIS Synonyms - (Bennett 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613230',
+    'ITIS Synonyms - (P. Beauv.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790379',
   'Heleochloa schoenoides':
     'ITIS Synonyms - ((L.) Host)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514560',
   Heleodromia: 'national unique domain values',
@@ -98150,53 +98149,54 @@ export default {
   Helianthaceae:
     'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615206     ,TAX_UID=15722',
   'Helianthella microcephala': 'table unique identifier',
-  'Helianthemum carolinianum':
-    'Helianthemum carolinianum***retired***use Crocanthemum carolinianum',
+  'Helianthemum carolinianum': 'RETIRED NAME',
   'Helianthemum carolinianum***retired***use Crocanthemum carolinianum':
-    'STANDARDIZE NAME (Normalized)',
-  Helianthus: 'STANDARDIZE NAME (Normalized)',
+    '((Walter) Michx.) Common Name "Carolina frostweed" http://plants.usda.gov/core/profile?symbol=HECA4',
+  Helianthus:
+    'Common Name "sunflower" http://plants.usda.gov/core/profile?symbol=HELIA3',
   'Helianthus X alexidis':
-    'ITIS Synonyms - (Boivin)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=502918',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170146',
   'Helianthus X alexidis*':
-    'ITIS Synonyms - (Boivin)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=502918',
+    'ITIS Synonyms - (Lac?p?de 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615189     ,TAX_UID=12474',
   'Helianthus agustifolius':
-    'ITIS Synonyms - (Wang 1941)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615186     ,TAX_UID=15327',
+    'ITIS Synonyms - (L.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=36615',
   'Helianthus alienus':
-    'ITIS Synonyms - (E.E. Watson)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514570',
-  'Helianthus angustifolius': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Gronow in Gray 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615217     ,TAX_UID=5450',
+  'Helianthus angustifolius':
+    'Common Name "swamp sunflower" http://plants.usda.gov/core/profile?symbol=HEAN2',
   'Helianthus angustifolius var. planifolius':
-    'ITIS Synonyms - (Bleeker 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615193     ,TAX_UID=17138',
-  'Helianthus annuus': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Fernald)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536094',
+  'Helianthus annuus':
+    'Common Name "common sunflower" http://plants.usda.gov/core/profile?symbol=HEAN3',
   'Helianthus annuus ssp. jaegeri':
-    'ITIS Synonyms - (Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170138',
+    'ITIS Synonyms - ((Heiser) Heiser)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=525928',
   'Helianthus annuus ssp. lenticularis':
     'ITIS Synonyms - ((Douglas ex Lindl.) Cockerell)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=525929',
   'Helianthus annuus ssp. texanus':
     'ITIS Synonyms - (Ehrenb Ehrenb)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=193812',
   'Helianthus annuus var. lenticularis':
-    'ITIS Synonyms - (J W Bail C W Reimer)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4684',
+    'ITIS Synonyms - ((Douglas ex Lindl.) Steyerm.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536095',
   'Helianthus annuus var. macrocarpus':
     'ITIS Synonyms - ((DC.) Cockerell)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536096',
   'Helianthus annuus var. texanus':
-    'ITIS Synonyms - (W Sm C W Reimer)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4700',
+    'ITIS Synonyms - ((Heiser) Shinners)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536097',
   'Helianthus argophyllis':
-    'ITIS Synonyms - (Torr. & A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=36618',
+    'ITIS Synonyms - (Boeck 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=94797',
   'Helianthus argophyllus':
     '(Torr. & A. Gray) Common Name "silverleaf sunflower" http://plants.usda.gov/core/profile?symbol=HEAR3',
   'Helianthus aridus':
-    'ITIS Synonyms - (Rydb.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514571',
+    'ITIS Synonyms - (O F Mueller 1776)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67941',
   'Helianthus borealis':
-    'ITIS Synonyms - (E.E. Watson)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514573',
+    'ITIS Synonyms - (Grube 1860)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68042',
   'Helianthus canescens':
-    'ITIS Synonyms - ((A. Gray) S. Watson)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514574',
+    'ITIS Synonyms - (Grube 1860)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68042',
   'Helianthus canus':
-    'ITIS Synonyms - (Sars 1835)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67747',
+    'ITIS Synonyms - ((Britton) Woot. & Standl.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514575',
   'Helianthus couplandii':
-    'ITIS Synonyms - (J W Bail C W Reimer)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4684',
+    'ITIS Synonyms - (Boivin)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=502922',
   'Helianthus dalyi':
-    'ITIS Synonyms - (Nielsen 1932)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157661',
-  'Helianthus giganteus':
-    'Common Name "giant sunflower" http://plants.usda.gov/core/profile?symbol=HEGI',
+    'ITIS Synonyms - (Britton)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514578',
+  'Helianthus giganteus': 'STANDARDIZE NAME (Normalized)',
   'Helianthus giganteus ssp. alienus':
     'ITIS Synonyms - (Lyman 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157732',
   'Helianthus giganteus var. subtuberosus':
@@ -98206,14 +98206,16 @@ export default {
     'ITIS Synonyms - (R.W. Long)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=525935',
   'Helianthus grosseserratus var. hypoleucus':
     'ITIS Synonyms - (L�tken 1859)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157759',
-  'Helianthus heterophyllus': 'STANDARDIZE NAME (Normalized)',
-  'Helianthus hirsutus': 'STANDARDIZE NAME (Normalized)',
+  'Helianthus heterophyllus':
+    '(Nutt.) Common Name "variableleaf sunflower" http://plants.usda.gov/core/profile?symbol=HEHE4',
+  'Helianthus hirsutus':
+    '(Raf.) Common Name "hairy sunflower" http://plants.usda.gov/core/profile?symbol=HEHI2',
   'Helianthus hirsutus var. stenophyllus':
-    'ITIS Synonyms - (Torr. & A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536108',
+    'ITIS Synonyms - (Delle Chiaje 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157676',
   'Helianthus hirsutus var. trachyphyllus':
-    'ITIS Synonyms - (Torr. & A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536109',
+    'ITIS Synonyms - (Lyman 1860)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157693',
   'Helianthus instabilis':
-    'ITIS Synonyms - (E.E. Watson)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514585',
+    'ITIS Synonyms - (Matthews 1872)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=111961',
   'Helianthus laevis':
     'ITIS Synonyms - Invertebrates,(LeConte)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=111958',
   'Helianthus lenticularis':
@@ -98221,23 +98223,21 @@ export default {
   'Helianthus maximiliani':
     '(Schrad.) Common Name "Maximilian sunflower" http://plants.usda.gov/core/profile?symbol=HEMA2',
   'Helianthus montanus':
-    'ITIS Synonyms - (E.E. Watson)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514589',
+    'ITIS Synonyms - Invertebrates,(LeConte)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=111958',
   'Helianthus niveus ssp. canescens':
-    'ITIS Synonyms - (Kutz Van Heurck ex DeToni)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4723',
-  'Helianthus nuttallii':
-    '(Torr. & A. Gray) Common Name "Nuttall\'s sunflower" http://plants.usda.gov/core/profile?symbol=HENU',
-  'Helianthus nuttallii ssp. rydbergii': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - ((A. Gray) Heiser)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=36660',
+  'Helianthus nuttallii': 'STANDARDIZE NAME (Normalized)',
+  'Helianthus nuttallii ssp. rydbergii':
+    '(Torr. & A. Gray [ssp] (Britton) R.W. Long) Common Name "Rydberg\'s sunflower" http://plants.usda.gov/core/profile?symbol=HENUR',
   'Helianthus nuttallii var. rydbergii':
-    'ITIS Synonyms - (Ehrenb.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=193813     ,TAX_UID=45889',
+    'ITIS Synonyms - ((Britton) B. Boivin)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536113',
   'Helianthus nuttallii var. subtuberosus':
     'ITIS Synonyms - ((Britton) B. Boivin)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536114',
-  'Helianthus occidentalis':
-    '(Riddell) Common Name "fewleaf sunflower" http://plants.usda.gov/core/profile?symbol=HEOC2',
-  'Helianthus pauciflorus': 'STANDARDIZE NAME (Normalized)',
-  'Helianthus petiolaris':
-    '(Nutt.) Common Name "prairie sunflower" http://plants.usda.gov/core/profile?symbol=HEPE',
-  'Helianthus petiolaris ssp. petiolaris':
-    '(Nutt.) Common Name "prairie sunflower" http://plants.usda.gov/core/profile?symbol=HEPEP',
+  'Helianthus occidentalis': 'STANDARDIZE NAME (Normalized)',
+  'Helianthus pauciflorus':
+    '(Nutt.) Common Name "stiff sunflower" http://plants.usda.gov/core/profile?symbol=HEPA19',
+  'Helianthus petiolaris': 'STANDARDIZE NAME (Normalized)',
+  'Helianthus petiolaris ssp. petiolaris': 'STANDARDIZE NAME (Normalized)',
   'Helianthus petiolaris var. canescens':
     'ITIS Synonyms - (Kutz Van Heurck ex DeToni)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4723',
   'Helianthus rydbergii':
@@ -98249,37 +98249,37 @@ export default {
   'Helianthus strumosus':
     'Common Name "paleleaf woodland sunflower" http://plants.usda.gov/core/profile?symbol=HEST',
   'Helianthus subtuberosus':
-    'ITIS Synonyms - (Kutz Van Heurck)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4727',
+    'ITIS Synonyms - ((Britton) Britton)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514601',
   'Helianthus tomentosus':
-    'ITIS Synonyms - (Michx.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514604',
+    'ITIS Synonyms - ((K�tzing) Grunow ex A.Schmidt)~http://www.algaebase.org/search/species/detail/?species_id=icc27802d92ebd7fd&sk=0&from=results     ,TAX_UID=45901',
   'Helianthus tuberosus':
     'Common Name "Jerusalem artichoke" http://plants.usda.gov/core/profile?symbol=HETU',
   'Helianthus tuberosus var. subcanescens':
-    'ITIS Synonyms - ((K�tzing) Grunow ex A.Schmidt)~http://www.algaebase.org/search/species/detail/?species_id=icc27802d92ebd7fd&sk=0&from=results     ,TAX_UID=45901',
+    'ITIS Synonyms - (A. Gray)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536122',
   'Helianthus validus':
-    'ITIS Synonyms - (E.E. Watson)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514607',
-  Heliases:
     'ITIS Synonyms - (Kutz Van Heurck)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4727',
+  Heliases:
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1830)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170204',
   'Heliases amboinensis':
     'ITIS Synonyms - (Bleeker, 1873)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615226',
   'Heliases amboinensis***retired***use Chromis amboinensis':
     'STANDARDIZE NAME (Normalized)',
   'Heliases analis':
-    'ITIS Synonyms - (Lange-Bert. in Lange-Bertalot & Metzeltin)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591198',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1830)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615229',
   'Heliases analis***retired***use Chromis analis':
-    '(Cuvier in Cuvier and Valenciennes 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615229',
+    'STANDARDIZE NAME (Normalized)',
   'Heliases axillaris':
-    'ITIS Synonyms - (Bennett, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615232',
+    'ITIS Synonyms - (E. Y. Haw.)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4743     ,TAX_UID=48403',
   'Heliases axillaris***retired***use Chromis axillaris':
-    'STANDARDIZE NAME (Normalized)',
+    '(Bennett 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615232',
   'Heliases bermudae':
-    'ITIS Synonyms - (Lindberg in Soldatov and Lindberg 1930)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564111     ,TAX_UID=21505',
+    'ITIS Synonyms - ((Nichols, 1920))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170205',
   'Heliases bermudae***retired***use Chromis flavicauda':
-    'STANDARDIZE NAME (Normalized)',
+    '(Nichols 1920)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170205',
   'Heliases caeruleus':
-    'ITIS Synonyms - (Cuvier 1816)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564612     ,TAX_UID=21350',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1830)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615241',
   'Heliases caeruleus***retired***use Chromis ternatensis':
-    'STANDARDIZE NAME (Normalized)',
+    '(Cuvier in Cuvier and Valenciennes 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615241',
   'Heliases cinerascens':
     'ITIS Synonyms - (Rafinesque 1810)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160947',
   'Heliases cinerascens***retired***use Chromis cinerascens':
@@ -98291,9 +98291,9 @@ export default {
   'Heliases insolatus':
     'ITIS Synonyms - (Bloch and Schneider 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564385',
   'Heliases insolatus***retired***use Chromis insolata':
-    'STANDARDIZE NAME (Normalized)',
+    '(Cuvier in Cuvier and Valenciennes 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615274',
   'Heliases macrochir':
-    'ITIS Synonyms - (Roberts and Karnasuta 1987)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=621084',
+    'ITIS Synonyms - (Bleeker, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615289',
   'Heliases macrochir***retired***use Chromis analis':
     '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615289',
   'Heliases marginata':
@@ -98301,33 +98301,33 @@ export default {
   'Heliases marginata***retired***use Chromis multilineata':
     'STANDARDIZE NAME (Normalized)',
   'Heliases multilineatus':
-    'ITIS Synonyms - (Guichenot, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615294',
+    'ITIS Synonyms - (Audouin 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202810',
   'Heliases multilineatus***retired***use Chromis multilineata':
     '(Guichenot 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615294',
   'Heliases notatus':
     'ITIS Synonyms - (Temminck and Schlegel, 1843)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615298',
   'Heliases notatus***retired***use Chromis notata':
-    'STANDARDIZE NAME (Normalized)',
+    '(Temminck and Schlegel 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615298',
   'Heliases reticulatus':
     'ITIS Synonyms - (Richardson, 1846)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613248',
   'Heliases reticulatus***retired***use Dascyllus reticulatus':
     'STANDARDIZE NAME (Normalized)',
   'Heliases ternatensis':
-    'ITIS Synonyms - (Bleeker, 1856)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615316',
+    'ITIS Synonyms - (Audouin 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202810',
   'Heliases ternatensis***retired***use Chromis ternatensis':
-    'STANDARDIZE NAME (Normalized)',
+    '(Bleeker 1856)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615316',
   'Heliases xanthochirus':
-    'ITIS Synonyms - (Bleeker, 1851)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615325',
+    'ITIS Synonyms - (Bate 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93426',
   'Heliases xanthochirus***retired***use Chromis xanthochira':
-    'STANDARDIZE NAME (Normalized)',
+    '(Bleeker 1851)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615325',
   'Heliases***retired***use Chromis':
     '(Cuvier in Cuvier and Valenciennes 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170204',
   'Heliastes bicolor':
-    'ITIS Synonyms - (Rochebrune, 1880)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615238',
+    'ITIS Synonyms - (Montagu 1808)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93410',
   'Heliastes bicolor***retired***use Abudefduf bicolor':
-    '(Rochebrune 1880)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615238',
+    'STANDARDIZE NAME (Normalized)',
   'Heliastes chrysurus':
-    'ITIS Synonyms - (Bliss, 1883)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615250',
+    'ITIS Synonyms - (Audouin 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202810',
   'Heliastes chrysurus***retired***use Chromis chrysura':
     '(Bliss 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615250',
   'Heliastes cinctus':
@@ -98335,28 +98335,29 @@ export default {
   'Heliastes cinctus***retired***use Chrysiptera biocellata':
     '(Playfair 1868)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615573',
   'Heliastes dimidiatus':
-    'ITIS Synonyms - (Audouin 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202810',
+    'ITIS Synonyms - (Klunzinger, 1871)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615257',
   'Heliastes dimidiatus***retired***use Chromis dimidiata':
     'STANDARDIZE NAME (Normalized)',
   'Heliastes hypsilepis':
-    'ITIS Synonyms - (Montagu 1808)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93410',
+    'ITIS Synonyms - (G?nther, 1867)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615273',
   'Heliastes hypsilepis***retired***use Chromis hypsilepis':
     'STANDARDIZE NAME (Normalized)',
   'Heliastes immaculatus':
-    'ITIS Synonyms - (Ogilby, 1885)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615639',
+    'ITIS Synonyms - (Montagu 1808)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93410',
   'Heliastes immaculatus***retired***use Mecaenichthys immaculatus':
-    '(Ogilby 1885)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615639',
+    'STANDARDIZE NAME (Normalized)',
   'Heliastes opercularis':
     'ITIS Synonyms - (Audouin 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202810',
   'Heliastes opercularis***retired***use Chromis opercularis':
     'STANDARDIZE NAME (Normalized)',
   'Heliastes ovalis':
-    'ITIS Synonyms - (Steindachner, 1900)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615301',
+    'ITIS Synonyms - (Montagu 1808)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93410',
   'Heliastes ovalis***retired***use Chromis ovalis':
-    '(Steindachner 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615301',
+    'STANDARDIZE NAME (Normalized)',
   Helichrysaceae:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=897247',
-  Helichus: 'STANDARDIZE NAME (Normalized)',
+  Helichus:
+    '(Erichson 1847)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114006',
   'Helichus basalis': 'STANDARDIZE NAME (Normalized)',
   'Helichus columbianus':
     'Helichus columbianus***retired***use Helichus striatus foveatus',
@@ -98364,25 +98365,25 @@ export default {
     'Invertebrates,(Brown)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114023',
   'Helichus confluentus':
     'ITIS Synonyms - (Audouin 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202810',
-  'Helichus fastigiatus': 'STANDARDIZE NAME (Normalized)',
+  'Helichus fastigiatus':
+    '(Say 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114013',
   'Helichus immsi':
-    'ITIS Synonyms - (Hinton, 1937)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114020',
+    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,TAX_UID=34490',
   'Helichus lithophilus': 'STANDARDIZE NAME (Normalized)',
   'Helichus productus':
-    'ITIS Synonyms - (LeConte, 1852)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114022',
-  'Helichus striatus':
-    '(LeConte 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114017',
-  'Helichus striatus foveatus': 'table unique identifier',
+    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia',
+  'Helichus striatus': 'STANDARDIZE NAME (Normalized)',
+  'Helichus striatus foveatus': 'national unique domain values',
   'Helichus suteralis':
     'ITIS Synonyms - (LeConte, 1852)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114016',
   'Helichus suturalis':
     '(LeConte 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114015',
-  'Helichus triangularis':
-    '(Musgrave 1935)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114021#null',
+  'Helichus triangularis': 'STANDARDIZE NAME (Normalized)',
   'Helicobacter pylori': 'national unique domain values',
   Helicodictyaceae:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=189474',
-  Helicodictyon: 'STANDARDIZE NAME (Normalized)',
+  Helicodictyon:
+    '(L.A. Whitford & G.J. Schumacher)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=189475',
   'Helicodiscus parallelus':
     '(Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=77369',
   Helicolenus:
@@ -98390,69 +98391,67 @@ export default {
   'Helicolenus dactylopterus':
     '(Delaroche 1809)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166787',
   'Helicolenus dactylopterus dactylopterus':
-    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246',
+    'ITIS Synonyms - ((Delaroche, 1809))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=644661',
   'Helicolenus maculatus':
-    'ITIS Synonyms - ((Cuvier in Cuvier and Valenciennes, 1829))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166789',
+    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia     ,TAX_UID=34490',
   'Helicolenus maculatus***retired***use Helicolenus dactylopterus':
     'STANDARDIZE NAME (Normalized)',
   'Helicolenus maderensis':
     'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,TAX_UID=34490',
   'Helicolenus maderensis***retired***use Helicolenus dactylopterus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Goode and Bean 1896)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166788',
   'Helicolenus papillosus':
-    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia',
-  'Helicolenus percoides':
-    '(Richardson and Solander in Richardson 1842)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166791',
+    'ITIS Synonyms - ((Schneider and Forster in Bloch and Schneider, 1801))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166790',
+  'Helicolenus percoides': 'STANDARDIZE NAME (Normalized)',
   'Helicolenus rufescens':
-    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,TAX_UID=34490',
+    'ITIS Synonyms - (Gilbert, 1905)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166797',
   'Helicolenus rufescens***retired***use Neomerinthe rufescens':
-    'STANDARDIZE NAME (Normalized)',
-  Helicopsyche: 'STANDARDIZE NAME (Normalized)',
+    '(Gilbert 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166797',
+  Helicopsyche:
+    '(von Siebold 1856)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117016',
   'Helicopsyche annulicornis':
-    'ITIS Synonyms - (Banks, 1904)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117021',
+    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia',
   'Helicopsyche arenifera':
-    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246',
+    'ITIS Synonyms - ((Lea, 1934))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117026',
   'Helicopsyche arizonensis':
-    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia     ,TAX_UID=34490',
+    'ITIS Synonyms - (Banks, 1907)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117028',
   'Helicopsyche borealis': 'STANDARDIZE NAME (Normalized)',
   'Helicopsyche californica':
     'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,TAX_UID=34490',
   'Helicopsyche glabra':
-    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia',
+    'ITIS Synonyms - (Hagen, 1864)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117022',
   'Helicopsyche limnella': 'STANDARDIZE NAME (Normalized)',
   'Helicopsyche lustrica':
     'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246',
-  'Helicopsyche mexicana':
-    'Invertebrates,(Banks)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117023',
-  'Helicopsyche piora':
-    '(Ross 1944)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117024',
+  'Helicopsyche mexicana': 'STANDARDIZE NAME (Normalized)',
+  'Helicopsyche piora': 'STANDARDIZE NAME (Normalized)',
   'Helicopsyche piroa':
     'Invertebrates,(Ross)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117016',
-  Helicopsychidae: 'STANDARDIZE NAME (Normalized)',
-  'Helicotheca tamesis':
-    '(Shrubsole 1891)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=149303#',
+  Helicopsychidae:
+    '(Ulmer 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117015',
+  'Helicotheca tamesis': 'STANDARDIZE NAME (Normalized)',
   Helicteraceae:
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=897199',
+    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia     ,TAX_UID=34490',
   'Helictotrichon canescens':
-    'ITIS Synonyms - ((Buckley) Clayton)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790382',
+    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246',
   'Heliomeris multiflora': 'table unique identifier',
   'Heliophila sichuanensis':
     'ITIS Synonyms - (Wu 1992)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=763256',
   Heliopora: 'table unique identifier',
-  'Heliopora coerulea': 'table unique identifier',
+  'Heliopora coerulea': 'national unique domain values',
   'Heliopsis helianthoides': 'table unique identifier',
   'Heliotropium curassavicum': 'STANDARDIZE NAME (Normalized)',
   'Heliotropium horizontale':
-    'ITIS Synonyms - (Small)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514617',
+    'ITIS Synonyms - (Fisch & CA Mey Ganders)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531246     ,Amsinckia intermedia     ,TAX_UID=34490',
   'Heliotropium indicum':
     'Common Name "Indian heliotrope" http://plants.usda.gov/core/profile?symbol=HEIN',
   'Heliotropium leavenworthii':
-    'ITIS Synonyms - (Torr.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514619',
-  'Heliotropium polyphyllum':
-    '(Lehm.) Common Name "pineland heliotrope" http://plants.usda.gov/core/profile?symbol=HEPO',
+    'ITIS Synonyms - (Le Sueur 1827)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=208680',
+  'Heliotropium polyphyllum': 'STANDARDIZE NAME (Normalized)',
   'Heliotropium polyphyllum var. horizontale':
     'ITIS Synonyms - ((Small) R.W. Long)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536125',
-  Helisoma: 'STANDARDIZE NAME (Normalized)',
+  Helisoma:
+    '(Swainson 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=76599',
   'Helisoma anceps': 'STANDARDIZE NAME (Normalized)',
   'Helisoma anceps anceps':
     'Helisoma anceps anceps***retired***use Helisoma anceps',
@@ -98462,7 +98461,7 @@ export default {
   'Helisoma campanulatum':
     'ITIS Synonyms - (Wolosz Seena and Subbar)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=203690',
   'Helisoma campanulatum***retired***use Planorbella campanulata':
-    '(Say 1821)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=76603',
+    'STANDARDIZE NAME (Normalized)',
   'Helisoma pilsbryi':
     'ITIS Synonyms - (Boulenger 1912)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638695',
   'Helisoma scalare':
@@ -98472,7 +98471,7 @@ export default {
   'Helisoma trivolvis subcrenatum':
     'ITIS Synonyms - (Boulenger 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172593     ,TAX_UID=6019',
   'Helisoma trivolvis trivolvis':
-    'ITIS Synonyms - ((Say, 1817))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=76612',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638696',
   'Helisoma trivolvis***retired***use Planorbella trivolvis':
     'STANDARDIZE NAME (Normalized)',
   'Helisoma/Planorbella':
@@ -98481,7 +98480,8 @@ export default {
   "Heller's anchovy":
     'ITIS Vernaculars - (Hubbs 1921)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551363',
   "Heller's rosette grass": 'TAXON COMMON NAME',
-  Helmidae: 'RETIRED NAME',
+  Helmidae:
+    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114094',
   'Helmidae*':
     'ITIS Synonyms - (Boulenger 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172597',
   'Helmidae*5': 'RETIRED NAME',
@@ -98494,63 +98494,64 @@ export default {
   'Helmis brunnescens':
     'ITIS Synonyms - (Pellegrin 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172601',
   'Helmis castanipennis':
-    'ITIS Synonyms - (Fall, 1925)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945776',
+    'ITIS Synonyms - (Boulenger 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172608     ,TAX_UID=6027',
   'Helmis dietrichi':
-    'ITIS Synonyms - (Musgrave, 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114218',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638741',
   'Helmis dispar':
-    'ITIS Synonyms - (Boulenger 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172603     ,TAX_UID=6028',
+    'ITIS Synonyms - (Fall, 1925)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=201007',
   'Helmis immunis':
-    'ITIS Synonyms - (Fall, 1925)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945780',
+    'ITIS Synonyms - (Boulenger 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172604     ,TAX_UID=943',
   'Helmis koebelei':
-    'ITIS Synonyms - (Martin, 1927)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945761',
+    'ITIS Synonyms - (Bloch 1792)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172585',
   'Helmis ornata':
-    'ITIS Synonyms - (Schaeffer, 1911)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945753',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165866',
   'Helmis pusilla apta':
     'ITIS Synonyms - (Musgrave, 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945832',
   'Helmis soluta':
-    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165866',
+    'ITIS Synonyms - (Brown, 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945809',
   'Helmis tardella':
     'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165872     ,TAX_UID=5301',
   'Helmis tardellus':
-    'ITIS Synonyms - (Fall, 1925)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945818',
-  Helobata:
-    '(Bergroth 1888)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113162',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165866',
+  Helobata: 'STANDARDIZE NAME (Normalized)',
   'Helobata larvalis': 'STANDARDIZE NAME (Normalized)',
-  'Helobata striata': 'Helobata striata***retired***use Helobata larvalis',
+  'Helobata striata':
+    'ITIS Synonyms - ((Brull?, 1841))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113165',
   'Helobata striata*': 'RETIRED NAME',
   'Helobata striata***retired***use Helobata larvalis':
     '((Brulle 1841))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113165',
-  Helobdella: 'STANDARDIZE NAME (Normalized)',
-  'Helobdella californica/stagnalis': 'STANDARDIZE NAME (Normalized)',
+  Helobdella:
+    '(Blanchard 1896)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69396',
+  'Helobdella californica/stagnalis':
+    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69396',
   'Helobdella elongata':
     'ITIS Synonyms - ((Castle, 1900))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69397',
   'Helobdella elongata***retired***use Gloiobdella elongata':
-    '(Castle 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69397',
+    'STANDARDIZE NAME (Normalized)',
   'Helobdella fusca': 'STANDARDIZE NAME (Normalized)',
   'Helobdella lineata':
-    'ITIS Synonyms - ((Verrill, 1874))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69400',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165872     ,TAX_UID=5301',
   'Helobdella modesta':
     'http://wwn.inhs.illinois.edu/ ~ mjwetzel/FWLeechesNA.html',
-  'Helobdella papillata': 'STANDARDIZE NAME (Normalized)',
+  'Helobdella papillata':
+    '(Moore 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69403',
   'Helobdella punctatolineata':
     '(Moore 1939)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69402',
   'Helobdella stagnalis':
     '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69398',
-  'Helobdella transversa': 'national unique domain values',
+  'Helobdella transversa': 'table unique identifier',
   'Helobdella triserialis':
     '(E Blanchard 1849)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69399',
-  Helochares:
-    '(Mulsant 1844)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113150',
+  Helochares: 'STANDARDIZE NAME (Normalized)',
   'Helochares bipunctatus':
-    'ITIS Synonyms - (Sharp, 1882)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113156',
-  'Helochares maculicollis': 'STANDARDIZE NAME (Normalized)',
-  Helocombus:
-    '(Horn 1890)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113148',
-  'Helocombus bifidus':
-    '(LeConte 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113149',
-  Helocordulia: 'STANDARDIZE NAME (Normalized)',
-  'Helocordulia selysii':
-    '(Hagen in Selys 1878)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101879',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165872     ,TAX_UID=5301',
+  'Helochares maculicollis':
+    '(Mulsant 1844)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113154',
+  Helocombus: 'STANDARDIZE NAME (Normalized)',
+  'Helocombus bifidus': 'STANDARDIZE NAME (Normalized)',
+  Helocordulia:
+    '(Needham 1901)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101878',
+  'Helocordulia selysii': 'STANDARDIZE NAME (Normalized)',
   'Helocordulia uhleri':
     '(Selys 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101880',
   Helodes:
@@ -98558,33 +98559,32 @@ export default {
   Helodidae:
     'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165866',
   'Helodidae***retired***use Scirtidae': 'STANDARDIZE NAME (Normalized)',
-  Helodon: 'STANDARDIZE NAME (Normalized)',
-  'Helodon/Prosimulium': 'STANDARDIZE NAME (Normalized)',
+  Helodon:
+    '(Enderlein 1921)~http://www.catalogueoflife.org/browse_taxa.php?selected_taxon=76007',
+  'Helodon/Prosimulium':
+    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=126640',
   Helogeneidae:
     'ITIS Synonyms - (Say 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116205',
   'Helogeneidae***retired***use Cetopsidae':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164261',
-  Helogenes:
-    '(Gunther 1863)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164262',
+  Helogenes: 'STANDARDIZE NAME (Normalized)',
   Helogramma:
     'ITIS Synonyms - Invertebrates,((Walker))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115959',
   'Helogramma medium':
-    'ITIS Synonyms - ((G?nther, 1861))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171392',
-  'Helogramma***retired***use Helcogramma':
-    '(McCulloch and Waite 1918)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171391',
+    'ITIS Synonyms - (Banks 1907)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116222',
+  'Helogramma***retired***use Helcogramma': 'STANDARDIZE NAME (Normalized)',
   'Helonias asphodeloides':
     'ITIS Synonyms - (L.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514626',
   'Helonias tenax':
-    'ITIS Synonyms - (Pursh)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514629',
+    'ITIS Synonyms - (Banks 1897)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116318',
   Helopelopia:
     'ITIS Synonyms - (Roeback, 1971)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128131',
   'Helopelopia cornuticaudata':
     'ITIS Synonyms - ((Walley, 1925))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128138',
   'Helopelopia cornuticaudata***retired***use Conchapelopia cornuticaudata':
-    '(Walley 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128138',
+    'STANDARDIZE NAME (Normalized)',
   'Helopelopia*': 'RETIRED NAME',
-  'Helopelopia***retired***use Conchapelopia':
-    '(Roeback 1971)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128131',
+  'Helopelopia***retired***use Conchapelopia': 'STANDARDIZE NAME (Normalized)',
   'Helopelopia*1':
     'ITIS Synonyms - (Banks 1897)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116318',
   Helopeltina:
@@ -98592,94 +98592,97 @@ export default {
   Helopeltis:
     'ITIS Synonyms - (Osten Sacken 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=130160',
   Helophilus: 'STANDARDIZE NAME (Normalized)',
-  Helophoridae: 'STANDARDIZE NAME (Normalized)',
+  Helophoridae:
+    '(Leach 1815)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=193642',
   Helophorinae:
     'ITIS Synonyms - (Michx)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=38936',
-  Helophorus: 'STANDARDIZE NAME (Normalized)',
-  'Helophorus angusticollis':
-    '(Orchymont 1945)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113116',
+  Helophorus:
+    '(Fabricius 1775)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113106',
+  'Helophorus angusticollis': 'STANDARDIZE NAME (Normalized)',
   'Helophorus grandis': 'STANDARDIZE NAME (Normalized)',
   'Helophorus inflectus': 'STANDARDIZE NAME (Normalized)',
-  'Helophorus lacustris':
-    '(LeConte 1850)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113113',
+  'Helophorus lacustris': 'STANDARDIZE NAME (Normalized)',
   'Helophorus linearis': 'STANDARDIZE NAME (Normalized)',
   'Helophorus lineatus': 'STANDARDIZE NAME (Normalized)',
-  'Helophorus marginicollis':
-    '(Smetana 1985)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113120',
+  'Helophorus marginicollis': 'STANDARDIZE NAME (Normalized)',
   'Helophorus nitiduloides':
     '(Orchymont 1945)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113121',
   'Helophorus obsoletesulcatus':
     'ITIS Synonyms - (Michx)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=38937',
-  'Helophorus orchymonti': 'STANDARDIZE NAME (Normalized)',
+  'Helophorus orchymonti':
+    '(Smetana 1985)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113129',
   'Helophorus orientalis': 'STANDARDIZE NAME (Normalized)',
-  'Helophorus parasplendidus':
-    'Invertebrates,(Angus)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113131',
-  'Helophorus sempervarians': 'STANDARDIZE NAME (Normalized)',
-  'Helophorus smetanai':
-    '(Hilsenhoff 1995)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=722281',
+  'Helophorus parasplendidus': 'STANDARDIZE NAME (Normalized)',
+  'Helophorus sempervarians':
+    '(Angus 1970)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113132',
+  'Helophorus smetanai': 'STANDARDIZE NAME (Normalized)',
   Helopicus:
     '(Ricker 1952)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103084',
   'Helopicus subvarians': 'STANDARDIZE NAME (Normalized)',
   'Helopus cognatus':
-    'ITIS Synonyms - (Steud.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790395',
+    'ITIS Synonyms - (Michx)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=38937',
   'Helopus kunthii':
     'ITIS Synonyms - ((G. Mey.) Trin. ex Steud.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790399',
   'Helopus punctatus':
     'ITIS Synonyms - ((L.) Nees)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790406',
   'Helopus punctatus var. cognatus':
-    'ITIS Synonyms - (C B Adams 1845)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=73622',
+    'ITIS Synonyms - ((Steud.) D�ll)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=800766',
   'Helopus punctatus var. punctatus':
-    'ITIS Synonyms - ((L.) Nees)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=800767',
+    'ITIS Synonyms - (Say 1822)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=73617',
   Helostoma: 'STANDARDIZE NAME (Normalized)',
   'Helostoma temmincki':
     'ITIS Synonyms - (Cuvier, 1829)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172677',
   'Helostoma temminkii':
     '(Cuvier 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638746',
-  Helostomatidae:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172675',
+  Helostomatidae: 'STANDARDIZE NAME (Normalized)',
   Hemanthias: 'STANDARDIZE NAME (Normalized)',
   'Hemanthias aureorubens': 'STANDARDIZE NAME (Normalized)',
-  'Hemanthias leptus':
-    '(Ginsburg 1952)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167800',
-  'Hemanthias peruanus': 'STANDARDIZE NAME (Normalized)',
+  'Hemanthias leptus': 'STANDARDIZE NAME (Normalized)',
+  'Hemanthias peruanus':
+    '(Steindachner 1875)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167802',
   'Hemanthias signifer':
     '(Garman 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167804',
   'Hemanthias vivanus': 'STANDARDIZE NAME (Normalized)',
   'Hemarthria rugosa':
-    'ITIS Synonyms - (Jeffreys 1867)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=73537',
-  Hemerobiiformia:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115078',
-  'Hemerocallis fulva': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - ((Nutt.) Kunth)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790415',
+  Hemerobiiformia: 'STANDARDIZE NAME (Normalized)',
+  'Hemerocallis fulva':
+    '((L.) L.) Common Name "orange daylily" http://plants.usda.gov/core/profile?symbol=HEFU',
   'Hemerocallis fulva var. fulva':
     'ITIS Synonyms - (C B Adams 1845)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=73622',
   'Hemerocallis fulva var. kwanso':
-    'ITIS Synonyms - (C B Adams 1845)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=73622',
+    'ITIS Synonyms - (Regel)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536126',
   'Hemerocallis fulva var. rosea':
-    'ITIS Synonyms - (Stout)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=810360',
-  Hemerocoetes: 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - Common Name "crowngrass" http://plants.usda.gov/core/profile?symbol=PASPA2',
+  Hemerocoetes:
+    '(Valenciennes in Cuvier and Valenciennes 1837)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171010',
   'Hemerocoetes acanthorhynchus':
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=14189#null',
   'Hemerocoetes acanthorhynchus***retired***use Hemerocoetes monopterygius':
-    'STANDARDIZE NAME (Normalized)',
+    '(Forster in Bloch and Schneider 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171011',
   'Hemerocoetes macrophthalmus':
     '(Regan 1914)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=630404',
   'Hemerocoetes monopterygius':
     '(Schneider in Bloch and Schneider 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171012',
   'Hemerocoetes waitei':
     'ITIS Synonyms - ((Lyngbye) Bornet)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=704',
-  Hemerodromia: 'STANDARDIZE NAME (Normalized)',
+  Hemerodromia:
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=136327',
   'Hemerodromia albiseta':
-    'ITIS Synonyms - (Bruguiere 1789)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79342',
+    'ITIS Synonyms - (Zetterstedt, 1838)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=136294',
   'Hemerodromia albiseta***retired***use Chelipoda albiseta':
     'STANDARDIZE NAME (Normalized)',
   'Hemerodromia empiformis': 'STANDARDIZE NAME (Normalized)',
   'Hemerodromia rogatoris':
     '(Coquillett 1895)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=136340',
-  'Hemerodromia stellaris': 'STANDARDIZE NAME (Normalized)',
-  Hemerodromiinae: 'STANDARDIZE NAME (Normalized)',
+  'Hemerodromia stellaris':
+    'Invertebrates,(Melander)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=136341',
+  Hemerodromiinae:
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=136290',
   Hemerodromiini:
     '(Germar 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945750',
-  'Hemiaegina minuta': 'STANDARDIZE NAME (Normalized)',
+  'Hemiaegina minuta':
+    '(Mayer 1890)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=95448',
   'Hemianthus callitrichoides':
     'ITIS Synonyms - (Griseb.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=33605',
   'Hemiarius grandicassis':
@@ -98687,71 +98690,70 @@ export default {
   Hemiaulus:
     '(Ehrenberg)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=2748',
   'Hemiaulus hauckii': 'STANDARDIZE NAME (Normalized)',
-  'Hemiaulus indicus': 'STANDARDIZE NAME (Normalized)',
+  'Hemiaulus indicus':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=2752',
   'Hemiaulus membranaceus': 'STANDARDIZE NAME (Normalized)',
   'Hemiaulus sinensis': 'STANDARDIZE NAME (Normalized)',
   Hemibromus:
     'ITIS Synonyms - (Steud.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=781636',
-  Hemibrycon:
-    '(Gunther 1864)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162955',
-  'Hemibrycon guppyi': 'STANDARDIZE NAME (Normalized)',
-  Hemicaranx: 'STANDARDIZE NAME (Normalized)',
+  Hemibrycon: 'STANDARDIZE NAME (Normalized)',
+  'Hemibrycon guppyi':
+    '(Regan 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162956',
+  Hemicaranx:
+    '(Bleeker 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168739',
   'Hemicaranx amblyrhynchus': 'STANDARDIZE NAME (Normalized)',
   'Hemicardium mundum':
     'ITIS Synonyms - ((Reeve, 1845))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80939',
-  Hemicetopsis: 'STANDARDIZE NAME (Normalized)',
+  Hemicetopsis:
+    '(Bleeker 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164267',
   Hemichaetodon:
-    'ITIS Synonyms - (Bleeker, 1876)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610177',
+    'ITIS Synonyms - (Say 1822)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79340',
   'Hemichaetodon***retired***use Chaetodon':
     '(Bleeker 1876)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610177',
   Hemichordata:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=158616',
-  Hemichromis: 'STANDARDIZE NAME (Normalized)',
+  Hemichromis:
+    '(Peters 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169805',
   'Hemichromis bimaculatus': 'STANDARDIZE NAME (Normalized)',
-  'Hemichromis elongatus':
-    '(Guichenot in Dumeril 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=553307',
-  'Hemichromis fasciatus':
-    '(Peters 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169807',
+  'Hemichromis elongatus': 'STANDARDIZE NAME (Normalized)',
+  'Hemichromis fasciatus': 'STANDARDIZE NAME (Normalized)',
   'Hemichromis guentheri':
-    'ITIS Synonyms - (Sauvage, 1882)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169893',
+    'ITIS Synonyms - Common Name "flaxleaf pimpernel" http://plants.usda.gov/core/profile?symbol=ANMO2',
   'Hemichromis guentheri***retired***use Chromidotilapia guntheri':
-    'STANDARDIZE NAME (Normalized)',
+    '(Sauvage 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169893',
   'Hemichromis guntheri':
-    'ITIS Synonyms - (Sauvage, 1882)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=649582',
-  'Hemichromis letourneuxi': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Webster)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65366',
+  'Hemichromis letourneuxi':
+    '(Sauvage 1880)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=553306',
   'Hemichromis lifalili':
     '(Loiselle 1979)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169808',
   Hemicnemis:
-    'ITIS Synonyms - (M?ller & Troschel, 1840)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=989192',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65336',
   Hemicoris:
     'ITIS Synonyms - (Eisen 1878)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68544',
   'Hemicoris keleipionis':
-    'ITIS Synonyms - (Jenkins, 1901)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613551',
+    'ITIS Synonyms - (Tanaka 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613285     ,TAX_UID=994',
   'Hemicoris keleipionis***retired***use Coris ballieui':
     'STANDARDIZE NAME (Normalized)',
   'Hemicoris remedius':
-    'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170605',
+    'ITIS Synonyms - (Jenkins, 1901)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613604',
   'Hemicoris remedius***retired***use Coris venusta':
     'STANDARDIZE NAME (Normalized)',
-  'Hemicoris***retired***use Coris':
-    '(Bleeker 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613083',
-  Hemicyclops:
-    '(Boeck 1872)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=88960',
-  'Hemicyclops subadhaerens':
-    '(Gooding 1960)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=88963',
+  'Hemicoris***retired***use Coris': 'STANDARDIZE NAME (Normalized)',
+  Hemicyclops: 'STANDARDIZE NAME (Normalized)',
+  'Hemicyclops subadhaerens': 'STANDARDIZE NAME (Normalized)',
   Hemicyphon:
     'ITIS Synonyms - (LeConte, 1866)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=113970',
   Hemicytheridae:
     '(Puri 1953)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=84989',
-  Hemidinium:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10159',
+  Hemidinium: 'STANDARDIZE NAME (Normalized)',
   'Hemidinium nasutum':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10160',
   'Hemidiscus cuneiformis':
     '(Wallich 1860)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=2668',
   Hemiemblemaria: 'STANDARDIZE NAME (Normalized)',
   'Hemiemblemaria simula':
-    'ITIS Synonyms - (Regan 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613273     ,TAX_UID=997',
+    'ITIS Synonyms - (Longley and Hildebrand, 1940)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=913908',
   'Hemiemblemaria simulus': 'STANDARDIZE NAME (Normalized)',
   Hemienchytraeus: 'STANDARDIZE NAME (Normalized)',
   Hemigaleidae:
@@ -98759,44 +98761,45 @@ export default {
   Hemigaleops:
     'ITIS Synonyms - (Regan 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613273     ,TAX_UID=997',
   'Hemigaleops forsteri':
-    'ITIS Synonyms - (Ruppell 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170603',
+    'ITIS Synonyms - (Schultz and Welander in Schultz, L.P., E.S. Herald, E.A. Lachner, A.D. Welander, et al., 1953)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160444',
   'Hemigaleops forsteri***retired***use Negaprion acutidens':
     '(Schultz and Welander in Schultz LP ES Herald EA Lachner AD Welander et al 1953)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160444',
   'Hemigaleops fosteri':
     'ITIS Synonyms - (Schultz and Welander in Schultz, L.P., E.S. Herald, E.A. Lachner, A.D. Welander, et al., 1953)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564507',
   'Hemigaleops fosteri***retired***use Negaprion acutidens':
     '(Schultz and Welander in Schultz LP ES Herald EA Lachner AD Welander et al 1953)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564507',
-  'Hemigaleops***retired***use Negaprion': 'STANDARDIZE NAME (Normalized)',
+  'Hemigaleops***retired***use Negaprion':
+    '(Schultz and Welander in Schultz LP ES Herald EA Lachner AD Welander et al 1953)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564088',
   Hemigaleus: 'STANDARDIZE NAME (Normalized)',
   'Hemigaleus balfouri':
-    'ITIS Synonyms - (Day, 1878)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160579',
+    'ITIS Synonyms - (Regan 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613273     ,TAX_UID=997',
   'Hemigaleus balfouri***retired***use Chaenogaleus macrostoma':
-    '(Day 1878)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160579',
-  'Hemigaleus machlani':
-    'ITIS Synonyms - (Herre, 1929)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160583',
-  'Hemigaleus machlani***retired***use Hemigaleus microstoma':
     'STANDARDIZE NAME (Normalized)',
+  'Hemigaleus machlani':
+    'ITIS Synonyms - (Ruppell 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170603',
+  'Hemigaleus machlani***retired***use Hemigaleus microstoma':
+    '(Herre 1929)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160583',
   'Hemigaleus macrostoma':
-    'ITIS Synonyms - (Quoy and Gaimard 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613276',
+    'ITIS Synonyms - (Bleeker, 1852)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160580',
   'Hemigaleus macrostoma***retired***use Chaenogaleus macrostoma':
-    '(Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160580',
+    'STANDARDIZE NAME (Normalized)',
   'Hemigaleus microstoma':
     '(Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160582',
   'Hemigaleus pectoralis':
     'ITIS Synonyms - (Bleeker 1878)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170611',
   'Hemigaleus pectoralis***retired***use Paragaleus pectoralis':
-    'STANDARDIZE NAME (Normalized)',
+    '(Garman 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160597',
   'Hemigaleus pingi':
-    'ITIS Synonyms - (Evermann and Shaw, 1927)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160451',
+    'ITIS Synonyms - (Quoy and Gaimard 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613276',
   'Hemigaleus pingi***retired***use Triakis scyllium':
     '(Evermann and Shaw 1927)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160451',
-  Hemiglyphidodon: 'STANDARDIZE NAME (Normalized)',
-  'Hemiglyphidodon plagiometopon':
-    '(Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615071',
+  Hemiglyphidodon:
+    '(Bleeker 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613174',
+  'Hemiglyphidodon plagiometopon': 'STANDARDIZE NAME (Normalized)',
   'Hemigrammalestes interruptus':
     'ITIS Synonyms - ((Boulenger, 1899))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163305',
   'Hemigrammalestes interruptus***retired***use Phenacogrammus interruptus':
-    '(Boulenger 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163305',
+    'STANDARDIZE NAME (Normalized)',
   Hemigrammopetersius: 'STANDARDIZE NAME (Normalized)',
   'Hemigrammopetersius caudalis':
     'ITIS Synonyms - ((Boulenger, 1899))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163292',
@@ -98805,86 +98808,84 @@ export default {
     'ITIS Synonyms - (Regan 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613273     ,TAX_UID=997',
   'Hemigrammus armstrongi***retired***use Hemigrammus rodwayi':
     'STANDARDIZE NAME (Normalized)',
-  'Hemigrammus bleheri':
-    '(Gery and Mahnert 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162982',
+  'Hemigrammus bleheri': 'STANDARDIZE NAME (Normalized)',
   'Hemigrammus caudovittatus':
     'ITIS Synonyms - (Ahl, 1923)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162959',
   'Hemigrammus elegans': 'STANDARDIZE NAME (Normalized)',
   'Hemigrammus erthrozonus':
-    'ITIS Synonyms - (Tanaka 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613285     ,TAX_UID=994',
+    'ITIS Synonyms - (Durbin, 1909)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162960',
   'Hemigrammus erthrozonus***retired***use Hemigrammus erythrozonus':
-    '(Durbin 1909)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162960',
-  'Hemigrammus erythrozonus': 'STANDARDIZE NAME (Normalized)',
-  'Hemigrammus gracilis':
-    '(Lutken 1875)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162979',
+    'STANDARDIZE NAME (Normalized)',
+  'Hemigrammus erythrozonus':
+    '(Durbin 1909)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162978',
+  'Hemigrammus gracilis': 'STANDARDIZE NAME (Normalized)',
   'Hemigrammus hyanuary': 'STANDARDIZE NAME (Normalized)',
-  'Hemigrammus levis':
-    '(Durbin in Eigenmann 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162977',
+  'Hemigrammus levis': 'STANDARDIZE NAME (Normalized)',
   'Hemigrammus marginatus':
     '(Ellis 1911)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162976',
   'Hemigrammus nanus':
-    'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170605',
+    'ITIS Synonyms - ((L?tken, 1875))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162954',
   'Hemigrammus nanus***retired***use Hasemania nana':
     'STANDARDIZE NAME (Normalized)',
   'Hemigrammus ocellifer':
     '(Steindachner 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162961',
-  'Hemigrammus ocellifer falsus': 'STANDARDIZE NAME (Normalized)',
-  'Hemigrammus ocellifer ocellifer':
-    '(Steindachner 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162963',
-  'Hemigrammus pulcher':
-    '(Ladiges 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162981',
+  'Hemigrammus ocellifer falsus':
+    '(Meinken 1958)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162964',
+  'Hemigrammus ocellifer ocellifer': 'STANDARDIZE NAME (Normalized)',
+  'Hemigrammus pulcher': 'STANDARDIZE NAME (Normalized)',
   'Hemigrammus pulchra':
     'ITIS Synonyms - (Ladiges, 1938)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162965',
   'Hemigrammus pulchra***retired***use Hemigrammus pulcher':
     'STANDARDIZE NAME (Normalized)',
-  'Hemigrammus rhodostomus':
-    '(Ahl 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162966',
-  'Hemigrammus rodwayi':
-    '(Durbin 1909)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162967',
-  'Hemigrammus ulreyi': 'STANDARDIZE NAME (Normalized)',
+  'Hemigrammus rhodostomus': 'STANDARDIZE NAME (Normalized)',
+  'Hemigrammus rodwayi': 'STANDARDIZE NAME (Normalized)',
+  'Hemigrammus ulreyi':
+    '(Boulenger 1895)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162968',
   'Hemigrammus unilineatus': 'STANDARDIZE NAME (Normalized)',
   'Hemigrammus unilineatus cayennensis':
     '(Gery 1959)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162974',
-  'Hemigrammus unilineatus unilineatus': 'STANDARDIZE NAME (Normalized)',
+  'Hemigrammus unilineatus unilineatus':
+    '(Gill 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162973',
   Hemigrapsus:
     '(Dana 1851)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=99034',
-  'Hemigrapsus nudus': 'STANDARDIZE NAME (Normalized)',
+  'Hemigrapsus nudus':
+    '(Dana 1851)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=99035',
   'Hemigrapsus oregonensis':
     '(Dana 1851)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=99036',
   'Hemigrapsus sanguineus':
     '(De Haan 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=621740',
   'Hemigymnia malabarica':
-    'ITIS Synonyms - (Randall 1972)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613231',
-  Hemigymnus:
-    '(Gunther 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170685',
+    'ITIS Synonyms - ((L.) Henrard)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790417',
+  Hemigymnus: 'STANDARDIZE NAME (Normalized)',
   'Hemigymnus bleasdalei':
-    'ITIS Synonyms - (Bleeker 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170608     ,TAX_UID=991',
+    'ITIS Synonyms - (Castelnau, 1875)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614105',
   'Hemigymnus bleasdalei***retired***use Pictilabrus laticlavius':
     '(Castelnau 1875)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614105',
-  'Hemigymnus fasciatus':
-    '(Bloch 1792)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170686',
+  'Hemigymnus fasciatus': 'STANDARDIZE NAME (Normalized)',
   'Hemigymnus melapterus': 'STANDARDIZE NAME (Normalized)',
   Hemijulis:
-    'ITIS Synonyms - (Bonaparte, 1841)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613092',
-  'Hemijulis***retired***use Halichoeres':
-    '(Bonaparte 1841)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613092',
-  Hemilamprops: 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Bleeker 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170607',
+  'Hemijulis***retired***use Halichoeres': 'STANDARDIZE NAME (Normalized)',
+  Hemilamprops:
+    '(Sars 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=90758',
   'Hemilamprops californica':
     'ITIS Synonyms - (Zimmer, 1936)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=90764',
-  'Hemilamprops californicus': 'STANDARDIZE NAME (Normalized)',
+  'Hemilamprops californicus':
+    '(Zimmer 1936)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=683152',
   Hemilepidotus: 'STANDARDIZE NAME (Normalized)',
   'Hemilepidotus gilberti':
     '(Jordan and Starks 1904)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167278',
   'Hemilepidotus hemilepidotus':
     '(Tilesius 1811)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167279',
-  'Hemilepidotus jordani': 'STANDARDIZE NAME (Normalized)',
+  'Hemilepidotus jordani':
+    '(Bean 1881)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167280',
   'Hemilepidotus papilio':
-    'ITIS Synonyms - ((Bean, 1880))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167281',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes 1827)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613726     ,TAX_UID=993',
   'Hemilepidotus papilio***retired***use Melletes papilio':
     'STANDARDIZE NAME (Normalized)',
-  'Hemilepidotus spinosus': 'STANDARDIZE NAME (Normalized)',
-  'Hemilepidotus zapus':
-    '(Gilbert and Burke 1912)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167284',
+  'Hemilepidotus spinosus':
+    '(Ayres 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167283',
+  'Hemilepidotus zapus': 'STANDARDIZE NAME (Normalized)',
   'Hemilepis acrystata':
     'ITIS Synonyms - ((H. L. Clark, 1911))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157740',
   Hemimysis: 'table unique identifier',
@@ -98896,51 +98897,49 @@ export default {
   Hemiodontidae:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163199',
   Hemiodopsis:
-    'ITIS Synonyms - (Fowler, 1906)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163200',
+    'ITIS Synonyms - (Bloch and Schneider 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613725     ,TAX_UID=11390',
   'Hemiodopsis quadrimaculatus':
-    'ITIS Synonyms - ((Pellegrin, 1908))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163201',
-  'Hemiodopsis***retired***use Hemiodus':
-    '(Fowler 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163200',
+    'ITIS Synonyms - (Tanaka 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613285     ,TAX_UID=994',
+  'Hemiodopsis***retired***use Hemiodus': 'STANDARDIZE NAME (Normalized)',
   Hemiodus: 'STANDARDIZE NAME (Normalized)',
   'Hemiodus quadrimaculatus': 'STANDARDIZE NAME (Normalized)',
   Hemioniscidae:
-    'ITIS Synonyms - (Bonnier, 1900)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93220',
+    'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170605',
   'Hemioplites simulans':
     'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170614',
   'Hemioplites simulans***retired***use Enneacanthus gloriosus':
-    '(Cope 1868)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168127',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipagurus granulatus':
     'ITIS Synonyms - ((Edmondson, 1951))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=660191',
   'Hemipholis elongata':
     '(Say 1825)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157625',
   Hemipodia: 'national unique domain values',
-  'Hemipodia simplex': 'STANDARDIZE NAME (Normalized)',
-  Hemipodus:
-    '(Quatrefages 1865)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=66122',
+  'Hemipodia simplex':
+    '(Grube 1857)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=333592',
+  Hemipodus: 'STANDARDIZE NAME (Normalized)',
   'Hemipodus borealis':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=66123',
   'Hemipodus roseus':
     'ITIS Synonyms - (Quatrefages)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=66124',
   Hemipristis:
     '(Agassiz 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160585',
-  'Hemipristis elongatus':
-    '(Klunzinger 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160589',
+  'Hemipristis elongatus': 'STANDARDIZE NAME (Normalized)',
   'Hemipristis pingali':
     'ITIS Synonyms - (Ruppell 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170603',
   'Hemipristis pingali***retired***use Hemipristis elongatus':
     'STANDARDIZE NAME (Normalized)',
   'Hemipristis serra': 'STANDARDIZE NAME (Normalized)',
-  Hemiproto: 'STANDARDIZE NAME (Normalized)',
+  Hemiproto:
+    '(McCain 1968)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=95472',
   Hemiptera:
     '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103359',
-  Hemipteroidea:
-    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=99208',
+  Hemipteroidea: 'STANDARDIZE NAME (Normalized)',
   Hemipteronotus:
-    'ITIS Synonyms - (Regan 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613273     ,TAX_UID=997',
+    'ITIS Synonyms - (Lac?p?de, 1801)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170535',
   'Hemipteronotus baldwini':
     'ITIS Synonyms - (Jordan and Evermann, 1903)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170559',
   'Hemipteronotus baldwini***retired***use Xyrichtys baldwini':
-    '(Jordan and Evermann 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170559',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus caeruleopunctatus':
     'ITIS Synonyms - (Yu, 1968)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614555',
   'Hemipteronotus caeruleopunctatus***retired***use Xyrichtys verrens':
@@ -98948,71 +98947,71 @@ export default {
   'Hemipteronotus copei':
     'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170613     ,TAX_UID=1004',
   'Hemipteronotus copei***retired***use Xyrichtys novacula':
-    '(Fowler 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614527',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus evides':
     'ITIS Synonyms - (Jordan and Richardson, 1909)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614483',
   'Hemipteronotus evides***retired***use Xyrichtys baldwini':
     '(Jordan and Richardson 1909)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614483',
   'Hemipteronotus hypospilus':
-    'ITIS Synonyms - (Schultz in Schultz, Chapman, Lachner and Wood, 1960)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614487',
+    'ITIS Synonyms - (Ruppell 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170603',
   'Hemipteronotus hypospilus***retired***use Xyrichtys bimaculatus':
     '(Schultz in Schultz Chapman Lachner and Wood 1960)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614487',
   'Hemipteronotus jacksonensis':
-    'ITIS Synonyms - ((Ramsay, 1881))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170561',
+    'ITIS Synonyms - (Regan 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613273     ,TAX_UID=997',
   'Hemipteronotus jacksonensis***retired***use Xyrichtys jacksonensis':
-    '(Ramsay 1881)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170561',
-  'Hemipteronotus jenkinsi':
-    'ITIS Synonyms - (Snyder, 1904)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614482',
-  'Hemipteronotus jenkinsi***retired***use Xyrichtys baldwini':
     'STANDARDIZE NAME (Normalized)',
+  'Hemipteronotus jenkinsi':
+    'ITIS Synonyms - (Ruppell 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170603',
+  'Hemipteronotus jenkinsi***retired***use Xyrichtys baldwini':
+    '(Snyder 1904)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614482',
   'Hemipteronotus lecluse':
     'ITIS Synonyms - ((Quoy and Gaimard, 1824))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170553',
   'Hemipteronotus lecluse***retired***use Cymolutes lecluse':
-    '(Quoy and Gaimard 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170553',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus leclusei':
-    'ITIS Synonyms - ((Quoy and Gaimard, 1824))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=647844',
+    'ITIS Synonyms - (Ogilby 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170606',
   'Hemipteronotus liogenys':
-    'ITIS Synonyms - (Fowler, 1904)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614480',
+    'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=647774',
   'Hemipteronotus liogenys***retired***use Xyrichtys aneitensis':
-    '(Fowler 1904)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614480',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus maculosus':
-    'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170613     ,TAX_UID=1004',
+    'ITIS Synonyms - (Fourmanoir, 1967)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614484',
   'Hemipteronotus maculosus***retired***use Xyrichtys baldwini':
     'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus martinicensis':
-    'ITIS Synonyms - ((Valenciennes in Cuvier and Valenciennes, 1840))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170536',
+    'ITIS Synonyms - (Jordan and Schneider 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613038     ,TAX_UID=858',
   'Hemipteronotus martinicensis***retired***use Xyrichtys martinicensis':
-    'STANDARDIZE NAME (Normalized)',
+    '(Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170536',
   'Hemipteronotus mundiceps':
     'ITIS Synonyms - (Bleeker 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613067     ,TAX_UID=17277',
   'Hemipteronotus mundiceps***retired***use Xyrichtys mundiceps':
     '(Gill 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170562',
   'Hemipteronotus niger':
-    'ITIS Synonyms - (Quoy and Gaimard 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170600',
+    'ITIS Synonyms - ((Steindachner, 1900))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170556',
   'Hemipteronotus niger***retired***use Xyrichtys niger':
-    'STANDARDIZE NAME (Normalized)',
+    '(Steindachner 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170556',
   'Hemipteronotus nigromaculatus':
-    'ITIS Synonyms - (Bleeker 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613280     ,TAX_UID=996',
+    'ITIS Synonyms - (Herre, 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614551',
   'Hemipteronotus nigromaculatus***retired***use Xyrichtys twistii':
-    '(Herre 1933)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614551',
-  'Hemipteronotus niveilatus':
-    'ITIS Synonyms - (Bleeker 1875)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613281     ,TAX_UID=1006',
-  'Hemipteronotus niveilatus***retired***use Xyrichtys martinicensis':
     'STANDARDIZE NAME (Normalized)',
+  'Hemipteronotus niveilatus':
+    'ITIS Synonyms - ((Jordan and Evermann, 1903))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170540',
+  'Hemipteronotus niveilatus***retired***use Xyrichtys martinicensis':
+    '(Jordan and Evermann 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170540',
   'Hemipteronotus novacula':
     'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170614',
   'Hemipteronotus novacula***retired***use Xyrichtys novacula':
-    'STANDARDIZE NAME (Normalized)',
+    '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170537',
   'Hemipteronotus pavoninus':
     'ITIS Synonyms - ((L.) Benth.) Common Name "western pearly everlasting" http://plants.usda.gov/core/profile?symbol=ANMA',
   'Hemipteronotus pavoninus***retired***use Iniistius pavo':
-    '(Valenciennes in Cuvier and Valenciennes 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170542',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus pentadactylus':
-    'ITIS Synonyms - ((L.) Benth.) Common Name "western pearly everlasting" http://plants.usda.gov/core/profile?symbol=ANMA',
+    'ITIS Synonyms - ((Linnaeus, 1758))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170563',
   'Hemipteronotus pentadactylus***retired***use Xyrichtys pentadactylus':
     '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170563',
   'Hemipteronotus psittacus':
-    'ITIS Synonyms - ((Linnaeus, 1766))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170538',
+    'ITIS Synonyms - ((L.) Benth.) Common Name "western pearly everlasting" http://plants.usda.gov/core/profile?symbol=ANMA',
   'Hemipteronotus psittacus***retired***use Xyrichtys novacula':
     '(Linnaeus 1766)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170538',
   'Hemipteronotus quinquemaculatus':
@@ -99020,25 +99019,25 @@ export default {
   'Hemipteronotus quinquemaculatus***retired***use Xyrichtys pentadactylus':
     'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus rosipes':
-    'ITIS Synonyms - ((L.) Benth.) Common Name "western pearly everlasting" http://plants.usda.gov/core/profile?symbol=ANMA',
+    'ITIS Synonyms - ((Jordan and Gilbert, 1884))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170564',
   'Hemipteronotus rosipes***retired***use Xyrichtys novacula':
     '(Jordan and Gilbert 1884)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170564',
   'Hemipteronotus splendens':
-    'ITIS Synonyms - ((Castelnau, 1855))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170539',
+    'ITIS Synonyms - ((L.) Benth.) Common Name "western pearly everlasting" http://plants.usda.gov/core/profile?symbol=ANMA',
   'Hemipteronotus splendens***retired***use Xyrichtys splendens':
-    '(Castelnau 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170539',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus taeniourus':
     'ITIS Synonyms - ((Lac?p?de, 1801))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170545',
   'Hemipteronotus taeniourus***retired***use Novaculichthys taeniourus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Lacepede 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170545',
   'Hemipteronotus umbrilatus':
     'ITIS Synonyms - (Bleeker 1865)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161260',
   'Hemipteronotus umbrilatus***retired***use Xyrichtys umbrilatus':
     '(Jenkins 1901)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170548',
   'Hemipteronotus verrens':
-    'ITIS Synonyms - (Jordan and Starks in Jordan and Seale 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161251     ,TAX_UID=21546',
+    'ITIS Synonyms - (Jordan and Evermann, 1902)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614554',
   'Hemipteronotus verrens***retired***use Xyrichtys verrens':
-    '(Jordan and Evermann 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614554',
+    'STANDARDIZE NAME (Normalized)',
   'Hemipteronotus woodi':
     'ITIS Synonyms - ((Jenkins, 1901))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170550',
   'Hemipteronotus woodi***retired***use Novaculichthys woodi':
@@ -99052,7 +99051,7 @@ export default {
   Hemiramphus:
     '(Cuvier 1816)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165459',
   'Hemiramphus affinis':
-    'ITIS Synonyms - (G?nther, 1866)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165472',
+    'ITIS Synonyms - (Kroyer 1845)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=550561',
   'Hemiramphus affinis***retired***use Hyporhamphus affinis':
     '(Gunther 1866)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165472',
   'Hemiramphus archipelagicus':
@@ -99064,9 +99063,10 @@ export default {
     '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165460',
   'Hemiramphus depauperatus':
     '(Lay and Bennett 1839)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165464',
-  'Hemiramphus far': 'STANDARDIZE NAME (Normalized)',
+  'Hemiramphus far':
+    '(Forsskal 1775)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165466',
   'Hemiramphus intermedius':
-    'ITIS Synonyms - (Cantor, 1842)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165467',
+    'ITIS Synonyms - (Steenstrup and Hallgrimsson in Steenstrup 1876)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171340     ,TAX_UID=1021',
   'Hemiramphus laticeps':
     'ITIS Synonyms - (G?nther, 1866)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165479',
   'Hemiramphus laticeps***retired***use Hyporhamphus dussumieri':
@@ -99075,25 +99075,24 @@ export default {
     'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes, 1847)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165465',
   'Hemiramphus marginatus': 'STANDARDIZE NAME (Normalized)',
   'Hemiramphus melanurus':
-    'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes, 1847)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=645269',
+    'ITIS Synonyms - (Ayres 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171338     ,TAX_UID=1025',
   'Hemiramphus robustus': 'STANDARDIZE NAME (Normalized)',
   'Hemiramphus sajori':
     'ITIS Synonyms - (Temminck and Schlegel, 1846)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165470',
-  'Hemiramphus saltator': 'STANDARDIZE NAME (Normalized)',
+  'Hemiramphus saltator':
+    '(Gilbert and Starks 1904)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165463',
   'Hemirhamphus affinis':
     'ITIS Synonyms - (Ayres 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171338     ,TAX_UID=1025',
   'Hemirhamphus intermedius':
-    'ITIS Synonyms - (Ayres 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171345',
+    'ITIS Synonyms - (Cantor, 1842)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=645280',
   'Hemirhamphus laticeps':
     'ITIS Synonyms - (G?nther, 1866)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=645282',
   'Hemirhamphus pacificus':
     'ITIS Synonyms - (Steindachner, 1900)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=645281',
-  Hemisalanx:
-    '(Regan 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623325',
+  Hemisalanx: 'STANDARDIZE NAME (Normalized)',
   'Hemisalanx brachyrostralis': 'STANDARDIZE NAME (Normalized)',
   'Hemisalanx prognathus': 'STANDARDIZE NAME (Normalized)',
-  Hemiscylliidae:
-    '(Gill 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159929',
+  Hemiscylliidae: 'STANDARDIZE NAME (Normalized)',
   Hemiscyllium: '',
   'Hemiscyllium (Archaic)':
     '(Muller and Henle, 1838)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159930     ,TAX_UID=9687',
@@ -99102,57 +99101,51 @@ export default {
   'Hemiscyllium freycineti':
     '(Quoy and Gaimard 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159931',
   'Hemiscyllium hallstromi': 'STANDARDIZE NAME (Normalized)',
-  'Hemiscyllium ocellatum':
-    '(Bonnaterre 1788)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159936',
+  'Hemiscyllium ocellatum': 'STANDARDIZE NAME (Normalized)',
   'Hemiscyllium plagiosum':
     'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175074',
   'Hemiscyllium plagiosum***retired***use Chiloscyllium plagiosum':
     'STANDARDIZE NAME (Normalized)',
-  'Hemiscyllium strahani':
-    '(Whitley 1967)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159938',
+  'Hemiscyllium strahani': 'STANDARDIZE NAME (Normalized)',
   'Hemiscyllium trispeculare':
     '(Richardson 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159939',
   'Hemiscyllium variolatum':
-    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=174999',
+    'ITIS Synonyms - (Dum?ril, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159964',
   'Hemiscyllium variolatum***retired***use Parascyllium variolatum':
     '(Dumeril 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159964',
   Hemiselmis:
     'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10604',
-  'Hemiselmis virescens':
-    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10606',
-  Hemisquilla: 'STANDARDIZE NAME (Normalized)',
-  'Hemisquilla californiensis': 'STANDARDIZE NAME (Normalized)',
+  'Hemiselmis virescens': 'STANDARDIZE NAME (Normalized)',
+  Hemisquilla:
+    '(Hansen 1895)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=99173',
+  'Hemisquilla californiensis':
+    '(Stephenson 1967)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=682545',
   'Hemisquilla ensigera californiensis':
-    'ITIS Synonyms - (Linnaeus 1766)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175086',
+    'ITIS Synonyms - (Stephenson, 1967)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=99176',
   Hemistoma:
     'ITIS Synonyms - (Linnaeus 1766)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175086',
   'Hemistoma reticulata':
     'ITIS Synonyms - (Swainson, 1839)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614705',
   'Hemistoma reticulata***retired***use Scarus ghobban':
-    'STANDARDIZE NAME (Normalized)',
-  'Hemistoma***retired***use Scarus':
-    '(Swainson 1839)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613146',
+    '(Swainson 1839)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614705',
+  'Hemistoma***retired***use Scarus': 'STANDARDIZE NAME (Normalized)',
   Hemitaurichthys: 'STANDARDIZE NAME (Normalized)',
-  'Hemitaurichthys multispinosus':
-    '(Randall 1975)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610339',
+  'Hemitaurichthys multispinosus': 'STANDARDIZE NAME (Normalized)',
   'Hemitaurichthys multispinus':
-    'ITIS Synonyms - (Burgess and Randall in Burgess, 1987)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610340',
+    'ITIS Synonyms - ((Fluegge) Hitchc.) Common Name "big carpetgrass" http://plants.usda.gov/core/profile?symbol=AXFU',
   'Hemitaurichthys multispinus***retired***use Hemitaurichthys multispinosus':
     '(Burgess and Randall in Burgess 1987)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610340',
-  'Hemitaurichthys polylepis':
-    '(Bleeker 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169658',
+  'Hemitaurichthys polylepis': 'STANDARDIZE NAME (Normalized)',
   'Hemitaurichthys thompsoni':
     '(Fowler 1923)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169659',
   'Hemitaurichthys zoster': 'STANDARDIZE NAME (Normalized)',
   Hemitautoga:
-    'ITIS Synonyms - Common Name "knotgrass" http://plants.usda.gov/core/profile?symbol=PADI6',
-  'Hemitautoga***retired***use Halichoeres':
-    '(Bleeker 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613093',
-  'Hemithiris psittacea': 'table unique identifier',
+    'ITIS Synonyms - (Bleeker, 1862)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613093',
+  'Hemitautoga***retired***use Halichoeres': 'STANDARDIZE NAME (Normalized)',
+  'Hemithiris psittacea': 'national unique domain values',
   Hemitremia: 'STANDARDIZE NAME (Normalized)',
   'Hemitremia flammea': 'STANDARDIZE NAME (Normalized)',
-  Hemitriakis:
-    '(Herre 1923)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160541',
+  Hemitriakis: 'STANDARDIZE NAME (Normalized)',
   'Hemitriakis japanica': 'STANDARDIZE NAME (Normalized)',
   'Hemitriakis leucoperiptera':
     '(Herre 1923)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160542',
@@ -99162,80 +99155,80 @@ export default {
   'Hemitripterus americanus': 'STANDARDIZE NAME (Normalized)',
   'Hemitripterus bolini':
     '(Myers 1934)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167287',
-  'Hemitripterus villosus': 'STANDARDIZE NAME (Normalized)',
+  'Hemitripterus villosus':
+    '(Pallas 1814)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167286',
   Hemiulis:
-    'ITIS Synonyms - (Audouin 1826)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=91387',
-  'Hemiulis***retired***use Halichoeres':
-    '(Swainson 1839)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613091',
+    'ITIS Synonyms - (Swainson, 1839)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613091',
+  'Hemiulis***retired***use Halichoeres': 'STANDARDIZE NAME (Normalized)',
   'Hemizonia arida':
-    'ITIS Synonyms - (Nobili 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=91544',
+    'ITIS Synonyms - (D.D. Keck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=37609',
   'Hemizonia australis':
     'ITIS Synonyms - ((D.D. Keck) D.D. Keck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514641',
   'Hemizonia calyculata':
-    'ITIS Synonyms - ((Babc. & H.M. Hall) D.D. Keck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=37610',
+    'ITIS Synonyms - (Kussakin and Tzareva 1974)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=91526',
   'Hemizonia congesta ssp. calyculata': 'STANDARDIZE NAME (Normalized)',
   'Hemizonia parryi ssp. australis':
-    'ITIS Synonyms - (H Richardson 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=91533',
+    'ITIS Synonyms - (D.D. Keck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=37639',
   'Hemp dogbane1': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
   Hemp1: 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
   'Hemphill fileclam': 'TAXON COMMON NAME',
-  'Hemphill kelp crab':
-    'ITIS Vernaculars - (Lockington 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=98492',
-  'Hemphill surfclam': 'TAXON COMMON NAME',
-  'Hemus cristulipes':
-    '(A Milne-Edwards 1875)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=98540',
+  'Hemphill kelp crab': 'TAXON COMMON NAME',
+  'Hemphill surfclam':
+    'ITIS Vernaculars - (Dall 1894)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=567851',
+  'Hemus cristulipes': 'STANDARDIZE NAME (Normalized)',
   'Hen plant': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
   'Henbit deadnettle1': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
-  "Henderson's water-marigold": 'TAXON COMMON NAME',
-  Heniochus:
-    '(Cuvier 1816)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169648',
-  'Heniochus acuminatus': 'STANDARDIZE NAME (Normalized)',
+  "Henderson's water-marigold":
+    'ITIS Vernaculars - (Torr ex Spreng)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=509515',
+  Heniochus: 'STANDARDIZE NAME (Normalized)',
+  'Heniochus acuminatus':
+    '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169652',
   'Heniochus chrysostomus':
     '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169649',
-  'Heniochus diphreutes': 'STANDARDIZE NAME (Normalized)',
+  'Heniochus diphreutes':
+    '(Jordan 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169651',
   'Heniochus drepanoides':
-    'ITIS Synonyms - (H F Moore 1894)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=91475',
+    'ITIS Synonyms - (Thiolli?re in Montrouzier, 1857)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610272',
   'Heniochus drepanoides***retired***use Heniochus chrysostomus':
     '(Thiolliere in Montrouzier 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610272',
   'Heniochus excelsa':
-    'ITIS Synonyms - ((Jordan, 1921))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=646782',
+    'ITIS Synonyms - (H F Moore 1894)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=91475',
   'Heniochus intermedius':
     '(Steindachner 1893)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610299',
   'Heniochus melanistion':
     'ITIS Synonyms - (Bleeker, 1854)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610327',
   'Heniochus melanistion***retired***use Heniochus chrysostomus':
     '(Bleeker 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610327',
-  'Heniochus monoceros': 'STANDARDIZE NAME (Normalized)',
+  'Heniochus monoceros':
+    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169655',
   'Heniochus nigrirostris':
     'ITIS Synonyms - ((Gill, 1862))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169656',
   'Heniochus nigrirostris***retired***use Johnrandallia nigrirostris':
-    '(Gill 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169656',
+    'STANDARDIZE NAME (Normalized)',
   'Heniochus permutatus':
-    'ITIS Synonyms - (Michx.) Common Name "splitbeard bluestem" http://plants.usda.gov/core/profile?symbol=ANTE2',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169650',
   'Heniochus permutatus***retired***use Heniochus chrysostomus':
     '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169650',
-  'Heniochus pleurotaenia': 'STANDARDIZE NAME (Normalized)',
-  'Heniochus singularius':
-    '(Smith and Radcliffe 1911)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169654',
-  'Heniochus varius':
-    '(Cuvier 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169653',
+  'Heniochus pleurotaenia':
+    '(Ahl 1923)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610362',
+  'Heniochus singularius': 'STANDARDIZE NAME (Normalized)',
+  'Heniochus varius': 'STANDARDIZE NAME (Normalized)',
   Henlea:
     '(Michaelsen 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68541',
-  Heno: 'ITIS Vernaculars - ((L.) L.) Common Name "Spanish moss" http://plants.usda.gov/core/profile?symbol=TIUS',
-  Henoceros: 'table unique identifier',
-  Henricia: 'STANDARDIZE NAME (Normalized)',
-  'Henricia aspera':
-    '(Fisher 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157153',
+  Heno: 'TAXON COMMON NAME',
+  Henoceros: 'national unique domain values',
+  Henricia:
+    '(Gray 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157152',
+  'Henricia aspera': 'STANDARDIZE NAME (Normalized)',
   'Henricia attenuata':
     'ITIS Synonyms - (H. L. Clark, 1901)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=991973',
   'Henricia curta':
     'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
   'Henricia inequalis':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
-  'Henricia leviuscula':
-    '(Stimpson 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157157',
+    'ITIS Synonyms - (Verrill, 1914)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=991972',
+  'Henricia leviuscula': 'STANDARDIZE NAME (Normalized)',
   'Henricia leviuscula multispina':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
+    'ITIS Synonyms - (Fisher, 1910)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656062',
   'Henricia miliaris':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb. [var] Vasey ex L.H. Dewey) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGLP',
   'Henricia rudis':
@@ -99244,57 +99237,58 @@ export default {
   'Henricia sanguinolenta miliaris':
     'ITIS Synonyms - (Verrill, 1914)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=993318',
   'Henricia sanguinolenta sanguinolenta':
-    'ITIS Synonyms - (Barnard 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=541957',
+    'ITIS Synonyms - ((O. F. M?ller, 1776))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=157168',
   'Henricia spatulifera':
     'ITIS Synonyms - (Barnard 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=541957',
   "Henry's crabgrass":
     'ITIS Vernaculars - ((Retz.) Koeler) Common Name "southern crabgrass" http://plants.usda.gov/core/profile?symbol=DICI',
-  Henrya: '',
-  'Henrya (Acanthaceae)': 'ITIS TAXON SERIAL NUMBER',
+  Henrya: 'RETIRED NAME',
+  'Henrya (Acanthaceae)': 'STANDARDIZE NAME (Normalized)',
   'Henrya (Ebalidae)':
     '(Bartsch 1927)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=72427',
   'Henrya***retired***use Henrya (Acanthaceae), Henrya (Ebalidae)':
     '(Nees ex Benth)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=500317',
-  'Henslow peaclam': 'TAXON COMMON NAME',
+  'Henslow peaclam':
+    'ITIS Vernaculars - (Sheppard 1825)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=81410',
   Hepatica:
-    'ITIS Synonyms - (Spengler 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80965',
+    'ITIS Synonyms - (Mill.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=18778',
   'Hepatica americana':
-    'ITIS Synonyms - (Lamarck 1799)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79930',
+    'ITIS Synonyms - ((DC.) Ker Gawl.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514659',
   'Hepatica hepatica':
-    'ITIS Synonyms - ((L.) H. Karst.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514660',
+    'ITIS Synonyms - (Nardo 1827)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165721',
   'Hepatica nobilis':
     'ITIS Synonyms - (Walker 1848)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128037',
   'Hepatica nobilis var. obtusa':
-    'ITIS Synonyms - ((Pursh) Steyerm.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=528379',
+    'ITIS Synonyms - (Coquillett 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128056',
   'Hepatica nobilis***retired***use Anemone americana':
     '(Schreb)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=18779',
   'Hepatica triloba var. americana':
-    'ITIS Synonyms - (Walker 1848)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128037',
+    'ITIS Synonyms - (DC.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536135',
   Hepaticae:
-    'ITIS Synonyms - (Coquillett 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128056',
-  'Hepaticae***retired***use Marchantiophyta': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=14196',
+  'Hepaticae***retired***use Marchantiophyta':
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=14196',
   Hepatidae: 'national unique domain values',
   Hepatophyta:
-    'ITIS Synonyms - (Sublette 1964)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128028',
-  'Hepatus epheliticus':
-    '(Linnaeus 1763)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=98348',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=14196     ,TAX_UID=41348',
+  'Hepatus epheliticus': 'STANDARDIZE NAME (Normalized)',
   'Hepatus pudibundus': 'table unique identifier',
-  Hephaestus: 'STANDARDIZE NAME (Normalized)',
-  'Hephaestus adamsoni':
-    '(Trewavas 1940)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168045',
-  'Hephaestus carbo': 'STANDARDIZE NAME (Normalized)',
-  'Hephaestus fuliginosus': 'STANDARDIZE NAME (Normalized)',
+  Hephaestus:
+    '(De Vis 1884)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168044',
+  'Hephaestus adamsoni': 'STANDARDIZE NAME (Normalized)',
+  'Hephaestus carbo':
+    '(Ogilby and McCulloch 1916)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168046',
+  'Hephaestus fuliginosus':
+    '(Macleay 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168047',
   'Hephaestus jenkinsi':
     '(Whitley 1945)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168048',
-  'Hephaestus roemeri':
-    '(Weber 1910)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168049',
+  'Hephaestus roemeri': 'STANDARDIZE NAME (Normalized)',
   'Hephaestus suavis':
-    'ITIS Synonyms - (Johannsen)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128076',
+    'ITIS Synonyms - ((Whitley, 1948))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168050',
   'Hephaestus suavis***retired***use Hephaestus carbo':
-    '(Whitley 1948)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168050',
+    'STANDARDIZE NAME (Normalized)',
   'Hephaestus trimaculatus': 'STANDARDIZE NAME (Normalized)',
-  Hephthocara:
-    '(Alcock 1892)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165156',
+  Hephthocara: 'STANDARDIZE NAME (Normalized)',
   'Hephthocara crassiceps':
     '(Smith and Radcliffe in Radcliffe 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165157',
   'Hephthocara simum': 'STANDARDIZE NAME (Normalized)',
@@ -99303,53 +99297,51 @@ export default {
   'Hepsetia breviceps':
     'ITIS Synonyms - ((Valenciennes in Cuvier and Valenciennes, 1835))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166053',
   'Hepsetia breviceps***retired***use Atherina breviceps':
-    'STANDARDIZE NAME (Normalized)',
-  'Hepsetia***retired***use Atherina':
-    '(Bonaparte 1836)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166052',
+    '(Valenciennes in Cuvier and Valenciennes 1835)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166053',
+  'Hepsetia***retired***use Atherina': 'STANDARDIZE NAME (Normalized)',
   Hepsetidae: 'STANDARDIZE NAME (Normalized)',
-  Hepsetus: 'STANDARDIZE NAME (Normalized)',
+  Hepsetus:
+    '(Swainson 1838)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163070',
   'Hepsetus odoe': 'STANDARDIZE NAME (Normalized)',
   Heptacarpus:
     '(Holmes 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96830',
   'Heptacarpus brevirostris':
     '(Dana 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96840',
   'Heptacarpus gracilis':
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96846',
-  'Heptacarpus kincaidi': 'STANDARDIZE NAME (Normalized)',
-  'Heptacarpus palpator':
-    '(Owen 1839)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96850',
-  'Heptacarpus paludicola':
-    '(Holmes 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96844',
-  'Heptacarpus stimpsoni': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes 1848)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161844',
+  'Heptacarpus kincaidi':
+    '(M J Rathbun 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96836',
+  'Heptacarpus palpator': 'STANDARDIZE NAME (Normalized)',
+  'Heptacarpus paludicola': 'STANDARDIZE NAME (Normalized)',
+  'Heptacarpus stimpsoni':
+    '(Holthuis 1947)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96843',
   'Heptacarpus tenuissimus': 'STANDARDIZE NAME (Normalized)',
-  'Heptacarpus tridens':
-    '(M J Rathbun 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=96832',
+  'Heptacarpus tridens': 'STANDARDIZE NAME (Normalized)',
   Heptadecanthus:
-    'ITIS Synonyms - (Alleyne and Macleay, 1877)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613182',
+    'ITIS Synonyms - (Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551406',
   'Heptadecanthus brevipinnis':
-    'ITIS Synonyms - (De Vis, 1885)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615142',
-  'Heptadecanthus brevipinnis***retired***use Acanthochromis polyacanthus':
-    'STANDARDIZE NAME (Normalized)',
-  'Heptadecanthus longicaudis':
     'ITIS Synonyms - (Evermann and Marsh 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161842',
+  'Heptadecanthus brevipinnis***retired***use Acanthochromis polyacanthus':
+    '(De Vis 1885)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615142',
+  'Heptadecanthus longicaudis':
+    'ITIS Synonyms - (Alleyne and Macleay, 1877)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615145',
   'Heptadecanthus longicaudis***retired***use Acanthochromis polyacanthus':
-    '(Alleyne and Macleay 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615145',
+    'STANDARDIZE NAME (Normalized)',
   'Heptadecanthus maculosus':
     'ITIS Synonyms - (De Vis, 1885)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615146',
   'Heptadecanthus maculosus***retired***use Acanthochromis polyacanthus':
-    'STANDARDIZE NAME (Normalized)',
+    '(De Vis 1885)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615146',
   'Heptadecanthus***retired***use Acanthochromis':
     '(Alleyne and Macleay 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613182',
-  Heptagenia:
-    '(Walsh 1863)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100602',
+  Heptagenia: 'STANDARDIZE NAME (Normalized)',
   'Heptagenia aphrodite':
-    'ITIS Synonyms - (McDunnough, 1926)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100685',
+    'ITIS Synonyms - (Miller 1945)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=572648',
   'Heptagenia basalis':
-    'ITIS Synonyms - (G�nther 1880)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551391',
+    'ITIS Synonyms - ((Walker, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698399',
   'Heptagenia bednariki':
     'ITIS Synonyms - (Goode 1874)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551357',
   'Heptagenia borealis':
-    'ITIS Synonyms - (Lacep�de 1803)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161869     ,TAX_UID=20213',
+    'ITIS Synonyms - (Eaton, 1871)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698397',
   'Heptagenia brunnea':
     'ITIS Synonyms - (Hagen, 1875)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698277',
   'Heptagenia canadensis':
@@ -99357,9 +99349,9 @@ export default {
   'Heptagenia candida':
     'ITIS Synonyms - (Swain and Meek 1884)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161830',
   'Heptagenia carlsoni':
-    'ITIS Synonyms - ((Lewis, 1974))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698215',
+    'ITIS Synonyms - (Hildebrand 1943)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161829     ,TAX_UID=7182',
   'Heptagenia carolina':
-    'ITIS Synonyms - (Banks, 1914)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698291',
+    'ITIS Synonyms - (Swain and Meek 1884)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161830',
   'Heptagenia coxalis':
     'ITIS Synonyms - (R�ppell 1837)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=572702     ,TAX_UID=20217',
   'Heptagenia criddlei':
@@ -99372,76 +99364,74 @@ export default {
     'ITIS Synonyms - (Burks, 1946)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100608',
   'Heptagenia diabasia***retired***use Heptagenia elegantula':
     '(Burks 1946)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100608',
-  'Heptagenia diabasia/elegantula':
-    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100602',
+  'Heptagenia diabasia/elegantula': 'STANDARDIZE NAME (Normalized)',
   'Heptagenia elegantula': 'STANDARDIZE NAME (Normalized)',
   'Heptagenia elegantula/solitaria':
     'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100602',
   'Heptagenia exigua':
-    'ITIS Synonyms - (Jordan and Gilbert 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=572695     ,TAX_UID=20221',
+    'ITIS Synonyms - ((Traver, 1933))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698217',
   'Heptagenia femorata':
-    'ITIS Synonyms - ((Say, 1823))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698318',
+    'ITIS Synonyms - (Jordan and Seale 1926)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551399',
   'Heptagenia flaveola':
-    'ITIS Synonyms - ((Pictet, 1843))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=776988',
-  'Heptagenia flavescens':
-    '(Walsh 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100610',
+    'ITIS Synonyms - (Menzies and J L Barnard 1959)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=92350',
+  'Heptagenia flavescens': 'STANDARDIZE NAME (Normalized)',
   'Heptagenia floridensis':
     'ITIS Synonyms - ((Lewis, 1974))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698293',
   'Heptagenia frontalis':
     'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65569',
   'Heptagenia fusca':
-    'ITIS Synonyms - ((Walker, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698281',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=639370',
   'Heptagenia fusca*':
     'ITIS Synonyms - (Kner 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164374     ,TAX_UID=1104',
   'Heptagenia gildersleevei':
-    'ITIS Synonyms - (Hancock 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164375',
+    'ITIS Synonyms - ((Traver, 1935))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698295',
   'Heptagenia hebe':
-    'ITIS Synonyms - (Hancock 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164376     ,TAX_UID=1100',
+    'ITIS Synonyms - (McDunnough, 1924)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100678',
   'Heptagenia impersonata':
     'ITIS Synonyms - (Hancock 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=553393     ,TAX_UID=12231',
   'Heptagenia inconspicua':
     'ITIS Synonyms - (Steindachner 1915)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164368     ,TAX_UID=15592',
   'Heptagenia integer': 'RETIRED NAME',
   'Heptagenia integer*':
-    'ITIS Synonyms - (McDunnough 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698515',
+    'ITIS Synonyms - (Steindachner 1915)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=680095',
   'Heptagenia interpunctata':
-    'ITIS Synonyms - ((Say, 1839))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698304',
+    'ITIS Synonyms - (Steindachner 1915)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164369     ,TAX_UID=1106',
   'Heptagenia ithaca':
-    'ITIS Synonyms - (Clemens and Leonard, 1924)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698220',
+    'ITIS Synonyms - (Say 1821)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71635',
   'Heptagenia julia':
     '(Traver 1933)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100612',
   'Heptagenia lucidipennis':
     'ITIS Synonyms - (Wetherby 1876)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71628',
   'Heptagenia lutea':
-    'ITIS Synonyms - (Jordan and Gilbert 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=616635     ,TAX_UID=1115',
+    'ITIS Synonyms - (Clemens, 1913)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698224',
   'Heptagenia maculipennis':
     'ITIS Synonyms - (Walsh, 1863)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100614',
   'Heptagenia maculipennis***retired***use Leucrocuta maculipennis':
     'STANDARDIZE NAME (Normalized)',
   'Heptagenia manifesta':
-    'ITIS Synonyms - (Jordan and Gilbert 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=616025     ,TAX_UID=15292',
-  'Heptagenia marginalis': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - ((Eaton, 1885))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100615',
+  'Heptagenia marginalis':
+    '(Banks 1910)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100616',
   'Heptagenia mediopunctata':
     'ITIS Synonyms - ((McDunnough, 1926))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698227',
-  'Heptagenia mediopunctata arwini':
-    'ITIS Synonyms - (Bednarik and McCafferty 1979)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698510',
+  'Heptagenia mediopunctata arwini': 'RETIRED NAME',
   'Heptagenia mediopunctata mediopunctata':
-    'ITIS Synonyms - (Jordan and Gilbert 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=616601',
+    'ITIS Synonyms - ((McDunnough, 1926))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698514',
   'Heptagenia meririvulana':
     'ITIS Synonyms - (Jordan and Gilbert 1883)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=616635     ,TAX_UID=1115',
   'Heptagenia mexicana':
     'ITIS Synonyms - (Gill 1864)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172757     ,TAX_UID=1116',
-  'Heptagenia mexicana integer':
-    'ITIS Synonyms - (McDunnough, 1924)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698516',
+  'Heptagenia mexicana integer': 'RETIRED NAME',
   'Heptagenia mexicana integer*':
     'ITIS Synonyms - (McDunnough 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698515     ,Maccaffertium mexicanum intebrum',
   'Heptagenia minnetonka':
     'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945750',
-  'Heptagenia modesta': 'RETIRED NAME',
+  'Heptagenia modesta':
+    'ITIS Synonyms - ((Banks, 1910))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698235',
   'Heptagenia modesta*':
     'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945750',
   'Heptagenia otiosa':
-    'ITIS Synonyms - (McDunnough, 1935)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100704',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945750',
   'Heptagenia pallida':
     'ITIS Synonyms - (Dunal) Common Name "buffalobur nightshade" http://plants.usda.gov/core/profile?symbol=SORO',
   'Heptagenia perfida':
@@ -99455,8 +99445,9 @@ export default {
   'Heptagenia pudica':
     'ITIS Synonyms - (L Moench)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=23637',
   'Heptagenia pulchella':
-    'ITIS Synonyms - ((Walsh, 1862))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698243',
-  'Heptagenia pulla': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - ((Walter) Nutt.) Common Name "rusty staggerbush" http://plants.usda.gov/core/profile?symbol=LYFE',
+  'Heptagenia pulla':
+    '(Clemens 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100619',
   'Heptagenia pullus':
     'ITIS Synonyms - (Link DC)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=526876     ,TAX_UID=34485',
   'Heptagenia quebecensis':
@@ -99466,65 +99457,61 @@ export default {
   'Heptagenia reversalis':
     'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=894555',
   'Heptagenia rodocki':
-    'ITIS Synonyms - ((Hook.) DC.) Common Name "climbing fetterbush" http://plants.usda.gov/core/profile?symbol=PIPH',
+    'ITIS Synonyms - (Traver, 1935)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100708',
   'Heptagenia rosea':
-    'ITIS Synonyms - (Traver, 1935)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100700',
-  'Heptagenia rubromaculata':
-    'ITIS Synonyms - (Clemens, 1913)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698236',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=894555',
+  'Heptagenia rubromaculata': 'RETIRED NAME',
   'Heptagenia rubromaculata*':
     'ITIS Synonyms - (Banks, 1910)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698232#null',
   'Heptagenia rubroventris':
-    'ITIS Synonyms - (Link DC)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=526876     ,TAX_UID=34485',
+    'ITIS Synonyms - (Traver, 1935)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100699',
   'Heptagenia rusticalis':
-    'ITIS Synonyms - (McDunnough, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100710',
+    'ITIS Synonyms - http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=894555',
   'Heptagenia salvini':
     'ITIS Synonyms - (Kimmins, 1934)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100624',
   'Heptagenia simpliciodes':
     'ITIS Synonyms - ((Bartram ex Willd.) Pollard) Common Name "honeycup" http://plants.usda.gov/core/profile?symbol=ZEPU3',
   'Heptagenia simplicioides':
-    'ITIS Synonyms - ((Bartram ex Willd.) Pollard) Common Name "honeycup" http://plants.usda.gov/core/profile?symbol=ZEPU3',
+    'ITIS Synonyms - (McDunnough, 1924)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100620',
   'Heptagenia sinclairi':
     'ITIS Synonyms - ((Lewis, 1979))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698246',
   'Heptagenia smithae':
-    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
-  'Heptagenia solitaria':
-    '(McDunnough 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100621',
+    'ITIS Synonyms - ((Traver, 1937))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698248',
+  'Heptagenia solitaria': 'STANDARDIZE NAME (Normalized)',
   'Heptagenia subaequalis':
     'ITIS Synonyms - (Banks, 1914)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698140',
   'Heptagenia terminata':
-    'ITIS Synonyms - (Michx.) Common Name "splitbeard bluestem" http://plants.usda.gov/core/profile?symbol=ANTE2',
+    'ITIS Synonyms - ((Walsh, 1862))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698253',
   'Heptagenia terminata terminata':
-    'ITIS Synonyms - (Michx.) Common Name "splitbeard bluestem" http://plants.usda.gov/core/profile?symbol=ANTE2',
+    'ITIS Synonyms - ((Walsh, 1862))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698522',
   'Heptagenia tripunctata':
     'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Heptagenia verticis':
-    'ITIS Synonyms - ((Say, 1839))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698423',
+    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
   'Heptagenia vicaria':
-    'ITIS Synonyms - ((Walker, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698265',
+    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
   'Heptagenia vitrea':
     'ITIS Synonyms - ((Walker, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698180',
   'Heptagenia werestschagini':
-    'ITIS Synonyms - (Nash)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=40453     ,TAX_UID=34483',
-  Heptageniidae:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100504',
+    'ITIS Synonyms - (Tshernova, 1952)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698156',
+  Heptageniidae: 'STANDARDIZE NAME (Normalized)',
   Heptagenioidea:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100503',
   Heptagyia:
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128344',
+    'ITIS Synonyms - (Nash)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=40453     ,Andropogon virginicus var. glaucus',
   'Heptagyia lurida':
     'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
   Heptanchus:
-    'ITIS Synonyms - (M?ller and Henle, 1841)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159841',
-  'Heptanchus***retired***use Heptranchias':
-    '(Muller and Henle 1841)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159841',
+    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
+  'Heptanchus***retired***use Heptranchias': 'STANDARDIZE NAME (Normalized)',
   Heptapteridae: 'national unique domain values',
   Heptaseta:
-    'ITIS Synonyms - (Koidz.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=781639',
+    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
   Heptranchias: 'STANDARDIZE NAME (Normalized)',
   'Heptranchias angio':
     'ITIS Synonyms - (Costa, 1857)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159845',
   'Heptranchias angio***retired***use Heptranchias perlo':
-    '(Costa 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159845',
+    'STANDARDIZE NAME (Normalized)',
   'Heptranchias cinereus':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heptranchias cinereus***retired***use Heptranchias perlo':
@@ -99534,20 +99521,20 @@ export default {
   'Heptranchias deani***retired***use Heptranchias perlo':
     'STANDARDIZE NAME (Normalized)',
   'Heptranchias pectorosus':
-    'ITIS Synonyms - (Garman, 1884)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159830',
+    'ITIS Synonyms - ((Michx.) Torr.) Common Name "sideoats grama" http://plants.usda.gov/core/profile?symbol=BOCU',
   'Heptranchias pectorosus***retired***use Notorynchus cepedianus':
-    '(Garman 1884)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159830',
-  'Heptranchias perlo': 'STANDARDIZE NAME (Normalized)',
+    'STANDARDIZE NAME (Normalized)',
+  'Heptranchias perlo':
+    '(Bonnaterre 1788)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159844',
   'Heptranchias spilotus':
     'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
   'Heptranchias spilotus***retired***use Notorynchus cepedianus':
     '(Lahille 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159831',
   Heptranchus:
-    'ITIS Synonyms - (Gray, 1851)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159842',
-  'Heptranchus***retired***use Heptranchias':
-    '(Gray 1851)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159842',
+    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
+  'Heptranchus***retired***use Heptranchias': 'STANDARDIZE NAME (Normalized)',
   Heptrancus:
-    'ITIS Synonyms - ((L.) L.) Common Name "eastern gamagrass" http://plants.usda.gov/core/profile?symbol=TRDA3',
+    'ITIS Synonyms - (Costa, 1857)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159843',
   'Heptrancus***retired***use Heptranchias': 'STANDARDIZE NAME (Normalized)',
   'Heracleum lanatum':
     'ITIS Synonyms - (Michx.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=29670',
@@ -99556,12 +99543,12 @@ export default {
   'Heracleum maximum':
     'ITIS Synonyms - (Bartram)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=502953',
   'Heracleum maximum***retired***use Heracleum sphondylium ssp. montanum':
-    '(Bartram)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=502953',
+    'STANDARDIZE NAME (Normalized)',
   'Heracleum sphondylium ssp. montanum': 'STANDARDIZE NAME (Normalized)',
   'Heracleum sphondylium var. lanatum':
-    'ITIS Synonyms - ((Michx.) Dorn)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536137',
+    'ITIS Synonyms - (Spreng.) Common Name "narrow plumegrass" http://plants.usda.gov/core/profile?symbol=SABA10',
   Heraclina:
-    'ITIS Synonyms - (Berry, 1913)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=82420',
+    'ITIS Synonyms - (Michx.) Common Name "splitbeard bluestem" http://plants.usda.gov/core/profile?symbol=ANTE2',
   Heraclina2:
     'ITIS Synonyms - (S. S. Berry, 1913)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=82421',
   'Herb barbara': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
@@ -99575,8 +99562,9 @@ export default {
   'Herdman eualid': 'TAXON COMMON NAME',
   Herdmania: 'RETIRED NAME',
   'Herdmania (Ptychodiscaceae)': 'STANDARDIZE NAME (Normalized)',
-  'Herdmania (Pyuridae)': 'ITIS TAXON SERIAL NUMBER',
-  'Herdmania momus': 'national unique domain values',
+  'Herdmania (Pyuridae)':
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159528',
+  'Herdmania momus': 'table unique identifier',
   'Herdmania***retired***use Herdmania (Ptychodiscaceae), Herdmania (Pyuridae)':
     '(Dodge 1981)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=573319',
   'Heriades longicornis':
@@ -99585,11 +99573,11 @@ export default {
     '(Popov 1960)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756470',
   'Heriades longicornis, Friese 1915 (Heriades)':
     '(Friese 1915)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756469',
-  'Heriades longicornis, Popov 1960 (Heriades)': 'ITIS TAXON SERIAL NUMBER',
+  'Heriades longicornis, Popov 1960 (Heriades)':
+    'STANDARDIZE NAME (Normalized)',
   'Heriades semirubra':
     'ITIS Synonyms - (Cockerell 1898)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=715489',
-  Heribaudiella:
-    'Brown Algae,Heribaudiella,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=3000041',
+  Heribaudiella: 'STANDARDIZE NAME (Normalized)',
   'Herichthys bartoni': 'national unique domain values',
   'Herichthys carpintis': 'national unique domain values',
   'Herichthys cyanoguttatum': 'STANDARDIZE NAME (Normalized)',
@@ -99605,27 +99593,21 @@ export default {
     '(Ogilby 1897)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551228',
   'Herklotsichthys collettei':
     '(Wongratana 1987)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551463',
-  'Herklotsichthys dispilonotus':
-    '(Bleeker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551231',
-  'Herklotsichthys gotoi': 'STANDARDIZE NAME (Normalized)',
-  'Herklotsichthys koningsbergeri':
-    '(Weber and de Beaufort 1912)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551230',
-  'Herklotsichthys lippa':
-    '(Whitley 1931)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551462',
-  'Herklotsichthys lossei':
-    '(Wongratana 1983)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551232',
+  'Herklotsichthys dispilonotus': 'STANDARDIZE NAME (Normalized)',
+  'Herklotsichthys gotoi':
+    '(Wongratana 1983)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551229',
+  'Herklotsichthys koningsbergeri': 'STANDARDIZE NAME (Normalized)',
+  'Herklotsichthys lippa': 'STANDARDIZE NAME (Normalized)',
+  'Herklotsichthys lossei': 'STANDARDIZE NAME (Normalized)',
   'Herklotsichthys ovalis':
     '(Anonymous [Bennett] 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=646469',
-  'Herklotsichthys punctatus':
-    '(Ruppell 1837)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551233',
-  'Herklotsichthys quadrimaculatus':
-    '(Ruppell 1837)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161825',
+  'Herklotsichthys punctatus': 'STANDARDIZE NAME (Normalized)',
+  'Herklotsichthys quadrimaculatus': 'STANDARDIZE NAME (Normalized)',
   'Herklotsichthys spilurus':
     '(Guichenot 1863)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551234',
   Hermannia: 'RETIRED NAME',
-  'Hermannia (Hermanniidae)':
-    '(Nicolet 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=733706',
-  'Hermannia (Malvaceae)': 'STANDARDIZE NAME (Normalized)',
+  'Hermannia (Hermanniidae)': 'STANDARDIZE NAME (Normalized)',
+  'Hermannia (Malvaceae)': 'ITIS TAXON SERIAL NUMBER',
   'Hermannia***retired***use Hermannia (Hermanniidae), Hermannia (Malvaceae)':
     'STANDARDIZE NAME (Normalized)',
   Hermanniaceae:
@@ -99634,41 +99616,40 @@ export default {
     'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
   Hermione:
     'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
-  'Hermissenda crassicornis':
-    '(Eschscholtz 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=78699',
+  'Hermissenda crassicornis': 'STANDARDIZE NAME (Normalized)',
   Hermosilla:
     '(Jenkins and Evermann 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169519',
   'Hermosilla azurea':
     '(Jenkins and Evermann 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169520',
-  Hermundura: 'table unique identifier',
+  Hermundura: 'national unique domain values',
   'Hermundura fauveli': 'national unique domain values',
   'Hermundura ocularis': 'national unique domain values',
-  'Hermundura tricuspis': 'table unique identifier',
+  'Hermundura tricuspis': 'national unique domain values',
   'Hermundura vivianneae': 'national unique domain values',
   Herniariaceae:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=897159',
   'Heron strie':
     'ITIS Vernaculars - (Linnaeus 1758) http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN &search_value=726050 common name:GREEN HERON  GREEN-BACKED HERON',
   'Heros coryphaenoides':
-    'ITIS Synonyms - (Heckel, 1840)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=649414',
+    'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
   'Heros managuensis':
     'ITIS Synonyms - (G?nther, 1867)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169785',
   'Heros managuensis***retired***use Parachromis managuensis':
     '(Gunther 1867)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169785',
   'Heros multispinosus':
-    'ITIS Synonyms - (G?nther, 1867)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169948',
+    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heros multispinosus***retired***use Herotilapia multispinosa':
     'STANDARDIZE NAME (Normalized)',
   'Heros nigrofasciatus':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heros octofasciatus':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
+    'ITIS Synonyms - (Regan, 1903)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169780',
   'Heros octofasciatus***retired***use Cichlasoma octofasciata':
-    'STANDARDIZE NAME (Normalized)',
+    '(Regan 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169780',
   'Heros salvini':
     'ITIS Synonyms - (G?nther, 1862)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169789',
   'Heros salvini***retired***use Cichlasoma salvini':
-    '(Gunther 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169789',
+    'STANDARDIZE NAME (Normalized)',
   'Heros severus':
     '(Heckel 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169895',
   'Heros spilurus':
@@ -99679,109 +99660,112 @@ export default {
     '(Gunther 1867)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169947',
   Herpetocypris: 'national unique domain values',
   Herpolitha: 'national unique domain values',
-  'Herpolitha limax': 'national unique domain values',
+  'Herpolitha limax': 'table unique identifier',
   Herposteiron:
     'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Herpothamnus crassifolius':
     'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Herring Gull': 'TAXON COMMON NAME',
-  'Herrington fingernailclam':
-    'ITIS Vernaculars - (J Lewis 1856)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=81399',
+  'Herrington fingernailclam': 'TAXON COMMON NAME',
   Herviera:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=76009',
-  'Herviera gliriella':
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=76010',
+  'Herviera gliriella': 'STANDARDIZE NAME (Normalized)',
   'Herviera patricia': 'STANDARDIZE NAME (Normalized)',
   Herwigia: 'STANDARDIZE NAME (Normalized)',
-  'Herwigia kreffti':
-    '(Nielsen and Larsen 1970)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623352',
+  'Herwigia kreffti': 'STANDARDIZE NAME (Normalized)',
   Hesione:
     '(Savigny 1818)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65523',
-  'Hesione picta':
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65524',
+  'Hesione picta': 'STANDARDIZE NAME (Normalized)',
   'Hesionella mccullochae': 'STANDARDIZE NAME (Normalized)',
   Hesionidae: 'STANDARDIZE NAME (Normalized)',
   Hesionura:
     '(Hartmann-Schroeder 1958)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65328',
-  'Hesionura australiensis': 'STANDARDIZE NAME (Normalized)',
+  'Hesionura australiensis':
+    '(Hartmann-Schroder & Parker 1990)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=328350',
   'Hesionura coineaui':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65329',
   'Hesionura coineaui difficilis': 'STANDARDIZE NAME (Normalized)',
   'Hesionura elongata': 'national unique domain values',
-  Hesiospina: 'national unique domain values',
-  Hesperagrion: 'STANDARDIZE NAME (Normalized)',
+  Hesiospina: 'table unique identifier',
+  Hesperagrion:
+    '(Calvert 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=181187',
   'Hesperagrion heterodoxum':
     'Invertebrates,((Selys))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=592496',
   'Hesperibalanus hesperius':
     '(Pilsbry 1916)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656285',
   'Hesperibalanus hesperius hesperius': 'STANDARDIZE NAME (Normalized)',
-  'Hesperis matronalis': 'STANDARDIZE NAME (Normalized)',
+  'Hesperis matronalis':
+    'Common Name "dames rocket" http://plants.usda.gov/core/profile?symbol=HEMA3',
   'Hesperis matronalis ssp. candida':
-    'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
+    'ITIS Synonyms - ((Kit.) Hegi & Em. Schmid)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=823404',
   'Hesperis matronalis ssp. voronovii':
     'ITIS Synonyms - ((N. Busch) P.W. Ball)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=823401',
   'Hesperis pinnatifida':
     'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
   'Hesperis pinnatifidus':
-    'ITIS Synonyms - (Michx.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514670',
+    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
   Hesperoconopa:
     '(Alexander 1948)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=120732',
-  'Hesperoconopa dolichophallus': 'STANDARDIZE NAME (Normalized)',
+  'Hesperoconopa dolichophallus':
+    '(Alexander 1948)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=120737',
   Hesperocorixa: 'STANDARDIZE NAME (Normalized)',
-  'Hesperocorixa atopodonta':
-    '(Hungerford 1927)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103453',
-  'Hesperocorixa brimleyi': 'table unique identifier',
+  'Hesperocorixa atopodonta': 'STANDARDIZE NAME (Normalized)',
+  'Hesperocorixa brimleyi': 'national unique domain values',
   'Hesperocorixa kennicotti':
     'Hesperocorixa kennicotti***retired***use Hesperocorixa kennicottii',
   'Hesperocorixa kennicotti***retired***use Hesperocorixa kennicottii':
-    '(Uhler 1897)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103460',
-  'Hesperocorixa kennicottii': 'national unique domain values',
+    'STANDARDIZE NAME (Normalized)',
+  'Hesperocorixa kennicottii': 'table unique identifier',
   'Hesperocorixa laevigata':
     '(Uhler 1893)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103452',
-  'Hesperocorixa lobata': 'STANDARDIZE NAME (Normalized)',
+  'Hesperocorixa lobata':
+    '(Hungerford 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103461',
   'Hesperocorixa lucida':
     'Invertebrates,((Abbott))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103447',
   'Hesperocorixa michiganensis': 'STANDARDIZE NAME (Normalized)',
-  'Hesperocorixa minor': 'STANDARDIZE NAME (Normalized)',
+  'Hesperocorixa minor':
+    'Invertebrates,((Abbott))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103448',
   'Hesperocorixa minorella':
     '(Hungerford 1926)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103456',
   'Hesperocorixa nitida':
     '(Fieber 1851)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103449',
-  'Hesperocorixa obliqua':
-    '(Hungerford 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103451',
+  'Hesperocorixa obliqua': 'STANDARDIZE NAME (Normalized)',
   'Hesperocorixa semicucide': 'spelling syntax',
   'Hesperocorixa semilucida':
     '(Walley 1930)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103463',
-  'Hesperocorixa vulgaris': 'STANDARDIZE NAME (Normalized)',
+  'Hesperocorixa vulgaris':
+    '(Hungerford 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103450',
   Hesperodiaptomus: 'national unique domain values',
   'Hesperodiaptomus kenai': 'national unique domain values',
-  'Hesperodiaptomus nevadensis': 'national unique domain values',
-  Hesperoleucus: 'STANDARDIZE NAME (Normalized)',
+  'Hesperodiaptomus nevadensis': 'table unique identifier',
+  Hesperoleucus:
+    '(Snyder 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163564',
   'Hesperoleucus symmetricus': 'STANDARDIZE NAME (Normalized)',
   Hesperonoe:
     '(Chamberlin 1919)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=64687',
   'Hesperonoe adventor': 'STANDARDIZE NAME (Normalized)',
-  'Hesperonoe complanata': 'STANDARDIZE NAME (Normalized)',
+  'Hesperonoe complanata':
+    '(Johnson 1901)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=64688',
   'Hesperonoe laevis':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=64692',
-  Hesperoperla:
-    '(Banks 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102971',
+  Hesperoperla: 'STANDARDIZE NAME (Normalized)',
   'Hesperoperla hoguei':
     '(Baumann and Stark 1980)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102974',
-  'Hesperoperla pacifica': 'STANDARDIZE NAME (Normalized)',
+  'Hesperoperla pacifica':
+    '(Banks 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102972',
   'Hesperopeuce mertensiana':
     'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
   Hesperophylax: 'STANDARDIZE NAME (Normalized)',
   'Hesperophylax consimilis': 'STANDARDIZE NAME (Normalized)',
-  'Hesperophylax designatus':
-    '(Walker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116008',
-  'Hesperophylax designatus/occidentalis': 'STANDARDIZE NAME (Normalized)',
+  'Hesperophylax designatus': 'STANDARDIZE NAME (Normalized)',
+  'Hesperophylax designatus/occidentalis':
+    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116001',
   'Hesperophylax incisus':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
-  'Hesperophylax magnus':
-    'Invertebrates,(Banks)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116004',
-  'Hesperophylax occidentalis': 'STANDARDIZE NAME (Normalized)',
-  'Hesperostipa comata': 'table unique identifier',
+  'Hesperophylax magnus': 'STANDARDIZE NAME (Normalized)',
+  'Hesperophylax occidentalis':
+    'Invertebrates,((Banks))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116006',
+  'Hesperostipa comata': 'national unique domain values',
   'Hesperostipa spartea':
     '((Trin.) Barkworth) Common Name "porcupinegrass" http://plants.usda.gov/core/profile?symbol=HESP11',
   Hetaerina: 'STANDARDIZE NAME (Normalized)',
@@ -99792,32 +99776,33 @@ export default {
   Heteractis:
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heteractis aurata':
-    'ITIS Synonyms - ((Forbes, 1848))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=49459',
+    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heteractis crispa': 'table unique identifier',
-  'Heteractis magnifica': 'national unique domain values',
+  'Heteractis magnifica': 'table unique identifier',
   Heterandria: 'STANDARDIZE NAME (Normalized)',
   'Heterandria bimaculata':
     '(Heckel 1848)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=646920',
-  'Heterandria formosa':
-    '(Girard 1859)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165915',
+  'Heterandria formosa': 'STANDARDIZE NAME (Normalized)',
   'Heterandria jonesii': 'table unique identifier',
-  'Heteranthera dubia': 'national unique domain values',
-  'Heteranthera limosa': 'table unique identifier',
+  'Heteranthera dubia': 'table unique identifier',
+  'Heteranthera limosa': 'national unique domain values',
   'Heteranthera multiflora': 'STANDARDIZE NAME (Normalized)',
-  'Heteranthera reniformis': 'STANDARDIZE NAME (Normalized)',
+  'Heteranthera reniformis':
+    '(Ruiz & Pav.) Common Name "kidneyleaf mudplantain" http://plants.usda.gov/core/profile?symbol=HERE',
   'Heteranthera reniformis var. multiflora':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
+    'ITIS Synonyms - (Griseb.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536142',
   'Heteraulacus polyedricus':
     'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10459',
   Hetereleotris:
     '(Bleeker 1874)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=636576',
-  'Hetereleotris caminata':
-    '(Smith 1958)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=637498',
-  'Hetereleotris tentaculata': 'STANDARDIZE NAME (Normalized)',
+  'Hetereleotris caminata': 'STANDARDIZE NAME (Normalized)',
+  'Hetereleotris tentaculata':
+    '(Smith 1958)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=637505',
   'Hetereleotris tentaculatus':
-    'ITIS Synonyms - ((Smith, 1958))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=636756',
+    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb. [var] Vasey ex L.H. Dewey) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGLP',
   'Hetereleotris zanzibarensis': 'STANDARDIZE NAME (Normalized)',
-  Heterelmis: 'STANDARDIZE NAME (Normalized)',
+  Heterelmis:
+    '(Sharp 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114237',
   'Heterelmis acicula':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heterelmis glabra':
@@ -99825,37 +99810,66 @@ export default {
   'Heterelmis labra':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heterelmis nitidulus':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
-  'Heterelmis obesa':
-    'Invertebrates,(Sharp 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114237',
-  'Heterelmis vulnerata': 'STANDARDIZE NAME (Normalized)',
-  Heterenchelyidae:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161279',
-  Heterlimnius:
-    '(Hinton 1935)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114167',
+    'ITIS Synonyms - ((LeConte, 1866))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114240',
+  'Heterelmis obesa': 'STANDARDIZE NAME (Normalized)',
+  'Heterelmis vulnerata':
+    '(LeConte 1874)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114239',
+  Heterenchelyidae: 'STANDARDIZE NAME (Normalized)',
+  Heterlimnius: 'STANDARDIZE NAME (Normalized)',
+  'Heterlimnius amabilis': 'table unique identifier',
   'Heterlimnius antennatus':
     'ITIS Synonyms - ((Fall in Fall and Cockerell, 1907))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=945759',
-  'Heterlimnius corpulentus':
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114169',
+  'Heterlimnius ater': 'national unique domain values',
+  'Heterlimnius browni': 'national unique domain values',
+  'Heterlimnius canus': 'table unique identifier',
+  'Heterlimnius castanipennis': 'table unique identifier',
+  'Heterlimnius corpulentus': 'STANDARDIZE NAME (Normalized)',
   'Heterlimnius crynophilus':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb. [var] Vasey ex L.H. Dewey) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGLP',
-  'Heterlimnius divergens':
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
-  'Heterlimnius elegans':
-    'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
-  'Heterlimnius fastiditus': 'table unique identifier',
+    'ITIS Synonyms - ((Musgrave, 1932))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114172',
+  'Heterlimnius dietrechi': 'table unique identifier',
+  'Heterlimnius divergens': 'table unique identifier',
+  'Heterlimnius elegans': 'national unique domain values',
+  'Heterlimnius ennearthrus': 'table unique identifier',
+  'Heterlimnius fastiditus': 'national unique domain values',
+  'Heterlimnius gapyeongensis': 'national unique domain values',
+  'Heterlimnius hagai': 'national unique domain values',
+  'Heterlimnius hasegawai': 'national unique domain values',
+  'Heterlimnius heteroclitus': 'table unique identifier',
+  'Heterlimnius hisamatsui': 'national unique domain values',
+  'Heterlimnius horii': 'table unique identifier',
+  'Heterlimnius ikedai': 'national unique domain values',
+  'Heterlimnius immunis': 'national unique domain values',
+  'Heterlimnius inahatai': 'national unique domain values',
+  'Heterlimnius jaechi': 'table unique identifier',
   'Heterlimnius koebelei':
     'Heterlimnius koebelei***retired***use Heterlimnius corpulentus',
   'Heterlimnius koebelei***retired***use Heterlimnius corpulentus':
-    '(Martin)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114168',
-  'Heterlimnius ovalis':
-    'ITIS Synonyms - ((LeConte, 1863))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114174',
-  'Heterlimnius quadrimaculatus':
-    'ITIS Synonyms - ((Horn, 1870))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114176',
+    'STANDARDIZE NAME (Normalized)',
+  'Heterlimnius luyashanensis': 'table unique identifier',
+  'Heterlimnius maculatus': 'national unique domain values',
+  'Heterlimnius masakazui': 'national unique domain values',
+  'Heterlimnius nitidus': 'national unique domain values',
+  'Heterlimnius occidens': 'national unique domain values',
+  'Heterlimnius ogatai': 'national unique domain values',
+  'Heterlimnius ovalis': 'national unique domain values',
+  'Heterlimnius phaeus': 'national unique domain values',
+  'Heterlimnius quadrigibbus': 'national unique domain values',
+  'Heterlimnius quadrimaculatus': 'national unique domain values',
+  'Heterlimnius rugulosus': 'table unique identifier',
+  'Heterlimnius sakaii': 'table unique identifier',
+  'Heterlimnius sandersoni': 'table unique identifier',
+  'Heterlimnius satoi': 'table unique identifier',
+  'Heterlimnius seriatus': 'national unique domain values',
+  'Heterlimnius shepardi': 'national unique domain values',
   'Heterlimnius tardellus':
-    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
+    'ITIS Synonyms - ((Fall, 1925))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114171',
+  'Heterlimnius trachys': 'national unique domain values',
   'Heterlimnius trivittatus':
     'ITIS Synonyms - ((Brown, 1930))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114173',
+  'Heterlimnius variabilis': 'national unique domain values',
+  'Heterlimnius vietnamensis': 'national unique domain values',
+  'Heterlimnius yokoii': 'national unique domain values',
+  'Heterlimnius yoshitomii': 'national unique domain values',
   Heterobranchia: 'national unique domain values',
   'Heterobranchus bidorsalis': 'national unique domain values',
   'Heterobranchus longifilis': 'national unique domain values',
@@ -99864,63 +99878,63 @@ export default {
   Heterocentrotus:
     '(Brandt 1835)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656015',
   'Heterocentrotus mammilatus':
-    'ITIS Synonyms - ((L.) Nash) Common Name "Indiangrass" http://plants.usda.gov/core/profile?symbol=SONU2',
-  'Heterocentrotus mammillatus':
-    '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656058',
+    'ITIS Synonyms - ((Linnaeus, 1758))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656059',
+  'Heterocentrotus mammillatus': 'STANDARDIZE NAME (Normalized)',
   Heteroceridae:
     '(MacLeay 1825)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114262',
-  Heterocerus: 'national unique domain values',
+  Heterocerus: 'table unique identifier',
   Heterochaeta:
     'ITIS Synonyms - (Clapar?de, 1863)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=573807',
   'Heterochaeta costata':
     'ITIS Synonyms - (Clapar?de, 1863)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=573809',
   Heterochaetodon:
-    'ITIS Synonyms - (Maug? and Bauchot, 1984)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610182',
-  'Heterochaetodon***retired***use Chaetodon': 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+  'Heterochaetodon***retired***use Chaetodon':
+    '(Mauge and Bauchot 1984)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610182',
   Heterochloa:
-    'ITIS Synonyms - (Desv.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=781644',
+    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   Heterochloridales:
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1885',
+    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   Heterochoerops:
-    'ITIS Synonyms - (Steindachner, 1866)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613063',
+    'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
   'Heterochoerops viridis':
     'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
   'Heterochoerops viridis***retired***use Achoerodus viridis':
-    '(Steindachner 1866)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613266',
+    'STANDARDIZE NAME (Normalized)',
   'Heterochoerops***retired***use Achoerodus':
     '(Steindachner 1866)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613063',
   'Heterochromis multidens': 'STANDARDIZE NAME (Normalized)',
   'Heterocirrus alatus':
-    'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
-  Heteroclinus:
-    '(Castelnau 1872)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638263',
+    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67129',
+  Heteroclinus: 'STANDARDIZE NAME (Normalized)',
   'Heteroclinus nasutus':
     '(Gunther 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=638362',
   'Heteroclinus roseus': 'STANDARDIZE NAME (Normalized)',
-  Heterocloeon: 'STANDARDIZE NAME (Normalized)',
+  Heterocloeon:
+    '(McDunnough 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100794',
   'Heterocloeon amplum': 'STANDARDIZE NAME (Normalized)',
   'Heterocloeon anoka':
-    'ITIS Synonyms - ((Daggy, 1945))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698023',
-  'Heterocloeon berneri': 'STANDARDIZE NAME (Normalized)',
-  'Heterocloeon curiosum':
-    '(McDunnough 1923)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100796',
+    'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
+  'Heterocloeon berneri':
+    'Invertebrates,((Muller-Liebenau 1974))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100798',
+  'Heterocloeon curiosum': 'STANDARDIZE NAME (Normalized)',
   'Heterocloeon frivolum': 'STANDARDIZE NAME (Normalized)',
   'Heterocloeon frivolus':
-    'ITIS Synonyms - ((McDunnough, 1925))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698027',
-  'Heterocloeon grande': 'national unique domain values',
+    'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
+  'Heterocloeon grande': 'table unique identifier',
   'Heterocloeon petersi': 'STANDARDIZE NAME (Normalized)',
   Heterococcales:
     'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   'Heterocodon rariflorum':
-    'ITIS Synonyms - (Nutt.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=34576',
+    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Heterocodon rariflorum***retired***use Heterocodon rariflorus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Nutt)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=34576',
   'Heterocodon rariflorus': 'STANDARDIZE NAME (Normalized)',
   Heteroconchia: 'national unique domain values',
   Heteroconger:
     '(Bleeker 1868)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161395',
   'Heteroconger flava':
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+    'ITIS Synonyms - ((Goode and Bean, 1896))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=635415',
   'Heteroconger halis':
     'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   'Heteroconger hassi':
@@ -99931,21 +99945,25 @@ export default {
   Heterocope: 'national unique domain values',
   'Heterocope septentrionalis':
     '(Juday and Muttkowski 1915)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=85882',
-  Heterocrypta: 'STANDARDIZE NAME (Normalized)',
+  Heterocrypta:
+    '(Stimpson 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=98635',
   'Heterocrypta granulata': 'STANDARDIZE NAME (Normalized)',
   'Heterocrypta occidentalis': 'STANDARDIZE NAME (Normalized)',
   Heterodactyla: 'national unique domain values',
   Heteroderma: 'table unique identifier',
   Heterodictyon:
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
-  'Heterodonax pacificus': 'STANDARDIZE NAME (Normalized)',
-  Heterodontidae: 'STANDARDIZE NAME (Normalized)',
-  Heterodontiformes: 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Whitford)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=189476',
+  'Heterodonax pacificus':
+    '(Conrad 1837)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=81284',
+  Heterodontidae:
+    '(Gray 1851)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159789',
+  Heterodontiformes:
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159788',
   Heterodontus: 'STANDARDIZE NAME (Normalized)',
   'Heterodontus francisci': 'STANDARDIZE NAME (Normalized)',
   'Heterodontus galeatus': 'STANDARDIZE NAME (Normalized)',
   'Heterodontus japonicus':
-    'ITIS Synonyms - (Dum?ril 1865)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564526',
+    '(Maclay and Macleay 1884)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159795',
   'Heterodontus japonicus*':
     'ITIS Synonyms - ((Dum?ril, 1865))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564522',
   'Heterodontus japonicus*1':
@@ -99953,97 +99971,91 @@ export default {
   'Heterodontus mexicanus':
     '(Taylor and Castro-Aguirre 1972)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159797',
   'Heterodontus portusjacksoni': 'STANDARDIZE NAME (Normalized)',
-  'Heterodontus quoyi': 'STANDARDIZE NAME (Normalized)',
-  'Heterodontus ramalheira': 'STANDARDIZE NAME (Normalized)',
+  'Heterodontus quoyi':
+    '(Freminville 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159801',
+  'Heterodontus ramalheira':
+    '(Smith 1949)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159805',
   'Heterodontus zebra':
     '(Gray 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159807',
   Heterodrilus: 'STANDARDIZE NAME (Normalized)',
   Heterogaleus:
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+    'ITIS Synonyms - (Gohar and Mazhar, 1964)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160587',
   'Heterogaleus ghardaguensis':
-    'ITIS Synonyms - (Gohar and Mazhar, 1964)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160593',
+    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   'Heterogaleus ghardaguensis***retired***use Hemipristis elongatus':
     '(Gohar and Mazhar 1964)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160593',
   'Heterogaleus ghardaqensis':
-    'ITIS Synonyms - (Gohar and Mazhar, 1964)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564508',
+    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   'Heterogaleus ghardaqensis***retired***use Hemipristis elongatus':
     '(Gohar and Mazhar 1964)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564508',
-  'Heterogaleus***retired***use Hemipristis':
-    '(Gohar and Mazhar 1964)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160587',
+  'Heterogaleus***retired***use Hemipristis': 'STANDARDIZE NAME (Normalized)',
   Heterogaura:
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+    'ITIS Synonyms - (Rothr.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27680',
   Heterogloea:
     '(Pascher 1930)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1925',
   'Heterogorgia tortuosa': 'STANDARDIZE NAME (Normalized)',
   'Heterogramma borellii':
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+    'ITIS Synonyms - (Regan, 1906)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169867',
   'Heterogramma borellii***retired***use Apistogramma borellii':
-    '(Regan 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169867',
+    'STANDARDIZE NAME (Normalized)',
   'Heterogramma steindachneri':
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+    'ITIS Synonyms - (Regan, 1908)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169871',
   'Heterogramma steindachneri***retired***use Apistogramma steindachneri':
     'STANDARDIZE NAME (Normalized)',
-  Heterogyna:
-    '(Nagy 1969)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=768228',
+  Heterogyna: 'STANDARDIZE NAME (Normalized)',
   Heterokonta: 'STANDARDIZE NAME (Normalized)',
-  Heterokontophyta:
-    'Yellow-Green Algae,Heterokontophyta; BioData: Ver=13.2 Sort=3004079',
-  Heteroleibleinia:
-    '((Geitler) L.Hoffmann 1905)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=146675',
-  'Heteroleibleinia chaetomorphae': 'STANDARDIZE NAME (Normalized)',
-  'Heteroleibleinia gardneri':
-    'Blue-Green Algae,Heteroleibleinia gardneri ((Geitler) Anagnostidis and Komarek); BioData: Ver=13.2 Sort=3003437',
-  'Heteroleibleinia infixa': 'STANDARDIZE NAME (Normalized)',
-  'Heteroleibleinia kossinskajae':
-    'Blue-Green Algae,Heteroleibleinia kossinskajae ((Elenkin) Anagnosidis and Komarek); BioData: Ver=13.2 Sort=3003441',
-  'Heteroleibleinia kuetzingii':
-    '((Schmidle) Compere 1985)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=177496',
+  Heterokontophyta: 'STANDARDIZE NAME (Normalized)',
+  Heteroleibleinia: 'STANDARDIZE NAME (Normalized)',
+  'Heteroleibleinia chaetomorphae':
+    'Blue-Green Algae,Heteroleibleinia chaetomorphae ((Lyengarand and Desikachary) Anagnostidis and Komarek);V13.2,S3003435',
+  'Heteroleibleinia gardneri': 'STANDARDIZE NAME (Normalized)',
+  'Heteroleibleinia infixa':
+    'Blue-Green Algae,Heteroleibleinia infixa ((Fremy) Anagnostidis and Komarek); BioData: Ver=13.2 Sort=3003439',
+  'Heteroleibleinia kossinskajae': 'STANDARDIZE NAME (Normalized)',
+  'Heteroleibleinia kuetzingii': 'STANDARDIZE NAME (Normalized)',
   'Heteroleibleinia mesotricha':
     'Blue-Green Algae,Heteroleibleinia mesotricha ((Skuja) Anagnostidis and Komarek); BioData: Ver=13.2 Sort=3003445',
   'Heteroleibleinia pusilla':
     'Blue-Green Algae,Heteroleibleinia pusilla ((Hangsgirg) Compere); BioData: Ver=13.2 Sort=3003447',
-  Heteroleibleinioideae:
-    'http://marinespecies.org/aphia.php?p=taxdetails&id=146708',
-  'Heterolepadella ehrenbergi': 'national unique domain values',
+  Heteroleibleinioideae: 'STANDARDIZE NAME (Normalized)',
+  'Heterolepadella ehrenbergi': 'table unique identifier',
   'Heteromastix rotunda':
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9528',
-  Heteromastus:
-    '(Eisig 1887)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67419',
+  Heteromastus: 'STANDARDIZE NAME (Normalized)',
   'Heteromastus filiformis': 'STANDARDIZE NAME (Normalized)',
-  'Heteromastus filobranchus': 'STANDARDIZE NAME (Normalized)',
+  'Heteromastus filobranchus':
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67422',
   Heteromeyenia: 'STANDARDIZE NAME (Normalized)',
   'Heteromeyenia tubisperma': 'STANDARDIZE NAME (Normalized)',
   Heteromi:
     'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
-  Heteromycteris:
-    '(Kaup 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173041',
-  'Heteromycteris capensis':
-    '(Kaup 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173042',
+  Heteromycteris: 'STANDARDIZE NAME (Normalized)',
+  'Heteromycteris capensis': 'STANDARDIZE NAME (Normalized)',
   'Heteromycteris hartzfeldii':
     '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=616376',
   'Heteromycteris japonicus':
     '(Temminck and Schlegel 1846)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=616572',
   'Heteromycteris matsubarai': 'STANDARDIZE NAME (Normalized)',
-  'Heteromycteris oculus':
-    '(Alcock 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173043',
-  'Heteromycteris proboscideus': 'STANDARDIZE NAME (Normalized)',
-  Heteromyia:
-    '(Say 1825)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=127666',
+  'Heteromycteris oculus': 'STANDARDIZE NAME (Normalized)',
+  'Heteromycteris proboscideus':
+    '(Chabanaud 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=616378',
+  Heteromyia: 'STANDARDIZE NAME (Normalized)',
   Heteromyridae:
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=635298',
+    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   Heteromysis: 'STANDARDIZE NAME (Normalized)',
   'Heteromysis beetoni': 'national unique domain values',
   'Heteromysis formosa': 'STANDARDIZE NAME (Normalized)',
   'Heteromysis nouveli': 'national unique domain values',
-  'Heteromysis odontops': 'STANDARDIZE NAME (Normalized)',
-  Heteronarce: 'STANDARDIZE NAME (Normalized)',
+  'Heteromysis odontops':
+    '(A O Walker 1898)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=89976',
+  Heteronarce:
+    '(Regan 1921)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564055',
   'Heteronarce garmani':
     '(Regan 1921)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564334',
-  'Heteronarce mollis':
-    '(Lloyd 1907)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564332',
+  'Heteronarce mollis': 'STANDARDIZE NAME (Normalized)',
   Heteronema: 'RETIRED NAME',
-  'Heteronema (Paranemataceae)': 'ITIS TAXON SERIAL NUMBER',
-  'Heteronema (Spongiidae)': 'STANDARDIZE NAME (Normalized)',
+  'Heteronema (Paranemataceae)': 'STANDARDIZE NAME (Normalized)',
+  'Heteronema (Spongiidae)': 'ITIS TAXON SERIAL NUMBER',
   'Heteronema*': 'RETIRED NAME',
   'Heteronema***retired***use Heteronema (Spongiidae), Heteronema (Paranemataceae)':
     '(Keller 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=47560',
@@ -100056,66 +100068,67 @@ export default {
   'Heterophallus rachovii':
     'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   'Heterophallus***retired***use Gambusia': 'STANDARDIZE NAME (Normalized)',
-  Heterophotus: 'STANDARDIZE NAME (Normalized)',
-  'Heterophotus ophistoma':
-    '(Regan and Trewavas 1929)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622463',
+  Heterophotus:
+    '(Regan and Trewavas 1929)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622328',
+  'Heterophotus ophistoma': 'STANDARDIZE NAME (Normalized)',
   Heterophoxus:
     '(Shoemaker 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=94661',
-  'Heterophoxus affinis':
-    '(Holmes 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=657210',
+  'Heterophoxus affinis': 'STANDARDIZE NAME (Normalized)',
   'Heterophoxus conlanae': 'STANDARDIZE NAME (Normalized)',
   'Heterophoxus ellisi': 'STANDARDIZE NAME (Normalized)',
-  'Heterophoxus oculatus': 'STANDARDIZE NAME (Normalized)',
+  'Heterophoxus oculatus':
+    '(Holmes 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=94662',
   'Heteropilumnus cf. ciliatus': 'synonyms',
-  'Heteropilumnus ciliatus': 'national unique domain values',
+  'Heteropilumnus ciliatus': 'table unique identifier',
   Heteroplectron:
     '(McLachlan 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116537',
   'Heteroplectron americanum':
     '(Walker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=553090',
   'Heteroplectron borealis':
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+    'ITIS Synonyms - (Provancher, 1877)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116509',
   'Heteroplectron californicum':
     '(McLachlan 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116538',
   'Heteroplectron nigripenne':
-    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
+    'ITIS Synonyms - (Banks, 1900)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116543',
   Heteropneustes: 'STANDARDIZE NAME (Normalized)',
-  'Heteropneustes fossilis':
-    '(Bloch 1794)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164131',
-  'Heteropneustes microps': 'STANDARDIZE NAME (Normalized)',
-  Heteropneustidae: 'STANDARDIZE NAME (Normalized)',
+  'Heteropneustes fossilis': 'STANDARDIZE NAME (Normalized)',
+  'Heteropneustes microps':
+    '(Gunther 1864)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164132',
+  Heteropneustidae:
+    '(Hora 1936)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164129',
   Heteropodarke:
     '(Hartmann-Schroeder 1962)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65502',
   'Heteropodarke formalis': 'STANDARDIZE NAME (Normalized)',
   'Heteropodarke heteromorpha': 'STANDARDIZE NAME (Normalized)',
-  'Heteropodarke lyonsi': 'STANDARDIZE NAME (Normalized)',
-  Heteropogon: 'RETIRED NAME',
-  'Heteropogon (Poaceae)':
-    '(Pers)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=41762',
+  'Heteropodarke lyonsi':
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65505',
+  Heteropogon: '',
+  'Heteropogon (Poaceae)': 'ITIS TAXON SERIAL NUMBER',
   'Heteropogon (Stenopogonini)': 'ITIS TAXON SERIAL NUMBER',
   'Heteropogon*': 'RETIRED NAME',
   'Heteropogon***retired***use Heteropogon (Poaceae), Heteropogon (Stenopogonini)':
     '(Pers)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=41762',
   'Heteropogon*1':
     'ITIS Synonyms - (Pers)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=41762     ,Heteropogon (Poaceae)',
-  Heteropora: 'table unique identifier',
-  'Heteropora pacifica': 'STANDARDIZE NAME (Normalized)',
+  Heteropora: 'national unique domain values',
+  'Heteropora pacifica':
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155760',
   'Heteropriacanthus cruentatus':
     '(Lacepede 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168181',
   Heteroptera: 'STANDARDIZE NAME (Normalized)',
   'Heteroptera-gerromorpha':
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103799',
+    'ITIS Synonyms - ((Michx.) Nash) Common Name "little bluestem" http://plants.usda.gov/core/profile?symbol=SCSC',
   Heteropyge:
     'ITIS Synonyms - (Fraser-Brunner, 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610206',
-  'Heteropyge***retired***use Pomacanthus':
-    '(Fraser-Brunner 1933)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610206',
+  'Heteropyge***retired***use Pomacanthus': 'STANDARDIZE NAME (Normalized)',
   Heteroscarus:
     'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Heteroscarus castelnaui':
-    'ITIS Synonyms - (Macleay, 1878)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614998',
+    'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Heteroscarus castelnaui***retired***use Odax acroptilus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Macleay 1878)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=614998',
   'Heteroscarus elegans':
-    'ITIS Synonyms - (Steindachner, 1884)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615000',
+    'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Heteroscarus elegans***retired***use Odax acroptilus':
     'STANDARDIZE NAME (Normalized)',
   'Heteroscarus filamentosus':
@@ -100123,17 +100136,17 @@ export default {
   'Heteroscarus filamentosus***retired***use Odax acroptilus':
     'STANDARDIZE NAME (Normalized)',
   'Heteroscarus macleayi':
-    'ITIS Synonyms - (McCoy, 1888)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615003',
+    'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Heteroscarus macleayi***retired***use Odax acroptilus':
     'STANDARDIZE NAME (Normalized)',
   'Heteroscarus modestus':
-    'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
+    'ITIS Synonyms - (Castelnau, 1872)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615004',
   'Heteroscarus modestus***retired***use Odax acroptilus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Castelnau 1872)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615004',
   'Heteroscarus tenuiceps':
-    'ITIS Synonyms - (De Vis, 1885)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615006',
+    'ITIS Synonyms - ((L.) Pers.) Common Name "Johnsongrass" http://plants.usda.gov/core/profile?symbol=SOHA',
   'Heteroscarus tenuiceps***retired***use Odax acroptilus':
-    'STANDARDIZE NAME (Normalized)',
+    '(De Vis 1885)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615006',
   'Heteroscarus***retired***use Odax':
     '(Castelnau 1872)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613161',
   Heteroscelus:
@@ -100141,70 +100154,76 @@ export default {
   Heteroscyllium:
     '(Regan 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159969',
   'Heteroscyllium colcloughi': 'STANDARDIZE NAME (Normalized)',
-  Heteroscymnoides: 'STANDARDIZE NAME (Normalized)',
-  'Heteroscymnoides marleyi': 'STANDARDIZE NAME (Normalized)',
+  Heteroscymnoides:
+    '(Fowler 1934)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160770',
+  'Heteroscymnoides marleyi':
+    '(Fowler 1934)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160771',
   Heteroscymnus:
     'ITIS Synonyms - (Tanaka, 1912)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160606',
   'Heteroscymnus longus':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
+    'ITIS Synonyms - (Tanaka, 1912)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160614',
   'Heteroscymnus longus***retired***use Somniosus longus':
-    'STANDARDIZE NAME (Normalized)',
-  'Heteroscymnus***retired***use Somniosus':
-    '(Tanaka 1912)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160606',
-  'Heteroserolis carinata': 'STANDARDIZE NAME (Normalized)',
+    '(Tanaka 1912)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160614',
+  'Heteroscymnus***retired***use Somniosus': 'STANDARDIZE NAME (Normalized)',
+  'Heteroserolis carinata':
+    '(Lockington 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=544748',
   'Heteroserolis mgrayi': 'table unique identifier',
-  'Heterosigma akashiwo':
-    '((Y.Hada) Y.Hada ex Y.Hara & M.Chihara 1987)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=160585#',
-  'Heterospio catalinensis':
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67089',
+  'Heterosigma akashiwo': 'STANDARDIZE NAME (Normalized)',
+  'Heterospio catalinensis': 'STANDARDIZE NAME (Normalized)',
   'Heterostega curtipendula':
-    'ITIS Synonyms - (Vitman) Common Name "big bluestem" http://plants.usda.gov/core/profile?symbol=ANGE',
+    'ITIS Synonyms - (Schwein. ex Hook. f.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790437',
   Heterosternus:
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb. [var] Vasey ex L.H. Dewey) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGLP',
-  Heterosternuta: 'STANDARDIZE NAME (Normalized)',
-  'Heterosternuta diversicornis': 'STANDARDIZE NAME (Normalized)',
-  'Heterosternuta jenniferae': 'table unique identifier',
-  'Heterosternuta ohionis': 'national unique domain values',
+  Heterosternuta:
+    '(Strand 1935)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=728249',
+  'Heterosternuta diversicornis':
+    '(Sharp 1882)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=728359',
+  'Heterosternuta jenniferae': 'national unique domain values',
+  'Heterosternuta ohionis': 'table unique identifier',
   'Heterosternuta opposita': 'table unique identifier',
   'Heterosternuta pulcher':
-    'ITIS Synonyms - ((LeConte, 1855))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=728367',
+    'Heterosternuta pulcher***retired***use Heterosternuta pulchra',
   'Heterosternuta pulcher***retired***use Heterosternuta pulchra':
-    'STANDARDIZE NAME (Normalized)',
+    'Invertebrates,((LeConte))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=728367',
   'Heterosternuta pulchra': 'STANDARDIZE NAME (Normalized)',
-  'Heterosternuta wickhami': 'STANDARDIZE NAME (Normalized)',
-  Heterostichus: 'STANDARDIZE NAME (Normalized)',
-  'Heterostichus rostratus': 'STANDARDIZE NAME (Normalized)',
-  Heterotanytarsus: 'STANDARDIZE NAME (Normalized)',
+  'Heterosternuta wickhami':
+    '(Zaitzev 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=728369',
+  Heterostichus:
+    '(Girard 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171475',
+  'Heterostichus rostratus':
+    '(Girard 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171476',
+  Heterotanytarsus:
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128734',
   'Heterotheca oligantha':
     'ITIS Synonyms - ((Chapm. ex Torr. & A. Gray) V.L. Harms)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=37676',
   'Heterotheca subaxillaris':
     '((Lam.) Britton & Rusby) Common Name "camphorweed" http://plants.usda.gov/core/profile?symbol=HESU3',
   'Heterotheca subaxillaris var. procumbens':
-    'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
-  'Heterotheca villosa':
-    '((Pursh) Shinners) Common Name "hairy false goldenaster" http://plants.usda.gov/core/profile?symbol=HEVI4',
+    'ITIS Synonyms - (Wagenkn.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536156',
+  'Heterotheca villosa': 'STANDARDIZE NAME (Normalized)',
   'Heterothrissa breviceps':
-    'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
-  Heterothyone: 'table unique identifier',
-  Heterotis: 'RETIRED NAME',
-  'Heterotis (Heterotidinae)': 'ITIS TAXON SERIAL NUMBER',
+    'ITIS Synonyms - ((Cantor, 1849))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=678167',
+  Heterothyone: 'national unique domain values',
+  Heterotis: '',
+  'Heterotis (Heterotidinae)':
+    '(Ruppell 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=649778',
   'Heterotis (Melastomataceae)': 'ITIS TAXON SERIAL NUMBER',
   'Heterotis niloticus': 'STANDARDIZE NAME (Normalized)',
   'Heterotis***retired***use Heterotis (Melastomataceae), Heterotis (Heterotidinae)':
-    'STANDARDIZE NAME (Normalized)',
-  Heterotrichina: 'STANDARDIZE NAME (Normalized)',
+    '(Benth)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=895353',
+  Heterotrichina:
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=46563',
   Heterotrissocladius:
     '(Sparck)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128737',
-  'Heterotrissocladius hirtapex': 'STANDARDIZE NAME (Normalized)',
+  'Heterotrissocladius hirtapex':
+    '(Saether 1975)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128741',
   'Heterotrissocladius marcidus': 'STANDARDIZE NAME (Normalized)',
-  'Heterotrissocladius marcidus group':
-    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128737',
+  'Heterotrissocladius marcidus group': 'STANDARDIZE NAME (Normalized)',
   'Heterotrissocladius oliveri':
     'ITIS Synonyms - (Saether, 1975)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128749',
   'Heterotrissocladius subpilosus':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128746',
-  'Heterotrissocladius subpilosus group':
-    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128737',
+  'Heterotrissocladius subpilosus group': 'STANDARDIZE NAME (Normalized)',
   Heterotrissocola: 'RETIRED NAME',
   'Heterotrissocola subpilosus':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb. [var] (Hack.) C. Mohr) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGLH',
@@ -100217,7 +100236,8 @@ export default {
   Hexabranchus: 'table unique identifier',
   Hexacorallia:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=52430',
-  Hexactinellida: 'STANDARDIZE NAME (Normalized)',
+  Hexactinellida:
+    '(Schmidt 1870)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=659131',
   Hexacylloepus:
     '(Hinton 1940)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114223',
   'Hexacylloepus apicalis': 'STANDARDIZE NAME (Normalized)',
@@ -100225,28 +100245,26 @@ export default {
     'Invertebrates,((Horn))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114224',
   Hexagenia: 'STANDARDIZE NAME (Normalized)',
   'Hexagenia affiliata':
-    'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
+    'ITIS Synonyms - (McDunnough, 1927)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698113',
   'Hexagenia angulata':
-    'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
-  'Hexagenia atrocaudata':
-    '(McDunnough 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101539',
-  'Hexagenia bilineata':
-    '(Say 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101538',
+    'ITIS Synonyms - ((Walker, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101564',
+  'Hexagenia atrocaudata': 'STANDARDIZE NAME (Normalized)',
+  'Hexagenia bilineata': 'STANDARDIZE NAME (Normalized)',
   'Hexagenia bilineata falcata':
-    'ITIS Synonyms - (Needham, 1920)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=777045',
+    'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
   'Hexagenia californica':
     'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Hexagenia carolina':
-    'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101546',
+    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb.) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGL2',
   'Hexagenia decolorata':
     'ITIS Synonyms - ((Hagen, 1861))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698405',
   'Hexagenia elegans':
     'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698114',
   'Hexagenia kanuga':
-    'ITIS Synonyms - (Traver, 1937)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101543',
+    'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
   'Hexagenia limbata': 'STANDARDIZE NAME (Normalized)',
   'Hexagenia limbata californica':
-    'ITIS Synonyms - ((Walter) Britton Sterns & Poggenb. [var] (Hack.) C. Mohr) Common Name "bushy bluestem" http://plants.usda.gov/core/profile?symbol=ANGLH',
+    'ITIS Synonyms - (Upholt, 1937)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101556',
   'Hexagenia limbata limbata':
     'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
   'Hexagenia limbata occulta':
@@ -100254,56 +100272,55 @@ export default {
   'Hexagenia limbata venusta':
     'ITIS Synonyms - (Eaton, 1883)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101561',
   'Hexagenia limbata viridescens':
-    'ITIS Synonyms - Common Name "broomsedge bluestem" http://plants.usda.gov/core/profile?symbol=ANVI2',
+    'ITIS Synonyms - ((Walker, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101563',
   'Hexagenia marilandica':
     'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101548',
   'Hexagenia mingo':
     'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
   'Hexagenia munda':
-    'ITIS Synonyms - (Eaton, 1883)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101540',
+    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
   'Hexagenia munda affiliata':
     'ITIS Synonyms - (McDunnough, 1927)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101550',
   'Hexagenia munda elegans':
-    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
+    'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101542',
   'Hexagenia munda marilandica':
     'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101545',
   'Hexagenia munda munda':
-    'ITIS Synonyms - (Eaton, 1883)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101541',
-  'Hexagenia munda orlando':
     'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
+  'Hexagenia munda orlando':
+    'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101549',
   'Hexagenia occulta':
     'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
-  'Hexagenia orlando':
-    'Invertebrates,(Traver 1931)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609609',
+  'Hexagenia orlando': 'STANDARDIZE NAME (Normalized)',
   'Hexagenia pallens':
     'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
   'Hexagenia recurrata':
-    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
+    'ITIS Synonyms - (Morgan, 1913)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=776983',
   'Hexagenia recurvata':
-    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
+    'ITIS Synonyms - (Morgan, 1913)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101568',
   'Hexagenia rigida': 'STANDARDIZE NAME (Normalized)',
   'Hexagenia rosacea':
-    'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101547',
+    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
   'Hexagenia variabilis':
-    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
+    'ITIS Synonyms - (Eaton, 1883)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101554',
   'Hexagenia venusta':
-    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
+    'ITIS Synonyms - (Eaton, 1883)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698116',
   'Hexagenia viridescens':
-    'ITIS Synonyms - ((Walker, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=698117',
+    'ITIS Synonyms - Common Name "pygmyflower rockjasmine" http://plants.usda.gov/core/profile?symbol=ANSE4',
   'Hexagenia weewa':
-    'ITIS Synonyms - ((Hassk.) Hand.-Maz.) Common Name "wartremoving herb" http://plants.usda.gov/core/profile?symbol=MUKE',
+    'ITIS Synonyms - (Traver, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101544',
   Hexagrammidae: 'STANDARDIZE NAME (Normalized)',
-  Hexagrammoidei: 'STANDARDIZE NAME (Normalized)',
-  Hexagrammos: 'STANDARDIZE NAME (Normalized)',
+  Hexagrammoidei:
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167107',
+  Hexagrammos:
+    '(Tilesius 1810)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167109',
   'Hexagrammos decagrammus': 'STANDARDIZE NAME (Normalized)',
-  'Hexagrammos lagocephalus':
-    '(Pallas 1810)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167111',
+  'Hexagrammos lagocephalus': 'STANDARDIZE NAME (Normalized)',
   'Hexagrammos octogrammus':
     '(Pallas 1814)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167112',
-  'Hexagrammos stelleri':
-    '(Tilesius 1810)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167113',
+  'Hexagrammos stelleri': 'STANDARDIZE NAME (Normalized)',
   'Hexagrammos superciliosus':
-    'ITIS Synonyms - ((Pallas, 1810))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167114',
+    'ITIS Synonyms - (Say 1818)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79915',
   'Hexagrammos superciliosus***retired***use Hexagrammos lagocephalus':
     '(Pallas 1810)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167114',
   Hexanchias:
@@ -100311,46 +100328,48 @@ export default {
   'Hexanchias***retired***use Hexanchus':
     '(Swainson 1838)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159816',
   Hexanchidae: 'STANDARDIZE NAME (Normalized)',
-  Hexanchiformes: 'STANDARDIZE NAME (Normalized)',
-  Hexanchus: 'STANDARDIZE NAME (Normalized)',
+  Hexanchiformes:
+    '(Compagno 1973)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159810',
+  Hexanchus:
+    '(Rafinesque 1810)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159815',
   'Hexanchus corinus':
     'ITIS Synonyms - (Jordan and Gilbert, 1880)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159820',
   'Hexanchus corinus***retired***use Hexanchus griseus':
-    '(Jordan and Gilbert 1880)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159820',
+    'STANDARDIZE NAME (Normalized)',
   'Hexanchus griseus': 'STANDARDIZE NAME (Normalized)',
   'Hexanchus griseus australis':
-    'ITIS Synonyms - (Bloch and Schneider 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=630572',
+    'ITIS Synonyms - (de Buen, 1960)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159821',
   'Hexanchus griseus australis***retired***use Hexanchus griseus':
-    'STANDARDIZE NAME (Normalized)',
+    '(de Buen 1960)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159821',
   'Hexanchus griseus nakamurai':
     'ITIS Synonyms - (Teng, 1962)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159827',
   'Hexanchus griseus nakamurai***retired***use Hexanchus nakamurai':
     '(Teng 1962)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159827',
-  'Hexanchus nakamurai':
-    '(Teng 1962)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564645',
+  'Hexanchus nakamurai': 'STANDARDIZE NAME (Normalized)',
   'Hexanchus vitulus':
-    'ITIS Synonyms - ((L.) P. Beauv.) Common Name "dense silkybent" http://plants.usda.gov/core/profile?symbol=APIN',
+    'ITIS Synonyms - (Springer and Waller, 1969)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159826',
   'Hexanchus vitulus***retired***use Hexanchus nakamurai':
     '(Springer and Waller 1969)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159826',
   Hexancus:
     'ITIS Synonyms - ((Nutt.) Hook. & Arn.) Common Name "yerba mansa" http://plants.usda.gov/core/profile?symbol=ANCA10',
-  'Hexancus***retired***use Hexanchus': 'STANDARDIZE NAME (Normalized)',
-  Hexapanopeus:
-    '(Rathbun 1898)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=98763',
-  'Hexapanopeus angustifrons':
-    '(J E Benedict and M J Rathbun 1891)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=98764',
+  'Hexancus***retired***use Hexanchus':
+    '(Agassiz 1846)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=159817',
+  Hexapanopeus: 'STANDARDIZE NAME (Normalized)',
+  'Hexapanopeus angustifrons': 'STANDARDIZE NAME (Normalized)',
   'Hexapanopeus lobipes': 'STANDARDIZE NAME (Normalized)',
   'Hexapleomera robusta': 'STANDARDIZE NAME (Normalized)',
   'Hexapleomera schmidti':
-    'ITIS Synonyms - (L. [var] (A. Nelson) Dutton & Keener) Common Name "narcissus anemone" http://plants.usda.gov/core/profile?symbol=ANNAZ2',
-  Hexarthra: 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Dudich, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=91478',
+  Hexarthra:
+    '(Schmarda 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=59350',
   'Hexarthra fennica': 'table unique identifier',
-  'Hexarthra intermedia': 'STANDARDIZE NAME (Normalized)',
-  'Hexarthra jenkinae': 'table unique identifier',
+  'Hexarthra intermedia':
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=59356',
+  'Hexarthra jenkinae': 'national unique domain values',
   'Hexarthra mira':
     '(Hudson 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=59352',
-  'Hexarthra polydonta': 'national unique domain values',
-  Hexarthridae: 'national unique domain values',
+  'Hexarthra polydonta': 'table unique identifier',
+  Hexarthridae: 'table unique identifier',
   Hexaster:
     'ITIS Synonyms - (Schreb)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=18779',
   'Hexaster obscurus':
@@ -100360,28 +100379,25 @@ export default {
   Hexatoma:
     '(Latreille 1809)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=120094',
   'Hexatoma cinerea': 'STANDARDIZE NAME (Normalized)',
-  'Hexatoma fultonensis':
-    '(Alexander 1912)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=120129',
+  'Hexatoma fultonensis': 'STANDARDIZE NAME (Normalized)',
   'Hexatoma longicornis': 'table unique identifier',
   'Hexatoma spinosa':
     '(Osten Sacken 1859)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=120153',
   Hexatrematobatis:
-    'ITIS Synonyms - (Chu and Meng in Chu, Meng, Hu and Li, 1981)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564613',
+    'ITIS Synonyms - (L. [var] (A. Nelson) Dutton & Keener) Common Name "narcissus anemone" http://plants.usda.gov/core/profile?symbol=ANNAZ2',
   'Hexatrematobatis longirostrum':
-    'ITIS Synonyms - (Farw)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531161',
+    'ITIS Synonyms - (Chu and Meng in Chu, Meng, Hu and Li, 1981)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564628',
   'Hexatrematobatis longirostrum***retired***use Hexatrygon bickelli':
     '(Chu and Meng in Chu Meng Hu and Li 1981)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564628',
   'Hexatrematobatis***retired***use Hexatrygon':
     'STANDARDIZE NAME (Normalized)',
   Hexatrygon: 'STANDARDIZE NAME (Normalized)',
-  'Hexatrygon bickelli':
-    '(Heemstra and Smith 1980)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564474',
+  'Hexatrygon bickelli': 'STANDARDIZE NAME (Normalized)',
   'Hexatrygon longirostra':
-    'ITIS Synonyms - ((Chu and Meng in Chu, Meng, Hu and Li, 1981))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564627',
+    'ITIS Synonyms - (Farw)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=531161     ,Anemone quinquefolia var. quinquefolia     ,TAX_UID=34461',
   'Hexatrygon longirostra***retired***use Hexatrygon bickelli':
-    'STANDARDIZE NAME (Normalized)',
-  Hexatrygonidae:
-    '(Heemstra and Smith 1980)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564009',
+    '(Chu and Meng in Chu Meng Hu and Li 1981)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564627',
+  Hexatrygonidae: 'STANDARDIZE NAME (Normalized)',
   Hiatella:
     '(Bosc 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=81764',
   'Hiatella arctica': 'STANDARDIZE NAME (Normalized)',
@@ -101089,32 +101105,32 @@ export default {
   'Holacanthus alternans meleagris':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus alternans meleagris***retired***use Pomacanthus semicirculatus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Alcock 1896)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610619',
   'Holacanthus alternans***retired***use Pomacanthus semicirculatus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610537',
   'Holacanthus amiralis':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (Cuvier, 1829)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610538',
   'Holacanthus amiralis***retired***use Pomacanthus navarchus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Cuvier 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610538',
   'Holacanthus arcuatus':
-    'ITIS Synonyms - (Gray, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169629',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus arcuatus***retired***use Apolemichthys arcuatus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus aruset':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus aruset***retired***use Pomacanthus asfur':
-    '(Lacepede 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610540',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus asfur':
-    'ITIS Synonyms - (I Lea 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80148',
+    'ITIS Synonyms - ((Forssk?l, 1775))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610539',
   'Holacanthus asfur***retired***use Pomacanthus asfur':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus bermudensis': 'STANDARDIZE NAME (Normalized)',
   'Holacanthus bishopi':
     'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79932     ,TAX_UID=26940',
   'Holacanthus bishopi***retired***use Pomacanthus imperator':
-    '(Seale 1901)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610581',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus bispinosus':
-    'ITIS Synonyms - (G?nther, 1860)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610462',
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568176',
   'Holacanthus caerulescens':
     'ITIS Synonyms - (R?ppell, 1830)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610542',
   'Holacanthus caerulescens***retired***use Pomacanthus maculosus':
@@ -101128,62 +101144,61 @@ export default {
   'Holacanthus caudovittatus***retired***use Genicanthus caudovittatus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus chapmani':
-    'ITIS Synonyms - (Herre, 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610525',
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79932     ,TAX_UID=26940',
   'Holacanthus chapmani***retired***use Genicanthus lamarck':
     '(Herre 1933)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610525',
   'Holacanthus chrysocephalus':
-    'ITIS Synonyms - (Bleeker, 1854)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610505',
+    'ITIS Synonyms - (I Lea 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80148',
   'Holacanthus chrysocephalus***retired***use Chaetodontoplus chrysocephalus':
-    '(Bleeker 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610505',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus chrysurus':
-    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610544',
+    'ITIS Synonyms - (I Lea 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80148',
   'Holacanthus chrysurus***retired***use Pomacanthus chrysurus':
-    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610544',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus ciliaris': 'STANDARDIZE NAME (Normalized)',
   'Holacanthus ciliaris bermudensis':
     'ITIS Synonyms - (Goode, 1876)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610618',
   'Holacanthus ciliaris bermudensis***retired***use Holacanthus bermudensis':
     '(Goode 1876)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610618',
-  'Holacanthus clarionensis':
-    '(Gilbert 1891)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610545',
+  'Holacanthus clarionensis': 'STANDARDIZE NAME (Normalized)',
   'Holacanthus coeruleus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610546',
   'Holacanthus coeruleus***retired***use Pomacanthus asfur':
-    'STANDARDIZE NAME (Normalized)',
+    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610546',
   'Holacanthus conspicillatus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (Waite, 1900)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610507',
   'Holacanthus conspicillatus***retired***use Chaetodontoplus conspicillatus':
-    '(Waite 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610507',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus coronatus':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus coronatus***retired***use Holacanthus ciliaris':
-    'STANDARDIZE NAME (Normalized)',
+    '(Desmarest 1823)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610547',
   'Holacanthus cyanotis':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (G?nther, 1860)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169628',
   'Holacanthus darwiniensis':
     'ITIS Synonyms - (Saville-Kent, 1889)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610508',
   'Holacanthus darwiniensis***retired***use Chaetodontoplus duboulayi':
-    '(Saville-Kent 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610508',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus dimidiatus':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus dimidiatus***retired***use Chaetodontoplus melanosoma':
-    'STANDARDIZE NAME (Normalized)',
+    '(Bleeker 1860)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610510',
   'Holacanthus duboulayi':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus duboulayi longitudinaliterstriata':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus duboulayi longitudinaliterstriata***retired***use Chaetodontoplus duboulayi':
-    '(Klunzinger 1880)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610616',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus duboulayi***retired***use Chaetodontoplus duboulayi':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus fisheri':
-    'ITIS Synonyms - (Snyder, 1904)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610470',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus fisheri***retired***use Centropyge fisheri':
     '(Snyder 1904)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610470',
   'Holacanthus flavissimus':
-    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610473',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus flavoniger':
-    'ITIS Synonyms - (Lacep?de, 1802)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610280',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus flavoniger***retired***use Chaetodon meyeri':
     '(Lacepede 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610280',
   'Holacanthus formosus':
@@ -101191,13 +101206,13 @@ export default {
   'Holacanthus formosus***retired***use Holacanthus ciliaris':
     '(Castelnau 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610548',
   'Holacanthus fucosus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (Yasuda and Tominaga, 1970)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610526',
   'Holacanthus fucosus***retired***use Genicanthus semifasciatus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus geometricus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (Lacep?de, 1802)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610549',
   'Holacanthus geometricus***retired***use Pomacanthus imperator':
-    'STANDARDIZE NAME (Normalized)',
+    '(Lacepede 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610549',
   'Holacanthus griffisi':
     'ITIS Synonyms - (Carlson and Taylor, 1981)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610441',
   'Holacanthus griffisi***retired***use Apolemichthys griffisi':
@@ -101205,7 +101220,7 @@ export default {
   'Holacanthus guezei':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus guezei***retired***use Apolemichthys guezei':
-    '(Randall and Mauge 1978)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610442',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus haddaja':
     'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610550',
   'Holacanthus haddaja***retired***use Pomacanthus maculosus':
@@ -101215,11 +101230,11 @@ export default {
   'Holacanthus ignatius***retired***use Pomacanthus maculosus':
     '(Playfair 1868)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610551',
   'Holacanthus iodocus':
-    'ITIS Synonyms - (Jordan and Rutter in Gilbert, 1897)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610552',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus iodocus***retired***use Holacanthus ciliaris':
-    'STANDARDIZE NAME (Normalized)',
+    '(Jordan and Rutter in Gilbert 1897)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610552',
   'Holacanthus isabelita':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79940     ,TAX_UID=25383',
+    'ITIS Synonyms - ((Jordan and Rutter in Jordan and Evermann, 1898))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169624',
   'Holacanthus isabelita***retired***use Holacanthus bermudensis':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus lamarck':
@@ -101227,29 +101242,29 @@ export default {
   'Holacanthus lamarck***retired***use Genicanthus lamarck':
     '(Lacepede 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610522',
   'Holacanthus lamarcki japonicus':
-    'ITIS Synonyms - (Schmidt, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610617',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus lamarcki japonicus***retired***use Genicanthus lamarck':
     '(Schmidt 1931)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610617',
   'Holacanthus lasti':
     '(von Bonde 1934)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610554',
   'Holacanthus lepidolepis':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (Bleeker, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610555',
   'Holacanthus lepidolepis***retired***use Pomacanthus semicirculatus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus leucopleura':
-    'ITIS Synonyms - (Bleeker, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610479',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568432',
   'Holacanthus leucopleura***retired***use Centropyge tibicen':
     '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610479',
   'Holacanthus limbaughi':
     '(Baldwin 1963)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610556',
   'Holacanthus lineatus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79940     ,TAX_UID=25383',
+    'ITIS Synonyms - (R?ppell, 1830)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610558',
   'Holacanthus lineatus***retired***use Pomacanthus maculosus':
-    '(Ruppell 1830)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610558',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus loriculus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79940     ,TAX_UID=25383',
+    'ITIS Synonyms - (G?nther, 1874)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610480',
   'Holacanthus lunatus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568432',
+    'ITIS Synonyms - (Blosser, 1909)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610559',
   'Holacanthus lunatus***retired***use Holacanthus ciliaris':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus luteolus':
@@ -101261,25 +101276,25 @@ export default {
   'Holacanthus marianas':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus marianas***retired***use Pomacanthus imperator':
-    '(Seale 1901)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610560',
-  'Holacanthus melanosoma':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
-  'Holacanthus melanosoma***retired***use Chaetodontoplus melanosoma':
     'STANDARDIZE NAME (Normalized)',
+  'Holacanthus melanosoma':
+    'ITIS Synonyms - (Bleeker, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610512',
+  'Holacanthus melanosoma***retired***use Chaetodontoplus melanosoma':
+    '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610512',
   'Holacanthus melanospilos':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
+    'ITIS Synonyms - (Bleeker, 1857)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610527',
   'Holacanthus melanospilos***retired***use Genicanthus melanospilos':
-    '(Bleeker 1857)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610527',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus mokhella':
     'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610561',
   'Holacanthus mokhella***retired***use Pomacanthus maculosus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus monophthalmus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
+    'ITIS Synonyms - (Kner, 1867)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610482',
   'Holacanthus multifasciatus':
     'ITIS Synonyms - (Smith and Radcliff, 1911)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610562',
   'Holacanthus multispinis':
-    'ITIS Synonyms - (Playfair in Playfair and G?nther, 1867)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610484',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus multispinis***retired***use Centropyge multispinis':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus navarchus':
@@ -101287,25 +101302,24 @@ export default {
   'Holacanthus navarchus***retired***use Pomacanthus navarchus':
     '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610452',
   'Holacanthus nox':
-    'ITIS Synonyms - (Bleeker, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610487',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus nox***retired***use Centropyge nox':
-    'STANDARDIZE NAME (Normalized)',
+    '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610487',
   'Holacanthus ocularis':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
-  'Holacanthus passer':
-    '(Valenciennes 1846)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169630',
+    'ITIS Synonyms - (Peters, 1868)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610488',
+  'Holacanthus passer': 'STANDARDIZE NAME (Normalized)',
   'Holacanthus personifer':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus personifer***retired***use Chaetodontoplus personifer':
     '(McCulloch 1914)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610518',
   'Holacanthus poecilus':
-    'ITIS Synonyms - (Peters, 1868)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610564',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus poecilus***retired***use Pomacanthus semicirculatus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus potteri':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus potteri***retired***use Centropyge potteri':
-    '(Jordan and Metz 1912)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610489',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus pseudannularis':
     'ITIS Synonyms - (Bleeker, 1858)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610566',
   'Holacanthus pseudannularis***retired***use Pomacanthus annularis':
@@ -101325,15 +101339,15 @@ export default {
   'Holacanthus ronin***retired***use Chaetodontoplus septentrionalis':
     '(Jordan and Fowler 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610520',
   'Holacanthus semicinctus':
-    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79932     ,TAX_UID=26940',
+    'ITIS Synonyms - (Waite, 1900)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610529',
   'Holacanthus semicinctus***retired***use Genicanthus semicinctus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus semicirculatus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610570',
   'Holacanthus semicirculatus***retired***use Pomacanthus semicirculatus':
-    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610570',
+    'STANDARDIZE NAME (Normalized)',
   'Holacanthus semifasciatus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
+    'ITIS Synonyms - (Kamohara, 1934)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610530',
   'Holacanthus semifasciatus***retired***use Genicanthus semifasciatus':
     'STANDARDIZE NAME (Normalized)',
   'Holacanthus septentrionalis':
@@ -101341,39 +101355,39 @@ export default {
   'Holacanthus septentrionalis***retired***use Chaetodontoplus septentrionalis':
     '(Temminck and Schlegel 1844)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610521',
   'Holacanthus sexstriatus':
-    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610422',
+    'ITIS Synonyms - (I Lea 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80148',
   'Holacanthus sexstriatus***retired***use Pomacanthus sexstriatus':
-    'STANDARDIZE NAME (Normalized)',
-  'Holacanthus somervillii':
-    '(Regan 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610571',
+    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610422',
+  'Holacanthus somervillii': 'STANDARDIZE NAME (Normalized)',
   'Holacanthus sphynx':
-    'ITIS Synonyms - (Rafinesque 1820)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80288',
+    'ITIS Synonyms - (De Vis, 1884)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610492',
   'Holacanthus squamulosus':
-    'ITIS Synonyms - ((Shaw in Shaw and Nodder, 1796))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610572',
+    'ITIS Synonyms - (Rafinesque 1820)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80288',
   'Holacanthus squamulosus***retired***use Holacanthus ciliaris':
     '(Shaw in Shaw and Nodder 1796)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610572',
   'Holacanthus strigatus':
     'ITIS Synonyms - (Rafinesque 1820)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80288',
   'Holacanthus strigatus***retired***use Holacanthus passer':
-    'STANDARDIZE NAME (Normalized)',
+    '(Gill 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610573',
   'Holacanthus tenigab': 'STANDARDIZE NAME (Normalized)',
   'Holacanthus tibicen':
-    'ITIS Synonyms - (Rafinesque 1820)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80288',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610493',
   'Holacanthus tibicen***retired***use Centropyge tibicen':
-    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610493',
-  'Holacanthus tricolor': 'STANDARDIZE NAME (Normalized)',
-  'Holacanthus trimaculatus':
-    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169627',
-  'Holacanthus trimaculatus***retired***use Apolemichthys trimaculatus':
     'STANDARDIZE NAME (Normalized)',
+  'Holacanthus tricolor':
+    '(Bloch 1795)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169625',
+  'Holacanthus trimaculatus':
+    'ITIS Synonyms - (Rafinesque 1820)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80288',
+  'Holacanthus trimaculatus***retired***use Apolemichthys trimaculatus':
+    '(Cuvier in Cuvier and Valenciennes 1831)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169627',
   'Holacanthus uniocellatus':
-    'ITIS Synonyms - (Borodin, 1932)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610495',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holacanthus venustus':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus venustus***retired***use Centropyge venustus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Yasuda and Tominaga 1969)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610498',
   'Holacanthus vrolikii':
-    'ITIS Synonyms - (Bleeker, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610500',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holacanthus vrolikii***retired***use Centropyge vrolikii':
     '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610500',
   'Holacanthus watanabei':
@@ -101387,41 +101401,41 @@ export default {
   'Holacanthus xanthotis':
     'ITIS Synonyms - (Fraser-Brunner, 1950)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610447',
   'Holacanthus xanthotis***retired***use Apolemichthys xanthotis':
-    '(Fraser-Brunner 1950)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610447',
-  'Holacanthus xanthurus':
-    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80152     ,TAX_UID=42626',
-  'Holacanthus xanthurus***retired***use Apolemichthys xanthurus':
     'STANDARDIZE NAME (Normalized)',
+  'Holacanthus xanthurus':
+    'ITIS Synonyms - (Bennett, 1833)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610448',
+  'Holacanthus xanthurus***retired***use Apolemichthys xanthurus':
+    '(Bennett 1833)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610448',
   'Holacanthus zebra':
-    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80151',
+    'ITIS Synonyms - (Sauvage, 1891)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610533',
   'Holacanthus zebra***retired***use Genicanthus caudovittatus':
-    '(Sauvage 1891)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610533',
-  Holanthias: 'STANDARDIZE NAME (Normalized)',
-  'Holanthias chrysostictus':
-    '(Gunther 1872)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=643169',
+    'STANDARDIZE NAME (Normalized)',
+  Holanthias:
+    '(Gunther 1868)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167930',
+  'Holanthias chrysostictus': 'STANDARDIZE NAME (Normalized)',
   'Holanthias elizabethae':
-    'ITIS Synonyms - ((Fowler, 1923))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=650246',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holanthias fuscipinnis':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holanthias martinicensis':
-    'ITIS Synonyms - ((Guichenot, 1868))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167931',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568432',
   'Holanthias sechurae':
-    'ITIS Synonyms - (Barton, 1947)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167842',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79940     ,TAX_UID=25383',
   'Holanthias sechurae***retired***use Pronotogrammus multifasciatus':
     'STANDARDIZE NAME (Normalized)',
   Holcomycteronus: 'STANDARDIZE NAME (Normalized)',
   'Holcomycteronus aequatoris':
     '(Smith and Radcliffe in Radcliffe 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165055',
-  'Holcomycteronus brucei':
-    '(Dollo 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165056',
+  'Holcomycteronus brucei': 'STANDARDIZE NAME (Normalized)',
   'Holcomycteronus digittatus': 'STANDARDIZE NAME (Normalized)',
-  'Holcomycteronus profundissimus': 'STANDARDIZE NAME (Normalized)',
+  'Holcomycteronus profundissimus':
+    '(Roule 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165058',
   'Holcomycteronus pterotus':
     '(Alcock 1890)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165059',
   'Holcomycteronus squamosus':
     '(Roule 1916)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165060',
   'Holcus alpinus':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
+    'ITIS Synonyms - (Sw. ex Willd.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790470',
   'Holcus atropurpureus':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holcus halepensis':
@@ -101430,13 +101444,13 @@ export default {
   'Holcus laxus':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holcus monticola':
-    'ITIS Synonyms - (Bigelow)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790483',
-  'Holcus nutans':
-    'ITIS Synonyms - ((L.) Kuntze ex Stuck.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790484',
-  'Holcus nutans var. avenaceus':
-    'ITIS Synonyms - ((Michx.) Hack.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=800797',
-  'Holcus striatus':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
+  'Holcus nutans':
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80151',
+  'Holcus nutans var. avenaceus':
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80152     ,TAX_UID=42626',
+  'Holcus striatus':
+    'ITIS Synonyms - (L.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514805',
   'Holcus virginicus':
     'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   Holectypoida: 'STANDARDIZE NAME (Normalized)',
@@ -101445,25 +101459,23 @@ export default {
     '(Tyler 1968)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615875',
   'Hollardia hollardi': 'STANDARDIZE NAME (Normalized)',
   'Hollardia meadi': 'STANDARDIZE NAME (Normalized)',
-  "Holm's Rocky Mountain sedge": 'TAXON COMMON NAME',
-  'Holmes bay shrimp':
-    'ITIS Vernaculars - (M J Rathbun 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=97139',
+  "Holm's Rocky Mountain sedge":
+    'ITIS Vernaculars - (T. Holm) Common Name "mountain sedge" http://plants.usda.gov/core/profile?symbol=CASC12',
+  'Holmes bay shrimp': 'TAXON COMMON NAME',
   'Holmesiella anomala':
     '(Ortmann 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=90017',
-  'Holmesimysis costata':
-    '(Holmes 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=89873',
-  Holocentridae:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166170',
-  Holocentrinae: 'STANDARDIZE NAME (Normalized)',
-  Holocentroidei:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=553160',
+  'Holmesimysis costata': 'STANDARDIZE NAME (Normalized)',
+  Holocentridae: 'STANDARDIZE NAME (Normalized)',
+  Holocentrinae:
+    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622094',
+  Holocentroidei: 'STANDARDIZE NAME (Normalized)',
   Holocentropus: 'national unique domain values',
   'Holocentropus placidus':
     'ITIS Synonyms - (Lindner, 1937)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=625900',
   'Holocentropus placidus2':
     'ITIS Synonyms - (Lindner, 1938)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=626006',
   'Holocentrum leo':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
+    'ITIS Synonyms - (Cuvier, 1829)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=633887',
   Holocentrus:
     '(Scopoli 1777)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166171',
   'Holocentrus adscensionis':
@@ -101471,15 +101483,15 @@ export default {
   'Holocentrus ascensionis':
     'ITIS Synonyms - ((Osbeck, 1765))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=633882',
   'Holocentrus bullisi':
-    'ITIS Synonyms - (Woods, 1955)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166178',
+    'ITIS Synonyms - (I Lea 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80148',
   'Holocentrus bullisi***retired***use Sargocentron bullisi':
     '(Woods 1955)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166178',
   'Holocentrus caudimaculatus':
     'ITIS Synonyms - (R?ppell, 1838)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166200',
   'Holocentrus caudimaculatus***retired***use Sargocentron caudimaculatum':
-    'STANDARDIZE NAME (Normalized)',
+    '(Ruppell 1838)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166200',
   'Holocentrus cornutum':
-    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
+    'ITIS Synonyms - (Bleeker, 1853)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166201',
   'Holocentrus cornutum***retired***use Sargocentron cornutum':
     '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166201',
   'Holocentrus coruscum':
@@ -101491,51 +101503,51 @@ export default {
   'Holocentrus coruscus***retired***use Sargocentron coruscum':
     '(Poey 1860)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166180',
   'Holocentrus diacanthus':
-    'ITIS Synonyms - (Lac?p?de, 1802)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615393',
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79932     ,TAX_UID=26940',
   'Holocentrus diacanthus***retired***use Pomacentrus pavo':
     'STANDARDIZE NAME (Normalized)',
   'Holocentrus diadema':
     'ITIS Synonyms - (Lacep?de, 1802)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166186',
   'Holocentrus diadema***retired***use Sargocentron diadema':
-    '(Lacepede 1802)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166186',
+    'STANDARDIZE NAME (Normalized)',
   'Holocentrus dimidicauda':
     'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80152     ,TAX_UID=42626',
   'Holocentrus dimidicauda***retired***use Sargocentron rubrum':
-    'STANDARDIZE NAME (Normalized)',
+    '(Marshall 1953)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622122',
   'Holocentrus diminicauda':
     'ITIS Synonyms - (Marshall, 1953)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166202',
   'Holocentrus diminicauda***retired***use Sargocentron rubrum':
     'STANDARDIZE NAME (Normalized)',
   'Holocentrus ensifer':
-    'ITIS Synonyms - (Jordan and Evermann, 1903)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166188',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79936     ,TAX_UID=25382',
   'Holocentrus ensifer***retired***use Sargocentron ensifer':
-    'STANDARDIZE NAME (Normalized)',
+    '(Jordan and Evermann 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166188',
   'Holocentrus ittodai':
-    'ITIS Synonyms - (Jordan and Fowler, 1902)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166203',
+    'ITIS Synonyms - (Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568179',
   'Holocentrus ittodai***retired***use Sargocentron ittodai':
-    'STANDARDIZE NAME (Normalized)',
+    '(Jordan and Fowler 1902)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166203',
   'Holocentrus lacteoguttatus':
-    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568176',
+    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1829)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166198',
   'Holocentrus lacteoguttatus***retired***use Sargocentron punctatissimum':
     'STANDARDIZE NAME (Normalized)',
   'Holocentrus leo':
-    'ITIS Synonyms - (Cuvier, 1829)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=633883',
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79932     ,TAX_UID=26940',
   'Holocentrus marianum':
     'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1829)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622130',
   'Holocentrus marianum***retired***use Neoniphon marianus':
     '(Cuvier in Cuvier and Valenciennes 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622130',
   'Holocentrus marianus':
-    'ITIS Synonyms - (Cuvier in Cuvier and Valenciennes, 1829)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166175',
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80151',
   'Holocentrus marianus***retired***use Neoniphon marianus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Cuvier in Cuvier and Valenciennes 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166175',
   'Holocentrus meeki':
     'ITIS Synonyms - (Bean, 1906)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166204',
   'Holocentrus meeki***retired***use Holocentrus rufus':
-    '(Bean 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166204',
+    'STANDARDIZE NAME (Normalized)',
   'Holocentrus microstomus':
     'ITIS Synonyms - (G?nther, 1859)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166190',
   'Holocentrus microstomus***retired***use Sargocentron microstoma':
-    '(Gunther 1859)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166190',
+    'STANDARDIZE NAME (Normalized)',
   'Holocentrus poco': '',
   'Holocentrus poco (Archaic)':
     '((Woods, 1965))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622113     ,TAX_UID=10130',
@@ -101545,43 +101557,42 @@ export default {
   'Holocentrus poco2':
     'ITIS Synonyms - (Banks, 1905)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115365',
   'Holocentrus ruber':
-    'ITIS Synonyms - ((Forssk?l, 1775))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166205',
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79932     ,TAX_UID=26940',
   'Holocentrus ruber***retired***use Sargocentron rubrum':
     '(Forsskal 1775)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166205',
-  'Holocentrus rufus':
-    '(Walbaum 1792)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166173',
+  'Holocentrus rufus': 'STANDARDIZE NAME (Normalized)',
   'Holocentrus sammara':
-    'ITIS Synonyms - ((Forssk?l, 1775))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166256',
+    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568176',
   'Holocentrus sammara***retired***use Neoniphon sammara':
     '(Forsskal 1775)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166256',
   'Holocentrus scythrops':
-    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80151',
+    'ITIS Synonyms - ((Jordan and Evermann, 1903))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166176',
   'Holocentrus scythrops***retired***use Neoniphon aurolineatus':
     'STANDARDIZE NAME (Normalized)',
   'Holocentrus sonnerat':
-    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80152     ,TAX_UID=42626',
+    'ITIS Synonyms - (Lac?p?de, 1802)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615687',
   'Holocentrus sonnerat***retired***use Premnas biaculeatus':
     'STANDARDIZE NAME (Normalized)',
   'Holocentrus spinifer':
-    'ITIS Synonyms - (Say 1817)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79932     ,TAX_UID=26940',
+    'ITIS Synonyms - ((Forssk?l, 1775))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166192',
   'Holocentrus spinifer***retired***use Sargocentron spiniferum':
-    '(Forsskal 1775)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166192',
+    'STANDARDIZE NAME (Normalized)',
   'Holocentrus spiniferum':
     'ITIS Synonyms - ((Forssk?l, 1775))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166206',
   'Holocentrus spiniferum***retired***use Sargocentron spiniferum':
-    'STANDARDIZE NAME (Normalized)',
+    '(Forsskal 1775)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166206',
   'Holocentrus spinosissimum':
     'ITIS Synonyms - (Lamarck 1799)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79930',
   'Holocentrus spinosissimum***retired***use Sargocentron spinosissimum':
-    'STANDARDIZE NAME (Normalized)',
+    '(Temminck and Schlegel 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622124',
   'Holocentrus spinosissimus':
-    'ITIS Synonyms - (Lamarck 1799)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79930',
+    'ITIS Synonyms - (Temminck and Schlegel, 1843)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166207',
   'Holocentrus spinosissimus***retired***use Sargocentron spinosissimum':
     '(Temminck and Schlegel 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166207',
   'Holocentrus suborbitale':
-    'ITIS Synonyms - (Gill, 1863)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622128',
+    'ITIS Synonyms - (Lamarck 1799)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=79930',
   'Holocentrus suborbitale***retired***use Sargocentron suborbitalis':
-    'STANDARDIZE NAME (Normalized)',
+    '(Gill 1863)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622128',
   'Holocentrus suborbitalis':
     'ITIS Synonyms - (I Lea 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80148',
   'Holocentrus suborbitalis***retired***use Sargocentron suborbitalis':
@@ -101591,67 +101602,65 @@ export default {
   'Holocentrus tiere***retired***use Sargocentron tiere':
     '(Cuvier in Cuvier and Valenciennes 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166194',
   'Holocentrus tortugae':
-    'ITIS Synonyms - (Jordan and Thompson, 1905)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166209',
+    'ITIS Synonyms - (I Lea 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80148',
   'Holocentrus tortugae***retired***use Sargocentron coruscum':
     '(Jordan and Thompson 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166209',
   'Holocentrus vexillarius':
-    'ITIS Synonyms - (Baker 1898)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=80147',
+    'ITIS Synonyms - (Poey, 1860)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166184',
   'Holocentrus vexillarius***retired***use Sargocentron vexillarium':
     'STANDARDIZE NAME (Normalized)',
   'Holocentrus xantherythrus':
-    'ITIS Synonyms - (Hamilton 1822)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161796',
+    'ITIS Synonyms - (Jordan and Evermann, 1903)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166196',
   'Holocentrus xantherythrus***retired***use Sargocentron xantherythrum':
     'STANDARDIZE NAME (Normalized)',
-  Holocephali:
-    'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161008',
+  Holocephali: 'STANDARDIZE NAME (Normalized)',
   Holocephalimorpha:
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=563988',
+    'ITIS Synonyms - (Hamilton 1822)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161796',
   'Holocephalimorpha***retired***use Holocephali':
     'STANDARDIZE NAME (Normalized)',
   'Holodiscus discolor var. dumosus': 'table unique identifier',
   Holognatha:
-    'ITIS Synonyms - (Charpentier 1840)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102078',
-  Hologymnosus:
-    '(Lacepede 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170702',
+    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102469',
+  Hologymnosus: 'STANDARDIZE NAME (Normalized)',
   'Hologymnosus annulatus': 'STANDARDIZE NAME (Normalized)',
-  'Hologymnosus doliatus': 'STANDARDIZE NAME (Normalized)',
+  'Hologymnosus doliatus':
+    '(Lacepede 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613876',
   'Hologymnosus fasciatus':
     "ITIS Synonyms - (d'Orbigny 1842)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=81603",
   'Hologymnosus fasciatus***retired***use Hologymnosus doliatus':
     '(Lacepede 1801)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613878',
-  'Hologymnosus longipes': 'STANDARDIZE NAME (Normalized)',
+  'Hologymnosus longipes':
+    '(Gunther 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613883',
   'Hologymnosus rhodonotus': 'STANDARDIZE NAME (Normalized)',
   'Hologymnosus semidiscus':
-    'ITIS Synonyms - (Garman 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162356',
+    'ITIS Synonyms - ((Lac?p?de, 1801))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170703',
   'Hologymnosus semidiscus***retired***use Hologymnosus annulatus':
     'STANDARDIZE NAME (Normalized)',
   Holohalaelurus:
     '(Fowler 1934)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160161',
   'Holohalaelurus punctatus': 'STANDARDIZE NAME (Normalized)',
-  'Holohalaelurus regani':
-    '(Gilchrist 1922)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160162',
+  'Holohalaelurus regani': 'STANDARDIZE NAME (Normalized)',
   'Hololepis serrifer':
-    'ITIS Synonyms - (Hubbs and Cannon, 1935)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168363',
+    'ITIS Synonyms - (Vaillant 1886)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623389',
   'Hololepis serrifer***retired***use Etheostoma serrifer':
     '(Hubbs and Cannon 1935)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168363',
   'Hololepis zonifer':
     'ITIS Synonyms - (Hubbs and Cannon, 1935)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168451',
   'Hololepis zonifer***retired***use Etheostoma zonifer':
-    '(Hubbs and Cannon 1935)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168451',
+    'STANDARDIZE NAME (Normalized)',
   Holometabola: 'STANDARDIZE NAME (Normalized)',
   Holopediidae: 'national unique domain values',
   Holopedium: 'RETIRED NAME',
-  'Holopedium (Chroococcaceae)': 'national unique domain values',
-  'Holopedium (Holopediidae)': 'STANDARDIZE NAME (Normalized)',
+  'Holopedium (Chroococcaceae)': 'table unique identifier',
+  'Holopedium (Holopediidae)': 'ITIS TAXON SERIAL NUMBER',
   'Holopedium acidophilum': 'national unique domain values',
   'Holopedium amazonicum': 'STANDARDIZE NAME (Normalized)',
-  'Holopedium atlanticum': 'national unique domain values',
+  'Holopedium atlanticum': 'table unique identifier',
   'Holopedium gibberum': 'STANDARDIZE NAME (Normalized)',
   'Holopedium glacialis': 'table unique identifier',
   'Holopedium***retired***use Holopedium (Holopediidae), Holopedium (Chroococcaceae)':
     '(Zaddach 1855)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=83956',
-  Holoplocamia:
-    '(de Laubenfels 1936)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=47964',
+  Holoplocamia: 'STANDARDIZE NAME (Normalized)',
   'Holopristes riddlei':
     'ITIS Synonyms - Common Name "bentgrass" http://plants.usda.gov/core/profile?symbol=AGROS2',
   'Holopristes riddlei***retired***use Pristella maxillaris':
@@ -101659,22 +101668,21 @@ export default {
   Holopyrrhoceromyia:
     'ITIS Synonyms - (Pleske, 1922)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=626041',
   Holorusia: 'STANDARDIZE NAME (Normalized)',
-  'Holorusia hespera':
-    '(Arnaud and Byers 1990)~http://www.catalogueoflife.org/col/details/species/id/13671113',
+  'Holorusia hespera': 'STANDARDIZE NAME (Normalized)',
   Holostei:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161089',
   'Holosteum umbellatum': 'table unique identifier',
   Holothuria: 'Holothuria***retired***use Holothuria',
-  'Holothuria (Acanthotrapeza) coluber': 'ITIS TAXON SERIAL NUMBER',
-  'Holothuria (Halodeima) edulis': 'ITIS TAXON SERIAL NUMBER',
-  'Holothuria (Platyperona) difficilis':
-    '(Semper 1868)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=148752',
+  'Holothuria (Acanthotrapeza) coluber':
+    '(Semper 1868)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=241820',
+  'Holothuria (Halodeima) edulis': 'STANDARDIZE NAME (Normalized)',
+  'Holothuria (Platyperona) difficilis': 'ITIS TAXON SERIAL NUMBER',
   'Holothuria argus': 'Holothuria argus***retired***use Bohadschia argus',
   'Holothuria argus***retired***use Bohadschia argus':
-    '(Jaeger)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=201869',
+    'STANDARDIZE NAME (Normalized)',
   'Holothuria atra':
     '(Jaeger)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=201871',
-  'Holothuria cinerascens': 'table unique identifier',
+  'Holothuria cinerascens': 'national unique domain values',
   'Holothuria edulis': 'national unique domain values',
   'Holothuria fuscopunctata': 'national unique domain values',
   'Holothuria hilla': 'national unique domain values',
@@ -101682,79 +101690,77 @@ export default {
   'Holothuria nobilis': 'national unique domain values',
   'Holothuria pardalis': 'table unique identifier',
   'Holothuria pervicax': 'national unique domain values',
-  'Holothuria scabra':
-    '(Jaeger)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=201876',
+  'Holothuria scabra': 'STANDARDIZE NAME (Normalized)',
   'Holothuria***retired***use Holothuria':
     'Holothuria***retired***use Holothuria',
   Holothuriidae: 'table unique identifier',
   Holothuroidea:
     '(de Blainville 1834)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=158140',
   Holotrachys:
-    'ITIS Synonyms - Diatom,Anomoeoneis; Biodata: Ver=13.2, Sort=3005655     ,TAX_UID=60754',
+    'ITIS Synonyms - (G?nther, 1874)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=633881',
   'Holotrachys lima':
     'ITIS Synonyms - (Valenciennes in Cuvier and Valenciennes, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=633884',
-  Holtbyrnia:
-    '(Parr 1937)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182858',
+  Holtbyrnia: 'STANDARDIZE NAME (Normalized)',
   'Holtbyrnia anomala': 'STANDARDIZE NAME (Normalized)',
   'Holtbyrnia cyanocephala': 'STANDARDIZE NAME (Normalized)',
   'Holtbyrnia innesi': 'STANDARDIZE NAME (Normalized)',
-  'Holtbyrnia intermedia':
-    '(Sazonov 1976)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623647',
+  'Holtbyrnia intermedia': 'STANDARDIZE NAME (Normalized)',
   'Holtbyrnia laticauda':
     '(Sazonov 1976)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623648',
-  'Holtbyrnia latifrons': 'STANDARDIZE NAME (Normalized)',
+  'Holtbyrnia latifrons':
+    '(Sazonov 1976)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623649',
   'Holtbyrnia macrops':
     '(Maul 1957)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182859',
   'Holtbyrnia melanocephala':
     '(Vaillant 1888)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182860',
-  'Holtbyrnia ophiocephala':
-    '(Sazonov and Golovan 1976)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623650',
-  'Homalictus flavipes':
-    'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=758443',
+  'Holtbyrnia ophiocephala': 'STANDARDIZE NAME (Normalized)',
+  'Homalictus flavipes': 'RETIRED NAME',
   'Homalictus flavipes*':
     'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=758443     ,Lasioglossum flavipes, Pauly 1986 (Lasioglossum)',
   'Homalictus imitatus':
     'ITIS Synonyms - (Walker 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=758598',
-  'Homalictus micheneri': 'RETIRED NAME',
+  'Homalictus micheneri':
+    'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=758821',
   'Homalictus micheneri*':
     'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=758821     ,Lasioglossum micheneri, Pauly 1986 (Lasioglossum) or Moure 1956',
-  'Homalictus minutus':
-    'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=758833',
+  'Homalictus minutus': 'RETIRED NAME',
   'Homalictus minutus*':
     'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=758833     ,Lasioglossum minutum, Pauly 1986 (Lasioglossum) or Fabricius 1798',
-  'Homalictus punctatus':
-    'ITIS Synonyms - (Smith 1879)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=759141',
-  'Homalictus spinosus': 'RETIRED NAME',
+  'Homalictus punctatus': 'RETIRED NAME',
+  'Homalictus spinosus':
+    'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=759346',
   'Homalictus spinosus*':
     'ITIS Synonyms - (Pauly 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=759346     ,Lasioglossum spinosum, Pauly 1986 (Lasioglossum)',
-  'Homalictus urbanus': 'RETIRED NAME',
+  'Homalictus urbanus':
+    'ITIS Synonyms - (Smith 1879)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=759518',
   'Homalocantha anatomica': 'national unique domain values',
   Homalocenchrus:
-    'ITIS Synonyms - ((Ehrenb.) R. Ross in B. Hartley)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591209',
+    'ITIS Synonyms - (Mieg)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=781650',
   'Homalocenchrus angustifolius':
-    'ITIS Synonyms - ((Ehrenb.) Cleve)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=590943     ,TAX_UID=41777',
+    'ITIS Synonyms - (Kuntze)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790496',
   'Homalocenchrus gouinii':
     'ITIS Synonyms - (O Mull)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591570',
   'Homalocenchrus hexandrus':
-    'ITIS Synonyms - ((Sw.) Kuntze)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514814',
+    'ITIS Synonyms - ((Br�bisson) Round and D.G. Mann)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591203',
   'Homalocenchrus lenticularis':
     'ITIS Synonyms - ((Breb.) Hust.)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591513     ,TAX_UID=48410',
   'Homalocenchrus oryzoides':
-    'ITIS Synonyms - ((Woods, 1965))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166182',
+    'ITIS Synonyms - http://www.marinespecies.org/aphia.php?p=taxdetails&id=661215     ,TAX_UID=46455',
   'Homalocenchrus oryzoides2':
     'ITIS Synonyms - ((Woods, 1965))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166174',
   'Homalocenchrus ovata':
     'ITIS Synonyms - (Grunow in Van Heurck R Ross in B Hartley)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591202',
   'Homalocenchrus virginicus':
-    'ITIS Synonyms - http://www.marinespecies.org/aphia.php?p=taxdetails&id=179433&from=rss     ,TAX_UID=41778',
+    'ITIS Synonyms - ((Willd.) Britton)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514818',
   'Homalogrystes guntheri':
     'ITIS Synonyms - (Grunow R Ross in B Hartley)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591201',
   'Homalogrystes guntheri***retired***use Acanthochromis polyacanthus':
-    '(Alleyne and Macleay 1877)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615144',
+    'STANDARDIZE NAME (Normalized)',
   'Homalopoma luridum': 'STANDARDIZE NAME (Normalized)',
   Homaloptera:
     '(van Hasselt 1823)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163973',
-  'Homaloptera zollingeri': 'STANDARDIZE NAME (Normalized)',
+  'Homaloptera zollingeri':
+    '(Bleeker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163974',
   Homalopteridae:
     'ITIS Synonyms - ((Grunow) R. Ross in Patrick & Reimer)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=590939     ,TAX_UID=48411',
   'Homalopteridae***retired***use Balitoridae':
@@ -101765,133 +101771,122 @@ export default {
   'Homarus americanus':
     '(H Milne Edwards 1837)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=97314',
   Homochaeta:
-    'ITIS Synonyms - (Boeck 1871)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=94233',
+    'ITIS Synonyms - (Bretscher, 1896)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69001',
   'Homochaeta naidina':
-    'ITIS Synonyms - (Bretscher, 1896)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69002',
+    'ITIS Synonyms - (Say 1824)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=125980',
   Homodiaetus:
     '(Eigenmann and Ward in Eigenmann McAtee and Ward 1907)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164273',
   Homoeatherum:
     'ITIS Synonyms - (Gill 1893)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=633879',
   'Homoeocladia sigmoidea':
-    'ITIS Synonyms - (Baird and Girard 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162849',
+    'ITIS Synonyms - ((Nitzsch) Elmore)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591015',
   'Homoeocladia subcohaerens var. scotica': 'STANDARDIZE NAME (Normalized)',
   Homoeoneuria: 'STANDARDIZE NAME (Normalized)',
-  'Homoeoneuria alleni': 'STANDARDIZE NAME (Normalized)',
-  'Homoeoneuria ammophila':
-    '(Spieth 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101038',
-  Homoeothrix: 'RETIRED NAME',
-  'Homoeothrix (Rivulariaceae)':
-    '(Thuret Kirch In Engl and Prantl)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1308',
+  'Homoeoneuria alleni':
+    'Invertebrates,(Pescador and Peters)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568664',
+  'Homoeoneuria ammophila': 'STANDARDIZE NAME (Normalized)',
+  Homoeothrix: '',
+  'Homoeothrix (Rivulariaceae)': 'STANDARDIZE NAME (Normalized)',
   'Homoeothrix (Tephritidae)': 'STANDARDIZE NAME (Normalized)',
-  'Homoeothrix hansgirgi':
-    'Blue-Green Algae,Homoeothrix hansgirgi ((Schmidle) Lemmermann); BioData: Ver=13.2 Sort=3003857',
-  'Homoeothrix janthina':
-    '(Born and Flah Starmach)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1310',
-  'Homoeothrix juliana':
-    '(Born and Flah Kirchner)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1309',
-  'Homoeothrix margalefii':
-    'Blue-Green Algae,Homoeothrix margalefii (Komarek and Kalina); BioData: Ver=13.2 Sort=3003865',
+  'Homoeothrix hansgirgi': 'STANDARDIZE NAME (Normalized)',
+  'Homoeothrix janthina': 'STANDARDIZE NAME (Normalized)',
+  'Homoeothrix juliana': 'STANDARDIZE NAME (Normalized)',
+  'Homoeothrix margalefii': 'STANDARDIZE NAME (Normalized)',
   'Homoeothrix simplex': 'STANDARDIZE NAME (Normalized)',
-  'Homoeothrix varians': 'STANDARDIZE NAME (Normalized)',
+  'Homoeothrix varians':
+    'Blue-Green Algae,Homoeothrix varians (Geitler); BioData: Ver=13.2 Sort=3003870',
   'Homoeothrix***retired***use Homoeothrix (Rivulariaceae), Homoeothrix (Tephritidae)':
-    'STANDARDIZE NAME (Normalized)',
+    '((Thuret) Kirch. In Engl. and Prantl.)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1308',
   Homoeothrlx:
     'ITIS Synonyms - (Hering 1944)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=668695',
   Homoeotrix: 'RETIRED NAME',
   'Homohelea longipennis':
     'ITIS Synonyms - ((Lowe, 1861))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=127766',
   Homoiachne:
-    'ITIS Synonyms - (Pilg.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=781652',
-  Homoleptohyphes: 'STANDARDIZE NAME (Normalized)',
+    'ITIS Synonyms - (Spix and Agassiz 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=640351',
+  Homoleptohyphes:
+    '(Allen and Murvosh 1987)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609512',
   'Homoleptohyphes dimorphus':
     'Invertebrates,((Allen))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609627',
-  'Homoleptohyphes mirus': 'STANDARDIZE NAME (Normalized)',
+  'Homoleptohyphes mirus':
+    'Invertebrates,((Allen))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609628',
   'Homoleptohyphes quercus':
     'Invertebrates,((Kilgore and Allen))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609629',
-  Homophylax:
-    '(Banks 1900)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116286',
-  'Homophylax acutus':
-    'Invertebrates,(Denning)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116292',
+  Homophylax: 'STANDARDIZE NAME (Normalized)',
+  'Homophylax acutus': 'STANDARDIZE NAME (Normalized)',
   'Homophylax andax': 'STANDARDIZE NAME (Normalized)',
   'Homophylax auricularis':
     'Invertebrates,(Smith)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=605401',
-  Homoplectra:
-    '(Ross 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115618',
-  'Homoplectra doringa': 'table unique identifier',
-  Homoptera: 'Homoptera***retired***use Auchenorrhyncha',
+  Homoplectra: 'STANDARDIZE NAME (Normalized)',
+  'Homoplectra doringa': 'national unique domain values',
+  Homoptera: 'RETIRED NAME',
   'Homoptera***retired***use Auchenorrhyncha': 'STANDARDIZE NAME (Normalized)',
-  Homostolus:
-    '(Smith and Radcliffe in Radcliffe 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165061',
-  'Homostolus acer':
-    '(Smith and Radcliffe in Radcliffe 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165062',
+  Homostolus: 'STANDARDIZE NAME (Normalized)',
+  'Homostolus acer': 'STANDARDIZE NAME (Normalized)',
   'Homostolus japonicus':
-    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163189     ,TAX_UID=16081',
+    'ITIS Synonyms - (Matsubara, 1943)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165063',
   'Homostolus japonicus***retired***use Homostolus acer':
     'STANDARDIZE NAME (Normalized)',
   'Homotrema rubra': 'national unique domain values',
-  'Honeycomb Cowfish':
-    'ITIS Vernaculars - (Poey 1876)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173246',
+  'Honeycomb Cowfish': 'TAXON COMMON NAME',
   'Hong Kong catfish': 'fao.org',
   'Hong Kong grouper':
     'ITIS Vernaculars - (Temminck and Schlegel 1842)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167756',
   "Hood's sedge": 'TAXON COMMON NAME',
-  'Hooded Merganser':
-    'ITIS Vernaculars - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175183',
-  "Hooker's evening primrose": 'TAXON COMMON NAME',
+  'Hooded Merganser': 'TAXON COMMON NAME',
+  "Hooker's evening primrose":
+    'ITIS Vernaculars - (Kunth) Common Name "Hooker\'s evening primrose" http://plants.usda.gov/core/profile?symbol=OEEL',
   "Hooker's evening-primrose": 'TAXON COMMON NAME',
   "Hooker's eveningprimrose":
     'ITIS Vernaculars - (Kunth) Common Name "Hooker\'s evening primrose" http://plants.usda.gov/core/profile?symbol=OEEL',
   "Hooker's milkwort": 'TAXON COMMON NAME',
-  Hoperius:
-    '(Fall 1927)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=112179',
-  'Hoperius planatus': 'STANDARDIZE NAME (Normalized)',
+  Hoperius: 'STANDARDIZE NAME (Normalized)',
+  'Hoperius planatus':
+    'Invertebrates,(Fall)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=112180',
   Hoperythrinus:
-    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163190     ,TAX_UID=18366',
+    'ITIS Synonyms - (Gill, 1896)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163059',
   'Hoperythrinus unitaeniatus':
-    'ITIS Synonyms - ((Spix and Agassiz, 1829))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163060',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163188     ,TAX_UID=11895',
   'Hoperythrinus unitaeniatus***retired***use Hoplerythrinus unitaeniatus':
     'STANDARDIZE NAME (Normalized)',
   'Hoperythrinus***retired***use Hoplerythrinus':
-    '(Gill 1896)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163059',
+    'STANDARDIZE NAME (Normalized)',
   'Hopia obtusa':
     '(Kunth)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=40947',
-  'Hopkins rose': 'TAXON COMMON NAME',
+  'Hopkins rose':
+    'ITIS Vernaculars - (MacFarland 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=78433',
   'Hopkinsia rosacea':
     '(MacFarland 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=78433',
   Hoplegnathidae:
     'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=645314',
   Hoplegnathus:
-    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163189     ,TAX_UID=16081',
+    'ITIS Synonyms - (Richardson, 1844)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=645422',
   'Hoplegnathus fasciatus':
     'ITIS Synonyms - ((Temminck and Schlegel, 1844))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=646087',
-  Hoplerythrinus: 'STANDARDIZE NAME (Normalized)',
-  'Hoplerythrinus unitaeniatus':
-    '(Spix and Agassiz 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162887',
+  Hoplerythrinus:
+    '(Gill 1896)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162886',
+  'Hoplerythrinus unitaeniatus': 'STANDARDIZE NAME (Normalized)',
   Hoplias:
     '(Gill 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163054',
-  'Hoplias malabaricus': 'STANDARDIZE NAME (Normalized)',
+  'Hoplias malabaricus':
+    '(Bloch 1794)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163055',
   Hoplichthyidae:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167172',
   Hoplichthyoidei:
-    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167171',
+    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163188     ,TAX_UID=11895',
   'Hoplichthyoidei***retired***use Platycephaloidei':
     'STANDARDIZE NAME (Normalized)',
-  Hoplichthys:
-    '(Cuvier in Cuvier and Valenciennes 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167174',
-  'Hoplichthys acanthopleurus':
-    '(Regan 1908)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167177',
-  'Hoplichthys citrinus':
-    '(Gilbert 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167175',
-  'Hoplichthys ogilbyi':
-    '(McCulloch 1914)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167178',
+  Hoplichthys: 'STANDARDIZE NAME (Normalized)',
+  'Hoplichthys acanthopleurus': 'STANDARDIZE NAME (Normalized)',
+  'Hoplichthys citrinus': 'STANDARDIZE NAME (Normalized)',
+  'Hoplichthys ogilbyi': 'STANDARDIZE NAME (Normalized)',
   'Hoplichthys platophrys':
     '(Gilbert 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167176',
-  Hoplitimyia:
-    'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=130513',
+  Hoplitimyia: 'STANDARDIZE NAME (Normalized)',
   'Hoplitis semirubra':
     '(Friese 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756758',
   'Hoplitis semirubra***retired***use Hoplitis semirubra, Friese 1899 (Hoplitis) or Cockerell 1898':
-    '(Friese 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756758',
+    'STANDARDIZE NAME (Normalized)',
   'Hoplitis semirubra, Cockerell 1898 (Hoplitis)':
     '(Cockerell 1898)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=715489',
   'Hoplitis semirubra, Friese 1899 (Hoplitis)': 'STANDARDIZE NAME (Normalized)',
@@ -101899,21 +101894,18 @@ export default {
     '(Timberlake & Michener 1950)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=715491',
   'Hoplitis similis***retired***use Hoplitis similis, Timberlake & Michener 1950 (Hoplitis) or Friese 1909':
     '(Timberlake & Michener 1950)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=715491',
-  'Hoplitis similis, Friese 1909 (Hoplitis)':
-    '(Friese 1909)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756761',
+  'Hoplitis similis, Friese 1909 (Hoplitis)': 'STANDARDIZE NAME (Normalized)',
   'Hoplitis similis, Timberlake & Michener 1950 (Hoplitis)':
-    'STANDARDIZE NAME (Normalized)',
+    'ITIS TAXON SERIAL NUMBER',
   'Hoplitis truncata':
     '(Wu 1992)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756786',
   'Hoplitis truncata***retired***use Hoplitis truncata, Wu 1992 (Hoplitis) or Cresson 1878':
     '(Wu 1992)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756786',
-  'Hoplitis truncata, Cresson 1878 (Hoplitis)': 'ITIS TAXON SERIAL NUMBER',
-  'Hoplitis truncata, Wu 1992 (Hoplitis)':
-    '(Wu 1992)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=756786',
-  Hoplobrotula:
-    '(Gill 1863)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165011',
-  'Hoplobrotula armata':
-    '(Temminck and Schlegel 1846)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165012',
+  'Hoplitis truncata, Cresson 1878 (Hoplitis)':
+    '(Cresson 1878)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=715497',
+  'Hoplitis truncata, Wu 1992 (Hoplitis)': 'ITIS TAXON SERIAL NUMBER',
+  Hoplobrotula: 'STANDARDIZE NAME (Normalized)',
+  'Hoplobrotula armata': 'STANDARDIZE NAME (Normalized)',
   'Hoplobrotula gnathopus':
     '(Regan 1921)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165013',
   Hoplochromis:
@@ -101921,82 +101913,81 @@ export default {
   'Hoplochromis***retired***use Chromis':
     '(Fowler 1918)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613183',
   Hoplomyia:
-    'ITIS Synonyms - (Kner 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163194',
+    'ITIS Synonyms - (Zeller, 1842)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=626085',
   Hoplomyzon: 'STANDARDIZE NAME (Normalized)',
   Hoplomyzontini:
     'ITIS Synonyms - (Hook.) Common Name "Menzies\' campion" http://plants.usda.gov/core/profile?symbol=SIME',
   Hoplonemertea: 'STANDARDIZE NAME (Normalized)',
-  Hoplopagrus: 'STANDARDIZE NAME (Normalized)',
-  'Hoplopagrus guentherii':
-    '(Gill 1862)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=643073',
+  Hoplopagrus:
+    '(Gill 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168974',
+  'Hoplopagrus guentherii': 'STANDARDIZE NAME (Normalized)',
   'Hoplopagrus guntheri':
-    'ITIS Synonyms - (Hook.) Common Name "Menzies\' campion" http://plants.usda.gov/core/profile?symbol=SIME',
+    'ITIS Synonyms - (Gill, 1862)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168975',
   'Hoplopheonoides obesa': 'table unique identifier',
   'Hoplophorella buffaloensis':
     '(Niedbala 2006)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=735976     ,TAX_UID=45652',
   'Hoplophorella buffaloensis***retired***use Hoplophorella buffaloensis, Niedbala 2006 (Hoplophorella (Hoplophorella))':
-    '(Niedbala 2006)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=735976',
+    'STANDARDIZE NAME (Normalized)',
   'Hoplophorella buffaloensis, Niedbala 2006 (Hoplophorella (Hoplophorella))':
-    '(Niedbala 2006)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=735976',
+    'STANDARDIZE NAME (Normalized)',
   'Hoplophorella frondeus':
     '(Niedbala 2004)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=735995',
   'Hoplophorella frondeus***retired***use Hoplophorella frondeus, Niedbala 2004 (Hoplophorella) or  Niedbala 2003':
-    'STANDARDIZE NAME (Normalized)',
+    '(Niedbala 2004)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=735995',
   'Hoplophorella frondeus, Niedbala 2003 (Hoplophorella (Hoplophorella))':
-    'ITIS TAXON SERIAL NUMBER',
+    '(Niedbala 2003)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=735994',
   'Hoplophorella frondeus, Niedbala 2004 (Hoplophorella (Hoplophorella))':
-    'Hoplophorella frondeus, Niedbala 2004 (Hoplophorella (Hoplophorella))***retired***use Hoplophorella prodorsocristata',
+    'ITIS TAXON SERIAL NUMBER',
   'Hoplophorella frondeus, Niedbala 2004 (Hoplophorella (Hoplophorella))***retired***use Hoplophorella prodorsocristata':
     'STANDARDIZE NAME (Normalized)',
   'Hoplophorella janosbaloghi': 'table unique identifier',
   'Hoplophorella procera': 'table unique identifier',
-  'Hoplophorella prodorsocristata': 'national unique domain values',
+  'Hoplophorella prodorsocristata': 'table unique identifier',
   'Hoplophthiracarus aculeatus (Niedbala & Colloff, 1997)':
-    'table unique identifier',
+    'national unique domain values',
   'Hoplophthiracarus aculeatus (Niedbala, 1988)': 'table unique identifier',
-  'Hoplophthiracarus baloghi': 'national unique domain values',
+  'Hoplophthiracarus baloghi': 'table unique identifier',
   'Hoplophthiracarus bruneiensis': 'table unique identifier',
-  'Hoplophthiracarus heterotrichus (Mahunka, 1979)': 'table unique identifier',
+  'Hoplophthiracarus heterotrichus (Mahunka, 1979)':
+    'national unique domain values',
   'Hoplophthiracarus heterotrichus (Mahunka, 1984)':
     'national unique domain values',
-  'Hoplophthiracarus neochilensis': 'table unique identifier',
-  'Hoplophthiracarus niedbalai (Liu & Zhang, 2015)': 'table unique identifier',
-  'Hoplophthiracarus niedbalai (Subias, 2009)': 'national unique domain values',
-  'Hoplophthiracarus novazelandicus': 'table unique identifier',
+  'Hoplophthiracarus neochilensis': 'national unique domain values',
+  'Hoplophthiracarus niedbalai (Liu & Zhang, 2015)':
+    'national unique domain values',
+  'Hoplophthiracarus niedbalai (Subias, 2009)': 'table unique identifier',
+  'Hoplophthiracarus novazelandicus': 'national unique domain values',
   'Hoplophthiracarus ogmos': 'national unique domain values',
-  'Hoplophthiracarus paraandinus': 'table unique identifier',
+  'Hoplophthiracarus paraandinus': 'national unique domain values',
   'Hoploplana californica': 'national unique domain values',
-  'Hoplopolemius propinquus': 'table unique identifier',
+  'Hoplopolemius propinquus': 'national unique domain values',
   Hoplostermum:
-    'ITIS Synonyms - (Gill, 1858)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164337',
-  'Hoplostermum***retired***use Hoplosternum':
-    '(Gill 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164337',
+    'ITIS Synonyms - (Hook.) Common Name "Menzies\' campion" http://plants.usda.gov/core/profile?symbol=SIME',
+  'Hoplostermum***retired***use Hoplosternum': 'STANDARDIZE NAME (Normalized)',
   Hoplosternum: 'STANDARDIZE NAME (Normalized)',
   'Hoplosternum aeneum':
     'ITIS Synonyms - ((Gill, 1858))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164293',
   'Hoplosternum aeneum***retired***use Corydoras aeneus':
-    '(Gill 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164293',
-  'Hoplosternum littorale':
-    '(Hancock 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=679689',
+    'STANDARDIZE NAME (Normalized)',
+  'Hoplosternum littorale': 'STANDARDIZE NAME (Normalized)',
   'Hoplosternum littoralis':
-    'ITIS Synonyms - ((Hancock, 1828))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=553407',
+    'ITIS Synonyms - (Van Beneden, 1845)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155542',
   'Hoplosternum thoracatum':
-    'ITIS Synonyms - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175038',
+    'ITIS Synonyms - ((Valenciennes in Cuvier and Valenciennes, 1840))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164338',
   Hoplostethus:
     '(Cuvier in Cuvier and Valenciennes 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166138',
-  'Hoplostethus abramovi': 'STANDARDIZE NAME (Normalized)',
-  'Hoplostethus atlanticus':
-    '(Collett 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166139',
+  'Hoplostethus abramovi':
+    '(Kotlyar 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622147',
+  'Hoplostethus atlanticus': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus cadenati':
     '(Quero 1974)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622148',
   'Hoplostethus confinis': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus crassispinus': 'STANDARDIZE NAME (Normalized)',
-  'Hoplostethus druzhinini':
-    '(Kotlyar 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622151',
+  'Hoplostethus druzhinini': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus elongatus':
     'ITIS Synonyms - ((G?nther, 1859))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166142',
   'Hoplostethus elongatus***retired***use Optivus elongatus':
-    'STANDARDIZE NAME (Normalized)',
+    '(Gunther 1859)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166142',
   'Hoplostethus fedorovi': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus fragilis':
     '(de Buen 1959)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622153',
@@ -102004,27 +101995,27 @@ export default {
     '(McCulloch 1914)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622154',
   'Hoplostethus intermedius':
     '(Hector 1875)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622155',
-  'Hoplostethus islandicus': 'STANDARDIZE NAME (Normalized)',
+  'Hoplostethus islandicus':
+    '(Kotthaus 1952)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622156',
   'Hoplostethus japonicus': 'STANDARDIZE NAME (Normalized)',
-  'Hoplostethus marisrubri':
-    '(Kotlyar 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622158',
+  'Hoplostethus marisrubri': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus mediterraneus':
     '(Cuvier in Cuvier and Valenciennes 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166140',
-  'Hoplostethus mediterraneus mediterraneus': 'STANDARDIZE NAME (Normalized)',
-  'Hoplostethus mediterraneus sonodae':
-    '(Kotlyar 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622220',
-  'Hoplostethus mediterraneus trunovi':
-    '(Kotlyar 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622222',
+  'Hoplostethus mediterraneus mediterraneus':
+    '(Cuvier in Cuvier and Valenciennes 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622221',
+  'Hoplostethus mediterraneus sonodae': 'STANDARDIZE NAME (Normalized)',
+  'Hoplostethus mediterraneus trunovi': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus melanopterus':
     '(Fowler 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622159',
   'Hoplostethus melanopus':
     '(Weber 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622160',
   'Hoplostethus mento':
     '(Garman 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622138',
-  'Hoplostethus metallicus': 'STANDARDIZE NAME (Normalized)',
-  'Hoplostethus mikhailini': 'STANDARDIZE NAME (Normalized)',
-  'Hoplostethus occidentalis':
-    '(Woods in Woods and Sonoda 1973)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=166141',
+  'Hoplostethus metallicus':
+    '(Fowler 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622161',
+  'Hoplostethus mikhailini':
+    '(Kotlyar 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622162',
+  'Hoplostethus occidentalis': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus pacificus': 'STANDARDIZE NAME (Normalized)',
   'Hoplostethus rifti':
     '(Kotlyar 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622164',
@@ -102035,57 +102026,55 @@ export default {
     '(Kotlyar 1980)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622167',
   'Hoplostethus vniro':
     '(Kotlyar 1995)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622168',
-  Hoplunnis:
-    '(Kaup 1860)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161289',
+  Hoplunnis: 'STANDARDIZE NAME (Normalized)',
   'Hoplunnis diomediana': 'STANDARDIZE NAME (Normalized)',
   'Hoplunnis diomedianus':
-    'ITIS Synonyms - (Cassin 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175041',
-  'Hoplunnis macrura':
-    '(Ginsburg 1951)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=636218',
+    'ITIS Synonyms - (Goode and Bean, 1896)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161290',
+  'Hoplunnis macrura': 'STANDARDIZE NAME (Normalized)',
   'Hoplunnis macrurus':
-    'ITIS Synonyms - (E.E. Nelson) Common Name "flat-top pussytoes" http://plants.usda.gov/core/profile?symbol=ANCO',
-  'Hoplunnis tenuis':
-    '(Ginsburg 1951)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161292',
+    'ITIS Synonyms - (Ginsburg, 1951)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161291',
+  'Hoplunnis tenuis': 'STANDARDIZE NAME (Normalized)',
   Hoptomyia:
     'ITIS Synonyms - (Loew, 1846)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=625863',
-  Horaella: 'table unique identifier',
+  Horaella: 'national unique domain values',
   Horaichthyidae:
-    'ITIS Synonyms - (Greene) Common Name "Rocky Mountain pussytoes" http://plants.usda.gov/core/profile?symbol=ANME2',
+    'ITIS Synonyms - https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165626',
   Horaichthyinae: 'STANDARDIZE NAME (Normalized)',
   Horaichthys:
     '(Kulkarni 1940)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165627',
-  'Horaichthys setnai': 'STANDARDIZE NAME (Normalized)',
-  Hordeum: 'STANDARDIZE NAME (Normalized)',
+  'Horaichthys setnai':
+    '(Kulkarni 1940)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165628',
+  Hordeum:
+    'Common Name "barley" http://plants.usda.gov/core/profile?symbol=HORDE',
   'Hordeum berteroanum var. pumila':
-    'ITIS Synonyms - (E. Desv.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=800808',
-  'Hordeum brachyantherum':
-    '(Nevski) Common Name "meadow barley" http://plants.usda.gov/core/profile?symbol=HOBR2',
+    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
+  'Hordeum brachyantherum': 'STANDARDIZE NAME (Normalized)',
   'Hordeum caespitosum':
     'ITIS Synonyms - (Scribn. ex Pammel)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514831',
   'Hordeum canadense':
     'ITIS Synonyms - ((L.) Asch. & Graebn.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790512',
   'Hordeum cartilagineum':
-    'ITIS Synonyms - (Moench)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790514',
+    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
   'Hordeum elymoides':
-    'ITIS Synonyms - ((Raf.) Schenck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790522',
+    'ITIS Synonyms - (Nutt.) Common Name "small-leaf pussytoes" http://plants.usda.gov/core/profile?symbol=ANPA4',
   'Hordeum geniculatum':
     'ITIS Synonyms - (All.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=40869',
   'Hordeum gussoneanum':
-    'ITIS Synonyms - (Parl.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790524',
+    'ITIS Synonyms - (Rydb.) Common Name "littleleaf pussytoes" http://plants.usda.gov/core/profile?symbol=ANMI3',
   'Hordeum gussonianum':
     'ITIS Synonyms - (Parl.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514833',
   'Hordeum hystrix':
-    'ITIS Synonyms - (Roth)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=40870',
+    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
   'Hordeum hystrix*':
     'ITIS Synonyms - ((L.) Schenck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790528',
   'Hordeum jubatum': 'STANDARDIZE NAME (Normalized)',
   'Hordeum jubatum ssp. brachyantherum':
-    'ITIS Synonyms - ((Nevski) Bondar)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=797895',
+    'ITIS Synonyms - ((Hook.) Greene) Common Name "showy pussytoes" http://plants.usda.gov/core/profile?symbol=ANPU',
   'Hordeum jubatum ssp. intermedium':
-    'ITIS Synonyms - (Bowden)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=524157',
+    'ITIS Synonyms - ((Hook.) Greene) Common Name "showy pussytoes" http://plants.usda.gov/core/profile?symbol=ANPU',
   'Hordeum jubatum ssp. jubatum': 'STANDARDIZE NAME (Normalized)',
   'Hordeum jubatum var. caespitosum':
-    'ITIS Synonyms - ((Scribn.) Hitchc.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536232',
+    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
   'Hordeum jubatum var. jubatum':
     'ITIS Synonyms - (Greene) Common Name "Rocky Mountain pussytoes" http://plants.usda.gov/core/profile?symbol=ANME2',
   'Hordeum jubatum var. pampeanum':
@@ -102097,25 +102086,25 @@ export default {
   'Hordeum marinum ssp. gussoneanum':
     '(Parl Thell)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=524158',
   'Hordeum marinum ssp. gussonianum':
-    'ITIS Synonyms - (Greene) Common Name "Rocky Mountain pussytoes" http://plants.usda.gov/core/profile?symbol=ANME2',
+    'ITIS Synonyms - ((Parl.) Thell.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=524158',
   'Hordeum marinum ssp. gussonianum***retired***use Hordeum marinum ssp. gussoneanum':
     'STANDARDIZE NAME (Normalized)',
   'Hordeum maritimum':
     'ITIS Synonyms - (Nutt.) Common Name "small-leaf pussytoes" http://plants.usda.gov/core/profile?symbol=ANPA4',
   'Hordeum maritimum ssp. gussoneanum':
-    'ITIS Synonyms - ((Parl.) Asch. & Graebn.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=797898',
+    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
   'Hordeum maritimum ssp. hystrix':
     'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
   'Hordeum maritimum var. gussonianum':
     'ITIS Synonyms - ((Parl.) K. Richt.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=800833',
   'Hordeum murinum': 'STANDARDIZE NAME (Normalized)',
   'Hordeum pampeanum':
-    'ITIS Synonyms - (Nutt.) Common Name "small-leaf pussytoes" http://plants.usda.gov/core/profile?symbol=ANPA4',
+    'ITIS Synonyms - ((Hauman) Herter)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790531',
   'Hordeum patulum':
     'ITIS Synonyms - (Moench)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790532',
   'Hordeum pubiflorum var. pampeanum':
     'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
-  'Hordeum pusillum': 'national unique domain values',
+  'Hordeum pusillum': 'table unique identifier',
   'Hordeum striatum':
     'ITIS Synonyms - ((Willd.) Schenck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790541',
   'Hordeum utriculatum':
@@ -102124,81 +102113,82 @@ export default {
     'ITIS Synonyms - ((Muhl. ex Willd.) Schenck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790546',
   'Hordeum virginicum':
     'ITIS Synonyms - ((L.) Schenck)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=790547',
-  Horkelia:
-    '(Cham. & Schltdl.) Common Name "horkelia" http://plants.usda.gov/core/profile?symbol=HORKE',
-  'Hormidiopsis ellipsoideum': 'table unique identifier',
+  Horkelia: 'STANDARDIZE NAME (Normalized)',
+  'Hormidiopsis ellipsoideum': 'national unique domain values',
   Hormidiospora: 'table unique identifier',
-  Hormidium: 'STANDARDIZE NAME (Normalized)',
-  Hormothamnion: 'national unique domain values',
-  'Hormothamnion enteromorphoides': 'national unique domain values',
+  Hormidium:
+    '(Kutzing 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=5752',
+  Hormothamnion: 'table unique identifier',
+  'Hormothamnion enteromorphoides': 'table unique identifier',
   Hormotila: 'STANDARDIZE NAME (Normalized)',
   'Hornectes quadrimaculatus': 'national unique domain values',
   'Horned Clubtail': 'TAXON COMMON NAME',
-  'Horned Grebe': 'TAXON COMMON NAME',
-  'Horned Larks': 'TAXON COMMON NAME',
+  'Horned Grebe':
+    'ITIS Vernaculars - (Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=174482 ',
+  'Horned Larks':
+    'ITIS Vernaculars - (F Boie 1828)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=178400',
   'Horned Whiff': 'TAXON COMMON NAME',
   'Hornellia occidentalis':
     '(J L Barnard 1959)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=657105',
-  'Hornellia tequestae': 'STANDARDIZE NAME (Normalized)',
-  "Hornemann's willowherb":
-    'ITIS Vernaculars - (Rchb.) Common Name "Hornemann\'s willowherb" http://plants.usda.gov/core/profile?symbol=EPHO',
+  'Hornellia tequestae':
+    '(Thomas and J L Barnard 1986)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=657106',
+  "Hornemann's willowherb": 'TAXON COMMON NAME',
   "Hornemann's willowherb*":
     'ITIS Vernaculars - (Rchb.) Common Name "Hornemann\'s willowherb" http://plants.usda.gov/core/profile?symbol=EPHOH',
   "Hornemann's willowweed":
     'ITIS Vernaculars - (Rchb.) Common Name "Hornemann\'s willowherb" http://plants.usda.gov/core/profile?symbol=EPHO',
   'Hornemannia racemosa':
-    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
+    'ITIS Synonyms - (Vahl)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=23462',
   Hornera: '',
-  'Hornera (Lauraceae)':
-    '(Jungh)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=18159',
-  'Hornera (Stigmatoechidae)':
-    '(Lamouroux 1821)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155752',
-  'Hornera*': 'RETIRED NAME',
+  'Hornera (Lauraceae)': 'STANDARDIZE NAME (Normalized)',
+  'Hornera (Stigmatoechidae)': 'ITIS TAXON SERIAL NUMBER',
+  'Hornera*':
+    'ITIS Synonyms - (Lamouroux 1821)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155752',
   'Hornera***retired***use Hornera (Stigmatoechidae), Hornera (Lauraceae)':
-    '(Lamouroux 1821)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155752',
+    'STANDARDIZE NAME (Normalized)',
   'Hornera*1':
     'ITIS Synonyms - (Lamouroux 1821)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155752     ,Hornera (Stigmatoechidae)',
   'Hornyhead Turbot': 'TAXON COMMON NAME',
   'Horoloanthura irpex':
-    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
+    'ITIS Synonyms - (Menzies and Frankenberg, 1966)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=92168',
   'Horse cane': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
   'Horse nettle': 'en.wikipedia.org/wiki/List_of_plants_by_common_name',
   'Hosackia americana':
-    'ITIS Synonyms - (Rydb.) Common Name "littleleaf pussytoes" http://plants.usda.gov/core/profile?symbol=ANMI3',
+    'ITIS Synonyms - ((Nutt.) Piper)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514847',
   'Hosackia subpinnata':
     'ITIS Synonyms - (Nutt.) Common Name "small-leaf pussytoes" http://plants.usda.gov/core/profile?symbol=ANPA4',
   'Hosia spinulosa':
     'ITIS Synonyms - (Gray, 1847)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=992452',
   Hospilabrus:
-    'ITIS Synonyms - (Rydb.) Common Name "littleleaf pussytoes" http://plants.usda.gov/core/profile?symbol=ANMI3',
-  'Hospilabrus***retired***use Malapterus':
-    '(Whitley 1931)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613113',
+    'ITIS Synonyms - (Whitley, 1931)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613113',
+  'Hospilabrus***retired***use Malapterus': 'STANDARDIZE NAME (Normalized)',
   "Houghton's sedge":
     'ITIS Vernaculars - (Torr. ex Dewey) Common Name "Houghton\'s sedge" http://plants.usda.gov/core/profile?symbol=CAHO9',
   "Hoult's grinner":
     'ITIS Vernaculars - (McCulloch 1921)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=162406',
-  Hourstonius: 'STANDARDIZE NAME (Normalized)',
-  'Hourstonius laguna':
-    '(McKinney 1978)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656642',
+  Hourstonius:
+    '(P M Hoover and Bousfield 2001)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656468',
+  'Hourstonius laguna': 'STANDARDIZE NAME (Normalized)',
   'Hourstonius tortugae': 'table unique identifier',
   'Hourstonius vilordes':
     '(J L Barnard 1962)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656645',
   'Houstonia caerulea':
     'Common Name "azure bluet" http://plants.usda.gov/core/profile?symbol=HOCA4',
   'Houstonia caerulea var. faxonorum':
-    'ITIS Synonyms - (Pease & A.H. Moore)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=536246',
+    'ITIS Synonyms - (Greene) Common Name "field pussytoes" http://plants.usda.gov/core/profile?symbol=ANNE',
   'Houstonia parviflora':
     '(Holz. ex Greenm.) Common Name "Greenman\'s bluet" http://plants.usda.gov/core/profile?symbol=HOPA3',
   'Houstonia procumbens': 'STANDARDIZE NAME (Normalized)',
   'Houstonia rotundifolia':
-    'ITIS Synonyms - (Rydb.) Common Name "pearly pussytoes" http://plants.usda.gov/core/profile?symbol=ANAN2',
+    'ITIS Synonyms - (Michx.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514901',
   'Houstonia serpyllifolia':
     '(Michx.) Common Name "thymeleaf bluet" http://plants.usda.gov/core/profile?symbol=HOSE2',
   Howella:
     '(Ogilby 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168331',
-  'Howella brodiei': 'STANDARDIZE NAME (Normalized)',
+  'Howella brodiei':
+    '(Ogilby 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168332',
   'Howella brodiei atlantica':
-    'ITIS Synonyms - (Post and Qu?ro, 1991)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=641931',
+    'ITIS Synonyms - (Rydb.) Common Name "pearly pussytoes" http://plants.usda.gov/core/profile?symbol=ANAN2',
   'Howella sherborni':
     '(Norman 1930)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168333',
   'Huachuca panic':
@@ -133344,41 +133334,47 @@ export default {
     '(Hay 1881)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163875',
   'Opsopoeodus emiliae':
     '(Hay 1881)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163876',
-  Optioservus: 'STANDARDIZE NAME (Normalized)',
-  'Optioservus ampliatus':
-    'ITIS Synonyms - ((Fall, 1925))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114182',
+  'Optioservus ampliatus': 'RETIRED NAME',
   'Optioservus ampliatus***retired***use Optioservus ovalis':
-    '(Fall)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114182',
-  'Optioservus castanipennis': 'STANDARDIZE NAME (Normalized)',
+    'STANDARDIZE NAME (Normalized)',
+  'Optioservus castanipennis***retired***use Heterlimnius castanipennis':
+    '(Fall)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=193732',
   'Optioservus cryophilus':
     'ITIS Synonyms - ((Musgrave, 1932))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114183',
   'Optioservus cryophilus*': 'RETIRED NAME',
   'Optioservus cryophilus***retired***use Optioservus immunis':
-    '(Musgrave)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114183',
-  'Optioservus divergens': 'STANDARDIZE NAME (Normalized)',
-  'Optioservus elegans':
+    'STANDARDIZE NAME (Normalized)',
+  'Optioservus divergens***retired***use Heterlimnius divergens':
+    'STANDARDIZE NAME (Normalized)',
+  'Optioservus elegans***retired***use Heterlimnius elegans':
     '(LeConte, 1852)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1065305#null',
-  'Optioservus fastiditus': 'STANDARDIZE NAME (Normalized)',
-  'Optioservus immunis': 'STANDARDIZE NAME (Normalized)',
-  'Optioservus ovalis':
+  'Optioservus fastiditus***retired***use Heterlimnius fastiditus':
+    '(Leconte)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114190',
+  'Optioservus immunis***retired***use Heterlimnius immunis':
+    '(Fall)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114184',
+  'Optioservus ovalis***retired***use Heterlimnius ovalis':
     '(Leconte)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114185',
   'Optioservus ozarkensis':
-    'Optioservus ozarkensis***retired***use Optioservus sandersoni',
+    'ITIS Synonyms - (Collier, 1972)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114192',
   'Optioservus ozarkensis*': 'RETIRED NAME',
   'Optioservus ozarkensis***retired***use Optioservus sandersoni':
-    'STANDARDIZE NAME (Normalized)',
+    '(Collier 1972)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114192',
   'Optioservus pecosensis':
-    'ITIS Synonyms - ((Fall, 1907))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114191',
-  'Optioservus quadrimaculatus':
-    '(Horn)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114180',
-  'Optioservus sandersoni':
+    'ITIS Synonyms - (Cham. ex Steud.) Common Name "chamisso sedge" http://plants.usda.gov/core/profile?symbol=CAPA14',
+  'Optioservus quadrimaculatus***retired***use Heterlimnius quadrimaculatus':
+    'STANDARDIZE NAME (Normalized)',
+  'Optioservus sandersoni***retired***use Heterlimnius sandersoni':
     'Invertebrates,(Collier)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114189',
-  'Optioservus seriatus': 'STANDARDIZE NAME (Normalized)',
-  'Optioservus tardellus':
-    '(Fall 1925)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1065306#null',
-  'Optioservus trivittatus': 'STANDARDIZE NAME (Normalized)',
+  'Optioservus seriatus***retired***use Heterlimnius seriatus':
+    'STANDARDIZE NAME (Normalized)',
+  'Optioservus tardellus***retired***use Heterlimnius tardellus':
+    'STANDARDIZE NAME (Normalized)',
+  'Optioservus trivittatus***retired***use Heterlimnius trivittatus':
+    'STANDARDIZE NAME (Normalized)',
+  'Optioservus***retired***use Heterlimnius': 'STANDARDIZE NAME (Normalized)',
   Optivus: 'STANDARDIZE NAME (Normalized)',
-  'Optivus elongatus': 'STANDARDIZE NAME (Normalized)',
+  'Optivus elongatus':
+    '(Gunther 1859)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=622182',
   Opua: '(Jordan 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172006',
   'Opua nephodes':
     'ITIS Synonyms - (Jordan, 1925)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172007',

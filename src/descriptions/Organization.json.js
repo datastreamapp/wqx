@@ -438,6 +438,7 @@ export default {
   CAPECOD_REG_WQ: '',
   CAPECRD_WQX: 'Water Quality Monitoring Data',
   CARGILLMS_WQX: 'Cargill Meat Solutions (aka. Fort Morgan Beef Plant)',
+  CARIBREEF: '',
   CATAWBA: '(Tribal)',
   CATAWBARIVERKEEPER: 'Catawba Riverkeeper Foundation (CRF)',
   CA_BVR:
@@ -477,8 +478,7 @@ export default {
   CHATTAHOOCHEERIVERKEEPER: 'Chattahoochee Riverkeeper',
   CHEHALIS_WQX:
     'Confederated Tribes of the Chehalis Reservation (Tribal) || Confederated Tribes of the Chehalis Reservation (Tribal)',
-  CHEMEHUEVI_WQX:
-    'Chemehuevi Indian Tribe of the Chemehuevi Reservation, California (Tribal) || Chemehuevi Indian Tribe of the Chemehuevi Reservation, California (Tribal)',
+  CHEMEHUEVI_WQX: '',
   CHEROKEEMD: 'Colorado',
   CHEROKEE_WQX: 'Cherokee Nation (Tribal) || Cherokee Nation (Tribal)',
   CHESAPEAKBAYNERR: '',
