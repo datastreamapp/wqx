@@ -8,6 +8,8 @@ export default {
     "acid neutralizing capacity is a measure for the overall buffering capacity against acidification for a solution, e.g. surface water or soil water. ANC is defined dynamically as the amount of acid needed to change the pH value from the sample's value to a chosen different value.",
   'as Al':
     "Aluminium is a chemical element with the symbol Al and atomic number 13. It is a silvery-white, soft, non-magnetic and ductile metal in the boron group. By mass, aluminium makes up about 8% of the Earth's crust, where it is the third most abundant element and also the most abundant metal.",
+  'as Alloxanthin':
+    'Alloxanthin is a natural carotenoid pigment found in various algae and cryptomonads',
   'as As':
     "Arsenic is a naturally occurring element that is widely distributed in the Earth's crust. It is found in water, air, food, and soil.",
   'as Atrazine':
@@ -150,6 +152,8 @@ export default {
     'Achemical derivative of phosphoric acid. The phosphate ion (PO3/4) is an inorganic chemical, the conjugate base that can form many different salts.',
   'as PTSA':
     '1,3,6,8-Pyrenetetrasulfonic acid tetrasodium salt hydrate is a fluorescent probe and pH indicator. It fluoresces blue in acidic solutions and in acidic organelles but fluoresces green in more basic organelles. This compound is potentially useful as a coloring agent, biological stain, optical detecting reagent.',
+  'as Peridinin':
+    'Peridinin is a specialized light-harvesting carotenoid pigment found in photosynthetic dinoflagellates',
   'as Pheophytin a':
     'Pheophytin A belongs to the class of organic compounds known as chlorins. These are large heterocyclic aromatic ring systems consisting, at the core, of three pyrroles and one pyrroline coupled through four methine linkages.',
   'as Phycocyanin':

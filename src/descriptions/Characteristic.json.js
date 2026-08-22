@@ -5914,6 +5914,7 @@ export default {
   '2,2,4-Trimethylhexane': '',
   '2,2,4-Trimethylpentane': '; Request Date: 02-MAR-07',
   '2,2,5,5-Tetramethylhexane': '',
+  '2,2,5-Trimethyldecane': '',
   '2,2,5-Trimethylhexane': '',
   '2,2,6-Trimethylcyclohexanone': '; Request Date: 02-MAR-07',
   '2,2,7,7-Tetramethyloctane': '',

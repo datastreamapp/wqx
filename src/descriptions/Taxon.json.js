@@ -617,7 +617,7 @@ export default {
   'Acentrella lapponica':
     '(Bengtsson 1912)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568573#null',
   'Acentrella nadineae':
-    '(McCafferty Waltz and Webb 2009)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=776935',
+    '(McCafferty, Waltz and Webb, 2009)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=776935#null',
   'Acentrella parvula':
     '(McDunnough 1932)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609530',
   'Acentrella turbida':
@@ -2617,6 +2617,10 @@ export default {
     'FishList, (Bean, 1892)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=646960',
   Alloperla:
     '(Banks 1906)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103203',
+  'Alloperla atlantica':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103205#null',
+  'Alloperla imbecilla':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103204#null',
   'Alloperla serrata':
     '(Needham and Claassen 1925)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103231#null',
   'Alloperla usa':
@@ -3212,6 +3216,8 @@ export default {
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568544',
   Ameletus:
     '(Eaton 1885)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100996',
+  'Ameletus cryptostimulus':
+    '(Carle, 1978)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101016#null',
   'Ameletus lineatus':
     '(Traver 1932)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101009',
   'Ameletus ludens':
@@ -8001,6 +8007,8 @@ export default {
     '(Linnaeus 1767)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=660641#null',
   'Atergatis latissimus':
     '(H. Milne-Edwards 1834)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=209063',
+  'Athearnia crassa':
+    '(Haldeman, 1841)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1132642#null',
   Athenaria:
     '(Carlgren 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=52486',
   'Atheresthes evermanni***retired***use Reinhardtius evermanni':
@@ -8637,6 +8645,8 @@ export default {
     '(Stimpson 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=97710',
   'Axonopsidae***retired***use Aturidae':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=83434',
+  Axonopsis:
+    '(Piersig, 1893)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=83439#null',
   'Axonopus furcatus':
     '((Fluegge) Hitchc.) Common Name "big carpetgrass" http://plants.usda.gov/core/profile?symbol=AXFU',
   Aythya:
@@ -12911,6 +12921,8 @@ export default {
     '(Schuster, 1973)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=97344#null',
   'Cambarus bouchardi':
     '(Hobbs, 1970)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=97345#null',
+  'Cambarus brachydactylus':
+    '(Hobbs, 1953)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=97346#null',
   'Cambarus buntingi':
     '(R. W. Bouchard, 1973)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=97347#null',
   'Cambarus callainus':
@@ -15121,6 +15133,8 @@ export default {
     '(Eaton 1869)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100873',
   'Centroptilum alamance':
     '(Traver 1932)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568593',
+  'Centroptilum ozarkensum':
+    '(Wiersema and Burian, 2000)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609549#null',
   'Centroptilum triangulifer':
     '(McDunnough 1931)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609550',
   Centropyge:
@@ -19679,6 +19693,7 @@ export default {
   'Cladotanytarsus acornutus': 'http://eol.org/pages/7587015/overview',
   'Cladotanytarsus atridorsum':
     '(Kieffer 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=553078',
+  'Cladotanytarsus daviesi': 'https://johnepler.com/Tanytarsini%202014.pdf',
   'Cladotanytarsus dispersopilosus':
     '(Goetg)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129879',
   'Cladotanytarsus mancus':
@@ -22025,6 +22040,8 @@ export default {
   'Corynoneura coronata': 'http://eol.org/pages/3537529/overview',
   'Corynoneura doriceni':
     'Fu Yue & Ole Saether. 2012. Corynoneura Winnertz and Thienemanniella Kieffer from the Nearctic Region. Zootaxa 3536:1-61.   (Makarchenko & Makarchenko 2006)~https://www.gbif.org/species/1452284',
+  'Corynoneura lacustris':
+    '(Edw.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128573#null',
   'Corynoneura lobata':
     '(Edwards 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=128567',
   'Corynoneura scutellata':
@@ -28905,6 +28922,8 @@ export default {
     '(Bloch 1792)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171919',
   Dorocordulia:
     '(Needham 1901)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101854',
+  'Dorocordulia lepida':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101855#null',
   'Dorocordulia libera':
     '((Selys, 1871))~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101856',
   Doroneuria:
@@ -30078,6 +30097,8 @@ export default {
     '(Lea, 1831)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71655',
   'Elimia catenaria':
     'Invertebrates,((Say))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71711',
+  'Elimia christyi':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1132648#null',
   'Elimia clavaeformis':
     '(I. Lea 1841)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71722',
   'Elimia costifera':
@@ -30092,6 +30113,8 @@ export default {
     '(I Lea 1841)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71755',
   'Elimia edgariana':
     '(I Lea 1841)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71757',
+  'Elimia interrupta':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71769#null',
   'Elimia laqueata':
     '(Say 1829)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=71773',
   'Elimia livescens':
@@ -31233,6 +31256,8 @@ export default {
     '(Banks 1910)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100642',
   'Epeorus pleuralis group':
     'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100626',
+  'Epeorus punctatus':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100662#null',
   'Epeorus subpallidus':
     '(Traver 1937)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100646',
   'Epeorus vitreus':
@@ -40875,6 +40900,8 @@ export default {
     '(Banks 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101126',
   'Habrophlebiodes brunneipennis':
     'Invertebrates,(Berner)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101124',
+  'Habrophlebiodes celeteria':
+    '(Berner, 1975)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101125#null',
   'Habrostomus***retired***use Labeo':
     '(Agassiz 1846)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=203361',
   Habrotrocha:
@@ -42210,6 +42237,8 @@ export default {
     'Invertebrates,(Ross)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117033',
   'Helicopsyche mexicana':
     'Invertebrates,(Banks)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117023',
+  'Helicopsyche paralimnella':
+    'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=604253#null',
   'Helicopsyche piora':
     '(Ross 1944)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=117024',
   'Helicopsyche piroa':
@@ -47071,6 +47100,8 @@ export default {
     '(Ricker 1952)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568754',
   'Isogenoides olivaceus':
     '(Walker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103127',
+  'Isogenoides varians':
+    '(Walsh, 1862)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103132#null',
   'Isogenoides zionensis':
     '(Hanson 1949)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103133',
   Isogenus:
@@ -47121,6 +47152,8 @@ export default {
     '((Newman 1839))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103120',
   'Isoperla cotta':
     '(Ricker 1952)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103014',
+  'Isoperla davisi':
+    '(James, 1974)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103052#null',
   'Isoperla decepta':
     '(Frison 1935)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=103053',
   'Isoperla denningi':
@@ -47281,6 +47314,8 @@ export default {
     '(McCafferty and Webb 2005)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=776928',
   'Iswaeon anoka':
     '(Daggy 1945)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=776948',
+  'Iswaeon davidi':
+    '(Waltz and McCafferty, 2005)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=776949#null',
   'Itea virginica':
     'Common Name "Virginia sweetspire" http://plants.usda.gov/core/profile?symbol=ITVI',
   Ithytrichia:
@@ -51780,6 +51815,8 @@ export default {
     '(Say 1823)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101153',
   'Leptophlebia intermedia':
     'Invertebrates,((Traver))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101161',
+  'Leptophlebia johnsoni':
+    '(McDunnough, 1924)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101163#null',
   'Leptophlebia nebulosa':
     '(Walker 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101165',
   'Leptophlebia/Paraleptophlebia':
@@ -55296,6 +55333,8 @@ export default {
     'Invertebrates,(Walsh)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=593455',
   'Macromia magnifica':
     '(McLachlan in Selys 1874)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=206628',
+  'Macromia margarita':
+    '(Westfall, 1947)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101925#null',
   'Macromia pacifica':
     '(Hagen 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101923',
   'Macromia taeniolata':
@@ -57630,6 +57669,8 @@ export default {
     '(McLachlan 1876)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116969',
   'Micrasema kluane':
     '(Ross and Morse 1973)~See attached Micrasema key pages 37 and 135: Chapin Jay Willard ProQuest Dissertations and Theses; 1978',
+  'Micrasema rickeri':
+    '(Ross & Unzicker, 1965)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116965#null',
   'Micrasema rusticum':
     '(Hagen 1868)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116961',
   'Micrasema rusticum group':
@@ -62684,6 +62725,8 @@ export default {
     '(McDunnough 1925)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101461',
   'Neoephemera bicolor':
     'Invertebrates,(McDunnough)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101466',
+  'Neoephemera compressa':
+    '(Berner, 1956)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101463#null',
   'Neoephemera purpurea':
     'Invertebrates,((Traver))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101464',
   'Neoephemera youngi':
@@ -62961,6 +63004,8 @@ export default {
     '(Vineyard & Wiggins 1987)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=605868',
   'Neophylax fuscus':
     '(Banks 1903)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116049',
+  'Neophylax lewisae':
+    'https://www.biodiversitylibrary.org/page/30254110#page/696/mode/1up',
   'Neophylax mitchelli':
     '(Carpenter 1933)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116050',
   'Neophylax nacatus': 'http://eol.org/pages/607861/overview',
@@ -62972,6 +63017,8 @@ export default {
     '(Banks 1920)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116052',
   'Neophylax rickeri':
     '(Milne 1935)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116054',
+  'Neophylax securis':
+    '(Vineyard & Wiggins, 1987)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=605876#null',
   'Neophylax splendens':
     '(Denning 1948)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116063',
   'Neophylax stolus':
@@ -63655,6 +63702,8 @@ export default {
     '(Kieffer)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129548',
   'Nilothauma babiyi':
     '(Rempel 1937)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129549',
+  'Nilothauma bicorne':
+    '(Townes, 1945)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129551#null',
   Nimbocera:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129932',
   'Nimbocera limnetica***retired***use Nimbocera pinderi':
@@ -69313,6 +69362,8 @@ export default {
     '(Banks 1905)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102967',
   'Paragnetina media':
     '(Walker 1852)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102968',
+  'Paragnetina ichusa':
+    '(Stark and Szczytko, 1981)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=102970#null',
   Paragobiodon:
     '(Bleeker 1873)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=171999',
   'Paragobiodon echinocephalus':
@@ -69485,6 +69536,12 @@ export default {
     '(McDunnough 1926)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101226',
   'Paraleptophlebia volitans':
     '(McDunnough 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101199',
+  'Paraleptophlebia georgiana':
+    '(Traver, 1934)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101210#null',
+  'Paraleptophlebia jeanae':
+    '(Berner, 1955)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=101213#null',
+  'Paraleptophlebia kirchneri':
+    '(Kondratieff and Durfee, 1994)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=609650#null',
   'Paraleptosphaeroma glynni':
     '(Buss & Iverson 1981)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=546081',
   'Paraleptuca crassipes':
@@ -71059,6 +71116,8 @@ export default {
     'Invertebrates,((LeConte))~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=111934',
   'Peltodytes tortulosus':
     '(Roberts 1913)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=111939',
+  'Peltodytes bradleyi':
+    '(Young, 1961)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=111924#null',
   Peltogaster:
     '(Rathke 1842)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=89743',
   Peltoperla:
@@ -80603,6 +80662,8 @@ export default {
     '(Ross 1944)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116500',
   'Psilotreta rufa':
     '(Hagen 1861)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116501',
+  'Psilotreta rossi':
+    '(Wallace, 1970)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116510#null',
   Psilotris:
     '(Ginsburg 1953)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172208',
   'Psilotris alepis':
@@ -82890,6 +82951,8 @@ export default {
     '(Traver 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100593',
   'Rhithrogena undulata':
     '(Banks 1924)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100591',
+  'Rhithrogena fuscifrons':
+    '(Traver, 1933)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=100595#null',
   Rhithropanopeus:
     '(Rathbun 1898)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=98789',
   'Rhithropanopeus harrisii':
@@ -83226,6 +83289,7 @@ export default {
     'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115097',
   'Rhyacophila carpenteri':
     '(Milne 1936)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115161',
+  'Rhyacophila celadon': 'https://pubs.usgs.gov/publication/70027258',
   'Rhyacophila chilsia':
     '(Denning 1950)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115168',
   'Rhyacophila coloradensis':
@@ -83362,6 +83426,8 @@ export default {
     'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115097',
   'Rhyacophila vuzana':
     'Invertebrates,(Milne)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115154',
+  'Rhyacophila banksi':
+    '(Ross, 1944)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115130#null',
   Rhyacophilidae:
     '(Stephens 1836)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=115096',
   'Rhyacotriton kezeri':
@@ -91740,6 +91806,7 @@ export default {
     'http://home.comcast.net/ ~ johnepler3/SEMidges.pdf',
   Stempellinella:
     '(Brundin)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129969',
+  'Stempellinella boltoni': 'https://johnepler.com/Tanytarsini%202014.pdf',
   'Stempellinella fimbriata': 'http://eol.org/pages/7584641/overview',
   'Stempellinella leptocelloides':
     'Epler 2001. Ekrem 2007. A taxonomic revision of the genus Stempellinella (Diptera: Chironomidae). J. Nat. Hist. 4:1367-1465.',
@@ -94736,10 +94803,14 @@ export default {
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=130030',
   'Tanytarsus guerlus':
     '(Roback 1957)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129997',
+  'Tanytarsus hastatus': 'https://johnepler.com/Tanytarsini%202014.pdf',
   'Tanytarsus limneticus':
     'Invertebrates,(Sublette)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=130002',
+  'Tanytarsus martini': 'https://johnepler.com/Tanytarsini%202014.pdf',
   'Tanytarsus mendax group':
     'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129978',
+  'Tanytarsus messersmithi': 'https://johnepler.com/Tanytarsini%202014.pdf',
+  'Tanytarsus pelsuei': 'https://johnepler.com/Tanytarsini%202014.pdf',
   'Tanytarsus sepp':
     'http://www.catalogueoflife.org/col/details/species/id/d02f7ccf0ab577c935dd5e0a095784bc',
   'Tanytarsus sp. C':
@@ -97495,6 +97566,8 @@ export default {
     '(Milne 1934)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116580',
   'Triaenodes/Ylodes':
     'Invertebrates,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=555649',
+  'Triaenodes taenius':
+    '(Ross, 1938)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=116579#null',
   Triaenodon:
     '(Muller and Henle 1837)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=160452',
   'Triaenodon apicalis***retired***use Triaenodon obesus':
@@ -99644,6 +99717,8 @@ export default {
     '(Brinkhurst and Katham 1938)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68815',
   'Varichaetadrilus harmani':
     '(Loden, 1979)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=974793#null',
+  'Varichaetadrilus psammophilus':
+    '(Loden, 1977)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68817#null',
   'Varicorbula limatula':
     'http://www.marinespecies.org/aphia.php?p=taxdetails&id=549664',
   'Varicorbula operculata':

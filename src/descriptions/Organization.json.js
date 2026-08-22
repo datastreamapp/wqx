@@ -12,6 +12,8 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
+  '***RENAMED***ESTOO':
+    'Eastern Shawnee Tribe of Oklahoma (Tribal) || Eastern Shawnee Tribe of Oklahoma (Tribal)',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -363,6 +365,7 @@ export default {
   BCHMI_WQX: 'Beaches Program Data',
   BCUTAHLAB: 'Brigham City Laboratory',
   BEAR_CRK_WQX: 'Water Quality Data',
+  BENTONPAIUTE_WQX: '',
   BENTON_SWCD: '',
   BERGERGROUP: '',
   BERNCO_WQX: '',
@@ -452,6 +455,8 @@ export default {
   CCAMP_WQX: 'Water Quality Data',
   CCC: '',
   'CCCE-WHSE': 'Cape Cod Cooperative Extension/Woods Hole Sea Grant',
+  CCDPED: '',
+  'CCE-SUFFOLK-MARINE': '',
   CCPD_WQX: 'Cayuga County Department of Planning and Economic Development',
   CCS: 'https://coastalstudies.org/',
   CCSCD: '',
@@ -533,6 +538,8 @@ export default {
   CNEPWATERPROGRAM: '',
   CNWQD: 'Comanche Nation Water Quality Department',
   COASTALAMERICAFOUNDATION: '',
+  COA_WQX:
+    'Non-Profit organization in Long Branch, New Jersey mission to protect the ocean, coast, and waterways',
   COCHITIPUEBLO:
     'Pueblo of Cochiti, New Mexico (Tribal) || Pueblo of Cochiti, New Mexico (Tribal)',
   COCOPAH_INDIAN:
@@ -697,8 +704,6 @@ export default {
   ERWSCC_WQX: '',
   ERWSD: 'Eagle River Water and Sanitation District',
   ESATR08_WQX: 'TechLaw/USEPA ESAT R08 Water Quality Data',
-  ESTOO:
-    'Eastern Shawnee Tribe of Oklahoma (Tribal) || Eastern Shawnee Tribe of Oklahoma (Tribal)',
   ESTO_WQX: '',
   ETEC: '',
   EVR: 'EVR Operations Limited formerly Teck American Incorporated',
@@ -792,6 +797,7 @@ export default {
   HAWRIVER03030002: 'Haw River Assembly',
   HAYWOOD_WQX: '',
   HBMI_WQX: ' (Tribal)',
+  HCCC: '',
   HDRINC_WQX: '',
   HEDINENV_WQX: '',
   HEMPSTEAD_BAY_WQMP: '',
@@ -1197,7 +1203,7 @@ export default {
     'Oklahoma Water Resources Board Streams and Rivers Monitoring',
   OKWRB_WQX: 'Water Quality',
   OLMS: "Non-profit dedicated to the protection of Ohio's lakes and their watershed",
-  ONEIDA_WQX: 'Oneida Nation',
+  ONEIDA_WQX: '',
   ONEWATERCONSULTINGNJ_WQX: '',
   OOPBLO: 'Pueblo of Ohkay Owingeh, New Mexico',
   ORACWA_WQX: '',
@@ -1516,7 +1522,7 @@ export default {
   STORLVD_WQX: 'Water Quality Monitoring Data',
   STROUD_WQX: 'Water Quality Monitoring Data',
   STS: 'The mission of Save the Sound is to protect and improve the land, air, and water of the whole Long Island Sound region.',
-  ST_CROIX_WQX:
+  'ST_CROIX_WQX***RENAMED***':
     'St. Croix Chippewa Indians of Wisconsin (Tribal) || St. Croix Chippewa Indians of Wisconsin (Tribal)',
   SUMFS: 'Stockton University Marine Field Station',
   SUMMITLAKETRIBE: 'summitlaketribe.org',
