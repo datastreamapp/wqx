@@ -1369,6 +1369,7 @@ export default {
     'USFS0614_WQX',
     'USFSEASTERN',
     'USFSPRESCOTT',
+    'USFSRIOGRANDE',
     'USFSWHITEMT',
     'USFWS_ALASKA',
     'USFWS_NM_WQX',

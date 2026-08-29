@@ -2639,6 +2639,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '1,1,2,3,4,5,6-Heptafluoro-2,4-bis(trifluoromethyl)cyclohexane':
     'PFAS,Perfluorinated Alkyl Substance',
+  '1,1,2,3-Tetramethylcyclohexane': 'Not Assigned',
   '1,1,2,7,8,8-Hexachloro-1,2,3,4,4,5,5,6,8-nonafluorooctane':
     'PFAS,Perfluorinated Alkyl Substance',
   '1,1,2-TRIBROMOPENTAFLUOROCYCLOBUTANE': 'PFAS,Perfluorinated Alkyl Substance',
@@ -2762,6 +2763,7 @@ export default {
   '1,1-Dimethyl-2-[(1E)-3-methylbuta-1,3-dienyl]cyclopropane': 'Not Assigned',
   '1,1-Dimethyl-2-octylcyclobutane': 'Not Assigned',
   '1,1-Dimethylbiguanide': 'Organics, Other',
+  '1,1-Dimethylcyclohexane': 'Not Assigned',
   '1,1-Dimethylcyclopentane': 'Not Assigned',
   '1,1-Dimethylcyclopropane': 'Not Assigned',
   '1,1-Dimethylhydrazine': 'Not Assigned',
@@ -7695,6 +7697,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2,2,3,3-Tetrafluorothiolane 1,1-dioxide':
     'PFAS,Perfluorinated Alkyl Substance',
+  '2,2,3,3-Tetramethylbutane': 'Not Assigned',
   '2,2,3,4,4,4-Hexafluoro-3-(trifluoromethyl)butan-1-ol':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,2,3,4,4,4-Hexafluorobutanal': 'PFAS,Perfluorinated Alkyl Substance',
@@ -12714,6 +12717,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Ethyl-2-methylheptane': 'Not Assigned',
   '3-Ethyl-3-hexene': 'Not Assigned',
+  '3-Ethyl-3-methylheptane': 'Not Assigned',
   '3-Ethyl-7,8,8,9,9,10,10,11,11,12,12,13,13,13-tetradecafluorotridec-6-en-6-yl phosphate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-Ethylcyclopentene': 'Not Assigned',
@@ -19710,9 +19714,11 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclododecanemathanol, alpha,alpha-bis(trifluoromethyl)-2-hydroxy-, (Z)-':
     'PFAS,Perfluorinated Alkyl Substance',
+  Cyclododecanemethanol: 'Not Assigned',
   'Cyclohept-1-en-1-yl nonafluorobutane-1-sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
   'Cyclohept-3-en-1-one': 'Not Assigned',
+  Cycloheptane: 'Not Assigned',
   'Cycloheptane, tetradecafluoro-': 'PFAS,Perfluorinated Alkyl Substance',
   'Cyclohex-1-en-1-yl nonafluorobutane-1-sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -22979,6 +22985,7 @@ export default {
   'Hilsenhoff Biotic Index': 'Physical',
   'Hind Femur Length': 'Biological',
   'Hindwing Length': 'Biological',
+  'HoF-purified-qPCR': 'Not Assigned',
   'HoF597 DNA marker': 'Microbiological',
   Holmium: 'Inorganics, Minor, Metals',
   'Holmium, tris(6,6,7,7,8,8,8-heptafluoro-2,2-dimethyl-3,5-octanedionato-.beta.O3,.beta.O5)-':
@@ -34404,6 +34411,7 @@ export default {
   'trans-2-Phenyl-2-butene': 'Not Assigned',
   'trans-3-Hexene': 'Not Assigned',
   'trans-4-Methyl-2-pentene': 'Not Assigned',
+  'trans-5-Decene': 'Not Assigned',
   'trans-Chlordane': 'Organics, Pesticide',
   'trans-Cinnamic acid': 'Not Assigned',
   'trans-Crotonaldehyde': 'Not Assigned',

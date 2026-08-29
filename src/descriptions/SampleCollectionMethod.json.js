@@ -115,6 +115,7 @@ export default {
     'https://www.nemi.gov/methods/method_summary/12238/',
   'NAWQA Phytoplankton (APHY)':
     'https://www.nemi.gov/methods/method_summary/12240/',
+  'NJ_Tier3.1_Hab-Bio': 'https://njwatershedwatch.org/resources/bioassessment/',
   'NRSA Fecal 2009 (Boat)':
     'https://www.nemi.gov/methods/method_summary/12555/',
   'NRSA Fecal 2009 (Wade)':

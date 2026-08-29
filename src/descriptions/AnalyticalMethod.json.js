@@ -139,7 +139,7 @@ export default {
   1007: '',
   1008: '',
   1009: '',
-  1010: '',
+  1010: 'https://www.epa.gov/hw-sw846/sw-846-test-method-1010a-test-methods-flash-point-pensky-martens-closed-cup-tester',
   1011: '',
   1012: '',
   1013: '',
@@ -779,6 +779,7 @@ export default {
   7000301:
     '7000301 ~ MWI . PCP (pentachlorophenol) in soils/sediment by immunoassay',
   7061301: '7061301 ~ MWI . PAH in soils/sediment by immunoassay',
+  '***RENAMED_4500NC': '',
   '00-01': '',
   '00-02': '',
   '00-03': '',
@@ -877,6 +878,7 @@ export default {
   '10200-H': '',
   '10200-I': '',
   '10200-J': '',
+  '10200H': '',
   '10200H(2)': '',
   '10200H(3)': '',
   '1020A': '',
@@ -916,7 +918,7 @@ export default {
   130.1: '130.1 ~ EPA-NERL . Total Hardness by Spectrophotometer',
   130.11:
     '130.11 ~ NOAA NST . Organic contaminants in marine animal tissues by GC-ECD',
-  130.2: '130.2 ~ NOAA NST . Dioxins and Furans in marine sediments by GC-MS',
+  130.2: '130.2 ~ EPA-NERL . Total Hardness of Water by Titrimetry',
   130.21:
     '130.21 ~ NOAA NST . Dioxins and Furans in marine bivalve tissues by GC-MS',
   130.3: '130.3 ~ NOAA NST . Organic contaminants in marine sediments by GC-MS',
@@ -1146,9 +1148,10 @@ export default {
   '2310 B': '',
   '2320 B': '',
   '2320-B': '2320B ~ Standard Methods . Alkalinity by Titration',
+  '2320B': '',
   '2330-B': '',
   '2340-B': 'https://lams.nelac-institute.org/TestMethodDetails?code=20046440',
-  '2340B': '2340B ~ Standard Methods . Hardness in Water by EDTA Titration',
+  '2340B': '',
   '2340C': '',
   235.1: '235.1 ~ EPA-NERL . Iridium by Flame AA',
   235.2: '235.2 ~ EPA-NERL . Iridium by Graphite Furnace AA',
@@ -1829,7 +1832,8 @@ export default {
   '4500-P F***retired*** 4500-P-F': 'DO NOT USE ~ ',
   '4500-P-C': '',
   '4500-P-D': '',
-  '4500-P-E': '4500-P E ~ Standard Methods . Phosphorus by Ascorbic Acid',
+  '4500-P-E':
+    'Not current version URL: https://www.nemi.gov/methods/method_summary/7436/',
   '4500-P-F': '',
   '4500-P-G': 'https://www.standardmethods.org/doi/10.2105/SMWW.2882.093',
   '4500-P-H': '',
@@ -1842,8 +1846,7 @@ export default {
   '4500-S-2 F***.retired***4500-S2(F)':
     '4500-S-2 F ~ Standard Methods . Sulfide in Water by Iodometric Method',
   '4500-S2 F***retired*** 4500-S2(F)': 'DO NOT USE ~ ',
-  '4500-S2(D)':
-    'Not current version URL: https://www.nemi.gov/methods/method_summary/7418/',
+  '4500-S2(D)': '4500-S2- D ~ Standard Methods . Sulfide by Methylene Blue',
   '4500-S2(E)': '',
   '4500-S2(F)': '4500-S2- F ~ Standard Methods . Sulfide by Iodometry',
   '4500-S2(G)':
@@ -1885,6 +1888,11 @@ export default {
     '4500-SO42- D ~ Standard Methods . Sulfate in Water by Gravimetry with Drying of Residue',
   '4500-SO42-D***use 4500-SO42- D': 'DO NOT USE ~ ',
   '4500-SiO2 F***retired* 4500-SIO2(F)': 'DO NOT USE ~ ',
+  '4500CLC': '',
+  '4500N03F': '',
+  '4500NH3H': '',
+  '4500PF': '',
+  '4500SO4E': '',
   '4D3': 'https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb1253872.pdf',
   '4D5': 'https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb1253872.pdf',
   5.6: '',

@@ -1777,6 +1777,7 @@ export default {
   '1,1,2,3,4,5,5,5-Octafluoro-1-iodo-4-(trifluoromethyl)-2-pentene': '',
   '1,1,2,3,4,5,5,5-Octafluoro-3-pentene-1-sulfonic acid': '',
   '1,1,2,3,4,5,6-Heptafluoro-2,4-bis(trifluoromethyl)cyclohexane': '',
+  '1,1,2,3-Tetramethylcyclohexane': '',
   '1,1,2,7,8,8-Hexachloro-1,2,3,4,4,5,5,6,8-nonafluorooctane': '',
   '1,1,2-TRIBROMOPENTAFLUOROCYCLOBUTANE': '',
   '1,1,2-Tribromo-1-(nonafluorobutyl)ethane': '',
@@ -1868,6 +1869,7 @@ export default {
   '1,1-Dimethyl-2-octylcyclobutane': '; Request Date: 02-MAR-07',
   '1,1-Dimethylbiguanide***retired***use Metformin':
     'Request Date: 6-Dec-12 (nps.gov cas# review)',
+  '1,1-Dimethylcyclohexane': '',
   '1,1-Dimethylcyclopentane': '; Request Date: 23-APR-15',
   '1,1-Dimethylcyclopropane': '; Request Date: 02-MAR-07',
   '1,1-Dimethylhydrazine': '',
@@ -5845,6 +5847,7 @@ export default {
   '2,2,3,3-Tetrafluoroputrescine': '',
   '2,2,3,3-Tetrafluorospiro[3.5]nonan-1-one': '',
   '2,2,3,3-Tetrafluorothiolane 1,1-dioxide': '',
+  '2,2,3,3-Tetramethylbutane': '',
   '2,2,3,4,4,4-Hexafluoro-3-(trifluoromethyl)butan-1-ol': '',
   '2,2,3,4,4,4-Hexafluorobutanal': '',
   '2,2,3,4,4,4-Hexafluorobutyl nonafluorobutane-1-sulfonate': '',
@@ -9882,6 +9885,7 @@ export default {
   '3-Ethenyl-1,2,2-trifluoro-1-(trifluoromethyl)cyclobutane': '',
   '3-Ethyl-2-methylheptane': 'Minnesota IT Services at MPCA ',
   '3-Ethyl-3-hexene': '',
+  '3-Ethyl-3-methylheptane': '',
   '3-Ethyl-7,8,8,9,9,10,10,11,11,12,12,13,13,13-tetradecafluorotridec-6-en-6-yl phosphate':
     '',
   '3-Ethylcyclopentene': 'Minnesota IT Services at MPCA ',
@@ -16078,8 +16082,10 @@ export default {
   'Cyclododecane, [2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-': '',
   'Cyclododecanemathanol, alpha,alpha-bis(trifluoromethyl)-2-hydroxy-, (Z)-':
     '',
+  Cyclododecanemethanol: '',
   'Cyclohept-1-en-1-yl nonafluorobutane-1-sulfonate': '',
   'Cyclohept-3-en-1-one': 'Minnesota IT Services at MPCA ',
+  Cycloheptane: '',
   'Cycloheptane, tetradecafluoro-': '',
   'Cyclohex-1-en-1-yl nonafluorobutane-1-sulfonate': '',
   'Cyclohexa-2,5-diene-1,4-dione;2-methylbenzene-1,4-diol': '',
@@ -19188,6 +19194,8 @@ export default {
   'Hilsenhoff Biotic Index': '; Request Date: 02-MAR-07',
   'Hind Femur Length': '',
   'Hindwing Length': '',
+  'HoF-purified-qPCR':
+    'Horse-Associated Bacteroidales Hof597 Marker in Water by Quantitative Polymerase Chain Reaction (qPCR) Assay',
   'HoF597 DNA marker':
     'Horse-Associated Bacteroidales Hof597 Marker in Water by Quantitative Polymerase Chain Reaction (qPCR) Assay.',
   Holmium: '; Request Date: 22-JUL-14',
@@ -30315,6 +30323,7 @@ export default {
   'trans-2-Phenyl-2-butene': '; Request Date: 02-MAR-07',
   'trans-3-Hexene': 'https://pubchem.ncbi.nlm.nih.gov/compound/638066',
   'trans-4-Methyl-2-pentene': '',
+  'trans-5-Decene': '',
   'trans-Chlordane': 'Nemi.gov; Request Date: 02-MAR-07',
   'trans-Cinnamic acid': '; Request Date: 08-APR-19',
   'trans-Crotonaldehyde': 'Nemi.gov; Request Date: 23-SEP-19',

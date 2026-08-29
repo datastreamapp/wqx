@@ -451,11 +451,12 @@ export default {
   'pCi/mL': 'Density, Picocuries per milliliter',
   'pct modern': '()Concentration Percentage, Percent modern',
   'per cm':
-    'Concentration Solution, Inverse centimeters or per centimeters or cm-1',
-  'per day': '()Time, Inverse days or per day',
-  'per m': 'Inverse meter or per meter or m-1',
-  'per mil': 'Concentration Percentage, Parts per thousand (per mille)',
-  'per nm': 'Inverse nanometers or per nanometers or nm-1',
+    'Concentration Solution, Inverse centimeters or per centimeters or cm-1 or 1/cm',
+  'per day': '()Time, Inverse days or per day or 1/day',
+  'per m': 'Inverse meter or per meter or m-1 or 1/m',
+  'per mil':
+    'Concentration Percentage, Parts per thousand (per mille) or 1/mil',
+  'per nm': 'Inverse nanometers or per nanometers or nm-1 or 1/nm',
   'pfu/100L': '()Concentration Solution, Plaque Forming Units per 100 liters',
   'pfu/100mL':
     '()Concentration Solution, Plaque Forming Units per 100 milliliters',
