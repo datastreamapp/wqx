@@ -613,7 +613,8 @@ export default {
     'S15',
     'S16',
     'S17',
-    'S18'
+    'S18',
+    'TBD'
   ],
   maxLength: 3
 }

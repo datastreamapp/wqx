@@ -1796,6 +1796,7 @@ export default {
   '1,1,2-Trifluoro-2-chloro-3-methyl-3-vinylcyclobutane': '',
   '1,1,2-Trifluorotrinitroethane': '',
   '1,1,2-Trimethyl-3-methylidenecyclopropane': 'Minnesota IT Services at MPCA ',
+  '1,1,2-Trimethylcyclohexane': '',
   '1,1,2-Trimethylcyclopentane': '',
   '1,1,3,3,4,4,4-Heptafluorobutan-2-one': '',
   '1,1,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-Hexadecafluoro-2-(trifluoromethyl)decahydroisoquinoline':
@@ -2934,6 +2935,7 @@ export default {
   '1-(Heptafluoropropyl)isoquinoline': '',
   '1-(Hexyloxy)-3-methylhexane':
     'https://pubchem.ncbi.nlm.nih.gov/compound/537316',
+  '1-(Hexyloxy)-5-methylhexane': '',
   '1-(Hydroxymethyl)-2-[(perfluorohexyl)ethoxy]ethyl 2-propenoate': '',
   '1-(Methylamino)-3-(perfluorobutyl)propan-2-ol': '',
   '1-(Methylamino)-3-(perfluorodecyl)propan-2-ol': '',
@@ -3461,6 +3463,7 @@ export default {
     '',
   '1-Fluoro-4-[1,1,2,2,3,3,4,4-octafluoro-4-(4-fluorophenyl)sulfanylbutyl]sulfanylbenzene':
     '',
+  '1-Fluorododecane': '',
   '1-Fluorohexane': '',
   '1-H-Perflurodecane': '',
   '1-Heptadecanol': '; Request Date: 02-MAR-07',
@@ -3628,6 +3631,7 @@ export default {
     '',
   '1-Hexene, 5,5,6,6-tetrafluoro-3-iodo-': '',
   '1-Hexene, 6-chloro-3,3,4,4,5,5,6,6-octafluoro-': '',
+  '1-Hexyl-3-methylcyclopentane': '',
   '1-Hydroperfluoroheptane': '',
   '1-Hydroxy-10:2 fluorotelomer sulfonic acid': '',
   '1-Hydroxy-11:2 fluorotelomer sulfonic acid': '',
@@ -4342,6 +4346,7 @@ export default {
   '1-Propene, 1-ethoxy-1,3,3,3-tetrafluoro-2-(trifluoromethyl)-': '',
   '1-Propene, 2,3,3,3-tetrafluoro-': '',
   '1-Propene, 2,3,3,3-tetrafluoro-1-iodo-': '',
+  '1-Propene, 2-methyl-, tetramer': '',
   '1-Propene, 2-methyl-3-(1,1,2,2-tetrafluoroethoxy)-': '',
   "1-Propene, 3,3'-oxybis-": '',
   '1-Propene, 3,3,3-trifluoro-2-(trifluoromethyl)-, polymer with 1-chloro-1,2,2-trifluoroethene and ethene':
@@ -4365,6 +4370,7 @@ export default {
     '',
   '1-Tailed Critical (H)': '; Request Date: 20-SEP-11',
   '1-Tailed Critical (W)': '; Request Date: 20-SEP-11',
+  '1-Tetracosanol': '',
   '1-Tetradecanaminium, N-(carboxymethyl)-3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-tetracosafluoro-N,N-dimethyl-, inner salt':
     '',
   '1-Tetradecanaminium, N-(carboxymethyl)-4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-tricosafluoro-N,N-dimeth':
@@ -5023,7 +5029,7 @@ export default {
   "2,2',3,3',4,4',5,6-Octachlorobiphenyl":
     'PCB Congener; Request Date: 02-MAR-07',
   "2,2',3,3',4,4',5,6-Octachorobiphenyl":
-    'Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)| 52663-78-2\n',
+    'Request Date: 24-Sep-19 Nemi.gov (nps.gov cas# review)',
   "2,2',3,3',4,4',5-Heptabromodiphenyl ether***retired***use BDE-170":
     'Request Date: 31-Jan-15 (nps.gov cas# review)',
   "2,2',3,3',4,4',5-Heptachlorobiphenyl": 'Nemi.gov; Request Date: 22-JUL-14',
@@ -5913,6 +5919,7 @@ export default {
   '2,2,4,5-Tetrafluoro-3,5-bis(trifluoromethyl)-2,5-dihydrofuran': '',
   '2,2,4,5-Tetrafluoro-4-(trifluoromethyl)thiolane 1,1-dioxide': '',
   '2,2,4,6,6-Pentamethylheptane': '',
+  '2,2,4-Trimethyldecane': '',
   '2,2,4-Trimethylheptane': '',
   '2,2,4-Trimethylhexane': '',
   '2,2,4-Trimethylpentane': '; Request Date: 02-MAR-07',
@@ -5920,6 +5927,7 @@ export default {
   '2,2,5-Trimethyldecane': '',
   '2,2,5-Trimethylhexane': '',
   '2,2,6-Trimethylcyclohexanone': '; Request Date: 02-MAR-07',
+  '2,2,6-Trimethyloctane': '',
   '2,2,7,7-Tetramethyloctane': '',
   '2,2,7-Trimethyldecane': '',
   '2,2,8-Trimethyldecane': '',
@@ -6330,6 +6338,7 @@ export default {
   '2,3-Dimethylcyclohexan-1-one': '',
   '2,3-Dimethylhexane': '',
   '2,3-Dimethylnaphthalene': '; Request Date: 22-JUL-14',
+  '2,3-Dimethylpent-1-ene': '',
   '2,3-Dimethylpentane': '; Request Date: 23-APR-14',
   '2,3-Dimethylphenanthrene': '; Request Date: 23-APR-15',
   '2,3-Dimethylphenol': '; Request Date: 24-SEP-19',
@@ -6511,6 +6520,7 @@ export default {
   '2,4-Dimethylpentane': '; Request Date: 23-APR-14',
   '2,4-Dimethylphenol': 'Nemi.gov; Request Date: 22-JUL-14',
   '2,4-Dimethylpyridine': '; Request Date: 24-MAR-15',
+  '2,4-Dimethylundecane': '',
   '2,4-Dinitrochlorobenzene': 'Nemi.gov; Request Date: 23-SEP-19',
   '2,4-Dinitrophenol':
     '1040;Nemi.govRequest Date: 02-MAR-07| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -6663,6 +6673,7 @@ export default {
   '2,8-Dimethylundecane': '',
   '2,8-Phenazinediamine, N8,N8,3-trimethyl-, compd. with hydrolyzed reduced polymd. oxidized 1,1,2,3,3,3-hexafluoro-1-propene':
     '',
+  '2,9-Dimethylundecane': '',
   '2- Chloropropionic acid, hexadecyl ester': '; Request Date: 04-JAN-16',
   '2- [2-(Perfluorodecyl)ethylsulfanyl]acetic acid': '',
   '2-((((Tridecafluorohexyl)sulfonyl)methyl)amino)ethyl methacrylate': '',
@@ -7271,6 +7282,7 @@ export default {
   '2-Ethoxy-2-methylpropanal': 'NWIS',
   '2-Ethoxy-d5-phenol': '; Request Date: 01-MAY-14',
   '2-Ethoxyethanol': '; Request Date: 02-MAR-07',
+  '2-Ethyl-1,1-dimethylcyclopentane': '',
   '2-Ethyl-1,3-hexanediol': '; Request Date: 02-MAR-07',
   '2-Ethyl-1-butene': '',
   '2-Ethyl-1-hexyl 2,3,4,5-tetrabromobenzoate': 'NWIS',
@@ -7584,6 +7596,7 @@ export default {
   '2-Methyldibenzothiophene': '; Request Date: 30-AUG-12',
   '2-Methyldibenzothiophenes/3-Methyldibenzothiophenes':
     '; Request Date: 31-MAR-14',
+  '2-Methyldodecane': '',
   '2-Methyleicosane': '; Request Date: 23-APR-15',
   '2-Methylfluoranthene': '; Request Date: 01-MAY-14',
   '2-Methylfluorene': '; Request Date: 15-APR-14',
@@ -9369,6 +9382,7 @@ export default {
   '3,5,12-Trihydroxy-3-(hydroxyacetyl)-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 2,3,6-trideoxy-3-[(2,2,3,3,3-pentafluoro-1-hydroxypropylidene)amino]hexopyranoside':
     '',
   '3,5,5,6,6,6-Hexafluorohex-3-en-2-ol': '',
+  '3,5,5-Trimethyl-2-pyrazoline': '',
   '3,5,6-Trichloro-2,2,3,4,4,5,6,6-octafluorohexanoyl chloride': '',
   '3,5,6-Trichloro-2-methoxypyridine': 'NWIS',
   '3,5,6-Trichloro-2-pyridinol': 'NWIS',
@@ -9466,6 +9480,7 @@ export default {
   '3,7-Bis(2-hydroxyethyl)-5-(((perfluorononyl)ethyl)oxy)-4,6-dioxa-3,7-diaza-5-phosphanonane-1,9-diol 5-oxide':
     '',
   '3,7-Dimethyl-1-octene': '',
+  '3,8-Dimethyldecane': '',
   '3,8-Dimethylundecane': '',
   '3-(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononyl)oxy)phenyl)sulfonyl)amino)-N,N,N-trimethyl-1-propanaminium':
     '',
@@ -10670,6 +10685,7 @@ export default {
   '4,4-Dichloro-5,5,6,6,6-pentafluoro-2-methylhex-1-ene': '',
   '4,4-Dimethyl-1,3-dioxane': '; Request Date: 02-MAR-07',
   '4,4-Dimethyl-2-pentanone': '',
+  '4,4-Dimethyl-2-pentene': '',
   '4,4-Dimethyl-3-oxo-2-[2-(2,2,3,3-tetrafluoro-2,3-dihydro-1,4-benzodioxin-6-yl)hydrazinylidene]pentanenitrile':
     '',
   '4,4-Dimethylcyclopentene': 'Minnesota IT Services at MPCA ',
@@ -10725,6 +10741,7 @@ export default {
     '1040;Nemi.govRequest Date: 22-JUL-14| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '4,7-Dimethylindan': '; Request Date: 02-MAR-07',
   '4,7-Dimethylundecane': '',
+  '4,7-Methano-1H-indene, octahydro-': '',
   '4,7-Methano-1H-indene, octahydro-, (3aR,4R,7S,7aS)-rel-': '',
   '4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-5-methyl-, reaction products with hexahydro-1,3-isobenzofurandi':
     '',
@@ -11620,10 +11637,12 @@ export default {
     'https://pubchem.ncbi.nlm.nih.gov/compound/5-Hydroxythiabendazole',
   '5-Hydroxyvalproic acid': 'NWIS',
   '5-Iodoperfluoro-3-oxapentanesulfonyl fluoride': '',
+  '5-Isobutylnonane': '',
   '5-Isoxazolol, 4,5-dihydro-3-phenyl-5-(1,1,2,2-tetrafluoroethyl)-': '',
   '5-Methyl-1-heptene': 'https://pubchem.ncbi.nlm.nih.gov/compound/99888',
   '5-Methyl-1-hexene': 'https://pubchem.ncbi.nlm.nih.gov/compound/77058',
   '5-Methyl-2-(1,2,2,2-tetrafluoroethyl)pyridine': '',
+  '5-Methyl-2-(1-methylethylidene)cyclohexanone': '',
   '5-Methyl-2-hexene': '; Request Date: 11-JAN-18',
   '5-Methyl-5-[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]hex-1-en-3-yne': '',
   '5-Methyl-5-propylnonane': '',
@@ -11911,6 +11930,7 @@ export default {
   '7-Hydroxycarbofuran': 'NWIS',
   '7-Hydroxyquetiapine': '; Request Date: 30-MAY-13',
   '7-Methylbenzo[a]pyrene': '; Request Date: 31-MAR-14',
+  '7-Methyltridecane': '',
   '7-Octadecene, 1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-, (7E)-': '',
   '7-Phenyltetradecane': '; Request Date: 02-MAR-07',
   '7-Phenyltetradecane + 6-phenyltridecane mix': '; Request Date: 02-MAR-07',
@@ -18937,6 +18957,7 @@ export default {
   'Heptanamide, N,N-diethyl-2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-': '',
   'Heptanamide, N,N-diethyl-2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoro-': '',
   Heptane: '; Request Date: 02-MAR-07',
+  "Heptane, 1,1'-oxybis-": '',
   'Heptane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-hexadecafluoro-': '',
   'Heptane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-pentadecafluoro-7-(trifluoromethoxy)-':
     '',
@@ -18979,6 +19000,7 @@ export default {
   Heptene: '; Request Date: 02-MAR-07',
   Heptenophos: 'Datastream',
   'Heptyl sulfate': 'NWIS',
+  Heptylcyclohexane: '',
   'Herbicide mix, unspecified':
     'Any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any plant pest (weed).; Request Date: 02-MAR-07',
   Herbicides:
@@ -20780,6 +20802,7 @@ export default {
   Methylcyclohexane: '; Request Date: 22-JUL-14',
   'Methylcyclohexane-d14': '; Request Date: 02-MAR-07',
   Methylcyclohexanol: '; Request Date: 02-MAR-07',
+  Methylcyclooctane: '',
   Methylcyclopentadiene: 'https://pubchem.ncbi.nlm.nih.gov/compound/66775',
   Methylcyclopentane: '; Request Date: 02-MAR-07',
   'Methylcyclopentane & 2,4-dimethylpentane': '',

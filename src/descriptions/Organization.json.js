@@ -12,7 +12,6 @@ export default {
   1143709: '',
   1328642: '',
   11113300: 'STATE OF NEW HAMPSHIRE ENVIRONMENTAL AGENCY',
-  '***RENAMED***ESTOO': '***RENAMED***ESTOO',
   '0800257_WQX': 'Water quality',
   '0800597_WQX': 'Region 8 Superfund Program',
   '0800650_WQX': 'Water quality',
@@ -334,6 +333,7 @@ export default {
   ARWRF: '',
   ARWWRRI_WQX: 'Water Quality Monitoring Data: BIOmonitoring',
   ASEPA_WQX: '',
+  ASE_WQX: '',
   ASHCREEKCONSERVATIONASSOC:
     'The Ash Creek Conservation Association mission is to advocate for protecting and restoring the ecologically fragile Ash Creek tidal estuary, as well as surrounding waters and coastal land areas.',
   ASPECT_WQX: '',
@@ -698,6 +698,7 @@ export default {
   EPIC_WQX: '',
   EQUILIBRIUM: '',
   ERG: 'Eastern Research Group, Inc.',
+  ERMI_WQX: '',
   ERMMINNEAPOLIS: '',
   ERWC: '',
   ERWSCC_WQX: '',
@@ -770,6 +771,7 @@ export default {
   GLEON: 'GLEON Lake Observer mobile app data',
   GLIFWC: 'Great Lakes Indian Fish and Wildlife Commission',
   GNLK01_WQX: '',
+  GONZAGA_UNIVERSITY_CENG: 'Water Quality Monitoring',
   GPC5_WQX:
     'Grand Portage Band of Lake Superior Chippewa (Minnesota Chippewa Tribes)',
   GPELC: '',
@@ -1257,6 +1259,7 @@ export default {
   PICURIS_PUEBLO: 'Picuris Pueblo',
   PIIC_WQX: '',
   PIMA_AZ: '',
+  PINELANDSALLIANCE: 'Pinelands Alliance',
   PLYMOUTHDMEA: 'Plymouth Department of Marine and Environmental Affairs',
   PNDECS_WQX:
     'Pawnee Nation of Oklahoma (Tribal) || Pawnee Nation of Oklahoma (Tribal)',
@@ -1488,6 +1491,7 @@ export default {
   SOU_WQX: 'Southern Oregon University',
   SPC: 'Volunteer Monitoring Group',
   SPIRITLK: '',
+  SPOKANERIVERKEEPER: '',
   SQUAXIN: '',
   SRA: 'staging',
   SRBCI:
