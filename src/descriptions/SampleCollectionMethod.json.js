@@ -91,6 +91,10 @@ export default {
     'Hester-Dendy Artificial Substrate for macroinvertebrate colletion',
   LENTIC_VD:
     'Water Chemistry at Depth in Lake or Reservoir Sampled with Van Dorn Sampler',
+  'LSASDPROC-200-R4':
+    'General and specific procedures, methods and considerations to be used and\r\nobserved when collecting sediment samples for field screening or laboratory analysis.  https://19january2021snapshot.epa.gov/sites/static/files/2015-06/documents/Sediment-Sampling.pdf',
+  'LSASDPROC-201-R6':
+    'General and specific procedures, methods, and considerations to be used\r\nand observed when collecting surface water samples for field screening or laboratory analysis. https://www.epa.gov/sites/default/files/2017-07/documents/surface_water_sampling201_af.r4.pdf',
   MH_LowGradient: 'Multi-Habitat Kick/Jab Method (Kick Net)',
   'Marion Invert 1999-2001':
     'https://www.nemi.gov/methods/method_summary/12920/',

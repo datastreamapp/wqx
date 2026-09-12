@@ -938,6 +938,17 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  "****13C12-2,2',3,4,4',5,5'-HpCB": 'Organics, PCBs',
+  '****17-beta-Estradiol 17-glucuronide': 'Not Assigned',
+  '****17.alpha.-Estradiol-2,4-d2': 'Not Assigned',
+  '****17.beta.-Estriol-17-sulfate': 'Not Assigned',
+  '****17.beta.-Estriol-3-sulfate': 'Not Assigned',
+  '****17alpha-Dihydroequilin': 'Organics, Other',
+  '****2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid':
+    'Not Assigned',
+  '****2-Chlorophenyl-4-nitrophenyl ether': 'Not Assigned',
+  '****2-Cyclohexen-1-one, 2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
+    'PFAS,Perfluorinated Alkyl Substance',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': 'Information',
@@ -6264,7 +6275,7 @@ export default {
   "13-C12-2,2',3,3',4,4',5,5',6,6'-DeCB": 'Organics, PCBs',
   "13-C12-2,2',3,3',4,4',5,5',6-NoCB": 'Organics, PCBs',
   "13-C12-2,2',3,3',5,5',6,6'-OcCB": 'Organics, PCBs',
-  "13-C12-2,2',3,4,4',5,5'-HpCB": 'Not Assigned',
+  "13-C12-2,2',3,4,4',5,5'-HpCB": 'Organics, PCBs',
   "13-C12-2,2',4,5,5'-PeCB": 'Not Assigned',
   "13-C12-2,3',4,4',5-PeCB": 'Organics, PCBs',
   "13-C12-2,4'-DiCB": 'Not Assigned',
@@ -6292,7 +6303,6 @@ export default {
   '13C1-d3-Chlortetracycline': 'Not Assigned',
   "13C12-2 3 3' 4 4' 5'-HxCB": 'Organics, PCBs',
   "13C12-2 3 3' 4 4' 5-HxCB": 'Organics, PCBs',
-  "13C12-2,2',3,4,4',5,5'-HpCB": 'Organics, PCBs',
   "13C12-3 3' 4 4' 5 5'-HxCB": 'Organics, PCBs',
   '13C12-PCB 170': 'Organics, PCBs',
   '13C2-4:2 FTS': 'Stable Isotopes',
@@ -6373,14 +6383,12 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '17-alpha-Estradiol-2,4-d2': 'Information',
   '17-alpha-Ethynylestradiol-2,4,16,16-d4': 'Information',
-  '17-beta-Estradiol 17-glucuronide': 'Not Assigned',
   '17-beta-Estradiol 17-sulfate': 'Not Assigned',
   '17-beta-Estradiol 3-sulfate': 'Not Assigned',
   '17.alpha.(H),21.beta.(H)-30-Norhopane': 'Not Assigned',
   '17.alpha.-Dihydroequilin': 'Organics, Other',
   '17.alpha.-Epiestriol-6,6,7,7,11-d5': 'Not Assigned',
   '17.alpha.-Estradiol': 'Organics, Other',
-  '17.alpha.-Estradiol-2,4-d2': 'Not Assigned',
   '17.beta.-Estradiol-13,14,15,16,17,18-13C6': 'Not Assigned',
   '17.beta.-Estradiol-13C6': 'Organics, Other',
   '17.beta.-Estradiol-17-glucuronide': 'Not Assigned',
@@ -6388,12 +6396,9 @@ export default {
   '17.beta.-Estradiol-d4': 'Organics, Other',
   '17.beta.-Estriol 17-sulfate': 'Not Assigned',
   '17.beta.-Estriol 3-sulfate': 'Not Assigned',
-  '17.beta.-Estriol-17-sulfate': 'Not Assigned',
-  '17.beta.-Estriol-3-sulfate': 'Not Assigned',
   '17.beta.-Trenbolone-d2': 'Not Assigned',
   '17a(H),21b(H)-Hopane': 'Not Assigned',
   '17a(H)-22,29,30-Trisnorhopane': 'Not Assigned',
-  '17alpha-Dihydroequilin': 'Organics, Other',
   '17b(H),21a(H)-30-Norhopane': 'Not Assigned',
   '17b(H),21a(H)-Hopane': 'Not Assigned',
   '17b(H),21b(H)-Hopane': 'Not Assigned',
@@ -7966,8 +7971,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3- heptafluoropropoxy)-13C3 -propanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
-  '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid':
-    'Not Assigned',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,4,4-octafluoro-4-sulfobutoxy)propanoic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2-tetrafluoro-2-sulfoethoxy)propanoic acid':
@@ -9453,7 +9456,6 @@ export default {
   '2-Chloroperfluoropentane': 'PFAS,Perfluorinated Alkyl Substance',
   '2-Chlorophenol-d4': 'Organics, Other',
   '2-Chlorophenyl 4-nitrophenyl ether': 'Not Assigned',
-  '2-Chlorophenyl-4-nitrophenyl ether': 'Not Assigned',
   '2-Chloropropane': 'Not Assigned',
   '2-Chlorosyringaldehyde': 'Not Assigned',
   '2-Chlorotetrafluoropropanamide': 'PFAS,Perfluorinated Alkyl Substance',
@@ -9474,8 +9476,6 @@ export default {
   '2-Cyclohexen-1-ol, 6-(1,1,1,3,3,3-hexafluoro-2-hydroxy-2-propyl)-3,5,5-trimethyl-':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Cyclohexen-1-one': 'Not Assigned',
-  '2-Cyclohexen-1-one, 2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
-    'PFAS,Perfluorinated Alkyl Substance',
   '2-Cyclohexen-1-one, 3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Cyclohexen-1-one,2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':

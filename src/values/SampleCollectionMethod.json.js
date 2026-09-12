@@ -74,6 +74,8 @@ export default {
     'HBMP Invert Multihabitat',
     'HD_Artificial Substrate',
     'LENTIC_VD',
+    'LSASDPROC-200-R4',
+    'LSASDPROC-201-R6',
     'MH_LowGradient',
     'Marion Invert 1999-2001',
     'Method to estimate discharge',

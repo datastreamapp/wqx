@@ -625,6 +625,18 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
+  "****13C12-2,2',3,4,4',5,5'-HpCB": '',
+  '****17-beta-Estradiol 17-glucuronide': 'NWIS',
+  '****17.alpha.-Estradiol-2,4-d2': 'NWIS',
+  '****17.beta.-Estriol-17-sulfate': 'NWIS',
+  '****17.beta.-Estriol-3-sulfate': 'NWIS',
+  '****17alpha-Dihydroequilin':
+    'Nemi.govRequest Date: 23-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
+  '****2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid':
+    '',
+  '****2-Chlorophenyl-4-nitrophenyl ether': '',
+  '****2-Cyclohexen-1-one, 2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
+    '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -4682,7 +4694,6 @@ export default {
   '13C1-d3-Chlortetracycline': '',
   "13C12-2 3 3' 4 4' 5'-HxCB": '',
   "13C12-2 3 3' 4 4' 5-HxCB": '',
-  "13C12-2,2',3,4,4',5,5'-HpCB": '',
   "13C12-3 3' 4 4' 5 5'-HxCB": '',
   '13C12-PCB 170': '',
   '13C2-4:2 FTS': '',
@@ -4755,7 +4766,6 @@ export default {
   '17-alpha-Estradiol-2,4-d2': '17-alpha-Estradiol-2,4-d2',
   '17-alpha-Ethynylestradiol-2,4,16,16-d4***retired***use Ethynylestradiol-d4':
     '17-alpha-Ethynylestradiol-2,4,16,16-d4',
-  '17-beta-Estradiol 17-glucuronide': 'NWIS',
   '17-beta-Estradiol 17-sulfate': 'NWIS',
   '17-beta-Estradiol 3-sulfate': 'NWIS',
   '17.alpha.(H),21.beta.(H)-30-Norhopane': 'NWIS',
@@ -4764,7 +4774,6 @@ export default {
   '17.alpha.-Epiestriol-6,6,7,7,11-d5': 'NWIS',
   '17.alpha.-Estradiol':
     'Request Date: 01-JUL-11| Organics, Other ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  '17.alpha.-Estradiol-2,4-d2': 'NWIS',
   '17.beta.-Estradiol-13,14,15,16,17,18-13C6': 'NWIS',
   '17.beta.-Estradiol-13C6': '; Request Date: 29-MAR-13',
   '17.beta.-Estradiol-17-glucuronide': 'NWIS',
@@ -4772,13 +4781,9 @@ export default {
   '17.beta.-Estradiol-d4': '; Request Date: 29-MAR-13',
   '17.beta.-Estriol 17-sulfate': 'NWIS',
   '17.beta.-Estriol 3-sulfate': 'NWIS',
-  '17.beta.-Estriol-17-sulfate': 'NWIS',
-  '17.beta.-Estriol-3-sulfate': 'NWIS',
   '17.beta.-Trenbolone-d2': 'NWIS',
   '17a(H),21b(H)-Hopane': 'NWIS',
   '17a(H)-22,29,30-Trisnorhopane': 'NWIS',
-  '17alpha-Dihydroequilin':
-    'Nemi.govRequest Date: 23-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   '17b(H),21a(H)-30-Norhopane': 'NWIS',
   '17b(H),21a(H)-Hopane': 'NWIS',
   '17b(H),21b(H)-Hopane': 'NWIS',
@@ -6098,8 +6103,6 @@ export default {
     '',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3- heptafluoropropoxy)-13C3 -propanoic acid':
     '',
-  '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid':
-    '',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,4,4-octafluoro-4-sulfobutoxy)propanoic acid':
     '',
   '2,3,3,3-Tetrafluoro-2-(1,1,2,2-tetrafluoro-2-sulfoethoxy)propanoic acid': '',
@@ -7242,7 +7245,6 @@ export default {
   '2-Chlorophenol-d4': '; Request Date: 29-NOV-11',
   '2-Chlorophenyl 4-nitrophenyl ether':
     'Request Date: 25-Sep-19 Nemi.gov (nps.gov cas# review)',
-  '2-Chlorophenyl-4-nitrophenyl ether': '',
   '2-Chloropropane': '; Request Date: 02-MAR-07',
   '2-Chlorosyringaldehyde': '; Request Date: 02-MAR-07',
   '2-Chlorotetrafluoropropanamide': '',
@@ -7259,8 +7261,6 @@ export default {
   '2-Cyclohexen-1-ol, 6-(1,1,1,3,3,3-hexafluoro-2-hydroxy-2-propyl)-3,5,5-trimethyl-':
     '',
   '2-Cyclohexen-1-one': '; Request Date: 02-MAR-07',
-  '2-Cyclohexen-1-one, 2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
-    '',
   '2-Cyclohexen-1-one, 3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     '',
   '2-Cyclohexen-1-one,2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
