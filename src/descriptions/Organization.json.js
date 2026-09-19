@@ -758,6 +758,7 @@ export default {
   GBNERR: 'Great Bay National Estuarine Research Reserve Monitoring Data',
   GCRI_WQX: '',
   GCWIN: '',
+  GECOSWCD: '',
   GEC_WQX: 'Water Quality Monitoring Data',
   GEI: '',
   GEICON_WQX: 'Water Quality Monitoring Data',
@@ -895,6 +896,7 @@ export default {
   KNA: 'Test  WQX with M.Z. credentials.',
   KNRD_WQX:
     'Kalispel Indian Community of the Kalispel Reservation (Tribal) || Kalispel Indian Community of the Kalispel Reservation (Tribal)',
+  KOOSKOOSKIECOMMONS_WQX: '',
   KOOTENAI_TRIBE_OF_IDAHO_WQX: '',
   KS_GEOWATER_CTR: '',
   KWMNDATA_WQX:
@@ -1179,8 +1181,7 @@ export default {
     'The Native Village of Council (NVC) is a federally recognized tribe of Inupiat peoples who originated in the Niukluk River and Fish River.',
   NVEPA_WQP:
     'Navajo Nation, Arizona, New Mexico & Utah (Tribal) || Navajo Nation, Arizona, New Mexico & Utah (Tribal)',
-  NWIFC_WQX:
-    'Northwest Indian Fisheries Commission (Tribal) || Northwest Indian Fisheries Commission (Tribal)',
+  NWIFC_WQX: '',
   NWRSFWS_WQX: '',
   OARS: 'OARS - For the Assabet Sudbury & Concord Rivers',
   OCC: 'The OCC organization is for data associated with the Otter Creek watershed, specifically with the Otter Creek Coal area.',

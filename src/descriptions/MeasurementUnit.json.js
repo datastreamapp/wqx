@@ -9,6 +9,8 @@ export default {
   '#/cm': '()Concentration Solution, Number per centimeter',
   '#/cm2': 'Concentration Solution, Number per square centimeter',
   '#/cm3': 'Concentration Solution, Number per cubic centimeter',
+  '#/composite':
+    '()Concentration Solution, Number of individual organisms (#) per blended/pooled laboratory sample (composite)',
   '#/dL': 'Concentration Solution, Number per deciliter',
   '#/day': 'Concentration Solution, number per day',
   '#/ft2': 'Concentration Solution, Number per square foot',
@@ -188,6 +190,8 @@ export default {
     'Concentration Solution, copies per 100 milliliters (ie viral load)',
   'copies/250mL':
     'Concentration Solution, copies per 250 milliliters (ie viral load)',
+  'copies/comp':
+    '()Concentration Solution, copies per blended/pooled laboratory sample (composite)',
   'copies/mL':
     '()Concentration Solution, copies per milliliters (ie viral load)',
   count: '()Quantity, Count',
