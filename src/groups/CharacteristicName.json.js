@@ -938,6 +938,16 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': 'Not Assigned',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     'PFAS,Perfluorinated Alkyl Substance',
+  '****.alpha.-1,2,5,6-Tetrabromocyclooctane': 'Not Assigned',
+  '****.alpha.-Apo-oxytetracycline': 'Not Assigned',
+  '****.alpha.-Deltamethrin': 'Not Assigned',
+  '****.alpha.-Endosulfan-d4': 'Not Assigned',
+  '****.alpha.-HCH-13C6': 'Not Assigned',
+  '****.beta.-1,2,5,6-Tetrabromocyclooctane': 'Not Assigned',
+  '****.beta.-Apo-oxytetracycline': 'Not Assigned',
+  '****.beta.-Endosulfan-d4': 'Not Assigned',
+  '****1,2-Benzenedicarboxamide, N1-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-N2-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-':
+    'Not Assigned',
   "****13C12-2,2',3,4,4',5,5'-HpCB": 'Organics, PCBs',
   '****17-beta-Estradiol 17-glucuronide': 'Not Assigned',
   '****17.alpha.-Estradiol-2,4-d2': 'Not Assigned',
@@ -949,20 +959,26 @@ export default {
   '****2-Chlorophenyl-4-nitrophenyl ether': 'Not Assigned',
   '****2-Cyclohexen-1-one, 2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
+  '****3-Iodo-2-propynylbutylcarbamate': 'Not Assigned',
+  '****4-(Hydroxymethyl)pendimethalin': 'Organics, Other',
+  '****4-Chlorobenzylmethyl sulfoxide': 'Not Assigned',
+  '****4-Chlorobenzylmethylsulfone': 'Not Assigned',
+  '****4-Fluoro-3-phenoxy benzoic acid': 'Not Assigned',
+  '****Acesulfame-K': 'Not Assigned',
+  '****Androsterone-glucuronide': 'Not Assigned',
+  '****Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)-2-(methylsulfonyl)-.beta.-oxo-4-(trifluoromethyl)-':
+    'Organics, Pesticide',
+  '****Phenyl-.beta.-D-glucuronide': 'Not Assigned',
+  '****Triflusulfuron methyl': 'Not Assigned',
   '.alpha.,.alpha.-Dimethylphenethylamine': 'Organics, Other',
   '.alpha.,2,6-Trichlorotoluene': 'Organics, Other',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6': 'Information',
-  '.alpha.-1,2,5,6-Tetrabromocyclooctane': 'Not Assigned',
   '.alpha.-Amino-1H-1,2,4-triazole-1-propanoic acid': 'Not Assigned',
   '.alpha.-Amino-2,3-dihydro-5-methyl-3-oxo-4-isoxazolepropanoic acid':
     'Organics, Other',
-  '.alpha.-Apo-oxytetracycline': 'Not Assigned',
   '.alpha.-Chlordene': 'Organics, Pesticide',
   '.alpha.-Cypermethrin': 'Not Assigned',
-  '.alpha.-Deltamethrin': 'Not Assigned',
   '.alpha.-Endosulfan': 'Organics, Pesticide',
-  '.alpha.-Endosulfan-d4': 'Not Assigned',
-  '.alpha.-HCH-13C6': 'Not Assigned',
   '.alpha.-Heptachlor-2,3-exo-epoxide': 'Not Assigned',
   '.alpha.-Hexachlorocyclohexane': 'Organics, Pesticide',
   '.alpha.-Methylstyrene': 'Organics, Other',
@@ -972,14 +988,11 @@ export default {
   '.alpha.-Terpineol': 'Organics, Pesticide',
   '.alpha.-[2-Hydroxy-3-[.alpha.-perfluoroisopropylpoly(degree of polymerization 7-15)(difluoromethylene)]propyl]-.omega.-methoxy-poly(degree of polymerization 1-25)(oxyethylene)':
     'PFAS,Perfluorinated Alkyl Substance',
-  '.beta.-1,2,5,6-Tetrabromocyclooctane': 'Not Assigned',
   '.beta.-Alanine, N-[2-[[2-chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2H)-pyrimidinyl]-4-fluorophenyl]thio]-1-oxopropyl]-, methyl ester':
     'Not Assigned',
-  '.beta.-Apo-oxytetracycline': 'Not Assigned',
   '.beta.-Chlordene': 'Organics, Pesticide',
   '.beta.-Cyfluthrin': 'Not Assigned',
   '.beta.-Endosulfan': 'Organics, Pesticide',
-  '.beta.-Endosulfan-d4': 'Not Assigned',
   '.beta.-Heptachlor epoxide': 'Organics, Other',
   '.beta.-Hexachlorocyclohexane': 'Organics, Pesticide',
   '.beta.-Sitosterol': 'Organics, Other',
@@ -9446,7 +9459,6 @@ export default {
   '2-Chlorocyclohexanol': 'Not Assigned',
   '2-Chloroethanol': 'Not Assigned',
   '2-Chloroethyl vinyl ether': 'Organics, Other',
-  '2-Chloroethylvinylether': 'Organics, Other',
   '2-Chloronaphthalene': 'Organics, Other',
   '2-Chloronaphthalene-D7': 'Not Assigned',
   '2-Chloronicotinic acid': 'Not Assigned',
@@ -9479,8 +9491,6 @@ export default {
   '2-Cyclohexen-1-one, 3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Cyclohexen-1-one,2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
-    'PFAS,Perfluorinated Alkyl Substance',
-  '2-Cyclohexen-1-one,3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     'PFAS,Perfluorinated Alkyl Substance',
   '2-Cyclohexylidenecyclohexanone': 'Not Assigned',
   '2-Cyclopenten-1-one, 2,3,4,4,5,5-hexafluoro-':
@@ -12828,8 +12838,7 @@ export default {
   '3-Hydroxymandelic acid': 'Organics, Other',
   '3-Iodo-1,1,2,2-tetrafluoropropyl trifluorovinyl ether':
     'PFAS,Perfluorinated Alkyl Substance',
-  '3-Iodo-2-propynyl butyl carbamate': 'Organics, Other',
-  '3-Iodo-2-propynylbutylcarbamate': 'Not Assigned',
+  '3-Iodo-2-propynyl butylcarbamate': 'Organics, Other',
   '3-Ketocarbofuran': 'Organics, Pesticide',
   '3-MOBDE': 'Organics, BDEs',
   '3-Methyl decane': 'Not Assigned',
@@ -13051,6 +13060,7 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '3-[(4-Fluorobenzoyl)-methylamino]-N-[2-iodo-4-(1,1,1,2,3,3,4,4,4-nonafluorobutan-2-yl)-6-(trifluoromethyl)phenyl]benzamide':
     'PFAS,Perfluorinated Alkyl Substance',
+  '3-[(4-Formylphenoxy)methyl]thiophene-2-carbonitrile': 'Organics, Other',
   '3-[(6,6,7,7,8,8,9,9,10,10,11,11,11-Tridecafluoroundecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
     'PFAS,Perfluorinated Alkyl Substance',
   '3-[(6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-Heptadecafluorotridecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
@@ -14047,7 +14057,6 @@ export default {
   '4-(Heptafluoropropyl)cyclohexane-1-carboxylic acid':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-(Hydroxymethyl) pendimethalin': 'Organics, Other',
-  '4-(Hydroxymethyl)pendimethalin': 'Organics, Other',
   '4-(Methanesulfonyl)phenyl pentafluoroethane-1-sulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-(Methylsulfanyl)phenyl pentafluoroethane-1-sulfonate':
@@ -14228,8 +14237,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   '4-Chlorobenzyl methyl sulfone': 'Not Assigned',
   '4-Chlorobenzyl methyl sulfoxide': 'Not Assigned',
-  '4-Chlorobenzylmethyl sulfoxide': 'Not Assigned',
-  '4-Chlorobenzylmethylsulfone': 'Not Assigned',
   '4-Chlorobiphenyl': 'Organics, PCBs',
   '4-Chlorobiphenyl-C13': 'Organics, Other',
   '4-Chlorocatechol': 'Organics, Other',
@@ -14277,7 +14284,6 @@ export default {
   '4-Fluoro-2-methyl-6-(pentafluoroethyl)-5-(trifluoromethyl)pyrimidine':
     'PFAS,Perfluorinated Alkyl Substance',
   '4-Fluoro-2-nitrophenol': 'Not Assigned',
-  '4-Fluoro-3-phenoxy benzoic acid': 'Not Assigned',
   '4-Fluoro-3-phenoxybenzoic acid': 'Not Assigned',
   '4-Fluoro-4-(trifluoromethyl)piperidine':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -15675,7 +15681,6 @@ export default {
   Acequincyl: 'Organics, Pesticide',
   Acesulfame: 'Organics, Other',
   'Acesulfame K': 'Not Assigned',
-  'Acesulfame-K': 'Not Assigned',
   'Acesulfame-d4': 'Not Assigned',
   Acetaldehyde: 'Organics, Other',
   Acetaldol: 'Not Assigned',
@@ -16419,7 +16424,6 @@ export default {
   Androsterone: 'Organics, Other',
   'Androsterone glucuronide': 'Not Assigned',
   'Androsterone sulfate': 'Not Assigned',
-  'Androsterone-glucuronide': 'Not Assigned',
   'Angle, vertical': 'Not Assigned',
   Anhydrochlortetracycline: 'Not Assigned',
   Anhydroerthromycin: 'Not Assigned',
@@ -17509,8 +17513,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Benzeneethanamine, N-[(1E)-2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctylidene]-':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Benzeneethanamine,3,4,5-tris(1,1,2,2-tetrafluoroethoxy)-, hydrochloride (1:1)':
-    'PFAS,Perfluorinated Alkyl Substance',
   Benzeneethanol: 'Not Assigned',
   'Benzenemethanamine, N-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)-':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -17598,8 +17600,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Benzenepropanamide, N-[4-[[3-[(3-aminopropyl)amino]propyl]amino]butyl]-4-hydroxy-.alpha.-[(1-oxobutyl)amino]-, (.alpha.S)-, tris(trifluoroacetate) (salt)':
     'PFOS, Perfluorooctane Sulfonate',
-  'Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)- 2-(methylsulfonyl)-.beta.- oxo-4-(trifluoromethyl)-':
-    'Organics, Pesticide',
   'Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)-2-(methylsulfonyl)-.beta.-oxo-4-(trifluoromethyl)-':
     'Organics, Pesticide',
   'Benzenepropanoic acid, .alpha.-cyano-.alpha.-[4-(1,1-dimethylethyl)phenyl]-.beta.-oxo-2-(trifluoromethyl)-, 2-methoxyethyl ester':
@@ -20683,7 +20683,7 @@ export default {
   Diisopropanolamine: 'Organics, Other',
   'Diisopropyl adipate': 'Not Assigned',
   'Diisopropyl methylphosphonate': 'Not Assigned',
-  'Diketonitrile isoxaflutole': 'Not Assigned',
+  'Diketonitrile isoxaflutole': 'Organics, Pesticide',
   Dilantin: 'Organics, Other',
   Diltiazem: 'Not Assigned',
   'Diltiazem hydrochloride': 'Organics, Other',
@@ -25161,6 +25161,8 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'N,N-dimethyl-2-[(perfluorododecanoyl)amino]ethan-1-amine N-oxide':
     'PFAS,Perfluorinated Alkyl Substance',
+  'N-((2,3-Dichloro-4-(1,1,2,2-tetrafluoroethylsulfanyl)phenyl)carbamoyl)-2,6-difluorobenzamide':
+    'PFAS,Perfluorinated Alkyl Substance',
   'N-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)cyclohexanecarboxamide':
     'PFAS,Perfluorinated Alkyl Substance',
   'N-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)cyclopent-2-ene-1-carboxamide':
@@ -28714,7 +28716,6 @@ export default {
     'PFAS,Perfluorinated Alkyl Substance',
   'Phenyl(tridecafluorohexyl)iodanium trifluoromethanesulfonate':
     'PFAS,Perfluorinated Alkyl Substance',
-  'Phenyl-.beta.-D-glucuronide': 'Not Assigned',
   'Phenyl-beta-D-glucuronide': 'Organics, Other',
   'Phenyl[({[(5,5,6,6,7,7,8,8,9,9,10,10,10-tridecafluoro-2-methyldecan-2-yl)oxy]carbonyl}oxy)imino]acetonitrile':
     'PFAS,Perfluorinated Alkyl Substance',
@@ -33141,7 +33142,6 @@ export default {
   'Trifluralin-d10': 'Not Assigned',
   'Trifluralin-d14': 'Not Assigned',
   'Trifluralin-d14 (di-n-propyl-d14)': 'Information',
-  'Triflusulfuron methyl': 'Not Assigned',
   'Triflusulfuron-methyl': 'Not Assigned',
   Triforine: 'Not Assigned',
   Trihalomethanes: 'Organics, Other',

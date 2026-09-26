@@ -685,6 +685,7 @@ export default {
     'GUAM',
     'GWCO',
     'HALEYALDRICH',
+    'HAMILTONCOUNTYDISTRICT',
     'HANALEI_WQX',
     'HANNAHWQ_WQX',
     'HARBORWATCH_WQX',

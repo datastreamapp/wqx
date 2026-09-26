@@ -792,6 +792,7 @@ export default {
   GUAM: '',
   GWCO: 'Groundwater Colorado',
   HALEYALDRICH: '',
+  HAMILTONCOUNTYDISTRICT: '',
   HANALEI_WQX: 'Water Quality Monitoring Data',
   HANNAHWQ_WQX:
     'Hannahville Indian Community, Michigan (Tribal) || Hannahville Indian Community, Michigan (Tribal)',
