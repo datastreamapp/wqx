@@ -1353,6 +1353,7 @@ export default {
     'UNC_IMS',
     'UNI',
     'UPPERSKAGIT',
+    'UPRM-CIMA',
     'URIWW',
     'URS',
     'URWA',

@@ -60,6 +60,7 @@ export default {
     'Head',
     'Heart',
     'Hepatopancreas',
+    'Hepatopancreas, Gill, Muscle',
     'Hind Gut',
     'Intestine',
     'Kidney',

@@ -1,4 +1,22 @@
 export default {
+  '****Apoprionospio pygmaea':
+    '(Hartman, 1961)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=131108',
+  '****Ilyanassa obsoleta':
+    '(Say, 1822)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=160397',
+  '****Ilyanassa trivittata':
+    '(Say, 1822)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=160399',
+  '****Mancocuma stellifera':
+    '(Zimmer, 1943)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=157833',
+  '****Phyllodoce maculata':
+    '(Linnaeus, 1767)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=152438',
+  '****Phyllodoce mucosa':
+    '(Orsted, 1843)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=152441',
+  '****Prionospio cirrifera':
+    '(Wiren, 1883)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=152392',
+  '****Proceraea cornuta':
+    '(Agassiz, 1862)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=155457',
+  '****Pseudopotamilla reniformis':
+    '(Bruguiere, 1789)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=155389',
   '****retired****Neoleptophlebia':
     'https://www.bugguide.net/node/view/770408/bgimage',
   'Abalistes macrophthalmus***retired***use Abalistes stellatus':
@@ -29754,6 +29772,8 @@ export default {
     '(Guerin-Meneville 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=92623',
   Edotia:
     '(Guerin-Meneville 1843)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=542121',
+  'Edotia acuta':
+    '(H. Richardson, 1900)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=544171',
   'Edotia lyonsi':
     '(Menzies & Kruczynski 1983)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=568820',
   'Edotia montosa':
@@ -42069,6 +42089,8 @@ export default {
     '(Pursh) Common Name "rough false pennyroyal" http://plants.usda.gov/core/profile?symbol=HEHI',
   'Hedera helix':
     'Common Name "English ivy" http://plants.usda.gov/core/profile?symbol=HEHE',
+  'Hediste diversicolor':
+    'https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65991',
   'Hediste limnicola':
     'http://www.marinespecies.org/aphia.php?p=taxdetails&id=333585',
   Hedria:
@@ -48212,6 +48234,8 @@ export default {
     '((Hook.) A. Heller) Common Name "alpine laurel" http://plants.usda.gov/core/profile?symbol=KAMI',
   'Kalmia polifolia':
     '(Wangenh)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=23679',
+  Kalyptorhynchia:
+    'https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1204604',
   'Kamehatylus nani':
     '(J L Barnard 1970)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656786',
   Kamoharaia:
@@ -62835,6 +62859,8 @@ export default {
     '(Boulenger 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=648224',
   'Neolamprologus tretocephalus':
     '(Boulenger 1899)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=648225',
+  'Neoleanira tetragona':
+    'https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=65080',
   Neolebias:
     '(Steindachner 1894)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163219',
   'Neolebias ansorgii':
@@ -63419,6 +63445,8 @@ export default {
     'https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=11276#null',
   'Nereocystis luetkeana':
     'https://www.inaturalist.org/taxa/120499-Nereocystis-luetkeana',
+  'Nerilla digitata':
+    'https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68399',
   Nerita:
     '(Linnaeus 1758)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=70165',
   'Nerita albicilla':
@@ -70341,6 +70369,8 @@ export default {
     '(Jordan and Eigenmann 1889)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169319',
   'Pareques viola':
     '(Gilbert in Jordan and Evermann 1898)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169321',
+  Parergodrilidae:
+    '(Reisinger, 1925)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68391',
   Pareurystheus:
     '(Tzvetkova 1977)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656518',
   Pareurythoe:
@@ -76193,6 +76223,8 @@ export default {
     '(Alder and Hancock 1845)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=78308',
   Polychaeta:
     'https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=64358#null',
+  'Polychoerus caudatus':
+    '(Mark, 1892)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=53997',
   Polycirrinae:
     '(Malmgren 1867)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=181512',
   Polycirrus:
@@ -92240,6 +92272,8 @@ export default {
     '(Kashyap)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=846318',
   Stereobalanus:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=158622',
+  'Stereobalanus canadensis':
+    '(Spengel, 1893)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=158623',
   Stereocaulon:
     '(Hoffm.)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=190030#null',
   Stereolepis:
@@ -92915,6 +92949,8 @@ export default {
     '(Hubricht, 1943)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93864#null',
   'Stygobromus subtilis':
     '(Hubricht, 1943)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=93933',
+  Stygocapitella:
+    '(Knoellner, 1934)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=68394',
   Stygomomonia:
     '(Szalay 1943)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=83471',
   'Stygonectes***retired***use Stygobromus':
@@ -93447,6 +93483,8 @@ export default {
   'Syllis ortizi': '',
   'Syllis sclerolaema':
     'http://www.marinespecies.org/aphia.php?p=taxdetails&id=174896',
+  'Syllis variegata':
+    '(Grube, 1860)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=183475',
   Symbiocladius:
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=129156',
   'Symbiocladius equitans':
@@ -95317,6 +95355,8 @@ export default {
     '(H and A Adams 1854)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=75407',
   Teredinidae:
     '(Rafinesque 1815)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=81832',
+  Teredothyra:
+    '(Bartsch, 1921)~https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=205664',
   Terelabrus:
     '(Randall and Fourmanoir 1998)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=613134',
   'Terelabrus rubrovittatus':

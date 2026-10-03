@@ -1625,6 +1625,7 @@ export default {
   UNI: '',
   UPPERSKAGIT:
     'Upper Skagit Indian Tribe (Tribal) || Upper Skagit Indian Tribe (Tribal)',
+  'UPRM-CIMA': '',
   URIWW:
     'Current (and historical) information on the water quality of surface water resources throughout Rhode Island, including lakes, ponds, reservoirs, rivers, streams and the marine environment.',
   URS: '',

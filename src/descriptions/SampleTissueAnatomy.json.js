@@ -80,6 +80,7 @@ export default {
     'A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation.',
   Hepatopancreas:
     'A glandular organ of digestion present in crustaceans, mollusks, and certain other invertebrates.',
+  'Hepatopancreas, Gill, Muscle': 'Combined tissue samples',
   'Hind Gut': 'The posterior part of the gut, toward the anus.',
   Intestine:
     'The lower part of the digestive system from the end of the stomach to the anus.',
