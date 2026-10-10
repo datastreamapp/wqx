@@ -495,7 +495,8 @@ export default {
     'Unsure of Stream Subsystem',
   'Fish Sampling Irregularity (choice list)': 'SITE_CONDITIONS',
   'Depth Method (choice list)': 'SONAR',
-  'Trophic State (choice list)': 'Oligotrophic',
+  'Trophic State (choice list)':
+    'Low nutrient levels, Clear, pristine water with very high visibility. Deep water oxygen is plentiful year-round. Cold-water fish species (like trout or salmon) thrive. Very little algae or weed growth.',
   'Secchi Reading Condition (choice list)': 'Poor',
   'Recreational Value (choice list)': 'Poor',
   'Ecological Integrity (choice list)': 'Poor',

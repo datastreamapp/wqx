@@ -66,6 +66,8 @@ export default {
   Concussion: '',
   'Creel Survey':
     'The term creel survey is applied to sampling surveys that target recreational anglers. Traditionally, the survey is conducted on‐site at access points along the water and the angler is asked about the fish species that have been targeted, the numbers of each species caught and released, and the time spent fishing. These data are used to estimate the total catch and effort for that recreational fishery in order to manage its harvest.',
+  'Cup Anemometer':
+    'Features three or four cups mounted on rotating arms; the spin speed is directly proportional to the wind speed',
   'D-Frame Net':
     'Used for muddy-bottom stream sampling, a long-handled D-frame or dip net is recommended for reaching into vegetation that grows along stream banks or is attached to the stream bottom, and for sweeping up macroinvertebrates dislodged from woody debris. D-frame nets also come in different mesh sizes.',
   'DH-81':
@@ -144,6 +146,8 @@ export default {
     'Traditionally, a fishing pole used to catch fish for determining abundance and to perform fish tissue analyses.',
   'Horizontal Secchi Disk':
     'The Secchi disk is a simple device used to estimate depth. It consists of a weighted circular plate, 20 cm in diameter, with the surface painted with opposing black and white quarters. It is attached to a calibrated line by a ring at the center, so that when held by the line, it hangs horizontally.',
+  'Hot-Wire Anemometer':
+    'Uses an electrically heated fine wire; measures wind speed based on how fast the air cools the wire',
   'Hydraulic Grab': '',
   'Hydraulic Push Core/Geoprobe': '',
   Hydroacoustics: '',
@@ -370,6 +374,8 @@ export default {
     'a large conical net dragged along the sea bottom in gathering fish or other marine life.',
   'Trot Line':
     'A trotline is a heavy fishing line with baited hooks attached at intervals by means of branch lines called snoods. A snood is a short length of line which is attached to the main line using a clip or swivel, with the hook at the other end.',
+  'Tube/Pressure Anemometer':
+    'Compares internal and external air pressure inside a sealed tube to calculate wind force',
   Tubing: 'Generic non-vinyl tubing',
   'Tucker Net':
     'MULTIPLE NET MID-WATER (TUCKER) TRAWL is a multi-net trawl designed for deep oblique tows where up to three replicate nets can be sequentially operated by a double release mechanism',
@@ -384,10 +390,14 @@ export default {
     'Isokinetic, depth-integrating methods are designed to produce a discharge-weighted (velocity-weighted) sample; that is, each unit of stream discharge is equally represented in the sample. Nonisokinetic (dip, discrete, and pump) sampling, such as those involving use of an automated point sampler, generally do not result in a discharge-weighted sample unless the stream is completely mixed laterally and vertically. Thus, the analytical results cannot be used to directly compute analyte discharges.',
   'USGS field procedure for sampling Hg-CH3':
     'Instrumentation is a Cold Vapor Atomic Fluoresence Spectrophotometer. Methylmercury (sometimes methyl mercury) is an organometallic cation with the formula [CH3Hg]+. It is the major source of organic mercury for all humans. It is a bioaccumulative environmental toxicant',
+  'Ultrasonic Anemometer':
+    'Uses sound waves to calculate wind dynamics and direction with no moving parts',
   'Van Dorn Bottle':
     'Samplers that obtain composite samples from several depths or pool samples from one depth and thus can be used for both horizontal and vertical sampling.',
   'Van Veen Grab':
     'A grab that relies on the closure of two opposing jaws for the collection of a sediment sample. The van Veen grab has long arms attached to each bucket, thus giving better leverage during closure. This type of grab has been used widely in benthic macrofauna studies, it is not recommended for use on coarser substrata.',
+  'Vane Anemometer':
+    'Combines a small fan or propeller with a tail vane to measure airflow and direction',
   'Variable Mesh Gill Net':
     'Gill nets are composed of vertical panels of netting that hang from a line with regularly spaced floaters that hold the line on the surface of the water.',
   'Variable voltage pulsator unit':

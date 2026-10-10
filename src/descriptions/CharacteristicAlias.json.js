@@ -65,7 +65,7 @@ export default {
   1685: 'STORETW Provider',
   1719: 'EPA ID (SUBSTANCE REGISTRY #)',
   1727: 'EPA ID (SUBSTANCE REGISTRY #)',
-  1875: 'EPA ID (SUBSTANCE REGISTRY #)',
+  1875: 'STORETW Provider',
   1909: 'EPA ID (SUBSTANCE REGISTRY #)',
   1941: 'STORETW Provider',
   2071: 'STORETW Provider',
@@ -77,13 +77,13 @@ export default {
   2196: 'STORETW Provider',
   2212: 'EPA ID (SUBSTANCE REGISTRY #)',
   2220: 'STORETW Provider',
-  2246: 'EPA ID (SUBSTANCE REGISTRY #)',
+  2246: 'STORETW Provider',
   2261: 'EPA ID (SUBSTANCE REGISTRY #)',
   2378: 'STORETW Provider',
   2402: 'EPA ID (SUBSTANCE REGISTRY #)',
   2428: 'EPA ID (SUBSTANCE REGISTRY #)',
   2436: 'EPA ID (SUBSTANCE REGISTRY #)',
-  2444: 'EPA ID (SUBSTANCE REGISTRY #)',
+  2444: 'STORETW Provider',
   2451: 'EPA ID (SUBSTANCE REGISTRY #)',
   2485: 'SRS List Provider',
   2535: 'STORETW Provider',
@@ -111,9 +111,9 @@ export default {
   3004: 'EPA ID (SUBSTANCE REGISTRY #)',
   3012: 'EPA ID (SUBSTANCE REGISTRY #)',
   3079: 'EPA ID (SUBSTANCE REGISTRY #)',
-  3103: 'STORETW Provider',
+  3103: 'EPA ID (SUBSTANCE REGISTRY #)',
   3152: 'EPA ID (SUBSTANCE REGISTRY #)',
-  3194: 'STORETW Provider',
+  3194: 'EPA ID (SUBSTANCE REGISTRY #)',
   3228: 'EPA ID (SUBSTANCE REGISTRY #)',
   3244: 'EPA ID (SUBSTANCE REGISTRY #)',
   3269: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -126,7 +126,7 @@ export default {
   3426: 'STORETW Provider',
   3434: 'STORETW Provider',
   3521: 'delta carbon-13/carbon-12 of organic carbon, soil or rock, per mil',
-  3525: 'EPA ID (SUBSTANCE REGISTRY #)',
+  3525: 'STORETW Provider',
   3529: 'Gross beta radioactivity counting error, suspended sediment, Sr-90/Y-90 curve, picocuries per liter',
   3533: 'STORETW Provider',
   3583: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -382,8 +382,8 @@ export default {
   10272: 'EPA ID (SUBSTANCE REGISTRY #)',
   10355: 'EPA ID (SUBSTANCE REGISTRY #)',
   10470: 'EPA ID (SUBSTANCE REGISTRY #)',
-  10488: 'STORETW Provider',
-  10496: 'STORETW Provider',
+  10488: 'EPA ID (SUBSTANCE REGISTRY #)',
+  10496: 'EPA ID (SUBSTANCE REGISTRY #)',
   10603: 'EPA ID (SUBSTANCE REGISTRY #)',
   10635: 'STORETW Provider',
   10636: 'ITIS TAXON SERIAL NUMBER',
@@ -562,7 +562,7 @@ export default {
   13326: 'EPA ID (SUBSTANCE REGISTRY #)',
   13342: 'EPA ID (SUBSTANCE REGISTRY #)',
   13359: 'STORETW Provider',
-  13458: 'STORETW Provider',
+  13458: 'EPA ID (SUBSTANCE REGISTRY #)',
   13501: '13501 ~ Strontium-90, water, unfiltered, picocuries per liter',
   13502:
     '13502 ~ Strontium-90 counting error, water, unfiltered, picocuries per liter',
@@ -574,10 +574,10 @@ export default {
     '13506 ~ Strontium-90 counting error, suspended sediment, picocuries per liter',
   13507:
     '13507 ~ Strontium-90 counting error, water, filtered, picocuries per liter',
-  13524: 'EPA ID (SUBSTANCE REGISTRY #)',
+  13524: 'STORETW Provider',
   13532: 'EPA ID (SUBSTANCE REGISTRY #)',
   13540: 'EPA ID (SUBSTANCE REGISTRY #)',
-  13581: 'STORETW Provider',
+  13581: 'EPA ID (SUBSTANCE REGISTRY #)',
   13615: 'STORETW Provider',
   13698: 'EPA ID (SUBSTANCE REGISTRY #)',
   13755: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -1276,7 +1276,7 @@ export default {
   18630: 'EPA ID (SUBSTANCE REGISTRY #)',
   18671: 'EPA ID (SUBSTANCE REGISTRY #)',
   18747: 'EPA ID (SUBSTANCE REGISTRY #)',
-  18754: 'EPA ID (SUBSTANCE REGISTRY #)',
+  18754: 'STORETW Provider',
   18788: 'EPA ID (SUBSTANCE REGISTRY #)',
   18846: 'STORETW Provider',
   18911: 'STORETW Provider',
@@ -2006,9 +2006,9 @@ export default {
   24299: 'EPA ID (SUBSTANCE REGISTRY #)',
   24356: 'EPA ID (SUBSTANCE REGISTRY #)',
   24364: 'EPA ID (SUBSTANCE REGISTRY #)',
-  24422: 'STORETW Provider',
+  24422: 'EPA ID (SUBSTANCE REGISTRY #)',
   24501: '24501 ~ Radium-224, water, unfiltered, picocuries per liter',
-  24646: 'EPA ID (SUBSTANCE REGISTRY #)',
+  24646: 'STORETW Provider',
   24687: 'STORETW Provider',
   24703: 'STORETW Provider',
   24729: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -3254,18 +3254,18 @@ export default {
   30940: 'EPA ID (SUBSTANCE REGISTRY #)',
   31013: 'STORETW Provider',
   31101: 'Respirable part|Micrograms/cubic meter (25 C)||RESP|',
-  31146: '',
-  31211: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31146: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31211: 'STORETW Provider',
   31229: 'STORETW Provider',
-  31302: 'STORETW Provider',
-  31310: 'STORETW Provider',
-  31328: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31302: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31310: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31328: 'SRS List Provider',
   31369: 'EPA ID (SUBSTANCE REGISTRY #)',
   31377: 'EPA ID (SUBSTANCE REGISTRY #)',
   31393: 'EPA ID (SUBSTANCE REGISTRY #)',
   31427: 'STORETW Provider',
-  31435: 'EPA ID (SUBSTANCE REGISTRY #)',
-  31443: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31435: 'STORETW Provider',
+  31443: 'STORETW Provider',
   31501:
     '31501 ~ Total coliforms, M-Endo MF method, immediate, water, colony forming units per 100 milliliters',
   31503:
@@ -3276,24 +3276,25 @@ export default {
     '31505 ~ Total coliforms, brilliant green lactose broth method, confirmed, water, most probable number per 100 milliliters',
   31507:
     '31507 ~ Total coliforms, completed test, water, most probable number per 100 milliliters',
-  31518: 'EPA ID (SUBSTANCE REGISTRY #)',
-  31526: 'EPA ID (SUBSTANCE REGISTRY #)',
-  31575: 'EPA ID (SUBSTANCE REGISTRY #)',
-  31583: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31518: 'STORETW Provider',
+  31526: 'STORETW Provider',
+  31575: 'STORETW Provider',
+  31583: 'STORETW Provider',
   31613:
     '31613 ~ Fecal coliforms, M-FC MF (0.7 micron) method, water, colonies per 100 milliliters',
   31615:
     '31615 ~ Fecal coliforms, EC broth method, water, most probable number per 100 milliliters',
   31616:
     '31616 ~ Fecal coliforms, M-FC MF (0.45 micron) method, water, colony forming units per 100 milliliters',
-  31617: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31617:
+    '31617 ~ Fecal coliforms, Eijkman test, 44.5 degrees Celsius, water, most probable number per 100 milliliters',
   31619:
     '31619 ~ Fecal coliforms, boric acid lactose broth, 43 degrees Celsius, water, most probable number per 100 milliliters',
   31621:
     '31621 ~ Fecal coliforms, A-1 broth method, 44.5 degrees Celsius, 24 hours, water, most probable number per 100 milliliters',
   31625:
     '31625 ~ Fecal coliforms, M-FC MF (0.7 micron) method, water, colony forming units per 100 milliliters',
-  31633: 'EPA ID (SUBSTANCE REGISTRY #)',
+  31633: 'STORETW Provider',
   31648:
     '31648 ~ Escherichia coli, m-TEC MF method, water, colonies per 100 milliliters',
   31649:
@@ -3378,7 +3379,8 @@ export default {
     '31756 ~ Total coliforms, water, concentrated, defined substrate test method (DSTM), most probable number per liter',
   31759:
     '31759 ~ Picocyanobacteria, PC-rich, biovolume, cubic microns per liter',
-  31760: 'STORETW Provider',
+  31760:
+    '31760 ~ Picocyanobacteria, PE-rich, biovolume, cubic microns per liter',
   31764:
     '31764 ~ Human enterovirus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter',
   31778:
@@ -3500,7 +3502,7 @@ export default {
     '31912 ~ Coliphage, F+-specific RNA, group III (human), water, quantitative polymerase chain reaction (qPCR) method, presence or absence per liter',
   31913:
     '31913 ~ Coliphage, F+-specific RNA, group IV (animal, bird), water, quantitative polymerase chain reaction (qPCR) method, presence or absence per liter',
-  31914: 'STORETW Provider',
+  31914: 'EPA ID (SUBSTANCE REGISTRY #)',
   31915:
     '31915 ~ Microcystin/nodularin genes mcyE/ndaF, water, DNA based, recoverable, genomic copies per microliter',
   31916:
@@ -5065,7 +5067,7 @@ export default {
     'Carbon (inorganic plus organic), bed sediment smaller than 62.5 micrometers, dry sieved, laboratory, total, dry weight, percent',
   35055:
     '35055 ~ Phosphorus, bed sediment smaller than 62.5 micrometers, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram as phosphorus',
-  35139: 'EPA ID (SUBSTANCE REGISTRY #)',
+  35139: 'STORETW Provider',
   35261: 'EPA ID (SUBSTANCE REGISTRY #)',
   35295: 'EPA ID (SUBSTANCE REGISTRY #)',
   35337: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -36597,11 +36599,11 @@ export default {
   102970: 'EPA ID (SUBSTANCE REGISTRY #)',
   103358: 'EPA ID (SUBSTANCE REGISTRY #)',
   103978: 'EPA ID (SUBSTANCE REGISTRY #)',
-  103994: 'STORETW Provider',
+  103994: 'EPA ID (SUBSTANCE REGISTRY #)',
   104083: 'EPA ID (SUBSTANCE REGISTRY #)',
-  104158: 'STORETW Provider',
+  104158: 'EPA ID (SUBSTANCE REGISTRY #)',
   104364: 'EPA ID (SUBSTANCE REGISTRY #)',
-  104901: 'STORETW Provider',
+  104901: 'EPA ID (SUBSTANCE REGISTRY #)',
   104976: 'EPA ID (SUBSTANCE REGISTRY #)',
   105544: 'EPA ID (SUBSTANCE REGISTRY #)',
   105676: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -36917,7 +36919,7 @@ export default {
   184754: 'STORETW Provider',
   185488: 'EPA ID (SUBSTANCE REGISTRY #)',
   185512: 'EPA ID (SUBSTANCE REGISTRY #)',
-  187799: 'EPA ID (SUBSTANCE REGISTRY #)',
+  187799: 'STORETW Provider',
   188433: 'SRS number',
   189415: 'STORETW Provider',
   189555: 'STORETW Provider',
@@ -37027,22 +37029,22 @@ export default {
   227876: 'EPA ID (SUBSTANCE REGISTRY #)',
   228676: 'EPA ID (SUBSTANCE REGISTRY #)',
   230318: 'STORETW Provider',
-  230326: 'EPA ID (SUBSTANCE REGISTRY #)',
-  230334: 'STORETW Provider',
+  230326: 'STORETW Provider',
+  230334: 'EPA ID (SUBSTANCE REGISTRY #)',
   230375: 'STORETW Provider',
-  230482: 'EPA ID (SUBSTANCE REGISTRY #)',
-  230508: 'STORETW Provider',
+  230482: 'STORETW Provider',
+  230508: 'EPA ID (SUBSTANCE REGISTRY #)',
   230516: 'EPA ID (SUBSTANCE REGISTRY #)',
-  230524: 'EPA ID (SUBSTANCE REGISTRY #)',
-  230532: 'STORETW Provider',
-  230557: 'STORETW Provider',
-  230565: 'STORETW Provider',
+  230524: 'STORETW Provider',
+  230532: 'EPA ID (SUBSTANCE REGISTRY #)',
+  230557: 'EPA ID (SUBSTANCE REGISTRY #)',
+  230565: 'EPA ID (SUBSTANCE REGISTRY #)',
   230599: 'EPA ID (SUBSTANCE REGISTRY #)',
   231464: 'STORETW Provider',
-  231852: 'STORETW Provider',
-  231894: 'STORETW Provider',
+  231852: 'EPA ID (SUBSTANCE REGISTRY #)',
+  231894: 'EPA ID (SUBSTANCE REGISTRY #)',
   231902: 'STORETW Provider',
-  231951: 'EPA ID (SUBSTANCE REGISTRY #)',
+  231951: 'STORETW Provider',
   231977: 'EPA ID (SUBSTANCE REGISTRY #)',
   232025: 'EPA ID (SUBSTANCE REGISTRY #)',
   232041: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -37079,7 +37081,7 @@ export default {
   243071: 'STORETW Provider',
   243097: 'EPA ID (SUBSTANCE REGISTRY #)',
   244178: 'EPA ID (SUBSTANCE REGISTRY #)',
-  244335: 'EPA ID (SUBSTANCE REGISTRY #)',
+  244335: 'STORETW Provider',
   244491: 'EPA ID (SUBSTANCE REGISTRY #)',
   244616: 'EPA ID (SUBSTANCE REGISTRY #)',
   245050: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -37192,12 +37194,12 @@ export default {
   308809: 'STORETW Provider',
   308817: 'STORETW Provider',
   308825: 'STORETW Provider',
-  310664: 'STORETW Provider',
+  310664: 'EPA ID (SUBSTANCE REGISTRY #)',
   313221: 'EPA ID (SUBSTANCE REGISTRY #)',
   315127: 'EPA ID (SUBSTANCE REGISTRY #)',
   315366: 'STORETW Provider',
   316356: 'EPA ID (SUBSTANCE REGISTRY #)',
-  316398: 'STORETW Provider',
+  316398: 'EPA ID (SUBSTANCE REGISTRY #)',
   317966: 'EPA ID (SUBSTANCE REGISTRY #)',
   320408: 'EPA ID (SUBSTANCE REGISTRY #)',
   320762: 'EPA ID (SUBSTANCE REGISTRY #)',
@@ -39471,7 +39473,7 @@ export default {
   524672417: 'EPA ID (SUBSTANCE REGISTRY #)',
   '.beta.-Pinene': 'WQP-CharacteristicDomain',
   '2,4-DB 2-butoxyethyl ester': '',
-  '3-Phenlydecane': 'SYSTEMATIC NAME',
+  '3-Phenlydecane': 'STORETW Provider',
   'Acetic acid, 2-ethylhexyl ester': 'WQP-CharacteristicDomain',
   'Acidity, hydrogen ion (H+)': 'WQX DOMAIN VALUES',
   'Acidity, hydrogen ion (H+) as CaCO3': '',
@@ -43296,7 +43298,7 @@ export default {
   '1(or 2)-(2-Methoxymethylethoxy)propanol': 'SRS List Provider',
   '1, 1, 6, -trimethyl-1,2-dihydronapthalene': '',
   "1,1'(3H,3'H)-Spirobi[2,1-benzoxasilole], 3,3,3',3'-tetrakis(trifluoromethyl)-":
-    '',
+    'national unique domain values',
   "1,1',1'',1'''-[(5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-pentadecafluoroundecane-1,3-diyl)diphosphoryl]tetraaziridine":
     'national unique domain values',
   "1,1',1''-(2-Chloro-1,1,2-ethenetriyl)tris(4-methoxybenzene)":
@@ -43314,13 +43316,13 @@ export default {
     'national unique domain values',
   "1,1'-(1,1,2,2-Tetrafluoroethane-1,2-diyl)bis[3-(trifluoromethyl)benzene]":
     'national unique domain values',
-  "1,1'-(1,1,2,2-Tetrafluoroethane-1,2-diyl)di(pyrrolidin-2-one)":
+  "1,1'-(1,1,2,2-Tetrafluoroethane-1,2-diyl)di(pyrrolidin-2-one)": '',
+  "1,1'-(1,1,2,2-Tetrafluoroethane-1,2-diyl)dibenzene":
     'national unique domain values',
-  "1,1'-(1,1,2,2-Tetrafluoroethane-1,2-diyl)dibenzene": '',
   "1,1'-(1,2,3,3,4,4-Hexafluorocyclobutane-1,2-diyl)bis(4-bromobenzene)": '',
-  "1,1'-(1-Pentene-3,5-diyl)dibenzene": 'CHARACTERISTIC Table',
+  "1,1'-(1-Pentene-3,5-diyl)dibenzene": 'STANDARD NAME (Normalized)',
   "1,1'-(2,2,3,3,4,4,5,5-Octafluorocyclopentane-1,1-diyl)bis(3,4-dimethylbenzene)":
-    'national unique domain values',
+    '',
   "1,1'-(2,2,3,4,4,4-Hexafluorobutane-1,3-diyl)dibenzene":
     'national unique domain values',
   "1,1'-(2-chloroethylidene)bis(4-chlorobenzene)": 'STANDARD NAME (Normalized)',
@@ -43329,32 +43331,31 @@ export default {
   "1,1'-(Oxybis((1-methylethylene)oxy))bis(3-(perfluorododecyl)propan-2-ol)":
     'national unique domain values',
   "1,1'-(Oxybis((2-methylethylene)oxy))bis(3-(perfluoro-9-methyldecyl)propan-2-ol)":
-    'national unique domain values',
-  "1,1'-(Oxybis(ethane-1,2-diyloxy))bis(heptadecafluorononene)":
-    'national unique domain values',
+    '',
+  "1,1'-(Oxybis(ethane-1,2-diyloxy))bis(heptadecafluorononene)": '',
   "1,1'-(Oxybis(propyleneoxy))bis(3-(perfluoro-7-methyloctyl)propan-2-ol)":
     'national unique domain values',
-  "1,1'-(Oxybis(propyleneoxy))bis(3-(perfluorooctyl)propan-2-ol)":
+  "1,1'-(Oxybis(propyleneoxy))bis(3-(perfluorooctyl)propan-2-ol)": '',
+  "1,1'-(Piperazine-1,4-diyl)bis(heptafluorobutan-1-one)":
     'national unique domain values',
-  "1,1'-(Piperazine-1,4-diyl)bis(heptafluorobutan-1-one)": '',
-  "1,1'-(chloroethenylidene)bis(4-chlorobenzene)": 'SYSTEMATIC NAME',
+  "1,1'-(chloroethenylidene)bis(4-chlorobenzene)": 'STORETW Provider',
   "1,1'-Binaphthalene": 'STANDARD NAME (Normalized)',
   "1,1'-Biphenyl": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2',3,4-trichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,4',5,5',6,6'-decachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',4,4',5,5',6,6'-decafluoro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',4,4',5,5',6-nonachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',4,4',5,5'-octachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,3',4,4',5,5',6,6'-decafluoro-": 'SRS List Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,4',5,5',6-nonachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,4',5,5'-octachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,4',5,6'-octachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,4',5,6'-octachloro- and/or 2,2',3,4,4',5,5',6-Octachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',3,3',4,4',5,6,6'-nonachloro-": 'STORETW Provider',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,3',4,4',5,6,6'-nonachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,4',5,6-octachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,4',5,6-octachloro- and/or 2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,4',5-heptachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,4',5-heptachloro- and/or 2,3,3',4,4',5,6-Heptachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,4',6,6'-octachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,4',6,6'-octachloro- and/or 2,2',3,3',4,5,6,6'-Octachlorobiphenyl":
     'SYSTEMATIC NAME',
@@ -43363,20 +43364,20 @@ export default {
     'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,4',6-heptachloro- and/or 2,2',3,3',5,5',6,6'-Octachlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',3,3',4,4'-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,4'-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,4'-hexachloro- and/or 2,3',4,4',5,5'-hexachlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,4'-hexachloro- and/or 2,3,4,4',5,6-Hexachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,5',6'-heptachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,3',4,5',6,6'-octachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',4,5',6-heptachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',4,5'-hexachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,3',4,5,5',6'-octachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',4,5,5',6,6'-nonachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',4,5,5',6-octachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,5',6,6'-octachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,5',6-heptachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,5'-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,3',4,5,5',6'-octachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,5,5',6,6'-nonachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',4,5,5',6-octachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,5,5',6-octachloro- and/or 2,2',3,3',4,5,5',6'-Octachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,5,5'-heptachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',4,5,5'-heptachloro- and/or 2,2',3,3',4,4',6,6'-Octachlorobiphenyl":
     'SRS List Provider',
@@ -43387,7 +43388,7 @@ export default {
   "1,1'-Biphenyl, 2,2',3,3',4,5-hexachloro- and/or 2,2',3,4,4',5'-Hexachlorobiphenyl and/or 2,3,3',4,5,6-Hexachlorobiphenyl":
     'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,6'- hexachloro- and/or 2,3',4,4',5',6-hexachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,6'-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,3',4,6'-hexachloro- and/or 2,2',4,4',5,5'-hexachlorobiphenyl":
     'SYSTEMATIC NAME',
@@ -43397,7 +43398,7 @@ export default {
   "1,1'-Biphenyl, 2,2',3,3',5,5',6,6'-octachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',5,5',6-heptachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',5,5'-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',5,6'-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,3',5,6'-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',5,6'-hexachloro- and/or 2,2',3,4,5',6-Hexachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',5,6,6'-heptachloro-": 'SYSTEMATIC NAME',
@@ -43407,85 +43408,85 @@ export default {
   "1,1'-Biphenyl, 2,2',3,3',5-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',5-pentachloro- and/or 2,2',4,4',5-Pentachlorobiphenyl":
     'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,3',6,6'-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,3',6,6'-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,3',6-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3',6-pentachloro- and/or 2,2',3,5,5',6-Hexachlorobiphenyl and/or 2,2',4,4',5,6'-Hexachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,3',6-pentachloro- and/or 2,2',3,5,5'-Pentachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,3'-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,3'-tetrachloro- and/or 2,2',3,4-Tetrachlorobiphenyl and/or 2,3',4',6-Tetrachlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',3,4',5',6-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,4',5',6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4',5'-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,4',5,5',6-heptachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,4',5,5',6-heptachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4',5,5'-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4',5,6'-hexachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,4',5,6,6'-heptachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,4',5,6-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4',5,6,6'-heptachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4',5,6-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4',5,6-hexachloro- and/or 2,2',3,4',5',6-Hexachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4',5-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4',5-pentachloro- and/or 2,2',4,5,5'-Pentachloro-1,1'-biphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,4',5-pentachloro- and/or 2,2',4,5,5'-Pentachloro-1,1'-biphenyl and/or 2,3,3',5',6-Pentachlorobiphe":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4',6'-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,4',6,6'-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4',6,6'-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4',6-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,4'-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,4,4',5',6-heptachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,4'-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4,4',5',6-heptachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5',6-heptachloro- and/or 2,2',3,4,5,5',6-Heptachlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5'-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5'-hexachloro- and/or 2,3,3',4',5,6-Hexachlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5'-hexachloro- and/or 2,3,3',4,5,6-Hexachlorobiphenyl":
     'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,4,4',5,5',6-octachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,4,4',5,5'-heptachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,4,4',5,5'-heptachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5,5'-heptachloro- and/or 2,3,3',4',5,5',6-Heptachlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5,6'-heptachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5,6'-heptachloro- and/or 2,2',3,4',5,5',6-Heptachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',3,4,4',5,6,6'-octachloro-": 'STORETW Provider',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4,4',5,6,6'-octachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',5,6-heptachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,4',5-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,4',5-hexachloro- and/or 2,2',3,3',4,6,6'-Heptachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',3,4,4',6'-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,4,4',6,6'-heptachloro-": 'SYSTEMATIC NAME',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4,4',6'-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,4,4',6,6'-heptachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,4',6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,4',6-hexachloro- and/or 2,2',3,4,4',6'-Hexachlorobiphenyl":
     'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,4,4'-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,4'-pentachloro- and/or 2,3,4,5,6-Pentachlorobiphenyl and/or 2,3,4',5,6-Pentachlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,5',6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,5'-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,5'-pentachloro- and/or 2,3,4,4',6-Pentachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,4,5,5',6-heptachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,5,5'-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,5,5'-hexachloro- and/or 2,2',3,3',5,6,6'-Heptachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',3,4,5,6'-hexachloro-": 'STORETW Provider',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4,5,6'-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,5,6,6'-heptachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,4,5,6-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,4,5,6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4,5-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,5-pentachloro- and/or 2,2',3,4,5'-Pentachlorobiphenyl and/or 2,2',3,4',5'-Pentachlorobiphenyl an":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',3,4,6'-pentachloro-": 'SYSTEMATIC NAME',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4,6'-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,6,6'-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,4,6-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4,6-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4,6-pentachloro- and/or 2,2',3,4',6-Pentachlorobiphenyl":
     'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,4-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,4-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,4-tetrachloro- and/or 2,3,4',6-Tetrachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,4-tetrachloro- and/or 2,3,4',6-Tetrachlorobiphenyl and/or  2,3',4',6-Tetrachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,4-tetrachloro- and/or 2,3,4',6-Tetrachlorobiphenyl and/or 2,3',5,5'-Tetrachlorobiphenyl":
     'SRS List Provider',
   "1,1'-Biphenyl, 2,2',3,5',6-pentachloro-": 'SYSTEMATIC NAME',
@@ -43493,27 +43494,27 @@ export default {
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3,5'-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,5,5',6-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,5,5'-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,5,6'-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,5,6,6'-hexachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',3,5,6-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,5,5'-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,5,6'-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,5,6,6'-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',3,5,6-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,5,6-pentachloro- and/or 2,2',3,5',6-Pentachlorobiphenyl and/or 2,2',3,4',6'-Pentachlorobiphenyl an":
-    'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,5-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3,6'-tetrachloro-": 'SYSTEMATIC NAME',
+    'SRS List Provider',
+  "1,1'-Biphenyl, 2,2',3,5-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',3,6'-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,6,6'-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,6-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',3,6-tetrachloro- and/or 2,2',4,6'-Tetrachlorobiphenyl":
-    'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',3-trichloro-": 'STORETW Provider',
+    'SRS List Provider',
+  "1,1'-Biphenyl, 2,2',3-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',3-trichloro- and/or 2,4',6-Trichlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',4,4',5,5'-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',4,4',5,5'-hexachloro- and/or 2,2',3,3',4,5,6-Heptachlorobiphenyl and/or 2,2',3,3',4,5',6,6'-Octachlo":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',4,4',5,5'-hexachloro- and/or 2,3',4,4',5',6-Hexachlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',4,4',5,6'-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',4,4',5,6'-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',4,4',5-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',4,4',6,6'-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',4,4',6-pentachloro-": 'STORETW Provider',
@@ -43528,130 +43529,130 @@ export default {
     'SRS List Provider',
   "1,1'-Biphenyl, 2,2',4,5,5'-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',4,5,6'-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',4,5-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',4,5-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',4,6'-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',4,6,6'-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',4,6-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',4,6,6'-pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,2',4,6-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',4,6-tetrachloro- and/or 2,2',5,6'-Tetrachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',4-trichloro-": 'STORETW Provider',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',4-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',4-trichloro- and/or 2,2',5-Trichlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,2',5,5'-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',5,5'-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',5,6'-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,2',5-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2',5-trichloro- and/or 2,4,6-Trichlorobiphenyl":
-    'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,2',6,6'-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2',6-trichloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,2'-dichloro-": 'STORETW Provider',
+    'SRS List Provider',
+  "1,1'-Biphenyl, 2,2',6,6'-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2',6-trichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,2'-dichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,2'-dichloro- and/or 2,6-Dichloro-1,1'-biphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,3',4',5',6-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3',4',5'-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3',4',5,5'-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3',4',5-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',4',5',6-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3',4',5'-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',4',5,5'-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3',4',5-tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4',5-tetrachloro- and/or 2,3',4',5'-Tetrachlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,3',4',6-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3',4,4',5',6-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3',4,4',5',6-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3',4,4',5'-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4,4',5'-pentachloro- and/or 2,2',3,4',5',6-Hexachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4,4',5'-pentachloro- and/or 2,2',4,4',5,5'-Hexachlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,3',4,4',5,5'-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3',4,4',5-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3',4,4',6-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3',4,4'-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',4,4',5,5'-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',4,4',5-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3',4,4',6-pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',4,4'-tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4,4'-tetrachloro- and/or 2,2',3,5',6-Pentachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4,5',6-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4,5'-tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4,5,5'-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3',4,5-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',4,5-tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',4,6-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3',4-trichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3',4-trichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3',5',6-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3',5'-trichloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',5'-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',5,5'-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3',5-trichloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3',5-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3',5-trichloro- and/or 2,4,5-Trichlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,3',6-trichloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3'-dichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3'-dichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4',5',6-hexachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3,3',4',5'-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,3',4',5'-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4',5,5',6-heptachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',4',5,5'-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',4',5,6-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',4',5-pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',4',5,5'-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',4',5,6-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',4',5-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4',5-pentachloro- and/or 2,3',4',5,5'-Pentachlorobiphenyl":
     'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',4',6-pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',4',6-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4',6-pentachloro- and/or 2,3,4,4',6-Pentachlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4'-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4'-tetrachloro- and/or 2,3,4,4'-Tetrachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,3,3',4,4',5',6-heptachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',4,4',5'-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',4,4',5,5',6-octachloro-": 'SYSTEMATIC NAME',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,3',4,4',5',6-heptachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',4,4',5'-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',4,4',5,5',6-octachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4,4',5,5'-heptachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4,4',5,6-heptachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3,3',4,4',5-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,3',4,4',5-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4,4',5-hexachloro- and/or 2,3,3',4,4',5'-Hexachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4,4',6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4,5',6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4,5'-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3,3',4,5,5',6-heptachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',4,5,5'-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,3',4,5,5',6-heptachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',4,5,5'-hexachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4,5,6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4,5-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4,6-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',4-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',4-tetrachloro- and/or 2,2',3,4',6-Pentachlorobiphenyl":
-    'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',5',6-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,3',5'-tetrachloro-": 'SYSTEMATIC NAME',
+    'SRS List Provider',
+  "1,1'-Biphenyl, 2,3,3',5',6-pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',5'-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3',5,5',6-hexachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',5,5'-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',5,6-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3,3',5-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,3',5-tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3',6-tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3'-tetrachloro- and/or 2,3,4,6-Tetrachlorobiphenyl and/or 2,4,4',6-Tetrachlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,3,3'-trichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,3'-trichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,3'-trichloro- and/or 2,3',4'-Trichlorobiphenyl":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,1'-Biphenyl, 2,3,3'-trichloro- and/or 2,4,4'-Trichlorobiphenyl":
     'SRS List Provider',
   "1,1'-Biphenyl, 2,3,3'4,4'-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,3'4,4'-pentachloro- and/or 2,2',3,3',4,6'-Hexachlorobiphenyl and/or 2,2',4,4',5,5'-Hexachlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,4',5,6-pentachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,4',5-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3,4',6-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,4',6-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,4'-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,4'-trichloro- and/or 2,2',4,6'-Tetrachlorobiphenyl":
-    'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,4,4',5,6-hexachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,4,4',5-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,3,4,4',6-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,4,4'-tetrachloro-": 'STORETW Provider',
+    'SRS List Provider',
+  "1,1'-Biphenyl, 2,3,4,4',5,6-hexachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,4,4',5-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,4,4',6-pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,4,4'-tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,4,5,6-pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,4,5-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,4,5-tetrachloro- and/or 2,3',4',5-Tetrachlorobiphenyl and/or 2,4,4',5-Tetrachlorobiphenyl and/or 2,3'":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,4,5-tetrachloro- and/or 2,4,4',5-Tetrachlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 2,3,4,6-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,4,6-tetrachloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,3,4-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,4-trichloro- and/or 2,3',4'-Trichlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,3,5,6-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,3,5-trichloro-": 'STORETW Provider',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,3,5,6-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,3,5-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,6-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,3,6-trichloro- and/or 2,3',6-Trichlorobiphenyl":
     'SYSTEMATIC NAME',
@@ -43659,54 +43660,54 @@ export default {
   "1,1'-Biphenyl, 2,3-dichloro- and/or 2,4'-Dichloro-1,1'-biphenyl":
     'SRS List Provider',
   "1,1'-Biphenyl, 2,4',5-trichloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,4',6-trichloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,4'-dichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,4',6-trichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,4'-dichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,4,4',5-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,4,4',6-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,4,4'-trichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,4,4',6-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,4,4'-trichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 2,4,4'-trichloro- and/or 2,4',5-Trichlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,4,5-trichloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2,4,6-trichloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,4-dichloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2,4,6-trichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,4-dichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 2,4-dichloro- and/or 2,5-Dichloro-1,1'-biphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 2,5-dichloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 2,6-dichloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2-chloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 2-fluoro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3,3',4,4',5,5'-hexachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 3,3',4,4',5-pentachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3,3',4,4'-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3,3',4,4'-tetrachloro- and/or 2,3,3',4',6-Pentachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 3,3',4,5'-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3,3',4,5,5'-pentachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 3,3',4,5-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 3,3',4-trichloro": 'STORETW Provider',
-  "1,1'-Biphenyl, 3,3',5,5'-tetrachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3,3',5,5'-tetrachloro- and/or 2,2',3,5',6-Pentachlorobiphenyl":
     'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,5-dichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 2,6-dichloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2-chloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 2-fluoro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3,3',4,4',5,5'-hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,3',4,4',5-pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3,3',4,4'-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3,3',4,4'-tetrachloro- and/or 2,3,3',4',6-Pentachlorobiphenyl":
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,3',4,5'-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,3',4,5,5'-pentachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,3',4,5-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,3',4-trichloro": 'STORETW Provider',
+  "1,1'-Biphenyl, 3,3',5,5'-tetrachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3,3',5,5'-tetrachloro- and/or 2,2',3,5',6-Pentachlorobiphenyl":
+    'SRS List Provider',
   "1,1'-Biphenyl, 3,3',5-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 3,3'-dichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 3,4',5-trichloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3,4'-dichloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3,4,4',5-tetrachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, 3,4,4'-trichloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3,4'-dichloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3,4,4',5-tetrachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,4,4'-trichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 3,4,4'-trichloro- and/or 2,2',3,4'-Tetrachlorobiphenyl":
     'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 3,4,4'-trichloro- and/or 2,2',3,4'-Tetrachlorobiphenyl and/or 2,3,3',6-Tetrachlorobiphenyl":
-    'SRS List Provider',
-  "1,1'-Biphenyl, 3,4,5-trichloro-": 'SYSTEMATIC NAME',
+    'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,4,5-trichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 3,4-dichloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 3,4-dichloro- and/or 3,4'-Dichlorobiphenyl":
     'SRS List Provider',
-  "1,1'-Biphenyl, 3,5-dichloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3-chloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, 3-methyl-": 'STORETW Provider',
-  "1,1'-Biphenyl, 4,4'-dichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 3,5-dichloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3-chloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, 3-methyl-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, 4,4'-dichloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 4,4'-dichloro- and/or 2,2',4-Trichlorobiphenyl":
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   "1,1'-Biphenyl, 4-(1,1,2,2-tetrafluoroethoxy)-":
     'national unique domain values',
   "1,1'-Biphenyl, 4-(1,1,2,3,3,3-hexafluoropropoxy)-":
@@ -43714,36 +43715,37 @@ export default {
   "1,1'-Biphenyl, 4-chloro-": 'STORETW Provider',
   "1,1'-Biphenyl, 4-nitro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, ar,ar'-dimethyl-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, bromo derivs.": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, bromo derivs.": 'SRS List Provider',
   "1,1'-Biphenyl, chloro derivs.": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, chloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, dichloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, heptachloro-": 'SYSTEMATIC NAME',
-  "1,1'-Biphenyl, hexachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, methyl-": 'STORETW Provider',
-  "1,1'-Biphenyl, nonachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, octachloro-": 'STORETW Provider',
-  "1,1'-Biphenyl, pentachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, chloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, dichloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, heptachloro-": 'STORETW Provider',
+  "1,1'-Biphenyl, hexachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, methyl-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, nonachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, octachloro-": 'SYSTEMATIC NAME',
+  "1,1'-Biphenyl, pentachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, tetrachloro-": 'SYSTEMATIC NAME',
   "1,1'-Biphenyl, trichloro-": 'STORETW Provider',
-  "1,1'-Oxybis(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentane)": '',
+  "1,1'-Oxybis(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentane)":
+    'national unique domain values',
   "1,1'-Oxybis[3-chloropropane]": 'STANDARD NAME (Normalized)',
-  "1,1'-Oxybis[4-(tridecafluorohexyl)benzene]": 'national unique domain values',
+  "1,1'-Oxybis[4-(tridecafluorohexyl)benzene]": '',
   "1,1'-Spirobi[3H-2,1-benzoxatellurole],3,3,3',3'-tetrakis(trifluoromethyl)-":
     'national unique domain values',
   "1,1'-Spirobi[3H-2,1-benzoxathiole], 3,3,3',3'-tetrakis(trifluoromethyl)-":
-    'national unique domain values',
+    '',
   "1,1'-Spirobi[3H-2,1-benzoxathiole], 3,3,3',3'-tetrakis(trifluoromethyl)-, 1-oxide":
+    '',
+  "1,1'-[1,3-Phenylenebis(oxy)]bis[3-(tridecafluorohexyl)benzene]":
     'national unique domain values',
-  "1,1'-[1,3-Phenylenebis(oxy)]bis[3-(tridecafluorohexyl)benzene]": '',
   "1,1'-[Oxybis(1,1,2,3,3,3-hexafluoropropane-1,2-diyl)]bis(4-bromo-2,6-difluorobenzene)":
     'national unique domain values',
   "1,1'-[Oxybis(1,1,2,3,3,3-hexafluoropropane-1,2-diyl)]bis(4-bromo-2-chloro-6-fluorobenzene)":
-    'national unique domain values',
+    '',
   "1,1'-[Oxybis[(1-methyl-2,1-ethanediyl)oxy]]bis[3-(perfluorodecyl)propan-2-ol]":
     'national unique domain values',
-  "1,1'-[Peroxybis(carbonyloxy)]bis(2,2,3,3,4,4,5,5-octafluoropentane)":
-    'national unique domain values',
+  "1,1'-[Peroxybis(carbonyloxy)]bis(2,2,3,3,4,4,5,5-octafluoropentane)": '',
   "1,1'-{(1,1,2,2-Tetrafluoroethane-1,2-diyl)bis[(4,1-phenylene)oxy]}dibenzene":
     '',
   "1,1':2',1''-Terphenyl": 'STORETW Provider',
@@ -43752,14 +43754,13 @@ export default {
   "1,1':4',1''-Terphenyl-2,2',2'',3,3',3'',4,4'',5,5',5'',6,6',6''-d14":
     'SYSTEMATIC NAME',
   "1,1':4',1'':4'',1'''-Quaterphenyl": 'SYSTEMATIC NAME',
-  '1,1,1,1,2,2,3,3,4,4,5,5-Dodecafluoro-1lambda~6~-thiepane':
-    'national unique domain values',
-  '1,1,1,2,2,11,11,12,12,12-Decafluorododecane':
-    'national unique domain values',
+  '1,1,1,1,2,2,3,3,4,4,5,5-Dodecafluoro-1lambda~6~-thiepane': '',
+  '1,1,1,2,2,11,11,12,12,12-Decafluorododecane': '',
   '1,1,1,2,2,3,3,10,10,11,11,12,12,12-Tetradecafluoro-5,8-diiodododecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,10,10,11,11,12,12,12-Tetradecafluorododecane': '',
-  '1,1,1,2,2,3,3,11,11,12,12,13,13,13-Tetradecafluoro-5,9-diiodotridecane': '',
+  '1,1,1,2,2,3,3,11,11,12,12,13,13,13-Tetradecafluoro-5,9-diiodotridecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,12,12,13,13,14,14,14-Tetradecafluorotetradecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,14,14,15,15,16,16,16-Tetradecafluorohexadecane':
@@ -43768,22 +43769,23 @@ export default {
     '',
   '1,1,1,2,2,3,3,4,4,11,11,12,12,13,13,14,14,14-Octadecafluoro-6,9-diiodotetradecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,11,11,12,12,13,13,14,14,14-Octadecafluorotetradecane': '',
-  '1,1,1,2,2,3,3,4,4,12,12,13,13,14,14,15,15,15-Octadecafluoro-6,10-diiodopentadecane':
+  '1,1,1,2,2,3,3,4,4,11,11,12,12,13,13,14,14,14-Octadecafluorotetradecane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,12,12,13,13,14,14,15,15,15-Octadecafluoro-6,10-diiodopentadecane':
+    '',
   '1,1,1,2,2,3,3,4,4,13,13,14,14,15,15,16,16,16-Octadecafluoro-6,11-diiodohexadecane':
     '',
   '1,1,1,2,2,3,3,4,4,13,13,14,14,15,15,16,16,16-Octadecafluorohexadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,15,15,16,16,17,17,18,18,18-Octadecafluorooctadecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,12,12,13,13,14,14,15,15,16,16,16-Docosafluorohexadecane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,14,14,15,15,16,16,17,17,18,18,18-Docosafluorooctadecane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,16,16,17,17,18,18,19,19,20,20,20-Docosafluoroicosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,19,19,20,20,21,21,22,22,23,23,23-Docosafluorotricosane':
+  '1,1,1,2,2,3,3,4,4,5,5,14,14,15,15,16,16,17,17,18,18,18-Docosafluorooctadecane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,16,16,17,17,18,18,19,19,20,20,20-Docosafluoroicosane':
     '',
+  '1,1,1,2,2,3,3,4,4,5,5,19,19,20,20,21,21,22,22,23,23,23-Docosafluorotricosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,12,12,13,13,14,14,15,15,16,16,17,17,17-Hexacosafluoro-8,10-diiodoheptadecane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,13,13,14,14,15,15,16,16,17,17,18,18,18-Hexacosafluoro-8,11-diiodooctadecane':
@@ -43791,42 +43793,43 @@ export default {
   '1,1,1,2,2,3,3,4,4,5,5,6,6,13,13,14,14,15,15,16,16,17,17,18,18,18-Hexacosafluorooctadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,15,15,16,16,17,17,18,18,19,19,20,20,20-Hexacosafluoro-8,13-diiodoicosane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,17,17,18,18,19,19,20,20,21,21,22,22,22-Hexacosafluorodocosane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,17,17,18,18,19,19,20,20,21,21,22,22,22-Hexacosafluorodocosane':
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,14,14,15,15,16,16,17,17,18,18,19,19,20,20,20-Triacontafluoro-9,12-diiodoicosane':
     '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,10-Octadecafluoro-10-iododecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,10-Octadecafluoro-10-iododecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,11,11,12,12,12-Docosafluoro-9-iodododecane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,11,11,12,12,13,13,14,14,14-Hexacosafluoro-9-iodotetradecane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,11,11,12,12,13,13,14,14,14-Hexacosafluorotetradecane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,11,11,12,12,13,13,14,14,15,15,16,16,16-Triacontafluoro-9-iodohexadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,18-Tetratriacontafluoro-9-iodooctadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,18-Tetratriacontafluorooctadecane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20,20-Tetratriacontafluoroicosane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,14,14,15,15,16,16,17,17,18,18,19,19,20,20,21,21,21-Tetratriacontafluoro-10,12-diiodohenicosane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,22-Tetratriacontafluoro-10,13-diiododocosane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,22-Tetratriacontafluorodocosane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,24-Tetratriacontafluoro-10,15-diiodotetracosane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,24-Tetratriacontafluorotetracosane':
     '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,24-Tetratriacontafluorotetracosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15-Hentriacontafluoropentadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14-Nonacosafluorotetradecane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14-Nonacosafluorotriacontane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13-Heptacosafluoro-15-iodopentadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13-Heptacosafluorodocosane':
@@ -43836,13 +43839,13 @@ export default {
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13-Heptacosafluorotridecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,29,29,30,30,30-Pentacontafluoro-14,17-diiodotriacontane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,29,29,30,30,30-Pentacontafluorotriacontane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,29,29,30,30,31,31,32,32,32-Pentacontafluorodotriacontane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,23,23,24,24,25,25,26,26,27,27,28,28,29,29,30,30,31,31,32,32,33,33,34,34,34-Pentacontafluorotetratriacontane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,25,25,26,26,27,27,28,28,29,29,30,30,31,31,32,32,33,33,34,34,35,35,36,36,36-Pentacontafluoro-14,23-diiodohexatriacontane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,25,25,26,26,27,27,28,28,29,29,30,30,31,31,32,32,33,33,34,34,35,35,36,36,36-Pentacontafluorohexatriacontane':
@@ -43850,13 +43853,13 @@ export default {
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,33,33,34,34,35,35,36,36,37,37,38,38,39,39,40,40,41,41,42,42,43,43,44,44,44-Pentacontafluorotetratetracontane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,35,35,36,36,37,37,38,38,39,39,40,40,41,41,42,42,43,43,44,44,45,45,46,46,46-Pentacontafluoro-14,33-diiodohexatetracontane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,35,35,36,36,37,37,38,38,39,39,40,40,41,41,42,42,43,43,44,44,45,45,46,46,46-Pentacontafluorohexatetracontane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluoro-14-iodoicosane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorodocosane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorododecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorodotriacontane':
@@ -43864,82 +43867,80 @@ export default {
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorohenicosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorohentriacontane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluoroheptacosane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluoroheptacosane':
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorohexacosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorohexadecane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluoroicosane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorononacosane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorooctacos-13-ene':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorooctacosane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorononacosane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorooctacos-13-ene':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorooctacosane':
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorooctadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluoropentacosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorotetracosane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorotetradecane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorotriacontane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-Pentacosafluorotricosane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluoro-13-iodotridecane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluoroheptacosane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluorotricosane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluoroundecane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluoro-13-iodotridecane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluoroheptacosane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluorotricosane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11-Tricosafluoroundecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,26-Dotetracontafluoro-12,15-diiodohexacosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,26-Dotetracontafluorohexacosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,18,18,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,27,27,27-Dotetracontafluoro-12,16-diiodoheptacosane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,28-Dotetracontafluoro-12,17-diiodooctacosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,28-Dotetracontafluorooctacosane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,29,29,30,30,30-Dotetracontafluorotriacontane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iododocosane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodohenicosane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodoheptadecane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodohexacosane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodohexadecane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodoicosane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodononadecane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodooctacosane':
     '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodononadecane':
+    '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodooctacosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodooctadecane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodotetracosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodotriacontane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-12-iodotridecane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-13-iodotridecane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorodocosane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorododecane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoro-13-iodotridecane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorodocosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorododecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorohenicosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoroheptacosane':
@@ -43947,19 +43948,20 @@ export default {
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoroheptadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorohexacos-11-ene':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorohexacosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorohexadecane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorohexadecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoroicosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoroicosane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorononacosane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorononadecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorooctacosane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorooctadecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoropentacosane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoropentadecane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorooctacosane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorooctadecane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoropentacosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluoropentadecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorotetracosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorotetradecane':
@@ -43969,31 +43971,38 @@ export default {
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Henicosafluorotridecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Nonadecafluorohenicosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Nonadecafluorohenicosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Nonadecafluoroheptacosane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Nonadecafluorononacosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Nonadecafluorooctadecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Nonadecafluorooctadecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Nonadecafluorotetracosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)sulfanyl]decane':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-[(prop-2-en-1-yl)sulfanyl]decane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iododocosane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodododecane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iododocosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodohexacosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodododecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodohexacosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodohexadecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodoicosane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodooctacosane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodooctadecane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodoicosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodotetracosane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodotetradecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodooctacosane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodooctadecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodotetracosane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodotetradecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-iodoundecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-isocyanatodecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-isocyanatodecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-10-triaminosilyldecane':
     '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-11,14,17,20,23,26,29,32-octaoxaoctatetracontan-33-one':
@@ -44005,49 +44014,49 @@ export default {
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoro-12-iodododecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorodocos-9-ene':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorododecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorododecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorodotriacontane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorohenicosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoroheptacosane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoroheptacosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoroheptadecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoroheptadecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorohexacos-9-ene': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorohexacosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorohexacosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorononacosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorononadecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorooctacosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorononadecane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorooctacosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoropentacosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoropentadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorotetracos-9-ene': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorotetradecane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorotetradecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorotriacontane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorotricosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluorotridecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoroundecane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Heptadecafluoroundecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8-Hexadecafluorooctane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,9,9,9-Octadecafluoro-8-iodononane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-7-isocyanatoheptane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,9,9,9-Octadecafluoro-8-iodononane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-7-isocyanatoheptane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodododecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodononadecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodononadecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodopentacosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodopentadecane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodotetradecane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodopentadecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodotetradecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoro-9-iodotricosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoroheptacosane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoroheptacosane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluoroheptadec-8-ene':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluorohexacosane': '',
@@ -44059,8 +44068,7 @@ export default {
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluorotetradecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluorotricosane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluorotricosane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,7,7-Pentadecafluorotridecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,8,8-Pentadecafluoro-10-iododecane':
     'national unique domain values',
@@ -44073,22 +44081,25 @@ export default {
   '1,1,1,2,2,3,3,4,4,5,5,6,6,9,9,10,10,11,11,12,12,13,13,14,14,14-Hexacosafluoro-7-iodotetradecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,9,9,10,10,11,11,12,12,13,13,14,14,14-Hexacosafluorotetradec-7-ene':
-    'national unique domain values',
+    '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6,9,9,10,10,11,11,12,12,13,13,14,14,14-Hexacosafluorotetradecane':
+    '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6,9,9,9-Hexadecafluoro-8-iodononane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6,9,9,9-Hexadecafluoro-8-iodononane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-10-iododecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-10-iododecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-6-[(propan-2-yl)oxy]hexane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-6-[(trifluoroethenyl)oxy]hexane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-6-[(trifluoroethenyl)oxy]hexane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-6-methoxyhexane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-7-methyl-7-nitrooctane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8,8-dimethoxyoctane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-(octyldisulfanyl)octane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-(pentyloxy)octane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-(pentyloxy)octane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-[(prop-2-en-1-yl)oxy]octane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-[(prop-2-en-1-yl)oxy]octane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-[(prop-2-yn-1-yl)oxy]octane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-iodododecane':
@@ -44099,80 +44110,79 @@ export default {
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-iodooctadecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-iodotetradecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-isocyanatooctane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-methylnonane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-iodotetradecane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-isocyanatooctane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-methylnonane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-8-propoxyoctane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-9-(triethoxymethyl)heptadecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-9-(tripropoxymethyl)heptadecane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-9-(tripropoxymethyl)heptadecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-9-[tri(propan-2-yloxy)methyl]heptadecane':
-    '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-9-iodononane': '',
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-9-iodononane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoro-9-methyldecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorodecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorodocos-7-ene':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorodecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorododecane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorodocos-7-ene': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorododecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorohexacosane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorohexacosane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorohexadecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoroicos-7-ene':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoroicosane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoroicosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorononane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorononane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoropentacosane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoropentacosane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoropentadec-7-ene': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoropentadec-8-en-7-one':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoropentadecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorotetracosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorotetracosane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorotetradec-7-ene':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorotricosane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorotridecane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorotricosane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluorotridecane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-Tridecafluoroundecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-6-[(tridecafluorohexyl)oxy]hexane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluorohexadec-7-ene': '',
-  '1,1,1,2,2,3,3,4,4,5,5,6,7,7-Tetradecafluoro-7-methoxyheptane':
+  '1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluorohexadec-7-ene':
     'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5,6,7,7-Tetradecafluoro-7-methoxyheptane': '',
   '1,1,1,2,2,3,3,4,4,5,5,6,7,7-Tetradecafluoro-8-[(prop-2-en-1-yl)oxy]octane':
     '',
-  '1,1,1,2,2,3,3,4,4,5,5,6-Dodecafluorododec-6-ene':
+  '1,1,1,2,2,3,3,4,4,5,5,6-Dodecafluorododec-6-ene': '',
+  '1,1,1,2,2,3,3,4,4,5,5,6-Dodecafluorohexane': '',
+  '1,1,1,2,2,3,3,4,4,5,5,8,8,9,9,10,10,11,11,12,12,12-Docosafluorododecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,6-Dodecafluorohexane': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,5,8,8,9,9,10,10,11,11,12,12,12-Docosafluorododecane': '',
   '1,1,1,2,2,3,3,4,4,5,5-Undecafluoro-5-[1,1,2,3,3,3-hexafluoro-2-(trifluoromethyl)propoxy]pentane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5-Undecafluoro-5-methoxypentane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5-Undecafluoro-6-[(prop-2-en-1-yl)oxy]hexane': '',
-  '1,1,1,2,2,3,3,4,4,5,5-Undecafluoro-6-methoxyhexane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5-Undecafluoro-6-methoxyhexane': '',
   '1,1,1,2,2,3,3,4,4,5,5-Undecafluorodecane': '',
-  '1,1,1,2,2,3,3,4,4,5,5-Undecafluoroheptane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5-Undecafluoroheptane': '',
   '1,1,1,2,2,3,3,4,4,5,5-Undecafluorohexane': '',
-  '1,1,1,2,2,3,3,4,4,5,5-Undecafluorononadecane': '',
+  '1,1,1,2,2,3,3,4,4,5,5-Undecafluorononadecane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,5-Undecafluorooctane': '',
   '1,1,1,2,2,3,3,4,4,5,5-Undecafluoropentane': '',
-  '1,1,1,2,2,3,3,4,4,5,5-Undecafluoroundecane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5,5-Undecafluoroundecane': '',
   '1,1,1,2,2,3,3,4,4,5,6,6,6-Tridecafluoro-5-iodohexane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,5,6,6,6-Tridecafluorohexane': '',
   '1,1,1,2,2,3,3,4,4,5,6,7,7,7-Tetradecafluoroheptane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,5,6-Undecafluorohexane': '',
-  '1,1,1,2,2,3,3,4,4,5-Decafluorohexane': '',
-  '1,1,1,2,2,3,3,4,4,5-Decafluoropentane': '',
+  '1,1,1,2,2,3,3,4,4,5,6-Undecafluorohexane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5-Decafluorohexane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,5-Decafluoropentane': 'national unique domain values',
   '1,1,1,2,2,3,3,4,4,6,6,7,7,8,8,9,9,10,10-Nonadecafluoro-12-iodododecane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,6,6,8,8-Tridecafluoro-10-iododecane':
@@ -44181,10 +44191,8 @@ export default {
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,6,6-Undecafluoro-8-iodooctane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,7,7,7-Dodecafluoro-6-iodoheptane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3,4,4,7,7,7-Dodecafluoroheptane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4,7,7,7-Dodecafluoro-6-iodoheptane': '',
+  '1,1,1,2,2,3,3,4,4,7,7,7-Dodecafluoroheptane': '',
   '1,1,1,2,2,3,3,4,4,7,7,8,8,8-Tetradecafluoro-5-iodooctane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4,7,7,8,8,8-Tetradecafluorooctane': '',
@@ -44193,145 +44201,147 @@ export default {
   '1,1,1,2,2,3,3,4,4,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-Pentacosafluorotetradec-6-ene':
     '',
   '1,1,1,2,2,3,3,4,4,8,8,9,9,10,10,11,11,11-Octadecafluoroundecane-5,7-dione':
+    '',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-(methanesulfonyl)butane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-(methanesulfonyl)butane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-(methyldisulfanyl)butane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-(prop-1-ene-1-sulfonyl)butane': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-(methyldisulfanyl)butane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-(prop-1-ene-1-sulfonyl)butane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-4-[(1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonyl)methanesulfonyl]butane':
     '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-[(trifluoroethenyl)oxy]butane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-4-[(trifluoroethenyl)oxy]butane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-4-propoxybutane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-5-[(prop-2-en-1-yl)oxy]pentane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-5-[(prop-2-en-1-yl)oxy]pentane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-5-methylundec-5-ene':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-(methanesulfinyl)hexane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-(methanesulfinyl)hexane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-6-(pentyloxy)hexane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-6-[(prop-2-en-1-yl)oxy]hexane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodo-7,7-dimethyloctane':
     'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iododecane': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodoheptane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodoheptane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodohexadecane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodononane': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodoundecane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-methylheptane':
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodoundecane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-propoxyhexane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-methylheptane': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-6-propoxyhexane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoro-7,7-diisocyanatoheptane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-7-methyloctane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoro-8-iodooctane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluorodecane': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-7-methyloctane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoro-8-iodooctane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluorodecane': 'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluorodocosane': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluorododecan-5-ol': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluorododecane': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluoroheptane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluorohexadec-5-ene': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluorohexadecane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluorohexane': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluorododecan-5-ol': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluorododecane': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluoroheptane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluorohexadec-5-ene': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluorohexadecane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluorohexane': 'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluoroicosane': 'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluorononane': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluorooctadec-5-ene': 'national unique domain values',
-  '1,1,1,2,2,3,3,4,4-Nonafluorooctadecane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluorooctadec-5-ene': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluorooctadecane': '',
   '1,1,1,2,2,3,3,4,4-Nonafluorooctane': 'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluoropentane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluorotetracosane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluorotetradecane': '',
+  '1,1,1,2,2,3,3,4,4-Nonafluorotetracosane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluorotetradecane': 'national unique domain values',
   '1,1,1,2,2,3,3,4,4-Nonafluorotridecane': '',
-  '1,1,1,2,2,3,3,4,4-Nonafluoroundec-5-ene': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,4-Nonafluoroundec-5-ene': '',
   '1,1,1,2,2,3,3,4,4-Nonafluoroundecane': '',
-  '1,1,1,2,2,3,3,4,5,5,5-Undecafluoro-4-(pentafluoroethoxy)pentane': '',
-  '1,1,1,2,2,3,3,4,5,5,5-Undecafluoro-4-iodopentane': '',
-  '1,1,1,2,2,3,3,4,5,5,5-Undecafluoropentane': '',
-  '1,1,1,2,2,3,3,4,5,5,6,6,6-Tridecafluorohexane': '',
+  '1,1,1,2,2,3,3,4,5,5,5-Undecafluoro-4-(pentafluoroethoxy)pentane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,5,5,5-Undecafluoro-4-iodopentane':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4,5,5,5-Undecafluoropentane': 'national unique domain values',
+  '1,1,1,2,2,3,3,4,5,5,6,6,6-Tridecafluorohexane':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4,5,6,6,6-Dodecafluorohexane': 'national unique domain values',
   '1,1,1,2,2,3,3,4,5,6,6,7,7,8,8,8-Hexadecafluorooct-4-ene': '',
-  '1,1,1,2,2,3,3,4,7,7,8,8,8-Tridecafluorooct-4-ene': '',
-  '1,1,1,2,2,3,3,4-Octafluoro-7,7-dimethyloct-4-ene': '',
-  '1,1,1,2,2,3,3,4-Octafluoro-7-methyl-7-nitrooct-4-ene': '',
+  '1,1,1,2,2,3,3,4,7,7,8,8,8-Tridecafluorooct-4-ene':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4-Octafluoro-7,7-dimethyloct-4-ene':
+    'national unique domain values',
+  '1,1,1,2,2,3,3,4-Octafluoro-7-methyl-7-nitrooct-4-ene':
+    'national unique domain values',
   '1,1,1,2,2,3,3,4-Octafluorodec-4-ene': 'national unique domain values',
   '1,1,1,2,2,3,3,4-Octafluorohexane': 'national unique domain values',
   '1,1,1,2,2,3,3,4-Octafluoropentane': '',
-  '1,1,1,2,2,3,3,4-octafluorobutane': 'national unique domain values',
-  '1,1,1,2,2,3,3,5,5,5-Decafluoro-4,4-bis(trifluoromethyl)pentane': '',
-  '1,1,1,2,2,3,3,5,5,5-Decafluoro-4-iodo-4-(trifluoromethyl)pentane':
+  '1,1,1,2,2,3,3,4-octafluorobutane': '',
+  '1,1,1,2,2,3,3,5,5,5-Decafluoro-4,4-bis(trifluoromethyl)pentane':
     'national unique domain values',
+  '1,1,1,2,2,3,3,5,5,5-Decafluoro-4-iodo-4-(trifluoromethyl)pentane': '',
   '1,1,1,2,2,3,3,5,5,5-Decafluoro-4-nitroso-4-(trifluoromethyl)pentane':
     'national unique domain values',
-  '1,1,1,2,2,3,3,5,6,6,6-Undecafluoro-4,4,5-tris(trifluoromethyl)hexane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3,5,6,6,6-Undecafluoro-4,4,5-tris(trifluoromethyl)hexane': '',
   '1,1,1,2,2,3,3,5,6,6,8,9,11,11,12,14,14,15,15,16,16,16-Docosafluoro-5,8,9,12-tetrakis(trifluoromethyl)-4,7,10,13-tetraoxa':
     'national unique domain values',
   '1,1,1,2,2,3,3,5,6,6,8,9,11,11,12,14,14,15,15,16,16,16-Docosafluoro-5,8,9,12-tetrakis(trifluoromethyl)-4,7,10,13-tetraoxahexadecane':
     '',
   '1,1,1,2,2,3,3,5,6,6,8,9,9,11,12,14,14,15,15,16,16,16-Docosafluoro-5,8,11,12-tetrakis(trifluoromethyl)-4,7,10,13-tetraoxahexadecane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3,5,6,6,8,9,9,11,12,14,14,15,17,17,18,20,20,21,21,22,22,22-Octacosafluoro-5,8,11,12,15,18-hexakis(trifluoromethyl)-4,7,10,13,16,19-hexaoxadocosane':
     'national unique domain values',
   '1,1,1,2,2,3,3,6,6,6-Decafluorohexane': '',
   '1,1,1,2,2,3,3,6,6,7,7,8,8,8-Tetradecafluorooct-4-ene': '',
   '1,1,1,2,2,3,3,6,6,7,7,8,8,8-Tetradecafluorooctane': '',
-  '1,1,1,2,2,3,3,6,6,7,7,8,8,9,9,10,10,10-Octadecafluorodec-4-ene': '',
+  '1,1,1,2,2,3,3,6,6,7,7,8,8,9,9,10,10,10-Octadecafluorodec-4-ene':
+    'national unique domain values',
   '1,1,1,2,2,3,3,6,6,7,7,8,8,9,9,10,10,11,11,11-Icosafluoroundec-4-ene':
     'national unique domain values',
-  '1,1,1,2,2,3,3,6,6,7,7,8,8,9,9,9-Hexadecafluoronon-4-ene':
+  '1,1,1,2,2,3,3,6,6,7,7,8,8,9,9,9-Hexadecafluoronon-4-ene': '',
+  '1,1,1,2,2,3,3-Heptafluoro-3-(1,2,2,2-tetrafluoro-1-iodoethoxy)propane': '',
+  '1,1,1,2,2,3,3-Heptafluoro-3-(2,2,2-trifluoroethoxy)propane':
     'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-3-(1,2,2,2-tetrafluoro-1-iodoethoxy)propane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-3-(2,2,2-trifluoroethoxy)propane': '',
   '1,1,1,2,2,3,3-Heptafluoro-3-(2,2,2-trifluoroethylsulfonyl)propane': '',
   '1,1,1,2,2,3,3-Heptafluoro-3-(2,2,3,3-tetrafluoropropoxy)propane':
     'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluoro-3-(fluoromethoxy)propane': '',
-  '1,1,1,2,2,3,3-Heptafluoro-3-(heptafluoropropoxy)propane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-3-(trifluoromethoxy)propane':
-    'national unique domain values',
+  '1,1,1,2,2,3,3-Heptafluoro-3-(heptafluoropropoxy)propane': '',
+  '1,1,1,2,2,3,3-Heptafluoro-3-(trifluoromethoxy)propane': '',
   '1,1,1,2,2,3,3-Heptafluoro-3-[(1,1,1,2,3,3-hexafluoro-3-{[1,1,1,2,3,3-hexafluoro-3-(pentafluoroethoxy)propan-2-yl]oxy}propan-2-yl)oxy]propane':
-    '',
+    'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluoro-3-[[1,1,1,2,3,3-hexafluoro-3-([1,1,1,2,3,3-hexafluoro-3-[(trifluoroethenyl)oxy]propan-2-yl]oxy)propan-2-yl]oxy]propane':
     '',
-  '1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane-(E)-1,2-dichloroethene (1:1)': '',
+  '1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane-(E)-1,2-dichloroethene (1:1)':
+    'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluoro-3-methylsulfanylpropane': '',
   '1,1,1,2,2,3,3-Heptafluoro-4,4-bis(trifluoromethyl)hexane':
     'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-4-(1,1,2,3,3,3-hexafluoropropoxy)butane': '',
+  '1,1,1,2,2,3,3-Heptafluoro-4-(1,1,2,3,3,3-hexafluoropropoxy)butane':
+    'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluoro-4-(2,2,3,3,4,4,4-heptafluorobutoxy)butane':
     'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluoro-4-(2,2,3,3,4,4,4-heptafluorobutylperoxy)butane':
     '',
   '1,1,1,2,2,3,3-Heptafluoro-4-chlorobutane': 'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-5-iododecane': 'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-5-iodoundecane': 'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-5-nitroheptan-4-ol':
-    'national unique domain values',
+  '1,1,1,2,2,3,3-Heptafluoro-5-iododecane': '',
+  '1,1,1,2,2,3,3-Heptafluoro-5-iodoundecane': '',
+  '1,1,1,2,2,3,3-Heptafluoro-5-nitroheptan-4-ol': '',
   '1,1,1,2,2,3,3-Heptafluoro-6-hydroxy-7,7-dimethyloct-5-en-4-one-copper (2:1)':
     'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-6-iodo-4,4-bis(trifluoromethyl)decane':
-    'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoro-7-iodoheptane': 'national unique domain values',
+  '1,1,1,2,2,3,3-Heptafluoro-6-iodo-4,4-bis(trifluoromethyl)decane': '',
+  '1,1,1,2,2,3,3-Heptafluoro-7-iodoheptane': '',
   '1,1,1,2,2,3,3-Heptafluorododecane': 'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluoroheptan-4-one': 'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoroheptane': '',
+  '1,1,1,2,2,3,3-Heptafluoroheptane': 'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluorohexane': '',
-  '1,1,1,2,2,3,3-Heptafluorononane': 'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluorooct-4-ene': 'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluorooctane': '',
+  '1,1,1,2,2,3,3-Heptafluorononane': '',
+  '1,1,1,2,2,3,3-Heptafluorooct-4-ene': '',
+  '1,1,1,2,2,3,3-Heptafluorooctane': 'national unique domain values',
   '1,1,1,2,2,3,3-Heptafluoropentadecane': 'national unique domain values',
-  '1,1,1,2,2,3,3-Heptafluoropentane': 'national unique domain values',
+  '1,1,1,2,2,3,3-Heptafluoropentane': '',
   '1,1,1,2,2,3,3-Heptafluoroundecane': 'national unique domain values',
   '1,1,1,2,2,3,3-heptafluoro-5-iodononane': 'national unique domain values',
-  '1,1,1,2,2,3,3-heptafluoro-5-nitro-4-(nitromethyl)pentane':
+  '1,1,1,2,2,3,3-heptafluoro-5-nitro-4-(nitromethyl)pentane': '',
+  '1,1,1,2,2,3,3-heptafluoro-5-nitroheptane': 'national unique domain values',
+  '1,1,1,2,2,3,3-heptafluoro-6-hydroxy-7,7-dimethyloct-5-en-4-one':
     'national unique domain values',
-  '1,1,1,2,2,3,3-heptafluoro-5-nitroheptane': '',
-  '1,1,1,2,2,3,3-heptafluoro-6-hydroxy-7,7-dimethyloct-5-en-4-one': '',
   '1,1,1,2,2,3,3-heptafluoro-6-iodo-4,4-bis(trifluoromethyl)hexane': '',
-  '1,1,1,2,2,3,3-heptafluoro-8-methylnonane-4,6-dione':
-    'national unique domain values',
+  '1,1,1,2,2,3,3-heptafluoro-8-methylnonane-4,6-dione': '',
   '1,1,1,2,2,3,3-heptafluorobutane': 'national unique domain values',
   '1,1,1,2,2,3,3-heptafluoroheptan-4-ol': '',
   '1,1,1,2,2,3,3-heptafluoronon-4-ene': 'national unique domain values',
@@ -44339,18 +44349,19 @@ export default {
     '',
   '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(1,1,2,2,2-pentafluoroethyl)pentane':
     '',
-  '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(fluoroperoxy)pentane': '',
-  '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(trifluoromethyl)pentane':
+  '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(fluoroperoxy)pentane':
     'national unique domain values',
+  '1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(trifluoromethyl)pentane': '',
   '1,1,1,2,2,3,4,4,5,5,5-Undecafluoropentane': 'national unique domain values',
   '1,1,1,2,2,3,4,4-Octafluorobutane': '',
-  '1,1,1,2,2,3,4,5,5,5-Decafluoro-3-propoxy-4-(trifluoromethyl)pentane': '',
+  '1,1,1,2,2,3,4,5,5,5-Decafluoro-3-propoxy-4-(trifluoromethyl)pentane':
+    'national unique domain values',
   '1,1,1,2,2,3,4,5,5,6,6,7,7,7-Tetradecafluorohept-3-ene':
     'national unique domain values',
-  '1,1,1,2,2,3,4,5,5,6,6,7,7,8,8,8-Hexadecafluorooct-3-ene': '',
-  '1,1,1,2,2,3,4,5,6,7,7,8,8,8-Tetradecafluoroocta-3,5-diene':
+  '1,1,1,2,2,3,4,5,5,6,6,7,7,8,8,8-Hexadecafluorooct-3-ene':
     'national unique domain values',
-  '1,1,1,2,2,3,4-Heptafluorohex-3-ene': '',
+  '1,1,1,2,2,3,4,5,6,7,7,8,8,8-Tetradecafluoroocta-3,5-diene': '',
+  '1,1,1,2,2,3,4-Heptafluorohex-3-ene': 'national unique domain values',
   '1,1,1,2,2,3,5,5,5-Nonafluoro-4-(trifluoromethyl)pentane':
     'national unique domain values',
   '1,1,1,2,2,3,5,5,6,6,7,7,7-Tridecafluorohept-3-ene':
@@ -44359,99 +44370,97 @@ export default {
     'national unique domain values',
   '1,1,1,2,2,3-Hexafluorobutane': '',
   '1,1,1,2,2,3-Hexafluorodecan-4-one': '',
-  '1,1,1,2,2,4,4,4-Octafluoro-3,3-bis(trifluoromethyl)butane':
-    'national unique domain values',
+  '1,1,1,2,2,4,4,4-Octafluoro-3,3-bis(trifluoromethyl)butane': '',
   '1,1,1,2,2,4,4,5,5,5-Decafluoro-3-methyl-3-(trifluoromethyl)pentane': '',
-  '1,1,1,2,2,4,4,5,5,5-Decafluoro-3-pentanone': '',
-  '1,1,1,2,2,4,4-Heptafluoro-4-iodobutane': '',
+  '1,1,1,2,2,4,4,5,5,5-Decafluoro-3-pentanone': 'national unique domain values',
+  '1,1,1,2,2,4,4-Heptafluoro-4-iodobutane': 'national unique domain values',
   '1,1,1,2,2,4,4-Heptafluorobutane': 'national unique domain values',
-  '1,1,1,2,2,4,5,5,6,6,7,7,7-Tridecafluorohept-3-ene':
-    'national unique domain values',
+  '1,1,1,2,2,4,5,5,6,6,7,7,7-Tridecafluorohept-3-ene': '',
   '1,1,1,2,2,4,5,5-Octafluoropentan-3-one': 'national unique domain values',
-  '1,1,1,2,2,4,5,6,7,7,7-Undecafluoro-6-(trifluoromethyl)hept-4-en-3-one':
-    'national unique domain values',
+  '1,1,1,2,2,4,5,6,7,7,7-Undecafluoro-6-(trifluoromethyl)hept-4-en-3-one': '',
   '1,1,1,2,2,4-Hexafluorobutane': '',
   '1,1,1,2,2,5,5,5-Octafluoro-4-(trifluoromethyl)pentan-3-one': '',
   '1,1,1,2,2,5,5,5-Octafluoro-4-(trifluoromethyl)pentane': '',
   '1,1,1,2,2,5,5,5-Octafluoro-4-iodopentane': '',
   '1,1,1,2,2,5,5,5-Octafluoropentan-3-one': '',
-  '1,1,1,2,2,5,5,6,6,6-Decafluoro-3,4-bis(trifluoromethyl)hex-3-ene':
-    'national unique domain values',
-  '1,1,1,2,2,5,5,6,6,6-Decafluoro-3-hexyne': 'national unique domain values',
-  '1,1,1,2,2,5,5,6,6,6-Decafluorohexane': 'national unique domain values',
-  '1,1,1,2,2,5,5,6,6,7,7,7-Dodecafluorohept-3-ene':
-    'national unique domain values',
+  '1,1,1,2,2,5,5,6,6,6-Decafluoro-3,4-bis(trifluoromethyl)hex-3-ene': '',
+  '1,1,1,2,2,5,5,6,6,6-Decafluoro-3-hexyne': '',
+  '1,1,1,2,2,5,5,6,6,6-Decafluorohexane': '',
+  '1,1,1,2,2,5,5,6,6,7,7,7-Dodecafluorohept-3-ene': '',
   '1,1,1,2,2,5,5,6,6,7,7,8,8,8-Tetradecafluorooct-3-ene':
     'national unique domain values',
   '1,1,1,2,2,5,5,6,6,7,7,8,8,9,9,10,10,10-Octadecafluorodec-3-ene':
     'national unique domain values',
-  '1,1,1,2,2,5,5,6,6,7,7,8,8,9,9,9-Hexadecafluoronon-3-ene':
+  '1,1,1,2,2,5,5,6,6,7,7,8,8,9,9,9-Hexadecafluoronon-3-ene': '',
+  '1,1,1,2,2,5,5,6,6,9,9,10,10,10-Tetradecafluorodec-3-ene': '',
+  '1,1,1,2,2,5,6,6,9,9,10,10,10-Tridecafluorodec-4-ene': '',
+  '1,1,1,2,2,5-Hexafluoropentan-3-one': 'national unique domain values',
+  '1,1,1,2,2,6,6,7,7,7-Decafluoro-5-hydroxy-5-methylheptan-3-one':
     'national unique domain values',
-  '1,1,1,2,2,5,5,6,6,9,9,10,10,10-Tetradecafluorodec-3-ene':
+  '1,1,1,2,2-Pentachloro-3,3,4,4,4-pentafluorobutane':
     'national unique domain values',
-  '1,1,1,2,2,5,6,6,9,9,10,10,10-Tridecafluorodec-4-ene':
-    'national unique domain values',
-  '1,1,1,2,2,5-Hexafluoropentan-3-one': '',
-  '1,1,1,2,2,6,6,7,7,7-Decafluoro-5-hydroxy-5-methylheptan-3-one': '',
-  '1,1,1,2,2-Pentachloro-3,3,4,4,4-pentafluorobutane': '',
   '1,1,1,2,2-Pentafluoro-2-(2,2,2-trifluoroethyldisulfanyl)ethane': '',
-  '1,1,1,2,2-Pentafluoro-2-(2,2,2-trifluoroethylsulfanyl)ethane': '',
-  '1,1,1,2,2-Pentafluoro-2-(trifluoromethoxy)ethane':
+  '1,1,1,2,2-Pentafluoro-2-(2,2,2-trifluoroethylsulfanyl)ethane':
     'national unique domain values',
+  '1,1,1,2,2-Pentafluoro-2-(trifluoromethoxy)ethane': '',
   '1,1,1,2,2-Pentafluoro-2-[(2-iodoethyl)sulfanyl]ethane': '',
-  '1,1,1,2,2-Pentafluoro-2-[(pentafluoroethyl)selanyl]ethane':
+  '1,1,1,2,2-Pentafluoro-2-[(pentafluoroethyl)selanyl]ethane': '',
+  '1,1,1,2,2-Pentafluoro-2-[(pentafluoroethyl)tellanyl]ethane':
     'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-2-[(pentafluoroethyl)tellanyl]ethane': '',
-  '1,1,1,2,2-Pentafluoro-2-[(trifluoromethyl)disulfanyl]ethane': '',
+  '1,1,1,2,2-Pentafluoro-2-[(trifluoromethyl)disulfanyl]ethane':
+    'national unique domain values',
   '1,1,1,2,2-Pentafluoro-2-[(trifluoromethyl)sulfonyl]ethane':
     'national unique domain values',
   '1,1,1,2,2-Pentafluoro-2-[1,1,2,2-tetrafluoro-2-(pentafluoroethoxy)ethoxy]ethane':
-    'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-2-[fluoro(1,1,2,2,2-pentafluoroethoxy)phosphoryl]oxyethane':
     '',
+  '1,1,1,2,2-Pentafluoro-2-[fluoro(1,1,2,2,2-pentafluoroethoxy)phosphoryl]oxyethane':
+    'national unique domain values',
   '1,1,1,2,2-Pentafluoro-2-methylsulfinylethane': '',
   '1,1,1,2,2-Pentafluoro-2-nitrosoethane': '',
-  '1,1,1,2,2-Pentafluoro-2-{fluoro[bis(pentafluoroethoxy)]methoxy}ethane':
+  '1,1,1,2,2-Pentafluoro-2-{fluoro[bis(pentafluoroethoxy)]methoxy}ethane': '',
+  '1,1,1,2,2-Pentafluoro-3,3-dimethylbutane': 'national unique domain values',
+  '1,1,1,2,2-Pentafluoro-3-(2,2,3,3,3-pentafluoropropylsulfinyl)propane':
     'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-3,3-dimethylbutane': '',
-  '1,1,1,2,2-Pentafluoro-3-(2,2,3,3,3-pentafluoropropylsulfinyl)propane': '',
-  '1,1,1,2,2-Pentafluoro-3-(3-fluoropropoxy)propane':
+  '1,1,1,2,2-Pentafluoro-3-(3-fluoropropoxy)propane': '',
+  '1,1,1,2,2-Pentafluoro-3-(trifluoromethoxy)propane':
     'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-3-(trifluoromethoxy)propane': '',
-  '1,1,1,2,2-Pentafluoro-3-[(trifluorovinyl)oxy]propane':
-    'national unique domain values',
+  '1,1,1,2,2-Pentafluoro-3-[(trifluorovinyl)oxy]propane': '',
   '1,1,1,2,2-Pentafluoro-3-methylsulfinylpropane':
     'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-3-propoxypropane': 'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-4-iodooctane': 'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-4-methyl-pentan-3-one': '',
+  '1,1,1,2,2-Pentafluoro-3-propoxypropane': '',
+  '1,1,1,2,2-Pentafluoro-4-iodooctane': '',
+  '1,1,1,2,2-Pentafluoro-4-methyl-pentan-3-one':
+    'national unique domain values',
   '1,1,1,2,2-Pentafluoro-5-hydroxyhexan-3-one': 'national unique domain values',
-  '1,1,1,2,2-Pentafluoro-6-methylhept-4-en-3-one': '',
+  '1,1,1,2,2-Pentafluoro-6-methylhept-4-en-3-one':
+    'national unique domain values',
   '1,1,1,2,2-Pentafluoro-6-methylheptane-3,5-dione': '',
   '1,1,1,2,2-Pentafluoro-7-phenylheptan-3-one': '',
   '1,1,1,2,2-Pentafluorodecane': 'national unique domain values',
   '1,1,1,2,2-Pentafluoroethane': 'national unique domain values',
-  '1,1,1,2,2-Pentafluorohexane': 'national unique domain values',
-  '1,1,1,2,2-Pentafluorooct-4-en-3-one': 'national unique domain values',
-  '1,1,1,2,2-Pentafluoroocta-4,6-dien-3-one': 'national unique domain values',
-  '1,1,1,2,2-Pentafluorooctan-3-one': '',
+  '1,1,1,2,2-Pentafluorohexane': '',
+  '1,1,1,2,2-Pentafluorooct-4-en-3-one': '',
+  '1,1,1,2,2-Pentafluoroocta-4,6-dien-3-one': '',
+  '1,1,1,2,2-Pentafluorooctan-3-one': 'national unique domain values',
   '1,1,1,2,2-Pentafluoropentan-3-one': 'national unique domain values',
   '1,1,1,2,2-Pentafluoropentan-3-yl carbonate': 'national unique domain values',
-  '1,1,1,2,2-Pentafluoroundec-4-en-3-one': '',
-  '1,1,1,2,2-pentafluoro-6-iodohexane': '',
-  '1,1,1,2,2-pentafluoroheptan-3-one': 'national unique domain values',
-  '1,1,1,2,2-pentafluorohexan-3-one': '',
+  '1,1,1,2,2-Pentafluoroundec-4-en-3-one': 'national unique domain values',
+  '1,1,1,2,2-pentafluoro-6-iodohexane': 'national unique domain values',
+  '1,1,1,2,2-pentafluoroheptan-3-one': '',
+  '1,1,1,2,2-pentafluorohexan-3-one': 'national unique domain values',
   '1,1,1,2,3,3,3-Heptafluoro-2-((trifluorovinyl)oxy)propane':
     'national unique domain values',
-  '1,1,1,2,3,3,3-Heptafluoro-2-(1,1,2,2-tetrafluoro-2-iodoethoxy)propane': '',
+  '1,1,1,2,3,3,3-Heptafluoro-2-(1,1,2,2-tetrafluoro-2-iodoethoxy)propane':
+    'national unique domain values',
   '1,1,1,2,3,3,3-Heptafluoro-2-(1,1,2,3,3,3-hexafluoro-2-iodopropoxy)propane':
     'national unique domain values',
   '1,1,1,2,3,3,3-Heptafluoro-2-(trifluoromethoxy)propane':
     'national unique domain values',
   '1,1,1,2,3,3,3-Heptafluoro-2-isocyanatopropane':
     'national unique domain values',
-  '1,1,1,2,3,3,3-Heptafluoro-2-nitrosopropane': '',
-  '1,1,1,2,3,3,3-Heptafluoropropan-2-yl 2-methylprop-2-enoate': '',
+  '1,1,1,2,3,3,3-Heptafluoro-2-nitrosopropane': 'national unique domain values',
+  '1,1,1,2,3,3,3-Heptafluoropropan-2-yl 2-methylprop-2-enoate':
+    'national unique domain values',
   '1,1,1,2,3,3,3-Heptafluoropropan-2-yl benzoate':
     'national unique domain values',
   '1,1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluorooctan-2-yl carbamate':
@@ -44459,179 +44468,182 @@ export default {
   '1,1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,12,12,12-tetracosafluoro-2,11-bis(trifluoromethyl)dodecane':
     '',
   '1,1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Icosafluoro-12-iodo-2-(trifluoromethyl)dodecane':
-    'national unique domain values',
+    '',
   '1,1,1,2,3,3,4,4,5,5,6,6-dodecafluoro-8-iodo-2-(trifluoromethyl)octane':
     'national unique domain values',
-  '1,1,1,2,3,3,4,4,5,5-Decafluoro-2-(trifluoromethyl)pentane': '',
+  '1,1,1,2,3,3,4,4,5,5-Decafluoro-2-(trifluoromethyl)pentane':
+    'national unique domain values',
   '1,1,1,2,3,3,4,4-Octafluoro-4-[1,1,2,2,3,4,4,4-octafluoro-3-(trifluoromethyl)butoxy]-2-(trifluoromethyl)butane':
-    '',
+    'national unique domain values',
   '1,1,1,2,3,3,4,4-Octafluoro-4-propoxy-2-(trifluoromethyl)butane':
     'national unique domain values',
-  '1,1,1,2,3,3,4,4-Octafluoro-6-iodo-2-(trifluoromethyl)hexane':
-    'national unique domain values',
+  '1,1,1,2,3,3,4,4-Octafluoro-6-iodo-2-(trifluoromethyl)hexane': '',
   '1,1,1,2,3,3,5,5,5-Nonafluoro-4-iodo-2-(trifluoromethyl)pentane':
     'national unique domain values',
   '1,1,1,2,3,3,5,5,7,7,7-Undecafluoro-6-iodo-2,4-bis(trifluoromethyl)heptane':
     '',
   '1,1,1,2,3,3,5,5-Octafluoro-6-isocyanato-2-(isocyanatomethyl)-4,4-bis(trifluoromethyl)hexane':
+    '',
+  '1,1,1,2,3,3-Hexafluoro-2,3-bis(pentafluoroethoxy)propane':
     'national unique domain values',
-  '1,1,1,2,3,3-Hexafluoro-2,3-bis(pentafluoroethoxy)propane': '',
   '1,1,1,2,3,3-Hexafluoro-2,3-bis(trifluoromethoxy)propane': '',
-  '1,1,1,2,3,3-Hexafluoro-2-(1,1,1,2,3,3-hexafluoropropan-2-yloxy)propane': '',
-  '1,1,1,2,3,3-Hexafluoro-2-iodo-3-(1,2,2-trifluoroethenoxy)propane': '',
+  '1,1,1,2,3,3-Hexafluoro-2-(1,1,1,2,3,3-hexafluoropropan-2-yloxy)propane':
+    'national unique domain values',
+  '1,1,1,2,3,3-Hexafluoro-2-iodo-3-(1,2,2-trifluoroethenoxy)propane':
+    'national unique domain values',
   '1,1,1,2,3,3-Hexafluoro-3-(trifluoromethoxy)-2-(trifluoromethyl)propane':
     'national unique domain values',
-  '1,1,1,2,3,3-Hexafluoro-4-methoxybutane': '',
+  '1,1,1,2,3,3-Hexafluoro-4-methoxybutane': 'national unique domain values',
   '1,1,1,2,3,3-Hexafluoro-4-methyl-4-penten-2-ol':
     'national unique domain values',
   '1,1,1,2,3,3-Hexafluoropropan-2-yl but-2-enoate':
     'national unique domain values',
   '1,1,1,2,3,4,4,4-Octafluoro-2,3-bis(trifluoromethoxy)butane':
     'national unique domain values',
-  '1,1,1,2,3,4,4,5,5,6,6,7,7,7-Tetradecafluorohept-2-ene': '',
+  '1,1,1,2,3,4,4,5,5,6,6,7,7,7-Tetradecafluorohept-2-ene':
+    'national unique domain values',
   '1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-Hexadecafluorooct-2-ene':
     'national unique domain values',
   '1,1,1,2,3,4,5,5,5-(or1,1,1,3,4,4,5,5,5)Nonafluoro-4(or2)-(trifluoromethyl)pent-2-ene':
     '',
-  '1,1,1,2,3,4,5,5,5-Nonafluoro-2-(trifluoromethyl)pentane': '',
+  '1,1,1,2,3,4,5,5,5-Nonafluoro-2-(trifluoromethyl)pentane':
+    'national unique domain values',
   '1,1,1,2,3,4,5,5,6,6,6-Undecafluoro-4-(trifluoromethyl)hex-2-ene':
     'national unique domain values',
-  '1,1,1,2,3-Pentafluoropropan-2-ol': '',
-  '1,1,1,2,4,4,4-Heptafluoro-2-iodobutane': 'national unique domain values',
-  '1,1,1,2,4,4,5,5,6,6,7,7-Dodecafluoro-2-(trifluoromethyl)heptan-3-ol':
-    'national unique domain values',
+  '1,1,1,2,3-Pentafluoropropan-2-ol': 'national unique domain values',
+  '1,1,1,2,4,4,4-Heptafluoro-2-iodobutane': '',
+  '1,1,1,2,4,4,5,5,6,6,7,7-Dodecafluoro-2-(trifluoromethyl)heptan-3-ol': '',
   '1,1,1,2,4,4,5,5,6,6,7,7-Dodecafluoro-2-(trifluoromethyl)heptan-3-one':
     'national unique domain values',
-  '1,1,1,2,4,4,5,5-Octafluoro-5-iodo-2-(trifluoromethyl)pentan-3-one':
-    'national unique domain values',
+  '1,1,1,2,4,4,5,5-Octafluoro-5-iodo-2-(trifluoromethyl)pentan-3-one': '',
   '1,1,1,2,4,5,5,5-Octafluoro-2-(heptafluoropropoxy)-4-(trifluoromethyl)pentan-3-one':
-    '',
+    'national unique domain values',
   '1,1,1,2,4,5,5,6,6,7,7,7-dodecafluoro-2,4-bis(trifluoromethyl)heptan-3-one':
     '',
-  '1,1,1,2,4,5,6,7,7,7-Decafluoro-2,6-bis(trifluoromethyl)hept-4-en-3-one': '',
+  '1,1,1,2,4,5,6,7,7,7-Decafluoro-2,6-bis(trifluoromethyl)hept-4-en-3-one':
+    'national unique domain values',
   '1,1,1,2,5,5,5-Heptafluoro-4-iodo-2-(trifluoromethyl)pentane':
     'national unique domain values',
-  '1,1,1,2,5,5,6,6,6-Nonafluoro-3,4-bis(trifluoromethyl)hex-2-ene':
-    'national unique domain values',
+  '1,1,1,2,5,5,6,6,6-Nonafluoro-3,4-bis(trifluoromethyl)hex-2-ene': '',
   '1,1,1,2,5,6,6,6-Octafluoro-2,5-bis(trifluoromethyl)hex-3-ene': '',
   '1,1,1,2,5,6,6,6-Octafluoro-2,5-bis(trifluoromethyl)hexane-3,4-dione': '',
   '1,1,1,2,5,6,6,6-Octafluoro-3-iodo-2,5-bis(trifluoromethyl)hexane': '',
-  '1,1,1,2,6,7,7,7-Octafluoro-2,6-bis(heptafluoropropoxy)heptane-3,5-dione':
-    'national unique domain values',
+  '1,1,1,2,6,7,7,7-Octafluoro-2,6-bis(heptafluoropropoxy)heptane-3,5-dione': '',
   '1,1,1,2,7,7,7-Heptafluoro-6-iodo-2,4-bis(trifluoromethyl)heptane':
     'national unique domain values',
   '1,1,1,2-TETRACHLOROETHANE': 'ATTAINS.parameter',
-  '1,1,1,2-Tetrachloroethane': 'STORETW Provider',
-  '1,1,1,2-Tetrafluoro-2,2-diiodoethane': '',
-  '1,1,1,2-Tetrafluoro-2,2-dimethoxyethane': '',
+  '1,1,1,2-Tetrachloroethane': 'STANDARD NAME (Normalized)',
+  '1,1,1,2-Tetrafluoro-2,2-diiodoethane': 'national unique domain values',
+  '1,1,1,2-Tetrafluoro-2,2-dimethoxyethane': 'national unique domain values',
   '1,1,1,2-Tetrafluoro-2-(heptafluoropropoxy)-4-iodobutane': '',
-  '1,1,1,2-Tetrafluoro-2-(trifluoromethoxy)butane': '',
-  '1,1,1,2-Tetrafluoro-2-(trifluoromethyl)butane': '',
-  '1,1,1,2-Tetrafluoro-2-(trifluoromethyl)hex-4-en-3-one': '',
-  '1,1,1,2-Tetrafluoro-2-iodo-2-(trifluoromethoxy)ethane':
+  '1,1,1,2-Tetrafluoro-2-(trifluoromethoxy)butane':
     'national unique domain values',
+  '1,1,1,2-Tetrafluoro-2-(trifluoromethyl)butane':
+    'national unique domain values',
+  '1,1,1,2-Tetrafluoro-2-(trifluoromethyl)hex-4-en-3-one': '',
+  '1,1,1,2-Tetrafluoro-2-iodo-2-(trifluoromethoxy)ethane': '',
   '1,1,1,2-Tetrafluoro-3-[(3-hydroxy-2-bicyclo[2.2.1]heptanyl)oxy]-3-oxopropane-2-sulfonic acid':
     'national unique domain values',
-  '1,1,1,2-Tetrafluoro-3-methyl-2-(trifluoromethyl)butane': '',
+  '1,1,1,2-Tetrafluoro-3-methyl-2-(trifluoromethyl)butane':
+    'national unique domain values',
   '1,1,1,2-Tetrafluoro-3-oxo-3-[(4-oxo-1-adamantyl)oxy]propane-2-sulfonic acid':
     'national unique domain values',
   '1,1,1,2-Tetrafluoro-3-oxo-3-[2-oxo-2-[(5-oxo-4-oxatricyclo[4.2.1.03,7]nonan-2-yl)oxy]ethoxy]propane-2-sulfonic acid':
     '',
-  '1,1,1,2-Tetrafluoro-4-iodo-2-(trifluoromethyl)nonane': '',
+  '1,1,1,2-Tetrafluoro-4-iodo-2-(trifluoromethyl)nonane':
+    'national unique domain values',
   '1,1,1,2-Tetrafluoro-4-iodo-2-(trifluoromethyl)octane': '',
   '1,1,1,2-Tetrafluoro-4-methyl-2-(trifluoromethyl)pentan-3-one': '',
-  '1,1,1,2-Tetrafluoro-6-iodo-2-(trifluoromethyl)hexane':
+  '1,1,1,2-Tetrafluoro-6-iodo-2-(trifluoromethyl)hexane': '',
+  '1,1,1,2-Tetrafluoro-8-thiocyanato-2-trifluoromethyl-octane': '',
+  '1,1,1,2-tetrachloroethane': 'CST.std.pollutant',
+  '1,1,1,2-tetrafluoro-4-iodo-2-(trifluoromethoxy)butane':
     'national unique domain values',
-  '1,1,1,2-Tetrafluoro-8-thiocyanato-2-trifluoromethyl-octane':
-    'national unique domain values',
-  '1,1,1,2-tetrachloroethane': 'CST.pollutant',
-  '1,1,1,2-tetrafluoro-4-iodo-2-(trifluoromethoxy)butane': '',
   '1,1,1,2-tetrafluoro-4-iodo-2-(trifluoromethoxy)pentane':
     'national unique domain values',
   '1,1,1,2-tetrafluoro-4-iodo-2-(trifluoromethyl)hexane':
     'national unique domain values',
-  '1,1,1,3,3,3-Hexafluoro-2-(trifluoromethoxy)-2-(trifluoromethyl)propane':
-    'national unique domain values',
+  '1,1,1,3,3,3-Hexafluoro-2-(trifluoromethoxy)-2-(trifluoromethyl)propane': '',
   '1,1,1,3,3,3-Hexafluoro-2-(trifluoromethyl)propan-2-yl 2-methylprop-2-enoate':
     '',
   '1,1,1,3,3,3-Hexafluoro-2-(trifluoromethyl)propan-2-yl heptafluorobutanoate':
     '',
-  '1,1,1,3,3,3-Hexafluoro-2-propanol': 'table unique identifier',
+  '1,1,1,3,3,3-Hexafluoro-2-propanol': 'STANDARD NAME (Normalized)',
   '1,1,1,3,3,3-Hexafluoro-2-propanyl 4-[bis(1,3-benzodioxol-5-yl)(hydroxy)methyl]-1-piperidinecarboxylate':
-    'national unique domain values',
-  '1,1,1,3,3,3-Hexafluoropropan-2-yl 4-(3-phenoxybenzyl)piperazine-1-carboxylate':
-    'national unique domain values',
-  '1,1,1,3,3,3-Hexafluoropropan-2-yl heptafluorobutanoate': '',
-  '1,1,1,3,3,3-Hexafluoropropan-2-yl nonafluorobutane-1-sulfonate':
-    'national unique domain values',
-  '1,1,1,3,3,3-hexafluoropropan-2-yl (3a,5b,6a,7a,20R)-3,6,7-tris[(trifluoroacetyl)oxy]cholan-24-oate':
-    'national unique domain values',
-  '1,1,1,3,3,3-hexafluoropropan-2-yl (3a,5b,6b,20R)-3,6-bis[(trifluoroacetyl)oxy]cholan-24-oate':
     '',
+  '1,1,1,3,3,3-Hexafluoropropan-2-yl 4-(3-phenoxybenzyl)piperazine-1-carboxylate':
+    '',
+  '1,1,1,3,3,3-Hexafluoropropan-2-yl heptafluorobutanoate': '',
+  '1,1,1,3,3,3-Hexafluoropropan-2-yl nonafluorobutane-1-sulfonate': '',
+  '1,1,1,3,3,3-hexafluoropropan-2-yl (3a,5b,6a,7a,20R)-3,6,7-tris[(trifluoroacetyl)oxy]cholan-24-oate':
+    '',
+  '1,1,1,3,3,3-hexafluoropropan-2-yl (3a,5b,6b,20R)-3,6-bis[(trifluoroacetyl)oxy]cholan-24-oate':
+    'national unique domain values',
   '1,1,1,3,3,3-hexafluoropropan-2-yl (3a,5b,6b,7b,20R)-3,6,7-tris[(trifluoroacetyl)oxy]cholan-24-oate':
     'national unique domain values',
   '1,1,1,3,3,3-hexafluoropropan-2-yl (3b,5a,20R)-3-[(trifluoroacetyl)oxy]cholan-24-oate':
-    'national unique domain values',
-  '1,1,1,3,3,3-hexafluoropropan-2-yl (3b,5b,20R)-3-[(trifluoroacetyl)oxy]cholan-24-oate':
     '',
+  '1,1,1,3,3,3-hexafluoropropan-2-yl (3b,5b,20R)-3-[(trifluoroacetyl)oxy]cholan-24-oate':
+    'national unique domain values',
   '1,1,1,3,3,4,4,4-Octafluoro-2-(trifluoromethyl)-2-butanol':
     'national unique domain values',
   '1,1,1,3,3,4,4,4-Octafluoro-2-(trifluoromethyl)butan-2-yl 2-methylprop-2-enoate':
     '',
-  '1,1,1,3,3,4,4,4-Octafluoro-2-butanol': '',
+  '1,1,1,3,3,4,4,4-Octafluoro-2-butanol': 'national unique domain values',
   '1,1,1,3,3,4,4,5,5,6,6,7,7,8,8-Pentadecafluorooctan-2-one':
     'national unique domain values',
   '1,1,1,3,3,4,4,5,5,6,6-Undecafluorohexan-2-one':
     'national unique domain values',
-  '1,1,1,3,3,4,4,6,6,6-Decafluoro-2,5-bis(trifluoromethyl)hexane-2,5-diol':
-    'national unique domain values',
+  '1,1,1,3,3,4,4,6,6,6-Decafluoro-2,5-bis(trifluoromethyl)hexane-2,5-diol': '',
   '1,1,1,3,3,4,4,6,6,7,7,9,9,10,10,12,12,13,13,15,15,15-Docosafluoro-2,5,8,11,14-pentaoxapentadecane':
-    '',
-  '1,1,1,3,3,4,5,5,5-Nonafluoro-4-(trifluoromethyl)pentan-2-one': '',
+    'national unique domain values',
+  '1,1,1,3,3,4,5,5,5-Nonafluoro-4-(trifluoromethyl)pentan-2-one':
+    'national unique domain values',
   '1,1,1,3,3,4,5,5-Octafluoro-6-isocyanato-2-(isocyanatomethyl)-2,4-bis(trifluoromethyl)hexane':
     'national unique domain values',
-  '1,1,1,3,3,5,5,5-Octafluoro-2,2,4,4-tetrakis(trifluoromethyl)pentane': '',
+  '1,1,1,3,3,5,5,5-Octafluoro-2,2,4,4-tetrakis(trifluoromethyl)pentane':
+    'national unique domain values',
   '1,1,1,3,3,5,5,7,7,8,8,10,11,11-Tetradecafluoro-2,4,6,9-tetraoxaundec-10-ene':
     'national unique domain values',
   '1,1,1,3,3,5-Hexafluoro-5-(heptadecafluorooctyl)-5-(pentafluoroethyl)trisiloxane':
-    'national unique domain values',
-  '1,1,1,3,3-Pentafluoro-3-(fluoromethoxy)-2-(trifluoromethyl)propane':
-    'national unique domain values',
+    '',
+  '1,1,1,3,3-Pentafluoro-3-(fluoromethoxy)-2-(trifluoromethyl)propane': '',
   '1,1,1,3,3-Pentafluoro-3-methoxy-2-(trifluoromethyl)propane': '',
-  '1,1,1,3,4,4,4-Heptafluoro-2,3-bis(trifluoromethyl)butan-2-ol': '',
+  '1,1,1,3,4,4,4-Heptafluoro-2,3-bis(trifluoromethyl)butan-2-ol':
+    'national unique domain values',
   '1,1,1,3,4,4,4-Heptafluoro-3-(heptafluoropropoxy)-2-(trifluoromethyl)butan-2-yl prop-2-enoate':
     'national unique domain values',
   '1,1,1,3,4,4,4-Heptafluoro-3-(trifluoromethyl)butan-2-yl prop-2-enoate':
     'national unique domain values',
-  '1,1,1,3,4,4,5,5,5-Nonafluoropent-2-ene': 'national unique domain values',
+  '1,1,1,3,4,4,5,5,5-Nonafluoropent-2-ene': '',
   '1,1,1,3,4,4,5,5,6,6,7,7,7-Tridecafluorohept-2-ene': '',
   '1,1,1,3,4,4,5,5,6,6-Decafluoro-2-(trifluoromethyl)hex-2-ene': '',
-  '1,1,1,3,4-Pentachloro-2,2,3,4,4-pentafluorobutane':
-    'national unique domain values',
+  '1,1,1,3,4-Pentachloro-2,2,3,4,4-pentafluorobutane': '',
   '1,1,1,3,5,5,5-Heptachloro-2,2,3,4,4-pentafluoropentane': '',
   '1,1,1,3,5,5,5-Heptamethyl-3-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)trisiloxane':
     '',
   '1,1,1,3,5,5,6,6,7,7,7-Undecafluoro-2,4-bis(trifluoromethyl)hept-3-ene':
     'national unique domain values',
-  '1,1,1,3,5,6-Hexachloro-2,2,3,4,4,5,6,6-octafluorohexane': '',
-  '1,1,1,3,5,7,7,7-Octachloro-2,2,3,4,4,5,6,6-octafluoroheptane':
+  '1,1,1,3,5,6-Hexachloro-2,2,3,4,4,5,6,6-octafluorohexane':
     'national unique domain values',
-  '1,1,1,3,5,7,7-Heptachloro-2,2,3,4,4,5,6,6,7-nonafluoroheptane': '',
-  '1,1,1,3,5,7-Hexachloro-2,2,3,4,4,5,6,6,7-nonafluoro-7-iodoheptane': '',
+  '1,1,1,3,5,7,7,7-Octachloro-2,2,3,4,4,5,6,6-octafluoroheptane': '',
+  '1,1,1,3,5,7,7-Heptachloro-2,2,3,4,4,5,6,6,7-nonafluoroheptane':
+    'national unique domain values',
+  '1,1,1,3,5,7-Hexachloro-2,2,3,4,4,5,6,6,7-nonafluoro-7-iodoheptane':
+    'national unique domain values',
   '1,1,1,3-Tetrachloro-2,2,3-trifluoro-3-iodopropane':
     'national unique domain values',
   '1,1,1,3-Tetramethyl-3,3-bis(1,1,2,2,3,3,6,6,6-nonafluorohexyl)disiloxane':
+    '',
+  '1,1,1,4,4,5,5,5-Octafluoro-2,3-bis(trifluoromethyl)pent-2-ene':
     'national unique domain values',
-  '1,1,1,4,4,5,5,5-Octafluoro-2,3-bis(trifluoromethyl)pent-2-ene': '',
   '1,1,1,4,4,5,5,5-Octafluoro-2-(trifluoromethyl)pent-2-ene-3-thiol': '',
   '1,1,1,4,4,5,5,5-Octafluoro-2-pentyne': '',
-  '1,1,1,4,4,5,5,5-Octafluoro-2-trifluoromethylpentane-3-thione':
-    'national unique domain values',
-  '1,1,1,4,4,5,5,5-Octafluoropentane': 'national unique domain values',
+  '1,1,1,4,4,5,5,5-Octafluoro-2-trifluoromethylpentane-3-thione': '',
+  '1,1,1,4,4,5,5,5-Octafluoropentane': '',
   '1,1,1,4,4,5,5,6,6,7,7,7-Dodecafluorohept-2-ene':
     'national unique domain values',
-  '1,1,1,4,4,5,5,6,6,7,7,8,8,8-Tetradecafluorooct-2-ene':
-    'national unique domain values',
+  '1,1,1,4,4,5,5,6,6,7,7,8,8,8-Tetradecafluorooct-2-ene': '',
   '1,1,1,4,4,5,5,6,6,7,7,8,8,9,9,9-Hexadecafluoronon-2-ene': '',
   '1,1,1,4,4,5,6,6,6-Nonafluoro-2,2,5-tris(trifluoromethyl)hexan-3-one': '',
   '1,1,1,4,5,5,5-Heptafluoro-2,3,4-tris(trifluoromethyl)pent-2-ene':
@@ -44639,52 +44651,54 @@ export default {
   '1,1,1,4,5,5,5-Heptafluoro-2,4-bis(trifluoromethyl)-3-(1,2,2,2-tetrafluoro-1-methylethyl)-2-pentene':
     'national unique domain values',
   '1,1,1,4,5,5,5-Heptafluoro-3-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methyl-4-(trifluoromethyl)pent-2-ene':
-    '',
-  '1,1,1,4,5,5,5-Heptafluoro-4-(trifluoromethyl)pentane-2,3-dione': '',
-  '1,1,1,4,5,6,6,6-Octafluoro-2,3,4,5-tetrakis(trifluoromethyl)hex-2-ene': '',
-  '1,1,1,5,5,6,6,10,10,10-Decafluoro-3,3,8,8-tetrakis(trifluoromethyl)-2,4,7,9-tetraoxadecane':
     'national unique domain values',
+  '1,1,1,4,5,5,5-Heptafluoro-4-(trifluoromethyl)pentane-2,3-dione':
+    'national unique domain values',
+  '1,1,1,4,5,6,6,6-Octafluoro-2,3,4,5-tetrakis(trifluoromethyl)hex-2-ene':
+    'national unique domain values',
+  '1,1,1,5,5,6,6,10,10,10-Decafluoro-3,3,8,8-tetrakis(trifluoromethyl)-2,4,7,9-tetraoxadecane':
+    '',
   '1,1,1,5,5,6,6,6-Octafluoro-4,4-bis(trifluoromethyl)hex-2-ene':
     'national unique domain values',
-  '1,1,1,5,5,6,6,7,7,8,8,8-Dodecafluoro-2,2-bis(trifluoromethyl)oct-3-ene': '',
-  '1,1,1,5,5,6,6,7,7,8,8,8-Dodecafluorooctane-2,4-dione': '',
-  '1,1,1,5,5,6,6,7,7,8,8,9,9,10,10,10-hexadecafluorodecane-2,4-dione':
+  '1,1,1,5,5,6,6,7,7,8,8,8-Dodecafluoro-2,2-bis(trifluoromethyl)oct-3-ene':
     'national unique domain values',
-  '1,1,1,7-Tetrachloro-2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptane': '',
+  '1,1,1,5,5,6,6,7,7,8,8,8-Dodecafluorooctane-2,4-dione':
+    'national unique domain values',
+  '1,1,1,5,5,6,6,7,7,8,8,9,9,10,10,10-hexadecafluorodecane-2,4-dione': '',
+  '1,1,1,7-Tetrachloro-2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptane':
+    'national unique domain values',
   '1,1,1-TRICHLOROETHANE': 'ATTAINS.parameter',
   '1,1,1-Trichloro-2,2,3,3,4,4,5,5,5-nonafluoropentane': '',
-  '1,1,1-Trichloro-2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptane': '',
+  '1,1,1-Trichloro-2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptane':
+    'national unique domain values',
   '1,1,1-Trichloro-2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctane': '',
-  '1,1,1-Trichloro-2,2,3,3,4,5,5,5-octafluoro-4-(trifluoromethyl)pentane':
-    'national unique domain values',
-  '1,1,1-Trichloro-2,2-bis(4-chlorophenyl-d4)ethane':
-    'national unique domain values',
+  '1,1,1-Trichloro-2,2,3,3,4,5,5,5-octafluoro-4-(trifluoromethyl)pentane': '',
+  '1,1,1-Trichloro-2,2-bis(4-chlorophenyl-d4)ethane': '',
   '1,1,1-Trichloro-2-Propanone': 'STORETW Provider',
-  '1,1,1-Trichloro-2-propanone': 'CHARACTERISTIC Table',
-  '1,1,1-Trichloro-3,3,4,4,4-pentafluorobutan-2-one':
-    'national unique domain values',
-  '1,1,1-Trichloroethane': 'STANDARD NAME (Normalized)',
-  '1,1,1-Trichloropropane': 'CHARACTERISTIC Table',
+  '1,1,1-Trichloro-2-propanone': 'STANDARD NAME (Normalized)',
+  '1,1,1-Trichloro-3,3,4,4,4-pentafluorobutan-2-one': '',
+  '1,1,1-Trichloroethane': 'CHARACTERISTIC Table',
+  '1,1,1-Trichloropropane': 'STORETW Provider',
   '1,1,1-Trifluoro-3-[N-[[3-(1,1,2,2,3,3,3-heptafluoropropyl)phenyl]methyl]-3-[2-(trifluoromethyl)pyridin-4-yl]oxyanilino]propan-2-ol':
-    '',
-  '1,1,1-Trifluoro-N-(pentafluoroethyl)methanesulfinimidoyl fluoride': '',
+    'national unique domain values',
+  '1,1,1-Trifluoro-N-(pentafluoroethyl)methanesulfinimidoyl fluoride':
+    'national unique domain values',
   '1,1,1-Trifluoro-N-[2-[2-[(E)-2-[4-(2,2,3,3,3-pentafluoropropoxy)phenyl]ethenyl]-3H-benzimidazol-5-yl]phenyl]methanesulfonamide':
     '',
   '1,1,1-Trifluoropropan-2-yl nonafluorobutane-1-sulfonate':
     'national unique domain values',
   '1,1,1-Trimethylbutane': '',
   '1,1,1-tce': 'CST.pollutant',
-  '1,1,1-trichloro-2,2,2-trifluoroethane': 'CST.std.pollutant',
+  '1,1,1-trichloro-2,2,2-trifluoroethane': 'CST.pollutant',
   '1,1,1-trichloroethane': 'CST.std.pollutant',
   '1,1,1-trichloropentane': 'CHARACTERISTIC Table',
-  '1,1,2,2,12,12,12-Heptafluorododecane-1-sulfonate':
-    'national unique domain values',
+  '1,1,2,2,12,12,12-Heptafluorododecane-1-sulfonate': '',
   '1,1,2,2,2-Pentafluoro-N,N-bis(trifluoromethyl)ethan-1-amine': '',
-  '1,1,2,2,2-Pentafluoro-N-(trifluoromethyl)ethan-1-amine':
-    'national unique domain values',
+  '1,1,2,2,2-Pentafluoro-N-(trifluoromethyl)ethan-1-amine': '',
   '1,1,2,2,2-Pentafluoroethyl trifluoromethyl phosphate':
     'national unique domain values',
-  '1,1,2,2,2-Pentafluoroethylsulfonyl 2,2,2-trifluoroacetate': '',
+  '1,1,2,2,2-Pentafluoroethylsulfonyl 2,2,2-trifluoroacetate':
+    'national unique domain values',
   '1,1,2,2,3,11,11,11-Octafluoroundecane-1-sulfonate': '',
   '1,1,2,2,3,3,3-Heptafluoro-N,N-bis(pentafluoroethyl)propan-1-aminato(2-)': '',
   '1,1,2,2,3,3,3-Heptafluoropropoxy(dimethyl)silane':
@@ -44692,67 +44706,70 @@ export default {
   '1,1,2,2,3,3,4,4,4-Nonafluoro-N,N-bis(2-hydroxyethyl)butane-1-sulphonamide':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,4-Nonafluoro-N,N-bis(2-methoxyethyl)butane-1-sulfonamide':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,4-Nonafluoro-N,N-bis(trimethylstannyl)butane-1-sulfonamide':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,4-Nonafluoro-N-[1-(morpholin-4-yl)ethylidene]butane-1-sulfonamide':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,4-Nonafluoro-N-[2-methyl-1-(pyrrolidin-1-yl)propylidene]butane-1-sulfonamide':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,4-Nonafluoro-N-methyl-N-(trimethylstannyl)butane-1-sulfinamide':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,4-Nonafluoro-N-methyl-N-[(trichloromethyl)sulfanyl]butane-1-sulfinamide':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonamide': 'IUPAC Name',
   '1,1,2,2,3,3,4,4,4-Nonafluorobutylsulfonylbenzene': '',
   '1,1,2,2,3,3,4,4,4-nonafluoro-N-(2-hydroxyethyl)-1-Butanesulfonamide':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,4-nonafluoro-N-[(trifluoromethyl)sulfonyl]-1-Butanesulfonamide':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8a-Hexadecafluoro-8,8-bis(trifluoromethyl)decahydronaphthalene':
+    '',
+  '1,1,2,2,3,3,4,4,5,12,12,12-Dodecafluorododecane-1- sulfonate':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,12,12,12-Dodecafluorododecane-1- sulfonate': '',
-  '1,1,2,2,3,3,4,4,5,5,11,11,11-Tridecafluoroundecane-1- sulfonate': '',
-  '1,1,2,2,3,3,4,4,5,5,12,12,12-Tridecafluorododecane-1- sulfonate': '',
+  '1,1,2,2,3,3,4,4,5,5,11,11,11-Tridecafluoroundecane-1- sulfonate':
+    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,12,12,12-Tridecafluorododecane-1- sulfonate':
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,5-Undecafluoro-1-pentanesulfonic acid':
     'SYSTEMATIC NAME',
   '1,1,2,2,3,3,4,4,5,5,5-undecafluoropentane-1-sulfonic acid':
     'SYSTEMATIC NAME',
-  '1,1,2,2,3,3,4,4,5,5,6,6,10,10,10-Pentadecafluorodecyl prop-2-enoate': '',
-  '1,1,2,2,3,3,4,4,5,5,6,6,12,12,12-Pentadecafluorododecane-1-sulfonate': '',
+  '1,1,2,2,3,3,4,4,5,5,6,6,10,10,10-Pentadecafluorodecyl prop-2-enoate':
+    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,6,12,12,12-Pentadecafluorododecane-1-sulfonate':
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluoro-N,N-bis(2-methoxyethyl)hexane-1-sulfonamide':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluoro-N,N-dimethylhexane-1-sulfonamide':
     '',
   '1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluoro-N-(2-hydroxyethyl)hexane-1-sulfonamide':
     '',
-  '1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluorohexane-1-sulphonyl chloride':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluorohexane-1-sulphonyl chloride': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,10,10,10-Heptadecafluorodecane-1-sulfonate':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,10,10,10-Heptadecafluorodecyl 2-methylprop-2-enoate':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,10,10,10-Heptadecafluorodecyl-methyl-di(propan-2-yloxy)silane':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,12,12,12-Heptadecafluorododecane-1-sulfonate':
-    '',
-  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,12,12,12-Heptadecafluorododecylbenzene':
     'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,12,12,12-Heptadecafluorododecylbenzene': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-Pentadecafluoro-N-(2-hydroxyethyl)heptane-1-sulfonamide':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptane-1-sulfonic acid': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,12,12,12-Nonadecafluorododecane-1-sulfonate':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-N-(2-oxocyclooctyl)octane-1-sulfonamide':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-N-[(oxiran-2-yl)methyl]-N-propyloctane-1-sulfonamide':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-N-[3-(triethoxysilyl)propyl]octane-1-sulfonamide':
     '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-N-propyl-N-(3-trimethoxysilylpropyl)octane-1-sulfonamide':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluorooctane-1-(~2~H_2_)sulfonamide':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(trideuteriomethyl)octane-1-sulfonamide':
     '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfinic Acid':
@@ -44760,54 +44777,48 @@ export default {
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Pentacosafluorododecane-1-sulphonic acid':
     '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-Icosafluoro-11-(vinyloxy)undecane':
-    'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10-Nonadecafluorodecan-1-amine':
-    'national unique domain values',
+    '',
+  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10-Nonadecafluorodecan-1-amine': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Octadecafluoro-1,9-diiodononane':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorodecan-1-ol':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorodecan-1-ol': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononane-1-ol':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Hexadecafluoro-1-[(1,1,1,2,3,3,3-heptafluoropropan-2-yl)oxy]-8-iodooctane':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Hexadecafluoro-9-(vinyloxy)nonane': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Hexadecafluorooctanol phosphate disodium salt':
-    '',
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluorooctyl)oxy]-1,1,2,2-tetrafluoro-':
     '',
-  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8-Pentadecafluorooctan-1-ol': '',
+  '1,1,2,2,3,3,4,4,5,5,6,6,7,7,8-Pentadecafluorooctan-1-ol':
+    'national unique domain values',
   "1,1,2,2,3,3,4,4,5,5,6,6,7,7-Tetradecafluoro-N,N'-diphenylheptane-1,7-diamine":
     'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7-Tetradecafluoroheptan-1-ol': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7,7-Tetradecafluoroheptane': '',
   '1,1,2,2,3,3,4,4,5,5,6,6,7-Tridecafluorooctan-1-ol': '',
-  '1,1,2,2,3,3,4,4,5,5,6,6,8,8,8-Pentadecafluorooctyl prop-2-enoate':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,6,8,8,8-Pentadecafluorooctyl prop-2-enoate': '',
   '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-1,6-bis[(trifluoroethenyl)oxy]hexane':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-1-[(1,1,1,2,3,3,3-heptafluoropropan-2-yl)oxy]-8-iodooctane':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-1-[(trifluoromethyl)sulfanyl]hexane':
     'national unique domain values',
   '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-(1,1,2,3,3,3-hexafluoropropoxy)heptane':
-    '',
-  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-(2-methoxyethoxy)heptane':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-(trifluoromethoxy)heptane':
+  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-(2-methoxyethoxy)heptane': '',
+  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-(trifluoromethoxy)heptane': '',
+  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-(vinyloxy)heptane':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-(vinyloxy)heptane': '',
-  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-[(prop-2-en-1-yl)oxy]heptane':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluoro-7-[(prop-2-en-1-yl)oxy]heptane': '',
   '1,1,2,2,3,3,4,4,5,5,6,6-dodecafluoro-1-iodohexane':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,5,6,6-dodecafluoro-7-iodoheptane':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,6-dodecafluoro-7-iodoheptane': '',
   '1,1,2,2,3,3,4,4,5,5,6,7,8,9,9,9-Hexadecafluoro-7-nonene-1-sulfonic acid': '',
-  '1,1,2,2,3,3,4,4,5,5,6,8,8,8-Tetradecafluorooctane-1-sulfonate':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,5,6,8,8,8-Tetradecafluorooctane-1-sulfonate': '',
   '1,1,2,2,3,3,4,4,5,5,6-Undecafluoro-6-(1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)sulfanylcyclohexane':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4,5,5,8,8,8-Tridecafluorooctane-1-sulfonate': '',
   '1,1,2,2,3,3,4,4,5,5-Decafluoro-1-((trifluorovinyl)oxy)pentane': '',
   '1,1,2,2,3,3,4,4,5,5-Decafluoro-1-(nonafluorobutoxy)pentane':
@@ -44817,137 +44828,140 @@ export default {
   '1,1,2,2,3,3,4,4,5,6,7,8,8,8-Tetradecafluoro-6-octene-1-sulfonic acid': '',
   '1,1,2,2,3,3,4,4,5,6-Decafluoro-5,6-bis(pentafluoroethyl)cyclohexane':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,6-Decafluorocyclohexane': 'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,7,7,7-Dodecafluoroheptyl 2-methylprop-2-enoate': '',
+  '1,1,2,2,3,3,4,4,5,6-Decafluorocyclohexane': '',
+  '1,1,2,2,3,3,4,4,5,7,7,7-Dodecafluoroheptyl 2-methylprop-2-enoate':
+    'national unique domain values',
   '1,1,2,2,3,3,4,4,5,7,7,7-Dodecafluoroheptyl prop-2-enoate':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4,5,8,8,8-Dodecafluorooctane-1-sulfonate':
-    'national unique domain values',
-  '1,1,2,2,3,3,4,4,5-Nonafluoro-5,6,6-tris(trifluoromethyl)cyclohexane':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,4,5,8,8,8-Dodecafluorooctane-1-sulfonate': '',
+  '1,1,2,2,3,3,4,4,5-Nonafluoro-5,6,6-tris(trifluoromethyl)cyclohexane': '',
   '1,1,2,2,3,3,4,4,5-Nonafluoro-5-(pentafluoroethyl)-6,6-bis(trifluoromethyl)cyclohexane':
     '',
-  '1,1,2,2,3,3,4,4,5-Nonafluorocyclohexane': 'national unique domain values',
-  '1,1,2,2,3,3,4,4,5-Nonafluoropentane': 'national unique domain values',
+  '1,1,2,2,3,3,4,4,5-Nonafluorocyclohexane': '',
+  '1,1,2,2,3,3,4,4,5-Nonafluoropentane': '',
   '1,1,2,2,3,3,4,4,6,6,7,7,8,8,9,9,10,10,10a-Nonadecafluorodecahydropyrido[1,2-a]azepine':
-    '',
-  '1,1,2,2,3,3,4,4,7,7,8,8,9,9,10,10-Hexadecafluorodecane': '',
+    'national unique domain values',
+  '1,1,2,2,3,3,4,4,7,7,8,8,9,9,10,10-Hexadecafluorodecane':
+    'national unique domain values',
   '1,1,2,2,3,3,4,4-Octafluoro-1,4-bis[(1,1,1,2,3,3,3-heptafluoropropan-2-yl)oxy]butane':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4-Octafluoro-1-[(1,1,1,2,3,3,3-heptafluoropropan-2-yl)oxy]-4-iodobutane':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4-Octafluoro-1-[(1,1,1,2,3,3,3-heptafluoropropan-2-yl)oxy]-6-iodohexane':
     'national unique domain values',
   '1,1,2,2,3,3,4,4-Octafluoro-1-[(trifluoroethenyl)oxy]-4-(trifluoromethoxy)butane':
     'national unique domain values',
   '1,1,2,2,3,3,4,4-Octafluoro-4-iodobutyl sulfurofluoridate': '',
-  '1,1,2,2,3,3,4,4-Octafluoro-5,5,6,6-tetrakis(trifluoromethyl)cyclohexane': '',
+  '1,1,2,2,3,3,4,4-Octafluoro-5,5,6,6-tetrakis(trifluoromethyl)cyclohexane':
+    'national unique domain values',
   '1,1,2,2,3,3,4,4-Octafluoro-5-(vinyloxy)pentane': '',
   '1,1,2,2,3,3,4,4-Octafluoro-5-iodopentane': '',
-  '1,1,2,2,3,3,4,4-Octafluoro-5-methoxypentane': '',
+  '1,1,2,2,3,3,4,4-Octafluoro-5-methoxypentane':
+    'national unique domain values',
   '1,1,2,2,3,3,4,4-Octafluoro-5-methylcyclopentane': '',
   '1,1,2,2,3,3,4,4-Octafluoro-N,N-bis(2-hydroxyethyl)butane-1-sulphonamide':
     'national unique domain values',
   '1,1,2,2,3,3,4,4-Octafluoro-N-(2-hydroxyethyl)-N-methylbutane-1-sulphonamide':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3,4,4-Octafluorobutane-1-sulphonic acid':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4-Octafluorobutane-1-sulphonic anhydride':
+  '1,1,2,2,3,3,4,4-Octafluorobutane-1-sulphonic anhydride': '',
+  '1,1,2,2,3,3,4,4-Octafluorobutyl bicyclo[2.2.1]hept-5-ene-2-carboxylate':
     'national unique domain values',
-  '1,1,2,2,3,3,4,4-Octafluorobutyl bicyclo[2.2.1]hept-5-ene-2-carboxylate': '',
-  '1,1,2,2,3,3,4,4-Octafluoropentan-1-ol': '',
+  '1,1,2,2,3,3,4,4-Octafluoropentan-1-ol': 'national unique domain values',
   '1,1,2,2,3,3,4,4-Octafluoropentane': 'national unique domain values',
-  '1,1,2,2,3,3,4,4-Octafluoroundecane-5,6-dione': '',
-  '1,1,2,2,3,3,4,4-octafluoro-1-iodobutane': 'national unique domain values',
-  '1,1,2,2,3,3,4,4-octafluoro-5-iodo-5-(trifluoromethyl)cyclopentane': '',
-  '1,1,2,2,3,3,4,5,5,6,6,7,7,8-Tetradecafluoro-4,8-dimethylcyclooctane': '',
-  '1,1,2,2,3,3,4,5,5,6-Decafluoro-4,6-dimethylcyclohexane': '',
+  '1,1,2,2,3,3,4,4-Octafluoroundecane-5,6-dione':
+    'national unique domain values',
+  '1,1,2,2,3,3,4,4-octafluoro-1-iodobutane': '',
+  '1,1,2,2,3,3,4,4-octafluoro-5-iodo-5-(trifluoromethyl)cyclopentane':
+    'national unique domain values',
+  '1,1,2,2,3,3,4,5,5,6,6,7,7,8-Tetradecafluoro-4,8-dimethylcyclooctane':
+    'national unique domain values',
+  '1,1,2,2,3,3,4,5,5,6-Decafluoro-4,6-dimethylcyclohexane':
+    'national unique domain values',
   '1,1,2,2,3,3,4,5,5,6-Decafluorocyclohexane': '',
   '1,1,2,2,3,3,4,5,6,7-Decafluoro-2,3-dihydro-1H-indene':
     'national unique domain values',
-  '1,1,2,2,3,3,4,5,6-Nonafluoro-7-(trifluoromethyl)-2,3-dihydro-1H-indene':
-    'national unique domain values',
+  '1,1,2,2,3,3,4,5,6-Nonafluoro-7-(trifluoromethyl)-2,3-dihydro-1H-indene': '',
   '1,1,2,2,3,3,4,5-Octafluorocyclopentane': 'national unique domain values',
   '1,1,2,2,3,3,4,7,7,7-Decafluoroheptane-1-sulfonate': '',
-  '1,1,2,2,3,3,4-Heptafluoro-4-iodobutane': 'national unique domain values',
+  '1,1,2,2,3,3,4-Heptafluoro-4-iodobutane': '',
   '1,1,2,2,3,3,6,6,6-Nonafluorohexyl prop-2-enoate':
     'national unique domain values',
   '1,1,2,2,3,3-Hexafluoro-1,3-bis((trifluorovinyl)oxy)propane':
     'national unique domain values',
-  '1,1,2,2,3,3-Hexafluoro-1-((trifluorovinyl)oxy)propane':
+  '1,1,2,2,3,3-Hexafluoro-1-((trifluorovinyl)oxy)propane': '',
+  '1,1,2,2,3,3-Hexafluoro-1-(trifluoromethoxy)propane':
     'national unique domain values',
-  '1,1,2,2,3,3-Hexafluoro-1-(trifluoromethoxy)propane': '',
   '1,1,2,2,3,3-Hexafluoro-1-[(propan-2-yl)oxy]propane': '',
   '1,1,2,2,3,3-Hexafluoro-1-[(trifluoroethenyl)oxy]-3-(trifluoromethoxy)propane':
-    'national unique domain values',
+    '',
   '1,1,2,2,3,3-Hexafluoro-1-iodobutane': 'national unique domain values',
-  '1,1,2,2,3,3-Hexafluoro-1-iodopropane': 'national unique domain values',
-  '1,1,2,2,3,3-Hexafluoro-1-methoxy-3-[(trifluoroethenyl)oxy]propane':
-    'national unique domain values',
-  '1,1,2,2,3,3-Hexafluoro-2,3-dihydro-1H-inden-4-amine':
-    'national unique domain values',
+  '1,1,2,2,3,3-Hexafluoro-1-iodopropane': '',
+  '1,1,2,2,3,3-Hexafluoro-1-methoxy-3-[(trifluoroethenyl)oxy]propane': '',
+  '1,1,2,2,3,3-Hexafluoro-2,3-dihydro-1H-inden-4-amine': '',
   '1,1,2,2,3,3-Hexafluoro-2,3-dihydro-1H-indene': '',
-  '1,1,2,2,3,3-Hexafluoro-2,3-dihydrobenzo[f]azulen-9(1H)-one': '',
-  '1,1,2,2,3,3-Hexafluoro-3-(trifluoromethoxy)propane-1-sulfonic acid':
+  '1,1,2,2,3,3-Hexafluoro-2,3-dihydrobenzo[f]azulen-9(1H)-one':
     'national unique domain values',
+  '1,1,2,2,3,3-Hexafluoro-3-(trifluoromethoxy)propane-1-sulfonic acid': '',
   '1,1,2,2,3,3-Hexafluorobutan-1-ol': 'national unique domain values',
   '1,1,2,2,3,3-Hexafluorobutane': '',
   '1,1,2,2,3,3-Hexafluorobutane-1-sulfonic acid': '',
   '1,1,2,2,3,3-Hexafluorocyclobutane': '',
   '1,1,2,2,3,3-Hexafluoropentan-1-ol': 'national unique domain values',
-  '1,1,2,2,3,3-Hexafluoropropane': '',
+  '1,1,2,2,3,3-Hexafluoropropane': 'national unique domain values',
   '1,1,2,2,3,3-Hexafluoropropane-1,3-disulfonyldifluoride': '',
-  '1,1,2,2,3,4,4,5,5,6-Decafluoro-3,6-bis(trifluoromethyl)cyclohexane':
-    'national unique domain values',
+  '1,1,2,2,3,4,4,5,5,6-Decafluoro-3,6-bis(trifluoromethyl)cyclohexane': '',
   '1,1,2,2,3,4,4,5,6-Nonafluorocyclohexane': 'national unique domain values',
   '1,1,2,2,3,4,4,5-Octafluorocyclopentane': 'national unique domain values',
-  '1,1,2,2,3,4,4-Heptafluorobut-3-ene-1-sulfonyl fluoride': '',
+  '1,1,2,2,3,4,4-Heptafluorobut-3-ene-1-sulfonyl fluoride':
+    'national unique domain values',
   '1,1,2,2,3,4,5,6,7-Nonafluoro-2,3-dihydro-1H-indene':
     'national unique domain values',
-  '1,1,2,2,3,4,5,6,7-Nonafluoro-3-(trifluoromethyl)-2,3-dihydro-1H-indene':
+  '1,1,2,2,3,4,5,6,7-Nonafluoro-3-(trifluoromethyl)-2,3-dihydro-1H-indene': '',
+  '1,1,2,2,3,5,5,5-Octafluoropentyl prop-2-enoate':
     'national unique domain values',
-  '1,1,2,2,3,5,5,5-Octafluoropentyl prop-2-enoate': '',
   '1,1,2,2,3,5,6,7,8-Nonafluoro-4-methyl-1,2-dihydronaphthalene':
     'national unique domain values',
   '1,1,2,2,3,9,9,9-Octafluorononane-1-sulfonate':
     'national unique domain values',
   '1,1,2,2,3-Pentafluoro-3-(trifluoromethyl)cyclobutane':
     'national unique domain values',
-  '1,1,2,2,3-Pentafluorocyclopentane': '',
-  '1,1,2,2,3-Pentafluorodecan-1-ol': 'national unique domain values',
-  '1,1,2,2,3-Pentafluoropropan-1-amine': '',
+  '1,1,2,2,3-Pentafluorocyclopentane': 'national unique domain values',
+  '1,1,2,2,3-Pentafluorodecan-1-ol': '',
+  '1,1,2,2,3-Pentafluoropropan-1-amine': 'national unique domain values',
   '1,1,2,2,3-Pentafluoropropane-1-sulfonic acid':
     'national unique domain values',
-  '1,1,2,2,3-pentafluorocyclobutane': '',
+  '1,1,2,2,3-pentafluorocyclobutane': 'national unique domain values',
   '1,1,2,2,4,4,4-Heptafluoro-3-(iodomethyl)-1-(1,2,2,2-tetrafluoroethoxy)butane':
-    '',
+    'national unique domain values',
   '1,1,2,2,4,4,4-Heptafluorobutyl prop-2-enoate':
     'national unique domain values',
   '1,1,2,2,9,9,9-Heptafluorononane-1-sulfonate':
     'national unique domain values',
   '1,1,2,2-TETRACHLOROETHANE': 'ATTAINS.parameter',
-  '1,1,2,2-Tetrabromo-3,3-dichlorocyclohexane': 'national unique domain values',
-  '1,1,2,2-Tetrabromoethane': 'STORETW Provider',
+  '1,1,2,2-Tetrabromo-3,3-dichlorocyclohexane': '',
+  '1,1,2,2-Tetrabromoethane': 'CHARACTERISTIC Table',
   '1,1,2,2-Tetrachloro-3,3,4,4-tetrafluorocyclobutane': '',
   '1,1,2,2-Tetrachloroethane': 'CHARACTERISTIC Table',
   '1,1,2,2-Tetrachloroethane-D2': 'STORETW Provider',
-  '1,1,2,2-Tetrachloroethane-d2': 'GLENDA contact (klewin.kenneth@epa.gov ',
+  '1,1,2,2-Tetrachloroethane-d2': 'STANDARD NAME (Normalized)',
   '1,1,2,2-Tetrafluoro-1,2-bis(1,1,2,2-tetrafluoro-2-iodoethoxy)ethane': '',
   '1,1,2,2-Tetrafluoro-1,2-bis(trifluoromethoxy)ethane':
     'national unique domain values',
-  '1,1,2,2-Tetrafluoro-1,2-dihydroacenaphthylene': '',
-  '1,1,2,2-Tetrafluoro-1,2-dinitroethane': 'national unique domain values',
-  '1,1,2,2-Tetrafluoro-1-(trifluoromethoxy)ethane':
+  '1,1,2,2-Tetrafluoro-1,2-dihydroacenaphthylene':
     'national unique domain values',
+  '1,1,2,2-Tetrafluoro-1,2-dinitroethane': 'national unique domain values',
+  '1,1,2,2-Tetrafluoro-1-(trifluoromethoxy)ethane': '',
   '1,1,2,2-Tetrafluoro-1-[1,1,2,2-tetrafluoro-2-(trifluoromethoxy)ethoxy]-2-(trifluoromethoxy)ethane':
-    '',
+    'national unique domain values',
   '1,1,2,2-Tetrafluoro-1-iodo-2-(1,1,2,2-tetrafluoro-2-iodoethoxy)ethane':
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-1-iodo-2-(trifluoromethoxy)ethane': '',
-  '1,1,2,2-Tetrafluoro-1-iodobutane': '',
+  '1,1,2,2-Tetrafluoro-1-iodobutane': 'national unique domain values',
   '1,1,2,2-Tetrafluoro-1-nitro-2-nitrosoethane':
     'national unique domain values',
-  '1,1,2,2-Tetrafluoro-2,3-dihydro-1H-indene': 'national unique domain values',
+  '1,1,2,2-Tetrafluoro-2,3-dihydro-1H-indene': '',
   '1,1,2,2-Tetrafluoro-2-(1,1,2,2,3,3,4,4-octafluoro-4-iodobutoxy)ethane-1-sulfonamide':
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-(1,1,2,2,3,3,4,4-octafluoro-4-iodobutoxy)ethane-1-sulfonyl fluoride':
@@ -44958,15 +44972,15 @@ export default {
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfinic acid':
     'national unique domain values',
-  '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfonamide': '',
-  '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfonic acid':
+  '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfonamide':
     'national unique domain values',
+  '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfonic acid': '',
   '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfonyl azide':
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfonyl chloride':
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane-1-sulfonyl fluoride':
-    'national unique domain values',
+    '',
   '1,1,2,2-Tetrafluoro-2-(1,2,2,2-tetrafluoroethoxy)ethane-1-sulfonyl fluoride':
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-(1,2,2,2-tetrafluoroethoxy)ethanesulfonic acid': '',
@@ -44977,163 +44991,162 @@ export default {
   '1,1,2,2-Tetrafluoro-2-(pentafluoroethoxy)ethane-1-sulfonyl fluoride': '',
   '1,1,2,2-Tetrafluoro-2-(perfluoroethoxy)ethanesulfonic acid': '',
   '1,1,2,2-Tetrafluoro-2-(trifluoromethoxy)-N,N-bis(trifluoromethyl)ethanamine':
+    '',
+  '1,1,2,2-Tetrafluoro-2-(trifluoromethoxy)ethane-1-sulfonyl fluoride':
     'national unique domain values',
-  '1,1,2,2-Tetrafluoro-2-(trifluoromethoxy)ethane-1-sulfonyl fluoride': '',
-  '1,1,2,2-Tetrafluoro-2-(trifluoromethoxy)ethanesulfonic acid': '',
-  '1,1,2,2-Tetrafluoro-2-(undecafluorocyclohexyl)ethane-1-sulfonic acid':
+  '1,1,2,2-Tetrafluoro-2-(trifluoromethoxy)ethanesulfonic acid':
     'national unique domain values',
+  '1,1,2,2-Tetrafluoro-2-(undecafluorocyclohexyl)ethane-1-sulfonic acid': '',
   '1,1,2,2-Tetrafluoro-2-[(1,1,1,2,3,3,4,4-octafluorobutan-2-yl)oxy]ethane-1-sulfonic acid':
-    'national unique domain values',
+    '',
   '1,1,2,2-Tetrafluoro-2-[(1,1,2,2-tetrafluoro-4-iodobut-3-en-1-yl)oxy]ethane-1-sulfonyl fluoride':
-    'national unique domain values',
+    '',
   '1,1,2,2-Tetrafluoro-2-[(oxiran-2-yl)methoxy]ethane-1-sulfonyl fluoride':
     'national unique domain values',
-  '1,1,2,2-Tetrafluoro-2-[(pentafluoroallyl)oxy]ethanesulfonyl fluoride': '',
+  '1,1,2,2-Tetrafluoro-2-[(pentafluoroallyl)oxy]ethanesulfonyl fluoride':
+    'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-[(tridecafluorohexyl)oxy]ethane-1-sulfonyl fluoride':
     '',
   '1,1,2,2-Tetrafluoro-2-[(tridecafluorohexyl)oxy]ethanesulfonic acid':
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-[[1,1,1,2,3,3-hexafluoro-3-(pentafluoroethoxy)propan-2-yl]oxy]ethane-1-sulfonyl fluoride':
-    '',
+    'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-hydroxyethane-1-sulfonyl fluoride':
     'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-iodo-N,N-bis(trifluoromethyl)ethan-1-amine': '',
   '1,1,2,2-Tetrafluoro-2-iodoethyl sulfurofluoridate': '',
   '1,1,2,2-Tetrafluoro-2-{[1,1,1,2,3,3-hexafluoro-3-(1,1,2,2-tetrafluoroethoxy)propan-2-yl]oxy}ethane-1-sulfonic acid':
-    '',
+    'national unique domain values',
   '1,1,2,2-Tetrafluoro-2-{[1,1,1,2,3,3-hexafluoro-3-(1,2,2-trifluoro-2-sulfoethoxy)propan-2-yl]oxy}ethane-1-sulfonic acid':
     '',
-  '1,1,2,2-Tetrafluoro-3,4-dimethylcyclobutane': '',
-  '1,1,2,2-Tetrafluoro-3,4-dimethylidenecyclobutane':
+  '1,1,2,2-Tetrafluoro-3,4-dimethylcyclobutane':
     'national unique domain values',
+  '1,1,2,2-Tetrafluoro-3,4-dimethylidenecyclobutane': '',
   '1,1,2,2-Tetrafluoro-3-(1,1,2,2-tetrafluorobutyl)cyclobutane': '',
   '1,1,2,2-Tetrafluoro-3-(methylsulfonyl)propane': '',
   '1,1,2,2-Tetrafluoro-3-iodopropane': '',
-  '1,1,2,2-Tetrafluoro-5-methyl-2,3-dihydro-1H-indene': '',
+  '1,1,2,2-Tetrafluoro-5-methyl-2,3-dihydro-1H-indene':
+    'national unique domain values',
   '1,1,2,2-Tetrafluoro-6-azaspiro[3.4]octane': '',
   '1,1,2,2-Tetrafluoro-6-methyl-2,3-dihydro-1H-indene':
     'national unique domain values',
-  '1,1,2,2-Tetrafluoro-7-methyl-2,3-dihydro-1H-indene':
-    'national unique domain values',
-  '1,1,2,2-Tetrafluorooctane-1-sulfonic acid': 'national unique domain values',
-  '1,1,2,2-Tetrafluoropropan-1-ol': '',
+  '1,1,2,2-Tetrafluoro-7-methyl-2,3-dihydro-1H-indene': '',
+  '1,1,2,2-Tetrafluorooctane-1-sulfonic acid': '',
+  '1,1,2,2-Tetrafluoropropan-1-ol': 'national unique domain values',
   '1,1,2,2-Tetrahydroperfluorodecyl acrylate': 'national unique domain values',
   '1,1,2,2-Tetrahydroperfluorododecanethiol': 'national unique domain values',
   '1,1,2,2-Tetrahydroperfluorododecyl acrylate':
     'national unique domain values',
   '1,1,2,2-Tetrahydroperfluorohexadecyl acrylate': '',
   '1,1,2,2-Tetrahydroperfluorotetradecyl acrylate': '',
-  '1,1,2,2-Tetramethylcyclopropane': '',
+  '1,1,2,2-Tetramethylcyclopropane': 'national unique domain values',
   '1,1,2,2-tetrachloroethane': 'CST.pollutant',
-  '1,1,2,2-tetrafluoro-7,7a-dihydro-2aH-cyclobuta[a]indene':
-    'national unique domain values',
+  '1,1,2,2-tetrafluoro-7,7a-dihydro-2aH-cyclobuta[a]indene': '',
   '1,1,2,3,3,3-Hexafluoro-2-(trifluoromethyl)propane-1-sulphonic anhydride':
     'national unique domain values',
-  '1,1,2,3,3,3-Hexafluoro-2-iodopropyl sulfurofluoridate':
-    'national unique domain values',
-  '1,1,2,3,3,3-Hexafluoro-2-nitropropyl sulfurofluoridate':
-    'national unique domain values',
+  '1,1,2,3,3,3-Hexafluoro-2-iodopropyl sulfurofluoridate': '',
+  '1,1,2,3,3,3-Hexafluoro-2-nitropropyl sulfurofluoridate': '',
   '1,1,2,3,3,3-Hexafluoro-N,N-bis(2-hydroxyethyl)-2-(trifluoromethyl)propane-1-sulphonamide':
     '',
   '1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-Docosafluoroundec-1-ene':
-    'national unique domain values',
-  '1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Tetracosafluorododec-1-ene':
     '',
+  '1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Tetracosafluorododec-1-ene':
+    'national unique domain values',
   '1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-Hexacosafluorotridec-1-ene':
-    'national unique domain values',
+    '',
   '1,1,2,3,3,4,4,5,5,6,6,7,7-Tridecafluoro-2-(trifluoromethyl)-2,3,4,5,6,7-hexahydro-1H-indene':
+    '',
+  '1,1,2,3,3,4,4,5,5,6,6,7,8,8-Tetradecafluoroocta-1,7-diene':
     'national unique domain values',
-  '1,1,2,3,3,4,4,5,5,6,6,7,8,8-Tetradecafluoroocta-1,7-diene': '',
-  '1,1,2,3,3,4,4,5,5-Nonafluorohex-1-ene': 'national unique domain values',
+  '1,1,2,3,3,4,4,5,5-Nonafluorohex-1-ene': '',
   '1,1,2,3,3,4,4,5,6,6-Decafluorohexa-1,5-diene': '',
   '1,1,2,3,3,4,5,5,5-Nonafluoro-4-(trifluoromethyl)pent-1-ene':
     'national unique domain values',
   '1,1,2,3,4,4,4-Heptafluoro-3-(trifluoromethyl)but-1-ene': '',
-  '1,1,2,3,4,4,5,5,5-Nonafluoropent-2-ene': 'national unique domain values',
-  '1,1,2,3,4,4,5,5,6,6,6-Undecafluorohex-2-en-1-yl sulfurofluoridate':
-    'national unique domain values',
+  '1,1,2,3,4,4,5,5,5-Nonafluoropent-2-ene': '',
+  '1,1,2,3,4,4,5,5,6,6,6-Undecafluorohex-2-en-1-yl sulfurofluoridate': '',
   '1,1,2,3,4,4,5,6-octafluoro-2,3,5,6-tetrakis(trifluoromethyl)cyclohexane': '',
-  '1,1,2,3,4,4-Hexafluoro-1,2,3,4-tetrakis(heptafluoropropoxy)butane': '',
-  '1,1,2,3,4,5,5,5-Octafluoro-1-iodo-4-(trifluoromethyl)-2-pentene':
+  '1,1,2,3,4,4-Hexafluoro-1,2,3,4-tetrakis(heptafluoropropoxy)butane':
     'national unique domain values',
-  '1,1,2,3,4,5,5,5-Octafluoro-3-pentene-1-sulfonic acid': '',
+  '1,1,2,3,4,5,5,5-Octafluoro-1-iodo-4-(trifluoromethyl)-2-pentene': '',
+  '1,1,2,3,4,5,5,5-Octafluoro-3-pentene-1-sulfonic acid':
+    'national unique domain values',
   '1,1,2,3,4,5,6-Heptafluoro-2,4-bis(trifluoromethyl)cyclohexane': '',
   '1,1,2,3-Tetramethylcyclohexane': '',
-  '1,1,2,7,8,8-Hexachloro-1,2,3,4,4,5,5,6,8-nonafluorooctane': '',
-  '1,1,2-TRIBROMOPENTAFLUOROCYCLOBUTANE': '',
+  '1,1,2,7,8,8-Hexachloro-1,2,3,4,4,5,5,6,8-nonafluorooctane':
+    'national unique domain values',
+  '1,1,2-TRIBROMOPENTAFLUOROCYCLOBUTANE': 'national unique domain values',
   '1,1,2-TRICHLOROETHANE': 'ATTAINS.parameter',
   '1,1,2-Tribromo-1-(nonafluorobutyl)ethane': '',
   '1,1,2-Tribromotrifluoroethane': 'national unique domain values',
   '1,1,2-Trichloro-1,2,2-trifluoroethane': 'nemi.gov',
   '1,1,2-Trichloro-2,3,3,4,5,6,7-heptafluoro-2,3-dihydro-1H-indene': '',
   '1,1,2-Trichloro-2,3,3-trifluorocyclobutane': 'national unique domain values',
-  '1,1,2-Trichloroethane': 'STANDARD NAME (Normalized)',
+  '1,1,2-Trichloroethane': 'STORETW Provider',
   '1,1,2-Trichlorofluoromethane': '',
   '1,1,2-Trichlorotrifluoroethane':
     '1,1,2-Trichlorotrifluoroethane***retired***use CFC-113',
   '1,1,2-Trichlorotrifluoroethane***retired***use CFC-113':
     'CHARACTERISTIC Table',
-  '1,1,2-Trifluoro-2-(1,1,2,2,2-pentafluoroethoxy)ethanesulfonic acid':
-    'national unique domain values',
+  '1,1,2-Trifluoro-2-(1,1,2,2,2-pentafluoroethoxy)ethanesulfonic acid': '',
   '1,1,2-Trifluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)ethanesulfonate':
     'national unique domain values',
-  '1,1,2-Trifluoro-2-(heptafluoropropoxy)ethane-1-sulfonic acid': '',
+  '1,1,2-Trifluoro-2-(heptafluoropropoxy)ethane-1-sulfonic acid':
+    'national unique domain values',
   '1,1,2-Trifluoro-2-(pentafluoroethoxy)ethanesulfonate': '',
   '1,1,2-Trifluoro-2-(trifluoromethyl)cyclobutane': '',
-  '1,1,2-Trifluoro-2-(trifluoromethyl)cyclopropane':
-    'national unique domain values',
-  '1,1,2-Trifluoro-2-chloro-3-methyl-3-vinylcyclobutane':
-    'national unique domain values',
+  '1,1,2-Trifluoro-2-(trifluoromethyl)cyclopropane': '',
+  '1,1,2-Trifluoro-2-chloro-3-methyl-3-vinylcyclobutane': '',
   '1,1,2-Trifluorotrinitroethane': '',
   '1,1,2-Trimethyl-3-methylidenecyclopropane': 'national unique domain values',
-  '1,1,2-Trimethylcyclohexane': '',
+  '1,1,2-Trimethylcyclohexane': 'national unique domain values',
   '1,1,2-Trimethylcyclopentane': 'national unique domain values',
   '1,1,2-trichloro-1,2,2-trifluoroethane': 'CST.std.pollutant',
   '1,1,2-trichloroethane': 'CST.std.pollutant',
   '1,1,2-trichloroethylene': 'CST.pollutant',
   '1,1,3,3,4,4,4-Heptafluorobutan-2-one': '',
   '1,1,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-Hexadecafluoro-2-(trifluoromethyl)decahydroisoquinoline':
-    '',
+    'national unique domain values',
   '1,1,3,3,4,4,5,5,5-Nonafluoro-1-pentene': 'national unique domain values',
   '1,1,3,3,4,4,5,5,6,6,6-Undecafluoro-1-methoxyhexan-2-one':
     'national unique domain values',
-  '1,1,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooct-1-ene': '',
-  '1,1,3,3,4,4,5,6,6,6-Decafluoro-5-(trifluoromethyl)hex-1-ene':
+  '1,1,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooct-1-ene':
     'national unique domain values',
+  '1,1,3,3,4,4,5,6,6,6-Decafluoro-5-(trifluoromethyl)hex-1-ene': '',
   '1,1,3,3,5,5,7,7,9,9,11,11-dodecamethyl-2,4,6,8,10,12-hexaoxa-1,3,5,7,9,11-hexasilacyclododecane':
     'STORETW Provider',
-  '1,1,3,3,5,5-Hexachloro-1,2,2,4,4,5-hexafluoropentane':
-    'national unique domain values',
+  '1,1,3,3,5,5-Hexachloro-1,2,2,4,4,5-hexafluoropentane': '',
   '1,1,3,3-Tetramethyl-1,3,5-Trisilacyclohexane': 'STORETW Provider',
-  '1,1,3,3-Tetramethyl-1,3,5-trisilacyclohexane': 'CHARACTERISTIC Table',
+  '1,1,3,3-Tetramethyl-1,3,5-trisilacyclohexane': 'STANDARD NAME (Normalized)',
   '1,1,3,3-Tetramethyl-1,3-bis((perfluorohexyl)ethyl)disiloxane': '',
-  '1,1,3,4,4,4-Hexafluoro-3-(trifluoromethyl)but-1-ene':
+  '1,1,3,4,4,4-Hexafluoro-3-(trifluoromethyl)but-1-ene': '',
+  '1,1,3,4,4,4-Hexafluoro-3-(trifluoromethyl)butan-2-one': '',
+  '1,1,3,4,4,5,5,5-Octafluoro-3-methoxy-2-(trifluoromethyl)pent-1-ene':
     'national unique domain values',
-  '1,1,3,4,4,4-Hexafluoro-3-(trifluoromethyl)butan-2-one':
-    'national unique domain values',
-  '1,1,3,4,4,5,5,5-Octafluoro-3-methoxy-2-(trifluoromethyl)pent-1-ene': '',
   '1,1,3,5,5-Pentamethyl-1,5-bis(3,3,4,4,5,5,6,6,6-nonafluorohexyl)trisiloxane':
     'national unique domain values',
   '1,1,3,5,5-Pentamethyl-1,5-bis(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)trisiloxane':
     '',
-  '1,1,3,5,6-Pentachloro-1,2,2,3,4,4,5,6,6-nonafluorohexane': '',
+  '1,1,3,5,6-Pentachloro-1,2,2,3,4,4,5,6,6-nonafluorohexane':
+    'national unique domain values',
   '1,1,3,5,7,8-Hexachloro-1,2,2,3,4,4,5,6,6,7,8,8-dodecafluorooctane':
     'national unique domain values',
   '1,1,3,5,7,9,10-Heptachloro-1,2,2,3,4,4,5,6,6,7,8,8,9,10,10-pentadecafluorodecane':
     '',
   '1,1,3-Trichloro-2,2,3,4,5,6,7-heptafluoro-2,3-dihydro-1H-indene':
     'national unique domain values',
-  '1,1,3-Trihydroperfluoropropyl acrylate-Styrene copolymer': '',
+  '1,1,3-Trihydroperfluoropropyl acrylate-Styrene copolymer':
+    'national unique domain values',
   '1,1,3-Trimethyl-3-(2-Methallyl)Cyclopentane': 'STORETW Provider',
-  '1,1,3-Trimethyl-3-(2-methallyl)cyclopentane': 'CHARACTERISTIC Table',
+  '1,1,3-Trimethyl-3-(2-methallyl)cyclopentane': 'STANDARD NAME (Normalized)',
   '1,1,3-Trimethylcyclohexane': 'table unique identifier',
   '1,1,3-Trimethylcyclopentane': 'STANDARD NAME (Normalized)',
-  '1,1,4,4,5,5,5-Heptafluoro-2-(trifluoromethyl)-1-pentene': '',
-  '1,1,4,4,5,5,5-Heptafluoro-2-(trifluoromethyl)pent-1-en-3-one': '',
-  '1,1,4,4,5,5,5-Heptafluoro-2-methoxy-3-(trifluoromethyl)pent-1-ene':
+  '1,1,4,4,5,5,5-Heptafluoro-2-(trifluoromethyl)-1-pentene':
     'national unique domain values',
-  '1,1,4,4,5,5,5-Heptafluoro-2-methylpent-1-ene':
+  '1,1,4,4,5,5,5-Heptafluoro-2-(trifluoromethyl)pent-1-en-3-one':
     'national unique domain values',
+  '1,1,4,4,5,5,5-Heptafluoro-2-methoxy-3-(trifluoromethyl)pent-1-ene': '',
+  '1,1,4,4,5,5,5-Heptafluoro-2-methylpent-1-ene': '',
   '1,1,4,4-Tetrachloro-1,2,2,3,3,4-hexafluorobutane':
     'national unique domain values',
   '1,1,4,6-Tetramethylindan': 'CHARACTERISTIC Table',
@@ -45141,11 +45154,10 @@ export default {
   '1,1,5-Trichloro-2,2,3,3,4,6,7-heptafluoro-2,3-dihydro-1H-indene': '',
   '1,1,6,-trimethyl-1,2-dihydronaphthalene': '',
   '1,1,6,-trimethyl-1,2-dihydronapthalene': '',
-  '1,1,6-Trichloro-2,2,3,3,4,5,7-heptafluoro-2,3-dihydro-1H-indene':
-    'national unique domain values',
-  '1,1,6-Trimethyl-1,2-dihydronaphthalene': '',
+  '1,1,6-Trichloro-2,2,3,3,4,5,7-heptafluoro-2,3-dihydro-1H-indene': '',
+  '1,1,6-Trimethyl-1,2-dihydronaphthalene': 'national unique domain values',
   '1,1-Bis((perfluoro-1-nonyl)ethyloxy)-N-(2-hydroxyethyl)-2-oxa-3-aza-1-phosphapentan-5-ol 1-oxide':
-    'national unique domain values',
+    '',
   '1,1-Bis(p-chlorophenyl)-2-nitrobutane and 1,1-bis(p-chlorophenyl)-2-nitropropane':
     'SRS List Provider',
   '1,1-Bis(p-chlorophenyl)-2-nitropropane': 'SRS List Provider',
@@ -45154,63 +45166,62 @@ export default {
   '1,1-DICHLOROETHYLENE': 'ATTAINS.parameter',
   '1,1-DICHLOROPROPENE': 'ATTAINS.parameter',
   '1,1-Di-(4-methoxyphenyl)-1-[4-(1H,1H,2H,2H-perfluorodecyl)phenyl]methyl chloride':
-    '',
+    'national unique domain values',
   '1,1-Dibromo-1,2,2,3,3,4,4,4-octafluorobutane':
     'national unique domain values',
-  '1,1-Dibromo-1,2,2,3,3-pentafluoropropane': '',
+  '1,1-Dibromo-1,2,2,3,3-pentafluoropropane': 'national unique domain values',
   '1,1-Dibromo-2-chloro-1,2,2-trifluoroethane': 'national unique domain values',
   '1,1-Dichloro-1,2,2,3,3,4,4,4-octafluorobutane':
     'national unique domain values',
   '1,1-Dichloro-1,2,2-trifluoro-2-(1,2,2,2-tetrafluoroethoxy)ethane': '',
   '1,1-Dichloro-1,2,2-trifluoro-2-(2,2,2-trifluoroethoxy)ethane':
     'national unique domain values',
-  '1,1-Dichloro-1,2,2-trifluoro-2-iodoethane': 'national unique domain values',
+  '1,1-Dichloro-1,2,2-trifluoro-2-iodoethane': '',
   '1,1-Dichloro-1,3,3,4,4,4-hexafluorobutan-2-one': '',
   '1,1-Dichloro-2,3,3,4,4,4-hexafluorobut-1-ene': '',
   '1,1-Dichloro-2-(dichloromethoxy)-1,2,2-trifluoroethane': '',
-  '1,1-Dichloro-2-(difluoromethoxy)-1,2,2-trifluoroethane':
-    'national unique domain values',
+  '1,1-Dichloro-2-(difluoromethoxy)-1,2,2-trifluoroethane': '',
   '1,1-Dichloro-3,3,3-trimethyl((perfluorohexyl)ethyl)disiloxane':
     'national unique domain values',
   '1,1-Dichloroacetone': 'Nemi.gov',
   '1,1-Dichloroethane': 'CHARACTERISTIC Table',
   '1,1-Dichloroethene': 'CST.pollutant',
   '1,1-Dichloroethene***retired***use 1,1-Dichloroethylene':
-    'STANDARD NAME (Normalized)',
+    'table unique identifier',
   '1,1-Dichloroethene-D2': 'STORETW Provider',
   '1,1-Dichloroethene-d2': 'GLENDA contact (klewin.kenneth@epa.gov ',
-  '1,1-Dichloroethylene': 'STANDARD NAME (Normalized)',
-  '1,1-Dichloropropane': 'CHARACTERISTIC Table',
-  '1,1-Dichloropropanone': 'CHARACTERISTIC Table',
-  '1,1-Dichloropropene': 'CHARACTERISTIC Table',
+  '1,1-Dichloroethylene': 'CHARACTERISTIC Table',
+  '1,1-Dichloropropane': 'STANDARD NAME (Normalized)',
+  '1,1-Dichloropropanone': 'STANDARD NAME (Normalized)',
+  '1,1-Dichloropropene': 'STORETW Provider',
   '1,1-Difluoro-5,5-dimethyl-1-(trifluoromethoxy)hexane-2,4-dione':
     'national unique domain values',
   '1,1-Difluoroethene, polymer with tetrafluoroethene, perfluoro(3-methoxypropyl vinyl ether), and bromotrifluoroethene':
-    '',
+    'national unique domain values',
   '1,1-Dihydroperfluoroheptyl acrylate': '',
-  '1,1-Dimethoxyethane': 'STORETW Provider',
+  '1,1-Dimethoxyethane': 'STANDARD NAME (Normalized)',
   '1,1-Dimethyl-2-Octylcyclobutane': 'STORETW Provider',
   '1,1-Dimethyl-2-[(1E)-3-methylbuta-1,3-dienyl]cyclopropane':
-    'national unique domain values',
-  '1,1-Dimethyl-2-octylcyclobutane': 'STANDARD NAME (Normalized)',
-  '1,1-Dimethylbiguanide': 'Retired Names: Metformin',
+    'table unique identifier',
+  '1,1-Dimethyl-2-octylcyclobutane': 'CHARACTERISTIC Table',
+  '1,1-Dimethylbiguanide': 'SYSTEMATIC NAME',
   '1,1-Dimethylbiguanide***retired***use Metformin':
     'STANDARD NAME (Normalized)',
   '1,1-Dimethylcyclohexane': 'national unique domain values',
-  '1,1-Dimethylcyclopentane': 'STORETW Provider',
-  '1,1-Dimethylcyclopropane': 'STORETW Provider',
-  '1,1-Dimethylhydrazine': '',
-  '1,1-Dimethylindan': 'CHARACTERISTIC Table',
+  '1,1-Dimethylcyclopentane': 'CHARACTERISTIC Table',
+  '1,1-Dimethylcyclopropane': 'STANDARD NAME (Normalized)',
+  '1,1-Dimethylhydrazine': 'national unique domain values',
+  '1,1-Dimethylindan': 'STANDARD NAME (Normalized)',
   '1,1-Dioxo-6-(pentafluoroethyl)-1,2-dihydro-1lambda~6~,2,4-benzothiadiazine-7-sulfonamide':
-    '',
-  '1,1-Ethanediol, 2,2,2-trichloro-': 'SYSTEMATIC NAME',
+    'national unique domain values',
+  '1,1-Ethanediol, 2,2,2-trichloro-': 'STORETW Provider',
   '1,1-Nonanediol, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-':
     'national unique domain values',
-  '1,1-Octanediol, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-': '',
-  '1,1-Propanediol, 2,2,3,3,3-pentafluoro-': 'national unique domain values',
-  '1,1-bis(Trifluoromethyl)methoxy-2-ethanol': '',
-  '1,1-dibromo-3,3,4,4,4-pentafluorobutan-2-one':
+  '1,1-Octanediol, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-':
     'national unique domain values',
+  '1,1-Propanediol, 2,2,3,3,3-pentafluoro-': '',
+  '1,1-bis(Trifluoromethyl)methoxy-2-ethanol': 'national unique domain values',
+  '1,1-dibromo-3,3,4,4,4-pentafluorobutan-2-one': '',
   '1,1-dichloro-1,2,2-trifluoro-2-(trifluoromethylperoxy)ethane': '',
   '1,1-dichloroethane': 'CST.std.pollutant',
   '1,1-dichloroethene': 'CST.pollutant',
@@ -45218,44 +45229,46 @@ export default {
   '1,1-dichloroethylene': 'CST.std.pollutant',
   '1,1-dichloroethylene*': 'CST.std.pollutant',
   '1,1-dichloropropane': 'CST.pollutant',
-  '1,10-Bis(perfluoroethyl)decane': '',
-  '1,10-Decanediol': 'CHARACTERISTIC Table',
-  '1,10-Diazido-3,3,4,4,5,5,6,6,7,7,8,8-dodecafluorodecane': '',
+  '1,10-Bis(perfluoroethyl)decane': 'national unique domain values',
+  '1,10-Decanediol': 'STANDARD NAME (Normalized)',
+  '1,10-Diazido-3,3,4,4,5,5,6,6,7,7,8,8-dodecafluorodecane':
+    'national unique domain values',
   '1,10-Dichloro-1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,10-octadecafluoro-2,9-dimethyldecane':
-    '',
-  '1,10-Dichloroperfluorodecane': '',
-  '1,10-Phenanthroline, 5,5,6,6-tetrafluoro-5,6-dihydro-': '',
+    'national unique domain values',
+  '1,10-Dichloroperfluorodecane': 'national unique domain values',
+  '1,10-Phenanthroline, 5,5,6,6-tetrafluoro-5,6-dihydro-':
+    'national unique domain values',
   '1,10-trans-Dimethyl-trans-(9)-decalol': 'nemi.gov',
   '1,11-Dodecadiene, 4,4,5,5,6,6,7,7,8,8,9,9-dodecafluoro-': '',
-  '1,12-Bis(perfluorodecyl)-2,11-diiodododecane': '',
-  '1,12-Bis(perfluorodecyl)-n-dodecane': '',
-  '1,12-Dodecanediamine': 'CHARACTERISTIC Table',
-  '1,12-Dodecanediol, 4,4,5,5,6,6,7,7,8,8,9,9-dodecafluoro-2,11-diiodo-':
+  '1,12-Bis(perfluorodecyl)-2,11-diiodododecane':
     'national unique domain values',
+  '1,12-Bis(perfluorodecyl)-n-dodecane': 'national unique domain values',
+  '1,12-Dodecanediamine': 'CHARACTERISTIC Table',
+  '1,12-Dodecanediol, 4,4,5,5,6,6,7,7,8,8,9,9-dodecafluoro-2,11-diiodo-': '',
   '1,16-hexadecalactone': 'STANDARD NAME (Normalized)',
   '1,2 dibromo-3-chloropropane': 'CST.pollutant',
   '1,2 dibromo-3-chloropropane*': 'CST.std.pollutant',
   '1,2,2,2-Tetrafluoro-1-(triethoxysilyl)ethane-1-sulfonyl fluoride': '',
-  '1,2,2,3,3,3-Hexafluoropropane-1,1-diyl dihypofluorite':
-    'national unique domain values',
-  '1,2,2,3,3,3-Hexafluoropropyl hydrogen sulfate':
-    'national unique domain values',
+  '1,2,2,3,3,3-Hexafluoropropane-1,1-diyl dihypofluorite': '',
+  '1,2,2,3,3,3-Hexafluoropropyl hydrogen sulfate': '',
   '1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8,8a-Heptadecafluorodecahydronaphthalene-1-carboxylic acid':
-    '',
-  '1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Pentadecafluorocyclooctan-1-ol':
     'national unique domain values',
+  '1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-Pentadecafluorocyclooctan-1-ol': '',
   '1,2,2,3,3,4,4,5,5,6,6-Undecafluoro-N,N-bis(pentafluoroethyl)cyclohexan-1-amine':
     'national unique domain values',
-  '1,2,2,3,3,4,4,5,5,6,6-Undecafluorocyclohexane-1-carbonitrile': '',
-  '1,2,2,3,3,4,4,5,5,6,6-Undecafluorocyclohexane-1-carbonyl chloride':
+  '1,2,2,3,3,4,4,5,5,6,6-Undecafluorocyclohexane-1-carbonitrile':
     'national unique domain values',
-  '1,2,2,3,3,4,4,5,5,6,6-Undecafluorocyclohexane-1-carboxylic acid': '',
+  '1,2,2,3,3,4,4,5,5,6,6-Undecafluorocyclohexane-1-carbonyl chloride': '',
+  '1,2,2,3,3,4,4,5,5,6,6-Undecafluorocyclohexane-1-carboxylic acid':
+    'national unique domain values',
   '1,2,2,3,3,4,4,5,5,6,7,7-Dodecafluorohept-6-ene-1-sulfonyl fluoride': '',
   '1,2,2,3,3,4,4,5,5,6-Decafluorohexane-1,6-disulfonyl difluoride':
     'national unique domain values',
-  '1,2,2,3,3,4,4,5,6,6,7,7,8,8-Tetradecafluorobicyclo[3.2.1]octane': '',
-  '1,2,2,3,3,4,4,5-Octafluoro-6-oxabicyclo[3.1.0]hexane': '',
-  '1,2,2,3,3,4,4,5-Octafluoropentan-1-ol': 'national unique domain values',
+  '1,2,2,3,3,4,4,5,6,6,7,7,8,8-Tetradecafluorobicyclo[3.2.1]octane':
+    'national unique domain values',
+  '1,2,2,3,3,4,4,5-Octafluoro-6-oxabicyclo[3.1.0]hexane':
+    'national unique domain values',
+  '1,2,2,3,3,4,4,5-Octafluoropentan-1-ol': '',
   '1,2,2,3,3,4,4,6,7,7,8,8,9,9-Tetradecafluoro-5,6-bis(trifluoromethyl)bicyclo[3.3.1]nonane':
     '',
   '1,2,2,3,3,4,4,7,7,8,8,9,9-Tridecafluoro-5,6,6-tris(trifluoromethyl)bicyclo[3.3.1]nonane':
@@ -45263,22 +45276,23 @@ export default {
   '1,2,2,3,3,4,4a,5,5,6,6,7,7,8-Tetradecafluoro-4-(trifluoromethyl)-1,2,3,4,4a,5,6,7-octahydroquinoline':
     'national unique domain values',
   '1,2,2,3,3,4,5,5,6,6-Decafluoro-4-(trifluoromethyl)cyclohexanesulfonic acid':
-    'national unique domain values',
+    '',
   '1,2,2,3,3,4,5,5,6-nonafluoro-4,6-bis(trifluoromethyl)cyclohexane-1-sulfonic acid':
     'national unique domain values',
-  '1,2,2,3,3,4-Hexafluorobutane': 'national unique domain values',
-  '1,2,2,3,3,4-Hexafluorobutane-1,4-disulfonyl difluoride':
+  '1,2,2,3,3,4-Hexafluorobutane': '',
+  '1,2,2,3,3,4-Hexafluorobutane-1,4-disulfonyl difluoride': '',
+  '1,2,2,3,3,5,5,6,6,7,7-Undecafluorobicyclo[2.2.1]heptane':
     'national unique domain values',
-  '1,2,2,3,3,5,5,6,6,7,7-Undecafluorobicyclo[2.2.1]heptane': '',
-  '1,2,2,3,3-Pentafluorobutane': 'national unique domain values',
+  '1,2,2,3,3-Pentafluorobutane': '',
   '1,2,2,3,4,4,5,6,6,7,8,8,9,9-Tetradecafluoro-10,10-bis(trifluoromethyl)tricyclo[3.3.1.13,7]decane':
     'national unique domain values',
   '1,2,2,4,4,5-Hexafluoro-3,6-dioxabicyclo[3.1.0]hexane':
     'national unique domain values',
   '1,2,2-Trifluoro-1-(trifluoromethyl)-2,3-dihydro-1H-indene': '',
-  '1,2,2-Trifluoro-2-nitro-1-(trifluoromethoxy)ethyl sulfurofluoridate': '',
+  '1,2,2-Trifluoro-2-nitro-1-(trifluoromethoxy)ethyl sulfurofluoridate':
+    'national unique domain values',
   '1,2,3,3,4,4,4-Heptafluoro-1-iodobut-1-ene': '',
-  '1,2,3,3,4,4,5,5,5-Nonafluoropent-1-ene': 'national unique domain values',
+  '1,2,3,3,4,4,5,5,5-Nonafluoropent-1-ene': '',
   '1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-ene':
     'national unique domain values',
   '1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooct-1-ene':
@@ -45288,48 +45302,49 @@ export default {
     '',
   '1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-Heptadecafluoronon-1-enoxybenzene':
     'national unique domain values',
-  '1,2,3,3,4,4,5,5,6,7,7-Undecafluorocyclohept-1-ene': '',
-  '1,2,3,3,4,4,5,6,6,7,7-Undecafluorocyclohept-1-ene': '',
-  '1,2,3,3,4,4,5-Heptachlorocyclopentene': 'national unique domain values',
-  '1,2,3,3,4-Pentafluoro-4-(trifluoromethyl)cyclobut-1-ene': '',
-  '1,2,3,4,4,4-Hexafluoro-1-iodo-3-(trifluoromethyl)but-1-ene':
+  '1,2,3,3,4,4,5,5,6,7,7-Undecafluorocyclohept-1-ene':
     'national unique domain values',
+  '1,2,3,3,4,4,5,6,6,7,7-Undecafluorocyclohept-1-ene':
+    'national unique domain values',
+  '1,2,3,3,4,4,5-Heptachlorocyclopentene': 'national unique domain values',
+  '1,2,3,3,4-Pentafluoro-4-(trifluoromethyl)cyclobut-1-ene':
+    'national unique domain values',
+  '1,2,3,4,4,4-Hexafluoro-1-iodo-3-(trifluoromethyl)but-1-ene': '',
   '1,2,3,4,4,4-Hexafluoro-3-(heptafluoropropoxy)but-1-ene':
     'national unique domain values',
   '1,2,3,4,4,5,6,7-Octafluorobicyclo[3.2.0]hepta-2,6-diene': '',
   '1,2,3,4,5,5,6,6-Octafluoro-1,3-cyclohexadiene': '',
-  '1,2,3,4,5,5,6,6-Octafluorobicyclo[2.2.0]hex-2-ene': '',
-  '1,2,3,4,5,5,6,6-Octafluorobicyclo[2.2.2]oct-2-ene':
+  '1,2,3,4,5,5,6,6-Octafluorobicyclo[2.2.0]hex-2-ene':
     'national unique domain values',
+  '1,2,3,4,5,5,6,6-Octafluorobicyclo[2.2.2]oct-2-ene': '',
   '1,2,3,4,5,6,6,7,7,7-Decafluoroheptyl hydrogen sulfate':
     'national unique domain values',
   '1,2,3,4,5,6,7,8,8,9,9,9-Dodecafluorononyl hydrogen sulfate':
     'national unique domain values',
   '1,2,3,4,5,6,7,8,9,10,10,11,11,11-Tetradecafluoroundecyl hydrogen sulfate':
-    '',
+    'national unique domain values',
   '1,2,3,4,5,6,7,8,9,10,11,12,12,13,13,13-Hexadecafluorotridecyl hydrogen sulfate':
     'national unique domain values',
   '1,2,3,4,5,6,7,8,9,10,11,12,13,14,14,15,15,15-Octadecafluoropentadecyl hydrogen sulfate':
-    '',
+    'national unique domain values',
   '1,2,3,4,5,6-Hexachloro-1,1,2,3,4,5,6,6-octafluorohexane':
     'national unique domain values',
-  '1,2,3,4,5,6-Hexachlorocyclohexane': 'CHARACTERISTIC Table',
+  '1,2,3,4,5,6-Hexachlorocyclohexane': 'STORETW Provider',
   '1,2,3,4,5,6-Hexachloronaphthalene': 'STORETW Provider',
   '1,2,3,4,5,7,7-Heptachloro-2-Norbornene': 'STORETW Provider',
   '1,2,3,4,5,7,7-Heptachloro-2-norbornene': 'STANDARD NAME (Normalized)',
   '1,2,3,4,5,7-Hexachloronaphthalene': 'national unique domain values',
-  '1,2,3,4,5,8-Hexachloronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,2,3,4,5-Pentabromo-6-chlorocyclohexane': 'national unique domain values',
+  '1,2,3,4,5,8-Hexachloronaphthalene': 'CHARACTERISTIC Table',
+  '1,2,3,4,5-Pentabromo-6-chlorocyclohexane': '',
   '1,2,3,4,5-Pentabromobenzene': '',
-  '1,2,3,4,5-Pentafluoro-6-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzene':
+  '1,2,3,4,5-Pentafluoro-6-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzene': '',
+  '1,2,3,4,5-Pentafluoro-6-(1,2,3,3,3-pentafluoroprop-1-en-1-yl)benzene': '',
+  '1,2,3,4,5-Pentafluoro-6-(heptadecafluorooctyl)benzene':
     'national unique domain values',
-  '1,2,3,4,5-Pentafluoro-6-(1,2,3,3,3-pentafluoroprop-1-en-1-yl)benzene':
-    'national unique domain values',
-  '1,2,3,4,5-Pentafluoro-6-(heptadecafluorooctyl)benzene': '',
   '1,2,3,4,5-Pentafluoro-6-(heptafluoropropyl)benzene': '',
-  '1,2,3,4,5-Pentafluoro-6-(nonafluorobutyl)benzene': '',
-  '1,2,3,4,5-Pentafluoro-6-(pentafluoroethoxy)benzene':
+  '1,2,3,4,5-Pentafluoro-6-(nonafluorobutyl)benzene':
     'national unique domain values',
+  '1,2,3,4,5-Pentafluoro-6-(pentafluoroethoxy)benzene': '',
   '1,2,3,4,6,7,8,9-Octachlorodibenzo-P-Dioxin': 'STORETW Provider',
   '1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin': 'STANDARD NAME (Normalized)',
   '1,2,3,4,6,7,8,9-Octachlorodibenzo-p-furan': 'STORETW Provider',
@@ -45337,31 +45352,30 @@ export default {
   '1,2,3,4,6,7,8-Heptabromodibenzofuran': 'CHARACTERISTIC Table',
   '1,2,3,4,6,7,8-Heptachlorodibenzo-P-Dioxin': 'STORETW Provider',
   '1,2,3,4,6,7,8-Heptachlorodibenzo-P-Dioxin-C13': 'STORETW Provider',
-  '1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin': 'STANDARD NAME (Normalized)',
-  '1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin-C13': '',
-  '1,2,3,4,6,7,8-Heptachlorodibenzo-p-furan': 'SYSTEMATIC NAME',
-  '1,2,3,4,6,7,8-Heptachlorodibenzofuran': 'STORETW Provider',
-  '1,2,3,4,6,7,8-Heptachlorodibenzofuran-C13': 'STANDARD NAME (Normalized)',
-  '1,2,3,4,6,7-Hexachloronaphthalene': '',
+  '1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin': 'CHARACTERISTIC Table',
+  '1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin-C13': 'STANDARD NAME (Normalized)',
+  '1,2,3,4,6,7,8-Heptachlorodibenzo-p-furan': 'STORETW Provider',
+  '1,2,3,4,6,7,8-Heptachlorodibenzofuran': 'CHARACTERISTIC Table',
+  '1,2,3,4,6,7,8-Heptachlorodibenzofuran-C13': 'STORETW Provider',
+  '1,2,3,4,6,7-Hexachloronaphthalene': 'national unique domain values',
   '1,2,3,4,6,7/1,2,3,5,6,7-Hexachloronaphthalene': '',
   '1,2,3,4,7,7-Hexachloro-5-(2,2,3,3-tetrafluorocyclobutyl)bicyclo[2.2.1]hept-2-ene':
-    '',
+    'national unique domain values',
   '1,2,3,4,7,7-Hexachloronorbornadiene': 'STORETW Provider',
   '1,2,3,4,7,7-Hexafluoro-5-vinylbicyclo[2.2.1]hept-2-ene':
     'national unique domain values',
   '1,2,3,4,7,7-Hexafluorobicyclo[2.2.1]hept-2-ene':
     'national unique domain values',
-  '1,2,3,4,7,7-Hexafluorobicyclo[2.2.1]hepta-2,5-diene':
-    'national unique domain values',
+  '1,2,3,4,7,7-Hexafluorobicyclo[2.2.1]hepta-2,5-diene': '',
   '1,2,3,4,7,8,9-Heptachlorodibenzo-p-furan': 'STORETW Provider',
-  '1,2,3,4,7,8,9-Heptachlorodibenzofuran': 'STANDARD NAME (Normalized)',
+  '1,2,3,4,7,8,9-Heptachlorodibenzofuran': 'STORETW Provider',
   '1,2,3,4,7,8,9-Heptachlorodibenzofuran-13C12':
     'national unique domain values',
-  '1,2,3,4,7,8-Hexabromodibenzo-p-dioxin': 'STANDARD NAME (Normalized)',
+  '1,2,3,4,7,8-Hexabromodibenzo-p-dioxin': 'CHARACTERISTIC Table',
   '1,2,3,4,7,8-Hexachlorodibenzo-P-Dioxin': 'STORETW Provider',
   '1,2,3,4,7,8-Hexachlorodibenzo-P-Dioxin-C13': 'STORETW Provider',
-  '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin': 'STANDARD NAME (Normalized)',
-  '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin-C13': 'STANDARD NAME (Normalized)',
+  '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin': 'CHARACTERISTIC Table',
+  '1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin-C13': '',
   '1,2,3,4,7,8-Hexachlorodibenzo-p-furan': 'SYSTEMATIC NAME',
   '1,2,3,4,7,8-Hexachlorodibenzofuran': 'STORETW Provider',
   '1,2,3,4,7,8-Hexachlorodibenzofuran-C13': 'STANDARD NAME (Normalized)',
@@ -45372,19 +45386,22 @@ export default {
   '1,2,3,4-Tetrachloro-1,1,2,3,4,4-hexafluorobutane': '',
   '1,2,3,4-Tetrachloro-1,2,3,4,5,5-hexafluorocyclopentane': '',
   '1,2,3,4-Tetrachloro-5,6-dimethoxybenzene': '',
-  '1,2,3,4-Tetrachlorobenzene': 'STORETW Provider',
+  '1,2,3,4-Tetrachlorobenzene': 'STANDARD NAME (Normalized)',
   '1,2,3,4-Tetrachlorodibenzo-P-Dioxin-C13': 'STORETW Provider',
-  '1,2,3,4-Tetrachlorodibenzo-p-dioxin-C13': 'STANDARD NAME (Normalized)',
-  '1,2,3,4-Tetrachloronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,2,3,4-Tetrafluoro-5,6-bis(pentafluoroethyl)benzene': '',
+  '1,2,3,4-Tetrachlorodibenzo-p-dioxin-C13': '',
+  '1,2,3,4-Tetrachloronaphthalene': 'CHARACTERISTIC Table',
+  '1,2,3,4-Tetrafluoro-5,6-bis(pentafluoroethyl)benzene':
+    'national unique domain values',
   '1,2,3,4-Tetrafluoro-5-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-(trifluoromethyl)benzene':
-    'national unique domain values',
+    '',
   '1,2,3,4-Tetrafluoro-5-(1,1,1,2,4,4,5,5,5-nonafluoropent-2-en-3-yl)-6-(trifluoromethyl)benzene':
+    '',
+  '1,2,3,4-Tetrafluoro-5-(pentafluoroethyl)-6-(trifluoromethyl)benzene':
     'national unique domain values',
-  '1,2,3,4-Tetrafluoro-5-(pentafluoroethyl)-6-(trifluoromethyl)benzene': '',
-  '1,2,3,4-Tetrafluoro-5-(pentafluoroethyl)benzene': '',
-  '1,2,3,4-Tetrahydronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,2,3,4-Tetramethylbenzene': 'STORETW Provider',
+  '1,2,3,4-Tetrafluoro-5-(pentafluoroethyl)benzene':
+    'national unique domain values',
+  '1,2,3,4-Tetrahydronaphthalene': 'STORETW Provider',
+  '1,2,3,4-Tetramethylbenzene': 'CHARACTERISTIC Table',
   '1,2,3,4-Tetramethylphenanthrene': 'CHARACTERISTIC Table',
   '1,2,3,4/2,3,6,7-Tetrachloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,2,3,5,5,6,6,7,7-Nonafluorobicyclo[2.2.1]hept-2-ene': '',
@@ -45393,38 +45410,38 @@ export default {
   '1,2,3,5,6-Pentachloro-1,1,2,3,4,4,5,6,6-nonafluorohexane':
     'national unique domain values',
   '1,2,3,5,7,8-Hexachloronaphthalene': 'STORETW Provider',
-  '1,2,3,5-Tetrachlorobenzene': 'CHARACTERISTIC Table',
+  '1,2,3,5-Tetrachlorobenzene': 'STORETW Provider',
   '1,2,3,5-Tetrachloronaphthalene': 'national unique domain values',
-  '1,2,3,5-Tetramethylbenzene': 'CHARACTERISTIC Table',
+  '1,2,3,5-Tetramethylbenzene': 'STORETW Provider',
   '1,2,3,5-tetrachlorobenzene': 'CST.std.pollutant',
   '1,2,3,6,7,8-Hexachlorodibenzo-P-Dioxin': 'STORETW Provider',
   '1,2,3,6,7,8-Hexachlorodibenzo-P-Dioxin-C13': 'STORETW Provider',
   '1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin': 'CHARACTERISTIC Table',
-  '1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin-C13': '',
+  '1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin-C13': 'STANDARD NAME (Normalized)',
   '1,2,3,6,7,8-Hexachlorodibenzo-p-furan': 'SYSTEMATIC NAME',
-  '1,2,3,6,7,8-Hexachlorodibenzofuran': 'STORETW Provider',
-  '1,2,3,6,7,8-Hexachlorodibenzofuran-C13': 'STORETW Provider',
-  '1,2,3,6,7,8-Hexachloronaphthalene': 'CHARACTERISTIC Table',
+  '1,2,3,6,7,8-Hexachlorodibenzofuran': 'CHARACTERISTIC Table',
+  '1,2,3,6,7,8-Hexachlorodibenzofuran-C13': '',
+  '1,2,3,6,7,8-Hexachloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,2,3,6,7-Pentachloronaphthalene': 'CHARACTERISTIC Table',
   '1,2,3,7,8,9-Hexachlorodibenzo-P-Dioxin': 'STORETW Provider',
   '1,2,3,7,8,9-Hexachlorodibenzo-P-Dioxin-C13': 'STORETW Provider',
-  '1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin': 'STANDARD NAME (Normalized)',
-  '1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin-C13': 'STANDARD NAME (Normalized)',
+  '1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin': 'CHARACTERISTIC Table',
+  '1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin-C13': '',
   '1,2,3,7,8,9-Hexachlorodibenzo-p-furan': 'STORETW Provider',
-  '1,2,3,7,8,9-Hexachlorodibenzofuran': 'CHARACTERISTIC Table',
-  '1,2,3,7,8,9-Hexachlorodibenzofuran-C13': 'STANDARD NAME (Normalized)',
+  '1,2,3,7,8,9-Hexachlorodibenzofuran': 'STORETW Provider',
+  '1,2,3,7,8,9-Hexachlorodibenzofuran-C13': 'STORETW Provider',
   '1,2,3,7,8-Pentachlorodibenzo-P-Dioxin': 'STORETW Provider',
   '1,2,3,7,8-Pentachlorodibenzo-P-Dioxin-C13': 'STORETW Provider',
   '1,2,3,7,8-Pentachlorodibenzo-p-dioxin': 'CHARACTERISTIC Table',
   '1,2,3,7,8-Pentachlorodibenzo-p-dioxin-C13': '',
   '1,2,3,7,8-Pentachlorodibenzo-p-furan': 'SYSTEMATIC NAME',
-  '1,2,3,7,8-Pentachlorodibenzofuran': 'CHARACTERISTIC Table',
+  '1,2,3,7,8-Pentachlorodibenzofuran': 'STANDARD NAME (Normalized)',
   '1,2,3,7,8-Pentachlorodibenzofuran-C13': 'STANDARD NAME (Normalized)',
   '1,2,3,7,8-Pentachloronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,2,3,8-Tetrachloronaphthalene': 'STORETW Provider',
+  '1,2,3,8-Tetrachloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,2,3-Benzenetriol': 'SYSTEMATIC NAME',
   '1,2,3-Benzothiadiazole-7-carbothioic acid, S-methyl ester':
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   '1,2,3-Benzotriazole': 'CHARACTERISTIC Table',
   '1,2,3-Propanetricarboxylic acid, 1-sulfo-, C,C,C-tris[1-[(2,2,3,3,3-pentafluoropropoxy)methyl]propyl] ester, sodium salt (1:1)':
     'national unique domain values',
@@ -45435,92 +45452,94 @@ export default {
   '1,2,3-Propanetricarboxylic acid, 2-hydroxy-, triethyl ester':
     'STORETW Provider',
   '1,2,3-Propanetriol, 1,2,3-trinitrate': 'SYSTEMATIC NAME',
-  '1,2,3-Propanetriol, trinitrate': 'STORETW Provider',
+  '1,2,3-Propanetriol, trinitrate': 'SYSTEMATIC NAME',
   '1,2,3-TRICHLOROBENZENE': 'ATTAINS.parameter',
   '1,2,3-TRICHLOROPROPANE': 'ATTAINS.parameter',
   '1,2,3-Trichloro-3,4,4,5,5-pentafluorocyclopent-1-ene': '',
-  '1,2,3-Trichloro-4,5-dimethoxybenzene': 'national unique domain values',
-  '1,2,3-Trichloro-4-nitrobenzene': 'table unique identifier',
-  '1,2,3-Trichlorobenzene': 'STANDARD NAME (Normalized)',
+  '1,2,3-Trichloro-4,5-dimethoxybenzene': '',
+  '1,2,3-Trichloro-4-nitrobenzene': 'STANDARD NAME (Normalized)',
+  '1,2,3-Trichlorobenzene': 'CHARACTERISTIC Table',
   '1,2,3-Trichloronaphthalene': '1,2,3-Trichloronaphthalene',
-  '1,2,3-Trichloropropane': 'CHARACTERISTIC Table',
+  '1,2,3-Trichloropropane': 'STANDARD NAME (Normalized)',
   '1,2,3-Trichloropropene': 'national unique domain values',
   '1,2,3-Trimethoxybenzene': 'Nemi.gov',
-  '1,2,3-Trimethylbenzene': 'STORETW Provider',
+  '1,2,3-Trimethylbenzene': 'STANDARD NAME (Normalized)',
   '1,2,3-Trimethylcyclopentane': 'STANDARD NAME (Normalized)',
   '1,2,3-Trimethylcyclopentene': 'national unique domain values',
   '1,2,3-Tris(1,1,2,2,2-pentafluoroethoxy)benzene': '',
-  '1,2,3-trichloropropane': 'CST.std.pollutant',
+  '1,2,3-trichloropropane': 'CST.pollutant',
   '1,2,3-trimethylbenzene': 'CST.pollutant',
-  '1,2,4,5,5,6,6,7,7-Nonafluorocyclohepta-1,3-diene':
-    'national unique domain values',
-  '1,2,4,5,6,8/1,2,4,5,7,8-Hexachloronaphthalene': 'STANDARD NAME (Normalized)',
+  '1,2,4,5,5,6,6,7,7-Nonafluorocyclohepta-1,3-diene': '',
+  '1,2,4,5,6,8/1,2,4,5,7,8-Hexachloronaphthalene': '',
   '1,2,4,5,6-Pentachloronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,2,4,5,7,8-Hexachloro-1,1,2,3,3,4,5,6,6,7,8,8-dodecafluorooctane': '',
+  '1,2,4,5,7,8-Hexachloro-1,1,2,3,3,4,5,6,6,7,8,8-dodecafluorooctane':
+    'national unique domain values',
   '1,2,4,5,7,8-Hexachloronaphthalene': '',
   '1,2,4,5,7-Pentachloronaphthalene': 'CHARACTERISTIC Table',
   '1,2,4,5,8-Pentachloronaphthalene': 'CHARACTERISTIC Table',
   '1,2,4,5-Benzenetetracarboxylic acid, 1,4-bis(3-chloro-2-hydroxypropyl) 2,5-bis[2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]propylamino]ethyl] ester':
     'national unique domain values',
   '1,2,4,5-Benzenetetracarboxylic acid, 3,6-bis(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)-':
-    '',
-  '1,2,4,5-Benzenetetracarboxylic acid, mixed 3-chloro-2-hydroxypropyl and .gamma.-.omega.-perfluoro-C8-14-alkyl esters':
-    '',
-  '1,2,4,5-TETRACHLOROBENZENE': 'ATTAINS.parameter',
-  '1,2,4,5-Tetrabromo-3,6-bis(pentabromophenoxy)benzene':
     'national unique domain values',
+  '1,2,4,5-Benzenetetracarboxylic acid, mixed 3-chloro-2-hydroxypropyl and .gamma.-.omega.-perfluoro-C8-14-alkyl esters':
+    'national unique domain values',
+  '1,2,4,5-TETRACHLOROBENZENE': 'ATTAINS.parameter',
+  '1,2,4,5-Tetrabromo-3,6-bis(pentabromophenoxy)benzene': '',
   '1,2,4,5-Tetrachloro-3-nitrobenzene': 'SRS List Provider',
-  '1,2,4,5-Tetrachlorobenzene': 'STANDARD NAME (Normalized)',
+  '1,2,4,5-Tetrachlorobenzene': 'CHARACTERISTIC Table',
   '1,2,4,5-Tetrachloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,2,4,5-Tetrafluoro-3-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-(trichloromethyl)benzene':
-    'national unique domain values',
+    '',
   '1,2,4,5-Tetrafluoro-3-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-nitrobenzene':
     '',
-  '1,2,4,5-Tetrafluoro-3-(heptafluoropropyl)benzene': '',
+  '1,2,4,5-Tetrafluoro-3-(heptafluoropropyl)benzene':
+    'national unique domain values',
   '1,2,4,5-Tetramethylbenzene': 'STANDARD NAME (Normalized)',
-  '1,2,4,5-Tetrazine': 'national unique domain values',
-  '1,2,4,5-tetrachlorobenzene': 'CST.std.pollutant',
+  '1,2,4,5-Tetrazine': '',
+  '1,2,4,5-tetrachlorobenzene': 'CST.pollutant',
   '1,2,4,6,7-Pentachloronaphthalene': '',
   '1,2,4,6,8-Pentachloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,2,4,7,8-Pentachloronaphthalene': 'CHARACTERISTIC Table',
   '1,2,4-Methenocyclopenta[cd]pentalene-5-carboxaldehyde, 2,2a,3,3,4,7-hexachlorodecahydro-, (1.alpha.,2.beta.,2a.beta.,4.b':
-    'SYSTEMATIC NAME',
-  '1,2,4-Oxadiazol-5(2H)-one, 3-(1,1,2,2,3,3,3-heptafluoropropyl)-': '',
-  '1,2,4-Oxadiazole, 2,3-dihydro-2,5-diphenyl-3,3-bis(trifluoromethyl)-':
+    'SRS List Provider',
+  '1,2,4-Oxadiazol-5(2H)-one, 3-(1,1,2,2,3,3,3-heptafluoropropyl)-':
     'national unique domain values',
-  '1,2,4-Oxadiazole, 2,5-dihydro-2,3-diphenyl-5,5-bis(trifluoromethyl)-':
+  '1,2,4-Oxadiazole, 2,3-dihydro-2,5-diphenyl-3,3-bis(trifluoromethyl)-': '',
+  '1,2,4-Oxadiazole, 2,5-dihydro-2,3-diphenyl-5,5-bis(trifluoromethyl)-': '',
+  '1,2,4-Oxadiazole, 5-(pentadecafluoroheptyl)-3-phenyl-':
     'national unique domain values',
-  '1,2,4-Oxadiazole, 5-(pentadecafluoroheptyl)-3-phenyl-': '',
   '1,2,4-TRICHLOROBENZENE': 'ATTAINS.parameter',
   '1,2,4-TRICHLOROBENZENE IN FISH TISSUE': 'ATTAINS.parameter',
   '1,2,4-TRICHLOROBENZENE IN SEDIMENT': 'ATTAINS.parameter',
   '1,2,4-TRIMETHYLBENZENE': 'ATTAINS.parameter',
-  '1,2,4-Thiadiazole, 5-ethoxy-3-(trichloromethyl)-': 'SYSTEMATIC NAME',
+  '1,2,4-Thiadiazole, 5-ethoxy-3-(trichloromethyl)-': 'STORETW Provider',
   '1,2,4-Triazin-3(2H)-one, 4,5-dihydro-6-methyl-4-[(3-pyridinylmethylene)amino]-, (E)-':
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   '1,2,4-Triazin-5(4H)-one, 4-amino-6-(1,1-dimethylethyl)-3-(methylthio)-':
-    'SYSTEMATIC NAME',
+    'STORETW Provider',
   '1,2,4-Triazine-3,5(2H,4H)-dione, 6-[(1,1,2,2,3,3,3-heptafluoropropyl)thio]-2-?-D-ribofuranosyl-':
-    '',
-  '1,2,4-Triazolo(4,3-b)pyridazine, 8-(p-fluorophenyl)-6-(pentafluoroethyl)-':
     'national unique domain values',
-  '1,2,4-Triazolo[3,4-b]benzothiazole, 5-methyl-': 'STORETW Provider',
+  '1,2,4-Triazolo(4,3-b)pyridazine, 8-(p-fluorophenyl)-6-(pentafluoroethyl)-':
+    '',
+  '1,2,4-Triazolo[3,4-b]benzothiazole, 5-methyl-': 'SYSTEMATIC NAME',
   '1,2,4-Trichloro-1,1,2,3,3,4-hexafluoro-4-iodobutane':
     'national unique domain values',
-  '1,2,4-Trichloro-1,1,2-trifluorodecane': '',
+  '1,2,4-Trichloro-1,1,2-trifluorodecane': 'national unique domain values',
   '1,2,4-Trichloro-5-nitrobenzene': 'Nemi.gov',
   '1,2,4-Trichlorobenzene': 'STANDARD NAME (Normalized)',
   '1,2,4-Triethylbenzene': 'STANDARD NAME (Normalized)',
   '1,2,4-Trifluoro-3,5-bis(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-nitrobenzene':
     '',
-  '1,2,4-Trimethylbenzene': 'STANDARD NAME (Normalized)',
+  '1,2,4-Trimethylbenzene': 'CHARACTERISTIC Table',
   '1,2,4-Trimethylbenzene & .beta.-pinene': 'national unique domain values',
   '1,2,4-Trimethylbenzene & sec-butylbenzene': 'national unique domain values',
-  '1,2,4-Trimethylcyclopentane': 'STANDARD NAME (Normalized)',
-  '1,2,4-tribromo-1,1,2-trifluorobutane': '',
-  '1,2,4-trichloro-1,1,2-trifluorobutane': 'national unique domain values',
+  '1,2,4-Trimethylcyclohexane':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/1734405',
+  '1,2,4-Trimethylcyclopentane': 'CHARACTERISTIC Table',
+  '1,2,4-tribromo-1,1,2-trifluorobutane': 'national unique domain values',
+  '1,2,4-trichloro-1,1,2-trifluorobutane': '',
   '1,2,4-trichlorobenzene': 'CST.std.pollutant',
-  '1,2,4-trimethylbenzene': 'CST.std.pollutant',
+  '1,2,4-trimethylbenzene': 'CST.pollutant',
   '1,2,5,5,6,6-Hexafluoro-3,4-dimethyl-1,3-cyclohexadiene':
     'national unique domain values',
   '1,2,5,6,9,10-hexabromocyclododecane***retired***use Cyclododecane, 1,2,5,6,9,10-hexabromo-':
@@ -45534,40 +45553,44 @@ export default {
   '1,2,6-Trimethylphenanthrene': 'CHARACTERISTIC Table',
   '1,2,7,8-Tetrachloronaphthalene': 'CHARACTERISTIC Table',
   '1,2,8-Trichloronaphthalene': 'CHARACTERISTIC Table',
-  '1,2-B+D850is(1,1,2,2-Tetrafluoroethoxy)ethane':
-    'national unique domain values',
+  '1,2-B+D850is(1,1,2,2-Tetrafluoroethoxy)ethane': '',
   '1,2-BUTYLENE OXIDE': 'ATTAINS.parameter',
-  '1,2-Benzenediamine, 4-methyl-5-(1,1,2,2-tetrafluoroethoxy)-': '',
-  '1,2-Benzenediamine,4-[(2,2,3,3-tetrafluoropropyl)thio]-': '',
-  '1,2-Benzenedicarbonitrile, 3-(1,1,2,2-tetrafluoroethoxy)-': '',
-  '1,2-Benzenedicarbonitrile, 4-(2,2,3,3-tetrafluoropropoxy)-': '',
-  '1,2-Benzenedicarbonitrile, 4-[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]-': '',
+  '1,2-Benzenediamine, 4-methyl-5-(1,1,2,2-tetrafluoroethoxy)-':
+    'national unique domain values',
+  '1,2-Benzenediamine,4-[(2,2,3,3-tetrafluoropropyl)thio]-':
+    'national unique domain values',
+  '1,2-Benzenedicarbonitrile, 3-(1,1,2,2-tetrafluoroethoxy)-':
+    'national unique domain values',
+  '1,2-Benzenedicarbonitrile, 4-(2,2,3,3-tetrafluoropropoxy)-':
+    'national unique domain values',
+  '1,2-Benzenedicarbonitrile, 4-[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]-':
+    'national unique domain values',
   '1,2-Benzenedicarboxamide, N1-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-N2-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-':
     '',
   '1,2-Benzenedicarboxamide, N2-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-':
-    'national unique domain values',
+    '1,2-Benzenedicarboxamide, N2-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-***retired***use Flubendiamide',
   '1,2-Benzenedicarboxamide, N2-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-***retired***use Flubendiamide':
     '',
   '1,2-Benzenedicarboxamide, N2-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-, mixt. with 2-[(1,1-dimethylethyl)imino]tetrahydro-3-(1-methylethyl)-5-phenyl-4H-1,3,5-thiadiazin-4-one':
-    '',
+    'national unique domain values',
   "1,2-Benzenedicarboxylic Acid, 4,4'-Carbonylbis-, Tricesium Salt":
     'STORETW Provider',
   '1,2-Benzenedicarboxylic acid': 'STORETW Provider',
   '1,2-Benzenedicarboxylic acid, 1,2-bis(2-ethylhexyl) ester':
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   '1,2-Benzenedicarboxylic acid, 1,2-bis(2-methylpropyl) ester':
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   '1,2-Benzenedicarboxylic acid, 1,2-di-2-propen-1-yl ester':
     'SRS List Provider',
   '1,2-Benzenedicarboxylic acid, 1,2-dibutyl ester': 'SRS List Provider',
   '1,2-Benzenedicarboxylic acid, 1,2-dicyclohexyl ester': 'SRS List Provider',
-  '1,2-Benzenedicarboxylic acid, 1,2-diethyl ester': 'SYSTEMATIC NAME',
-  '1,2-Benzenedicarboxylic acid, 1,2-diheptyl ester': 'SRS List Provider',
-  '1,2-Benzenedicarboxylic acid, 1,2-diisooctyl ester': 'SRS List Provider',
-  '1,2-Benzenedicarboxylic acid, 1,2-dimethyl ester': 'SRS List Provider',
+  '1,2-Benzenedicarboxylic acid, 1,2-diethyl ester': 'SRS List Provider',
+  '1,2-Benzenedicarboxylic acid, 1,2-diheptyl ester': 'SYSTEMATIC NAME',
+  '1,2-Benzenedicarboxylic acid, 1,2-diisooctyl ester': 'SYSTEMATIC NAME',
+  '1,2-Benzenedicarboxylic acid, 1,2-dimethyl ester': 'SYSTEMATIC NAME',
   '1,2-Benzenedicarboxylic acid, 1,2-dioctyl ester': 'SRS List Provider',
   '1,2-Benzenedicarboxylic acid, 1-(2-butoxy-2-oxoethyl) 2-butyl ester':
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   '1,2-Benzenedicarboxylic acid, 1-butyl 2-(2-ethylhexyl) ester':
     'SYSTEMATIC NAME',
   '1,2-Benzenedicarboxylic acid, 1-butyl 2-(phenylmethyl) ester':
@@ -45576,32 +45599,31 @@ export default {
   '1,2-Benzenedicarboxylic acid, 2-butoxy-2-oxoethyl butyl ester':
     'SYSTEMATIC NAME',
   "1,2-Benzenedicarboxylic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-":
-    '',
+    'national unique domain values',
   "1,2-Benzenedicarboxylic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, 1,1',2,2'-tetraethyl ester":
-    'national unique domain values',
-  "1,2-Benzenedicarboxylic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, 1,2-dimethyl ester":
     '',
-  "1,2-Benzenedicarboxylic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, ar,ar'-dimethyl ester":
+  "1,2-Benzenedicarboxylic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, 1,2-dimethyl ester":
     'national unique domain values',
+  "1,2-Benzenedicarboxylic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, ar,ar'-dimethyl ester":
+    '',
   "1,2-Benzenedicarboxylic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, diethyl ester":
     'national unique domain values',
   "1,2-Benzenedicarboxylic acid, 4,4'-carbonylbis-, tricesium salt":
-    'CHARACTERISTIC Table',
-  '1,2-Benzenedicarboxylic acid, bis(2-ethoxyethyl) ester':
-    'national unique domain values',
+    'STANDARD NAME (Normalized)',
+  '1,2-Benzenedicarboxylic acid, bis(2-ethoxyethyl) ester': '',
   '1,2-Benzenedicarboxylic acid, bis(2-ethylhexyl) ester': 'SYSTEMATIC NAME',
-  '1,2-Benzenedicarboxylic acid, bis(2-methylpropyl) ester': 'STORETW Provider',
-  '1,2-Benzenedicarboxylic acid, butyl 2-ethylhexyl ester': 'STORETW Provider',
+  '1,2-Benzenedicarboxylic acid, bis(2-methylpropyl) ester': 'SYSTEMATIC NAME',
+  '1,2-Benzenedicarboxylic acid, butyl 2-ethylhexyl ester': 'SYSTEMATIC NAME',
   '1,2-Benzenedicarboxylic acid, butyl phenylmethyl ester': 'STORETW Provider',
   '1,2-Benzenedicarboxylic acid, di-2-propenyl ester': 'STORETW Provider',
-  '1,2-Benzenedicarboxylic acid, dibutyl ester': 'SYSTEMATIC NAME',
+  '1,2-Benzenedicarboxylic acid, dibutyl ester': 'STORETW Provider',
   '1,2-Benzenedicarboxylic acid, dicyclohexyl ester': 'SYSTEMATIC NAME',
-  '1,2-Benzenedicarboxylic acid, diethyl ester': 'STORETW Provider',
+  '1,2-Benzenedicarboxylic acid, diethyl ester': 'SYSTEMATIC NAME',
   '1,2-Benzenedicarboxylic acid, dihexyl ester': 'Nemi.gov',
   '1,2-Benzenedicarboxylic acid, diisooctyl ester': 'SYSTEMATIC NAME',
-  '1,2-Benzenedicarboxylic acid, dimethyl ester': 'STORETW Provider',
-  '1,2-Benzenedicarboxylic acid, dioctyl ester': 'SYSTEMATIC NAME',
-  '1,2-Benzenediol': 'SRS List Provider',
+  '1,2-Benzenedicarboxylic acid, dimethyl ester': 'SYSTEMATIC NAME',
+  '1,2-Benzenedicarboxylic acid, dioctyl ester': 'STORETW Provider',
+  '1,2-Benzenediol': 'SYSTEMATIC NAME',
   '1,2-Benzenediol, 4,5-dichloro-': 'SYSTEMATIC NAME',
   '1,2-Benzenediol, 4-[2-[3-methyl-5-(1,1,2,2-tetrafluoroethyl)-1H-pyrazol-1-yl]-4-thiazolyl]-':
     'national unique domain values',
@@ -45609,7 +45631,7 @@ export default {
     '',
   '1,2-Benziodoxole, 1-chloro-1,3-dihydro-3,3-bis(trifluoromethyl)-': '',
   '1,2-Benziodoxole, 1-chloro-1,3-dihydro-5-methyl-3,3-bis(trifluoromethyl)-':
-    'national unique domain values',
+    '',
   '1,2-Benzisothiazol-3(2H)-one': 'SYSTEMATIC NAME',
   '1,2-Benzisothiazole': 'STANDARD NAME (Normalized)',
   '1,2-Benzisothiazolin-3-one': 'CHARACTERISTIC Table',
@@ -45645,7 +45667,7 @@ export default {
   '1,2-DICHLOROETHYLENE': 'ATTAINS.parameter',
   '1,2-DICHLOROPROPANE': 'ATTAINS.parameter',
   '1,2-DICHLOROPROPANE*': 'ATTAINS.parameter',
-  '1,2-DIPHENYLHDRAZINE': 'ATTAINS.parameter',
+  '1,2-DIPHENYLHDRAZINE': '',
   '1,2-DIPHENYLHYDRAZINE': 'ATTAINS.parameter',
   '1,2-DIPHENYLHYDRAZINE IN FISH TISSUE': 'ATTAINS.parameter',
   '1,2-Decanediol, 5,5,6,6,7,7,8,8,9,9,10,10,10-tridecafluoro-':
@@ -45687,43 +45709,41 @@ export default {
   '1,2-Dichloro-1,1,2-trifluoro-2-(trifluoromethoxy)ethane': '',
   '1,2-Dichloro-1,2,2-trifluoroethane-1-sulfonyl chloride':
     'national unique domain values',
-  '1,2-Dichloro-1,2,2-trifluoroethane-1-sulfonyl fluoride':
-    'national unique domain values',
+  '1,2-Dichloro-1,2,2-trifluoroethane-1-sulfonyl fluoride': '',
   '1,2-Dichloro-1,2,2-trifluoroethyl heptafluoropropyl ether': '',
   '1,2-Dichloro-1,2,3,3,4,5,6,7-octafluoro-2,3-dihydro-1H-indene': '',
-  '1,2-Dichloro-1-(chlorosulfanyl)-1,2,2-trifluoroethane':
-    'national unique domain values',
-  '1,2-Dichloro-4-(trifluoromethyl)benzene': 'national unique domain values',
-  '1,2-Dichloro-4-iodoperfluorobutane': 'national unique domain values',
+  '1,2-Dichloro-1-(chlorosulfanyl)-1,2,2-trifluoroethane': '',
+  '1,2-Dichloro-4-(trifluoromethyl)benzene': '',
+  '1,2-Dichloro-4-iodoperfluorobutane': '',
   '1,2-Dichlorobenzene': 'Nemi.gov',
   '1,2-Dichlorobenzene-d4': 'STORETW Provider',
   '1,2-Dichlorobenzene/1,4-dichlorobenzene***retired***use Benzene, 1,2(or 1,4)-dichloro-':
     'national unique domain values',
-  '1,2-Dichlorobutane': 'STANDARD NAME (Normalized)',
-  '1,2-Dichlorodecafluorocyclohexane': 'national unique domain values',
+  '1,2-Dichlorobutane': 'STORETW Provider',
+  '1,2-Dichlorodecafluorocyclohexane': '',
   '1,2-Dichloroethane': 'STANDARD NAME (Normalized)',
-  '1,2-Dichloroethane-d4': 'STANDARD NAME (Normalized)',
-  '1,2-Dichloroethylene': 'STORETW Provider',
-  '1,2-Dichloronaphthalene': 'STORETW Provider',
+  '1,2-Dichloroethane-d4': 'CHARACTERISTIC Table',
+  '1,2-Dichloroethylene': 'STANDARD NAME (Normalized)',
+  '1,2-Dichloronaphthalene': 'CHARACTERISTIC Table',
   '1,2-Dichloroperfluorocyclohexene': 'national unique domain values',
   '1,2-Dichloropropane': 'STORETW Provider',
   '1,2-Dichloropropane-D6': 'STORETW Provider',
   '1,2-Dichloropropane-d6': 'GLENDA contact (klewin.kenneth@epa.gov ',
   '1,2-Dichloropropane||600030': 'SRS List Provider',
   '1,2-Dichloropropene': 'CHARACTERISTIC Table',
-  '1,2-Dichlorotetrafluorocyclobutene-1': 'national unique domain values',
+  '1,2-Dichlorotetrafluorocyclobutene-1': '',
   '1,2-Dihydro-1,1,6-trimethylnaphthalene': '',
-  '1,2-Dimethoxyethane': '',
+  '1,2-Dimethoxyethane': 'national unique domain values',
   '1,2-Dimethyl-3-(1,1,2,3,3,4,4,4-octafluorobutyl)imidazol-1-ium':
     'national unique domain values',
   '1,2-Dimethyl-3-Ethylbenzene': 'STORETW Provider',
-  '1,2-Dimethyl-3-ethylbenzene': 'CHARACTERISTIC Table',
-  '1,2-Dimethyl-4-(pentafluoroethyl)benzene': '',
+  '1,2-Dimethyl-3-ethylbenzene': 'STANDARD NAME (Normalized)',
+  '1,2-Dimethyl-4-(pentafluoroethyl)benzene': 'national unique domain values',
   '1,2-Dimethyl-4-Ethylbenzene': 'STORETW Provider',
   '1,2-Dimethyl-4-ethylbenzene': 'STANDARD NAME (Normalized)',
   '1,2-Dimethylcyclopentane': 'national unique domain values',
-  '1,2-Dimethylhydrazine': 'STANDARD NAME (Normalized)',
-  '1,2-Dimethylnaphthalene': 'CHARACTERISTIC Table',
+  '1,2-Dimethylhydrazine': 'CHARACTERISTIC Table',
+  '1,2-Dimethylnaphthalene': 'STORETW Provider',
   '1,2-Dinitrobenzene': 'nemi.gov',
   '1,2-Diphenylbenzene': '',
   '1,2-Diphenylhydrazine': 'CHARACTERISTIC Table',
@@ -45781,32 +45801,35 @@ export default {
   '1,2-dibromo-1,2,3,3,3-pentafluoro-1-(2,2,2-trifluoroethoxy)propane': '',
   '1,2-dibromo-1,2,3,3,3-pentafluoro-1-(2,2,3,3,3-pentafluoropropoxy)propane':
     '',
-  '1,2-dibromo-1,2,3,3,3-pentafluoro-1-(2,2,3,3-tetrafluoropropoxy)propane':
-    'national unique domain values',
+  '1,2-dibromo-1,2,3,3,3-pentafluoro-1-(2,2,3,3-tetrafluoropropoxy)propane': '',
   '1,2-dibromo-4-chloro-1,1,2-trifluorobutane': '',
-  '1,2-dibromoethane': 'CST.pollutant',
-  '1,2-dibromoethane*': 'CST.pollutant',
-  '1,2-dichloro(perfluoro-1-(methoxymethoxy)ethane)': '',
+  '1,2-dibromoethane': 'CST.std.pollutant',
+  '1,2-dibromoethane*': 'CST.std.pollutant',
+  '1,2-dichloro(perfluoro-1-(methoxymethoxy)ethane)':
+    'national unique domain values',
   '1,2-dichloro-1,1,2-trifluoro-2-nitrosoethane': '',
   '1,2-dichloro-1,1,2-trifluoro-4-iodobutane': 'national unique domain values',
-  '1,2-dichlorobenzene': 'CST.std.pollutant',
+  '1,2-dichlorobenzene': 'CST.pollutant',
   '1,2-dichloroethane': 'CST.pollutant',
   '1,2-dichloropropane': 'CST.std.pollutant',
   '1,2-diphenylhydrazine': 'CST.std.pollutant',
   '1,2-trans-dichloroethene': 'CST.pollutant',
   '1,2-trans-dichloroethene*': 'CST.pollutant',
   '1,2-xylene': 'CST.pollutant',
-  '1,3,2-Benzodioxaphosphole, 2-(2,2,3,3-tetrafluoropropoxy)-': '',
-  '1,3,2-Benzodioxaphosphole, 2-(2,2,3,3-tetrafluoropropoxy)-, 2-oxide':
+  '1,3,2-Benzodioxaphosphole, 2-(2,2,3,3-tetrafluoropropoxy)-':
     'national unique domain values',
+  '1,3,2-Benzodioxaphosphole, 2-(2,2,3,3-tetrafluoropropoxy)-, 2-oxide': '',
   '1,3,2-Dioxaborinane, 6-(1,1-dimethylethyl)-2-ethoxy-4,4-bis(trifluoromethyl)-':
-    '',
-  '1,3,2-Dioxaborolane, 2-phenyl-4,4,5,5-tetrakis(trifluoromethyl)-': '',
+    'national unique domain values',
+  '1,3,2-Dioxaborolane, 2-phenyl-4,4,5,5-tetrakis(trifluoromethyl)-':
+    'national unique domain values',
   '1,3,2-Dioxaphospholane, 2,2,2-triethoxy-2,2-dihydro-4,4,5,5-tetrakis(trifluoromethyl)-':
     'national unique domain values',
   '1,3,2-Dioxaphospholane, 2-(2,2,3,3-tetrafluoropropoxy)-': '',
-  '1,3,2-Dioxaphospholane, 2-chloro-4,4,5,5-tetrakis(trifluoromethyl)-': '',
-  '1,3,2-Dioxaphospholane, 2-fluoro-4,4,5,5-tetrakis(trifluoromethyl)-': '',
+  '1,3,2-Dioxaphospholane, 2-chloro-4,4,5,5-tetrakis(trifluoromethyl)-':
+    'national unique domain values',
+  '1,3,2-Dioxaphospholane, 2-fluoro-4,4,5,5-tetrakis(trifluoromethyl)-':
+    'national unique domain values',
   '1,3,2-Dioxaphospholane, 4,5-dimethyl-2-(2,2,3,3-tetrafluoropropoxy)': '',
   '1,3,2-Dioxaphosphorinane, 2-chloro-6-(1,1-dimethylethyl)-4,4-bis(trifluoromethyl)-, 2-oxide':
     '',
@@ -45822,19 +45845,17 @@ export default {
   '1,3,3,4,4-Pentafluoro-2-(pentafluoroethyl)cyclobut-1-ene': '',
   '1,3,3,4,4-Pentafluoro-2-[(prop-2-en-1-yl)oxy]cyclobut-1-ene':
     'national unique domain values',
-  '1,3,3,4,4-Pentafluoro-2-methoxycyclobut-1-ene':
-    'national unique domain values',
+  '1,3,3,4,4-Pentafluoro-2-methoxycyclobut-1-ene': '',
   '1,3,3-Tribromo-1,1,2,2,4,4,4-heptafluorobutane':
     'national unique domain values',
   '1,3,3-Trichloro-1,1,4,4,5,5,5-heptafluoropentan-2-one': '',
   '1,3,3-Tris(1-methylethoxy)-1,3-bis(2-(perfluorohexyl)ethyl)-1-disiloxanol':
     'national unique domain values',
   '1,3,4,4,4-Pentafluoro-3-(trifluoromethyl)but-1-ene': '',
-  '1,3,4,4,4-Pentafluoro-3-(trifluoromethyl)but-1-yne':
+  '1,3,4,4,4-Pentafluoro-3-(trifluoromethyl)but-1-yne': '',
+  '1,3,4,4,5,6,6,6-Octafluoro-5-(trifluoromethyl)hex-1-ene':
     'national unique domain values',
-  '1,3,4,4,5,6,6,6-Octafluoro-5-(trifluoromethyl)hex-1-ene': '',
-  '1,3,4,4-Tetrafluoro-3-(propylsulfanyl)cyclobut-1-ene':
-    'national unique domain values',
+  '1,3,4,4-Tetrafluoro-3-(propylsulfanyl)cyclobut-1-ene': '',
   '1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-Hexamethylcyclopenta[G]-2-Benzopyran':
     'STORETW Provider',
   '1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran':
@@ -45842,33 +45863,32 @@ export default {
   '1,3,4-Metheno-1H-cyclobuta(cd)pentalene, 1,1a,2,2,3,3a,4,5,5,5a,5b,6-dodecachlorooctahydro-':
     'SRS List Provider',
   '1,3,4-Metheno-1H-cyclobuta[cd]pentalene, 1,1a,2,2,3,3a,4,5,5,5a,5b,6-dodecachlorooctahydro-':
-    'SYSTEMATIC NAME',
+    'STORETW Provider',
   '1,3,4-Metheno-1H-cyclobuta[cd]pentalene, 1,1a,2,2,3,3a,4,5,5,5a,5b-undecachlorooctahydro-':
-    'SYSTEMATIC NAME',
+    'STORETW Provider',
   '1,3,4-Metheno-2H-cyclobuta[cd]pentalen-2-one, 1,1a,3,3a,4,5,5,5a,5b,6-decachlorooctahydro-':
-    'SYSTEMATIC NAME',
+    'STORETW Provider',
   '1,3,4-Oxadiazol-2(3H)-one, 3-[2,4-dichloro-5-(1-methylethoxy)phenyl]-5-(1,1-dimethylethyl)-':
-    'SYSTEMATIC NAME',
-  '1,3,4-Thiadiazol-2-amine, 5-(1,1,2,2,3,3,3-heptafluoropropyl)-':
-    'national unique domain values',
+    'STORETW Provider',
+  '1,3,4-Thiadiazol-2-amine, 5-(1,1,2,2,3,3,3-heptafluoropropyl)-': '',
   '1,3,4-Thiadiazole-2-sulfonamide, 5-[[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]-':
     'national unique domain values',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexahydro-2,2,4,4,6,6-hexakis[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluo':
-    'national unique domain values',
+    '',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexahydro-2,2,4,4,6,6-hexakis[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)oxy]-':
-    'national unique domain values',
+    '',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexahydro-2,2,4,4,6,6-hexakis[(2,2,3,3,4,4,5,5,6,6,7,7,8,8-tetradecafluorooctyl)oxy]-':
     'national unique domain values',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexahydro-2,2,4,4,6,6-hexakis[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]-':
     '',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexahydro-2,2,4,4,6,6-hexakis[2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)propoxy]propoxy]-':
-    '',
-  '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexahydrotris[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]tris(2,2,3,3,3-pentafluoropropoxy)-':
     'national unique domain values',
+  '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexahydrotris[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]tris(2,2,3,3,3-pentafluoropropoxy)-':
+    '',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexakis(2,2,3,3,4,4,4-heptafluorobutoxy)-2,2,4,4,6,6-hexahydro-':
     'national unique domain values',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexakis(heptafluoropropyl)-2,2,4,4,6,6-hexahydro-':
-    'national unique domain values',
+    '',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6-pentachloro-2,2,4,4,6,6-hexahydro-6-(2,2,3,3-tetrafluoropropoxy)-':
     '',
   '1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6-pentakis[(2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptyl)oxy]-2,2,4,4,6,6-hexahydro-6-[(2,2,7,7-tetrafluoroheptyl)oxy]-':
@@ -45879,28 +45899,29 @@ export default {
     '',
   '1,3,5,2,4,6-Triazatriphosphorine,2,2,4,4,6,6-hexakis[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-hexadecafluorononyl)oxy]-2,2,4,4,6,6-hexahydro-':
     '',
-  '1,3,5,7-Tetrachloronaphthalene': 'STANDARD NAME (Normalized)',
+  '1,3,5,7-Tetrachloronaphthalene': 'STORETW Provider',
   '1,3,5,7-Tetrathia-9-azaspiro[3.5]nonane, 9-methyl-2,6,8-tris[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]-':
-    '',
-  '1,3,5,7-Tetrazocine, octahydro-1,3,5,7-tetranitro-': 'SYSTEMATIC NAME',
+    'national unique domain values',
+  '1,3,5,7-Tetrazocine, octahydro-1,3,5,7-tetranitro-': 'STORETW Provider',
   '1,3,5,7-Tetroxocane, 2,4,6,8-tetramethyl-': 'SYSTEMATIC NAME',
-  '1,3,5-Cycloheptatriene, 7,7-bis(trifluoromethyl)-': '',
-  '1,3,5-Hexatriene': 'table unique identifier',
+  '1,3,5-Cycloheptatriene, 7,7-bis(trifluoromethyl)-':
+    'national unique domain values',
+  '1,3,5-Hexatriene': 'national unique domain values',
   '1,3,5-TRIMETHYLBENZENE': 'ATTAINS.parameter',
   '1,3,5-Triazin-2(1H)-one, 4-(ethylamino)-6-[(1-methylethyl)amino]-':
-    'STORETW Provider',
+    'SRS List Provider',
   '1,3,5-Triazin-2-amine, 4,6-dichloro-N-(2-chlorophenyl)-': 'SYSTEMATIC NAME',
-  '1,3,5-Triazine, 1,4-dihydro-2,6-diphenyl-4,4-bis(trifluoromethyl)-': '',
+  '1,3,5-Triazine, 1,4-dihydro-2,6-diphenyl-4,4-bis(trifluoromethyl)-':
+    'national unique domain values',
   '1,3,5-Triazine, 2,4,6-tris(1,1,2,2-tetrafluoro-2-iodoethyl)-': '',
   '1,3,5-Triazine, 2,4,6-tris[(2,2,3,3,4,4,5,5,5-nonafluoropentyl)oxy]-':
     'national unique domain values',
-  '1,3,5-Triazine, hexahydro-1,3,5-trinitro-': 'SYSTEMATIC NAME',
+  '1,3,5-Triazine, hexahydro-1,3,5-trinitro-': 'STORETW Provider',
   '1,3,5-Triazine-2,4(1H,3H)-dione, 3-cyclohexyl-1-methyl-6-(methylamino)-***retired***use Demethyl hexazinone B':
     'national unique domain values',
   '1,3,5-Triazine-2,4(1H,3H)-dione, 3-cyclohexyl-6-(dimethylamino)-1-methyl-':
     'STORETW Provider',
-  '1,3,5-Triazine-2,4(1H,3H)-dione, dihydro-6,6-bis(trifluoromethyl)-':
-    'national unique domain values',
+  '1,3,5-Triazine-2,4(1H,3H)-dione, dihydro-6,6-bis(trifluoromethyl)-': '',
   '1,3,5-Triazine-2,4,6-triamine, N2,N2,N4,N4,N6,N6-hexakis(methoxymethyl)-':
     '',
   '1,3,5-Triazine-2,4-diamine': 'CHARACTERISTIC Table',
@@ -45908,75 +45929,73 @@ export default {
     'national unique domain values',
   '1,3,5-Triazine-2,4-diamine, 6-chloro-': 'STORETW Provider',
   "1,3,5-Triazine-2,4-diamine, 6-chloro-N,N'-bis(1-methylethyl)-":
-    'STORETW Provider',
+    'SYSTEMATIC NAME',
   "1,3,5-Triazine-2,4-diamine, 6-chloro-N,N'-diethyl-": 'SYSTEMATIC NAME',
   "1,3,5-Triazine-2,4-diamine, 6-chloro-N-(1,1-dimethylethyl)-N'-ethyl-":
-    'STORETW Provider',
-  '1,3,5-Triazine-2,4-diamine, 6-chloro-N-(1-methylethyl)-': 'STORETW Provider',
+    'SYSTEMATIC NAME',
+  '1,3,5-Triazine-2,4-diamine, 6-chloro-N-(1-methylethyl)-': 'SYSTEMATIC NAME',
   "1,3,5-Triazine-2,4-diamine, 6-chloro-N-cyclopropyl-N'-(1-methylethyl)-":
     'SYSTEMATIC NAME',
   '1,3,5-Triazine-2,4-diamine, 6-chloro-N-ethyl-': 'STORETW Provider',
   "1,3,5-Triazine-2,4-diamine, 6-chloro-N-ethyl-N'-(1-methylethyl)-":
-    'SYSTEMATIC NAME',
+    'STORETW Provider',
   '1,3,5-Triazine-2,4-diamine, 6-chloro-N2,N4-bis(1-methylethyl)-':
     'SYSTEMATIC NAME',
-  '1,3,5-Triazine-2,4-diamine, 6-chloro-N2,N4-diethyl-': 'SRS List Provider',
+  '1,3,5-Triazine-2,4-diamine, 6-chloro-N2,N4-diethyl-': 'SYSTEMATIC NAME',
   '1,3,5-Triazine-2,4-diamine, 6-chloro-N2-(1,1-dimethylethyl)-N4-ethyl-':
     'SRS List Provider',
   '1,3,5-Triazine-2,4-diamine, 6-chloro-N2-ethyl-N4-(1-methylethyl)-':
-    'SRS List Provider',
-  "1,3,5-Triazine-2,4-diamine, 6-methoxy-N,N'-bis(1-methylethyl)-":
     'SYSTEMATIC NAME',
+  "1,3,5-Triazine-2,4-diamine, 6-methoxy-N,N'-bis(1-methylethyl)-":
+    'STORETW Provider',
   '1,3,5-Triazine-2,4-diamine, 6-methoxy-N2,N4-bis(1-methylethyl)-':
     'SYSTEMATIC NAME',
   "1,3,5-Triazine-2,4-diamine, N,N'-bis(1-methylethyl)-6-(methylthio)-":
     'STORETW Provider',
-  "1,3,5-Triazine-2,4-diamine, N,N'-diethyl-6-(methylthio)-":
-    'STORETW Provider',
-  "1,3,5-Triazine-2,4-diamine, N,N'-diethyl-6-methoxy-": 'SYSTEMATIC NAME',
+  "1,3,5-Triazine-2,4-diamine, N,N'-diethyl-6-(methylthio)-": 'SYSTEMATIC NAME',
+  "1,3,5-Triazine-2,4-diamine, N,N'-diethyl-6-methoxy-": 'STORETW Provider',
   "1,3,5-Triazine-2,4-diamine, N-(1,1-dimethylethyl)-N'-ethyl-6-(methylthio)-":
     'STORETW Provider',
   "1,3,5-Triazine-2,4-diamine, N-(1,1-dimethylethyl)-N'-ethyl-6-methoxy-":
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   "1,3,5-Triazine-2,4-diamine, N-ethyl-6-methoxy-N'-(1-methylethyl)-":
     'SRS List Provider',
   "1,3,5-Triazine-2,4-diamine, N-ethyl-6-methoxy-N'-(1-methylpropyl)-":
-    'SYSTEMATIC NAME',
+    'STORETW Provider',
   "1,3,5-Triazine-2,4-diamine, N-ethyl-N'-(1-methylethyl)-6-(methylthio)-":
     'STORETW Provider',
   '1,3,5-Triazine-2,4-diamine, N2-(1,1-dimethylethyl)-N4-ethyl-6-methoxy-':
     'SRS List Provider',
   '1,3,5-Triazine-2,4-diamine, N2-ethyl-6-methoxy-N4-(1-methylpropyl)-':
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   '1,3,5-Triazine-2,4-diamine, N4-methyl-N2,N2-diphenyl-6-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-':
-    '',
-  '1,3,5-Triazine-2,4-diamine, N^2-methyl-6-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-':
     'national unique domain values',
+  '1,3,5-Triazine-2,4-diamine, N^2-methyl-6-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-':
+    '',
   '1,3,5-Triazine-2-amine, 4,6-dichloro-N-(2-chlorophenyl)-':
     'SRS List Provider',
   '1,3,5-Tribromo-1,6-dichloro-1,2,2,3,4,4,5,6,6-nonafluorohexane':
     'national unique domain values',
   '1,3,5-Trichlorobenzene': 'STANDARD NAME (Normalized)',
-  '1,3,5-Triethylbenzene': '',
+  '1,3,5-Triethylbenzene': 'national unique domain values',
   '1,3,5-Trimethylbenzene': 'CHARACTERISTIC Table',
   '1,3,5-Trimethylcyclohexane': 'national unique domain values',
-  '1,3,5-Trinitrobenzene': 'CHARACTERISTIC Table',
-  '1,3,5-Trinitroso-1,3,5-triazacyclohexane': '',
-  '1,3,5-Trioxane, 2,4,6-trimethyl-': 'SYSTEMATIC NAME',
-  '1,3,5-Tris(Pentafluoroethoxy)benzene': '',
+  '1,3,5-Trinitrobenzene': 'STANDARD NAME (Normalized)',
+  '1,3,5-Trinitroso-1,3,5-triazacyclohexane': 'national unique domain values',
+  '1,3,5-Trioxane, 2,4,6-trimethyl-': 'STORETW Provider',
+  '1,3,5-Tris(Pentafluoroethoxy)benzene': 'national unique domain values',
   '1,3,5-Trithiane': 'table unique identifier',
-  '1,3,5-trimethylbenzene': 'CST.std.pollutant',
+  '1,3,5-trimethylbenzene': 'CST.pollutant',
   '1,3,6,7-Tetrachloronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,3,6,8-Tetrabromopyrene': 'national unique domain values',
+  '1,3,6,8-Tetrabromopyrene': '',
   '1,3,6-Trioxocane': 'STANDARD NAME (Normalized)',
-  '1,3,7-Trichloronaphthalene': 'CHARACTERISTIC Table',
+  '1,3,7-Trichloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,3,8-Trichloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,3-BUTADIENE': 'ATTAINS.parameter',
   '1,3-Benzenediamine, 2,6-dinitro-N1,N1-dipropyl-4-(trifluoromethyl)-':
     'SRS List Provider',
-  '1,3-Benzenediamine, 4-methyl-': 'STORETW Provider',
-  '1,3-Benzenediamine,4-(1,1,2,2-tetrafluoroethoxy)-':
-    'national unique domain values',
+  '1,3-Benzenediamine, 4-methyl-': 'SYSTEMATIC NAME',
+  '1,3-Benzenediamine,4-(1,1,2,2-tetrafluoroethoxy)-': '',
   '1,3-Benzenedicarbonitrile, 2,4,5,6-tetrachloro-': 'STORETW Provider',
   '1,3-Benzenedicarbonyl dichloride, 5-[(1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-1-nonen-1-yl)oxy]-':
     'national unique domain values',
@@ -45993,21 +46012,21 @@ export default {
   '1,3-Benzenedimethanol, -1-[[(1,1-Dimethylethyl)Amino]Methyl]-4-Hydroxy-':
     'SYSTEMATIC NAME',
   '1,3-Benzenedimethanol, .alpha.1-[[(1,1-dimethylethyl)amino]methyl]-4-hydroxy-':
-    'STORETW Provider',
+    'SYSTEMATIC NAME',
   "1,3-Benzenedimethanol, 2-amino-5-methyl-.alpha.,.alpha.,.alpha.',.alpha.'-tetrakis(trifluoromethyl)-":
     '',
   "1,3-Benzenedimethanol, 2-iodo-5-methyl-.alpha.,.alpha.,.alpha.',.alpha.'-tetrakis(trifluoromethyl)-":
-    '',
+    'national unique domain values',
   "1,3-Benzenedimethanol, 5-(1,1-dimethylethyl)-2-iodo-.alpha.,.alpha.,.alpha.',.alpha.'-tetrakis(trifluoromethyl)-":
     '',
   "1,3-Benzenedimethanol, 5-iodo-.alpha.,.alpha.,.alpha.',.alpha.'-tetrakis(trifluoromethyl)-":
-    '',
+    'national unique domain values',
   '1,3-Benzenediol': 'STORETW Provider',
   '1,3-Benzenediol, 4-ethyl-': 'SYSTEMATIC NAME',
   '1,3-Benzenedisulfonic acid, 4-[2-[4-[[2-(acetyloxy)ethyl]ethylamino]phenyl]diazenyl]-, 1,3-bis(2,2,3,3-tetrafluoropropyl) ester':
     '',
   '1,3-Benzenedisulfonic acid, 4-[2-[4-[ethyl(2-hydroxyethyl)amino]phenyl]diazenyl]-, 1,3-bis(2,2,3,3-tetrafluoropropyl) ester':
-    'national unique domain values',
+    '',
   '1,3-Benzodioxol-4-ol, 2,2-dimethyl-': 'STORETW Provider',
   '1,3-Benzodioxol-4-ol, 2,2-dimethyl-, methylcarbamate': 'STORETW Provider',
   '1,3-Benzodioxole, 5,6-dibromo-2,2-bis(trifluoromethyl)-':
@@ -46015,34 +46034,35 @@ export default {
   '1,3-Benzodioxole, 5-(1-propen-1-yl)-': 'SRS List Provider',
   '1,3-Benzodioxole, 5-(1-propenyl)-': 'SYSTEMATIC NAME',
   '1,3-Benzodioxole, 5-(2-propen-1-yl)-': 'SYSTEMATIC NAME',
-  '1,3-Benzodioxole, 5-(2-propenyl)-': 'STORETW Provider',
-  '1,3-Benzodioxole, 5-[2-(octylsulfinyl)propyl]-': 'SYSTEMATIC NAME',
+  '1,3-Benzodioxole, 5-(2-propenyl)-': 'SYSTEMATIC NAME',
+  '1,3-Benzodioxole, 5-[2-(octylsulfinyl)propyl]-': 'SRS List Provider',
   '1,3-Benzodioxole, 5-[[2-(2-butoxyethoxy)ethoxy]methyl]-6-propyl-':
     'SYSTEMATIC NAME',
-  '1,3-Bis(1,1,2,2-tetrafluoroethoxy)benzene': '',
+  '1,3-Bis(1,1,2,2-tetrafluoroethoxy)benzene': 'national unique domain values',
   '1,3-Bis(2,2,3,3,4,4,4-heptafluorobutoxy)propan-2-ol':
     'national unique domain values',
-  '1,3-Bis(2-phenyl-1,3,4-oxadiazol-5-yl)perfluoropropane': '',
-  '1,3-Bis(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)-1,1,3,3-tetramethyldisiloxane':
+  '1,3-Bis(2-phenyl-1,3,4-oxadiazol-5-yl)perfluoropropane':
     'national unique domain values',
+  '1,3-Bis(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)-1,1,3,3-tetramethyldisiloxane':
+    '',
   '1,3-Bis(pentafluoroethoxy)benzene': '',
-  '1,3-Bis(tridecafluorohexyl)benzene': '',
+  '1,3-Bis(tridecafluorohexyl)benzene': 'national unique domain values',
   '1,3-Bis[(1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoronon-1-en-1-yl)oxy]benzene':
     'national unique domain values',
   '1,3-Bis[(3,3,4,4,4-pentafluorobutyl)sulfanyl]propan-2-ol':
     'national unique domain values',
-  '1,3-Bis[(3,3,4,4,5,5,6,6,6-nonafluorohexyl)oxy]propan-2-ol':
-    'national unique domain values',
+  '1,3-Bis[(3,3,4,4,5,5,6,6,6-nonafluorohexyl)oxy]propan-2-ol': '',
   '1,3-Bis[(6H-perfluorohexyl)methoxy]-2-propanol hydrogen sulfate sodium': '',
-  '1,3-Bis[(perfluorohexyl)ethylthio]-2-propanol': '',
+  '1,3-Bis[(perfluorohexyl)ethylthio]-2-propanol':
+    'national unique domain values',
   '1,3-Bis[(perfluorooctyl)ethylthio]-2-propanol': '',
-  '1,3-Butadiene': 'SRS List Provider',
+  '1,3-Butadiene': 'STANDARD NAME (Normalized)',
   '1,3-Butadiene, 1,1,2,3,4,4-hexachloro-': 'SYSTEMATIC NAME',
-  '1,3-Butadiene, 2-chloro-': 'SYSTEMATIC NAME',
+  '1,3-Butadiene, 2-chloro-': 'STORETW Provider',
   '1,3-Butadiene, 2-methyl-, polymer with 2-methyl-1-propene, chlorinated, crosslinked':
     '',
   '1,3-Butadiene, pentachloro-': 'SYSTEMATIC NAME',
-  '1,3-Butadiene, tetrachloro-': 'SYSTEMATIC NAME',
+  '1,3-Butadiene, tetrachloro-': 'STORETW Provider',
   '1,3-Butadiene, trichloro-': 'SYSTEMATIC NAME',
   '1,3-Butanediol, 1-(p-anisyl)-2-methyl-4,4,4-trifluoro-3-(trifluoromethyl)-':
     'national unique domain values',
@@ -46053,161 +46073,162 @@ export default {
   '1,3-Butanediol, 1-(p-chlorophenyl)-2-methyl-4,4,4-trifluoro-3-(trifluoromethyl)-':
     'national unique domain values',
   '1,3-Butanediol, 1-(p-fluorophenyl)-2-methyl-4,4,4-trifluoro-3-(trifluoromethyl)-':
-    'national unique domain values',
+    '',
   '1,3-Butanediol, 2-ethyl-1-(2-thienyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
     'national unique domain values',
   '1,3-Butanediol, 2-ethyl-1-(p-fluorophenyl)-3-trifluoromethyl-4,4,4-trifluoro-':
     'national unique domain values',
-  '1,3-Butanediol, 2-ethyl-1-phenyl-3-(trifluoromethyl)-4,4,4-trifluoro-': '',
+  '1,3-Butanediol, 2-ethyl-1-phenyl-3-(trifluoromethyl)-4,4,4-trifluoro-':
+    'national unique domain values',
   '1,3-Butanediol, 2-methyl-1-(2-thienyl)-4,4,4-trifluoro-3-trifluoromethyl-':
     '',
   '1,3-Butanediol, 2-octyl-4,4,4-trifluoro-3-trifluoromethyl-':
     'national unique domain values',
-  '1,3-Butanediol, 4,4,4-trifluoro-1-(2-furanyl)-3-(trifluoromethyl)-':
-    'national unique domain values',
+  '1,3-Butanediol, 4,4,4-trifluoro-1-(2-furanyl)-3-(trifluoromethyl)-': '',
   '1,3-Butanediol, 4,4,4-trifluoro-1-(4-methoxyphenyl)-2-propyl-3-(trifluoromethyl)-':
     '',
   '1,3-Butanediol, 4,4,4-trifluoro-1-(4-nitrophenyl)-3-(trifluoromethyl)-':
     'national unique domain values',
-  '1,3-Butanediol, 4,4,4-trifluoro-2-methyl-1-phenyl-3-(trifluoromethyl)-':
-    'national unique domain values',
+  '1,3-Butanediol, 4,4,4-trifluoro-2-methyl-1-phenyl-3-(trifluoromethyl)-': '',
   '1,3-Butanediol, polymer with 1,3-diisocyanatomethylbenzene and 2-ethyl-2-(hydroxy-methyl)-1,3-propanediol, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-1-decanol- and Me Et ketoneoxime-blocked':
     '',
   '1,3-Butanedione, 4,4-difluoro-1-(2-thienyl)-4-(trifluoromethoxy)-': '',
-  '1,3-Butanedione, 4,4-difluoro-1-phenyl-4-(trifluoromethoxy)-':
-    'national unique domain values',
+  '1,3-Butanedione, 4,4-difluoro-1-phenyl-4-(trifluoromethoxy)-': '',
   '1,3-Cyclohexadiene': 'national unique domain values',
   '1,3-Cyclohexanedione, 2-[2chloro-4-(methylsulfonyl)-3-[(2,2,2trifluoroethoxy)methyl]benzoyl]-':
     'SYSTEMATIC NAME',
   '1,3-Cyclohexanedione, 2-[4-(methylsulfonyl)-2-nitrobenzoyl]-':
     'SYSTEMATIC NAME',
   '1,3-Cyclopentadiene, 1,2,3,4,5,5-hexachloro-': 'STORETW Provider',
-  '1,3-Cyclopentadiene, methyl-': 'national unique domain values',
+  '1,3-Cyclopentadiene, methyl-': 'table unique identifier',
   '1,3-DICHLOROBENZENE': 'ATTAINS.parameter',
   '1,3-DICHLOROBENZENE IN FISH TISSUE': 'ATTAINS.parameter',
   '1,3-DICHLOROPROPANE': 'ATTAINS.parameter',
   '1,3-DICHLOROPROPENE': 'ATTAINS.parameter',
   '1,3-DICHLOROPROPENE*': 'ATTAINS.parameter',
   '1,3-DICHLOROPROPENE**': 'ATTAINS.parameter',
-  '1,3-Diamide-chlorothalonil': 'national unique domain values',
+  '1,3-Diamide-chlorothalonil': '',
   '1,3-Diamino-5,6-dihydrobenzo[f]quinazoline': 'national unique domain values',
-  '1,3-Dibromo-1,1,2,2,3,3-hexafluoropropane': 'national unique domain values',
+  '1,3-Dibromo-1,1,2,2,3,3-hexafluoropropane': '',
   '1,3-Dibromo-1,4-dichloro-1,2,2,3,4,4-hexafluorobutane':
     'national unique domain values',
   '1,3-Dibromo-2-chloro-1,1,2,3,3-pentafluoropropane':
     'national unique domain values',
   '1,3-Dibromo-5,5-dimethylhydantoin': 'CHARACTERISTIC Table',
-  '1,3-Dibromopropane': '',
+  '1,3-Dibromopropane': 'national unique domain values',
   '1,3-Dichloro-1,1,3,4,4,4-hexafluorobutan-2-one': '',
   '1,3-Dichloro-1,2,2,3,4,5,6,7-octafluoro-2,3-dihydro-1H-indene':
     'national unique domain values',
-  '1,3-Dichloro-2-propanol': 'STANDARD NAME (Normalized)',
-  '1,3-Dichloro-5,5-dimethylhydantoin': 'national unique domain values',
+  '1,3-Dichloro-2-propanol': 'CHARACTERISTIC Table',
+  '1,3-Dichloro-5,5-dimethylhydantoin': '',
   '1,3-Dichlorobenzene': '',
   '1,3-Dichlorobenzene***retired***use m-Dichlorobenzene':
-    'CHARACTERISTIC Table',
-  '1,3-Dichloropropane': 'CHARACTERISTIC Table',
-  '1,3-Dichloropropene': 'CHARACTERISTIC Table',
-  '1,3-Dichloropropene (Telone)': 'SYSTEMATIC NAME',
+    'STANDARD NAME (Normalized)',
+  '1,3-Dichloropropane': 'STANDARD NAME (Normalized)',
+  '1,3-Dichloropropene': 'STANDARD NAME (Normalized)',
+  '1,3-Dichloropropene (Telone)': 'STORETW Provider',
   '1,3-Diethyl-2-methyl-5-[(perfluorohexyl)sulfonyl]-1H-benzimidazolium 4-methylbenzenesulfonate':
     'national unique domain values',
   '1,3-Diethylbenzene': '',
   '1,3-Diiodoperfluoropropane': '',
   '1,3-Dimethyl-4-Ethylbenzene': 'STORETW Provider',
-  '1,3-Dimethyl-4-ethylbenzene': 'CHARACTERISTIC Table',
+  '1,3-Dimethyl-4-ethylbenzene': 'STANDARD NAME (Normalized)',
   '1,3-Dimethyl-5-Ethylbenzene': 'STORETW Provider',
   '1,3-Dimethyl-5-ethylbenzene': 'CHARACTERISTIC Table',
-  '1,3-Dimethyladamantane': 'CHARACTERISTIC Table',
+  '1,3-Dimethyladamantane': 'STORETW Provider',
   '1,3-Dimethylcyclohexene': 'national unique domain values',
   '1,3-Dimethylcyclopentane': 'national unique domain values',
   '1,3-Dimethylindan': 'CHARACTERISTIC Table',
-  '1,3-Dimethylnaphthalene': 'STANDARD NAME (Normalized)',
+  '1,3-Dimethylnaphthalene': 'CHARACTERISTIC Table',
   '1,3-Dinitrobenzene': 'Nemi.gov',
-  '1,3-Dinitropyrene': 'STANDARD NAME (Normalized)',
-  '1,3-Dinitroso-5-nitro-1,3,5-triazacyclohexane': '',
+  '1,3-Dinitropyrene': 'CHARACTERISTIC Table',
+  '1,3-Dinitroso-5-nitro-1,3,5-triazacyclohexane':
+    'national unique domain values',
   '1,3-Dioxalane': 'SYSTEMATIC NAME',
-  '1,3-Dioxan-2-amine,N,N-diethyl-2-(1,2,2,2-tetrafluoroethyl)-': '',
+  '1,3-Dioxan-2-amine,N,N-diethyl-2-(1,2,2,2-tetrafluoroethyl)-':
+    'national unique domain values',
   '1,3-Dioxan-2-amine,N,N-diethyl-4-methyl-2-(1,2,2,2-tetrafluoroethyl)-':
     'national unique domain values',
   '1,3-Dioxan-4-ol, 2,6-dimethyl-, 4-acetate': 'SRS List Provider',
   '1,3-Dioxane': '1,3-dioxane',
-  '1,3-Dioxane, 4,4-dimethyl-': 'SYSTEMATIC NAME',
-  '1,3-Dioxane, 6-methyl-2,2,4,4-tetrakis(trifluoromethyl)-':
-    'national unique domain values',
+  '1,3-Dioxane, 4,4-dimethyl-': 'SRS List Provider',
+  '1,3-Dioxane, 6-methyl-2,2,4,4-tetrakis(trifluoromethyl)-': '',
   '1,3-Dioxolan-2-amine, N,N,4-triethyl-2-(1,2,2,2-tetrafluoroethyl)-': '',
   '1,3-Dioxolan-2-amine, N,N-diethyl-4-methyl-2-(1,2,2,2-tetrafluoroethyl)-':
     'national unique domain values',
-  '1,3-Dioxolan-2-one,4-[(2,2,3,3-tetrafluoropropoxy)methyl]-': '',
-  '1,3-Dioxolan-4-one, 5-(phenylmethyl)-2,2-bis(trifluoromethyl)-, (5S)-':
+  '1,3-Dioxolan-2-one,4-[(2,2,3,3-tetrafluoropropoxy)methyl]-':
     'national unique domain values',
-  '1,3-Dioxolan-4-one, 5-(phenylmethylene)-2,2-bis(trifluoromethyl)-':
-    'national unique domain values',
+  '1,3-Dioxolan-4-one, 5-(phenylmethyl)-2,2-bis(trifluoromethyl)-, (5S)-': '',
+  '1,3-Dioxolan-4-one, 5-(phenylmethylene)-2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxolan-4-one, 5-ethylidene-2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxolane': 'STANDARD NAME (Normalized)',
-  '1,3-Dioxolane, 2,2-bis(trifluoromethyl)-': 'national unique domain values',
+  '1,3-Dioxolane, 2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxolane, 2-(difluoromethylene)-4,4,5-trifluoro-5-(trifluoromethyl)-':
     'national unique domain values',
   '1,3-Dioxolane, 2-(difluoromethylene)-4,4,5-trifluoro-5-(trifluoromethyl)-, polymer with 1,1-difluoroethene':
-    'national unique domain values',
-  '1,3-Dioxolane, 2-ethyl-2-methyl-': 'SYSTEMATIC NAME',
+    '',
+  '1,3-Dioxolane, 2-ethyl-2-methyl-': 'STORETW Provider',
   '1,3-Dioxolane, 2-ethyl-4-methyl-': 'STORETW Provider',
   '1,3-Dioxolane, 2-methyl-': 'SYSTEMATIC NAME',
-  '1,3-Dioxolane, 2-phenyl-2-(1,2,2,2-tetrafluoroethyl)-':
+  '1,3-Dioxolane, 2-phenyl-2-(1,2,2,2-tetrafluoroethyl)-': '',
+  '1,3-Dioxolane, 4,4,5,5-tetrafluoro-2,2-bis(trifluoromethyl)-': '',
+  '1,3-Dioxolane, 4,4,5-trichloro-2,2-bis(trifluoromethyl)-':
     'national unique domain values',
-  '1,3-Dioxolane, 4,4,5,5-tetrafluoro-2,2-bis(trifluoromethyl)-':
-    'national unique domain values',
-  '1,3-Dioxolane, 4,4,5-trichloro-2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxolane, 4,4,5-trichloro-5-fluoro-2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxolane, 4,5-dichloro-4,5-difluoro-2,2-bis(trifluoromethyl)-': '',
-  '1,3-Dioxolane, 4,5-difluoro-4,5-diiodo-2,2-bis(trifluoromethyl)-':
+  '1,3-Dioxolane, 4,5-difluoro-4,5-diiodo-2,2-bis(trifluoromethyl)-': '',
+  '1,3-Dioxolane, 4-(azidomethyl)-2,2-bis(trifluoromethyl)-':
     'national unique domain values',
-  '1,3-Dioxolane, 4-(azidomethyl)-2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxolane, 4-[(2-propynyloxy)methyl]-2,2-bis(trifluoromethyl)-':
     'national unique domain values',
-  '1,3-Dioxolane, 4-[(diphenylmethoxy)methyl]-2,2-bis(trifluoromethyl)-': '',
+  '1,3-Dioxolane, 4-[(diphenylmethoxy)methyl]-2,2-bis(trifluoromethyl)-':
+    'national unique domain values',
   '1,3-Dioxolane, 4-chloro-4,5,5-trifluoro-2,2-bis(trifluoromethyl)-':
     'national unique domain values',
-  '1,3-Dioxolane, 4-ethyl-5-hexyl-2,2-bis(trifluoromethyl)-':
+  '1,3-Dioxolane, 4-ethyl-5-hexyl-2,2-bis(trifluoromethyl)-': '',
+  '1,3-Dioxolane, 4-ethyl-5-octyl-2,2-bis(trifluoromethyl)-, cis-':
     'national unique domain values',
-  '1,3-Dioxolane, 4-ethyl-5-octyl-2,2-bis(trifluoromethyl)-, cis-': '',
   '1,3-Dioxolane, 4-hexyl-2,2-bis(trifluoromethyl)-':
     'national unique domain values',
-  '1,3-Dioxolane, 4-methyl-': 'SYSTEMATIC NAME',
+  '1,3-Dioxolane, 4-methyl-': 'STORETW Provider',
   '1,3-Dioxolane-2-carbonyl fluoride, 4,4,5-trifluoro-2,5-bis(trifluoromethyl)-':
-    '',
-  '1,3-Dioxolane-2-carbonyl fluoride, 4-fluoro-5-oxo-2,4-bis(trifluoromethyl)-':
     'national unique domain values',
+  '1,3-Dioxolane-2-carbonyl fluoride, 4-fluoro-5-oxo-2,4-bis(trifluoromethyl)-':
+    '',
   '1,3-Dioxolane-2-carboxylic acid, 4,4,5-trifluoro-2,5-bis(trifluoromethyl)-':
     '',
   '1,3-Dioxolane-4-ethanol, 2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxole, 2,2,4-trifluoro-5-(trifluoromethoxy) polymer with tetrafluoroethene':
-    '',
-  '1,3-Dioxole, 2,2-bis(trifluoromethyl)-': 'national unique domain values',
+    'national unique domain values',
+  '1,3-Dioxole, 2,2-bis(trifluoromethyl)-': '',
   '1,3-Dioxole, 4,5-dichloro-2,2-bis(trifluoromethyl)-': '',
-  '1,3-Dioxole, 4,5-difluoro-2,2-bis(trifluoromethyl)-': '',
+  '1,3-Dioxole, 4,5-difluoro-2,2-bis(trifluoromethyl)-':
+    'national unique domain values',
   '1,3-Dioxole, 4,5-difluoro-2,2-bis(trifluoromethyl)-, polymer with 1,1,2,2-tetrafluoroethene':
     'national unique domain values',
-  '1,3-Dioxole, 4-chloro-5-fluoro-2,2-bis(trifluoromethyl)-': '',
+  '1,3-Dioxole, 4-chloro-5-fluoro-2,2-bis(trifluoromethyl)-':
+    'national unique domain values',
   '1,3-Diphenylbenzene': '',
-  '1,3-Dithietane, 2,2,4,4-tetrakis(trifluoromethyl)-': '',
-  '1,3-Hexadiene': 'table unique identifier',
+  '1,3-Dithietane, 2,2,4,4-tetrakis(trifluoromethyl)-':
+    'national unique domain values',
+  '1,3-Hexadiene': 'national unique domain values',
   '1,3-Hexanediol, 2-ethyl-': 'SYSTEMATIC NAME',
   '1,3-Hexanedione, 1-benzo[b]thien-3-yl-4,4,5,5,6,6,6-heptafluoro-': '',
   '1,3-Hexanedione, 4,4,5,5,6,6,6-heptafluoro-1-(2-thienyl)-':
     'national unique domain values',
-  '1,3-Isobenzofurandione': 'STORETW Provider',
+  '1,3-Isobenzofurandione': 'SYSTEMATIC NAME',
   "1,3-Isobenzofurandione, 5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-":
-    'national unique domain values',
+    '',
   "1,3-Isobenzofurandione, 5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, polymer with .alpha.-[(3-aminopropyl)dimethylsilyl]-.omega.-[[(3-aminopropyl)dimethylsilyl]oxy]poly[oxy(dimethylsilylene)], 4,4'-diamino[1,1'-biphenyl]-3,3'-diol and 4,4'-[(":
     'national unique domain values',
   "1,3-Isobenzofurandione, 5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, polymer with 1,3-benzenediamine and 1,4-benzenediamine":
-    '',
+    'national unique domain values',
   "1,3-Isobenzofurandione, 5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, polymer with 1,4-benzenediamine and 4,4'-oxybis[benzenamine]":
-    '',
+    'national unique domain values',
   "1,3-Isobenzofurandione, 5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, polymer with 4,4'-[[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis(4,1-phenyleneoxy)]bis[benzenamine]":
-    'national unique domain values',
+    '',
   "1,3-Isobenzofurandione, 5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, polymer with 4,4'-oxybis[benzenamine]":
-    'national unique domain values',
+    '',
   "1,3-Isobenzofurandione, 5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-, polymer with 4,4'-oxybis[benzenamine] and 4,4'-sulfonylbis[benzenamine]":
     '',
   "1,3-Isobenzofurandione, 5,5'-[[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis(4,1-phenyleneoxy)]bis-":
@@ -46221,11 +46242,11 @@ export default {
     'national unique domain values',
   '1,3-Pentadiene': '',
   '1,3-Pentadiene, (3E)-': 'table unique identifier',
-  '1,3-Pentadiene, (3Z)-': 'national unique domain values',
-  '1,3-Pentadiene, 1,1-dichloro-5,5,5-trifluoro-4-(trifluoromethyl)-':
+  '1,3-Pentadiene, (3Z)-': 'table unique identifier',
+  '1,3-Pentadiene, 1,1-dichloro-5,5,5-trifluoro-4-(trifluoromethyl)-': '',
+  '1,3-Pentadiene, 1,1-diethoxy-3,5,5,5-tetrafluoro-4-(trifluoromethyl)-':
     'national unique domain values',
-  '1,3-Pentadiene, 1,1-diethoxy-3,5,5,5-tetrafluoro-4-(trifluoromethyl)-': '',
-  '1,3-Pentadiene, 3-methyl-, (3E)-': '',
+  '1,3-Pentadiene, 3-methyl-, (3E)-': 'national unique domain values',
   '1,3-Pentadiene, 4,5,5,5-tetrafluoro-2-(trifluoromethyl)-': '',
   '1,3-Pentadiene, 5,5,5-trifluoro-4-(trifluoromethyl)-':
     'national unique domain values',
@@ -46236,111 +46257,111 @@ export default {
   '1,3-Propanediamine, N1,N1-dimethyl-, compd. with .alpha.-fluoro-.omega.-[2-(phosphonooxy)ethyl]poly(difluoromethylene) (1:1)':
     'national unique domain values',
   '1,3-Propanediamine, N1,N1-dimethyl-, compd. with .alpha.-fluoro-.omega.-[2-(phosphonooxy)ethyl]poly(difluoromethylene) (2:1)':
-    '',
-  '1,3-Propanediol': '',
+    'national unique domain values',
+  '1,3-Propanediol': 'national unique domain values',
   '1,3-Propanediol, 1,1-bis(trifluoromethyl)-2-pentyl-': '',
   '1,3-Propanediol, 2,2-bis(bromomethyl)-, reaction products with ethanethiol-tetrafluoroethylene telomer':
-    '',
-  "1,3-Propanediol, 2,2-bis(bromomethyl)-, reaction products with ethanethiol-tetrafluoroethylene telomer, polymers with 1,6-diisocyanato-2,2,4(or 2,4,4)-trimethylhexane, 2-heptyl-3,4-bis(9-isocyanatononyl)-1-pentylcyclohexane and 2,2'-(methylimino)bis[ethan":
-    '',
-  '1,3-Propanediol, 2,2-bis[(2,2,3,3-tetrafluoropropoxy)methyl]-':
     'national unique domain values',
+  "1,3-Propanediol, 2,2-bis(bromomethyl)-, reaction products with ethanethiol-tetrafluoroethylene telomer, polymers with 1,6-diisocyanato-2,2,4(or 2,4,4)-trimethylhexane, 2-heptyl-3,4-bis(9-isocyanatononyl)-1-pentylcyclohexane and 2,2'-(methylimino)bis[ethan":
+    'national unique domain values',
+  '1,3-Propanediol, 2,2-bis[(2,2,3,3-tetrafluoropropoxy)methyl]-': '',
   '1,3-Propanediol, 2,2-bis[(nitrooxy)methyl]-, dinitrate (ester)':
     'STORETW Provider',
   '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C10-20-alkyl)thio]methyl] derivs., phosphates':
-    'national unique domain values',
+    '',
   '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C10-20-alkyl)thio]methyl] derivs., phosphates, ammonium salts':
-    'national unique domain values',
+    '',
   '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C4-10-alkyl)thio]methyl] derivs., phosphates':
     '',
   '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C4-10-alkyl)thio]methyl] derivs., phosphates, ammonium salts':
-    '',
+    'national unique domain values',
   '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C6-12-alkyl)thio]methyl] derivs., phosphates':
-    'national unique domain values',
-  '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C6-12-alkyl)thio]methyl] derivs., phosphates, ammonium salts':
     '',
+  '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C6-12-alkyl)thio]methyl] derivs., phosphates, ammonium salts':
+    'national unique domain values',
   '1,3-Propanediol, 2,2-bis[[(.gamma.-.omega.-perfluoro-C6-12-alkyl)thio]methyl] derivs., polymers with 2,2-bis[[(.gamma.-.omega.-perfluoro-C10-20-alkyl)thio]methyl]-1,3-propanediol, 1,6-diisocyanato-2,2,4(or 2,4,4)-trimethylhexane, 2-heptyl-3,4-bis(9-isocy':
-    'national unique domain values',
+    '',
   '1,3-Propanedione, 1-(5-chloro-2-thienyl)-3-(1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)-':
-    'national unique domain values',
+    '',
   '1,3-Propanedisulfonic acid, 1,1,2,2,3,3-hexafluoro-, lithium salt (1:2)': '',
   '1,3-Xylene': '',
   '1,3-bis(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)urea': '',
-  '1,3-dichlorobenzene': 'CST.pollutant',
-  '1,3-dichlorobenzene*': 'CST.std.pollutant',
+  '1,3-dichlorobenzene': 'CST.std.pollutant',
+  '1,3-dichlorobenzene*': 'CST.pollutant',
   '1,3-dichloropropane': 'CST.std.pollutant',
-  '1,3-dichloropropene': 'CST.std.pollutant',
-  '1,3-diphenylguanidine': '1',
+  '1,3-dichloropropene': 'CST.pollutant',
+  '1,3-diphenylguanidine': 'STANDARD NAME (Normalized)',
   '1,3-diphenylguanidine (DPG)': '',
   '1,3-xylene': 'CST.std.pollutant',
   '1,4,2-Dioxazolidine, 2,3,3,5,5-pentakis(trifluoromethyl)-': '',
-  '1,4,5,5,6,6-Hexafluoro-2,3-dimethoxycyclohexa-1,3-diene': '',
+  '1,4,5,5,6,6-Hexafluoro-2,3-dimethoxycyclohexa-1,3-diene':
+    'national unique domain values',
   '1,4,5,5,6,6-Hexafluoro-2,3-dimethylbicyclo[2.2.0]hex-2-ene': '',
   '1,4,5,5,6,6-Hexafluoro-7-(fluoromethylidene)bicyclo[2.2.2]oct-2-ene':
     'national unique domain values',
-  '1,4,5,5,6,6-Hexafluorocyclohex-2-ene-1-carboxylate': '',
+  '1,4,5,5,6,6-Hexafluorocyclohex-2-ene-1-carboxylate':
+    'national unique domain values',
   '1,4,5,8-Tetrachloronaphthalene': 'CHARACTERISTIC Table',
   '1,4,5-Trichloronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,4,6,7-Tetrachloronaphthalene': 'STANDARD NAME (Normalized)',
+  '1,4,6,7-Tetrachloronaphthalene': 'CHARACTERISTIC Table',
   '1,4,6,7-Tetramethylnaphthalene': 'STORETW Provider',
   '1,4,6,9-Tetraoxa-5.lambda.^4-telluraspiro[4.4]nonane, 2,2,3,3,7,7,8,8-octakis(trifluoromethyl)-':
-    '',
+    'national unique domain values',
   '1,4,6,9-Tetraoxa-5.lambda.^4-thiaspiro[4.4]nonane, 2,2,3,3,7,7,8,8-octakis(trifluoromethyl)-':
-    'national unique domain values',
-  '1,4-Anthraquinone': '',
-  '1,4-Benzenediamine': 'STORETW Provider',
+    '',
+  '1,4-Anthraquinone': 'national unique domain values',
+  '1,4-Benzenediamine': 'SYSTEMATIC NAME',
   '1,4-Benzenediamine, 2-methyl-, hydrochloride (1:1)':
-    'national unique domain values',
+    'SRS Link: https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/1790559',
   "1,4-Benzenedicarbonyl dichloride, polymer with 4,4'-[(1-methylethylidene)bis(4,1-phenyleneoxy)]bis[benzenamine], 3,3'-(1,1,3,3-tetramethyl-1,3-disiloxanediyl)bis[1-propanamine] and 4,4'-[[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis(4,1-phenyleneoxy)":
     'national unique domain values',
-  '1,4-Benzenedicarboxylic acid, 1,4-dibutyl ester': 'SRS List Provider',
+  '1,4-Benzenedicarboxylic acid, 1,4-dibutyl ester': 'SYSTEMATIC NAME',
   '1,4-Benzenedicarboxylic acid, 1,4-diethyl ester': 'SRS List Provider',
   '1,4-Benzenedicarboxylic acid, 1,4-dimethyl ester': 'SRS List Provider',
-  '1,4-Benzenedicarboxylic acid, 2,3,5,6-tetrachloro-': 'SRS List Provider',
+  '1,4-Benzenedicarboxylic acid, 2,3,5,6-tetrachloro-': 'SYSTEMATIC NAME',
   '1,4-Benzenedicarboxylic acid, 2,3,5,6-tetrachloro-, dimethyl ester':
-    'STORETW Provider',
-  '1,4-Benzenedicarboxylic acid, dibutyl ester': 'SYSTEMATIC NAME',
+    'SYSTEMATIC NAME',
+  '1,4-Benzenedicarboxylic acid, dibutyl ester': 'STORETW Provider',
   '1,4-Benzenedicarboxylic acid, diethyl ester': 'SYSTEMATIC NAME',
   '1,4-Benzenedicarboxylic acid, dimethyl ester, reaction products with bis(2-hydroxyethyl) terephthalate, ethylene glycol, .alpha.-fluoro-.omega.-(2-hydroxyethyl)poly(difluoromethylene), hexakis(methoxymethyl)melamine and polyethylene glycol':
-    'national unique domain values',
+    '',
   "1,4-Benzenedicarboxylic acid, polymer with N,N-bis(2-hydroxyethyl)-4-[(nonadecafluorodecyl)oxy]benzenesulfonamide didehydro deriv., 1,2-ethanediol, .alpha.-hydro-.omega.-hydroxypoly(oxy-1,2-ethanediyl) and 1,1'-methylenebis[4-isocyanatobenzene]":
     'national unique domain values',
   "1,4-Benzenedimethanol, .alpha.,.alpha.,.alpha.',.alpha.'-tetrakis(trifluoromethyl)-, hydrate (1:1)":
     '',
   "1,4-Benzenedimethanol, 2,3,5,6-tetrafluoro-.alpha.,.alpha.,.alpha.',.alpha.'-tetrakis(trifluoromethyl)-":
-    'national unique domain values',
+    '',
   '1,4-Benzenediol': 'SYSTEMATIC NAME',
   "1,4-Benzenedipropanol, ?,?'-dihydroxy-.alpha.,.alpha.,.alpha.',.alpha.'-tetrakis(trifluoromethyl)-":
     '',
-  '1,4-Bis(1H,1H,9H-perfluorononyl) sulfobutanedioate sodium':
-    'national unique domain values',
+  '1,4-Bis(1H,1H,9H-perfluorononyl) sulfobutanedioate sodium': '',
   '1,4-Bis(chloromethyl)-2-(heptafluoropropyl)benzene': '',
-  '1,4-Bis(heptafluoroisopropyl)benzene': 'national unique domain values',
-  '1,4-Bis(perfluorobutyl)butane': '',
+  '1,4-Bis(heptafluoroisopropyl)benzene': '',
+  '1,4-Bis(perfluorobutyl)butane': 'national unique domain values',
   '1,4-Bis(perfluoroethyl)butane': 'national unique domain values',
   '1,4-Bis(perfluorohexyl)butane': 'national unique domain values',
   '1,4-Bis(perfluorooctyl) fumarate': 'national unique domain values',
-  '1,4-Bis(perfluorooctyl) maleate': '',
+  '1,4-Bis(perfluorooctyl) maleate': 'national unique domain values',
   '1,4-Bis(perfluoropentyl)butane': 'national unique domain values',
-  '1,4-Bis(perfluoropropyl)butane': 'national unique domain values',
+  '1,4-Bis(perfluoropropyl)butane': '',
   '1,4-Bis[(2,2,3,3,4,4,5,5-octafluoropentyl)oxy]-1,4-dioxobutane-2-sulfonic acid':
     '',
   '1,4-Butanediol': 'CHARACTERISTIC Table',
   '1,4-Butanediol, 2,3-bis[(.gamma.-.omega.-perfluoro-C4-18-alkyl)thio] derivs., polymers with 1,6-diisocyanato-2,2,4(or 2,4,4)-trimethylhexane and polyethylene-polypropylene glycol bis(2-aminomethylethyl) ether':
-    '',
-  '1,4-Butanediol, 2,3-bis[(.gamma.-.omega.-perfluoro-C6-20-alkyl)thio] derivs.':
     'national unique domain values',
+  '1,4-Butanediol, 2,3-bis[(.gamma.-.omega.-perfluoro-C6-20-alkyl)thio] derivs.':
+    '',
   "1,4-Butanediol, 2,3-bis[(.gamma.-.omega.-perfluoro-C6-20-alkyl)thio] derivs., polymers with 1,6-diisocyanatotrimethylhexane and 2,2'-(methylimino)bis[ethanol]":
     '',
   '1,4-Butanediol, polymer with 1,6-diisocyanatohexane, 2-ethyl-1-hexanol-, and .alpha.-.omega.-perfluoro-C8-14-alc.-blocked':
-    '',
+    'national unique domain values',
   '1,4-Butanediol, polymers with 2,3-bis[(.gamma.-.omega.-perfluoro-C6-20-alkyl)thio]-1,4-butanediol, C36-alkylene diisocyanate and 1,6-diisocyanato-2,2,4(or 2,4,4)-trimethylhexane':
     'national unique domain values',
   '1,4-Butanedisulfonyl dichloride, 1,1,2,2,3,3,4,4-octafluoro-':
     'national unique domain values',
-  '1,4-Cineole': 'STANDARD NAME (Normalized)',
+  '1,4-Cineole': 'CHARACTERISTIC Table',
   '1,4-Cyclohexadiene': 'table unique identifier',
-  '1,4-Cyclohexanedione': 'SRS List Provider',
+  '1,4-Cyclohexanedione': 'CHARACTERISTIC Table',
   '1,4-DICHLOROBENZENE': 'ATTAINS.parameter',
   '1,4-DICHLOROBENZENE IN FISH TISSUE': 'ATTAINS.parameter',
   '1,4-DICHLOROBENZENE IN SEDIMENT': 'ATTAINS.parameter',
@@ -46351,34 +46372,35 @@ export default {
     'national unique domain values',
   '1,4-Dibromo-2-chloro-1,1,2-trifluorobutane': 'national unique domain values',
   '1,4-Dibromobenzene': 'national unique domain values',
-  '1,4-Dibromooctafluorobutane': 'national unique domain values',
-  '1,4-Dichloro-1,1,2,2,3,3,4,4-octafluorobutane':
-    'national unique domain values',
+  '1,4-Dibromooctafluorobutane': '',
+  '1,4-Dichloro-1,1,2,2,3,3,4,4-octafluorobutane': '',
   '1,4-Dichloro-2-(1,1,2,3,3,3-hexafluoropropoxy)-5-nitrobenzene': '',
-  '1,4-Dichloro-2-(1,1,2,3,3,3-hexafluoropropoxy)benzene': '',
+  '1,4-Dichloro-2-(1,1,2,3,3,3-hexafluoropropoxy)benzene':
+    'national unique domain values',
   '1,4-Dichloro-2-(pentafluoroethyl)benzene': 'national unique domain values',
   '1,4-Dichloro-2-Butene': 'STORETW Provider',
   '1,4-Dichloro-2-Butyne': 'STORETW Provider',
-  '1,4-Dichloro-2-butene': 'CHARACTERISTIC Table',
+  '1,4-Dichloro-2-butene': 'STANDARD NAME (Normalized)',
   '1,4-Dichloro-2-butyne': 'CHARACTERISTIC Table',
-  '1,4-Dichloro-cis-2-butene': 'STANDARD NAME (Normalized)',
-  '1,4-Dichlorobenzene': 'Nemi.gov',
+  '1,4-Dichloro-cis-2-butene': 'table unique identifier',
+  '1,4-Dichlorobenzene': '',
   '1,4-Dichlorobenzene-D4': 'STORETW Provider',
   '1,4-Dichlorobenzene-d4': 'STANDARD NAME (Normalized)',
-  '1,4-Dichlorobutane': 'CHARACTERISTIC Table',
+  '1,4-Dichlorobutane': 'STORETW Provider',
   '1,4-Dichloronaphthalene': 'STANDARD NAME (Normalized)',
   '1,4-Diethylbenzene': '',
-  '1,4-Difluorobenzene': 'STANDARD NAME (Normalized)',
-  '1,4-Dimethoxyanthracene': 'STORETW Provider',
+  '1,4-Difluorobenzene': 'STORETW Provider',
+  '1,4-Dimethoxyanthracene': 'CHARACTERISTIC Table',
   '1,4-Dimethyl-2-(tridecafluorohexyl)benzene': '',
   '1,4-Dimethylbenzene': '',
-  '1,4-Dimethylcyclohexane': 'national unique domain values',
+  '1,4-Dimethylcyclohexane': 'table unique identifier',
   '1,4-Dimethylnaphthalene': 'STORETW Provider',
-  '1,4-Dinitrobenzene': 'Nemi.gov',
-  '1,4-Dioxan-2-one, 3,5,5,6-tetrafluoro-3,6-bis(trifluoromethyl)-': '',
-  '1,4-Dioxane': 'STANDARD NAME (Normalized)',
+  '1,4-Dinitrobenzene': '',
+  '1,4-Dioxan-2-one, 3,5,5,6-tetrafluoro-3,6-bis(trifluoromethyl)-':
+    'national unique domain values',
+  '1,4-Dioxane': 'SRS List Provider',
   '1,4-Dioxane-D8': 'STORETW Provider',
-  '1,4-Dioxane-d8': 'GLENDA contact (klewin.kenneth@epa.gov ',
+  '1,4-Dioxane-d8': 'STANDARD NAME (Normalized)',
   '1,4-Diphenylbenzene': '',
   '1,4-Divinylperfluorobutane': 'national unique domain values',
   '1,4-Ethenopentalene, 1,2,3,5,7,8-hexachloro-1,3a,4,5,6,6a-hexahydro-, (1R,3aS,4S,5S,6aS)-rel-':
@@ -46386,10 +46408,10 @@ export default {
   '1,4-Hexadiene': 'national unique domain values',
   '1,4-Hexadiene, 4,5,6,6,6-pentafluoro-': 'national unique domain values',
   '1,4-Naphthalenedione': 'STORETW Provider',
-  '1,4-Naphthalenedione, 2,3-dichloro-': 'STORETW Provider',
-  '1,4-Naphthalenedione, 2-(acetyloxy)-3-dodecyl-': 'SRS List Provider',
+  '1,4-Naphthalenedione, 2,3-dichloro-': 'SYSTEMATIC NAME',
+  '1,4-Naphthalenedione, 2-(acetyloxy)-3-dodecyl-': 'SYSTEMATIC NAME',
   '1,4-Naphthalenedione, 2-methyl-': 'SRS List Provider',
-  '1,4-Naphthoquinone': 'STORETW Provider',
+  '1,4-Naphthoquinone': 'STANDARD NAME (Normalized)',
   '1,4-Oxathiin-3-carboxamide, 5,6-dihydro-2-methyl-N-phenyl-':
     'STORETW Provider',
   '1,4-Pentanediol, 5,5,5-trifluoro-4-(trifluoromethyl)-': '',
@@ -46404,7 +46426,7 @@ export default {
   '1,4-dichlorobenzene': 'CST.pollutant',
   '1,4-dimethyl cyclohexane': '',
   '1,4-dioxane': 'CST.pollutant',
-  '1,4-xylene': 'CST.std.pollutant',
+  '1,4-xylene': 'CST.pollutant',
   '1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, (1.alpha.,4.alpha.,4a.beta.,5.alpha.,8.':
     'SRS List Provider',
   '1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, (1R,4S,4aS,5R,8S,8aR)-rel-':
@@ -46417,15 +46439,14 @@ export default {
   '1,5,6-Triazabicyclo[3.1.0]hexane, 2,2-dimethyl-4,4,6-tris(trifluoromethyl)-':
     '',
   '1,5,6-Triazabicyclo[3.1.0]hexane, 2-methyl-2-phenyl-4,4,6-tris(trifluoromethyl)':
-    '',
+    'national unique domain values',
   '1,5,8-Trioxa-3-aza-4.lambda.^5-phosphaspiro[3.4]octane, 2,2,6,6,7,7-hexakis(trifluoromethyl)-4-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-':
     '',
   '1,5-Bis(5-chloro-2-methyl-3-thienyl)-2,2,3,3,4,4-hexafluoro-1,5-pentanedione':
     '',
   '1,5-Bis(ethylsulfanyl)-1,1,2,2,4,4,5,5-octafluoropentan-3-one':
     'national unique domain values',
-  '1,5-Dichloro-1,2,2,3,3,4,4-heptafluorocyclopentane':
-    'national unique domain values',
+  '1,5-Dichloro-1,2,2,3,3,4,4-heptafluorocyclopentane': '',
   '1,5-Dichloronaphthalene': 'STORETW Provider',
   '1,5-Dideoxy-1,1,1,5,5,5-hexafluoro-2,4-di-C-fluoro-2,4-bis-O-(heptafluoropropyl)pent-3-ulose':
     'national unique domain values',
@@ -46450,7 +46471,8 @@ export default {
   '1,6-Dibromo-2,3,5-trichloro-1,1,2,3,4,4,5,6,6-nonafluorohexane':
     'national unique domain values',
   '1,6-Dibromododecafluorohexane': 'national unique domain values',
-  '1,6-Dibromonaphthalen-2-yl heptafluorobutanoate': '',
+  '1,6-Dibromonaphthalen-2-yl heptafluorobutanoate':
+    'national unique domain values',
   '1,6-Dichloro-1,1,2,2,3,3,4,4,5,5,6,6-dodecafluorohexane': '',
   '1,6-Diiodoperfluorohexane': '',
   '1,6-Dimethylindan': 'CHARACTERISTIC Table',
@@ -46475,12 +46497,13 @@ export default {
   '1,7-Octanediol, 8,8,8-trifluoro-7-(trifluoromethyl)-':
     'national unique domain values',
   '1,7-dimethylnaphthalene': 'national unique domain values',
-  '1,8-Bis(perfluorododecyl)-2,7-diiodooctane': '',
-  '1,8-Dibromo-1,1,2,2,3,3,4,4,5,5,6,6-dodecafluorooctane': '',
+  '1,8-Bis(perfluorododecyl)-2,7-diiodooctane': 'national unique domain values',
+  '1,8-Dibromo-1,1,2,2,3,3,4,4,5,5,6,6-dodecafluorooctane':
+    'national unique domain values',
   '1,8-Dibromo-1,1,2,2,7,7,8,8-octafluorooctane': '',
   '1,8-Dibromoperfluorooctane': 'national unique domain values',
-  '1,8-Dichloronaphthalene': 'STANDARD NAME (Normalized)',
-  '1,8-Dichloroperfluorooctane': 'national unique domain values',
+  '1,8-Dichloronaphthalene': 'CHARACTERISTIC Table',
+  '1,8-Dichloroperfluorooctane': '',
   '1,8-Diiodoperfluorooctane': '',
   '1,8-Dimethylnaphthalene': 'STORETW Provider',
   '1,8-Dimethylphenanthrene': 'STANDARD NAME (Normalized)',
@@ -47585,7 +47608,7 @@ export default {
     'national unique domain values',
   '1-Hexanol, 6-chloro-3,3,4,4,5,5,6,6-octafluoro-':
     'national unique domain values',
-  '1-Hexen-3-one': '',
+  '1-Hexen-3-one': 'national unique domain values',
   '1-Hexen-3-yne, 5-methyl-5-(2,2,3,3-tetrafluoropropoxy)-': '',
   '1-Hexene': 'STORETW Provider',
   '1-Hexene & 2-Methyl-1-pentene': 'national unique domain values',
@@ -49094,19 +49117,19 @@ export default {
   '102851-06-9': 'CAS NUMBER',
   '1029089-63-1': 'CAS NUMBER',
   '103-09-3': 'CAS NUMBER',
-  '103-17-3': 'CAS NUMBER',
+  '103-17-3': 'STORETW Provider',
   '103-23-1': 'STORETW Provider',
   '103-24-2': 'CAS NUMBER',
   '103-29-7': 'CAS NUMBER',
   '103-30-0': 'CAS_NUMBER',
   '103-33-3': 'STORETW Provider',
-  '103-36-6': 'STORETW Provider',
+  '103-36-6': 'CAS NUMBER',
   '103-41-3': 'CAS NUMBER',
-  '103-49-1': 'STORETW Provider',
-  '103-65-1': 'STORETW Provider',
+  '103-49-1': 'CAS NUMBER',
+  '103-65-1': 'CAS NUMBER',
   '103-71-9': 'CAS NUMBER',
-  '103-78-6': 'CAS NUMBER',
-  '103-82-2': 'CAS NUMBER',
+  '103-78-6': 'STORETW Provider',
+  '103-82-2': 'STORETW Provider',
   '103-90-2': 'CAS NUMBER',
   '103015-84-5': 'CAS_NUMBER',
   '103055-07-8': 'CAS NUMBER',
@@ -49122,7 +49145,7 @@ export default {
   '103147-32-6': 'CAS NUMBER',
   '103148-11-4': 'CAS NUMBER',
   '10315-85-2': 'CAS NUMBER',
-  '103173-66-6': 'STORETW Provider',
+  '103173-66-6': 'CAS NUMBER',
   '1031756-98-5': 'CAS_NUMBER',
   '103188-04-1': 'CAS NUMBER',
   '103188-54-1': 'CAS NUMBER',
@@ -49140,7 +49163,7 @@ export default {
   '103321-11-5': 'CAS_NUMBER',
   '1033385-42-0': 'CAS_NUMBER',
   '1033556-26-1': 'CAS NUMBER',
-  '103361-09-7': 'CAS NUMBER',
+  '103361-09-7': 'SRS List Provider',
   '1033630-69-1': 'CAS NUMBER',
   '1034143-66-2': 'CAS NUMBER',
   '103426-93-3': 'CAS NUMBER',
@@ -49166,21 +49189,21 @@ export default {
   '103831-28-3': 'CAS NUMBER',
   '103831-29-4': 'CAS NUMBER',
   '103833-18-7': 'CAS NUMBER',
-  '10386-84-2': 'CAS NUMBER',
+  '10386-84-2': 'STORETW Provider',
   '104-35-8': 'CAS NUMBER',
-  '104-40-5': 'CAS_NUMBER',
+  '104-40-5': 'STORETW Provider',
   '104-51-8': 'STORETW Provider',
   '104-55-2': 'CAS NUMBER',
-  '104-72-3': 'CAS NUMBER',
-  '104-76-7': 'STORETW Provider',
+  '104-72-3': 'STORETW Provider',
+  '104-76-7': 'CAS NUMBER',
   '104-87-0': 'CAS_NUMBER',
-  '104-88-1': 'CAS NUMBER',
+  '104-88-1': 'STORETW Provider',
   '104.1 g/mol': '(C8H8)n',
   '1040208-71-6': 'CAS NUMBER',
   '1040208-85-2': 'CAS NUMBER',
   '1040208-92-1': 'CAS NUMBER',
   '1040209-02-6': 'CAS NUMBER',
-  '104040-78-0': 'STORETW Provider',
+  '104040-78-0': 'CAS_NUMBER',
   '1040629-78-4': 'CAS NUMBER',
   '104075-34-5': 'CAS_NUMBER',
   '104075-36-7': 'CAS NUMBER',
@@ -49191,7 +49214,7 @@ export default {
   '104147-33-3': 'CAS NUMBER',
   '104162-20-1': 'CAS NUMBER',
   '10417-94-4': 'CAS NUMBER',
-  '104206-82-8': 'CAS NUMBER',
+  '104206-82-8': 'STORETW Provider',
   '104215-85-2': 'STORETW Provider',
   '104242-01-5': 'CAS_NUMBER',
   '104242-02-6': 'CAS NUMBER',
@@ -49203,7 +49226,7 @@ export default {
   '10443-70-6': 'CAS NUMBER',
   '104431-27-8': 'CAS NUMBER',
   '104504-30-5': 'CAS_NUMBER',
-  '10453-86-8': 'STORETW Provider',
+  '10453-86-8': 'CAS NUMBER',
   '104550-50-7': 'CAS NUMBER',
   '104550-51-8': 'CAS NUMBER',
   '104554-44-1': 'CAS NUMBER',
@@ -49958,7 +49981,7 @@ export default {
   '114311-32-9': 'STORETW Provider',
   '114369-43-6': 'CAS NUMBER',
   '114420-56-3': 'CAS NUMBER',
-  '114423-97-1': 'CAS NUMBER',
+  '114423-97-1': 'STORETW Provider',
   '114423-98-2': 'CAS NUMBER',
   '114423-99-3': 'CAS NUMBER',
   '1144512-18-4': 'CAS NUMBER',
@@ -51203,10 +51226,10 @@ export default {
   '133921-38-7': 'CAS NUMBER',
   '13395-76-1': 'CAS NUMBER',
   '133964-60-0': 'CAS_NUMBER',
-  '134-32-7': 'CAS NUMBER',
-  '134-49-6': 'CAS NUMBER',
-  '134-62-3': 'CAS NUMBER',
-  '134-96-3': 'CAS NUMBER',
+  '134-32-7': 'STORETW Provider',
+  '134-49-6': 'STORETW Provider',
+  '134-62-3': 'STORETW Provider',
+  '134-96-3': 'STORETW Provider',
   '134023-58-8': 'CAS NUMBER',
   '134027-58-0': 'CAS_NUMBER',
   '134035-61-3': 'CAS NUMBER',
@@ -51265,13 +51288,13 @@ export default {
   '13475-75-7': 'CAS NUMBER',
   '13475-82-6': 'CAS NUMBER',
   '134769-21-4': 'CAS NUMBER',
-  '134842-07-2': 'STORETW Provider',
+  '134842-07-2': 'CAS NUMBER',
   '13485-61-5': 'CAS_NUMBER',
-  '13494-80-9': 'STORETW Provider',
+  '13494-80-9': 'CAS NUMBER',
   '135-01-3': 'CAS NUMBER',
   '135-48-8': 'STORETW Provider',
   '135-70-6': 'CAS NUMBER',
-  '135-98-8': 'CAS NUMBER',
+  '135-98-8': 'STORETW Provider',
   '13501 -- SR-90    TOTAL    PC/L': 'STORETW Provider',
   '135014-05-0': 'CAS_NUMBER',
   '13503 -- SR-90    DISOLVED PC/L': 'STORETW Provider',
@@ -51284,10 +51307,10 @@ export default {
   '135098-69-0': 'CAS_NUMBER',
   '135131-50-9': 'CAS NUMBER',
   '135131-53-2': 'CAS NUMBER',
-  '135158-54-2': 'STORETW Provider',
+  '135158-54-2': 'CAS NUMBER',
   '1352216-62-6': 'CAS NUMBER',
   '135228-60-3': 'CAS NUMBER',
-  '13523-86-9': 'STORETW Provider',
+  '13523-86-9': 'CAS NUMBER',
   '1352994-67-2': 'CAS NUMBER',
   '13530-50-2': 'CAS NUMBER',
   '1353009-38-7': 'CAS NUMBER',
@@ -53905,7 +53928,7 @@ export default {
   '18770-62-2': 'CAS NUMBER',
   '18770-65-5': 'CAS_NUMBER',
   '18770-69-9': 'CAS NUMBER',
-  '1878-66-6': 'CAS NUMBER',
+  '1878-66-6': 'STORETW Provider',
   '1878204-24-0': 'CAS_NUMBER',
   '18798-10-2': 'CAS NUMBER',
   '188023-86-1': 'CAS NUMBER',
@@ -57365,47 +57388,40 @@ export default {
     'national unique domain values',
   '2-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)-2-(pentafluoroethyl)-3,3-bis(trifluoromethyl)oxirane':
     'national unique domain values',
-  '2-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)-5-methylcyclohexan-1-ol':
-    'national unique domain values',
+  '2-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)-5-methylcyclohexan-1-ol': '',
   '2-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)aniline':
     'national unique domain values',
   '2-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)naphthalene': '',
-  '2-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)pyridine-4-carbonitrile':
-    'national unique domain values',
+  '2-(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)pyridine-4-carbonitrile': '',
   '2-(1,1,2,2,2-Pentafluoroethylsulfonyloxy)butyl 1,1,2,2,2-pentafluoroethanesulfonate':
-    '',
+    'national unique domain values',
   '2-(1,1,2,2,2-pentafluoroethoxy)phenol': 'national unique domain values',
   '2-(1,1,2,2,3,3,4,4,4-Nonafluorobutane-1-sulfonyl)-1-phenylethan-1-one':
     'national unique domain values',
-  '2-(1,1,2,2,3,3,4,4,4-Nonafluorobutyl)bicyclo[2.2.1]heptane':
+  '2-(1,1,2,2,3,3,4,4,4-Nonafluorobutyl)bicyclo[2.2.1]heptane': '',
+  '2-(1,1,2,2,3,3,4,4,5,5,5-Undecafluoropentylsulfonylamino)acetic acid': '',
+  '2-(1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluorohexanesulfonamido)acetic acid':
     'national unique domain values',
-  '2-(1,1,2,2,3,3,4,4,5,5,5-Undecafluoropentylsulfonylamino)acetic acid':
-    'national unique domain values',
-  '2-(1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluorohexanesulfonamido)acetic acid': '',
   '2-(1,1,2,2,3,3,4,4,5,5,6,6-Dodecafluorohexyl)-1,3-dioxolane':
     'national unique domain values',
-  '2-(1,1,2,2,3,3,4,4-Octafluorobutyl)-1,3,6-triazocane':
-    'national unique domain values',
+  '2-(1,1,2,2,3,3,4,4-Octafluorobutyl)-1,3,6-triazocane': '',
   '2-(1,1,2,2,3,3-Hexafluoropropyl)-1H-benzimidazole':
     'national unique domain values',
   '2-(1,1,2,2,4,4,4-Heptafluorobutoxy)ethyl prop-2-enoate':
     'national unique domain values',
-  '2-(1,1,2,2-Tetrafluoro-2-phenylethyl)aniline-hydrogen chloride (1/1)':
-    'national unique domain values',
+  '2-(1,1,2,2-Tetrafluoro-2-phenylethyl)aniline-hydrogen chloride (1/1)': '',
   '2-(1,1,2,2-Tetrafluoroethoxy)benzoic acid': 'national unique domain values',
   '2-(1,1,2,2-Tetrafluoroethyl)-1,4,5,6-tetrahydropyrimidine': '',
-  '2-(1,1,2,2-Tetrafluoroethyl)-4,5,6,7-tetrahydro-1H-1,3-diazepine':
-    'national unique domain values',
+  '2-(1,1,2,2-Tetrafluoroethyl)-4,5,6,7-tetrahydro-1H-1,3-diazepine': '',
   '2-(1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-Heptadecafluoronon-1-enoxy)-5-methoxybenzene-1,4-diamine':
     '',
   '2-(1,2-Dichloro-1,2,2-trifluoroethoxy)-1,1,1,2,3,3,3-heptafluoropropane':
     'national unique domain values',
   '2-(1-Ethenoxy-1,1,2,3,3,3-hexafluoropropan-2-yl)oxy-1,1,2,2-tetrafluoroethanesulfonyl fluoride':
     'national unique domain values',
-  '2-(1-Ethoxy-1,2,2,3,3,4,4,4-octafluorobutyl)aniline':
-    'national unique domain values',
+  '2-(1-Ethoxy-1,2,2,3,3,4,4,4-octafluorobutyl)aniline': '',
   '2-(1-Hydroxyethyl)-6-methylaniline': '',
-  '2-(1-hydroxyethyl)-6-methylaniline (HEMA)': '',
+  '2-(1-hydroxyethyl)-6-methylaniline (HEMA)': 'national unique domain values',
   '2-(11-[Chloro(difluoro)methyl]perfluorododecyl)ethyl prop-2-enoate': '',
   '2-(2,2,3,3,3-Pentafluoropropanoyl)cyclohexan-1-one': '',
   '2-(2,2,3,3,3-Pentafluoropropoxy)ethan-1-ol': '',
@@ -57468,17 +57484,20 @@ export default {
   '2-(2H-Benzotriazol-2-yl)-4,6-ditertpentylphenol': '',
   '2-(2H-benzotriazol-2-yl)-4,6-ditertpentylphenol (UV-328)': '',
   '2-(3,3,4,4,4-Pentafluorobutylsulfanyl)acetic acid': '',
-  '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexane-1-sulfinyl)ethan-1-ol': '',
-  '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)propane-1,3-diol': '',
+  '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexane-1-sulfinyl)ethan-1-ol':
+    'national unique domain values',
+  '2-(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)propane-1,3-diol':
+    'national unique domain values',
   '2-(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctane-1-sulfinyl)ethan-1-ol':
     'national unique domain values',
-  '2-(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctyl)propane-1,3-diol': '',
+  '2-(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctyl)propane-1,3-diol':
+    'national unique domain values',
   '2-(3,4-Dibromo-1,1,2,2,3,4,4-heptafluorobutyl)-2,3,3-trifluorooxirane':
     'national unique domain values',
   '2-(3,4-Dimethoxyphenyl)-1-[5-(heptafluoropropyl)-5-hydroxy-3-phenyl-4,5-dihydro-1H-pyrazol-1-yl]ethanone':
     'national unique domain values',
   '2-(3-Nitro-1H-1,2,4-triazol-1-yl)-N-(2,2,3,3,3-pentafluoropropyl)acetamide':
-    '',
+    'national unique domain values',
   '2-(4,4,5,5,6,6,6-heptafluorohexyl)propanedioic Acid': '',
   '2-(4-Bromophenoxy)-1,1,2,2-tetrafluoroethane-1-sulfonyl fluoride':
     'national unique domain values',
@@ -57508,29 +57527,28 @@ export default {
   '2-(Aminomethyl)-2,3,3,3-tetrafluoropropanoic acid': '',
   '2-(Benzothiazolylthio)methyl thiocyanate': '',
   '2-(Chloromethyl)pyridine hydrochloride': 'STANDARD NAME (Normalized)',
-  '2-(Difluoromethoxy)-1,1,1,2,3,3-hexafluoropropane':
-    'national unique domain values',
+  '2-(Difluoromethoxy)-1,1,1,2,3,3-hexafluoropropane': '',
   '2-(Difluoromethyl)-1,1,1,2,3,3,4,4,5,5,6,7,7,7-tetradecafluoro-6-(trifluoromethyl)heptane':
     'national unique domain values',
   '2-(Difluoromethyl)-1,1,1,2,3,3,5,5,5-nonafluoro-4,4-bis(trifluoromethyl)pentane':
     'national unique domain values',
-  '2-(Difluoromethyl)-1,1,1,2,3,3-hexafluoropropane':
-    'national unique domain values',
+  '2-(Difluoromethyl)-1,1,1,2,3,3-hexafluoropropane': '',
   '2-(Difluoromethyl)-1,1,1,2,6,6,7,8,8,8-decafluoro-5-methyloctane':
     'national unique domain values',
   '2-(Dimethylamino)-N-hydroxy-2-oxoethanimidothioic acid methyl ester':
     'STANDARD NAME (Normalized)',
   '2-(Henicosafluorodecyl)-1H-imidazole': 'national unique domain values',
-  '2-(Heptadecafluorooctyl)butane-1,4-diol': 'national unique domain values',
-  '2-(Heptadecafluorooctyl)thiophene': '',
+  '2-(Heptadecafluorooctyl)butane-1,4-diol': '',
+  '2-(Heptadecafluorooctyl)thiophene': 'national unique domain values',
   '2-(Heptafluoropropoxy)propanoic acid': 'national unique domain values',
   '2-(Heptafluoropropyl)-1,3,5-trimethoxybenzene': '',
   '2-(Heptafluoropropyl)-1,3-dioxolane': 'national unique domain values',
-  '2-(Heptafluoropropyl)-1,4-dimethoxybenzene': 'national unique domain values',
+  '2-(Heptafluoropropyl)-1,4-dimethoxybenzene': '',
   '2-(Heptafluoropropyl)-1-methoxy-4-methylbenzene': '',
-  '2-(Heptafluoropropyl)-1-phenyl-4,5-dihydro-1H-imidazole': '',
-  '2-(Heptafluoropropyl)-1H-benzimidazole': '',
-  '2-(Heptafluoropropyl)-1H-imidazole': '',
+  '2-(Heptafluoropropyl)-1-phenyl-4,5-dihydro-1H-imidazole':
+    'national unique domain values',
+  '2-(Heptafluoropropyl)-1H-benzimidazole': 'national unique domain values',
+  '2-(Heptafluoropropyl)-1H-imidazole': 'national unique domain values',
   '2-(Heptafluoropropyl)-1H-indole': 'national unique domain values',
   '2-(Heptafluoropropyl)-1H-pyrrole': '',
   '2-(Heptafluoropropyl)-3-methyl-1H-indole': 'national unique domain values',
@@ -57541,32 +57559,34 @@ export default {
   '2-(Heptafluoropropyl)-5-methoxy-1H-indole': '',
   '2-(Heptafluoropropyl)-6-methylquinoline': 'national unique domain values',
   '2-(Heptafluoropropyl)-6-nitro-1H-benzimidazole': '',
-  '2-(Heptafluoropropyl)-9H-purin-6-amine': '',
+  '2-(Heptafluoropropyl)-9H-purin-6-amine': 'national unique domain values',
   '2-(Heptafluoropropyl)cyclohexan-1-one': 'national unique domain values',
-  '2-(Heptafluoropropyl)oxirane': '',
+  '2-(Heptafluoropropyl)oxirane': 'national unique domain values',
   '2-(Heptafluoropropyl)pyridine-4-carboxylic acid':
     'national unique domain values',
-  '2-(Heptafluoropropyl)pyrimidine': 'national unique domain values',
+  '2-(Heptafluoropropyl)pyrimidine': '',
   '2-(Heptafluoropropyl)quinoline': 'national unique domain values',
   '2-(Methyl((nonafluorobutyl)sulfonyl)amino)ethyl octacosanoate':
     'national unique domain values',
   '2-(Methylamino)-2-((nonafluorobutyl)sulfonyl)ethyl prop-2-enoate':
     'national unique domain values',
   '2-(Methylsulfonyl)-4-(trifluoromethyl)benzoic acid':
-    'Diketonitrile-isoxaflutole benzoic acid analog',
+    'national unique domain values',
   '2-(Methylsulfonyl)-4-(trifluoromethyl)benzoic acid (diketonitrile-isoxaflutole benzoic acid analog)':
     'national unique domain values',
-  '2-(Methylthio)benzothiazole': 'CHARACTERISTIC Table',
+  '2-(Methylthio)benzothiazole': 'STANDARD NAME (Normalized)',
   '2-(Methyl{perfluoro-2-[2,6-bis(ethyl)morpholin-4-yl]ethanesulfonyl}amino)ethyl prop-2-enoate':
     '',
-  '2-(N-Ethyl-perfluorooctanesulfonamido)acetate':
+  '2-(N-Ethyl-perfluorooctanesulfonamido)acetate': '',
+  '2-(N-Methyl-perfluorodecanesulfonamido)acetic acid':
     'national unique domain values',
-  '2-(N-Methyl-perfluorodecanesulfonamido)acetic acid': '',
-  '2-(N-Methyl-perfluorododecanesulfonamido)acetic acid': '',
+  '2-(N-Methyl-perfluorododecanesulfonamido)acetic acid':
+    'national unique domain values',
   '2-(N-Methyl-perfluorononanesulfonamido)acetic acid': '',
   '2-(N-Methyl-perfluorotetradecanesulfonamido)acetic acid':
     'national unique domain values',
-  '2-(N-Methyl-perfluorotridecanesulfonamido)acetic acid': '',
+  '2-(N-Methyl-perfluorotridecanesulfonamido)acetic acid':
+    'national unique domain values',
   '2-(N-Methyl-perfluoroundecanesulfonamido)acetic acid': '',
   '2-(N-Methyl1,1,2,2,3,3,4,4,5,5,6,6,6- tridecafluorohexanesulfonamido)acetic acid':
     '',
@@ -57575,30 +57595,32 @@ export default {
     'national unique domain values',
   '2-(N-Methylperfluorooctanesulfonamido)acetic acid': '',
   '2-(N-ethylperfluoro-1-octanesulfonamido)-ethanol':
-    '2-(N-ethylperfluoro-1-octanesulfonamido)-ethanol***retired***use N-Ethyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide',
+    'Retired Names: N-Ethyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide',
   '2-(N-ethylperfluoro-1-octanesulfonamido)-ethanol***retired***use N-Ethylperfluorooctanesulfonamidoethanol':
     '1',
   '2-(N-methylperfluoro-1-octanesulfonamido)-ethanol':
     'STANDARD NAME (Normalized)',
   '2-(Nonafluorobutyl)-1-benzofuran': 'national unique domain values',
-  '2-(Nonafluorobutyl)-1-benzothiophene': 'national unique domain values',
-  '2-(Nonafluorobutyl)-1H-indene': 'national unique domain values',
+  '2-(Nonafluorobutyl)-1-benzothiophene': '',
+  '2-(Nonafluorobutyl)-1H-indene': '',
   '2-(Nonafluorobutyl)-1H-indole': 'national unique domain values',
   '2-(Nonafluorobutyl)-4H-1-benzopyran-4-one': '',
   '2-(Nonafluorobutyl)aniline': '',
-  '2-(Nonafluorobutyl)benzoic acid': 'national unique domain values',
-  '2-(Nonafluorobutyl)thiophene': 'national unique domain values',
+  '2-(Nonafluorobutyl)benzoic acid': '',
+  '2-(Nonafluorobutyl)thiophene': '',
   '2-(Nonylphenoxy)ethanol': 'STANDARD NAME (Normalized)',
   '2-(P-Iodophenyl)-3-(P-Nitrophenyl)-5-Phenyltetrazolium Chloride':
     'STORETW Provider',
-  '2-(Pentadecafluoroheptyl)cyclohexan-1-one': 'national unique domain values',
-  '2-(Pentafluoroethoxy)ethan-1-ol': 'national unique domain values',
-  '2-(Pentafluoroethyl)-1,3-benzoxazole': 'national unique domain values',
-  '2-(Pentafluoroethyl)-1,3-oxazolidine': 'national unique domain values',
+  '2-(Pentadecafluoroheptyl)cyclohexan-1-one': '',
+  '2-(Pentafluoroethoxy)ethan-1-ol': '',
+  '2-(Pentafluoroethyl)-1,3-benzoxazole': '',
+  '2-(Pentafluoroethyl)-1,3-oxazolidine': '',
   '2-(Pentafluoroethyl)-1H-benzimidazole': 'national unique domain values',
-  '2-(Pentafluoroethyl)-1H-benzimidazole-4-carboxamide': '',
-  '2-(Pentafluoroethyl)-2-phenylpiperidine': 'national unique domain values',
-  '2-(Pentafluoroethyl)-3,4,5-tris(trifluoromethyl)furan': '',
+  '2-(Pentafluoroethyl)-1H-benzimidazole-4-carboxamide':
+    'national unique domain values',
+  '2-(Pentafluoroethyl)-2-phenylpiperidine': '',
+  '2-(Pentafluoroethyl)-3,4,5-tris(trifluoromethyl)furan':
+    'national unique domain values',
   '2-(Pentafluoroethyl)-3H-imidazo[4,5-c]pyridine':
     'national unique domain values',
   '2-(Pentafluoroethyl)-4,5-dihydro-1,3-oxazole':
@@ -57606,54 +57628,53 @@ export default {
   '2-(Pentafluoroethyl)-4-(propan-2-yl)pyrimidine-5-carboxylic acid':
     'national unique domain values',
   '2-(Pentafluoroethyl)-4H-pyran-4-one': 'national unique domain values',
-  '2-(Pentafluoroethyl)naphthalene': 'national unique domain values',
+  '2-(Pentafluoroethyl)naphthalene': '',
   '2-(Pentafluoroethyl)pyridine-4-carboxylic acid':
     'national unique domain values',
-  '2-(Pentafluoroethyl)pyrimidin-5-amine': '',
-  '2-(Pentafluorosulfanyl)perfluoroethyl sulfonic acid': '',
+  '2-(Pentafluoroethyl)pyrimidin-5-amine': 'national unique domain values',
+  '2-(Pentafluorosulfanyl)perfluoroethyl sulfonic acid':
+    'national unique domain values',
   '2-(Perfluoro(2-propoxy-1-propoxy)eth-2-yl)ethyldimethyl(3-methyl-3-hydroxy-4-pentynoxy)silane':
     '',
-  '2-(Perfluoro-11-methyldodecyl)ethyl propenoate':
-    'national unique domain values',
-  '2-(Perfluoro-3-methylbutyl)ethyl???methacrylate':
-    'national unique domain values',
-  '2-(Perfluoro-7-methyloctyl)ethanol': 'national unique domain values',
-  '2-(Perfluoro-7-methyloctyl)ethyl iodide': '',
-  '2-(Perfluorobutyl)ethanethiol': '',
-  '2-(Perfluorobutylsulfanyl)ethanol': '',
-  '2-(Perfluorodecyl)ethane sulfinic acid': '',
+  '2-(Perfluoro-11-methyldodecyl)ethyl propenoate': '',
+  '2-(Perfluoro-3-methylbutyl)ethyl???methacrylate': '',
+  '2-(Perfluoro-7-methyloctyl)ethanol': '',
+  '2-(Perfluoro-7-methyloctyl)ethyl iodide': 'national unique domain values',
+  '2-(Perfluorobutyl)ethanethiol': 'national unique domain values',
+  '2-(Perfluorobutylsulfanyl)ethanol': 'national unique domain values',
+  '2-(Perfluorodecyl)ethane sulfinic acid': 'national unique domain values',
   '2-(Perfluorodecyl)ethyl N-1-naphthalenylcarbamate': '',
-  '2-(Perfluorododecyl)ethane sulfinic acid': '',
-  '2-(Perfluoroeicosanyl)ethane-1-sulfonic acid':
-    'national unique domain values',
+  '2-(Perfluorododecyl)ethane sulfinic acid': 'national unique domain values',
+  '2-(Perfluoroeicosanyl)ethane-1-sulfonic acid': '',
   '2-(Perfluorohexadecyl)ethane-1-sulfonic acid': '',
   '2-(Perfluorohexyl)-1-(hydroxymethyl)ethyl 2-propenoate': '',
   '2-(Perfluorohexyl)-1-ethanol 1-(hydrogen sulfate)':
     'national unique domain values',
-  '2-(Perfluorohexyl)ethane sulfinic acid': 'national unique domain values',
+  '2-(Perfluorohexyl)ethane sulfinic acid': '',
   '2-(Perfluorohexyl)ethane-1-sulfonic acid': '',
   '2-(Perfluorohexyl)ethanethiol': 'national unique domain values',
-  '2-(Perfluorohexyl)ethanol dihydrogen phosphate bis(2-hydroxyethyl)amine': '',
+  '2-(Perfluorohexyl)ethanol dihydrogen phosphate bis(2-hydroxyethyl)amine':
+    'national unique domain values',
   '2-(Perfluorohexyl)ethyl acrylate-methyl methacrylate copolymer': '',
-  '2-(Perfluorohexyl)ethylphosphonic acid': '',
+  '2-(Perfluorohexyl)ethylphosphonic acid': 'national unique domain values',
   '2-(Perfluorohexyl)ethyltris(1-methylethoxy)silane':
     'national unique domain values',
   '2-(Perfluorooctadecyl)ethane-1-sulfonic acid':
     'national unique domain values',
-  '2-(Perfluorooctane-1-sulfinyl)ethyl prop-2-enoate':
-    'national unique domain values',
+  '2-(Perfluorooctane-1-sulfinyl)ethyl prop-2-enoate': '',
   '2-(Perfluorooctyl)-1-(hydroxymethyl)ethyl 2-propenoate':
     'national unique domain values',
   '2-(Perfluorooctyl)ethane sulfinic acid': '',
   '2-(Perfluorooctyl)ethanthiol': 'national unique domain values',
   '2-(Perfluorooctyl)ethoxymethyloxirane': 'national unique domain values',
-  '2-(Perfluorooctyl)ethyldimethylchlorosilane': '',
+  '2-(Perfluorooctyl)ethyldimethylchlorosilane':
+    'national unique domain values',
   '2-(Perfluoropropoxy)-1H,1H-perfluoropropanol': '',
   '2-(Perfluoropropyl)benzoxazole': '',
   '2-(Perfluoropropyl)glycine': '',
   '2-(Perfluorotetradecyl)ethane sulfinic acid': '',
-  '2-(Perfluorotetradecyl)ethanethiol': '',
-  '2-(Perfluorotetradecyl)ethylsulfonic acid': '',
+  '2-(Perfluorotetradecyl)ethanethiol': 'national unique domain values',
+  '2-(Perfluorotetradecyl)ethylsulfonic acid': 'national unique domain values',
   '2-(Perfluorovinyloxy)perfluoroethanesulfonic acid sodium salt': '',
   '2-(Thiocyanomethylthio)Benzothiazole': 'national unique domain values',
   '2-(Tridecafluorohexyl)-1H-benzimidazole': '',
@@ -57665,9 +57686,9 @@ export default {
   '2-(Trifluoromethoxy)benzenesulfonamide': 'national unique domain values',
   '2-(Trimethoxysilyl)ethyl heptadecafluorononanoate':
     'national unique domain values',
-  '2-(heptafluoropropyl)-4,5-dihydro-1,3-oxazole': '',
-  '2-(heptafluoropropyl)-4,5-dihydro-1h-imidazole':
+  '2-(heptafluoropropyl)-4,5-dihydro-1,3-oxazole':
     'national unique domain values',
+  '2-(heptafluoropropyl)-4,5-dihydro-1h-imidazole': '',
   '2-(heptafluoropropyl)-6-(trifluoromethyl)-1H-benzimidazole': '',
   "2-(o-Cyanophenoxy)-3'-hydroxy-4'-(perfluorobutyryl)aminotetradecananilide":
     '',
@@ -57698,8 +57719,9 @@ export default {
   '2-Acetoxy-4-(2.2,3,3,3-pentafluoropropoxy)benzoic acid': '',
   '2-Acetylaminofluorene': 'STANDARD NAME (Normalized)',
   '2-Allyloxyperfluoroethanesulfonyl fluoride': 'national unique domain values',
-  '2-Amino-2H-perfluoropropane': 'national unique domain values',
-  '2-Amino-3-(perfluoropropyl)-1-phenyl-3-propanol': '',
+  '2-Amino-2H-perfluoropropane': '',
+  '2-Amino-3-(perfluoropropyl)-1-phenyl-3-propanol':
+    'national unique domain values',
   '2-Amino-4,4,5,5,6,6,6-heptafluorohexan-3-ol': '',
   '2-Amino-4,6-dinitrotoluene': 'CHARACTERISTIC Table',
   '2-Amino-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)phenol': '',
@@ -57731,13 +57753,16 @@ export default {
   '2-Benzothiazoleethanol, .alpha.,.alpha.-bis(trifluoromethyl)-':
     'national unique domain values',
   '2-Benzoyl-5-methoxyphenol': '',
-  '2-Bromo-1,1,1,2,3,3,3-heptafluoropropane': '',
-  '2-Bromo-1,1,1,2,3,3-hexafluoro-3-[(trifluoroethenyl)oxy]propane': '',
+  '2-Bromo-1,1,1,2,3,3,3-heptafluoropropane': 'national unique domain values',
+  '2-Bromo-1,1,1,2,3,3-hexafluoro-3-[(trifluoroethenyl)oxy]propane':
+    'national unique domain values',
   '2-Bromo-1,1,1,2,3,4,4,4-octafluorobutane': 'national unique domain values',
   '2-Bromo-1,1,1,2,4,4,5,5,5-nonafluoropentan-3-one': '',
   '2-Bromo-1,1,1,3,3,4,4,5,5,5-decafluoro-2-(trifluoromethyl)pentane': '',
-  '2-Bromo-1,1,2,3,3,4,5,6,7-nonafluoro-2,3-dihydro-1H-indene': '',
-  '2-Bromo-1,1-dichloro-2,3,3,4,5,6,7-heptafluoro-2,3-dihydro-1H-indene': '',
+  '2-Bromo-1,1,2,3,3,4,5,6,7-nonafluoro-2,3-dihydro-1H-indene':
+    'national unique domain values',
+  '2-Bromo-1,1-dichloro-2,3,3,4,5,6,7-heptafluoro-2,3-dihydro-1H-indene':
+    'national unique domain values',
   '2-Bromo-1,1-dichloroethane':
     'Superfund Amendments and Reauthorization Act (SARA): SARA 110 - Priority List of Hazardous Substances',
   '2-Bromo-1,3-dichloro-5-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzene': '',
@@ -57745,34 +57770,33 @@ export default {
   '2-Bromo-1-chloro-5-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(trifluoromethoxy)benzene':
     'national unique domain values',
   '2-Bromo-1-chloropropane': 'CHARACTERISTIC Table',
-  '2-Bromo-2,3,3,3-tetrafluoropropanamide': 'national unique domain values',
-  '2-Bromo-2,3,3,3-tetrafluoropropanenitrile': '',
-  '2-Bromo-2,3,3,3-tetrafluoropropanoic acid': 'national unique domain values',
+  '2-Bromo-2,3,3,3-tetrafluoropropanamide': '',
+  '2-Bromo-2,3,3,3-tetrafluoropropanenitrile': 'national unique domain values',
+  '2-Bromo-2,3,3,3-tetrafluoropropanoic acid': '',
   '2-Bromo-2,3,3,3-tetrafluoropropanoyl bromide':
     'national unique domain values',
-  '2-Bromo-2,3,3,3-tetrafluoropropanoyl chloride':
+  '2-Bromo-2,3,3,3-tetrafluoropropanoyl chloride': '',
+  '2-Bromo-2,3,3,3-tetrafluoropropanoyl fluoride': '',
+  '2-Bromo-2,3,3,5,6-pentafluoro-2,3-dihydro-1H-inden-1-one':
     'national unique domain values',
-  '2-Bromo-2,3,3,3-tetrafluoropropanoyl fluoride':
-    'national unique domain values',
-  '2-Bromo-2,3,3,5,6-pentafluoro-2,3-dihydro-1H-inden-1-one': '',
-  '2-Bromo-2-(P+D1581erfluorohexyl)ethene': 'national unique domain values',
+  '2-Bromo-2-(P+D1581erfluorohexyl)ethene': '',
   '2-Bromo-2-chloro-N,N-diethyl-1,1,2-trifluoroethan-1-amine':
     'national unique domain values',
   '2-Bromo-3,3,4,4,5,5,5-heptafluoropent-1-ene':
     'national unique domain values',
-  '2-Bromo-3,3,4,4,5,5,6,6,6-nonafluorohex-1-ene':
-    'national unique domain values',
+  '2-Bromo-3,3,4,4,5,5,6,6,6-nonafluorohex-1-ene': '',
   '2-Bromo-3,3,4,4,5,5,6,6,6-nonafluorohexan-1-ol':
     'national unique domain values',
   '2-Bromo-3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctan-1-ol':
     'national unique domain values',
   '2-Bromo-3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodec-1-ene': '',
-  '2-Bromo-3,4,4,4-tetrafluoro-3-(trifluoromethoxy)but-1-ene': '',
-  '2-Bromo-3,4,4,4-tetrafluoro-3-(trifluoromethyl)but-1-ene': '',
+  '2-Bromo-3,4,4,4-tetrafluoro-3-(trifluoromethoxy)but-1-ene':
+    'national unique domain values',
+  '2-Bromo-3,4,4,4-tetrafluoro-3-(trifluoromethyl)but-1-ene':
+    'national unique domain values',
   '2-Bromo-3,4,4,5,5,5-hexafluoro-3-(trifluoromethyl)pent-1-ene': '',
   '2-Bromo-3-(bromomethyl)-4,4,5,5,6,6,6-heptafluorohexan-3-ol': '',
-  '2-Bromo-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-methylaniline':
-    'national unique domain values',
+  '2-Bromo-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-methylaniline': '',
   '2-Bromo-4-(heptadecafluorooctyl)thiophene': 'national unique domain values',
   '2-Bromo-5-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-1,3-dimethylbenzene': '',
   '2-Bromo-5-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-1-methyl-3-(trifluoromethyl)benzene':
@@ -57780,82 +57804,79 @@ export default {
   '2-Bromo-5-(1,2,3,3,4,4,5,5,6,6,6-undecafluorohex-1-enoxy)benzene-1,4-diamine':
     'national unique domain values',
   '2-Bromo-6-(difluoromethoxy)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline':
-    'national unique domain values',
+    '',
   '2-Bromo-6-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline': '',
   '2-Bromochlorobenzene': 'Nemi.gov',
   '2-Bromonaphthalene': '',
-  '2-Bromopentane': 'national unique domain values',
-  '2-Bromophenyl phenyl ether': 'SYSTEMATIC NAME',
+  '2-Bromopentane': 'table unique identifier',
+  '2-Bromophenyl phenyl ether': 'STORETW Provider',
   '2-Bromophenylphenyl Ether': 'STORETW Provider',
-  '2-Bromopropanoic acid': '',
+  '2-Bromopropanoic acid': 'STANDARD NAME (Normalized)',
   '2-Butanamine': 'SRS List Provider',
-  '2-Butanethiol, 1,1,1-trifluoro-4,4-dimethoxy-2-(trifluoromethyl)-':
-    'national unique domain values',
-  '2-Butanol': 'STANDARD NAME (Normalized)',
+  '2-Butanethiol, 1,1,1-trifluoro-4,4-dimethoxy-2-(trifluoromethyl)-': '',
+  '2-Butanol': 'SRS List Provider',
   '2-Butanol, 1,1,1-trifluoro-4-[(1-methylethyl)amino]-2-(trifluoromethyl)-':
     '',
   '2-Butanol, 1-methoxy-': 'SYSTEMATIC NAME',
-  '2-Butanol, 2-methyl-': 'STORETW Provider',
+  '2-Butanol, 2-methyl-': 'SYSTEMATIC NAME',
   '2-Butanol, 3,3,4,4-tetrafluoro-': '',
   '2-Butanol, 3,3,4,4-tetrafluoro-2-methyl-': 'national unique domain values',
-  '2-Butanol, 3,3-dichloro-1,1,1,4,4,4-hexafluoro-2-(trifluoromethyl)-':
-    'national unique domain values',
-  '2-Butanone': 'SYSTEMATIC NAME',
+  '2-Butanol, 3,3-dichloro-1,1,1,4,4,4-hexafluoro-2-(trifluoromethyl)-': '',
+  '2-Butanone': 'STORETW Provider',
   '2-Butanone, 1,1,1,3,4,4,4-heptafluoro-3-(trifluoromethyl)-': '',
   '2-Butanone, 1,1,1,4,4,4-hexafluoro-3,3-bis(trifluoromethyl)-':
     'national unique domain values',
   '2-Butanone, 1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)-':
-    'STORETW Provider',
-  '2-Butanone, 3,3,4,4-tetrafluoro-': 'national unique domain values',
+    'SYSTEMATIC NAME',
+  '2-Butanone, 3,3,4,4-tetrafluoro-': '',
   '2-Butanone, 3,3-dimethyl-': 'STORETW Provider',
-  '2-Butanone, 3-methyl-': 'SYSTEMATIC NAME',
+  '2-Butanone, 3-methyl-': 'STORETW Provider',
   "2-Butanone, O,O',O''-[[3-(1,1,2,2-tetrafluoroethoxy)propyl]silylidyne]oxime,(2E,2'E,2''E)-":
     'national unique domain values',
-  '2-Butanone, peroxide': 'SYSTEMATIC NAME',
+  '2-Butanone, peroxide': 'STORETW Provider',
   '2-Butanone-D5': 'STORETW Provider',
   '2-Butanone-d5': 'STANDARD NAME (Normalized)',
   "2-Buten-1-one, 1,1'-(1,4-phenylene)bis[4,4,4-trifluoro-3-(trifluoromethyl)-":
-    '',
+    'national unique domain values',
   '2-Buten-1-one, 1-(2,5-dichlorophenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
-    'national unique domain values',
+    '',
   '2-Buten-1-one, 1-(2,5-dimethoxyphenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
-    'national unique domain values',
+    '',
   '2-Buten-1-one, 1-(2-chlorophenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
     'national unique domain values',
   '2-Buten-1-one, 1-(2-furyl)-4,4,4-trifluoro-3-trifluoromethyl-':
     'national unique domain values',
-  '2-Buten-1-one, 1-(3-chlorophenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
-    'national unique domain values',
-  '2-Buten-1-one, 1-(4-bromophenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
-    'national unique domain values',
+  '2-Buten-1-one, 1-(3-chlorophenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-': '',
+  '2-Buten-1-one, 1-(4-bromophenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-': '',
   '2-Buten-1-one, 1-(4-chloronaphthalen-1-yl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
+    '',
+  '2-Buten-1-one, 1-(9-anthracenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-':
     'national unique domain values',
-  '2-Buten-1-one, 1-(9-anthracenyl)-4,4,4-trifluoro-3-(trifluoromethyl)-': '',
   "2-Buten-1-one, 2'-nitro-4,4,4-trifluoro-3-(trifluoromethyl)-": '',
   "2-Buten-1-one, 2'-nitro-4,4,4-trifluoro-3-(trifluoromethyl)-***DuplicateSRS_ID*** 1983848":
     'national unique domain values',
-  "2-Buten-1-one, 3'-fluoro-4'-methoxy-4,4,4-trifluoro-3-trifluoromethyl-": '',
-  "2-Buten-1-one, 3'-nitro-4,4,4-trifluoro-3-trifluoromethyl-":
+  "2-Buten-1-one, 3'-fluoro-4'-methoxy-4,4,4-trifluoro-3-trifluoromethyl-":
     'national unique domain values',
-  "2-Buten-1-one, 4'-chloro-3'-nitro-4,4,4-trifluoro-3-(trifluoromethyl)-": '',
+  "2-Buten-1-one, 3'-nitro-4,4,4-trifluoro-3-trifluoromethyl-": '',
+  "2-Buten-1-one, 4'-chloro-3'-nitro-4,4,4-trifluoro-3-(trifluoromethyl)-":
+    'national unique domain values',
   "2-Buten-1-one, 4'-fluoro-4,4,4-trifluoro-3-(trifluoromethyl)-":
     'national unique domain values',
   "2-Buten-1-one, 4'-phenyl-4,4,4-trifluoro- 3-(trifluoromethyl)-":
     'Double spaces (SRS)',
-  "2-Buten-1-one, 4'-phenyl-4,4,4-trifluoro-3-(trifluoromethyl)-": '',
-  '2-Buten-1-one, 4,4,4-trifluoro-1-(1-naphthalenyl)-3-(trifluoromethyl)-':
+  "2-Buten-1-one, 4'-phenyl-4,4,4-trifluoro-3-(trifluoromethyl)-":
     'national unique domain values',
-  '2-Buten-1-one, 4,4,4-trifluoro-1-(2-methoxyphenyl)-3-(trifluoromethyl)-':
-    'national unique domain values',
+  '2-Buten-1-one, 4,4,4-trifluoro-1-(1-naphthalenyl)-3-(trifluoromethyl)-': '',
+  '2-Buten-1-one, 4,4,4-trifluoro-1-(2-methoxyphenyl)-3-(trifluoromethyl)-': '',
   '2-Buten-1-one, 4,4,4-trifluoro-1-(3-methoxyphenyl)-3-(trifluoromethyl)-': '',
-  '2-Buten-1-one, 4,4,4-trifluoro-1-(3-methylphenyl)-3-(trifluoromethyl)-': '',
-  '2-Buten-1-one, 4,4,4-trifluoro-1-(4-methylphenyl)-3-(trifluoromethyl)-':
+  '2-Buten-1-one, 4,4,4-trifluoro-1-(3-methylphenyl)-3-(trifluoromethyl)-':
     'national unique domain values',
+  '2-Buten-1-one, 4,4,4-trifluoro-1-(4-methylphenyl)-3-(trifluoromethyl)-': '',
   '2-Buten-1-one, 4,4,4-trifluoro-1-(5-methyl-2-furanyl)-3-(trifluoromethyl)-':
-    '',
-  '2-Buten-1-one, 4,4,4-trifluoro-1-(thiophen-2-yl)-3-(trifluoromethyl)':
     'national unique domain values',
-  '2-Buten-1-one, 4,4,4-trifluoro-1-phenyl-3-(trifluoromethyl)-': '',
+  '2-Buten-1-one, 4,4,4-trifluoro-1-(thiophen-2-yl)-3-(trifluoromethyl)': '',
+  '2-Buten-1-one, 4,4,4-trifluoro-1-phenyl-3-(trifluoromethyl)-':
+    'national unique domain values',
   '2-Buten-1-one, 4,4,4-trifluoro-2-methyl-1-(thiophen-2-yl)-3-(trifluoromethyl)':
     'national unique domain values',
   '2-Buten-1-one, 4,4,4-trifluoro-2-methyl-1-phenyl-3-(trifluoromethyl)-':
@@ -57863,93 +57884,96 @@ export default {
   '2-Buten-1-one, 4,4,4-trifluoro-3-(trifluoromethyl)-1-[3-(trifluoromethyl)phenyl]-':
     'national unique domain values',
   "2-Buten-1-one, 4,4,4-trifluoro-3-(trifluoromethyl)-3',4',5'-trimethoxy-": '',
-  '2-Butenal': 'SYSTEMATIC NAME',
-  '2-Butenal, 2-methyl-, (2E)-': 'STORETW Provider',
+  '2-Butenal': 'SRS List Provider',
+  '2-Butenal, 2-methyl-, (2E)-': 'SYSTEMATIC NAME',
   '2-Butene, (2Z)-': 'SRS List Provider',
-  '2-Butene, 1,1,1,2,3,4,4,4-octafluoro-': 'national unique domain values',
+  '2-Butene, 1,1,1,2,3,4,4,4-octafluoro-': '',
   '2-Butene, 1,1,1,2,3,4,4-heptafluoro-4-[(1,2,2-trifluoroethenyl)oxy]-': '',
-  '2-Butene, 1,1,1,2,4,4,4-Heptafluoro-3-(trifluoromethyl)-':
-    'national unique domain values',
+  '2-Butene, 1,1,1,2,4,4,4-Heptafluoro-3-(trifluoromethyl)-': '',
   '2-Butene, 1,1,1,2,4,4,4-heptafluoro-': 'national unique domain values',
-  '2-Butene, 1,1,1,4,4,4-hexafluoro-2,3-bis(trifluoromethyl)-': '',
+  '2-Butene, 1,1,1,4,4,4-hexafluoro-2,3-bis(trifluoromethyl)-':
+    'national unique domain values',
   '2-Butene, 1,1,1,4,4,4-hexafluoro-2-(trifluoromethyl)-':
     'national unique domain values',
   '2-Butene, 1,1-dichloro-1,2,3,4,4,4-hexafluoro-': '',
   '2-Butene, 1,4-dichloro-': 'STORETW Provider',
   '2-Butene, 1,4-dichloro-, (2E)-': 'SYSTEMATIC NAME',
-  '2-Butene, 1-(1,1,2,2-tetrafluoroethoxy)-': '',
+  '2-Butene, 1-(1,1,2,2-tetrafluoroethoxy)-': 'national unique domain values',
   '2-Butene, 2,3-dimethyl-': 'table unique identifier',
-  '2-Butene, 2-chloro-1,1,1,3,4,4,4-heptafluoro-':
-    'national unique domain values',
+  '2-Butene, 2-chloro-1,1,1,3,4,4,4-heptafluoro-': '',
   '2-Butene, 2-chloro-1,1,1,4,4,4-hexafluoro-3-(trifluoromethyl)-':
     'national unique domain values',
-  '2-Butene, 4,4-diethoxy-1,1,1-trifluoro-2-(trifluoromethyl)-': '',
+  '2-Butene, 4,4-diethoxy-1,1,1-trifluoro-2-(trifluoromethyl)-':
+    'national unique domain values',
   '2-Butene, 4-bromo-1,1,1-trifluoro-2-(trifluoromethyl)-': '',
-  '2-Butene, 4-chloro-1,1,1-trifluoro-2-(trifluoromethyl)-': '',
+  '2-Butene, 4-chloro-1,1,1-trifluoro-2-(trifluoromethyl)-':
+    'national unique domain values',
   '2-Butenedioic acid (2E)-, bis(.gamma.-.omega.-perfluoro-C4-20-alkyl) esters, polymers with 1-(ethenyloxy)butanol, ethylene, 1,4-hexadiene and propene':
     '',
   '2-Butenedioic acid (2Z)-, 1,4-bis(2-ethylhexyl) ester, polymer with chloroethene, docosyl 2-propenoate, 2-hydroxyethyl 2-methyl-2-propenoate and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-methyl-2-propenoate':
-    'national unique domain values',
+    '',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymer with chloroethene, .alpha.-fluoro-.omega.-[2-[(1-oxo-2- propenyl)oxy]ethyl]poly(difluoromethylene) and N-(hydroxymethyl)-2- propenamide':
     'national unique domain values',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymer with chloroethene, N,N-dimethyl-2-propenamide, .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene) and 2-hydroxyethyl 2-propenoate (9CI)':
-    '',
+    'national unique domain values',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymer with chloroethene, N,N-dimethyl-2-propenamide,.alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), 2-hydroxyethyl 2-propenoate and 2-[[[[[1,3,3-trimethyl-5-[[[[(1-methyl':
     '',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymer withchloroethene and .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene)':
     'national unique domain values',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymers with 2-hydroxyethyl methacrylate-5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane-Me Et ketone oxime reaction product, .gamma.-.omega.-perfluoro-C8-20-alkyl acrylate and vinyl chlorid':
-    '',
+    'national unique domain values',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymers with N,N-dimethyl-2-propenamide, .gamma.-.omega.-perfluoro-C8-20-alkyl acrylate and vinyl chloride':
-    '',
+    'national unique domain values',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymers with N-(hydroxymethyl)-2-propenamide, .gamma.-.omega.-perfluoro-C8-18-alkyl acrylate and vinyl chloride':
-    '',
+    'national unique domain values',
   '2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester, polymers with N-(hydroxymethyl)-2-propenamide,.gamma.-.omega.-perfluoro-C8-20-alkyl acrylate and vinyl chloride':
-    'national unique domain values',
+    '',
   '2-Butenedioic acid (2Z)-, dioctyl ester, polymer with chloroethene and .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene) (9CI)':
-    '',
-  '2-Butenedioic acid (2Z)-, sodium salt, polymer with ethenylbenzene and 2,2,3,3-tetrafluoropropyl hydrogen (2Z)-2-butenedioate':
     'national unique domain values',
-  '2-Butenedioic acid (Z)-, di-C1-20-alkyl esters, polymer with .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), 2-hydroxyethyl acrylate and vinyl chloride':
+  '2-Butenedioic acid (2Z)-, sodium salt, polymer with ethenylbenzene and 2,2,3,3-tetrafluoropropyl hydrogen (2Z)-2-butenedioate':
     '',
+  '2-Butenedioic acid (Z)-, di-C1-20-alkyl esters, polymer with .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), 2-hydroxyethyl acrylate and vinyl chloride':
+    'national unique domain values',
   '2-Butenedioic acid (Z)-, di-C1-20-alkyl esters, polymer with acrylamide N-[(C1-10-alkyloxy)methyl]derivs.,.alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl] poly (difluoromethylene) and vinylchloride':
     '',
   '2-Butenedioic acid(Z)-, mono(2,2,3,3-tetrafluoropropyl)ester, sodium salt, polymer with ethenylbenzene':
-    'national unique domain values',
+    '',
   '2-Butenedioic acid, 1-(2,2,3,3-tetrafluoropropyl) ester, sodium salt (1:1), polymer with ethenylbenzene and sodium 2-but':
     '',
   '2-Butenedioic acid, 1-(2,2,3,3-tetrafluoropropyl) ester, sodium salt (1:1), polymer with ethenylbenzene and sodium 2-butenedioate (2:1)':
-    'national unique domain values',
+    '',
   '2-Butenedioic acid, 2-methyl-, (2Z)-, polymers with .gamma.-.omega.-perfluoro-C8-16-alkyl acrylate, stearyl acrylate and styrene':
-    'national unique domain values',
+    '',
   '2-Butenedioic acid,mono(2,2,3,3-tetrafluoropropyl) ester, ion(1-)': '',
-  '2-Butenenitrile, 4,4,4-trifluoro-3-(trifluoromethyl)-': '',
+  '2-Butenenitrile, 4,4,4-trifluoro-3-(trifluoromethyl)-':
+    'national unique domain values',
   '2-Butenoic acid, 2(or 4)-isooctyl-4,6(or 2,6)-dinitrophenyl ester':
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   '2-Butenoic acid, 2,3,4,4,4-pentafluoro-, ethyl ester':
     'national unique domain values',
-  '2-Butenoic acid, 3,4,4,4-tetrafluoro-, ethyl ester': '',
-  '2-Butenoic acid, 3-[(dimethoxyphosphinyl)oxy]-,': 'STORETW Provider',
+  '2-Butenoic acid, 3,4,4,4-tetrafluoro-, ethyl ester':
+    'national unique domain values',
+  '2-Butenoic acid, 3-[(dimethoxyphosphinyl)oxy]-,': 'SYSTEMATIC NAME',
   '2-Butenoic acid, 3-[(dimethoxyphosphinyl)oxy]-, 1-phenylethyl ester, (2E)-':
-    'STORETW Provider',
+    'SYSTEMATIC NAME',
   '2-Butenoic acid, 3-[(dimethoxyphosphinyl)oxy]-, methyl ester':
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   '2-Butenoic acid, 3-[[(ethylamino)methoxyphosphinothioyl]oxy]-, 1-methylethyl ester, (2E)-':
     'SYSTEMATIC NAME',
   '2-Butenoic acid, 4,4,4-trifluoro-3-(trifluoromethyl)-, ethyl ester':
     'national unique domain values',
   '2-Butenoic acid, 4,4,4-trifluoro-3-(trifluoromethyl)-, methyl ester': '',
   '2-Butenoic acid, 4,4,4-trifluoro-3-(trifluoromethyl)-, trimethylsilyl ester':
-    '',
-  '2-Butenoic acid, methyl ester, (2E)-': 'STORETW Provider',
+    'national unique domain values',
+  '2-Butenoic acid, methyl ester, (2E)-': 'SYSTEMATIC NAME',
   '2-Butoxy-2-oxoethyl butyl phthalate': 'CHARACTERISTIC Table',
   '2-Butoxyethanol': 'SRS List Provider',
-  '2-Butyl-2,3,3,4,4,5,5-heptafluorooxolane': '',
+  '2-Butyl-2,3,3,4,4,5,5-heptafluorooxolane': 'national unique domain values',
   '2-Butyl-2-methyl-1,3-dioxane': 'STANDARD NAME (Normalized)',
   '2-Butyl-5,6,6,7,7,8,8,8-octafluorooct-4-enoic acid':
     'national unique domain values',
   '2-Butyloctanol': 'STORETW Provider',
-  '2-Butyne, 1,4-dichloro-': 'SYSTEMATIC NAME',
+  '2-Butyne, 1,4-dichloro-': 'STORETW Provider',
   '2-C-(Heptafluoropropyl)-?-D-ribofuranose': 'national unique domain values',
   '2-C-(Nonafluorobutyl)-?-L-ribofuranose': 'national unique domain values',
   '2-CHLORO-4,6-DIAMINO-S-TRIAZINE': 'ATTAINS.parameter',
@@ -57982,17 +58006,19 @@ export default {
     'national unique domain values',
   '2-Chloro-1,1,3,4,4,5,5,6,6,8-decafluorooct-1-ene':
     'national unique domain values',
-  '2-Chloro-1,1,3,4,4,5,6,6,6-nonafluoro-5-(trifluoromethyl)hex-1-ene': '',
-  '2-Chloro-1,1,3,4,4,5,6,6,6-nonafluorohex-1-ene': '',
-  '2-Chloro-1,3-dinitro-5-(trifluoromethyl)benzene': '',
+  '2-Chloro-1,1,3,4,4,5,6,6,6-nonafluoro-5-(trifluoromethyl)hex-1-ene':
+    'national unique domain values',
+  '2-Chloro-1,1,3,4,4,5,6,6,6-nonafluorohex-1-ene':
+    'national unique domain values',
+  '2-Chloro-1,3-dinitro-5-(trifluoromethyl)benzene':
+    'national unique domain values',
   '2-Chloro-1-(2,4-dichlorophenyl)vinyl diethyl phosphate': 'SRS List Provider',
   '2-Chloro-1-(chlorodifluoromethoxy)-1,1,2-trifluoroethane': '',
-  '2-Chloro-1-phenylethanol': 'CHARACTERISTIC Table',
+  '2-Chloro-1-phenylethanol': 'STANDARD NAME (Normalized)',
   "2-Chloro-2',6'-diethylacetanilide***retired***use Acetamide, 2-chloro-N-(2,6-diethylphenyl)-":
-    'CHARACTERISTIC Table',
+    'STANDARD NAME (Normalized)',
   '2-Chloro-2,3,3,3-tetrafluoropropanoic acid': 'national unique domain values',
-  '2-Chloro-2,3,3,3-tetrafluoropropanoyl bromide':
-    'national unique domain values',
+  '2-Chloro-2,3,3,3-tetrafluoropropanoyl bromide': '',
   '2-Chloro-2,3,3,3-tetrafluoropropanoyl chloride':
     'national unique domain values',
   '2-Chloro-2,3,3,3-tetrafluoropropanoyl fluoride':
@@ -58044,15 +58070,15 @@ export default {
   '2-Chloro-4-isopropylamino-6-amino-s-triazine': 'STANDARD NAME (Normalized)',
   '2-Chloro-4-methoxyphenyl nonafluorobutane-1-sulfonate':
     'national unique domain values',
-  '2-Chloro-5-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)pyridine':
-    'national unique domain values',
+  '2-Chloro-5-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)pyridine': '',
   '2-Chloro-5-[4-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]pyrazol-1-yl]benzoic acid':
     'national unique domain values',
   '2-Chloro-5-[4-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]pyrazol-1-yl]pyridine-3-carboxylic acid':
-    'national unique domain values',
+    '',
   '2-Chloro-6-(difluoromethoxy)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline':
     '',
-  '2-Chloro-6-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline': '',
+  '2-Chloro-6-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline':
+    'national unique domain values',
   '2-Chloro-6-ethylamino-4-amino-s-triazine': 'STANDARD NAME (Normalized)',
   '2-Chloro-6-iodo-4-(trifluoromethyl)aniline': 'national unique domain values',
   '2-Chloro-6-nitrotoluene': 'Nemi.gov',
@@ -58060,7 +58086,8 @@ export default {
     'national unique domain values',
   "2-Chloro-N-(1-cyanocyclopropyl)-5-(1'-methyl-3'-(1,1,2,2,2-pentafluoroethyl)-4'-(trifluoromethyl)(1,5'-bi-1H-pyrazol)-4-yl)benzamide":
     '',
-  '2-Chloro-N-(2,2,3,3,3-pentafluoropropyl)acetamide': '',
+  '2-Chloro-N-(2,2,3,3,3-pentafluoropropyl)acetamide':
+    'national unique domain values',
   '2-Chloro-N-(2-ethyl-6-methylphenyl)acetamide': '',
   '2-Chloro-N-(2-ethylphenyl)-2,3,3,3-tetrafluoropropanamide': '',
   '2-Chloro-N-[3-[[2,6-dibromo-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)phenyl]carbamoyl]-2-fluorophenyl]-N-methylpyridine-3-carboxamide':
@@ -58155,26 +58182,26 @@ export default {
   '2-Dimethylamino quinoline': 'STANDARD NAME (Normalized)',
   '2-ETHOXYETHANOL': 'ATTAINS.parameter',
   '2-Ethoxy-2-methylpropanal': '',
-  '2-Ethoxy-d5-phenol': 'CHARACTERISTIC Table',
-  '2-Ethoxyethanol': 'CHARACTERISTIC Table',
+  '2-Ethoxy-d5-phenol': 'STANDARD NAME (Normalized)',
+  '2-Ethoxyethanol': 'STANDARD NAME (Normalized)',
   '2-Ethyl-1,1,3-trimethylcyclohexane': '',
   '2-Ethyl-1,1-dimethylcyclopentane': '',
   '2-Ethyl-1,3-hexanediol': 'CHARACTERISTIC Table',
   '2-Ethyl-1-butene': 'national unique domain values',
   '2-Ethyl-1-hexanol': 'SRS List Provider',
-  '2-Ethyl-1-hexyl 2,3,4,5-tetrabromobenzoate': 'national unique domain values',
-  '2-Ethyl-1-octene': '',
-  '2-Ethyl-1-pentanol': 'table unique identifier',
+  '2-Ethyl-1-hexyl 2,3,4,5-tetrabromobenzoate': '',
+  '2-Ethyl-1-octene': 'national unique domain values',
+  '2-Ethyl-1-pentanol': 'national unique domain values',
   '2-Ethyl-2-Methyl-1,3-Dioxolane': 'STORETW Provider',
-  '2-Ethyl-2-methyl-1,3-dioxolane': 'CHARACTERISTIC Table',
+  '2-Ethyl-2-methyl-1,3-dioxolane': 'STANDARD NAME (Normalized)',
   '2-Ethyl-2-phenylmalonamide': '',
-  '2-Ethyl-3,3,4,4,5,5,5-heptafluoropentan-1-amine-hydrogen chloride (1:1)':
-    'national unique domain values',
+  '2-Ethyl-3,3,4,4,5,5,5-heptafluoropentan-1-amine-hydrogen chloride (1:1)': '',
   '2-Ethyl-3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanal':
     'national unique domain values',
   '2-Ethyl-3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanal (2,4-dinitrophenyl)hydrazone':
     '',
-  '2-Ethyl-3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanoic acid': '',
+  '2-Ethyl-3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanoic acid':
+    'national unique domain values',
   '2-Ethyl-3,4,4,5,5,6,6,7,7,8,8,8-dodecafluorooct-2-enal': '',
   '2-Ethyl-3-(ethylsulfanyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
     '',
@@ -58182,73 +58209,72 @@ export default {
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(2-methylpropane-1-sulfinyl)benzoic acid':
     '',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(2-methylpropane-1-sulfonyl)benzoic acid':
-    'national unique domain values',
+    '',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(2-methylpropane-2-sulfinyl)benzoic acid':
     'national unique domain values',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(2-methylpropane-2-sulfonyl)benzoic acid':
-    'national unique domain values',
+    '',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(methanesulfinyl)benzoic acid':
     'national unique domain values',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(methanesulfonyl)benzoic acid':
     'national unique domain values',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(methylsulfanyl)benzoic acid':
-    '',
+    'national unique domain values',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(propane-1-sulfinyl)benzoic acid':
-    '',
+    'national unique domain values',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(propane-1-sulfonyl)benzoic acid':
     '',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(propane-2-sulfinyl)benzoic acid':
     'national unique domain values',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(propane-2-sulfonyl)benzoic acid':
-    'national unique domain values',
+    '',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(propylsulfanyl)benzoic acid':
-    '',
-  '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-[(2-methylpropyl)sulfanyl]benzoic acid':
-    '',
-  '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-[(propan-2-yl)sulfanyl]benzoic acid':
     'national unique domain values',
+  '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-[(2-methylpropyl)sulfanyl]benzoic acid':
+    'national unique domain values',
+  '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-[(propan-2-yl)sulfanyl]benzoic acid':
+    '',
   '2-Ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)aniline': '',
-  '2-Ethyl-4-methyl-1,3-dioxolane': 'CHARACTERISTIC Table',
+  '2-Ethyl-4-methyl-1,3-dioxolane': 'STANDARD NAME (Normalized)',
   '2-Ethyl-4-methyl-1-pentanol': 'STANDARD NAME (Normalized)',
   '2-Ethyl-6-methylaniline': 'CHARACTERISTIC Table',
   '2-Ethyl-M-Xylene': 'STORETW Provider',
   '2-Ethyl-P-Xylene': 'STORETW Provider',
-  '2-Ethyl-m-xylene': 'STANDARD NAME (Normalized)',
+  '2-Ethyl-m-xylene': 'CHARACTERISTIC Table',
   '2-Ethyl-p-xylene': 'CHARACTERISTIC Table',
   '2-Ethylhexanal': 'national unique domain values',
   '2-Ethylhexanoic Acid': 'STORETW Provider',
-  '2-Ethylhexanoic acid': 'CHARACTERISTIC Table',
-  '2-Ethylhexanol': 'CHARACTERISTIC Table',
+  '2-Ethylhexanoic acid': 'STANDARD NAME (Normalized)',
+  '2-Ethylhexanol': 'STANDARD NAME (Normalized)',
   '2-Ethylhexyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate':
     'national unique domain values',
-  '2-Ethylhexyl 2-cyano-3,3-diphenylacrylate': '',
-  '2-Ethylhexyl 4-methoxycinnamate': 'national unique domain values',
+  '2-Ethylhexyl 2-cyano-3,3-diphenylacrylate': 'national unique domain values',
+  '2-Ethylhexyl 4-methoxycinnamate': '',
   '2-Ethylhexyl Diphenyl Phosphate': 'STORETW Provider',
-  '2-Ethylhexyl diphenyl phosphate': 'STANDARD NAME (Normalized)',
-  '2-Ethylnaphthalene': 'STORETW Provider',
-  '2-Ethylpyridine': 'national unique domain values',
+  '2-Ethylhexyl acrylate': 'national unique domain values',
+  '2-Ethylhexyl diphenyl phosphate': 'CHARACTERISTIC Table',
+  '2-Ethylnaphthalene': 'CHARACTERISTIC Table',
+  '2-Ethylpyridine': '',
   '2-Ethyltoluene': '',
   '2-Fluorene': 'SYSTEMATIC NAME',
-  '2-Fluoro-1-methyl-4-(1,1,2,2,2-pentafluoroethyl)benzene':
-    'national unique domain values',
+  '2-Fluoro-1-methyl-4-(1,1,2,2,2-pentafluoroethyl)benzene': '',
   '2-Fluoro-2-(pentafluoroethyl)-3,3-bis(trifluoromethyl)oxirane': '',
   '2-Fluoro-2-(trifluoromethyl)pent-4-enoic acid': '',
   '2-Fluoro-2-[1,1,2,2,3,3-hexafluoro-3-(1,1,2,2,3,3,3-heptafluoropropoxy)propoxy]acetic acid':
     'national unique domain values',
   '2-Fluoro-2-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]acetic acid':
-    'national unique domain values',
-  '2-Fluoro-3-(4-fluoro-2-nitrobenzamido)-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     '',
+  '2-Fluoro-3-(4-fluoro-2-nitrobenzamido)-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
+    'national unique domain values',
   '2-Fluoro-3-[(2-fluorobenzoyl)-methylamino]-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-iodo-6-(trifluoromethyl)phenyl]benzamide':
     '',
-  '2-Fluoro-4,6-bis(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-1,3,5-triazine':
-    'national unique domain values',
-  '2-Fluoro-4-(nonafluorobutyl)aniline': 'national unique domain values',
+  '2-Fluoro-4,6-bis(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-1,3,5-triazine': '',
+  '2-Fluoro-4-(nonafluorobutyl)aniline': '',
   '2-Fluoro-4-Nitrophenol Potassium Salt': 'STORETW Provider',
-  '2-Fluoro-4-nitrophenol potassium salt': 'CHARACTERISTIC Table',
+  '2-Fluoro-4-nitrophenol potassium salt': 'STANDARD NAME (Normalized)',
   '2-Fluoro-6-nitrophenol': 'CHARACTERISTIC Table',
-  '2-Fluorobiphenyl': 'STANDARD NAME (Normalized)',
-  '2-Fluoroethyl pentafluoropropanoate': 'national unique domain values',
+  '2-Fluorobiphenyl': 'STORETW Provider',
+  '2-Fluoroethyl pentafluoropropanoate': '',
   '2-Fluorophenatole': '',
   '2-Fluorophenol': '',
   '2-Furancarbonyl fluoride, 2,3,3,4,4,5,5-heptafluorotetrahydro-': '',
@@ -58257,24 +58283,25 @@ export default {
   '2-Furanol, 3,3,4,4-tetrafluorotetrahydro-': '',
   '2-HEXANONE': 'ATTAINS.parameter',
   '2-HYDROXYATRAZINE': 'ATTAINS.parameter',
-  '2-Heptanone': 'STANDARD NAME (Normalized)',
-  '2-Hexanol': 'CHARACTERISTIC Table',
+  '2-Heptanone': 'STORETW Provider',
+  '2-Hexanol': 'STANDARD NAME (Normalized)',
   '2-Hexanol, 3,3,4,4,5,5,6,6,6-nonafluoro-': '',
-  '2-Hexanone': 'STANDARD NAME (Normalized)',
+  '2-Hexanone': 'SRS List Provider',
   '2-Hexanone-D5': 'STORETW Provider',
-  '2-Hexanone-d5': 'GLENDA contact (klewin.kenneth@epa.gov ',
-  '2-Hexene, 1,1,1-trifluoro-5,5-dimethyl-2-(trifluoromethyl)-': '',
-  '2-Hexene, 4-chloro-1,1,1-trifluoro-5-methyl-2-(trifluoromethyl)-':
+  '2-Hexanone-d5': 'STANDARD NAME (Normalized)',
+  '2-Hexene, 1,1,1-trifluoro-5,5-dimethyl-2-(trifluoromethyl)-':
     'national unique domain values',
-  '2-Hexenoic acid, 3,4,4,5,5,6,6,6-octafluoro': '',
-  '2-Hexynoic acid, 4,4,5,5,6,6-hexafluoro-': 'national unique domain values',
+  '2-Hexene, 4-chloro-1,1,1-trifluoro-5-methyl-2-(trifluoromethyl)-': '',
+  '2-Hexenoic acid, 3,4,4,5,5,6,6,6-octafluoro':
+    'national unique domain values',
+  '2-Hexynoic acid, 4,4,5,5,6,6-hexafluoro-': '',
   '2-Hydrido-perfluorodecanoic acid': 'national unique domain values',
-  '2-Hydrido-perfluoropentadecanoic acid': '',
+  '2-Hydrido-perfluoropentadecanoic acid': 'national unique domain values',
   '2-Hydrido-perfluorotetradecanoic acid': '',
   '2-Hydroxy-3-({3-[(2-hydroxyethyl)(dimethyl)azaniumyl]propyl}[(perfluorobutyl)sulfonyl]amino)-1-propanesulfonate':
     '',
   '2-Hydroxy-3-({3-[(2-hydroxyethyl)(dimethyl)azaniumyl]propyl}[(perfluorododecyl)sulfonyl]amino)-1-propanesulfonate':
-    '',
+    'national unique domain values',
   '2-Hydroxy-3-({3-[(2-hydroxyethyl)(dimethyl)azaniumyl]propyl}[(perfluoroethyl)sulfonyl]amino)-1-propanesulfonate':
     '',
   '2-Hydroxy-3-({3-[(2-hydroxyethyl)(dimethyl)azaniumyl]propyl}[(perfluoroheptyl)sulfonyl]amino)-1-propanesulfonate':
@@ -58286,32 +58313,30 @@ export default {
   '2-Hydroxy-3-({3-[(2-hydroxyethyl)(dimethyl)azaniumyl]propyl}[(perfluoropentyl)sulfonyl]amino)-1-propanesulfonate':
     '',
   '2-Hydroxy-3-({3-[(2-hydroxyethyl)(dimethyl)azaniumyl]propyl}[(perfluoroundecyl)sulfonyl]amino)-1-propanesulfonate':
-    '',
-  '2-Hydroxy-3-[(2-hydroxyethyl)[(nonafluorobutyl)sulfonyl]amino]propanesulfonic acid monoammonium salt':
     'national unique domain values',
+  '2-Hydroxy-3-[(2-hydroxyethyl)[(nonafluorobutyl)sulfonyl]amino]propanesulfonic acid monoammonium salt':
+    '',
   '2-Hydroxy-3-[(4,4,5,5,5-pentafluoropentanoyl)sulfanyl]propanoic acid':
     'national unique domain values',
   '2-Hydroxy-3-[(4,4,5,5,6,6,7,7,7-nonafluoroheptanoyl)sulfanyl]-3-oxopropanoic acid':
     'national unique domain values',
-  '2-Hydroxy-3-[(perfluoroheptyl)methoxy]propyl heneicosanoate':
+  '2-Hydroxy-3-[(perfluoroheptyl)methoxy]propyl heneicosanoate': '',
+  '2-Hydroxy-3-[(perfluorohexyl)ethoxy]propyl 2-propenoate':
     'national unique domain values',
-  '2-Hydroxy-3-[(perfluorohexyl)ethoxy]propyl 2-propenoate': '',
-  '2-Hydroxy-3-[(perfluorohexyl)ethoxy]propyl triacontanoate': '',
-  '2-Hydroxy-3-[[3-(perfluorobutyl)propanoyl]sulfanyl]propanoic acid':
+  '2-Hydroxy-3-[(perfluorohexyl)ethoxy]propyl triacontanoate':
     'national unique domain values',
+  '2-Hydroxy-3-[[3-(perfluorobutyl)propanoyl]sulfanyl]propanoic acid': '',
   '2-Hydroxy-3-[[3-(perfluorodecyl)propanoyl]sulfanyl]propanoic acid': '',
-  '2-Hydroxy-3-[[3-(perfluorododecyl)propanoyl]sulfanyl]propanoic acid':
-    'national unique domain values',
+  '2-Hydroxy-3-[[3-(perfluorododecyl)propanoyl]sulfanyl]propanoic acid': '',
   '2-Hydroxy-3-[[3-(perfluoroheptyl)propanoyl]sulfanyl]propanoic acid':
     'national unique domain values',
   '2-Hydroxy-3-[[3-(perfluorohexyl)propanoyl]sulfanyl]propanoic acid': '',
   '2-Hydroxy-3-[[3-(perfluorononyl)propanoyl]sulfanyl]propanoic acid':
     'national unique domain values',
-  '2-Hydroxy-3-[[3-(perfluorooctyl)propanoyl]sulfanyl]propanoic acid':
+  '2-Hydroxy-3-[[3-(perfluorooctyl)propanoyl]sulfanyl]propanoic acid': '',
+  '2-Hydroxy-3-[[3-(perfluoropentyl)propanoyl]sulfanyl]propanoic acid':
     'national unique domain values',
-  '2-Hydroxy-3-[[3-(perfluoropentyl)propanoyl]sulfanyl]propanoic acid': '',
-  '2-Hydroxy-3-[[3-(perfluoroundecyl)propanoyl]sulfanyl]propanoic acid':
-    'national unique domain values',
+  '2-Hydroxy-3-[[3-(perfluoroundecyl)propanoyl]sulfanyl]propanoic acid': '',
   '2-Hydroxy-3-[ethyl[(nonafluorobutyl)sulfonyl]amino]propanesulfonic acid monoammonium salt':
     'national unique domain values',
   '2-Hydroxy-3-oxo-3-[(4,4,5,5,5-pentafluoropentanoyl)sulfanyl]propanoic acid':
@@ -58322,30 +58347,28 @@ export default {
     'national unique domain values',
   '2-Hydroxy-3-oxo-3-[[3-(perfluorododecyl)propanoyl]sulfanyl]propanoic acid':
     '',
-  '2-Hydroxy-3-oxo-3-[[3-(perfluorohexyl)propanoyl]sulfanyl]propanoic acid':
-    'national unique domain values',
+  '2-Hydroxy-3-oxo-3-[[3-(perfluorohexyl)propanoyl]sulfanyl]propanoic acid': '',
   '2-Hydroxy-3-oxo-3-[[3-(perfluorononyl)propanoyl]sulfanyl]propanoic acid': '',
   '2-Hydroxy-3-oxo-3-[[3-(perfluorooctyl)propanoyl]sulfanyl]propanoic acid':
     'national unique domain values',
   '2-Hydroxy-3-oxo-3-[[3-(perfluoropentyl)propanoyl]sulfanyl]propanoic acid':
     'national unique domain values',
   '2-Hydroxy-3-oxo-3-[[3-(perfluoroundecyl)propanoyl]sulfanyl]propanoic acid':
-    '',
+    'national unique domain values',
   '2-Hydroxy-4-(n-octyloxy)benzophenone': '',
   '2-Hydroxy-4-isopropylamino-6-amino-s-triazine':
-    '2-Hydroxy-4-isopropylamino-6-amino-s-triazine',
-  '2-Hydroxy-4-methoxybenzophenone': 'STANDARD NAME (Normalized)',
-  '2-Hydroxy-4-methyl-N-(1-oxo-3H-2-benzofuran-5-yl)-2-(1,1,2,2,2-pentafluoroethyl)-4-phenylpentanamide':
     'national unique domain values',
-  '2-Hydroxy-6-ethylamino-4-amino-s-triazine':
-    '2-Hydroxy-6-ethylamino-4-amino-s-triazine',
+  '2-Hydroxy-4-methoxybenzophenone': 'CHARACTERISTIC Table',
+  '2-Hydroxy-4-methyl-N-(1-oxo-3H-2-benzofuran-5-yl)-2-(1,1,2,2,2-pentafluoroethyl)-4-phenylpentanamide':
+    '',
+  '2-Hydroxy-6-ethylamino-4-amino-s-triazine': 'national unique domain values',
   '2-Hydroxy-N,N,N-trimethyl-3-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctane-1-sulfinyl)propan-1-aminium':
     'national unique domain values',
   '2-Hydroxy-N,N,N-trimethyl-3-[(perfluorobutyl)ethylthio]-1-propanaminium': '',
   '2-Hydroxy-N,N-dimethyl-3-sulfo-N-[3-[[(perfluoroheptyl)sulfonyl]amino]propyl]-1-propanaminium':
-    '',
-  '2-Hydroxy-N,N-dimethyl-3-sulfo-N-[3-[[(perfluorohexyl)sulfonyl]amino]propyl]-1-propanaminium':
     'national unique domain values',
+  '2-Hydroxy-N,N-dimethyl-3-sulfo-N-[3-[[(perfluorohexyl)sulfonyl]amino]propyl]-1-propanaminium':
+    '',
   '2-Hydroxy-N,N-dimethyl-3-sulfo-N-[3-[[(perfluorooctyl)sulfonyl]amino]propyl]-1-propanaminium':
     '',
   '2-Hydroxy-N,N-dimethyl-3-sulfo-N-[3-[[(perfluorooctyl)sulfonyl]amino]propyl]-1-propanaminium inner salt':
@@ -58353,27 +58376,27 @@ export default {
   '2-Hydroxy-N,N-dimethyl-3-sulfo-N-[3-[[(perfluoropentyl)sulfonyl]amino]propyl]-1-propanaminium':
     'national unique domain values',
   '2-Hydroxy-N,N-dimethyl-3-sulfo-N-[3-[[(perfluoropropyl)sulfonyl]amino]propyl]-1-propanaminium':
-    'national unique domain values',
+    '',
   '2-Hydroxy-N,N-dimethyl-N-{3-[(pentafluoroethanesulfonyl)amino]propyl}-3-sulfopropan-1-aminium':
     'national unique domain values',
   '2-Hydroxy-N,N-dimethyl-N-{3-[(perfluorobutanesulfonyl)amino]propyl}-3-sulfopropan-1-aminium':
-    'national unique domain values',
+    '',
   '2-Hydroxy-N,N-dimethyl-N-{3-[(perfluorodecanesulfonyl)amino]propyl}-3-sulfopropan-1-aminium':
-    '',
+    'national unique domain values',
   '2-Hydroxy-N,N-dimethyl-N-{3-[(perfluorododecanesulfonyl)amino]propyl}-3-sulfopropan-1-aminium':
-    'national unique domain values',
+    '',
   '2-Hydroxy-N,N-dimethyl-N-{3-[(perfluoroundecanesulfonyl)amino]propyl}-3-sulfopropan-1-aminium':
-    '',
-  '2-Hydroxy-N,N-dimethyl-N-{3-perfluoro-1-sulfonylnonadecyl)amino]propyl}-3-sulfo-1-propanaminium':
     'national unique domain values',
+  '2-Hydroxy-N,N-dimethyl-N-{3-perfluoro-1-sulfonylnonadecyl)amino]propyl}-3-sulfo-1-propanaminium':
+    '',
   '2-Hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-3-{[(perfluorobutyl)sulfonyl]amino}-1-propanaminium':
-    '',
+    'national unique domain values',
   '2-Hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-3-{[(perfluorododecyl)sulfonyl]amino}-1-propanaminium':
-    '',
+    'national unique domain values',
   '2-Hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-3-{[(perfluoroethyl)sulfonyl]amino}-1-propanaminium':
-    '',
+    'national unique domain values',
   '2-Hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-3-{[(perfluoroheptyl)sulfonyl]amino}-1-propanaminium':
-    '',
+    'national unique domain values',
   '2-Hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-3-{[(perfluorohexyl)sulfonyl]amino}-1-propanaminium':
     '',
   '2-Hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-3-{[(perfluorononyl)sulfonyl]amino}-1-propanaminium':
@@ -58385,7 +58408,7 @@ export default {
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluorobutyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
     'national unique domain values',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluorodecyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
-    'national unique domain values',
+    '',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluorododecyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
     'national unique domain values',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluoroethyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
@@ -58393,22 +58416,22 @@ export default {
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluoroheptyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
     'national unique domain values',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluorohexyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
-    'national unique domain values',
+    '',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluorononyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
     'national unique domain values',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluorooctyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
     'national unique domain values',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluoropentyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
-    '',
+    'national unique domain values',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluoropropyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
     '',
   '2-Hydroxy-N-(3-{(2-hydroxy-3-sulfopropyl)[(perfluoroundecyl)sulfonyl]amino}propyl)-N,N-dimethyl-3-sulfo-1-propanaminium':
-    '',
+    'national unique domain values',
   '2-Hydroxy-ibuprofen-D6': '',
   '2-Hydroxyatrazine': 'STANDARD NAME (Normalized)',
   '2-Hydroxyethyl 2,3-dichloro-2,3,3-trifluoropropanoate': '',
   '2-Hydroxyethyl 4-[(1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoronon-1-en-1-yl)oxy]benzoate':
-    'national unique domain values',
+    '',
   '2-Hydroxyethyl heptadecafluorononanoate': 'national unique domain values',
   '2-Imidazolidinethione': 'STORETW Provider',
   '2-Imidazolidinone, 1-[(6-chloro-3-pyridinyl)methyl]-': '',
@@ -58433,127 +58456,126 @@ export default {
   '2-METHYLPYRIDINE': 'ATTAINS.parameter',
   '2-MOBDE': 'CHARACTERISTIC Table',
   '2-Mercaptobenzothiazole': '',
-  '2-Methoxy-2-methylpropanal': '',
+  '2-Methoxy-2-methylpropanal': 'national unique domain values',
   '2-Methoxyethanol': 'STANDARD NAME (Normalized)',
-  '2-Methoxyethyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate':
-    'national unique domain values',
-  '2-Methybenzothiazole': 'STANDARD NAME (Normalized)',
+  '2-Methoxyethyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate': '',
+  '2-Methybenzothiazole': 'table unique identifier',
   '2-Methyl(nonafluorobutyl)sulfonylaminoethyl 2-propenoate telomer with 2-mercaptoethanol':
-    'national unique domain values',
+    '',
   '2-Methyl-1,1,1,2,3,3,4,4,5,5,5-undecafluoropentane': '',
   '2-Methyl-1,3-dioxolane': 'STANDARD NAME (Normalized)',
-  '2-Methyl-1,3-pentanediol': 'STANDARD NAME (Normalized)',
+  '2-Methyl-1,3-pentanediol': 'CHARACTERISTIC Table',
   '2-Methyl-1,4-napthoquinone': 'SRS List Provider',
-  '2-Methyl-1-(1,1,2,2-tetrafluoroethyl)-1H-imidazole': '',
-  '2-Methyl-1-Butanol': 'STORETW Provider',
-  '2-Methyl-1-[4-(pentafluoroethoxy)phenyl]propan-1-one':
+  '2-Methyl-1-(1,1,2,2-tetrafluoroethyl)-1H-imidazole':
     'national unique domain values',
-  '2-Methyl-1-butanol': 'CHARACTERISTIC Table',
-  '2-Methyl-1-butene': '',
-  '2-Methyl-1-heptene': 'national unique domain values',
-  '2-Methyl-1-pentene': 'national unique domain values',
-  '2-Methyl-1-phenyl-1-butene': 'CHARACTERISTIC Table',
+  '2-Methyl-1-Butanol': 'STORETW Provider',
+  '2-Methyl-1-[4-(pentafluoroethoxy)phenyl]propan-1-one': '',
+  '2-Methyl-1-butanol': 'STANDARD NAME (Normalized)',
+  '2-Methyl-1-butene': 'national unique domain values',
+  '2-Methyl-1-heptene': '',
+  '2-Methyl-1-pentene': 'table unique identifier',
+  '2-Methyl-1-phenyl-1-butene': 'STANDARD NAME (Normalized)',
   '2-Methyl-2,4-pentanediol': 'SRS List Provider',
   '2-Methyl-2-[3-(2-(perfluorododecyl)ethanesulfinyl)propanamido]propane-1-sulfonic acid':
-    'national unique domain values',
-  '2-Methyl-2-[3-(2-(perfluorododecyl)ethanesulfonyl)propanamido]propane-1-sulfonic acid':
     '',
+  '2-Methyl-2-[3-(2-(perfluorododecyl)ethanesulfonyl)propanamido]propane-1-sulfonic acid':
+    'national unique domain values',
   '2-Methyl-2-[3-(2-(perfluorotetradecyl)ethanesulfinyl)propanamido]propane-1-sulfonic acid':
     '',
   '2-Methyl-2-[3-(2-(perfluorotetradecyl)ethanesulfonyl)propanamido]propane-1-sulfonic acid':
-    '',
+    'national unique domain values',
   '2-Methyl-2-[3-(3,3,4,4,4-pentafluorobutanesulfinyl)propanamido]propane-1-sulfonic acid':
     '',
   '2-Methyl-2-[3-(3,3,4,4,4-pentafluorobutanesulfonyl)propanamido]propane-1-sulfonic acid':
-    'national unique domain values',
+    '',
   '2-Methyl-2-[3-(3,3,4,4,5,5,6,6,6-nonafluorohexylsulfonyl)propanoylamino]propane-1-sulfonic acid':
-    'national unique domain values',
+    '',
   '2-Methyl-2-[3-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctane-1-sulfinyl)propanamido]propane-1-sulfonatato':
     '',
   '2-Methyl-2-[3-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctane-1-sulfonyl)propanamido]propane-1-sulfonatato':
-    '',
+    'national unique domain values',
   '2-Methyl-2-[[1-oxo-3-[(3,3,4,4,5,5, 6,6,7,7,8,8,8-tridecafluorooctyl)thio]propyl]amino]-1-propanesulfonic acid magnesium salt (2:1)':
-    '',
+    'national unique domain values',
   '2-Methyl-2-butanol': 'CHARACTERISTIC Table',
-  '2-Methyl-2-butene': '',
-  '2-Methyl-2-butene & 1-pentene': 'national unique domain values',
+  '2-Methyl-2-butene': 'national unique domain values',
+  '2-Methyl-2-butene & 1-pentene': '',
   '2-Methyl-2-cyclopenten-1-one': '',
   '2-Methyl-2-heptene': 'national unique domain values',
-  '2-Methyl-2-hexene': '',
+  '2-Methyl-2-hexene': 'national unique domain values',
   '2-Methyl-2-nitropropane': '',
-  '2-Methyl-2-pentene': 'national unique domain values',
+  '2-Methyl-2-pentene': '',
   '2-Methyl-2-propenoic acid 2-(diethylamino)ethyl ester polymers with glycidyl methacrylate and .gamma.-.omega.-perfluoro-C6-20-alkyl acrylate, acetates(salts)':
-    '',
+    'national unique domain values',
   '2-Methyl-2-propenoic acid methyl ester, 2,2,3,3,3-pentafluoropropyl 2-methyl-2-propenoate-2,2,3,3-tetrafluoropropyl 2-methyl-2-propenoate copolymer':
     'national unique domain values',
   '2-Methyl-2-trifluoromethylperfluoropentane': 'national unique domain values',
   '2-Methyl-2-{3-[(perfluorobutyl)sulfanyl]propanamido}propane-1-sulfonic acid':
     'national unique domain values',
-  '2-Methyl-3-(pentafluoroethyl)non-2-en-4-yne': '',
+  '2-Methyl-3-(pentafluoroethyl)non-2-en-4-yne':
+    'national unique domain values',
   '2-Methyl-3-Butyn-2-Ol': 'STORETW Provider',
   '2-Methyl-3-Nitroaniline': 'STORETW Provider',
-  '2-Methyl-3-butyn-2-ol': 'CHARACTERISTIC Table',
+  '2-Methyl-3-butyn-2-ol': 'STANDARD NAME (Normalized)',
   '2-Methyl-3-hexanone': '',
   '2-Methyl-3-nitroaniline': 'STANDARD NAME (Normalized)',
   '2-Methyl-3-pentanol': 'CHARACTERISTIC Table',
-  '2-Methyl-3-pentanone': 'CHARACTERISTIC Table',
-  "2-Methyl-4'-(dimethylamino)azobenzene": '',
+  '2-Methyl-3-pentanone': 'STANDARD NAME (Normalized)',
+  "2-Methyl-4'-(dimethylamino)azobenzene": 'national unique domain values',
   '2-Methyl-4,6-dinitrophenol': 'Nemi.gov',
   '2-Methyl-4-6-dinitrophenol': 'Retired Names: 4,6-Dinitro-o-cresol',
   '2-Methyl-4-6-dinitrophenol***retired***use 4,6-Dinitro-o-cresol':
     'STANDARD NAME (Normalized)',
   '2-Methyl-4-isothiazolin-3-one': 'national unique domain values',
-  '2-Methyl-4-octanone': 'STANDARD NAME (Normalized)',
+  '2-Methyl-4-octanone': 'CHARACTERISTIC Table',
   '2-Methyl-4-oxo-3-(2-propenyl)-2-cyclopenten-1-yl d-trans-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate':
     'SRS List Provider',
-  '2-Methyl-5-(pentafluoroethyl)aniline': 'national unique domain values',
-  '2-Methyl-5-nitroaniline': 'CHARACTERISTIC Table',
+  '2-Methyl-5-(pentafluoroethyl)aniline': '',
+  '2-Methyl-5-nitroaniline': 'STANDARD NAME (Normalized)',
   '2-Methyl-Pentanal': 'STORETW Provider',
   '2-Methylaniline': '',
   '2-Methylaniline hydrochloride': '',
-  '2-Methylanthracene': 'STORETW Provider',
+  '2-Methylanthracene': 'CHARACTERISTIC Table',
   '2-Methylbenzaldehyde': '',
   '2-Methylbenzothiazole': 'STANDARD NAME (Normalized)',
   '2-Methylbicyclo[3.2.1]octane': 'SYSTEM MISSING RESOLUTION',
   '2-Methylbiphenyl': 'CHARACTERISTIC Table',
   '2-Methylbut-1-en-3-yne': 'national unique domain values',
-  '2-Methylbutanal': 'STANDARD NAME (Normalized)',
-  '2-Methylbutane': 'CHARACTERISTIC Table',
+  '2-Methylbutanal': 'CHARACTERISTIC Table',
+  '2-Methylbutane': 'STANDARD NAME (Normalized)',
   '2-Methylcyclohexanemethanol': '',
-  '2-Methylcyclohexanone': 'STANDARD NAME (Normalized)',
-  '2-Methylcyclopentanone': 'STANDARD NAME (Normalized)',
-  '2-Methyldecane': 'CHARACTERISTIC Table',
+  '2-Methylcyclohexanone': 'CHARACTERISTIC Table',
+  '2-Methylcyclopentanone': 'STORETW Provider',
+  '2-Methyldecane': 'STORETW Provider',
   '2-Methyldibenzothiophene': 'STORETW Provider',
-  '2-Methyldibenzothiophenes/3-Methyldibenzothiophenes': 'CHARACTERISTIC Table',
-  '2-Methyldodecane': 'national unique domain values',
-  '2-Methyleicosane': 'STANDARD NAME (Normalized)',
+  '2-Methyldibenzothiophenes/3-Methyldibenzothiophenes': 'STORETW Provider',
+  '2-Methyldodecane': '',
+  '2-Methyleicosane': 'CHARACTERISTIC Table',
   '2-Methylfluoranthene': 'STANDARD NAME (Normalized)',
-  '2-Methylfluorene': 'CHARACTERISTIC Table',
-  '2-Methylfuran': 'CHARACTERISTIC Table',
+  '2-Methylfluorene': 'STORETW Provider',
+  '2-Methylfuran': 'STANDARD NAME (Normalized)',
   '2-Methylheptane': 'national unique domain values',
-  '2-Methylheptane & 3-Methylheptane': 'national unique domain values',
+  '2-Methylheptane & 3-Methylheptane': '',
   '2-Methylhexane': 'CHARACTERISTIC Table',
-  '2-Methylhexane & 2,3-dimethylpentane': '',
+  '2-Methylhexane & 2,3-dimethylpentane': 'national unique domain values',
   '2-Methylhexane & cyclohexane': 'national unique domain values',
-  '2-Methylisoborneol': 'STORETW Provider',
-  '2-Methylnaphthalene': 'CHARACTERISTIC Table',
-  '2-Methylnaphthalene-D10': 'STANDARD NAME (Normalized)',
+  '2-Methylisoborneol': 'CHARACTERISTIC Table',
+  '2-Methylnaphthalene': 'STANDARD NAME (Normalized)',
+  '2-Methylnaphthalene-D10': 'CHARACTERISTIC Table',
   '2-Methylnonane': 'national unique domain values',
-  '2-Methylpentane': 'STORETW Provider',
+  '2-Methylpentane': 'STANDARD NAME (Normalized)',
   '2-Methylperfluorobutane': 'national unique domain values',
-  '2-Methylphenanthrene': 'CHARACTERISTIC Table',
-  '2-Methylphenol': '',
-  '2-Methylprop-1-en-1-yl nonafluorobutane-1-sulfonate':
-    'national unique domain values',
+  '2-Methylphenanthrene': 'STANDARD NAME (Normalized)',
+  '2-Methylphenol': 'ATTAINS.parameter',
+  '2-Methylprop-1-en-1-yl nonafluorobutane-1-sulfonate': '',
   '2-Methylpropyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate':
     'national unique domain values',
   '2-Methylpropyl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
     'national unique domain values',
   '2-Methylpropyl ethyl(heptafluoropropyl)phosphinate': '',
-  '2-Methylpyrene': 'STORETW Provider',
-  '2-Methylpyridine': 'STORETW Provider',
+  '2-Methylpyrene': 'CHARACTERISTIC Table',
+  '2-Methylpyridine': 'STANDARD NAME (Normalized)',
   '2-Methylstyrene': '',
-  '2-Methyltetradecane': 'CHARACTERISTIC Table',
+  '2-Methyltetradecane': 'STANDARD NAME (Normalized)',
   '2-Methylundecane': 'national unique domain values',
   '2-MoCB': '2051-60-7',
   '2-Mobde': 'STORETW Provider',
@@ -58625,57 +58647,60 @@ export default {
   '2-Pentanol, 1,1,1-trifluoro-4-(methylimino)-2-(trifluoromethyl)-, (4E)-': '',
   '2-Pentanol, 1,1,1-trifluoro-5-(triethoxysilyl)-2-(trifluoromethyl)-': '',
   '2-Pentanol, 3,3,4,5,5,5-hexafluoro-': '',
-  '2-Pentanol, 3,3,4,5,5,5-hexafluoro-2-methyl-': '',
-  '2-Pentanol, 4,4-dichloro-1,1,1-trifluoro-2-(trifluoromethyl)-': '',
+  '2-Pentanol, 3,3,4,5,5,5-hexafluoro-2-methyl-':
+    'national unique domain values',
+  '2-Pentanol, 4,4-dichloro-1,1,1-trifluoro-2-(trifluoromethyl)-':
+    'national unique domain values',
   '2-Pentanol, 4-methyl-': 'STORETW Provider',
   '2-Pentanone': 'CHARACTERISTIC Table',
-  '2-Pentanone, 1,1-dichloro-1,3,3,4,4,5,5,5-octafluoro-':
+  '2-Pentanone, 1,1-dichloro-1,3,3,4,4,5,5,5-octafluoro-': '',
+  '2-Pentanone, 1-bromo-5,5,5-trifluoro-4-hydroxy-4-(trifluoromethyl)-':
     'national unique domain values',
-  '2-Pentanone, 1-bromo-5,5,5-trifluoro-4-hydroxy-4-(trifluoromethyl)-': '',
-  '2-Pentanone, 1-chloro-5,5,5-trifluoro-4-hydroxy-4-(trifluoromethyl)-': '',
+  '2-Pentanone, 1-chloro-5,5,5-trifluoro-4-hydroxy-4-(trifluoromethyl)-':
+    'national unique domain values',
   '2-Pentanone, 3,3,4,5,5,5-hexafluoro-': '',
   '2-Pentanone, 3-methyl-': 'STORETW Provider',
   '2-Pentanone, 4-chloro-5,5,5-trifluoro-4-(trifluoromethyl)-': '',
-  '2-Pentanone, 4-hydroxy-4-methyl-': 'SYSTEMATIC NAME',
+  '2-Pentanone, 4-hydroxy-4-methyl-': 'STORETW Provider',
   '2-Pentanone, 4-methyl-': 'SYSTEMATIC NAME',
   '2-Pentanone, 5,5,5-trifluoro-4-hydroxy-1-phenyl-4-(trifluoromethyl)-':
     'national unique domain values',
   '2-Pentene': 'CHARACTERISTIC Table',
   '2-Pentene, 1,1,1,2,3,4,4,5,5,5-decafluoro-': 'national unique domain values',
-  '2-Pentene, 1,1,1,2,3,4,5,5,5-nonafluoro-4-(trifluoromethyl)-, (Z)-':
-    'national unique domain values',
+  '2-Pentene, 1,1,1,2,3,4,5,5,5-nonafluoro-4-(trifluoromethyl)-, (Z)-': '',
   '2-Pentene, 1,1,1,2,5,5,5-heptafluoro-': 'national unique domain values',
   '2-Pentene, 1,1,1,3,4,4,5,5,5-nonafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-':
     'national unique domain values',
   '2-Pentene, 1,1,1,3,4,5,5,5-octafluoro-2,4-bis(trifluoromethyl)-':
     'national unique domain values',
-  '2-Pentene, 1,1,1,3,5,5,5-heptafluoro-4-(trifluoromethyl)-': '',
-  '2-Pentene, 1,1,1,3-tetrafluoro-4-methyl-2-(trifluoromethyl)-': '',
+  '2-Pentene, 1,1,1,3,5,5,5-heptafluoro-4-(trifluoromethyl)-':
+    'national unique domain values',
+  '2-Pentene, 1,1,1,3-tetrafluoro-4-methyl-2-(trifluoromethyl)-':
+    'national unique domain values',
   '2-Pentene, 2,4,4-Trimethyl-': 'STORETW Provider',
-  '2-Pentene, 2,4,4-trimethyl-': 'STANDARD NAME (Normalized)',
+  '2-Pentene, 2,4,4-trimethyl-': 'CHARACTERISTIC Table',
   '2-Pentene, 3,5,5,5-Tetrafluoro-2-methyl-4-(trifluoromethyl)-': '',
   '2-Pentene, 3-methyl-, (2Z)-': 'national unique domain values',
-  '2-Pentene, 4-methyl-': 'STORETW Provider',
+  '2-Pentene, 4-methyl-': 'SYSTEMATIC NAME',
   '2-Pentene, 5,5,5-trifluoro-4,4-bis(trifluoromethyl)-': '',
-  '2-Pentene-1-thione,3-amino-4,4,5,5-tetrafluoro-1-phenyl-':
-    'national unique domain values',
+  '2-Pentene-1-thione,3-amino-4,4,5,5-tetrafluoro-1-phenyl-': '',
   '2-Pentenoic acid, 3,5,5,5-tetrafluoro-4-(trifluoromethyl)-, ethyl ester':
     'national unique domain values',
   '2-Pentenoic acid, 4,4,5,5-tetrafluoro-3-hydroxy-, ethyl ester': '',
-  '2-Pentenoic acid, 4,4,5,5-tetrafluoro-3-hydroxy-, methylester':
-    'national unique domain values',
-  '2-Pentyne': 'national unique domain values',
+  '2-Pentenoic acid, 4,4,5,5-tetrafluoro-3-hydroxy-, methylester': '',
+  '2-Pentyne': 'table unique identifier',
   '2-Pentynoic acid, 4,4,5,5,5-pentafluoro-, ethyl ester':
     'national unique domain values',
   '2-Perfluoroalkyl(C4-14)ethyl acrylate-ethyl methacrylate-polyethylene glycol mono methacrylate copolymer  (Surflon S 8405)':
     'Double spaces (SRS)',
   '2-Perfluoroalkyl(C4-14)ethyl acrylate-ethyl methacrylate-polyethylene glycol mono methacrylate copolymer (Surflon S 8405)':
     '',
-  '2-Perfluoroalkyl(C6-12)ethyl acrylate homopolymer': '',
-  '2-Perfluoroalkyl(C6-12)ethyl methacrylate homopolymer': '',
-  '2-Perfluoroheptyl-5-phenyl-1,3,4-oxadiazole': '',
-  '2-Perfluorooctyl ethyl acrylate homopolymer':
+  '2-Perfluoroalkyl(C6-12)ethyl acrylate homopolymer':
     'national unique domain values',
+  '2-Perfluoroalkyl(C6-12)ethyl methacrylate homopolymer': '',
+  '2-Perfluoroheptyl-5-phenyl-1,3,4-oxadiazole':
+    'national unique domain values',
+  '2-Perfluorooctyl ethyl acrylate homopolymer': '',
   '2-Perfluoropropyl-2-propanol': 'national unique domain values',
   '2-Perfluoropropyl-5-phenyl-1,3,4-oxadiazole': '',
   '2-Phenyl-2-Propanol': 'STORETW Provider',
@@ -58694,19 +58719,18 @@ export default {
   '2-Piperidinecarboxylic acid': 'SRS List Provider',
   '2-Piperidinone': 'STORETW Provider',
   '2-Piperidone': 'CHARACTERISTIC Table',
-  '2-Propanamine, N,N-bis(1-methylethyl)-': 'SRS List Provider',
+  '2-Propanamine, N,N-bis(1-methylethyl)-': 'SYSTEMATIC NAME',
   '2-Propanethiol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-': '',
-  '2-Propanimine, 1,1,1,3,3,3-hexafluoro-': 'national unique domain values',
+  '2-Propanimine, 1,1,1,3,3,3-hexafluoro-': '',
   '2-Propanol': 'SYSTEMATIC NAME',
-  "2-Propanol, 1,1',1''-nitrilotris-": 'SRS List Provider',
+  "2-Propanol, 1,1',1''-nitrilotris-": 'SYSTEMATIC NAME',
   "2-Propanol, 1,1'-[(3,3,4,4,5,5,6,6,6-nonafluorohexyl)imino]bis[3-chloro-":
     '',
-  "2-Propanol, 1,1'-oxybis-": 'STORETW Provider',
-  '2-Propanol, 1,1,1,3,3,3-hexafluoro-': 'national unique domain values',
+  "2-Propanol, 1,1'-oxybis-": 'SYSTEMATIC NAME',
+  '2-Propanol, 1,1,1,3,3,3-hexafluoro-': '',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-, 2-(4-methylbenzenesulfonate)':
     'national unique domain values',
-  '2-Propanol, 1,1,1,3,3,3-hexafluoro-, 2-formate':
-    'national unique domain values',
+  '2-Propanol, 1,1,1,3,3,3-hexafluoro-, 2-formate': '',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-, benzoate':
     'national unique domain values',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-, compd. with methanesulfonic acid (1:1)':
@@ -58722,69 +58746,75 @@ export default {
     'national unique domain values',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-, acetate': '',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-, potassium salt (1:1)':
-    'national unique domain values',
+    '',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-, propanoate': '',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-[(2-hydroxyethyl)amino]-': '',
-  '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-[(methylamino)methyl]-': '',
+  '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-[(methylamino)methyl]-':
+    'national unique domain values',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-[[(2-methoxyethyl)amino]methyl]-':
     'national unique domain values',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-hydroperoxy-': '',
   '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-methoxy-': '',
-  '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-methyl-': 'STANDARD NAME (Normalized)',
-  '2-Propanol, 1,1,1-trichloro-3,3,3-trifluoro-2-(trifluoromethyl)-': '',
-  '2-Propanol, 1,3-dichloro-': 'SYSTEMATIC NAME',
-  "2-Propanol, 1,3-dichloro-, 2,2',2''-phosphate": 'SRS List Provider',
+  '2-Propanol, 1,1,1,3,3,3-hexafluoro-2-methyl-': 'table unique identifier',
+  '2-Propanol, 1,1,1-trichloro-3,3,3-trifluoro-2-(trifluoromethyl)-':
+    'national unique domain values',
+  '2-Propanol, 1,3-dichloro-': 'STORETW Provider',
+  "2-Propanol, 1,3-dichloro-, 2,2',2''-phosphate": 'SYSTEMATIC NAME',
   '2-Propanol, 1,3-dichloro-, phosphate (3:1)': 'SYSTEMATIC NAME',
   '2-Propanol, 1-[(1-methylethyl)amino]-3-(1-naphthalenyloxy)-': '',
   '2-Propanol, 1-[4-(1-methylpropyl)phenoxy]-3-(2,2,3,3-tetrafluoropropoxy)-':
     '',
-  '2-Propanol, 1-butoxy-': 'SYSTEMATIC NAME',
+  '2-Propanol, 1-butoxy-': 'STORETW Provider',
   '2-Propanol, 1-chloro-1,1,3,3,3-pentafluoro-2-(trifluoromethyl)-':
     'national unique domain values',
   "2-Propanol, 2,2'-phosphinidenebis[1,1,1,3,3,3-hexafluoro-": '',
   '2-Propanol, 2-(bromomethyl)-1,1,1,3,3,3-hexafluoro-': '',
-  '2-Propanol, 2-(chloromethyl)-1,1,1,3,3,3-hexafluoro-': '',
-  '2-Propanol, 2-(difluoromethyl)-1,1,1,3,3,3-hexafluoro-': '',
+  '2-Propanol, 2-(chloromethyl)-1,1,1,3,3,3-hexafluoro-':
+    'national unique domain values',
+  '2-Propanol, 2-(difluoromethyl)-1,1,1,3,3,3-hexafluoro-':
+    'national unique domain values',
   '2-Propanol, 2-[(1,1-dimethylethyl)dioxy]-1,1,1,3,3,3-hexafluoro-': '',
-  '2-Propanol, 2-[(2-aminoethyl)thio]-1,1,1,3,3,3-hexafluoro-':
-    'national unique domain values',
+  '2-Propanol, 2-[(2-aminoethyl)thio]-1,1,1,3,3,3-hexafluoro-': '',
   '2-Propanol, 2-[(2-aminoethyl)thio]-1,1,1,3,3,3-hexafluoro-, hydrochloride (1:1)':
-    '',
-  '2-Propanol, 2-[(bicyclo[2.2.1]hept-5-en-2-yloxy)methyl]-1,1,1,3,3,3-hexafluoro-':
     'national unique domain values',
+  '2-Propanol, 2-[(bicyclo[2.2.1]hept-5-en-2-yloxy)methyl]-1,1,1,3,3,3-hexafluoro-':
+    '',
   '2-Propanol, 2-[(diphenylphosphino)methyl]-1,1,1,3,3,3-hexafluoro-[':
     'national unique domain values',
   '2-Propanol, 2-[2,2-bis(trifluoromethyl)hydrazinyl]-1,1,1,3,3,3-hexafluoro-':
-    '',
+    'national unique domain values',
   '2-Propanol, 2-[[(1,1-dimethylethyl)amino]methyl]-1,1,1,3,3,3-hexafluoro-':
-    '',
+    'national unique domain values',
   '2-Propanol, 2-[[2-(dimethylamino)ethyl]amino]-1,1,1,3,3,3-hexafluoro-':
     'national unique domain values',
   '2-Propanol, 2-ethoxy-1,1,1,3,3,3-hexafluoro-':
     'national unique domain values',
   '2-Propanol, 2-methyl-': 'SYSTEMATIC NAME',
-  '2-Propanol-d, 1,1,1,3,3,3-hexafluoro-': '',
+  '2-Propanol-d, 1,1,1,3,3,3-hexafluoro-': 'national unique domain values',
   '2-Propanone': 'SYSTEMATIC NAME',
-  '2-Propanone, (1-methylethylidene) hydrazone': 'STANDARD NAME (Normalized)',
-  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, 2-(2,4-dinitrophenyl)hydrazone': '',
-  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, hydrate (1:2)': '',
-  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, hydrate (1:3)':
+  '2-Propanone, (1-methylethylidene) hydrazone': 'CHARACTERISTIC Table',
+  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, 2-(2,4-dinitrophenyl)hydrazone':
     'national unique domain values',
-  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, hydrate-d2 (1:1)': '',
+  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, hydrate (1:2)':
+    'national unique domain values',
+  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, hydrate (1:3)': '',
+  '2-Propanone, 1,1,1,3,3,3-hexafluoro-, hydrate-d2 (1:1)':
+    'national unique domain values',
   '2-Propanone, 1,1,1,3,3,3-hexafluoro-, polymer with ethene and 1,1,2,2-tetrafluoroethene':
-    '',
+    'national unique domain values',
   '2-Propanone, 1,1,1,3,3,3-hexafluoro-,2-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]hydrazone':
     'national unique domain values',
   '2-Propanone, 1,1,1,3,3,3-hexafluoro-,2-[2,6-dinitro-4-(trifluoromethyl)phenyl]hydrazone':
+    '',
+  '2-Propanone, 1,1,1,3,3,3-hexafluoro-,hydrate-d2(1:3)':
     'national unique domain values',
-  '2-Propanone, 1,1,1,3,3,3-hexafluoro-,hydrate-d2(1:3)': '',
-  '2-Propanone, 1,1,1,3,3,3-hexafluoro-,oxime': 'national unique domain values',
+  '2-Propanone, 1,1,1,3,3,3-hexafluoro-,oxime': '',
   '2-Propanone, 1,1,1,3,3-pentafluoro-3-(1,2,2,2-tetrafluoroethoxy)-':
     'national unique domain values',
   '2-Propanone, 1,1,1-trichloro-': 'SYSTEMATIC NAME',
   '2-Propanone, 1,1-dichloro-': 'STORETW Provider',
   '2-Propanone, 1-Cyclohexyl-': 'STORETW Provider',
-  '2-Propanone, 1-cyclohexyl-': 'CHARACTERISTIC Table',
+  '2-Propanone, 1-cyclohexyl-': 'STANDARD NAME (Normalized)',
   '2-Propanone, hexafluoro-, hydrate': 'national unique domain values',
   '2-Propanone, mixt. with 1,1,2-trichloro-1,2,2-trifluoroethane': '',
   '2-Propanyl, 1,1,1,2,3,3,3-heptafluoro-': '',
@@ -58795,86 +58825,88 @@ export default {
   '2-Propen-1-ol, reaction products with pentafluoroiodoethane-tetrafluoroethylene telomer, dehydroiodinated, reaction products with epichlorohydrin and triethylenetetramine':
     '',
   '2-Propen-1-one, 1-cyclopropyl-': 'CHARACTERISTIC Table',
-  '2-Propenal': 'SYSTEMATIC NAME',
-  '2-Propenal, 3-phenyl-': 'SRS List Provider',
+  '2-Propenal': 'STORETW Provider',
+  '2-Propenal, 3-phenyl-': 'SYSTEMATIC NAME',
   '2-Propenamide': 'STORETW Provider',
   '2-Propenamide, N-(3,3,4,4,5,5,6,6,6-nonafluorohexyl)-N-2-propen-1-yl-':
     'national unique domain values',
   '2-Propenamide, N-[(C1-20-alkyloxy)methyl]derivs., polymers with acryonitrile,.alpha.-fluoro-.omega.-[2-[(1-oxo-propenyl)oxy]ethyl] poly(difluoromethylene) and polyethylene-polypropylene glycol acrylate C1-20-alkyl ethers':
-    '',
-  '2-Propenamide, telomer with 1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-6-iodohexane':
     'national unique domain values',
+  '2-Propenamide, telomer with 1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-6-iodohexane':
+    '',
   '2-Propenenitrile': 'SYSTEMATIC NAME',
   '2-Propenenitrile, 2-methyl-': 'SYSTEMATIC NAME',
-  '2-Propenenitrile, 3-[4-(2,2,3,3-tetrafluoropropoxy)phenyl]-, (2E)-':
-    'national unique domain values',
+  '2-Propenenitrile, 3-[4-(2,2,3,3-tetrafluoropropoxy)phenyl]-, (2E)-': '',
   '2-Propenenitrile, polymer with .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), .alpha.-(2-methyl-1-oxo-2-propenyl)-.omega.-methoxypoly(oxy-1,2-ethanediyl) and .alpha.-(2-methyl-1-oxo-2-propenyl)-.omega.-[(2-methyl-':
-    '',
-  '2-Propenethioic acid, 2-methyl-, S-[3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-hexadecafluoro-9-(trifluoromethyl)decyl] ester':
     'national unique domain values',
+  '2-Propenethioic acid, 2-methyl-, S-[3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,10-hexadecafluoro-9-(trifluoromethyl)decyl] ester':
+    '',
   '2-Propenethioic acid, 2-methyl-, S-[3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,12,12,12-eicosafluoro-11-(trifluoromethyl)dodecyl] ester':
     '',
   '2-Propenethioic acid, 2-methyl-, S-[3,3,4,4,5,5,6,6,7,8,8,8-dodecafluoro-7-(trifluoromethyl)octyl] ester':
     'national unique domain values',
   '2-Propenoic acid, (1,2,2,3,3,4,4,5,5,6,6-undecafluorocyclohexyl)methyl ester':
     '',
-  '2-Propenoic acid, .delta.-.omega.-perfluoro-C9-15-alkyl esters': '',
+  '2-Propenoic acid, .delta.-.omega.-perfluoro-C9-15-alkyl esters':
+    'national unique domain values',
   '2-Propenoic acid, .gamma.-.omega.-perfluoro-C8-20-alkyl esters':
     'national unique domain values',
   '2-Propenoic acid, .gamma.-.omega.-perfluoro-C8-20-alkyl esters, polymer with acrylonitrile, polyethylene glycol dimethacrylate and polyethylene glycol methacrylate Me ether':
     'national unique domain values',
   '2-Propenoic acid, .gamma.-.omega.-perfluoro-C8-20-alkyl esters, polymer with polyethylene glycol monomethacrylate and polypropylene glycol monomethacrylate':
     'national unique domain values',
-  "2-Propenoic acid, 1,1'-(2,2,3,3,4,4-hexafluoro-1,5-pentanediyl) ester": '',
+  "2-Propenoic acid, 1,1'-(2,2,3,3,4,4-hexafluoro-1,5-pentanediyl) ester":
+    'national unique domain values',
   "2-Propenoic acid, 1,1'-[(1-methylethylidene)bis(4,1-phenyleneoxy-2,1-ethanediyl)] ester":
     '',
   '2-Propenoic acid, 1,1-(2,2,3,3,4,4,5,5-octafluoro-1,6-hexanediyl) ester, homopolymer':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 1,1-[2,2-bis[difluoro[1,1,2,2-tetrafluoro-3-[(1-oxo-2-propen-1-yl)oxy]propoxy]methyl]-1,1,3,3-tetrafluoro-1,3-propan ediyl]bis[oxy(2,2,3,3-tetrafluoro-3,1-propanediyl)] ester':
     'national unique domain values',
   '2-Propenoic acid, 1,1-dimethylethyl ester, polymer with 4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole and tetrafluoroethene':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 1,6-hexanediyl ester': 'STANDARD NAME (Normalized)',
   '2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl ester':
+    '',
+  '2-Propenoic acid, 2,2,3,3,3-pentafluoropropyl ester':
     'national unique domain values',
-  '2-Propenoic acid, 2,2,3,3,3-pentafluoropropyl ester': '',
-  '2-Propenoic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester': '',
+  '2-Propenoic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester':
+    'national unique domain values',
   '2-Propenoic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester, homopolymer':
     'national unique domain values',
   '2-Propenoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl ester, homopolymer':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptyl ester, homopolymer':
     'national unique domain values',
-  '2-Propenoic acid, 2,2,3,3,4,4,5,5-octafluoropentyl ester':
-    'national unique domain values',
+  '2-Propenoic acid, 2,2,3,3,4,4,5,5-octafluoropentyl ester': '',
   '2-Propenoic acid, 2-(methylamino)ethyl ester, N-[(.gamma.-.omega.-perfluoro-C8-14-alkyl)sulfonyl] derivs., reaction products with polyethylene glycol bis(thioglycolate)':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-(methylamino)ethyl ester, N-[(perfluoro-C4-8-alkyl)sulfonyl] derivs., polymers with propene':
     'national unique domain values',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8, 8,8-heptadecafluorooctyl)sulfonyl]methylamino] ethyl ester, homopolymer':
     '',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester':
-    'Retired Names: 2-[[(Heptadecafluorooctyl)sulfonyl]methylamino]ethyl acrylate',
+    '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester***retired***use 2-[[(Heptadecafluorooctyl)sulfonyl]methylamino]ethyl acrylate',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester***retired***use 2-[[(Heptadecafluorooctyl)sulfonyl]methylamino]ethyl acrylate':
     '',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester, polymer with 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, .alpha.-(2-methyl-1-oxo-2-propen-1-yl)-.omega.-hyd':
     'national unique domain values',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester, telomer with 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, .alpha.-(2-methyl-1-oxo-2-propen-1-yl)-.omega.-hyd':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]propylamino]ethyl ester, polymer with .alpha.-(2-methyl-1-oxo-2-propen-1-yl)-.omega.-butoxypoly[oxy(methyl-1,2-ethanediyl)]':
     'national unique domain values',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]propylamino]ethyl ester, polymer with .alpha.-(2-methyl-1-oxo-2-propen-1-yl)-.omega.-methoxypoly(oxy-1,2-ethanediyl)':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]propylamino]ethyl ester, polymer with 2-methyloxirane polymer with oxirane mono(2-methyl-2-propenoate)':
     '',
   '2-Propenoic acid, 2-[[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-eicosafluoroundecyl)sulfonyl]methylamino]ethyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-[[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluorononyl)sulfonyl]methylamino]ethyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-[[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)sulfonyl]methylamino]ethyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-[[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl)sulfonyl]methylamino]ethyl ester':
@@ -58882,19 +58914,19 @@ export default {
   '2-Propenoic acid, 2-[[(heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester, polymer with 2-[methyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, .alpha.-(2-methyl-1-oxo-2-propenyl)-.omega.-hydroxypoly(oxy-1,2-ethanediyl), .alpha.-(2-methyl-1-oxo-2':
     'national unique domain values',
   '2-Propenoic acid, 2-[[(heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester, polymer with 2-[methyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(tridecafluorohexyl)sul':
-    'national unique domain values',
-  '2-Propenoic acid, 2-[[(heptadecafluorooctyl)sulfonyl]propylamino]ethyl ester, polymer with .alpha.-(1-oxo-2-propenyl)-.omega.-methoxypoly(oxy-1,2-ethanediyl), graft':
     '',
+  '2-Propenoic acid, 2-[[(heptadecafluorooctyl)sulfonyl]propylamino]ethyl ester, polymer with .alpha.-(1-oxo-2-propenyl)-.omega.-methoxypoly(oxy-1,2-ethanediyl), graft':
+    'national unique domain values',
   '2-Propenoic acid, 2-[[(heptadecafluorooctyl)sulfonyl]propylamino]ethylester, copolymer with methyloxirane and oxiranemono-2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-[[3-[(heptadecafluorooctyl)sulfonyl]propyl]amino]ethyl ester polymer with .alpha.-(2-methyl-1-oxo-2-propenyl)-.omega.-hydroxypoly(oxy-1,2-ethanediyl)':
     'national unique domain values',
   '2-Propenoic acid, 2-[[3-[(heptadecafluorooctyl)sulfonyl]propyl]amino]ethyl ester polymer with .alpha.-(2-methyl-1-oxo-2-propenyl)-.omega.-hydroxypoly[oxy(methyl-1,2-ethanediy)]':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-[butyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-[butyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester':
-    '2-Propenoic acid, 2-[butyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester***retired***use 2-[Butyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl acrylate',
+    'Retired Names: 2-[Butyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl acrylate',
   '2-Propenoic acid, 2-[butyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester***retired***use 2-[Butyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl acrylate':
     '',
   '2-Propenoic acid, 2-[butyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl ester, polymer with 2-[butyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-propenoate, methyloxirane polymer with oxirane di-2-propenoate and methyloxirane polymer with oxirane mono-2-p':
@@ -58902,19 +58934,19 @@ export default {
   '2-Propenoic acid, 2-[butyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl ester, telomer with 2-[butyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-propenoate, methyloxirane polymer with oxirane di-2-propenoate, methyloxirane polymer with oxirane mono-2-pro':
     '',
   '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentyl)sulfonyl]amino]ethyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
-    '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester***retired***use 2-Propenoic acid, 2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl ester',
+    'Retired Names: 2-Propenoic acid, 2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl ester',
   '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester***retired***use 2-Propenoic acid, 2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester':
     '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester***retired***use 2-[Ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl acrylate',
   '2-Propenoic acid, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester***retired***use 2-[Ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl acrylate':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl ester':
@@ -58922,19 +58954,19 @@ export default {
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl ester, polymer with octadecyl 2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl ester, telomer with 3-mercapto-1,2-propanediol, 2-methyloxirane polymer with oxirane di-2-propenoate, and 2-methyloxirane polymer with oxirane mono-2-propenoate, tert-Bu 2':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentyl)sulfonyl]amino]ethyl ester':
-    '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentyl)sulfonyl]amino]ethyl ester***retired***use 2-Propenoic acid, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl ester',
+    'Retired Names: 2-Propenoic acid, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl ester',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentyl)sulfonyl]amino]ethyl ester***retired***use 2-Propenoic acid, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]ethyl ester':
     '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]ethyl ester***retired***use 2-Propenoic acid, 2-[methyl[(tridecafluorohexyl)sulfonyl]amino]ethyl ester',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]ethyl ester***retired***use 2-Propenoic acid, 2-[methyl[(tridecafluorohexyl)sulfonyl]amino]ethyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
     'Retired Names: 2-Propenoic acid, 2-[methyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl ester',
   '2-Propenoic acid, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester***retired***use 2-Propenoic acid, 2-[methyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-[methyl[(2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-[methyl[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-pentacosafluorotridecyl)sulfonyl]amino]ethyl ester':
@@ -58942,21 +58974,21 @@ export default {
   '2-Propenoic acid, 2-[methyl[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,15-nonacosafluoropentadecyl)sulfonyl]amino]ethyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,17-tritriacontafluoroheptadecyl)sulfonyl]amino]ethyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)sulfonyl]amino]ethyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-pentacosafluorotetradecyl)sulfonyl]amino]ethyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-nonacosafluorohexadecyl)sulfonyl]amino]ethyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-[methyl[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,18-tritriacontafluorooctadecyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-[methyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
-    '',
-  '2-Propenoic acid, 2-[methyl[(tridecafluorohexyl)sulfonyl]amino]ethyl ester':
     'national unique domain values',
-  '2-Propenoic acid, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl ester':
+  '2-Propenoic acid, 2-[methyl[(tridecafluorohexyl)sulfonyl]amino]ethyl ester':
     '',
+  '2-Propenoic acid, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl ester':
+    'national unique domain values',
   '2-Propenoic acid, 2-chloro-, 3,3,4,4,5,5,6,6,6-nonafluorohexyl ester, telomer with chloroethene, 3-chloro-2-hydroxypropyl 2-methyl-2-propenoate, 1-dodecanethiol, N-(hydroxymethyl)-2-propenamide and octadecyl 2-propenoate':
     '',
   '2-Propenoic acid, 2-ethylhexyl ester, polymer with 1,1-dichloroethene and .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl]pol y(difluoromethylene)':
@@ -58964,75 +58996,75 @@ export default {
   '2-Propenoic acid, 2-ethylhexyl ester, polymer with 2-[[(heptadecafluorooctyl)sulfonyl]propylamino]ethyl, 2-propenoate and .alpha.-(2-methyl-1-oxo-2-propenyl)-.omega.-hydroxypoly(oxy-1,2-ethanediyl)':
     'national unique domain values',
   '2-Propenoic acid, 2-fluoro-, 2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptyl ester':
-    '',
-  '2-Propenoic acid, 2-fluoro-, 2,2,3,3-tetrafluoropropyl ester':
     'national unique domain values',
+  '2-Propenoic acid, 2-fluoro-, 2,2,3,3-tetrafluoropropyl ester': '',
   '2-Propenoic acid, 2-fluoro-, 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-[(1,1,2-trifluoro-2-propen-1-yl)oxy]propoxy]propyl ester, polymer with 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-[(1,1,2-trifluoro-2-propen-1-yl)oxy]propoxy]-1-propanol':
     'national unique domain values',
   '2-Propenoic acid, 2-fluoro-, tetrafluoropropyl ester, homopolymer':
     'national unique domain values',
   '2-Propenoic acid, 2-hydroxyethyl ester, adduct with 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane (1:1), reaction products with ethoxylated reduced Me esters of reduced polymd. oxidized tetrafluoroethylene':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-hydroxyethyl ester, polymer with .alpha.-(1-oxo-2-propen-1-yl)-.omega.-hydroxypoly(oxy-1,2-ethanediyl), .alpha.-(1-oxo-2-propen-1-yl)-.omega.-[(1-oxo-2-propen-1-yl)oxy]poly(oxy-1,2-ethanediyl) and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluor':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-hydroxyethyl ester, polymer with 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate and octadecyl 2-propenoate':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-hydroxyethyl ester, polymers with .gamma.-.omega.-perfluoro-C8-20-alkyl acrylate and stearyl acrylate':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-hydroxyethyl ester, telomer with 2-mercaptoethanol, .alpha.-(1-oxo-2-propen-1-yl)-.omega.-hydroxypoly(oxy-1,2-ethanediyl), .alpha.-(1-oxo-2-propen-1-yl)-.omega.-[(1-oxo-2-propen-1-yl)oxy]poly(oxy-1,2-ethanediyl) and 3,3,4,4,5,5,6,6,7,7':
     'national unique domain values',
-  '2-Propenoic acid, 2-methyl-': 'STORETW Provider',
+  '2-Propenoic acid, 2-methyl-': 'SYSTEMATIC NAME',
   "2-Propenoic acid, 2-methyl-, 1,1'-[(1-methylethylidene)bis(4,1-phenyleneoxy-2,1-ethanediyl)] ester":
     '',
   "2-Propenoic acid, 2-methyl-, 1,1'-[(1-methylethylidene)di-4,1-phenylene] ester":
     '',
   "2-Propenoic acid, 2-methyl-, 1,1'-[1,2-ethanediylbis(oxy-2,1-ethanediyl)] ester, polymer with 2-(diethylamino)ethyl 2-methyl-2-propenoate, 2-hydroxyethyl 2-methyl-2-propenoate and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-methyl-2-propenoate, acetate":
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,9,9,9-heptadecafluorononyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 1,4-butanediyl ester, polymers with C14-24-alkyl methacrylate, cyclohexyl methacrylate, 2-hydroxyethyl acrylate, ?-?-perfluoro-C6-16-alkyl acrylate and 2-[[[[[1,3,3-trimethyl-5-[[[[(1-methylpropylidene)amino]oxy]carbonyl]amino':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester':
-    'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2,2,2-trifluoro-1-phenyl-1-(trifluoromethyl)ethyl ester':
     '',
-  '2-Propenoic acid, 2-methyl-, 2,2,3,3,3-pentafluoro-1-(pentafluoroethyl)-1-(trifluoromethyl)propyl ester, homopolymer':
+  '2-Propenoic acid, 2-methyl-, 2,2,2-trifluoro-1-phenyl-1-(trifluoromethyl)ethyl ester':
     'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2,2,3,3,3-pentafluoropropyl ester': '',
+  '2-Propenoic acid, 2-methyl-, 2,2,3,3,3-pentafluoro-1-(pentafluoroethyl)-1-(trifluoromethyl)propyl ester, homopolymer':
+    '',
+  '2-Propenoic acid, 2-methyl-, 2,2,3,3,3-pentafluoropropyl ester':
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2,2,3,3,4,4,4-heptafluorobutyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2,2,3,3,4,4,5,5,6,6 ,7,7-dodecafluoroheptyl ester, homopolymer':
-    'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl ester':
-    'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl ester, polymer with 2-propenoic acid':
     '',
+  '2-Propenoic acid, 2-methyl-, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl ester':
+    '',
+  '2-Propenoic acid, 2-methyl-, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl ester, polymer with 2-propenoic acid':
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2,2,3,3-tetrafluoro-1,1-dimethylpropyl ester':
     '',
   '2-Propenoic acid, 2-methyl-, 2,2,3,3-tetrafluoropropyl ester, homopolymer':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2,2,3,4,4,4-hexafluoro-1-methylbutyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2,2,3,4,4,4-hexafluorobutyl ester, homopolymer':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-(acetyloxy)-4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,12,12,12-octadecafluoro-11-(trifluoromethyl)dodecyl ester, homopolymer':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-(diethylamino)ethyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), acetate (salt)':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-(diethyloxidoamino)ethyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene) and .alpha.-(2-methyl-1-oxo-2-propen-1-yl)-.omega.-(nonylphenoxy)poly(oxy-1,2-ethanediyl':
     '',
   '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymer with 1-ethenyl-2-pyrrolidinone and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-propenoate, acetate':
     '',
   '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymer with 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-methyl-2-propenoate, N-oxides, acetates':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with .delta.-.omega.-perfluoro-C10-16-alkyl acrylate and vinyl acetate':
-    'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with .gamma.-,.omega.-perfluoro-C8-14-alkyl acrylate, acetates, N-oxides':
-    'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with .gamma.-.omega.-perfluoro-C10-16-alkyl acrylate and vinyl acetate':
-    'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with .gamma.-.omega.-perfluoro-C10-16-alkyl acrylate and vinyl acetate, acetates':
     '',
+  '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with .gamma.-,.omega.-perfluoro-C8-14-alkyl acrylate, acetates, N-oxides':
+    '',
+  '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with .gamma.-.omega.-perfluoro-C10-16-alkyl acrylate and vinyl acetate':
+    '',
+  '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with .gamma.-.omega.-perfluoro-C10-16-alkyl acrylate and vinyl acetate, acetates':
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with Bu acrylate, .gamma.-.omega.-perfluoro-C8-14-alkyl acrylate and polyethylene glycol monomethacrylate':
     'national unique domain values',
   "2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with Bu acrylate, .gamma.-.omega.-perfluoro-C8-14-alkyl acrylate and polyethylene glycol monomethacrylate, 2,2'-azobis[2,4-dimethylpentanenitrile]-initiated":
@@ -59042,37 +59074,37 @@ export default {
   '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, polymers with acrylonitrile, .gamma.-.omega.-perfluoro-C8-14-alkyl acrylate, polyethylene glycol monomethacrylate and styrene':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, telomer with 2-[ethyl[(perfluoro-C4-8-alkyl)sulfonyl]amino]ethyl methacrylate and 1-octanethiol, N-oxides':
-    '',
-  '2-Propenoic acid, 2-methyl-, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester':
-    '',
-  '2-Propenoic acid, 2-methyl-, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester, polymer with 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[methyl[(1,1,2,2,3,3,4,4,5,5':
     'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester':
+    'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl ester, polymer with 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[methyl[(1,1,2,2,3,3,4,4,5,5':
+    '',
   '2-Propenoic acid, 2-methyl-, 2-[[(3,5-dimethyl-1H-pyrazol-1-yl)carbonyl]amino]ethyl ester, polymer with chloroethene, octadecyl 2-propenoate and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-methyl-2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[[[[5-[[[2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethoxy]carbonyl]amino]-2-methylphenyl]amino]carbonyl]oxy]propyl ester, telomer with butyl 2-propenoate, 2-[[[[5-[[[2-[ethyl[(1,1,2,2,3,':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[[[[5-[[[2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethoxy]carbonyl]amino]-2-methylphenyl]amino]carbonyl]oxy]propyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-[[[[5-[[[2-[ethyl[(nonafluorobutyl)sulfonyl]amino]ethoxy]carbonyl]amino]-2-methylphenyl]amino]carbonyl]oxy]propyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-[[[[5-[[[2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethoxy]carbonyl]amino]-2-methylphenyl]amino]carbonyl]oxy]propyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[[[[5-[[[2-[ethyl[(tridecafluorohexyl)sulfonyl]amino]ethoxy]carbonyl]amino]-2-methylphenyl]amino]carbonyl]oxy]propyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[[[[5-[[[2-[ethyl[(undecafluoropentyl)sulfonyl]amino]ethoxy]carbonyl]amino]-2-methylphenyl]amino]carbonyl]oxy]propyl ester':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[[[[5-[[[4-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]butoxy]carbonyl]amino]-2-methylphenyl]amino]carbonyl]oxy]propyl ester, telomer with butyl 2-propenoate, 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[[[[[1,3,3-trimethyl-5-[[[[(1-methylpropylidene)amino]oxy]carbonyl]amino]cyclohexyl]methyl]amino]carbonyl]oxy]ethyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), hexadecy':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[[[[[1,3,3-trimethyl-5-[[[[(1-methylpropylidene)amino]oxy]carbonyl]amino]cyclohexyl]methyl]amino]carbonyl]oxy]ethyl ester, polymers with 2-ethylhexyl acrylate, 2-hydroxyethyl acrylate and ?-?-perfluoro-C6-16-alkyl acrylate':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl ester, polymer with octadecyl 2-propenoate and 2-propenoic acid':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentyl)sulfonyl]amino]ethyl ester':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentyl)sulfonyl]amino]ethyl ester, polymer with octadecyl 2-propenoate and 2-propenoic acid':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]ethyl ester':
@@ -59080,17 +59112,17 @@ export default {
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]ethyl ester, polymer with octadecyl 2-propenoate and 2-propenoic acid':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester, polymer with octadecyl 2-propenoate and 2-propenoic acid':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester':
     '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester***retired***use 2-[Ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl methacrylate',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester***retired***use 2-[Ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl methacrylate':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester, polymer with 2-[ethyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]ethyl ester, polymer with 2-chloro-1,3-butadiene, 2-[ethyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethyl':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl ester, polymer with 2-[ethyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethy':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl ester, telomer with 2-[ethyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethyl':
@@ -59098,90 +59130,91 @@ export default {
   '2-Propenoic acid, 2-methyl-, 2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl ester, telomer with 2-[ethyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethyl[pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-methyl-2-propenoate, 2-[ethyl[':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[methyl[(.gamma.-.omega.-perfluoro-C8-14-alkyl)sulfonyl]amino]ethyl esters, reaction products with polyethylene glycol bis(2-mercaptoacetate)':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentyl)sulfonyl]amino]ethyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]ethyl ester':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[methyl[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptyl)sulfonyl]amino]ethyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-[methyl[(nonafluorobutyl)sulfonyl]amino]ethyl ester, polymer with .alpha.-(1-oxo-2-propenyl)-.omega.-methoxypoly(oxy-1,2-ethanediyl) and 2-propenoic acid, graft':
     '',
   '2-Propenoic acid, 2-methyl-, 2-[methyl[(nonafluorobutyl)sulfonyl]amino]ethyl ester, polymer with octadecyl 2-methyl-2-propenoate':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-aziridinyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene) and phenylmethyl 2-methyl-2-propenoate':
     '',
   '2-Propenoic acid, 2-methyl-, 2-aziridinyl ester, polymer with .alpha.-fluoro-.omega.-[[(2-methyl-1-oxo-2-propenyl)oxy]methyl]poly(difluoromethylene) and octadecyl 2-methyl-2-propenoate+A256':
-    'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 2-aziridinyl ester, polymer with 1,1-dimethylethyl 2-methyl-2-propenoate and ?-fluoro-?-[[(2-methyl-1-oxo-2-propenyl)oxy]methyl]poly(difluoromethylene':
     '',
+  '2-Propenoic acid, 2-methyl-, 2-aziridinyl ester, polymer with 1,1-dimethylethyl 2-methyl-2-propenoate and ?-fluoro-?-[[(2-methyl-1-oxo-2-propenyl)oxy]methyl]poly(difluoromethylene':
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene) (9CI)':
     '',
   '2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), 2-hydroxyethyl 2-methyl-2-propenoate and N-(hydroxymethyl)-2-propenamide':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymer with .gamma.-.omega.-perfluoro-C8-20-alkyl acrylate and polyethylene glycolmonomethacrylate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymer with 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl 2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymer with 2-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]methylamino]ethyl 2-propenoate, 2-[methyl[(1,1,2,2,3,3,4,4,4-nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(1':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymers with N-(hydroxymethyl)-2-methyl-2-propenamide and .gamma.-.omega.-perfluoro-C10-16-alkyl acrylate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymers with maleic anhydride, 2-[[(2-mercaptoethoxy)carbonyl]amino]ethyl methacrylate, .gamma.-.omega.-perfluoro-C8-16-alkyl acrylate and stearyl methacrylate':
-    '',
-  '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene), N-(hydroxymethyl)-2-propenamide and (2,2,2-trifluoroethoxy)ethene':
     'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene), N-(hydroxymethyl)-2-propenamide and (2,2,2-trifluoroethoxy)ethene':
+    '',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene), N-(hydroxymethyl)-2-propenamide and methyl 2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with 1,1-dichloroethene, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl 2-propenoate, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl 2-propenoate, N-(hydroxymet':
-    '',
-  '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with 1-ethenyl-2-pyrrolidinone, 2-propenoic acid and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-propenoate, sodium salt':
     'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with 1-ethenyl-2-pyrrolidinone, 2-propenoic acid and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-propenoate, sodium salt':
+    '',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with 2-propenoic acid and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-methyl-2-propenoate, sodium salt':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl 2-propenoate, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl 2-propenoate, .alpha.-(2-methyl-1-oxo-2-propen-':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with N,N-dimethyl-2-propenamide, .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene) and methyl 2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with butyl 2-propenoate, .alpha.-fluoro-.omega.-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene) and N-(hydroxymethyl)-2-propenamide':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with hexadecyl 2-propenoate, octadecyl 2-propenoate and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-methyl-2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymers with .gamma.-.omega.-perfluoro-C8-16-alkyl methacrylate, stearyl methacrylate and tridecyl methacrylate':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymers with 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-1-decanol- and 2-hydroxyethyl acrylate-blocked 2,4-TDI-trimethylolpropane polymer, Me methacrylate and octahydro-4,7-methano-1H-indenyl a':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, reaction products with 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane and Me Et ketone oxime, polymer with .gamma.-.omega.-perfluoro-C8-20-alkyl acrylate and stearyl acrylate':
-    'national unique domain values',
+    '',
   '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, reaction products with 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane and Me Et ketone oxime, polymers with 2-ethylhexyl acrylate, 2-hydroxyethyl acrylate and ?-?-perfluoro-C8-20-alkyl acryl':
     '',
   "2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, telomers with C18-26-alkyl acrylate, 1-dodecanethiol, N-(hydroxymethyl)-2-methyl-2-propenamide and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl methacrylate, 2,2'-[1,2-diazenediylbis(1-methylethylidene)]b":
-    '',
-  '2-Propenoic acid, 2-methyl-, 2-methylpropyl ester, polymer with 2,4-diisocyanato-1-methylbenzene, 2-ethyl-2-(hydroxymethyl)-1,3-propanediol and 2-propenoic acid, N-ethyl-N-(hydroxyethyl)perfluoro-C4-8-alkanesulfonamides-blocked':
     'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 2-methylpropyl ester, polymer with 2,4-diisocyanato-1-methylbenzene, 2-ethyl-2-(hydroxymethyl)-1,3-propanediol and 2-propenoic acid, N-ethyl-N-(hydroxyethyl)perfluoro-C4-8-alkanesulfonamides-blocked':
+    '',
   '2-Propenoic acid, 2-methyl-, 2-methylpropyl ester, polymer with butyl 2-propenoate and 2,5-furandione, .gamma.-.omega.-perfluoro-C8-14-alkyl esters, tert-Bu benzenecarboperoxoate-initiated':
     'national unique domain values',
-  '2-Propenoic acid, 2-methyl-, 3,3,4,4,4-pentafluorobutyl ester': '',
+  '2-Propenoic acid, 2-methyl-, 3,3,4,4,4-pentafluorobutyl ester':
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,6-nonafluorohexyl ester':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl ester':
-    '',
+    'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl ester, polymer with chloroethene, docosyl 2-propenoate, N-(hydroxymethyl)-2-propenamide and octadecyl 2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl ester, telomer with 1-dodecanethiol and octadecyl 2-propenoate':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester':
-    '',
-  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, polymer with ethenyltriethoxysilane':
-    '',
-  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, polymer with methyl 2-methyl-2-propenoate':
-    '',
-  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, polymer with octadecyl-2-methyl-2-propenoate':
-    '',
-  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, telomer with 1-dodecanethi':
     'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, polymer with ethenyltriethoxysilane':
+    'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, polymer with methyl 2-methyl-2-propenoate':
+    'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, polymer with octadecyl-2-methyl-2-propenoate':
+    'national unique domain values',
+  '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, telomer with 1-dodecanethi':
+    '',
   '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl ester, telomer with 1-dodecanethiol, methyl 2-methyl-2-propenoate, .alpha.-(2-methyl-1-oxo-2-propenyl)-.omega.-hydroxypoly(oxy-1,2-ethanediyl) and .alpha.-(2-methyl-1-o':
     'national unique domain values',
   '2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl ester':
@@ -60703,7 +60736,7 @@ export default {
   '22381 -- BI-214   FISH     PCI/G': 'STORETW Provider',
   '22383 -- BI-214   TOTAL    PCI/L': 'STORETW Provider',
   '223929-64-4': 'CAS NUMBER',
-  '224-42-0': 'CAS_NUMBER',
+  '224-42-0': 'STORETW Provider',
   '22402 -- AC-228   FISH     PCI/G': 'STORETW Provider',
   '22407-25-6': 'CAS NUMBER',
   '22408 -- PCB1248/ 1254SOIL TOT UG/G': 'STORETW Provider',
@@ -60836,20 +60869,20 @@ export default {
   '231285-91-9': 'CAS NUMBER',
   '231291-19-3': 'CAS NUMBER',
   '231301-26-1': 'CAS NUMBER',
-  '23135-22-0': 'CAS_NUMBER',
+  '23135-22-0': 'STORETW Provider',
   '23141-80-2': 'CAS NUMBER',
   '23144-30-1': 'CAS NUMBER',
   '2315-61-9': 'CAS NUMBER',
   '2315-62-0': 'CAS_NUMBER',
   '2315-63-1': 'CAS NUMBER',
   '2315-64-2': 'CAS NUMBER',
-  '2315-67-5': 'CAS_NUMBER',
+  '2315-67-5': 'CAS NUMBER',
   '231630-85-6': 'CAS NUMBER',
   '231630-88-9': 'CAS NUMBER',
   '231630-89-0': 'CAS_NUMBER',
   '231630-92-5': 'CAS_NUMBER',
   '2317-84-2': 'CAS NUMBER',
-  '23184-66-9': 'CAS NUMBER',
+  '23184-66-9': 'STORETW Provider',
   '231953-30-3': 'CAS NUMBER',
   '231953-34-7': 'CAS NUMBER',
   '231953-37-0': 'CAS_NUMBER',
@@ -62734,7 +62767,7 @@ export default {
   '3-(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,9,9-Heptadecafluoro-8-nonen-1-yl)oxy)phenyl)sulfonyl)amino)-N,N,N-trimethyl-1-propanaminium iodide':
     '',
   '3-((3-((2-Carboxyethyl)((tridecafluorohexyl)sulfonyl)amino)propyl)(dimethyl)azaniumyl)propanoate':
-    'national unique domain values',
+    '',
   '3-((3-((2-Hydroxyethyl)(dimethyl)azaniumyl)propyl)((perfluorobutyl)sulfonyl)amino)propane-1-sulfonate':
     'national unique domain values',
   '3-((3-((N-(2-Carboxyethyl)-perfluorobutyl)sulfonamido)propyl)-dimethylammonio)propanoate':
@@ -62760,16 +62793,16 @@ export default {
     'national unique domain values',
   '3-(12,12,13,13,14,14,15,15,15-Nonafluoropentadecyl)benzene-1,2-diol': '',
   '3-(2,2,3,3,3-Pentafluoro-propoxy)-benzaldehyde': '',
-  '3-(2,2,3,3,3-Pentafluoropropoxy)propanenitrile':
-    'national unique domain values',
+  '3-(2,2,3,3,3-Pentafluoropropoxy)propanenitrile': '',
   '3-(2,2,3,3,4,4,4-Heptafluorobutoxy)propane-1,2-diol':
     'national unique domain values',
-  '3-(2,2,3,3,4,4,4-Heptafluorobutoxy)propanenitrile': '',
+  '3-(2,2,3,3,4,4,4-Heptafluorobutoxy)propanenitrile':
+    'national unique domain values',
   '3-(2,2,3,3,4,4,4-Heptafluorobutylidene)oxolan-2-one':
     'national unique domain values',
   '3-(2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluorononyl)-4-(iodomethyl)oxolane':
-    '',
-  '3-(2,2,3,3,4,4-Hexafluorobutoxy)aniline': '',
+    'national unique domain values',
+  '3-(2,2,3,3,4,4-Hexafluorobutoxy)aniline': 'national unique domain values',
   '3-(2,2,3,3-Tetrafluoropropanoyl)-4H-1-benzopyran-4-one':
     'national unique domain values',
   '3-(2,2,3,3-Tetrafluoropropoxy)prop-1-ene': '',
@@ -62778,26 +62811,29 @@ export default {
     'national unique domain values',
   '3-(2,2-Dichlorovinyl)-2,2-dimethylcyclopropane-1-carboxylic acid': '',
   '3-(2,3,3,4,4,4-Hexafluorobutan-2-ylsulfonyloxy)propyl 2,3,3,4,4,4-hexafluorobutane-2-sulfonate':
-    '',
-  '3-(2,3,3,4,4,5,5-Heptafluorocyclopent-1-en-1-yl)-2,5-dimethylthiophene': '',
+    'national unique domain values',
+  '3-(2,3,3,4,4,5,5-Heptafluorocyclopent-1-en-1-yl)-2,5-dimethylthiophene':
+    'national unique domain values',
   '3-(2-(Perfluorodecyl)ethanesulfinyl)propanoic acid': '',
   '3-(2-(Perfluorodecyl)ethanesulfonyl)propanoic acid':
     'national unique domain values',
   '3-(2-(Perfluorodecyl)ethylsulfanyl)propanoic acid': '',
-  '3-(2-(Perfluorododecyl)ethanesulfinyl)propanoic acid': '',
+  '3-(2-(Perfluorododecyl)ethanesulfinyl)propanoic acid':
+    'national unique domain values',
   '3-(2-(Perfluorododecyl)ethanesulfonyl)propanoic acid':
     'national unique domain values',
   '3-(2-(Perfluorohexyl)ethanesulfonyl)propanoic acid':
     'national unique domain values',
   '3-(2-(Perfluorooctyl)ethanesulfinyl)propanoic acid': '',
-  '3-(2-(Perfluorotetradecyl)ethanesulfinyl)propanoic acid':
-    'national unique domain values',
+  '3-(2-(Perfluorotetradecyl)ethanesulfinyl)propanoic acid': '',
   '3-(2-(Perfluorotetradecyl)ethanesulfonyl)propanoic acid': '',
-  '3-(2-(Perfluorotetradecyl)ethylsulfanyl)propanoic acid': '',
-  '3-(2-Chloro-1,1,2,2-tetrafluoroethoxy)propene': '',
-  '3-(2-Chloro-1,1,2,3,3,3-hexafluoropropoxy)prop-1-ene': '',
-  '3-(2-Chloro-1,1,2-trifluoroethoxy)-2,2,3,3-tetrafluoropropanenitrile':
+  '3-(2-(Perfluorotetradecyl)ethylsulfanyl)propanoic acid':
     'national unique domain values',
+  '3-(2-Chloro-1,1,2,2-tetrafluoroethoxy)propene':
+    'national unique domain values',
+  '3-(2-Chloro-1,1,2,3,3,3-hexafluoropropoxy)prop-1-ene':
+    'national unique domain values',
+  '3-(2-Chloro-1,1,2-trifluoroethoxy)-2,2,3,3-tetrafluoropropanenitrile': '',
   '3-(2-Chloro-4-fluorobenzamido)-2-fluoro-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     '',
   '3-(2-Iodoethyl)-4-(2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl)pyrrolidine-1-carbonitrile':
@@ -62816,12 +62852,11 @@ export default {
   '3-(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluorodecane-1-sulfinyl)-2-hydroxy-N,N,N-trimethylpropan-1-aminium':
     'national unique domain values',
   '3-(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Henicosafluorododecane-1-sulfinyl)-2-hydroxy-N,N,N-trimethylpropan-1-aminium':
-    '',
+    'national unique domain values',
   '3-(3,3,4,4,5,5-Hexafluorocyclopenten-1-yl)-2-methyl-1-benzothiophene':
     'national unique domain values',
   '3-(3,4-Dibromo-1,1,2,2-tetrafluorobutyl)-1,1,2,2-tetrafluorocyclobutane': '',
-  '3-(3,5-Dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboximide':
-    'national unique domain values',
+  '3-(3,5-Dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboximide': '',
   '3-(3,5-Dimethyl-1H-pyrazol-1-yl)-2,2,3,3-tetrafluoropropanoic acid': '',
   '3-(3-Chloro-1,1,2,2,3,3-hexafluoropropoxy)propene':
     'national unique domain values',
@@ -62833,7 +62868,7 @@ export default {
   '3-(4-Chloro-2-fluorobenzamido)-2-fluoro-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     '',
   '3-(4-Chloro-2-nitrobenzamido)-2-fluoro-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
-    '',
+    'national unique domain values',
   '3-(4-Chlorophenyl)-6-(heptafluoropropyl)-1,4-dihydro-1,2,4,5-tetrazine':
     'national unique domain values',
   '3-(4-Chlorophenyl)-6-(pentafluoroethyl)-1,4-dihydro-1,2,4,5-tetrazine':
@@ -62851,7 +62886,7 @@ export default {
   '3-(Bromomethyl)-1,1,1,2,2,4,4,5,5,6,6,6-dodecafluorohexan-3-ol':
     'national unique domain values',
   '3-(Butane-1-sulfinyl)-2-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
-    '',
+    'national unique domain values',
   '3-(Butane-1-sulfinyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
     'national unique domain values',
   '3-(Butane-1-sulfonyl)-2-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
@@ -62861,7 +62896,7 @@ export default {
   '3-(Butane-2-sulfinyl)-2-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
     '',
   '3-(Butane-2-sulfinyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
-    'national unique domain values',
+    '',
   '3-(Butane-2-sulfonyl)-2-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
     'national unique domain values',
   '3-(Butane-2-sulfonyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
@@ -62877,23 +62912,24 @@ export default {
   '3-(Chloromethyl)pyridine Hydrochloride': 'STANDARD NAME (Normalized)',
   '3-(Chlorosulfonyl)-2,2,3,3-tetrafluoropropanoyl chloride':
     'national unique domain values',
-  '3-(Difluoromethoxy)-1,1,1,2,2,3-hexafluoropropane': '',
+  '3-(Difluoromethoxy)-1,1,1,2,2,3-hexafluoropropane':
+    'national unique domain values',
   '3-(Difluoromethyl)-1,3,4,4,5,6,6,6-octafluorohex-1-ene': '',
   '3-(Difluoromethyl)-2,2,3,4,4-pentafluorothiolane 1,1-dioxide': '',
   '3-(Dimethyl(3-(((tridecafluorohexyl)sulfonyl)amino)propyl)azaniumyl)-2-hydroxypropane-1-sulfonate':
     '',
   '3-(Dimethyl(3-(((tridecafluorohexyl)sulfonyl)amino)propyl)azaniumyl)propanoate':
-    '',
-  '3-(Dimethyl{3-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptane-1-sulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
-    '',
-  '3-(Dimethyl{3-[(Perfluorodecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     'national unique domain values',
-  '3-(Dimethyl{3-[(Perfluorododecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
+  '3-(Dimethyl{3-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptane-1-sulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
+    'national unique domain values',
+  '3-(Dimethyl{3-[(Perfluorodecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     '',
+  '3-(Dimethyl{3-[(Perfluorododecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
+    'national unique domain values',
   '3-(Dimethyl{3-[(Perfluorononanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     'national unique domain values',
   '3-(Dimethyl{3-[(Perfluoroundecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
-    '',
+    'national unique domain values',
   '3-(Dimethyl{3-[(pentafluoroethanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     'national unique domain values',
   '3-(Dimethyl{3-[methyl(pentafluoroethanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
@@ -62901,21 +62937,21 @@ export default {
   '3-(Dimethyl{3-[methyl(perfluorobutanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     '',
   '3-(Dimethyl{3-[methyl(perfluorodecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
-    'national unique domain values',
+    '',
   '3-(Dimethyl{3-[methyl(perfluorododecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
-    'national unique domain values',
+    '',
   '3-(Dimethyl{3-[methyl(perfluoroheptanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     'national unique domain values',
   '3-(Dimethyl{3-[methyl(perfluorononanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     'national unique domain values',
   '3-(Dimethyl{3-[methyl(perfluorooctanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
-    'national unique domain values',
+    '',
   '3-(Dimethyl{3-[methyl(perfluoropentanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     'national unique domain values',
   '3-(Dimethyl{3-[methyl(perfluoropropanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
     '',
   '3-(Dimethyl{3-[methyl(perfluoroundecanesulfonyl)amino]propyl}azaniumyl)propane-1-sulfonate':
-    '',
+    'national unique domain values',
   '3-(Ethanesulfinyl)-2-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
     '',
   '3-(Ethanesulfinyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
@@ -62923,12 +62959,13 @@ export default {
   '3-(Ethanesulfonyl)-2,2,3,3-tetrafluoropropanoyl fluoride':
     'national unique domain values',
   '3-(Ethanesulfonyl)-2-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
-    'national unique domain values',
+    '',
   '3-(Ethanesulfonyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
     '',
-  '3-(Ethylsulfanyl)-2,2,3,3-tetrafluoropropanoyl fluoride': '',
-  '3-(Ethylsulfanyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
+  '3-(Ethylsulfanyl)-2,2,3,3-tetrafluoropropanoyl fluoride':
     'national unique domain values',
+  '3-(Ethylsulfanyl)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
+    '',
   '3-(Heptadecafluorooctyl)-1,2,4,5-tetramethylbenzene': '',
   '3-(Heptadecafluorooctyl)-1,2,4-trioxolane': 'national unique domain values',
   '3-(Heptadecafluorooctyl)aniline': '',
@@ -62962,13 +62999,13 @@ export default {
     'national unique domain values',
   '3-(Pentafluoroethoxy)prop-1-ene': '',
   '3-(Pentafluoroethoxy)pyrrolidine': '',
-  '3-(Pentafluoroethyl)aniline': 'national unique domain values',
+  '3-(Pentafluoroethyl)aniline': '',
   '3-(Pentafluoroethyl)benzonitrile': 'national unique domain values',
   '3-(Perfluoro(1-(ethenyloxy)propan-2-yl)oxy}-2,2,3,3-tetrafluoropropyl dihydrogen phosphate':
     '',
-  '3-(Perfluoro(11-methyl)dodecyl)-2-hydroxypropyl propenoate': '',
-  '3-(Perfluoro(11-methyldodecyl))-2-hydroxypropyl dihydrogen phosphate':
+  '3-(Perfluoro(11-methyl)dodecyl)-2-hydroxypropyl propenoate':
     'national unique domain values',
+  '3-(Perfluoro(11-methyldodecyl))-2-hydroxypropyl dihydrogen phosphate': '',
   '3-(Perfluoro(13-methyl)tetradecyl)-2-hydroxypropyl acrylate':
     'national unique domain values',
   '3-(Perfluoro(13-methyltetradecyl))-2-hydroxypropyl dihydrogen phosphate': '',
@@ -63029,17 +63066,16 @@ export default {
     'national unique domain values',
   '3-(Perfluorononyl)-propane-1-sulfonic acid': 'national unique domain values',
   '3-(Perfluorononyl)propanoic acid': 'national unique domain values',
-  '3-(Perfluorooctyl)-1,2-propenoxide': 'national unique domain values',
-  '3-(Perfluorooctyl)-1-[(2-hydroxyacetyl)sulfanyl]propan-1-one':
+  '3-(Perfluorooctyl)-1,2-propenoxide': '',
+  '3-(Perfluorooctyl)-1-[(2-hydroxyacetyl)sulfanyl]propan-1-one': '',
+  '3-(Perfluorooctyl)-2-hydroxypropyl acrylate':
     'national unique domain values',
-  '3-(Perfluorooctyl)-2-hydroxypropyl acrylate': '',
-  '3-(Perfluorooctyl)propane-1-sulfonic acid': 'national unique domain values',
+  '3-(Perfluorooctyl)propane-1-sulfonic acid': '',
   '3-(Perfluorooctyl)propanol': '',
-  '3-(Perfluorooctyl)propyl iodide': 'national unique domain values',
+  '3-(Perfluorooctyl)propyl iodide': '',
   '3-(Perfluorooctyl)propylamine': 'national unique domain values',
   '3-(Perfluoropentanesulfonamido)-N,N,N-trimethylpropan-1-aminium': '',
-  '3-(Perfluoropentyl)-1-[(2-hydroxyacetyl)sulfanyl]propan-1-one':
-    'national unique domain values',
+  '3-(Perfluoropentyl)-1-[(2-hydroxyacetyl)sulfanyl]propan-1-one': '',
   '3-(Perfluoropentyl)-5-methylpyrazole': 'national unique domain values',
   '3-(Perfluoropentyl)-propane-1-sulfonic acid':
     'national unique domain values',
@@ -63060,9 +63096,9 @@ export default {
   '3-(Perfluoroundecyl)propane-1-sulfonic acid': '',
   '3-(Perfluoroundecyl)propanoic acid': '',
   '3-(Tridecafluorohexyl)aniline': 'national unique domain values',
-  '3-(Tridecafluorohexyl)benzene-1-thiol': '',
+  '3-(Tridecafluorohexyl)benzene-1-thiol': 'national unique domain values',
   '3-(Tridecafluorohexyl)oxan-2-ol': '',
-  '3-(Tridecafluorohexyl)pyridin-4-amine': '',
+  '3-(Tridecafluorohexyl)pyridin-4-amine': 'national unique domain values',
   '3-(Tridecafluorohexyl)thiophene': 'national unique domain values',
   '3-(Triethoxysilyl)propyl heptafluorobutanoate':
     'national unique domain values',
@@ -63144,11 +63180,10 @@ export default {
     'national unique domain values',
   '3-Azido-2,3,3-trifluoro-2-(heptafluoropropoxy)propanoyl fluoride': '',
   '3-Benzamido-2,6-difluoro-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
-    'national unique domain values',
-  '3-Benzamido-2-fluoro-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     '',
-  '3-Benzamido-N-(2,2,3,3,3-pentafluoropropyl)benzamide':
+  '3-Benzamido-2-fluoro-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2,6-dimethylphenyl]benzamide':
     'national unique domain values',
+  '3-Benzamido-N-(2,2,3,3,3-pentafluoropropyl)benzamide': '',
   '3-Benzamido-N-(2,2,3,3,4,4,4-heptafluorobutyl)benzamide':
     'national unique domain values',
   '3-Benzamido-N-[2-bromo-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-(trifluoromethyl)phenyl]-2-fluorobenzamide':
@@ -63163,12 +63198,13 @@ export default {
   '3-Bromochlorobenzene': 'Nemi.gov',
   '3-Bromophenylphenyl Ether': 'STORETW Provider',
   '3-Bromopropene': 'national unique domain values',
-  '3-Buten-2-ol, 1,1,1,3,4,4-hexafluoro-2-(trifluoromethyl)-': '',
+  '3-Buten-2-ol, 1,1,1,3,4,4-hexafluoro-2-(trifluoromethyl)-':
+    'national unique domain values',
   '3-Buten-2-ol, 1,1,1-trifluoro-4,4-dimethoxy-2-(trifluoromethyl)-': '',
   '3-Buten-2-ol, 1,1,1-trifluoro-4-(phenylthio)-2-(trifluoromethyl)-':
     'national unique domain values',
   '3-Butyl-1-((perfluorohexyl)eth-2-yl)-1H-imidazol-3-ium hexafluorophosphate':
-    'national unique domain values',
+    '',
   '3-Butyl-1-methyl-1H-imidazolium N,N-bis(perfluorobutanesulfonyl)amide':
     'national unique domain values',
   '3-Butyn-2-ol, 2-methyl-': 'STORETW Provider',
@@ -63194,7 +63230,8 @@ export default {
     'national unique domain values',
   '3-Chloro-2,2,3-trifluorooctahydro-4,7-methano-1-benzothiophene': '',
   '3-Chloro-2,2,3-trifluorooxetane': '',
-  '3-Chloro-2,3,4,4-tetrafluorocyclobut-1-en-1-ol': '',
+  '3-Chloro-2,3,4,4-tetrafluorocyclobut-1-en-1-ol':
+    'national unique domain values',
   '3-Chloro-2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)aniline': '',
   '3-Chloro-3,4,4,4-tetrafluoro-2-methylbutan-2-ol': '',
   '3-Chloro-4-(pentafluoroethyl)pyridine': '',
@@ -63213,56 +63250,58 @@ export default {
   '3-Chlorobenzaldehyde': 'STANDARD NAME (Normalized)',
   '3-Chlorobicyclo[3.2.1]Oct-2-Ene': 'STORETW Provider',
   '3-Chlorobicyclo[3.2.1]oct-2-ene': 'CHARACTERISTIC Table',
-  '3-Chlorobiphenyl': 'STANDARD NAME (Normalized)',
+  '3-Chlorobiphenyl': 'CHARACTERISTIC Table',
   '3-Chlorofluorobenzene': '',
-  '3-Chloromethoxy triclosan': 'national unique domain values',
+  '3-Chloromethoxy triclosan': '',
   '3-Chloronitrobenzene': 'Nemi.gov',
   '3-Chlorophenol': '',
   '3-Chlorophenyl 4-nitrophenyl ether': 'table unique identifier',
   '3-Chlorophenyl piperazine': '',
-  '3-Chloropropionic acid, dodecyl ester': '',
-  '3-Chloropropionitrile': 'STANDARD NAME (Normalized)',
+  '3-Chloropropionic acid, dodecyl ester': 'national unique domain values',
+  '3-Chloropropionitrile': 'nemi.gov',
   '3-Chlorotoluene': '',
   '3-Cresol': 'SRS List Provider',
   '3-Cyano-2,2,3,3-tetrafluoropropanoic acid': '',
-  '3-Cyclohexene-1-carboxylic acid': 'STANDARD NAME (Normalized)',
+  '3-Cyclohexene-1-carboxylic acid': 'SRS List Provider',
   '3-Cyclohexene-1-carboxylic acid, 6-[(di-2-propen-1-ylamino)carbonyl]-, sodium salt (1:1), (1R,6R)-rel-, reaction product':
-    '',
+    'national unique domain values',
   '3-Cyclohexene-1-carboxylic acid, 6-[(di-2-propenylamino)carbonyl]-,(1R,6R)-rel-, reaction products with pentafluoroiodoethane tetrafluoroethylene telomer':
-    '',
+    'national unique domain values',
   '3-Cyclohexene-1-methanol, .alpha.,.alpha.,4-trimethyl-': 'SYSTEMATIC NAME',
   '3-D2276(Perfluoro-2-butyl)propanol': '',
   '3-Ethenyl-1,1,2-trifluoro-2-(1,1,2,2-tetrafluoro-2-{1,1,2,2-tetrafluoro-2-[1,1,2,2-tetrafluoro-2-(trifluoromethoxy)ethoxy]ethoxy}ethoxy)cyclobutane':
     'national unique domain values',
   '3-Ethenyl-1,2,2-trifluoro-1-(trifluoromethyl)cyclobutane': '',
-  '3-Ethyl-2-methylheptane': 'national unique domain values',
+  '3-Ethyl-2-methylheptane': 'table unique identifier',
+  '3-Ethyl-2-methylpentane': 'national unique domain values',
   '3-Ethyl-3-hexene': '',
-  '3-Ethyl-3-methylheptane': 'national unique domain values',
+  '3-Ethyl-3-methylheptane': '',
   '3-Ethyl-7,8,8,9,9,10,10,11,11,12,12,13,13,13-tetradecafluorotridec-6-en-6-yl phosphate':
     'national unique domain values',
-  '3-Ethylcyclopentene': 'table unique identifier',
+  '3-Ethylcyclopentene': 'national unique domain values',
   '3-Ethylhexane': '',
-  '3-Ethylpentane': 'national unique domain values',
+  '3-Ethylpentane': '',
   '3-Ethylphenol': 'national unique domain values',
   '3-Ethylpyridine': 'national unique domain values',
-  '3-Ethylsulfanyl-1,1,1,2,2-pentafluoropropane':
-    'national unique domain values',
+  '3-Ethylsulfanyl-1,1,1,2,2-pentafluoropropane': '',
   '3-Ethyltoluene': '',
   '3-Fluorene': 'STORETW Provider',
   '3-Fluoro-3-(Perfluorononyl)prop-2-ene-1-sulfonic acid': '',
   '3-Fluoro-3-(perfluorobutyl)acrylic acid': '',
   '3-Fluoro-3-(perfluorobutyl)prop-2-ene-1-sulfonic acid': '',
   '3-Fluoro-3-(perfluorodecyl)acrylic acid': 'national unique domain values',
-  '3-Fluoro-3-(perfluorodecyl)prop-2-ene-1-sulfonic acid': '',
+  '3-Fluoro-3-(perfluorodecyl)prop-2-ene-1-sulfonic acid':
+    'national unique domain values',
   '3-Fluoro-3-(perfluorododecyl)acrylic acid': 'national unique domain values',
   '3-Fluoro-3-(perfluorododecyl)prop-2-ene-1-sulfonic acid': '',
   '3-Fluoro-3-(perfluoroheptyl)prop-2-ene-1-sulfonic acid':
     'national unique domain values',
-  '3-Fluoro-3-(perfluorohexyl)acrylic acid': '',
+  '3-Fluoro-3-(perfluorohexyl)acrylic acid': 'national unique domain values',
   '3-Fluoro-3-(perfluorohexyl)prop-2-ene-1-sulfonic acid': '',
   '3-Fluoro-3-(perfluorooctyl)acrylic acid': 'national unique domain values',
-  '3-Fluoro-3-(perfluorooctyl)prop-2-ene-1-sulfonic acid': '',
-  '3-Fluoro-3-(perfluorotridecyl)acrylic acid': '',
+  '3-Fluoro-3-(perfluorooctyl)prop-2-ene-1-sulfonic acid':
+    'national unique domain values',
+  '3-Fluoro-3-(perfluorotridecyl)acrylic acid': 'national unique domain values',
   '3-Fluoro-3-(perfluorotridecyl)prop-2-ene-1-sulfonic acid':
     'national unique domain values',
   '3-Fluoro-3-(perfluoroundecyl)prop-2-ene-1-sulfonic acid': '',
@@ -63270,15 +63309,16 @@ export default {
   '3-Fluoro-4-(pentafluoroethyl)benzoic acid': 'national unique domain values',
   '3-Fluoro-4-nitrophenol': 'STANDARD NAME (Normalized)',
   "3-Fluoro-4-{(E)-[4'-(heptafluoropropyl)[1,1'-biphenyl]-4-yl]diazenyl}phenol":
-    'national unique domain values',
+    '',
   '3-Fluoropropyl nonafluorobutane-1-sulfonate':
     'national unique domain values',
   '3-HYDROXYCARBOFURAN': 'ATTAINS.parameter',
-  '3-Heptanone': 'national unique domain values',
+  '3-Heptanone': 'table unique identifier',
   '3-Heptanone, 6,6,7,7-tetrafluoro-5-hydroxy-2,2-dimethyl-5-phenyl-': '',
   '3-Heptene, 1,1,1,3-tetrafluoro-2-(trifluoromethyl)-': '',
-  '3-Heptene, 1,1,1,7,7,7-hexafluoro-2,2,6,6-tetrakis(trifluoromethyl)-': '',
-  '3-Heptene, 2,2,4,6,6-pentamethyl-': 'CHARACTERISTIC Table',
+  '3-Heptene, 1,1,1,7,7,7-hexafluoro-2,2,6,6-tetrakis(trifluoromethyl)-':
+    'national unique domain values',
+  '3-Heptene, 2,2,4,6,6-pentamethyl-': 'STANDARD NAME (Normalized)',
   '3-Heptene, 5,5,6,6,7,7,7-heptafluoro-3-nitro-':
     'national unique domain values',
   '3-Heptene-2,6-diol,1,1,1,7,7,7-hexafluoro-2,6-bis(trifluoromethyl)-': '',
@@ -63297,12 +63337,16 @@ export default {
   '3-Hexene, 1,1,2,2,5,5,6,6-octafluoro-': '',
   '3-Hexene-2,5-Dione': 'STORETW Provider',
   '3-Hexene-2,5-dione': 'CHARACTERISTIC Table',
-  '3-Hexyl-1-methyl-1H-Imidazolium perfluorobutanesulfonate': '',
-  '3-Hydroxy-3-[(3,3,4,4,4-pentafluorobutyl)sulfanyl]propanoic acid': '',
+  '3-Hexyl-1-methyl-1H-Imidazolium perfluorobutanesulfonate':
+    'national unique domain values',
+  '3-Hydroxy-3-[(3,3,4,4,4-pentafluorobutyl)sulfanyl]propanoic acid':
+    'national unique domain values',
   '3-Hydroxy-3-[(3,3,4,4,5,5,6,6,6-nonafluorohexyl)sulfanyl]propanoic acid': '',
-  '3-Hydroxy-3-[2-(perfluorododecyl)ethylsulfanyl]propanoic acid': '',
+  '3-Hydroxy-3-[2-(perfluorododecyl)ethylsulfanyl]propanoic acid':
+    'national unique domain values',
   '3-Hydroxy-3-[2-(perfluorohexyl)ethylsulfanyl]propanoic acid': '',
-  '3-Hydroxy-3-[2-(perfluorotetradecyl)ethylsulfanyl]propanoic acid': '',
+  '3-Hydroxy-3-[2-(perfluorotetradecyl)ethylsulfanyl]propanoic acid':
+    'national unique domain values',
   '3-Hydroxy-3-methyl-4-pentyn-1-yl perfluoro-2-[2-(propoxy)propoxy]propanoate':
     'national unique domain values',
   '3-Hydroxy-3-methyl-4-pentyn-1-yl perfluoro-3,6,9,12,15-pentaoxaheptadecanoate':
@@ -63330,45 +63374,46 @@ export default {
   '3-Methyl-1-Indanone': 'STORETW Provider',
   '3-Methyl-1-butanol': 'STANDARD NAME (Normalized)',
   '3-Methyl-1-butene & Cyclopentene': 'national unique domain values',
-  '3-Methyl-1-indanone': 'CHARACTERISTIC Table',
-  '3-Methyl-1-pentanol': 'national unique domain values',
+  '3-Methyl-1-indanone': 'STANDARD NAME (Normalized)',
+  '3-Methyl-1-pentanol': '',
   '3-Methyl-1-pentene': 'SYSTEM MISSING RESOLUTION',
   '3-Methyl-1H-indole': 'nemi.gov',
   '3-Methyl-2,3-dihydrofuran': '',
-  '3-Methyl-2-(nonafluorobutyl)-1H-indole': '',
+  '3-Methyl-2-(nonafluorobutyl)-1H-indole': 'national unique domain values',
   '3-Methyl-2-butanone': 'SRS List Provider',
   '3-Methyl-2-hexene': 'national unique domain values',
   '3-Methyl-2-pentanone': 'STANDARD NAME (Normalized)',
-  '3-Methyl-3-(2,2,3,3,3-pentafluoropropoxy)oxetane':
+  '3-Methyl-3-(2,2,3,3,3-pentafluoropropoxy)oxetane': '',
+  '3-Methyl-4-(methylsulfanyl)phenyl pentafluoroethane-1-sulfonate': '',
+  '3-Methyl-4-methylidenehexane':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/115485',
+  '3-Methyl-5-(tridecafluorohexyl)-1,2,4-trioxolane':
     'national unique domain values',
-  '3-Methyl-4-(methylsulfanyl)phenyl pentafluoroethane-1-sulfonate':
-    'national unique domain values',
-  '3-Methyl-4-methylidenehexane': 'national unique domain values',
-  '3-Methyl-5-(tridecafluorohexyl)-1,2,4-trioxolane': '',
-  '3-Methyl-5-propylnonane': 'national unique domain values',
-  '3-Methylbiphenyl': 'STORETW Provider',
+  '3-Methyl-5-propylnonane': '',
+  '3-Methylbiphenyl': 'CHARACTERISTIC Table',
   '3-Methylbutyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate':
     'national unique domain values',
-  '3-Methylbutyl N-(2,2,3,3,4,4,4-heptafluorobutanoyl)-L-leucinate': '',
+  '3-Methylbutyl N-(2,2,3,3,4,4,4-heptafluorobutanoyl)-L-leucinate':
+    'national unique domain values',
   '3-Methylbutyl heptadecafluorononanoate': '',
-  '3-Methylcholanthrene': 'STANDARD NAME (Normalized)',
+  '3-Methylcholanthrene': 'CHARACTERISTIC Table',
   '3-Methylchrysene': 'national unique domain values',
-  '3-Methyldibenzothiophene': 'STANDARD NAME (Normalized)',
+  '3-Methyldibenzothiophene': 'CHARACTERISTIC Table',
   '3-Methyldodecane': '',
-  '3-Methylfluoranthene': 'national unique domain values',
+  '3-Methylfluoranthene': '',
   '3-Methylfluoranthene/Benzo[A]Fluorene': 'STORETW Provider',
-  '3-Methylfluoranthene/Benzo[a]fluorene': 'STANDARD NAME (Normalized)',
-  '3-Methylheptane': '',
-  '3-Methylhexane': 'STORETW Provider',
-  '3-Methylindole': 'CHARACTERISTIC Table',
+  '3-Methylfluoranthene/Benzo[a]fluorene': 'CHARACTERISTIC Table',
+  '3-Methylheptane': 'national unique domain values',
+  '3-Methylhexane': 'CHARACTERISTIC Table',
+  '3-Methylindole': 'STANDARD NAME (Normalized)',
   '3-Methylnaphthalene': 'STORETW Provider',
-  '3-Methylnonane': 'CHARACTERISTIC Table',
+  '3-Methylnonane': 'STANDARD NAME (Normalized)',
   '3-Methylpentane': 'CHARACTERISTIC Table',
-  '3-Methylphenanthrene': 'STORETW Provider',
+  '3-Methylphenanthrene': 'STANDARD NAME (Normalized)',
   '3-Methylphenol/4-Methylphenol Coelution': 'STORETW Provider',
   '3-Methylphenol/4-Methylphenol coelution': '',
   '3-Methylphenyl pentafluoropropanoate': 'national unique domain values',
-  '3-Methylpyridine': 'national unique domain values',
+  '3-Methylpyridine': '',
   '3-Methylsalicylic acid': 'CHARACTERISTIC Table',
   '3-MoCB': 'nemi.gov',
   '3-Mobde': 'STORETW Provider',
@@ -63388,61 +63433,64 @@ export default {
   '3-Oxabicyclo[3.2.1]octane, 2,2,4,4-Tetrafluoro-1,8,8-trimethyl-, (1S)-': '',
   '3-Oxo-2-[2-(2,2,3,3-tetrafluoro-2,3-dihydro-1,4-benzodioxin-6-yl)hydrazinylidene]butanenitrile':
     '',
-  '3-Pcb': 'STORETW Provider',
+  '3-Pcb': 'SYSTEMATIC NAME',
   '3-Pentanol, 1,1,1,2,4,5,5,5-octafluoro-2,4-bis(trifluoromethyl)-, compd. with tetrahydrofuran (1:1)':
     'national unique domain values',
-  '3-Pentanol, 2-methyl-': 'STORETW Provider',
+  '3-Pentanol, 2-methyl-': 'SYSTEMATIC NAME',
   '3-Pentanol, 3-Ethyl-': 'STORETW Provider',
-  '3-Pentanol, 3-ethyl-': 'STANDARD NAME (Normalized)',
-  '3-Pentanone': '',
+  '3-Pentanol, 3-ethyl-': 'CHARACTERISTIC Table',
+  '3-Pentanone': 'national unique domain values',
   '3-Pentanone, 1,1,1,2,2,4,5,5,5-nonafluoro-4-(trifluoromethyl)-':
     'national unique domain values',
-  '3-Pentanone, 1,1,1,2,4,5,5,5-octafluoro-2,4-bis(trifluoromethyl)-': '',
-  '3-Pentanone, 1,1,2,2,4,4,5,5-octafluoro-1,5-dimethoxy-': '',
+  '3-Pentanone, 1,1,1,2,4,5,5,5-octafluoro-2,4-bis(trifluoromethyl)-':
+    'national unique domain values',
+  '3-Pentanone, 1,1,2,2,4,4,5,5-octafluoro-1,5-dimethoxy-':
+    'national unique domain values',
   '3-Pentanone, 2,2,4,4-tetramethyl-': 'STORETW Provider',
-  '3-Pentanone, 2-methyl-': 'STORETW Provider',
+  '3-Pentanone, 2-methyl-': 'SYSTEMATIC NAME',
   '3-Penten-2-ol, 1,1,1-trifluoro-2-(trifluoromethyl)-':
     'national unique domain values',
-  '3-Penten-2-one, 1,1,1,3,5,5,5-heptafluoro-4-(trifluoromethyl)-': '',
+  '3-Penten-2-one, 1,1,1,3,5,5,5-heptafluoro-4-(trifluoromethyl)-':
+    'national unique domain values',
   '3-Penten-2-one, 4,5,5,5-tetrafluoro-3-phenyl-': '',
   '3-Penten-2-one, 4-methyl-': 'SRS List Provider',
-  '3-Penten-2-one, 5,5,5-trifluoro-4-(trifluoromethyl)-': '',
+  '3-Penten-2-one, 5,5,5-trifluoro-4-(trifluoromethyl)-':
+    'national unique domain values',
   '3-Pentene-2,2-diol,1,1,1,3,5,5,5-heptafluoro-4-(trifluoromethyl)-':
     'national unique domain values',
   '3-Pentyn-1-ol': 'national unique domain values',
-  '3-Perfluoroheptyl propanoate': 'national unique domain values',
+  '3-Perfluoroheptyl propanoate': '',
   '3-Perfluoroheptyl propanoic acid': 'national unique domain values',
   '3-Perfluoroheptylpropanoic acid': '',
-  '3-Perfluoroheptylpropanoic acid (7:3 FTCA)': 'national unique domain values',
+  '3-Perfluoroheptylpropanoic acid (7:3 FTCA)': '',
   '3-Perfluorohexyl-2-hydroxypropyl acrylate': 'national unique domain values',
   '3-Perfluoropentylpropanoic acid': '',
-  '3-Perfluoropentylpropanoic acid (5:3 FTCA)': '',
-  '3-Perfluoropropyl propanoate': 'national unique domain values',
+  '3-Perfluoropentylpropanoic acid (5:3 FTCA)': 'national unique domain values',
+  '3-Perfluoropropyl propanoate': '',
   '3-Perfluoropropyl propanoic acid': '',
   '3-Perfluoropropyl propanoic acid***retired***use 3:3 Fluorotelomer carboxylic acid':
     '',
   '3-Perfluoropropylpropanoic acid': '',
   '3-Perfluoropropylpropanoic acid (3:3 FTCA)': '',
   '3-Phenoxybenzenemethanol': 'STANDARD NAME (Normalized)',
-  '3-Phenoxybenzoic acid': 'national unique domain values',
-  '3-Phenoxybenzoic acid-13C6': 'national unique domain values',
+  '3-Phenoxybenzoic acid': '',
+  '3-Phenoxybenzoic acid-13C6': '',
   '3-Phenoxybenzyl alcohol': 'nemi.gov',
   '3-Phenyl-5-(tridecafluorohexyl)-1,2,4-oxadiazole':
     'national unique domain values',
-  '3-Phenylbut-1-ene': 'STANDARD NAME (Normalized)',
-  '3-Phenyldecane': 'STANDARD NAME (Normalized)',
-  '3-Phenyltetradecane': 'STANDARD NAME (Normalized)',
-  '3-Phenyltridecane': 'STANDARD NAME (Normalized)',
-  '3-Phenylundecane': 'CHARACTERISTIC Table',
+  '3-Phenylbut-1-ene': 'CHARACTERISTIC Table',
+  '3-Phenyldecane': 'CHARACTERISTIC Table',
+  '3-Phenyltetradecane': 'CHARACTERISTIC Table',
+  '3-Phenyltridecane': 'CHARACTERISTIC Table',
+  '3-Phenylundecane': 'STANDARD NAME (Normalized)',
   '3-Phorbinepropanoic acid, 9-ethenyl-14-ethyl-21-(methoxycarbonyl)-4,8,13,18-tetramethyl-20-oxo-, (2E,7R,11R)-3,7,11,15-t':
-    'SYSTEMATIC NAME',
-  '3-Pyridinamine, 2-bromo-6-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-':
-    'national unique domain values',
-  '3-Pyridinecarboxamide': 'SYSTEMATIC NAME',
-  '3-Pyridinecarboxamide, 2-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-N,N-dimethyl-':
     'SRS List Provider',
-  "3-Pyridinecarboxamide, 2-chloro-N-(4'-chloro[1,1'-biphenyl]-2-yl)-":
+  '3-Pyridinamine, 2-bromo-6-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]-': '',
+  '3-Pyridinecarboxamide': 'STORETW Provider',
+  '3-Pyridinecarboxamide, 2-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-N,N-dimethyl-':
     'SYSTEMATIC NAME',
+  "3-Pyridinecarboxamide, 2-chloro-N-(4'-chloro[1,1'-biphenyl]-2-yl)-":
+    'STORETW Provider',
   '3-Pyridinecarboxamide, N-(2+A2:A19,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]-':
     'national unique domain values',
   '3-Pyridinecarboxamide, N-(cyanomethyl)-4-(trifluoromethyl)-':
@@ -63455,7 +63503,7 @@ export default {
   '3-Pyridinecarboxylic acid, 2-(4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-5-methyl-, (.+-.)-':
     'SRS List Provider',
   '3-Pyridinecarboxylic acid, 2-(4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-5-methyl-, (.+/-.)-':
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   '3-Pyridinecarboxylic acid, 2-(difluoromethyl)-5-(4,5-dihydro-2-thiazolyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-, methy':
     'SYSTEMATIC NAME',
   '3-Pyridinecarboxylic acid, 2-[1-[[[(3,5-difluorophenyl)amino]carbonyl]hydrazono]ethyl]-':
@@ -63463,11 +63511,11 @@ export default {
   '3-Pyridinecarboxylic acid, 2-[1-[[[(3,5-difluorophenyl)amino]carbonyl]hydrazono]ethyl]-, monosodium salt':
     'SRS List Provider',
   '3-Pyridinecarboxylic acid, 2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-':
-    'SYSTEMATIC NAME',
+    'SRS List Provider',
   '3-Pyridinecarboxylic acid, 2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-(methoxymethyl)-':
     'SRS List Provider',
   '3-Pyridinecarboxylic acid, 2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-ethyl-':
-    'SRS List Provider',
+    'SYSTEMATIC NAME',
   '3-Pyridinemethanol, 6-(2,2,3,3-tetrafluoropropoxy)-':
     'national unique domain values',
   '3-Quinolinecarboxylic acid, 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-':
@@ -63483,10 +63531,9 @@ export default {
   '3-[(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)oxy]-2-methylprop-1-ene': '',
   '3-[(1,1,1,2,3,3,3-Heptafluoropropan-2-yl)sulfanyl]benzoic acid':
     'national unique domain values',
-  '3-[(1,3-Dihydroxy-3-(perfluorodecyl)propan-2-yl)sulfanyl]propanoic acid':
-    'national unique domain values',
+  '3-[(1,3-Dihydroxy-3-(perfluorodecyl)propan-2-yl)sulfanyl]propanoic acid': '',
   '3-[(1,3-Dihydroxy-3-(perfluorododecyl)propan-2-yl)sulfanyl]propanoic acid':
-    '',
+    'national unique domain values',
   '3-[(1,3-Dihydroxy-3-(perfluorohexyl)propan-2-yl)sulfanyl]propanoic acid':
     'national unique domain values',
   '3-[(1,3-Dihydroxy-3-(perfluorooctyl)propan-2-yl)sulfanyl]propanoic  acid':
@@ -63494,33 +63541,32 @@ export default {
   '3-[(1,3-Dihydroxy-3-(perfluorooctyl)propan-2-yl)sulfanyl]propanoic acid':
     'national unique domain values',
   '3-[(1,3-Dihydroxy-3-(perfluorotetradecyl)propan-2-yl)sulfanyl]propanoic acid':
-    '',
+    'national unique domain values',
   '3-[(12,12,13,13,14,14,15,15,15-Nonafluoropentadecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
     'national unique domain values',
   '3-[(12,12,13,13,14,14,15,15,16,16,17,17,17-Tridecafluoroheptadecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
     'national unique domain values',
-  '3-[(2,2,3,3,4,4,4-Heptafluorobutoxy)methyl]-3-methyloxetane':
-    'national unique domain values',
+  '3-[(2,2,3,3,4,4,4-Heptafluorobutoxy)methyl]-3-methyloxetane': '',
   '3-[(2,2,3,3,4,4,5,5,6,6,7,7,7-Tridecafluoroheptyl)amino]phenol':
     'national unique domain values',
   '3-[(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctyl)oxy]thiophene':
     'national unique domain values',
-  '3-[(2,2,3,3,4,4,5,5,6,6,7,7,8,8-Tetradecafluorooctyl)amino]phenol': '',
-  '3-[(2-Carboxyethyl)[(perfluoro-1-sulfonyltridecyl)]amino]-N-(carboxymethyl)-N,N-dimethyl- 1-propanoate':
+  '3-[(2,2,3,3,4,4,5,5,6,6,7,7,8,8-Tetradecafluorooctyl)amino]phenol':
     'national unique domain values',
+  '3-[(2-Carboxyethyl)[(perfluoro-1-sulfonyltridecyl)]amino]-N-(carboxymethyl)-N,N-dimethyl- 1-propanoate':
+    '',
   '3-[(2-Carboxyethyl)[(perfluoro-1-sulfonyltridecyl)amino]-N-(carboxymethyl)-N,N-dimethyl- 1-propanaminium':
     'national unique domain values',
   '3-[(2-Carboxyethyl)[(perfluorobutyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium':
-    '',
+    'national unique domain values',
   '3-[(2-Carboxyethyl)[(perfluoropentyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium':
-    '',
+    'national unique domain values',
   '3-[(2-Carboxyethyl)[(perfluoropropyl)sulfonyl]amino]-N,N,N-trimethylpropanaminium':
     'national unique domain values',
-  '3-[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)oxy]propane-1,2-diol':
+  '3-[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)oxy]propane-1,2-diol': '',
+  '3-[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)oxy]propanenitrile':
     'national unique domain values',
-  '3-[(3,3,4,4,5,5,6,6,6-Nonafluorohexyl)oxy]propanenitrile': '',
-  '3-[(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctyl)oxy]propane-1,2-diol':
-    'national unique domain values',
+  '3-[(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctyl)oxy]propane-1,2-diol': '',
   '3-[(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctyl)sulfanyl]propanamide':
     'national unique domain values',
   '3-[(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctyl)sulfanyl]propanoate':
@@ -63528,55 +63574,55 @@ export default {
   '3-[(3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctyl)thio]propanoic acid lithium salt':
     'national unique domain values',
   '3-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluorodecyl)sulfanyl]-2-hydroxy-N,N,N-trimethylpropan-1-aminium':
-    '',
+    'national unique domain values',
   '3-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluorodecyl)sulfonyl]propanoic acid':
     '',
   '3-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluorodecyl)thio]-2-methylpropanoic acid lithium salt':
-    'national unique domain values',
+    '',
   '3-[(3-{(2-Carboxyethyl)[(heptadecafluorooctyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
     'national unique domain values',
   '3-[(3-{(2-Carboxyethyl)[(perfluorodecyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
     'national unique domain values',
   '3-[(3-{(2-Carboxyethyl)[(perfluorododecyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
-    '',
+    'national unique domain values',
   '3-[(3-{(2-Carboxyethyl)[(perfluoroethyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
-    'national unique domain values',
+    '',
   '3-[(3-{(2-Carboxyethyl)[(perfluoroheptyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
-    'national unique domain values',
+    '',
   '3-[(3-{(2-Carboxyethyl)[(perfluorononyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
     '',
   '3-[(3-{(2-Carboxyethyl)[(perfluoropropyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
     '',
   '3-[(3-{(2-Carboxyethyl)[(perfluorotetradecyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
-    '',
+    'national unique domain values',
   '3-[(3-{(2-Carboxyethyl)[(perfluorotridecyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
-    'national unique domain values',
-  '3-[(3-{(2-Carboxyethyl)[(perfluoroundecyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
-    'national unique domain values',
-  '3-[(3-{Ethyl[(perfluorobutyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     '',
-  '3-[(3-{Ethyl[(perfluorodecyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
+  '3-[(3-{(2-Carboxyethyl)[(perfluoroundecyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
+    '',
+  '3-[(3-{Ethyl[(perfluorobutyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     'national unique domain values',
+  '3-[(3-{Ethyl[(perfluorodecyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
+    '',
   '3-[(3-{Ethyl[(perfluorododecyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     '',
   '3-[(3-{Ethyl[(perfluoroethyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
-    'national unique domain values',
+    '',
   '3-[(3-{Ethyl[(perfluoroheptyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     'national unique domain values',
   '3-[(3-{Ethyl[(perfluorohexyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     '',
   '3-[(3-{Ethyl[(perfluorononyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
-    'national unique domain values',
+    '',
   '3-[(3-{Ethyl[(perfluorooctyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     'national unique domain values',
   '3-[(3-{Ethyl[(perfluoropentyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     'national unique domain values',
   '3-[(3-{Ethyl[(perfluoropropyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
-    '',
+    'national unique domain values',
   '3-[(3-{Ethyl[(perfluoroundecyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
-    '',
+    'national unique domain values',
   '3-[(3-{[(Perfluorodecyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
-    '',
+    'national unique domain values',
   '3-[(3-{[(Perfluorooctyl)sulfonyl]amino}propyl)(dimethyl)azaniumyl]propanoate':
     'national unique domain values',
   '3-[(3-{[(Perfluoropropyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
@@ -63584,16 +63630,16 @@ export default {
   '3-[(3-{[(Perfluorotridecyl)sulfonyl]amino}propyl)(dimethyl)ammonio]propanoate':
     'national unique domain values',
   '3-[(4,4,5,5,5-Pentafluoro-1,3-dihydroxypentan-2-yl)sulfanyl]propanoic acid':
-    '',
-  '3-[(4,4,5,5,6,6,6-Heptafluorohexanoyl)sulfanyl]-2-hydroxypropanoic acid':
     'national unique domain values',
+  '3-[(4,4,5,5,6,6,6-Heptafluorohexanoyl)sulfanyl]-2-hydroxypropanoic acid': '',
   '3-[(4,4,5,5,6,6,7,7,7-Nonafluoro-1,3-dihydroxyheptan-2-yl)sulfanyl]propanoic acid':
     'national unique domain values',
   '3-[(4-Fluorobenzoyl)-methylamino]-N-[2-iodo-4-(1,1,1,2,3,3,4,4,4-nonafluorobutan-2-yl)-6-(trifluoromethyl)phenyl]benzamide':
-    'national unique domain values',
-  '3-[(4-Formylphenoxy)methyl]thiophene-2-carbonitrile': '',
-  '3-[(6,6,7,7,8,8,9,9,10,10,11,11,11-Tridecafluoroundecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
     '',
+  '3-[(4-Formylphenoxy)methyl]thiophene-2-carbonitrile':
+    'national unique domain values',
+  '3-[(6,6,7,7,8,8,9,9,10,10,11,11,11-Tridecafluoroundecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
+    'national unique domain values',
   '3-[(6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-Heptadecafluorotridecanoyl)oxy]-4-(trimethylazaniumyl)butanoate':
     'national unique domain values',
   '3-[(Butan-2-yl)sulfanyl]-2-ethyl-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)benzoic acid':
@@ -63601,11 +63647,11 @@ export default {
   '3-[(Butan-2-yl)sulfanyl]-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylbenzoic acid':
     'national unique domain values',
   '3-[(Carboxylatomethyl)[(perfluorohexyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium hydroxide sodium salt (1:1:1)':
-    'national unique domain values',
+    '',
   '3-[(Heptafluoropropyl)sulfanyl]benzoic acid': '',
   '3-[(Nonafluorobutyl)sulfanyl]propan-1-ol': '',
   '3-[(Perfluoro-1-oxobutyl)amino]-N,N,N-trimethyl-1-propanaminium chloride':
-    '',
+    'national unique domain values',
   '3-[(Perfluoro-1-oxononyl)amino]-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium chloride':
     '',
   '3-[(Perfluoro-1-oxoundecyl)amino]-N,N-dimethyl-N-[2-(1-methylethoxy)-2-oxoethyl]-1-propanaminium':
@@ -63613,21 +63659,22 @@ export default {
   '3-[(Perfluorobutane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide':
     '',
   '3-[(Perfluorobutane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide potassium salt':
-    '',
+    'national unique domain values',
   '3-[(Perfluorobutanesulfonyl)amino]propane-1-sulfonic acid': '',
   '3-[(Perfluorodecane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide':
     '',
-  '3-[(Perfluorodecanesulfonyl)amino]propane-1-sulfonic acid': '',
+  '3-[(Perfluorodecanesulfonyl)amino]propane-1-sulfonic acid':
+    'national unique domain values',
   '3-[(Perfluorododecane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide':
     '',
-  '3-[(Perfluorododecanesulfonyl)amino]propane-1-sulfonic acid':
+  '3-[(Perfluorododecanesulfonyl)amino]propane-1-sulfonic acid': '',
+  '3-[(Perfluoroethanesulfonyl)amino]propane-1-sulfonic acid':
     'national unique domain values',
-  '3-[(Perfluoroethanesulfonyl)amino]propane-1-sulfonic acid': '',
   '3-[(Perfluoroheptane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide potassium salt':
-    '',
-  '3-[(Perfluoroheptanesulfonyl)amino]propane-1-sulfonic acid': '',
-  '3-[(Perfluoroheptyl)methyloxy]-1,2-propanediol':
     'national unique domain values',
+  '3-[(Perfluoroheptanesulfonyl)amino]propane-1-sulfonic acid':
+    'national unique domain values',
+  '3-[(Perfluoroheptyl)methyloxy]-1,2-propanediol': '',
   '3-[(Perfluorohexane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide potassium salt':
     '',
   '3-[(Perfluorohexanesulfonyl)amino]propane-1-sulfonic acid':
@@ -63639,7 +63686,8 @@ export default {
     'national unique domain values',
   '3-[(Perfluoropentane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide potassium salt':
     '',
-  '3-[(Perfluoropentanesulfonyl)amino]propane-1-sulfonic acid': '',
+  '3-[(Perfluoropentanesulfonyl)amino]propane-1-sulfonic acid':
+    'national unique domain values',
   '3-[(Perfluoropropane-1-sulfonyl)amino]-N,N-dimethylpropan-1-amine N-oxide':
     'national unique domain values',
   '3-[(Perfluorotridecanesulfonyl)amino]propane-1-sulfonic acid': '',
@@ -63650,7 +63698,7 @@ export default {
   '3-[1,1,2-Trifluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)ethoxy]propanoic acid':
     '',
   '3-[1-(Furan-2-yl)-2-(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonyl)ethyl]pentane-2,4-dione':
-    'national unique domain values',
+    '',
   '3-[1-(Thiophen-2-yl)-2-(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonyl)ethyl]pentane-2,4-dione':
     '',
   '3-[2,2,3,3,4,4,5,5-octafluoro-1-(trifluoromethyl)cyclopentyl]propanoic Acid':
@@ -63659,17 +63707,18 @@ export default {
     '',
   '3-[2,3,3,3-Tetrafluoro-2-(heptafluoropropoxy)propoxy]prop-1-ene': '',
   '3-[2,3,3,3-Tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)propoxy]propoxy]-1-propene':
-    '',
+    'national unique domain values',
   '3-[2-(Pentafluoroethyl)phenyl]propanoic acid':
     'national unique domain values',
-  '3-[2-(Perfluorobutyl)ethylsulfanyl]propionic acid': '',
-  '3-[2-(Perfluorodecyl)ethylsulfanyl]-3-hydroxypropanoic acid': '',
+  '3-[2-(Perfluorobutyl)ethylsulfanyl]propionic acid':
+    'national unique domain values',
+  '3-[2-(Perfluorodecyl)ethylsulfanyl]-3-hydroxypropanoic acid':
+    'national unique domain values',
   '3-[2-(Perfluorododecyl)ethylsulfanyl]propanoic acid':
     'national unique domain values',
-  '3-[2-(Perfluorooctyl)ethylsulfanyl]-3-hydroxypropanoic acid':
-    'national unique domain values',
+  '3-[2-(Perfluorooctyl)ethylsulfanyl]-3-hydroxypropanoic acid': '',
   '3-[2-[Difluoro(trifluoromethoxy)methoxy]-1,1,2,2-tetrafluoroethoxy]-2,3,3-trifluoropropanoic acid':
-    'national unique domain values',
+    '',
   '3-[3,3,4,4,5,5-Hexafluoro-2-[5-[2-(4-methoxyphenyl)ethenyl]-2,4-dimethylthiophen-3-yl]cyclopenten-1-yl]-6-[2-(4-methoxyphenyl)ethenyl]-2-methyl-1-benzothiophene':
     'national unique domain values',
   '3-[3-(3-Cyclopropylphenoxy)-N-[[3-(1,1,2,2,3,3,3-heptafluoropropyl)phenyl]methyl]anilino]-1,1,1-trifluoropropan-2-ol':
@@ -63687,11 +63736,11 @@ export default {
   '3-[Bromo(difluoro)methyl]-3,4,4,4-tetrafluorobut-1-ene': '',
   '3-[Chloro(dimethyl)silyl]propyl pentadecafluorooctanoate': '',
   '3-[Diethyl(3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-hexadecafluorodec-2-en-1-yl)azaniumyl]-2,2-dimethylpropyl phosphonate':
-    'national unique domain values',
+    '',
   '3-[Dimethyl(2-{[(perfluorohexyl) sulfonyl]amino}ethyl)ammonio]propanoate':
     'national unique domain values',
   '3-[Dimethyl(2-{[(perfluorooctyl) sulfonyl]amino}ethyl)ammonio]propanoate':
-    'national unique domain values',
+    '',
   '3-[Dimethyl(3-{[(perfluorobutyl)sulfonyl]amino}propyl)ammonio]propanoate':
     'national unique domain values',
   '3-[Dimethyl(3-{[(perfluorododecyl)sulfonyl]amino}propyl)ammonio]propanoate':
@@ -63699,9 +63748,9 @@ export default {
   '3-[Dimethyl(3-{[(perfluorononyl)sulfonyl]amino}propyl)ammonio]propanoate':
     'national unique domain values',
   '3-[Dimethyl(3-{[(perfluoropentyl)sulfonyl]amino}propyl)ammonio]propanoate':
-    '',
-  '3-[Dimethyl(3-{[(perfluorotetradecyl)sulfonyl]amino}propyl)ammonio]propanoate':
     'national unique domain values',
+  '3-[Dimethyl(3-{[(perfluorotetradecyl)sulfonyl]amino}propyl)ammonio]propanoate':
+    '',
   '3-[Dimethyl(3-{[(perfluoroundecyl)sulfonyl]amino}propyl)ammonio]propanoate':
     'national unique domain values',
   '3-[Ethyl(perfluoro-1-oxooctyl)amino]-1-propanesulfonic acid sodium salt':
@@ -63723,16 +63772,15 @@ export default {
   '3-[[(Heptadecafluorooctyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium iodide':
     '',
   '3-[[(Perfluorobutyl)sulfonyl]methylamino]-N,N,N-trimethyl-1-propanaminium':
-    '',
+    'national unique domain values',
   '3-[[(Perfluorodecyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium': '',
   '3-[[(Perfluorodecyl)sulfonyl]amino]-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium':
-    '',
-  '3-[[(Perfluorododecyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium':
     'national unique domain values',
+  '3-[[(Perfluorododecyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium': '',
   '3-[[(Perfluoroheptyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium bromide (1:1)':
     '',
   '3-[[(Perfluoroheptyl)sulfonyl]methylamino]-N,N,N-trimethyl-1-propanaminium':
-    'national unique domain values',
+    '',
   '3-[[(Perfluorohexyl)sulfonyl](methyl)amino]-N,N,N-trimethyl-1-propanaminium':
     '',
   '3-[[(Perfluorohexyl)sulfonyl]-N-methylamino]-N,N,N-trimethyl-1-propanaminium iodide (1:1)':
@@ -63742,40 +63790,40 @@ export default {
   '3-[[(Perfluorononyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium':
     'national unique domain values',
   '3-[[(Perfluorononyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium bromide':
-    'national unique domain values',
+    '',
   '3-[[(Perfluorooctyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium fluoride':
     'national unique domain values',
   '3-[[(Perfluorooctyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium methanesulfonate':
-    'national unique domain values',
+    '',
   '3-[[(Perfluorooctyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium sulfate (1:1)':
-    '',
+    'national unique domain values',
   '3-[[(Perfluorooctyl)sulfonyl]amino]-N,N,N-tris(2-methoxyethyl)propanaminium iodide':
-    'national unique domain values',
+    '',
   '3-[[(Perfluorooctyl)sulfonyl]amino]-N,N-dimethyl-N-propyl-1-propanaminium 4-methylbenzenesulfonate (1:1)':
-    '',
+    'national unique domain values',
   '3-[[(Perfluorooctyl)sulfonyl]amino]-N,N-dimethyl-N-propyl-1-propanaminium bromide':
-    '',
+    'national unique domain values',
   '3-[[(Perfluorooctyl)sulfonyl]amino]-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium':
-    'national unique domain values',
+    '',
   '3-[[(Perfluorooctyl)sulfonyl]ethylamino]-N,N,N-trimethyl-1-propanaminium bromide':
-    '',
+    'national unique domain values',
   '3-[[(Perfluorooctyl)sulfonyl]methylamino]-N,N,N-trimethyl-1-propanaminium':
-    'national unique domain values',
-  '3-[[(Perfluorooctyl)sulfonyl]methylamino]-N,N,N-trimethyl-1-propanaminium sulfate (1:1)':
-    'national unique domain values',
-  '3-[[(Perfluorooctyl)sulfonyl]methylamino]-N,N,N-trimethylpropanaminium iodide':
     '',
-  '3-[[(Perfluorooctyl)sulfonyl]propylamino]-N,N,N-trimethyl-1-propanaminium':
+  '3-[[(Perfluorooctyl)sulfonyl]methylamino]-N,N,N-trimethyl-1-propanaminium sulfate (1:1)':
+    '',
+  '3-[[(Perfluorooctyl)sulfonyl]methylamino]-N,N,N-trimethylpropanaminium iodide':
     'national unique domain values',
+  '3-[[(Perfluorooctyl)sulfonyl]propylamino]-N,N,N-trimethyl-1-propanaminium':
+    '',
   '3-[[(Perfluorooctyl)sulfonyl]propylamino]-N,N,N-trimethyl-1-propanaminium iodide':
     'national unique domain values',
   '3-[[(Perfluoropropyl)sulfonyl](2-hydroxyethyl)amino]-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium':
     'national unique domain values',
   '3-[[(Perfluoropropyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium iodide':
+    '',
+  '3-[[(Perfluoropropyl)sulfonyl]amino]propanesulfonic acid': '',
+  '3-[[(Perfluoroundecyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium':
     'national unique domain values',
-  '3-[[(Perfluoropropyl)sulfonyl]amino]propanesulfonic acid':
-    'national unique domain values',
-  '3-[[(Perfluoroundecyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium': '',
   '3-[[2-[(Perfluorodecyl)ethylthio]acetyl]amino]-N,N,N-trimethyl-1-propanaminium':
     'national unique domain values',
   '3-[[2-[(Perfluorohexyl)ethylthio]acetyl]amino]-N,N,N-trimethyl-1-propanaminium':
@@ -63785,19 +63833,19 @@ export default {
   '3-[[3-(Dimethylamino)-2-hydroxypropyl][(perfluorohexyl)sulfonyl]amino]-1-propanesulfonic acid':
     'national unique domain values',
   '3-[[3-(Dimethylamino)propyl]carbamoyl]-2-[(3,3,4,4,5,5,6,6,6-nonafluorohexyl)thio]propionic acid':
-    '',
-  '3-[[3-(Dimethylamino)propyl]carbamoyl]-2-[2-(perfluorododecyl)ethylthio]propionic acid':
     'national unique domain values',
+  '3-[[3-(Dimethylamino)propyl]carbamoyl]-2-[2-(perfluorododecyl)ethylthio]propionic acid':
+    '',
   '3-[[4-[(Perfluorooctyl)ethoxy]-1,4-dioxo-2-buten-1-yl]amino]-N,N,N-trimethyl-1-propanaminium iodide (1:1)':
     '',
   '3-[[Perfluorodecyl)sulfonyl](2-hydroxyethyl)amino]-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium':
-    '',
-  '3-[[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium, iodide':
     'national unique domain values',
+  '3-[[[4-[(Heptadecafluorononenyl)oxy]phenyl]sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium, iodide':
+    '',
   '3-[{3-[(Carboxymethyl)(pentafluoroethanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
     '',
   '3-[{3-[(Carboxymethyl)(perfluorobutanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
-    'national unique domain values',
+    '',
   '3-[{3-[(Carboxymethyl)(perfluorodecanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
     'national unique domain values',
   '3-[{3-[(Carboxymethyl)(perfluorododecanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
@@ -63805,15 +63853,15 @@ export default {
   '3-[{3-[(Carboxymethyl)(perfluoroheptanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
     '',
   '3-[{3-[(Carboxymethyl)(perfluorohexanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
-    '',
+    'national unique domain values',
   '3-[{3-[(Carboxymethyl)(perfluorononanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
     'national unique domain values',
   '3-[{3-[(Carboxymethyl)(perfluorooctanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
-    'national unique domain values',
+    '',
   '3-[{3-[(Carboxymethyl)(perfluoropentanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
-    'national unique domain values',
+    '',
   '3-[{3-[(Carboxymethyl)(perfluoropropanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
-    'national unique domain values',
+    '',
   '3-[{3-[(Carboxymethyl)(perfluoroundecanesulfonyl)amino]propyl}(dimethyl)azaniumyl]propane-1-sulfonate':
     '',
   '3-chloro-2,2,3,3-tetrafluoropropanoyl chloride':
@@ -63833,58 +63881,57 @@ export default {
   '3-{(2-Carboxyethyl)[(undecafluoropentyl)sulfonyl]amino}-N-(carboxymethyl)-N,N-dimethylpropan-1-aminium':
     'national unique domain values',
   '3-{(Perfluorobutanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
-    'national unique domain values',
-  '3-{(Perfluorodecanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
-    'national unique domain values',
-  '3-{(Perfluorododecanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
     '',
+  '3-{(Perfluorodecanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
+    '',
+  '3-{(Perfluorododecanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
+    'national unique domain values',
   '3-{(Perfluoroethanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
     '',
   '3-{(Perfluoroheptanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
     '',
   '3-{(Perfluorohexanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
-    'national unique domain values',
-  '3-{(Perfluorononanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
     '',
-  '3-{(Perfluorooctanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
+  '3-{(Perfluorononanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
     'national unique domain values',
+  '3-{(Perfluorooctanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
+    '',
   '3-{(Perfluoropentanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
     'national unique domain values',
   '3-{(Perfluoroundecanesulfonyl)[3-(trimethylazaniumyl)propyl]amino}propanoate':
-    '',
-  '3-{2-[Bis(1,1,2,2-tetrafluoro-2-hydroxyethyl)amino]phenyl}prop-2-enal':
     'national unique domain values',
+  '3-{2-[Bis(1,1,2,2-tetrafluoro-2-hydroxyethyl)amino]phenyl}prop-2-enal': '',
   '3-{[(Perfluorodecyl)sulfonyl]amino}-2-hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium':
     '',
   '3-{[(Perfluoroethyl)sulfonyl]amino}-3-betaine': '',
   '3-{[(Perfluorooctyl)sulfonyl]amino}-2-hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium':
     '',
   '3-{[(Perfluoropropyl)sulfonyl]amino}-2-hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium':
-    '',
+    'national unique domain values',
   '3-{[3-(Dimethylamino)-2-hydroxypropyl][(heptadecafluorooctyl)sulfonyl]amino}-1-propanesulfonic acid':
     'national unique domain values',
   '3-{[3-(Dimethylamino)propyl][(heptadecafluorooctyl)sulfonyl]amino}-2-hydroxy-1-propanesulfonic acid':
-    '',
+    'national unique domain values',
   '3-{[3-(Dimethylamino)propyl][(perfluorodecyl)sulfonyl]amino}propanoic acid':
-    '',
+    'national unique domain values',
   '3-{[3-(Dimethylamino)propyl][(perfluorododecyl)sulfonyl]amino}propanoic acid':
-    '',
+    'national unique domain values',
   '3-{[3-(Dimethylamino)propyl][(perfluorononyl)sulfonyl]amino}propanoic acid':
-    '',
+    'national unique domain values',
   '3-{[3-(Dimethylamino)propyl][(perfluorotetradecyl)sulfonyl]amino}propanoic acid':
     'national unique domain values',
   '3-{[3-(Dimethylamino)propyl][(perfluorotridecyl)sulfonyl]amino}propanoic acid':
     'national unique domain values',
   '3-{[3-(Dimethylamino)propyl][(perfluoroundecyl)sulfonyl]amino}propanoic acid':
-    'national unique domain values',
-  '3-{[3-(Dimethylamino)propyl]carbamoyl}-2-[(3,3,4,4,4-pentafluorobutyl)sulfanyl]propanoic acid':
     '',
+  '3-{[3-(Dimethylamino)propyl]carbamoyl}-2-[(3,3,4,4,4-pentafluorobutyl)sulfanyl]propanoic acid':
+    'national unique domain values',
   '3-{[3-(Dimethylamino)propyl]carbamoyl}-2-[2-(perfluorotetradecyl)ethylsulfanyl]propanoic acid':
     '',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(henicosafluorodecyl)sulfonyl]amino}-1-propanesulfonic acid':
-    '',
+    'national unique domain values',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(heptadecafluorooctyl)sulfonyl]amino}-1-propanesulfonic acid':
-    '',
+    'national unique domain values',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(heptafluoropropyl)sulfonyl]amino}-1-propanesulfonic acid':
     'national unique domain values',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(nonadecafluorononyl)sulfonyl]amino}-1-propanesulfonic acid':
@@ -63892,17 +63939,17 @@ export default {
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(nonafluorobutyl)sulfonyl]amino}-1-propanesulfonic acid':
     '',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(pentacosafluorododecyl)sulfonyl]amino}-1-propanesulfonic acid':
-    'national unique domain values',
-  '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(pentadecafluoroheptyl)sulfonyl]amino}-1-propanesulfonic acid':
     '',
+  '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(pentadecafluoroheptyl)sulfonyl]amino}-1-propanesulfonic acid':
+    'national unique domain values',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(pentafluoroethyl)sulfonyl]amino}-1-propanesulfonic acid':
-    'national unique domain values',
+    '',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(tricosafluoroundecyl)sulfonyl]amino}-1-propanesulfonic acid':
-    'national unique domain values',
+    '',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(tridecafluorohexyl)sulfonyl]amino}-1-propanesulfonic acid':
     'national unique domain values',
   '3-{[4-(Dimethylamino)-1-hydroxy-2-butanyl][(undecafluoropentyl)sulfonyl]amino}-1-propanesulfonic acid':
-    '',
+    'national unique domain values',
   '30,30,31,31,31-Pentafluoro-29-(1,1,2,2,2-pentafluoroethyl)-27,28,29-tris(trifluoromethyl)-2,5,8,11,14,17,20,23,26-nonaoxahentriacont-27-ene':
     '',
   '30.026 g/mol': 'CH2O ; Density Range:  0-40% (15°C)',
@@ -64441,10 +64488,10 @@ export default {
   '3108-42-7': 'CAS NUMBER',
   '31081-18-2': 'CAS NUMBER',
   '3109-94-2': 'CAS NUMBER',
-  '311-45-5': 'CAS_NUMBER',
+  '311-45-5': 'STORETW Provider',
   '311-89-7': 'CAS NUMBER',
   '31110-62-0': 'CAS_NUMBER',
-  '3114-55-4': 'STORETW Provider',
+  '3114-55-4': 'CAS NUMBER',
   '31143-13-2': 'CAS NUMBER',
   '3115-49-9': 'CAS NUMBER',
   '31164-13-3': 'CAS NUMBER',
@@ -64478,7 +64525,7 @@ export default {
   '313-28-0': 'CAS_NUMBER',
   '313064-40-3': 'CAS NUMBER',
   '31317-07-4': 'CAS NUMBER',
-  '31317-18-7': 'STORETW Provider',
+  '31317-18-7': 'CAS NUMBER',
   '3133-01-5': '',
   '313366-93-7': 'CAS NUMBER',
   '31339-60-3': 'CAS NUMBER',
@@ -64498,13 +64545,13 @@ export default {
   '31462-62-1': 'CAS NUMBER',
   '31462-68-7': 'CAS NUMBER',
   '3148-09-2': 'CAS NUMBER',
-  '315-18-4': 'CAS NUMBER',
-  '315-22-0': 'STORETW Provider',
+  '315-18-4': 'STORETW Provider',
+  '315-22-0': 'CAS_NUMBER',
   '31501 -- TOT COLI MFIMENDO /100ML': 'STORETW Provider',
   '31502 -- COLIFORM , TOTAL  10/ML': 'STORETW Provider',
   '31502-14-4': 'CAS NUMBER',
   '31503 -- TOT COLI MFDLENDO /100ML': 'STORETW Provider',
-  '31503-68-1': 'STORETW Provider',
+  '31503-68-1': 'CAS NUMBER',
   '31503-75-0': 'CAS_NUMBER',
   '31504 -- TOT COLI MFIM LES /100ML': 'STORETW Provider',
   '31505 -- TOT COLI MPN CONF /100ML': 'STORETW Provider',
@@ -64513,7 +64560,7 @@ export default {
   '31506-34-0': 'CAS_NUMBER',
   '31507 -- TOT COLI MPN COMP /100ML': 'STORETW Provider',
   '31508 -- TOT COLI MPN COMP TUBECODE': 'STORETW Provider',
-  '31508-00-6': 'CAS NUMBER',
+  '31508-00-6': 'STORETW Provider',
   '31520 -- TOT COLI SHELFISH MPN/100G': 'STORETW Provider',
   '31521 -- TOT COLI BOT SED  MPN/100G': 'STORETW Provider',
   '315237-99-1': 'CAS NUMBER',
@@ -64570,7 +64617,7 @@ export default {
   '31702-61-1': 'CAS NUMBER',
   '31711-53-2': 'STORETW Provider',
   '317810-57-4': 'CAS NUMBER',
-  '317815-83-1': 'CAS NUMBER',
+  '317815-83-1': 'STORETW Provider',
   '317817-24-6': 'CAS NUMBER',
   '31784-04-0': 'CAS_NUMBER',
   '31807-55-3': 'CAS NUMBER',
@@ -64585,13 +64632,13 @@ export default {
   '31898-68-7': 'CAS NUMBER',
   '319-84-6': 'CAS NUMBER',
   '319-85-7': 'STORETW Provider',
-  '319-86-8': 'CAS NUMBER',
+  '319-86-8': 'STORETW Provider',
   '31900 -- SED PART SIZE %>  -20PHI': 'STORETW Provider',
   '3194-55-6': 'CAS NUMBER',
   '319490-55-6': 'CAS NUMBER',
   '319490-62-5': 'CAS_NUMBER',
   '31972-43-7': 'CAS NUMBER',
-  '31972-44-8': 'CAS NUMBER',
+  '31972-44-8': 'STORETW Provider',
   '32-(Perfluoro-11-methyldodecyl)-2,5,8,11,14,17,20,23,26,29-decaoxadotriacontan-31-ol':
     '',
   '32-(Perfluoro-7-methyloctyl)-2,5,8,11,14,17,20,23,26,29-decaoxadotriacontan-31-ol':
@@ -65851,14 +65898,14 @@ export default {
   '350820-04-1': 'CAS NUMBER',
   '350820-06-3': 'CAS NUMBER',
   '350820-12-1': 'STORETW Provider',
-  '35109-57-0': 'CAS_NUMBER',
+  '35109-57-0': 'STORETW Provider',
   '351194-78-0': 'CAS_NUMBER',
   '351346-36-6': 'CAS NUMBER',
   '35164-43-3': 'CAS NUMBER',
   '35164-44-4': 'CAS NUMBER',
   '35189-28-7': 'STORETW Provider',
   '35192-44-0': 'CAS_NUMBER',
-  '352-93-2': 'CAS NUMBER',
+  '352-93-2': 'STORETW Provider',
   '352010-68-5': 'CAS_NUMBER',
   '35207-97-7': 'CAS NUMBER',
   '35208-00-5': 'CAS_NUMBER',
@@ -65866,7 +65913,7 @@ export default {
   '3522-94-9': 'CAS NUMBER',
   '352317-57-8': 'CAS NUMBER',
   '3524-73-0': 'CAS_NUMBER',
-  '35242-17-2': 'CAS NUMBER',
+  '35242-17-2': 'STORETW Provider',
   '352438-69-8': 'CAS NUMBER',
   '352538-84-2': 'CAS NUMBER',
   '35259-39-3': 'CAS NUMBER',
@@ -140619,81 +140666,84 @@ export default {
   'butyl benzene phthalate': 'CST.pollutant',
   butylate: 'CST.std.pollutant',
   'butylbenzyl phthalate': 'CST.std.pollutant',
-  cadmium: 'CST.pollutant',
-  calcium: 'CST.std.pollutant',
+  cadmium: 'CST.std.pollutant',
+  calcium: 'CST.pollutant',
   captan: 'CST.std.pollutant',
   carbaryl: 'CST.std.pollutant',
-  carbofuran: 'CST.pollutant',
-  'carbon disulfide': 'CST.pollutant',
+  carbofuran: 'CST.std.pollutant',
+  'carbon disulfide': 'CST.std.pollutant',
   'carbon tetrachloride': 'CST.std.pollutant',
   carboxin: 'CST.pollutant',
-  cesium: 'CST.pollutant',
+  cesium: 'CST.std.pollutant',
   characteristicname: 'national unique domain values',
-  chlopyralid: 'CST.std.pollutant',
-  chloramben: 'CST.pollutant',
+  chlopyralid: 'CST.pollutant',
+  chloramben: 'CST.std.pollutant',
   chlordane: 'CST.pollutant',
-  chloride: 'CST.pollutant',
-  'chlorimuron ethyl': 'CST.std.pollutant',
+  chloride: 'CST.std.pollutant',
+  'chlorimuron ethyl': 'CST.pollutant',
   'chlorinated naphthalenes': 'CST.std.pollutant',
-  chlorine: 'CST.pollutant',
+  chlorine: 'CST.std.pollutant',
   chlorite: 'CST.pollutant',
-  'chloroacetic acid': 'CST.pollutant',
+  'chloroacetic acid': 'CST.std.pollutant',
   chlorobenzene: 'CST.pollutant',
-  chlorodibromomethane: 'CST.std.pollutant',
-  chloroethane: 'CST.pollutant',
+  chlorodibromomethane: 'CST.pollutant',
+  chloroethane: 'CST.std.pollutant',
   'chloroethylene (vinyl chloride)': 'CST.pollutant',
   chloroform: 'CST.pollutant',
   chloromethane: 'CST.pollutant',
-  'chloromethyl methyl ether': 'CST.std.pollutant',
+  'chloromethyl methyl ether': 'CST.pollutant',
   'chlorophenoxy herbicide (2,4,5-tp) [silvex]': 'CST.std.pollutant',
   'chlorophenoxy herbicide (2,4-d)': 'CST.std.pollutant',
-  'chlorophyll a': 'CST.std.pollutant',
-  chloroprene: 'CST.pollutant',
+  'chlorophyll a': 'CST.pollutant',
+  chloroprene: 'CST.std.pollutant',
   chloropyrifos: 'CST.pollutant',
-  chlorothaonil: 'CST.pollutant',
+  chlorothaonil: 'CST.std.pollutant',
   chlorpyrifos: 'CST.std.pollutant',
-  chlorsulfuron: 'CST.std.pollutant',
-  chromium: 'CST.pollutant',
+  chlorsulfuron: 'CST.pollutant',
+  chromium: 'CST.std.pollutant',
   'chromium (iii)': 'CST.pollutant',
   'chromium (vi)': 'CST.std.pollutant',
   chrysene: 'CST.pollutant',
   'cis,cis-1,3,5-Trimethylcyclohexane': '',
   'cis-(-)-2-[(Dimethylamino)methyl]-1[3-methoxyphenyl]-cyclohexanol':
-    'cis-(-)-2-[(Dimethylamino)methyl]-1[3-methoxyphenyl]-cyclohexanol***retired***use Tramadol',
+    'Retired Names: Tramadol',
   'cis-(-)-2-[(Dimethylamino)methyl]-1[3-methoxyphenyl]-cyclohexanol***retired***use Tramadol':
-    'STANDARD NAME (Normalized)',
-  'cis-(4-Methylcyclohexyl)methanol': '',
+    'CHARACTERISTIC Table',
+  'cis-(4-Methylcyclohexyl)methanol': 'national unique domain values',
   'cis-1,2-Dichloroethene': 'Nemi.gov',
-  'cis-1,2-Dichloroethylene': 'CHARACTERISTIC Table',
-  'cis-1,2-Dichloropropene': '',
-  'cis-1,2-Dimethylcyclopentane': 'national unique domain values',
-  'cis-1,2-Dimethylcyclopropane': 'CHARACTERISTIC Table',
+  'cis-1,2-Dichloroethylene': 'STANDARD NAME (Normalized)',
+  'cis-1,2-Dichloropropene': 'national unique domain values',
+  'cis-1,2-Dimethylcyclohexane':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/98434',
+  'cis-1,2-Dimethylcyclopentane':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/14498',
+  'cis-1,2-Dimethylcyclopropane': 'STANDARD NAME (Normalized)',
   'cis-1,3-Dichloropropene': 'CHARACTERISTIC Table',
-  'cis-1,3-Dimethylcyclohexane': 'national unique domain values',
-  'cis-1,3-Dimethylcyclopentane': 'CHARACTERISTIC Table',
+  'cis-1,3-Dimethylcyclohexane': '',
+  'cis-1,3-Dimethylcyclopentane': 'STANDARD NAME (Normalized)',
   'cis-1,3-dichloropropene': 'CST.pollutant',
-  'cis-1,4-Dichloro-2-butene': 'CHARACTERISTIC Table',
+  'cis-1,4-Dichloro-2-butene': 'STANDARD NAME (Normalized)',
   'cis-1,4-Dimethylcyclohexane': 'national unique domain values',
   'cis-1,4-dichloro-2-butene': 'CST.std.pollutant',
-  'cis-1-Bromo-2-chlorocyclohexane': 'STANDARD NAME (Normalized)',
+  'cis-1-Bromo-2-chlorocyclohexane': 'CHARACTERISTIC Table',
   'cis-1-Ethyl-3-methyl-cyclohexane': 'national unique domain values',
   'cis-1-Iodo-2-(heptafluoropropyl)cyclohexane': '',
   'cis-1-Iodo-2-(pentafluoroethyl)cyclohexane': '',
-  'cis-2-Bromocyclohexanol': 'CHARACTERISTIC Table',
+  'cis-2-Bromocyclohexanol': 'STANDARD NAME (Normalized)',
   'cis-2-Hexene': 'national unique domain values',
-  'cis-2-Pentene & 2-methylpentane': '',
-  'cis-2-Phenyl-2-butene': 'STANDARD NAME (Normalized)',
+  'cis-2-Pentene & 2-methylpentane': 'national unique domain values',
+  'cis-2-Phenyl-2-butene': 'CHARACTERISTIC Table',
   'cis-3-Dodecene': 'national unique domain values',
   'cis-3-Hexene': 'national unique domain values',
   'cis-4-Methyl-2-pentene': '',
   'cis-Androsterone-16,16-d2': 'national unique domain values',
   'cis-Androsterone-2,2,3,4,4-d5': '',
-  'cis-Androsterone-2,2,4,4-d4': '',
+  'cis-Androsterone-2,2,4,4-d4': 'national unique domain values',
   'cis-Bifenthrin acid/cis-Cyhalothrin acid/cis-Tefluthrin acid': '',
-  'cis-Captafol': 'STANDARD NAME (Normalized)',
-  'cis-Chlordane': 'STANDARD NAME (Normalized)',
+  'cis-Captafol': 'CHARACTERISTIC Table',
+  'cis-Chlordane': 'CHARACTERISTIC Table',
   'cis-Chlordane (alpha-Chlordane)': 'STORETW Provider',
-  'cis-Crotonaldehyde': 'national unique domain values',
+  'cis-Crotonaldehyde': '',
   'cis-Cyhalothric acid': 'national unique domain values',
   'cis-Cypermethrin': 'national unique domain values',
   'cis-Decalin': '',
@@ -140701,21 +140751,21 @@ export default {
     'STANDARD NAME (Normalized)',
   'cis-Deltamethric acid': '',
   'cis-Heptachlor epoxide': '',
-  'cis-Hydrindane': '',
+  'cis-Hydrindane': 'national unique domain values',
   'cis-Mevinphos':
     'https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/substancesearch/search.do?details=displayDetails&selectedSubstanceId=76738',
   'cis-Nonachlor': 'STANDARD NAME (Normalized)',
-  'cis-Perfluoro-1-methyl-2-ethylcyclohexane': 'national unique domain values',
+  'cis-Perfluoro-1-methyl-2-ethylcyclohexane': '',
   'cis-Perfluoro-2,4-dimethylcyclobutane': 'national unique domain values',
-  'cis-Perfluorohydrindan': '',
+  'cis-Perfluorohydrindan': 'national unique domain values',
   'cis-Perfluoromethylpropyl-(4-methylcyclohexyl)-amine':
     'national unique domain values',
   'cis-Permethric acid': '',
   'cis-Permethrin': 'Nemi.gov',
-  'cis-Permethrin-13C6': 'national unique domain values',
-  'cis-Propenylbenzene': '',
+  'cis-Permethrin-13C6': '',
+  'cis-Propenylbenzene': 'national unique domain values',
   'cis-Propiconazole': 'CHARACTERISTIC Table',
-  'cis/trans-2-Butene': '',
+  'cis/trans-2-Butene': 'national unique domain values',
   'cis/trans-2-Hexene': 'national unique domain values',
   clothianidin: 'CST.pollutant',
   cobalt: 'CST.pollutant',
@@ -141395,11 +141445,11 @@ export default {
   'tetrachloroethylene*': 'CST.std.pollutant',
   'tetrachlorophenol 2,3,5,6': 'CST.pollutant',
   'tetrachloroterephthalic acid': '',
-  thallium: 'CST.pollutant',
+  thallium: 'CST.std.pollutant',
   theophylline: 'CST.std.pollutant',
   thiamethoxam: 'CST.std.pollutant',
   'thiamine disulphide': '',
-  'thifensulfuron methyl': 'CST.std.pollutant',
+  'thifensulfuron methyl': 'CST.pollutant',
   'thinyl estradiol': 'SYSTEMATIC NAME',
   thiobencarb: 'CST.pollutant',
   toluene: 'CST.pollutant',
@@ -141410,79 +141460,81 @@ export default {
   'total suspended solids': 'CST.pollutant',
   toxaphene: 'CST.pollutant',
   tralkoxydim: 'CST.pollutant',
-  'trans-(4-Methylcyclohexyl)methanol': '',
-  'trans-1,2-Bis(perfluorohexyl)ethylene': 'national unique domain values',
-  'trans-1,2-Cyclohexanediol': 'CHARACTERISTIC Table',
-  'trans-1,2-Dichlorocyclohexane': 'CHARACTERISTIC Table',
+  'trans-(4-Methylcyclohexyl)methanol': 'national unique domain values',
+  'trans-1,1,3,4-Tetramethylcyclopentane': 'national unique domain values',
+  'trans-1,2-Bis(perfluorohexyl)ethylene': '',
+  'trans-1,2-Cyclohexanediol': 'STANDARD NAME (Normalized)',
+  'trans-1,2-Dichlorocyclohexane': 'STANDARD NAME (Normalized)',
   'trans-1,2-Dichloroethene': 'Retired Names: trans-1,2-Dichloroethylene',
   'trans-1,2-Dichloroethene***retired***use trans-1,2-Dichloroethylene': '11',
   'trans-1,2-Dichloroethylene': 'CHARACTERISTIC Table',
-  'trans-1,2-Dichloropropene': 'STANDARD NAME (Normalized)',
-  'trans-1,2-Dimethylcyclohexane': 'CHARACTERISTIC Table',
-  'trans-1,2-Dimethylcyclopropane':
-    'https://pubchem.ncbi.nlm.nih.gov/compound/6427079',
+  'trans-1,2-Dichloropropene': 'CHARACTERISTIC Table',
+  'trans-1,2-Dimethylcyclohexane': 'STANDARD NAME (Normalized)',
+  'trans-1,2-Dimethylcyclopropane': 'national unique domain values',
   'trans-1,2-dichloroethylene': 'CST.std.pollutant',
   'trans-1,2-dichloroethylene*': 'CST.std.pollutant',
   'trans-1,3-Dichloropropene': 'STANDARD NAME (Normalized)',
-  'trans-1,3-Dichloropropene-d4': 'GLENDA contact (klewin.kenneth@epa.gov ',
-  'trans-1,3-Dimethylcyclohexane': '',
+  'trans-1,3-Dichloropropene-d4': 'STANDARD NAME (Normalized)',
+  'trans-1,3-Dimethylcyclohexane': 'national unique domain values',
   'trans-1,3-Dimethylcyclopentane': 'CHARACTERISTIC Table',
   'trans-1,3-dichloropropene': 'CST.pollutant',
   'trans-1,4-Dichloro-2-butene': 'CHARACTERISTIC Table',
   'trans-1,4-Dichlorocyclohexane': 'STANDARD NAME (Normalized)',
   'trans-1,4-dichloro-2-butene': 'CST.pollutant',
-  'trans-1-Butyl-2-methylcyclopropane': 'national unique domain values',
+  'trans-1-Butyl-2-methylcyclopropane': '',
   'trans-1-Ethyl-4-methylcyclohexane': '',
   'trans-2-Hexene': '',
-  'trans-2-Methylcrotonaldehyde': 'STANDARD NAME (Normalized)',
+  'trans-2-Methylcrotonaldehyde': 'CHARACTERISTIC Table',
   'trans-2-Phenyl-2-butene': 'STANDARD NAME (Normalized)',
   'trans-3-Hexene': 'national unique domain values',
-  'trans-4-Methyl-2-pentene': 'national unique domain values',
-  'trans-5-Decene': '',
+  'trans-4-Methyl-2-pentene': '',
+  'trans-5-Decene': 'national unique domain values',
   'trans-Chlordane': 'CHARACTERISTIC Table',
-  'trans-Cinnamic acid': 'STANDARD NAME (Normalized)',
+  'trans-Cinnamic acid': '1',
   'trans-Crotonaldehyde': 'STANDARD NAME (Normalized)',
   'trans-Cypermethrin': '',
-  'trans-Cypermethrin-d6': '',
-  'trans-Deltamethrin': 'national unique domain values',
-  "trans-Diethyl-1,1,1',1'-d4-stilbestrol-3,3',5,5'-d4": 'CHARACTERISTIC Table',
+  'trans-Cypermethrin-d6': 'national unique domain values',
+  'trans-Deltamethrin': '',
+  "trans-Diethyl-1,1,1',1'-d4-stilbestrol-3,3',5,5'-d4":
+    'STANDARD NAME (Normalized)',
   'trans-Diethylstilbestrol': 'national unique domain values',
   'trans-Geraniol': 'national unique domain values',
   'trans-Heptachlor epoxide': '',
-  'trans-Nonachlor': 'STANDARD NAME (Normalized)',
-  'trans-Perfluorohydrindan': 'national unique domain values',
-  'trans-Perfluoromethylpropyl-(4-methylcyclohexyl)-amine': '',
-  'trans-Permethric acid': 'national unique domain values',
-  'trans-Permethrin': 'Nemi.gov',
-  'trans-Permethrin-13C6': 'national unique domain values',
-  'trans-Permethrin-d6': '',
-  'trans-Propenylbenzene': 'national unique domain values',
-  'trans-Propiconazole': 'STANDARD NAME (Normalized)',
-  'trans-Stilbene': 'national unique domain values',
-  'trans-nonachlor': 'CST.std.pollutant',
-  triasulfuron: 'CST.pollutant',
-  'tribenuron methyl': 'CST.std.pollutant',
-  'tributyl(2-methoxypropyl)phosphanium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate':
+  'trans-Nonachlor': 'CHARACTERISTIC Table',
+  'trans-Perfluorohydrindan': '',
+  'trans-Perfluoromethylpropyl-(4-methylcyclohexyl)-amine':
     'national unique domain values',
-  'tributyltin (tbt)': 'CST.std.pollutant',
-  'tributyltin (tbt)*': 'CST.std.pollutant',
-  'tributyltin chloride-d27': 'STORETW Provider',
+  'trans-Permethric acid': '',
+  'trans-Permethrin': 'Nemi.gov',
+  'trans-Permethrin-13C6': '',
+  'trans-Permethrin-d6': 'national unique domain values',
+  'trans-Propenylbenzene': '',
+  'trans-Propiconazole': 'CHARACTERISTIC Table',
+  'trans-Stilbene': 'national unique domain values',
+  'trans-nonachlor': 'CST.pollutant',
+  triasulfuron: 'CST.pollutant',
+  'tribenuron methyl': 'CST.pollutant',
+  'tributyl(2-methoxypropyl)phosphanium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate':
+    '',
+  'tributyltin (tbt)': 'CST.pollutant',
+  'tributyltin (tbt)*': 'CST.pollutant',
+  'tributyltin chloride-d27': 'SYSTEMATIC NAME',
   'trichloracetic acid': 'CST.pollutant',
   'trichlorinated ethanes': 'CST.pollutant',
   trichloroethylene: 'CST.std.pollutant',
-  trichlorofluoromethane: 'CST.std.pollutant',
-  triclopyr: 'CST.std.pollutant',
-  'tridecafluoroheptanoyl bromide': 'national unique domain values',
+  trichlorofluoromethane: 'CST.pollutant',
+  triclopyr: 'CST.pollutant',
+  'tridecafluoroheptanoyl bromide': '',
   'triflidic acid': '',
-  trifluralin: 'CST.std.pollutant',
+  trifluralin: 'CST.pollutant',
   trifumin: '',
   trihalomethanes: 'CST.std.pollutant',
   'trihalomethanes*': 'CST.std.pollutant',
-  'triphenyl phosphate': 'CST.std.pollutant',
+  'triphenyl phosphate': 'CST.pollutant',
   'tris((Perfluoropropyl)methyl) borate': 'national unique domain values',
-  'tris(1-Chloropropan-2-yl) phosphate-d18': '',
+  'tris(1-Chloropropan-2-yl) phosphate-d18': 'national unique domain values',
   'tris(pentafluoroethyl)phosphine Oxide': 'national unique domain values',
-  triticonazole: 'CST.std.pollutant',
+  triticonazole: 'CST.pollutant',
   tritium: 'CST.pollutant',
   turbidity: 'CST.std.pollutant',
   'undecafluoropentanesulfonic acid': 'SYSTEMATIC NAME',
