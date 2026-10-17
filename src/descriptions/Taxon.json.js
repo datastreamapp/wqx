@@ -1,24 +1,4 @@
 export default {
-  '****Apoprionospio pygmaea':
-    '(Hartman, 1961)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=131108',
-  '****Ilyanassa obsoleta':
-    '(Say, 1822)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=160397',
-  '****Ilyanassa trivittata':
-    '(Say, 1822)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=160399',
-  '****Mancocuma stellifera':
-    '(Zimmer, 1943)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=157833',
-  '****Phyllodoce maculata':
-    '(Linnaeus, 1767)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=152438',
-  '****Phyllodoce mucosa':
-    '(Orsted, 1843)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=152441',
-  '****Prionospio cirrifera':
-    '(Wiren, 1883)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=152392',
-  '****Proceraea cornuta':
-    '(Agassiz, 1862)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=155457',
-  '****Pseudopotamilla reniformis':
-    '(Bruguiere, 1789)~https://www.marinespecies.org/aphia.php?p=taxdetails&id=155389',
-  '****retired****Neoleptophlebia':
-    'https://www.bugguide.net/node/view/770408/bgimage',
   'Abalistes macrophthalmus***retired***use Abalistes stellatus':
     '(Swainson 1839)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=203426',
   'Abalistes stellatus':
@@ -14779,6 +14759,8 @@ export default {
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67127',
   'Caulleriella killariensis':
     '(Southern)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67131',
+  'Caulleriella nobska':
+    '(Blake, 2021)~https://www.catalogueoflife.org/data/taxon/8KPZR',
   'Caulleriella pacifica':
     '(Blake in Blake Hilbig & Scott 1996)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=333178',
   'Caulleriella venefica': 'http://eol.org/pages/3134425/overview',
@@ -16746,6 +16728,8 @@ export default {
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67163',
   'Chaetozone bansei':
     '(Blake in Blake Hilbig & Scott 1996)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=327411',
+  'Chaetozone christiei':
+    '(Chambers, 2000)~https://www.catalogueoflife.org/data/taxon/69QL3',
   'Chaetozone columbiana':
     '(Blake in Blake Hilbig & Scott 1996)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=327415',
   'Chaetozone commonalis':
@@ -28655,6 +28639,8 @@ export default {
     '(Hartman 1951)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=66940',
   'Dispio brachychaeta':
     '(Blake 1983)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=326987',
+  'Dispio lenislamellata':
+    '(Delgado-Blas & Díaz-Díaz, 2016)~https://www.catalogueoflife.org/data/taxon/36VMV',
   'Dispio uncinata':
     '(Hartman 1951)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=66941',
   'Dispira (Cyatholaimidae)':
@@ -47073,6 +47059,8 @@ export default {
     '(Krøyer 1842)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=94162',
   'Ischyrocerus megalops':
     '(G. O. Sars 1879)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=94167 ',
+  'Ischyrocerus minutus':
+    '(Liljeborg, 1851)~https://www.catalogueoflife.org/data/taxon/7WRHH',
   'Ischyrocerus oahu':
     '(J L Barnard 1970)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=656943',
   'Ischyrocerus pelagops':
@@ -48498,6 +48486,8 @@ export default {
   'Kirkegaardia baptisteae':
     'http://www.marinespecies.org/aphia.php?p=taxdetails&id=884699',
   'Kirkegaardia cryptica': '',
+  'Kirkegaardia hampsoni':
+    '(Blake, 2016)~https://www.catalogueoflife.org/data/taxon/3R8JW',
   'Kirkegaardia serratiseta': '',
   'Kirkegaardia siblina': '',
   'Kirklandia***retired***use Membras':
@@ -55635,6 +55625,8 @@ export default {
     '(Mueller 1858)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67043',
   'Magelona berkeleyi':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67067',
+  'Magelona brachypalpata':
+    '(Mortimer, Blake & Harrendence, 2021)~https://www.catalogueoflife.org/data/taxon/8RW9P',
   'Magelona capensis':
     '(Day 1961)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=329128',
   'Magelona cinthyae':
@@ -66668,6 +66660,8 @@ export default {
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67355',
   'Ophelia denticulata':
     '(Verrill)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67358',
+  'Ophelia laubieri':
+    '(Bellan & Costa, 1988)~https://www.catalogueoflife.org/data/taxon/6SNG4',
   'Ophelia limacina':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=67354',
   'Ophelia pulchella':
@@ -69339,6 +69333,8 @@ export default {
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182732',
   'Paradoneis eliasoni***retired***use Cirrophorus eliasoni':
     '(Mackie 1991)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182734',
+  'Paradoneis ilvana':
+    '(Castelli, 1985)~https://www.catalogueoflife.org/data/taxon/4CTRQ',
   'Paradoneis lyra':
     'http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=66743',
   'Paradoneis perkinsi': '',
@@ -76106,6 +76102,8 @@ export default {
     '(Gould 1847)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=72917',
   'Polinices mammilla':
     '(Linnaeus 1758)~http://www.marinespecies.org/aphia.php?p=taxdetails&id=216923',
+  Polinicinae:
+    '(J. E. Gray, 1847)~https://www.catalogueoflife.org/data/taxon/7NY2C',
   'Politolana concharum':
     '(Stimpson 1853)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=92278',
   'Politolana impostor': '',
@@ -79199,6 +79197,8 @@ export default {
   'Prymnesium parvum':
     'https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=2170#null',
   Psamathe: '(Johnston, 1836)~https://www.gbif.org/species/2308917',
+  'Psamathe fusca':
+    '(Johnston, 1836)~https://www.catalogueoflife.org/data/taxon/4NB5P',
   Psammobatis:
     '(Gunther 1870)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=564044',
   'Psammobatis bergi':
@@ -98737,6 +98737,8 @@ export default {
     '(Bartsch, 1909)~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=75905#null',
   'Turbonilla tenuicula':
     '((Gould, 1853))~https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=75910#null',
+  Turbonillinae:
+    '(Bronn, 1849)~https://www.catalogueoflife.org/data/taxon/7NY98',
   'Turcica caffea':
     '(Gabb 1865)~http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=70022',
   'Turdus Migratorius':
