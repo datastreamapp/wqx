@@ -52,6 +52,7 @@ export default {
     'Result dissolved concentration was greater than its total and the absolute difference was greater than or equal to the total MDL - set to Detected Not Quantified',
   DE: 'Serial dilution acceptance criteria not met.',
   DEC: 'Value Decensored -  reconstruct or remove the objectionable values of a measurement set',
+  DEE: 'Data Entry Error; reported value is known to be incorrect due to a data entry error, but the original reported value is retained.',
   DI: 'Dilution required',
   DIL: 'Not all dilutions yielded acceptable results; results from most acceptable dilution reported ',
   DL: 'Not Detected: The analyte was not detected at a level >= to the Method Detection Limit for the analysis.',

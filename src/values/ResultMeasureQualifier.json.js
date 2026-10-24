@@ -55,6 +55,7 @@ export default {
     'D>T',
     'DE',
     'DEC',
+    'DEE',
     'DI',
     'DIL',
     'DL',

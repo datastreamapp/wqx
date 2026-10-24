@@ -945,6 +945,8 @@ export default {
   150.1: '150.1 ~ EPA-NERL . pH in Water by Electrometric Method',
   150.2: '150.2 ~ EPA-NERL . pH in Water',
   '150.2_M': '',
+  150.3:
+    'This method is to be used when obtaining pH measurements from drinking water. It applies to\r measurements of grab samples via bench-top and portable pH meters, and also to continuous pH\r measurement of drinking water via continuous pH monitoring instrumentation.',
   150.6: '',
   '151.0': '',
   151.1: '151.1 ~ NOAA NST . Trace metals in marine animal tissue by FAA',

@@ -440,7 +440,8 @@ export default {
   CAPECOD_REG_WQ: '',
   CAPECRD_WQX: 'Water Quality Monitoring Data',
   CARGILLMS_WQX: 'Cargill Meat Solutions (aka. Fort Morgan Beef Plant)',
-  CARIBREEF: '',
+  CARIBREEF:
+    '501(c)(3) nonprofit conducting water quality and ecosystem monitoring in the U.S. Virgin Islands. Samples are analyzed under chain of custody by an EPA-certified laboratory using approved methods. Also operates a community-based observation network (STX Reef Watch Network).',
   CATAWBA: '(Tribal)',
   CATAWBARIVERKEEPER: 'Catawba Riverkeeper Foundation (CRF)',
   CA_BVR:
