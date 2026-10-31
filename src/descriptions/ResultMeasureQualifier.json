@@ -275,6 +275,7 @@
   "VS": "compound identified verified by 2nd method",
   "VVRR": "Value verified by rerun",
   "VVRR2": "value verified by rerun, 2nd method",
+  "X": "Not blank-corrected and is within 10x the absolute value of the highest detectable BLK in the batch, estimated value",
   "Y": "Labeled standard recovery ",
   "ZZ": "Blank-corrected data were indicated by the \"Z\" qualifier code. The laboratory reported the concentration of analyte to the nearest unit. These data were qualified as blank-corrected and as undetected when the blank correction resulted in a concentration below the DL.",
   "^": "Yield outside of contractual acceptable range (USGS)"

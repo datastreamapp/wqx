@@ -3693,6 +3693,7 @@ export default {
     'LC_PEST',
     'LC_SV',
     'LC_VOA',
+    'LG-402',
     'LIPIDS MIXED METHODS',
     'LOADEST',
     'LSC14',

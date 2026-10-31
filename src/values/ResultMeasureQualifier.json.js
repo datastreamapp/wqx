@@ -280,6 +280,7 @@ export default {
     'VS',
     'VVRR',
     'VVRR2',
+    'X',
     'Y',
     'ZZ',
     '^'

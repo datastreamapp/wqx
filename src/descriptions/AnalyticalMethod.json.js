@@ -4349,6 +4349,8 @@ export default {
   LC_PEST: '',
   LC_SV: '',
   LC_VOA: '',
+  'LG-402':
+    'Standard Operating Procedure for Zooplankton Sample Collection and Preservation and Secchi Depth Measurement Field Procedures ',
   'LIPIDS MIXED METHODS': '',
   LOADEST:
     'Load Estimator (LOADEST): A FORTRAN Program for Estimating Constituent Loads in Streams and Rivers ~ USGS . Runkel, R.L., Crawford, C.G., and Cohn, T.A.',

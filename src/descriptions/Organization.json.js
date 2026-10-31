@@ -608,6 +608,7 @@ export default {
   CUSH: 'Working to eliminate nitrogen pollution, bacterial contamination and plastic waste from our local waters.',
   CUSP: 'CDSN - Coalition for the Upper South Platte',
   CVC: 'Conemaugh Valley Conservancy',
+  CWF_WQX: '',
   CWLT_WQX:
     'Cahto Tribe of the Laytonville Rancheria (Tribal) || Cahto Tribe of the Laytonville Rancheria (Tribal)',
   CWQL: '',
@@ -1530,8 +1531,6 @@ export default {
   STORLVD_WQX: 'Water Quality Monitoring Data',
   STROUD_WQX: 'Water Quality Monitoring Data',
   STS: 'The mission of Save the Sound is to protect and improve the land, air, and water of the whole Long Island Sound region.',
-  'ST_CROIX_WQX***RENAMED***':
-    'St. Croix Chippewa Indians of Wisconsin (Tribal) || St. Croix Chippewa Indians of Wisconsin (Tribal)',
   SUMFS: 'Stockton University Marine Field Station',
   SUMMITLAKETRIBE: 'summitlaketribe.org',
   SUNENCO: 'Suncor Energy (USA) Inc. (Colorado)',
@@ -1791,6 +1790,7 @@ export default {
   WRDM18: 'Chesapeake Commons',
   WREQC_WQX: '',
   WRFOBLM: '',
+  WRIGHTWATER: '',
   WRWMG: '',
   WRWQMP: '',
   WSDANRAS: 'Washington State Department of Agriculture',

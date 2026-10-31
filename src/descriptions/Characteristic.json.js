@@ -1,5 +1,4 @@
 export default {
-  'Acetic acid, 2-ethylhexyl ester': 'WQP; Rejected',
   Buliminidae: 'WQP, GRP=3',
   '% undercut bank': '; Request Date: 08-JUN-10',
   '(((4-((1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9-Heptadecafluorononyl)oxy)phenyl)sulfonyl)(methyl)amino)acetic acid':
@@ -2148,6 +2147,7 @@ export default {
   '1,2,4,5-Tetrafluoro-3-(heptafluoropropyl)benzene': '',
   '1,2,4,5-Tetramethylbenzene': 'NWIS',
   '1,2,4,5-Tetrazine': 'NWIS',
+  '1,2,4,5-tetrabromobenzene': '',
   '1,2,4,6,7-Pentachloronaphthalene': 'NWIS',
   '1,2,4,6,8-Pentachloronaphthalene': '; Request Date: 31-JUL-15',
   '1,2,4,7,8-Pentachloronaphthalene': '; Request Date: 31-JUL-15',
@@ -2168,6 +2168,8 @@ export default {
   '1,2,4-Trimethylbenzene': 'Nemi.gov; Request Date: 02-MAR-07',
   '1,2,4-Trimethylbenzene & .beta.-pinene': '',
   '1,2,4-Trimethylbenzene & sec-butylbenzene': '',
+  '1,2,4-Trimethylcyclohexane':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/1734405',
   '1,2,4-Trimethylcyclopentane': '; Request Date: 23-APR-14',
   '1,2,4-tribromo-1,1,2-trifluorobutane': '',
   '1,2,4-trichloro-1,1,2-trifluorobutane': '',
@@ -2180,6 +2182,7 @@ export default {
   '1,2,5-Trichloronaphthalene': '; Request Date: 31-JUL-15',
   '1,2,6,7-tetrachlorodibenzofuran':
     'PBDE Delaware River Basin Commission/New Jersey; Request Date: 17-JUN-16',
+  '1,2,6,9-tetramethylphenanthrene': '',
   '1,2,6-Trichloronaphthalene': '; Request Date: 31-JUL-15',
   '1,2,6-Trimethylphenanthrene': '; Request Date: 31-MAR-14',
   '1,2,7,8-Tetrachloronaphthalene': '; Request Date: 31-JUL-15',
@@ -2417,6 +2420,7 @@ export default {
   '1,3,5-Trinitroso-1,3,5-triazacyclohexane': 'NWIS',
   '1,3,5-Tris(Pentafluoroethoxy)benzene': '',
   '1,3,5-Trithiane': '; Request Date: 23-SEP-19',
+  '1,3,5-tribromobenzene': '',
   '1,3,6,7-Tetrachloronaphthalene': '; Request Date: 31-JUL-15',
   '1,3,6,8-Tetrabromopyrene': 'NWIS',
   '1,3,6-Trioxocane': '; Request Date: 21-NOV-14',
@@ -2633,6 +2637,7 @@ export default {
     '',
   '1,3-Propanedisulfonic acid, 1,1,2,2,3,3-hexafluoro-, lithium salt (1:2)': '',
   '1,3-bis(2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctyl)urea': '',
+  '1,3-dibromobenzene': '',
   '1,3-diphenylguanidine': '; Request Date: 08-APR-19',
   '1,4,2-Dioxazolidine, 2,3,3,5,5-pentakis(trifluoromethyl)-': '',
   '1,4,5,5,6,6-Hexafluoro-2,3-dimethoxycyclohexa-1,3-diene': '',
@@ -2793,6 +2798,7 @@ export default {
   '1,9-Decadiene, 3,3,4,4,5,5,6,6,7,7,8,8-dodecafluoro-, polymer with 1,1-difluoroethene, 1-[difluoro(trifluoromethoxy)methoxy]-1,2,2-trifluoroethene, 1,1,2,2-tetrafluoroethene and 1,1,2-trifluoro-2-(trifluoromethoxy)ethene':
     '',
   '1,9-Nonanediol': '; Request Date: 02-MAR-07',
+  '1,9-dimethylfluorene': '',
   '1-((1,2-Difluoro-2-(heptafluoropropoxy)vinyl)oxy)-1,1,2,2,3,3,3-heptafluoropropane':
     '',
   '1-((3-(Dimethylamino)propyl)amino)-(3-(perfluoro-11-methyldodecyl))propan-2-ol':
@@ -6332,6 +6338,7 @@ export default {
   '2,3,5-trimethyl-Phenanthrene': '; Request Date: 23-APR-15',
   '2,3,6,7-Tetrachloronaphthalene': '; Request Date: 30-JAN-18',
   '2,3,6-Trichloro-5-cyano-4-hydroxybenzamide': 'NWIS',
+  '2,3,6-Trichlorobenzoic acid': '',
   '2,3,6-Trichlorobiphenyl': 'Nemi.gov; Request Date: 02-MAR-07',
   '2,3,6-Trichloronaphthalene': '; Request Date: 31-JUL-15',
   '2,3,6-Trichlorophenol': '; Request Date: 22-JUL-14',
@@ -6504,6 +6511,7 @@ export default {
   '2,4,6-trichloro-p-terphenyl':
     'Request Date: 9-Jan-16 GLENDA contact (klewin.kenneth@epa.gov) (nps.gov cas# review)',
   '2,4,6-tris(2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptoxy)-1,3,5-triazine': '',
+  '2,4,7-Trimethyldibenzothiophene': '',
   '2,4,8,10-Tetraoxaspiro[5.5]undecane-3,9-diamine, N^3,N^3,N^9,N^9-tetraethyl-3,9-bis(1,2,2,2-tetrafluoroethyl)-':
     '',
   '2,4-Bis(1,1,2,3,3,3-hexafluoropropoxy)benzoic acid': '',
@@ -6532,6 +6540,7 @@ export default {
   '2,4-D-d3': 'NWIS',
   '2,4-D/2,4-D methyl ester': 'WQP',
   '2,4-DB': 'NWIS',
+  '2,4-DB methyl ester': '',
   '2,4-DIBDE': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   '2,4-Di-tert-amylphenol': '2,4-Di-tert-pentylphenol',
   '2,4-Diamino-6-nitrotoluene': 'NWIS',
@@ -7328,6 +7337,7 @@ export default {
   '2-Ethoxyethanol': '; Request Date: 02-MAR-07',
   '2-Ethyl-1,1-dimethylcyclopentane': '',
   '2-Ethyl-1,3-hexanediol': '; Request Date: 02-MAR-07',
+  '2-Ethyl-1-butanol': '',
   '2-Ethyl-1-butene': '',
   '2-Ethyl-1-hexyl 2,3,4,5-tetrabromobenzoate': 'NWIS',
   '2-Ethyl-1-octene': 'https://pubchem.ncbi.nlm.nih.gov/compound/550804',
@@ -7383,6 +7393,8 @@ export default {
   '2-Ethylhexyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate': '',
   '2-Ethylhexyl 2-cyano-3,3-diphenylacrylate': 'NWIS',
   '2-Ethylhexyl 4-methoxycinnamate': 'NWIS',
+  '2-Ethylhexyl acrylate':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/21162',
   '2-Ethylhexyl diphenyl phosphate': '; Request Date: 02-MAR-07',
   '2-Ethylnaphthalene': 'Nemi.gov; Request Date: 02-MAR-07',
   '2-Ethylpyridine': '',
@@ -9942,11 +9954,13 @@ export default {
     '',
   '3-Ethenyl-1,2,2-trifluoro-1-(trifluoromethyl)cyclobutane': '',
   '3-Ethyl-2-methylheptane': 'Minnesota IT Services at MPCA ',
+  '3-Ethyl-2-methylpentane': 'https://pubchem.ncbi.nlm.nih.gov/compound/11863',
   '3-Ethyl-3-hexene': '',
   '3-Ethyl-3-methylheptane': '',
   '3-Ethyl-7,8,8,9,9,10,10,11,11,12,12,13,13,13-tetradecafluorotridec-6-en-6-yl phosphate':
     '',
   '3-Ethylcyclopentene': 'Minnesota IT Services at MPCA ',
+  '3-Ethylfluoranthene': '',
   '3-Ethylhexane': '',
   '3-Ethylpentane': '',
   '3-Ethylphenol': 'NWIS',
@@ -10075,6 +10089,7 @@ export default {
   '3-Perfluoropropyl propanoate': 'NWIS',
   '3-Perfluoropropyl propanoic acid***retired***use 3:3 Fluorotelomer carboxylic acid':
     '3-Perfluoropropyl propanoic acid',
+  '3-Phenlydecane': 'STORET_ID',
   '3-Phenoxybenzenemethanol': 'NWIS',
   '3-Phenoxybenzoic acid': 'NWIS',
   '3-Phenoxybenzoic acid-13C6': 'NWIS',
@@ -11176,6 +11191,7 @@ export default {
   '4-MUB-phosphate': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   '4-MUB-sulfate': 'Request Date: 23-Jul-14 (nps.gov cas# review)',
   '4-Methyl-1,3-dioxolane': '; Request Date: 02-MAR-07',
+  '4-Methyl-1-(propan-2-yl)cyclohex-1-ene**': '',
   '4-Methyl-1-hexene': '',
   '4-Methyl-1-pentene': '',
   '4-Methyl-1H-benzotriazole': 'NWIS',
@@ -11388,6 +11404,7 @@ export default {
   '4-n-Octylphenol monoethoxylate-13C6': 'NWIS',
   '4-n-Octylphenol-13C6': 'NWIS',
   '4-perfluoroisopropylaniline': '',
+  '4-propyldibenzothiophene': '',
   '4-tert-Octylphenol pentaethoxylate': 'NWIS',
   '4-tert-Octylphenol tetraethoxylate': 'NWIS',
   '4-tert-Octylphenol triethoxylate': 'NWIS',
@@ -11502,6 +11519,7 @@ export default {
   '5,5,6,6-Tetrafluoro-1,3-dioxepane': '',
   '5,5,6,6-Tetrafluorobicyclo[2.2.1]hept-2-ene': '',
   '5,5,6,6-Tetrafluorodecane-2,4,7,9-tetrone': '',
+  '5,5-Dimethyl-1-hexene': '',
   '5,6,6,6-Tetrafluoro-4-oxo-5-(trifluoromethyl)hexanoic acid': '',
   '5,6,6,6-Tetrafluoro-5-(heptafluoropropoxy)hexane-2,4-dione': '',
   '5,6,6,7,7,7-Hexafluoro-4-(trifluoromethyl)-1,4-heptadiene': '',
@@ -11898,6 +11916,8 @@ export default {
     '',
   '6-chloro-N-[3-[(6-chloro-2,2,3,3,4,4,5,5,6,6-decafluorohexanoyl)amino]-2,2-dimethylpropyl]-2,2,3,3,4,4,5,5,6,6-decafluorohexanamide':
     '',
+  '6-n-butylchrysene': '',
+  '6-n-propylchrysene': '',
   '6:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '6:2 Fluorotelomer ketone sulfonate': '',
   '6:2 Fluorotelomer sulfide (1-methanol 2-methanol) propanoate': '',
@@ -11913,6 +11933,7 @@ export default {
   '6H-Perfluoroheptanesulfonic acid': '',
   '6H-Perfluorohex-1-ene': '',
   '6PPD-quinone': 'NWIS',
+  '7,10-Dimethylbenzo[a]pyrene': '',
   '7,12-Benzo[a]anthracenquinone': 'NWIS',
   '7,12-Benzoanthracenquinone': 'NWIS',
   '7,12-Dimethylbenz[a]anthracene': 'Nemi.gov; Request Date: 02-MAR-07',
@@ -12053,6 +12074,7 @@ export default {
     '',
   '9-Difluoromethyl(perfluoro-1-nonyl)methyl hydrogen phosphate ammonium': '',
   '9-Eicosene, (E)-': '',
+  '9-Ethylfluorene': '',
   '9-Fluorenone': '',
   '9-Fluorenone-d8': 'NWIS',
   '9-H-Perfluorononanoic acid': '',
@@ -12063,6 +12085,7 @@ export default {
   '9-Hydroxyrisperidone-d4': '',
   '9-Iodoperfluoro-3-oxanonanesulphonyl fluoride': '',
   '9-Methylanthracene': '; Request Date: 02-MAR-07',
+  '9-Methylfluorene': '',
   '9-Methylnonadecane': '',
   '9-Methylphenanthrene': '; Request Date: 14-APR-15',
   '9-Methylphenanthrene/4-Methylphenanthrene': '; Request Date: 31-MAR-14',
@@ -12082,6 +12105,8 @@ export default {
   '9-aminoacridine': '',
   '9-ethyl-9-borabicyclo[3.3.1]nonane': '; Request Date: 21-NOV-14',
   '9-n-Dodecyl[tetradecahydroanthracene]': '; Request Date: 23-APR-15',
+  '9-n-butylfluorene': '',
+  '9-n-propylfluorene': '',
   '9:1 Fluorotelomer amino ethyl trimethyl ammonium': '',
   '9:2 Fluorotelomer carboxylic acid': '',
   '9:2 Fluorotelomer ketone sulfonate': '',
@@ -12390,6 +12415,7 @@ export default {
   'Acetic acid, 2-bromo-, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl ester':
     '',
   'Acetic acid, 2-cyano-, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester': '',
+  'Acetic acid, 2-ethylhexyl ester': 'STORET_ID',
   'Acetic acid, [1-(3-chloro-1,1,2,2,3,3-hexafluoropropoxy)-1,2,2,2-tetrafluoroethoxy]-.alpha.,.alpha.-difluoro-':
     '',
   'Acetic acid, [1-[1-(3-chloro-1,1,2,2,3,3-hexafluoropropoxy)-1,2,2,2-tetrafluoroethoxy]-1,2,2,2-tetrafluoroethoxy]-.alpha':
@@ -13346,6 +13372,7 @@ export default {
   'BOD, filtered': 'NWIS',
   'BOD, mass':
     'BOD mass is determined as concentration times the flow rate, usually expressed as pounds per day.; Nemi.gov; Request Date: 24-SEP-19',
+  'BOD, removal, carbonaceous': 'STORET_ID',
   'BOD, ultimate':
     'The amount of oxygen consumed as a result of biological respiration of both carbonaceous and nitrogenous materials over an extended incubation period or the sum of carbonaceous oxygen demand (CBOD) and nitrogenous oxygen demand (NOD).; GLENDA contact (klewin.kenneth@epa.gov); Request Date: 21-DEC-15',
   'BTEX plus styrene, Total': 'Datastream',
@@ -13376,6 +13403,7 @@ export default {
   'Back Water (Y/N) (choice list)': '; Request Date: 04-OCT-18',
   'Bacteria mix, unspecified':
     "One-celled organisms, that fall into a category of life called the Prokaryotes (pro-carry-oats).  Prokaryotes' genetic material, or DNA, is not enclosed in a cellular compartment called the nucleus.; Request Date: 02-MAR-07",
+  'Bacteria mixture, unspecified': 'STORET_ID',
   'Bacteria, Sulfate reducing': '; Request Date: 29-NOV-10',
   'Bacteria, complex with amylase and proteinase':
     'Nemi.gov; Request Date: 25-SEP-19',
@@ -16224,6 +16252,7 @@ export default {
   'Cyclohexene, 3,3,4,4,5,5,6,6-octafluoro-': '',
   'Cyclohexene, 3-[[2,2,2-trifluoro-1-(trifluoromethyl)ethyl]thio]-': '',
   'Cyclohexene, 4-methyl-': 'Minnesota IT Services at MPCA ',
+  'Cyclohexene, 4-methyl-1-(1-methylethyl)-': 'STORET_ID',
   'Cyclohexyl 2,2,3,3-tetrafluoro-3-phenoxypropanoate': '',
   'Cyclohexyl 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate': '',
   'Cyclohexyl 2,3,3,3-tetrafluoro-2-[1,1,2,3,3,3-hexafluoro-2-(heptafluoropropoxy)propoxy]propanoate':
@@ -16323,6 +16352,7 @@ export default {
     '',
   'Cyclopropanecarboxylic acid, 3-(diethoxymethyl)-2,2-bis(trifluoromethyl)-, ethyl ester, trans-':
     '',
+  Cyclopropene: '',
   Cyclopropylbenzene: '; Request Date: 02-MAR-07',
   Cyclotetramethylenetetranitramine: 'Nemi.gov; Request Date: 02-MAR-07',
   'Cyclotetrasiloxane, 2,2,4,4,6,6,8,8-octamethyl-, polymer with 1,3-diethenyl-1,1,3,3-tetramethyldisiloxane, 1,1,1,3,3,3-hexamethyldisiloxane and 2,4,6-trimethyl-2,4,6-tris(3,3,3-trifluoropropyl)cyclotrisiloxane':
@@ -16699,6 +16729,7 @@ export default {
   Dexamethasone: '; Request Date: 22-JUL-14',
   Dextromethorphan: 'NWIS',
   'Dextromethorphan hydrobromide': '; Request Date: 22-JUL-14',
+  Dextronorgestrel: 'STORET_ID',
   'Dextronorgestrel (choice list)': '; Request Date: 02-MAR-07',
   Dextrorphan: '; Request Date: 18-DEC-18',
   'Dextrorphan tartrate': '; Request Date: 18-DEC-18',
@@ -17152,6 +17183,7 @@ export default {
   'Diphenylbis(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)stannane': '',
   Diphenylhydrazine: '; Request Date: 02-MAR-07',
   'Diphenyliodanium nonafluorobutane-1-sulfonate': '',
+  Diphenylmethane: 'STORET_ID',
   'Diphenylstibene 2-ethylhexanoate': '; Request Date: 02-MAR-07',
   Diphenylsulfone: '; Request Date: 22-JUL-14',
   'Diphosphoric acid, polymers with ethoxylated reduced Me esters of reduced polymd. oxidized tetrafluoroethylene':
@@ -17200,6 +17232,7 @@ export default {
   'Disodium perfluoro-3,5,7,10,13-pentaoxapentadecanedioate': '',
   Disopyramide: 'Request Date: 30-May-13 (nps.gov cas# review)',
   'Disruptive Pressures': '; Request Date: 29-JUN-10',
+  'Dissolv Inorganic Nitrogen/Soluble Reactive Phosphorus Ratio': 'STORET_ID',
   'Dissolved Inorganic Nitrogen/Total Phosphorus ratio':
     '; Request Date: 29-DEC-11',
   'Dissolved Oxygen***retired***use Dissolved Oxygen (DO)':
@@ -17414,6 +17447,7 @@ export default {
   'Endosulfan and Metabolites': '; Request Date: 20-NOV-18',
   'Endosulfan ether': 'NWIS',
   'Endosulfan sulfate': 'Nemi.gov; Request Date: 22-JUL-14',
+  'Endosulfan sulfate-13C9': '',
   'Endosulfan, alpha***retired***use .alpha.-Endosulfan':
     'Request Date: 11-Jul-17 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Endothall: '; Request Date: 22-JUL-14',
@@ -17473,6 +17507,7 @@ export default {
   'Erythritol anhydride': 'Nemi.gov; Request Date: 25-SEP-19',
   Erythrohydrobupropion: '',
   Erythromycin: 'Nemi.gov; Request Date: 02-MAR-07',
+  'Erythromycin A': 'STORET_ID',
   'Erythromycin A dihydrate': '',
   'Erythromycin-13C,d3': '',
   'Erythromycin-H20': '; Request Date: 01-JUL-11',
@@ -17916,6 +17951,7 @@ export default {
   'Ethyl 2-amino-8-(pentafluoroethyl)-3H-1-benzazepine-4-carboxylate': '',
   'Ethyl 2-chlorotetrafluoropropionate': '1435106',
   'Ethyl 2-diazo-4,4,5,5,6,6,6-heptafluoro-3-oxohexanoate': '',
+  'Ethyl 2-methylbutyrate': '',
   'Ethyl 3,3,3-trifluoro-2-(nonafluorobutoxy)-2-(trifluoromethyl)propanoate':
     '',
   'Ethyl 3,3,4,4,5,5,5-heptafluoropentanoate': '',
@@ -18019,6 +18055,7 @@ export default {
   Ethylan:
     'Request Date: 02-MAR-07| Organics, Pesticide ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   Ethylbenzene: 'Nemi.gov; Request Date: 22-JUL-14',
+  Ethylchrysenes: '',
   Ethylcyclobutane: '',
   Ethylcyclohexane: '; Request Date: 20-MAR-15',
   Ethylcyclopentane: '',
@@ -18312,6 +18349,7 @@ export default {
     '1. The speed at which water flows past a point or is taken from a water course, usually expressed in cubic feet per second (cfs). 2. The speed at which emissions flow through a conduit, usually expressed in cubic meters per minute at 20Â°C',
   'Flow rate, instantaneous':
     'The rate of flow that occurs or is completed in an instant.; NWIS',
+  'Flow stream stage (choice list)': 'STORET_ID',
   'Flow, gallons per batch': 'The flow as measured in gallons per batch.; NWIS',
   'Flow, in conduit or treatment plant':
     'The flow through a conduit or a treatment plant.; NWIS',
@@ -19464,6 +19502,7 @@ export default {
   Indaziflam: 'NWIS',
   Indene: '; Request Date: 02-MAR-07',
   'Indeno (1,2,3-cd) perylene': 'Request Date: 7-Apr-16 (nps.gov cas# review)',
+  'Indeno(1,2,3-cd)fluoranthene': '',
   'Indeno[1,2,3-cd]pyrene': 'Nemi.gov; Request Date: 02-MAR-07',
   'Indeno[1,2,3-cd]pyrene-d12': '',
   'Index of Additive Cancer Risk (IACR)':
@@ -19879,6 +19918,7 @@ export default {
   'Land form, Left (choice list)': '; Request Date: 24-AUG-10',
   Landuse: '',
   'Langelier Saturation Index': '',
+  'Langelier index (pHs)': 'STORET_ID',
   Lanolin:
     'Fat-like substance derived from sheep wool.  Contains a complex combination of esters and polyesters, consisting chiefly of cholesteryl and isocholesteryl esters of the higher fatty acids.; NWIS',
   Lanthanum: 'NWIS',
@@ -20096,6 +20136,7 @@ export default {
   'Lignosulfonic acid': '; Request Date: 22-JUL-14',
   'Lime (chemical), dolomitic':
     'Limestone containing the mineral, dolomite, magnesium as the principle ore, and magnesium and calcium carbonates.; Request Date: 17-OCT-08',
+  'Lime Demand': 'STORET_ID',
   Limonene: '; Request Date: 02-MAR-07',
   Linaclotide: 'NWIS',
   'Linaclotide-d4': '',
@@ -20560,6 +20601,7 @@ export default {
     '',
   'Methoxy(dimethyl)(3,3,4,4,5,5,6,6,6-nonafluorohexyl)silane': '',
   Methoxychlor: 'NWIS',
+  'Methoxychlor-13C12': '',
   'Methoxychlor-d6 (dimethoxy-d6)':
     'https://www.cdnisotopes.com/methoxychlor-d6-dimethoxy-d6',
   Methoxycitronellal: '',
@@ -21567,6 +21609,7 @@ export default {
   'N-2-Pyridinylperfluorobutanamide': '',
   'N-2-Pyrimidinylperfluoro-2-(2-propoxypropoxy)propanamide': '',
   'N-Acetyl-S-(1,2,3,3,3-pentafluoro-1-propenyl)-L-cysteine': '',
+  'N-Alkanes, C10-C26': '',
   'N-Alkyl perfluoroalkyl (linear) sulfonamides': '; Request Date: 14-Dec-20',
   'N-Alkyl perfluoroalkyl sulfonamidoacetic acids': '',
   'N-Alkyl perfluoroalkyl sulfonamidoethanols': '',
@@ -22657,6 +22700,7 @@ export default {
   'Number of valves': 'GLENDA BioData 1978; Request Date: 27-FEB-17',
   'Number of vine species': '',
   'Number of young per female': '',
+  'Nutrient-nitrogen': 'STORET_ID',
   'Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N':
     'The nitrogen that may be utilized by organisms for growth and sustainability.EPA Workgroup QA; Request Date: 02-MAR-07',
   'Nylon deterioration':
@@ -25368,6 +25412,7 @@ export default {
   Polycentropodidae: 'TAXON: Animalia Kingdom; NWIS',
   Polycentropus: 'TAXON: Animalia Kingdom; NWIS',
   'Polychlorinated biphenyls': 'Nemi.gov; Request Date: 05-MAY-12',
+  'Polychlorinated napthalenes (PCNs)': 'STORET_ID',
   'Polychlorinated terphenyls': '; Request Date: 22-JUL-14',
   'Polychloroethene-co-(cyclohexan-1-yl methacrylate)-co-(oxiran-2-ylmethyl methacrylate)-co-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl methacrylate)':
     '',
@@ -27331,6 +27376,7 @@ export default {
   'Slow Riffle': '; Request Date: 14-MAY-10',
   'Sludge (choice list)': '; Request Date: 02-JUL-19',
   'Sludge Depth': '',
+  'Sludge, floating - severity (choice list)': 'STORET_ID',
   'Sludge, substrate rock/bank cover - severity (choice list)':
     '; Request Date: 02-MAR-07',
   'Small Boulder 256 - 512mm': '',
@@ -27818,8 +27864,8 @@ export default {
   'Strontium-89': 'Strontium, atomic number 38.; Request Date: 22-JUL-14',
   'Strontium-90':
     'Strontium, atomic number 38.Nemi.gov; Request Date: 02-MAR-07',
+  'Strontium-90 and/or yttrium-90': '; Request Date: 02-MAR-07',
   'Strontium-91': 'Strontium, atomic number 38.; Request Date: 23-DEC-15',
-  'Strontium-Yttrium-90, beta': '; Request Date: 02-MAR-07',
   'Strontium/calcium ratio': '',
   Strychnine: '; Request Date: 01-APR-15',
   Stygobromus: 'TAXON: Animalia Kingdom; NWIS',
@@ -28853,6 +28899,8 @@ export default {
   'Trans-1,2-dichloroethene-d2': 'Nemi.gov; Request Date: 25-SEP-19',
   'Trans-2-Butene': '; Request Date: 03-JUL-08',
   'Trans-2-Pentene': '; Request Date: 03-JUL-08',
+  'Trans-Chlordane-13C10': '',
+  'Trans-Chlordane-D10': '',
   Transect: '',
   'Transect Spacing - Actual': '',
   'Transect Spacing - Intended': '',
@@ -29973,6 +30021,8 @@ export default {
   'cis-(4-Methylcyclohexyl)methanol': 'NWIS',
   'cis-1,2-Dichloroethylene': 'Nemi.gov; Request Date: 02-MAR-07',
   'cis-1,2-Dichloropropene': '',
+  'cis-1,2-Dimethylcyclohexane':
+    'https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/98434',
   'cis-1,2-Dimethylcyclopentane':
     'https://pubchem.ncbi.nlm.nih.gov/compound/14498',
   'cis-1,2-Dimethylcyclopropane': '; Request Date: 23-APR-14',
@@ -29994,6 +30044,7 @@ export default {
   'cis-3-Dodecene': '',
   'cis-3-Hexene': '',
   'cis-4-Methyl-2-pentene': '',
+  'cis-5,5-Dimethyl-2-hexene': '',
   'cis-Androsterone-16,16-d2': 'NWIS',
   'cis-Androsterone-2,2,3,4,4-d5': 'NWIS',
   'cis-Androsterone-2,2,4,4-d4': '',
@@ -30204,6 +30255,7 @@ export default {
   'p-Cumylphenol': 'Nemi.gov; Request Date: 02-MAR-07',
   'p-Cymene': 'Nemi.gov; Request Date: 20-NOV-07',
   'p-Dichlorobenzene': 'Nemi.gov; Request Date: 02-MAR-07',
+  'p-Diisopropylbenzene': 'STORET_ID',
   'p-Dinitrobenzene': 'Nemi.gov; Request Date: 22-JUL-14',
   'p-Dithiane, octafluoro-': '',
   'p-Ethylacetophenone': '; Request Date: 02-MAR-07',
@@ -30291,6 +30343,8 @@ export default {
   'tert-Butylhydroquinone': '; Request Date: 23-JAN-15',
   'total PCNs': '; Request Date: 30-JAN-18',
   'trans-(4-Methylcyclohexyl)methanol': 'NWIS',
+  'trans-1,1,3,4-Tetramethylcyclopentane':
+    'https://pubchem.ncbi.nlm.nih.gov/compound/55250318',
   'trans-1,2-Bis(perfluorohexyl)ethylene': '',
   'trans-1,2-Cyclohexanediol': '; Request Date: 02-MAR-07',
   'trans-1,2-Dichlorocyclohexane': '; Request Date: 02-MAR-07',
