@@ -253,6 +253,20 @@ export default {
   'Relative Water Clarity (choice list)': 'Turbid',
   'Sediment Code-Left Bank (choice list)': 'Sand',
   'Sediment Code-Right Bank (choice list)': 'Sand',
+  'High G, Condition of Banks (choice list)':
+    'Marginal, Moderately unstable, up to 60% of bank affected',
+  'High G, Riparian Vegetative Zone Width (choice list)':
+    'Marginal, Width of riparian zone 6-12 m; human activities greatly impacting zone',
+  'High G, Bank Vegetative Protection (choice list)':
+    'Marginal, 50-70% covered by vegetation',
+  'High G, Grazing or Other Disruptive Pressure (choice list)':
+    'Marginal, Disruption obvious with patches of bare soil/closely cropped veg common',
+  'Low G, Condition of Banks (choice list)':
+    'Marginal, Moderately unstable, 30-60% of bank affected',
+  'Low G, Riparian Vegetative Zone Width (choice list)':
+    'Marginal, Width of riparian zone 6-12 m; human activities greatly impacting zone',
+  'Low G, Bank Vegetative Protection (choice list)':
+    'Marginal, 50-70% covered by vegetation; Disruption obvious, patches of bare soil/closely cropped veg common',
   'Hydrologic Stressors: Water supply (choice list)': 'Least stressful',
   'Hydrologic Influence: Overbank flooding (choice list)': 'Least influential',
   'Anthropogenic stream alteration (choice list)': 'Other',
@@ -349,8 +363,8 @@ export default {
     '5=Swimming & aesthetics nearly impossible due to algae',
   'Tide stage (choice list)':
     'Not Applicable - Self Describing. (not a tidal stream)',
-  'RBP Bottom Substrate (choice list)': '<10% MIXED - Self describing.',
   'RBP Instream Cover (choice list)': '<10% MIXED - Self describing.',
+  'RBP Bottom Substrate (choice list)': '<10% MIXED - Self describing.',
   'RBP Bank Vegetative Stability, Left (choice list)':
     'W>18M - Self describing.',
   'RBP Bank Vegetative Stability, Right (choice list)':
@@ -358,10 +372,10 @@ export default {
   'Stream Physical Appearance, Minnesota (choice list)':
     'Cloudy brown from sediment and green from algae growth',
   'RBP Channel Sinuosity (choice list)': 'CHANNELIZED - Self describing.',
-  'Pedestal Development Erosion Class (choice list)':
-    'No elevated surfaces within spring perimeter have lost connection to groundwater level of geomorphic surface',
   'Rill/Gully Erosion Class (choice list)':
     'No removal of soil along drainage lines due to surface run-off of geomorphic surface',
+  'Pedestal Development Erosion Class (choice list)':
+    'No elevated surfaces within spring perimeter have lost connection to groundwater level of geomorphic surface',
   'Bank Instability Erosion Class (choice list)':
     'No actively eroding, near vertical cut-banks along channels or pools of geomorphic surface',
   'RBP Embeddedness (choice list)': '<25% GRAVL - Self describing.',

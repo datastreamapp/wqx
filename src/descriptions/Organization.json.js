@@ -301,6 +301,7 @@ export default {
   AKDECWQ: 'Water quality Standards Assessment & Restoration',
   AKDFGSPF: 'Alaska Department of Fish and Game, Division of Sport Fish',
   AKDNRFOR: '',
+  AKRF789: '',
   'ALABAMACOUSHATTATRIBE.TX_WQX':
     'Alabama-Coushatta Tribe of Texas (Tribal) || Alabama-Coushatta Tribe of Texas (Tribal)',
   ALASSWCD_WQX: 'Water Quality Monitoring Data',
@@ -1603,6 +1604,7 @@ export default {
   TU: 'Conservation of freshwater streams, rivers, and associated upland habitats for trout, salmon, other aquatic species, and people',
   TUMWATER: 'City of Tumwater - Public Works',
   TURTLEMT: 'Archie Gronvold 106 Coordinator',
+  TWC2005: '',
   TWI: 'Stony Brook-Millstone and the Central Delaware River Watersheds',
   TWWWTF: 'Colorado',
   TXSTRMTM_WQX: '',

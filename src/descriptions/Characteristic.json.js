@@ -19252,6 +19252,13 @@ export default {
   Hexylcyclohexane: '',
   'Hexylene Glycol': '; Request Date: 11-JAN-18',
   Hexythiazox: '',
+  'High G, Bank Vegetative Protection (choice list)':
+    'PADEP Riffle/Run Habitat',
+  'High G, Condition of Banks (choice list)': 'PADEP Riffle/Run Habitat',
+  'High G, Grazing or Other Disruptive Pressure (choice list)':
+    'PADEP Riffle/Run Habitat',
+  'High G, Riparian Vegetative Zone Width (choice list)':
+    'PADEP Riffle/Run Habitat',
   'High-temperature coal tar pitch':
     'The residue from the distillation of high temperature coal tar.  A black solid with an approximate softening point from 30.degree. to 180.degree.C (86.degree.F to 356.degree.F).  Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.; Request Date: 24-MAY-10',
   'Hilsenhoff Biotic Index': '; Request Date: 02-MAR-07',
@@ -20258,6 +20265,11 @@ export default {
   Lovastatin: 'NWIS',
   'Lovastatin acid': 'NWIS',
   'Low Flow alterations (Y/N) (choice list)': '',
+  'Low G, Bank Vegetative Protection (choice list)':
+    'PADEP Low Gradient Habitat',
+  'Low G, Condition of Banks (choice list)': 'PADEP Low Gradient Habitat',
+  'Low G, Riparian Vegetative Zone Width (choice list)':
+    'PADEP Low Gradient Habitat',
   'Low bank height': '',
   'Low bank height ratio': '',
   'Low-level Mercury': 'Request Date: 7-Apr-18 (nps.gov cas# review)',
@@ -29969,6 +29981,7 @@ export default {
   'alpha-Apo-oxytetracycline': 'alpha-Apo-oxytetracycline',
   'alpha-Deltamethrin': 'alpha-Deltamethrin',
   'alpha-Endosulfan-d4': 'alpha-Endosulfan-d4',
+  'alpha-Fenchene': '',
   'alpha-HCH (aLindane)***retired***use .alpha.-Hexachlorocyclohexane':
     'Request Date: 11-Jul-17 GLENDA BioData 1978 (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
   'alpha-HCH-13C6': 'alpha-HCH-13C6',
