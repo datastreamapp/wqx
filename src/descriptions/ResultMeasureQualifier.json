@@ -1,7 +1,6 @@
 {
   "#": "No Field/Trip Blank carried with samples",
   "$": "Incorrect sample container",
-  "%": "High RPD, estimated",
   "&": "biological organism established as dominant",
   "(": "blank greater than the sample-specific Critical Level",
   ")": "sample specific MDC (Minimum Detectable Change) above contractual MDC",
