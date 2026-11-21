@@ -199,7 +199,7 @@ export default {
   '21FLWPBH_WQX': 'Water Quality',
   '21FLWPB_WQX': 'Water Quality Monitoring Data',
   '21FLWQA_WQX':
-    'Watershed Assessment Section (WAS) - Formerly WQAS\r Surface Water Quality Monitoring Data and TMDLs',
+    'Watershed Assessment Section (WAS) - Formerly WQAS  Surface Water Quality Monitoring Data and TMDLs',
   '21FLWQSP_WQX': 'Water Quality Monitoring Data',
   '21GACRD': 'COASTAL RESOURCES DIVISION',
   '21GAEPD_WQX': 'Georgia DNR Environmental Protection Division',
@@ -665,6 +665,7 @@ export default {
   EMAP_GRE: '',
   EMSWCD: 'East Multnomah Soil and Water Conservation District',
   EMU_WATER: '',
+  ENSAFE_WQX: '',
   ENVIROB1_WQX:
     'Confederated Tribes of the Colville Reservation (Tribal) || Confederated Tribes of the Colville Reservation (Tribal)',
   ENVIROSCIENCEASSOC: '',

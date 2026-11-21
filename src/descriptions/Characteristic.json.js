@@ -624,76 +624,6 @@ export default {
   '(Z,Z)-11,13-Hexadecadienal': '; Request Date: 02-MAR-07',
   '({4-[(1,2,3,3,4,4,5,5,6,6,6-Undecafluorohex-1-en-1-yl)oxy]phenyl}methyl)phosphonic acid':
     '',
-  '****.alpha.-1,2,5,6-Tetrabromocyclooctane': 'NWIS',
-  '****.alpha.-Apo-oxytetracycline': 'NWIS',
-  '****.alpha.-Deltamethrin': 'NWIS',
-  '****.alpha.-Endosulfan-d4': 'NWIS',
-  '****.alpha.-HCH-13C6': 'NWIS',
-  '****.beta.-1,2,5,6-Tetrabromocyclooctane': 'NWIS',
-  '****.beta.-Apo-oxytetracycline': 'NWIS',
-  '****.beta.-Endosulfan-d4': 'NWIS',
-  '****1,2-Benzenedicarboxamide, N1-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-N2-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-':
-    '',
-  "****13C12-2,2',3,4,4',5,5'-HpCB": '',
-  '****17-beta-Estradiol 17-glucuronide': 'NWIS',
-  '****17.alpha.-Estradiol-2,4-d2': 'NWIS',
-  '****17.beta.-Estriol-17-sulfate': 'NWIS',
-  '****17.beta.-Estriol-3-sulfate': 'NWIS',
-  '****17alpha-Dihydroequilin':
-    'Nemi.govRequest Date: 23-SEP-19| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  '****2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid':
-    '',
-  '****2-Chlorophenyl-4-nitrophenyl ether': '',
-  '****2-Cyclohexen-1-one, 2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
-    '',
-  '****3-Iodo-2-propynylbutylcarbamate': 'NWIS',
-  '****4-(Hydroxymethyl)pendimethalin':
-    'Request Date: 27-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
-  '****4-Chlorobenzylmethyl sulfoxide': '4-Chlorobenzylmethyl sulfoxide',
-  '****4-Chlorobenzylmethylsulfone': 'NWIS',
-  '****4-Fluoro-3-phenoxy benzoic acid': 'NWIS',
-  '****Acesulfame-K': 'NWIS',
-  '****Androsterone-glucuronide': 'NWIS',
-  '****Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)-2-(methylsulfonyl)-.beta.-oxo-4-(trifluoromethyl)-':
-    'Diketonitrile-isoxaflutole',
-  '****Bis(hexachlorocyclopentadieno) cyclooctane': 'NWIS',
-  '****Bispyribac-sodium': '',
-  '****Cyhalofop-butyl': 'NWIS',
-  '****Deisopropylprometryn': 'NWIS',
-  '****Demethyl fluometuron': 'Demethyl fluometuron',
-  '****Didecyldimethylammonium chloride': 'NWIS',
-  '****Epichlorotetracycline': 'NWIS',
-  '****Epiisochlorotetracycline': 'NWIS',
-  '****Epioxytetracycline': 'Epioxytetracycline',
-  '****Estriol-17-sulfate': 'NWIS',
-  '****Estriol-3-glucuronide': 'NWIS',
-  '****Estriol-3-sulfate': 'NWIS',
-  '****Estrone-3-sulfate': 'NWIS',
-  '****Ethenylestradiol-3-glucuronide': 'NWIS',
-  '****Ethinylestradiol-3-sulfate': 'NWIS',
-  '****Fenbutatin oxide': 'Fenbutatin oxide',
-  '****Hydroxy mono demethyl fluometuron': 'Hydroxy mono demethyl fluometuron',
-  '****Isochlorotetracycline': 'Isochlorotetracycline',
-  '****N-Desmethyl diltiazem': '',
-  '****N-Ethylperfluorooctanesulfonamidoethanol':
-    'Request Date: 23-MAY-23 ; https://pubchem.ncbi.nlm.nih.gov/compound/n-Ethyl-perfluorooctanesulfonamidoethanol',
-  '****N-Methylperfluorooctanesulfonamide': '',
-  '****N-Methylperfluorooctanesulfonamidoethanol': '',
-  '****Nonadecane, 9-[(1,1,2,2-tetrafluoroethoxy)methyl]-': '',
-  '****Nonanoic acid, 4,4,5,5,6,6,7,7,8,8,9,9,9-tridecafluoro-': '',
-  '****O-Ethyl S-methyl S-propyl phosphorodithioate': 'NWIS',
-  '****PBDE-156/169': '; Request Date: 18-OCT-18',
-  '****Pentadecafluorooctanoic acid--pyridine (1/1)': '',
-  '****Perfluoro(2-ethoxyethane)sulfonate': '',
-  '****Perfluorodecanesulfonate': '',
-  '****Perfluorohexanesulfonate': 'Request Date: 22-JUL-14',
-  '****Perfluorooctane sulfonate': 'Perfluorooctane sulfonate',
-  '****Perfluoropentanesulfonic acid': 'Perfluoropentanesulfonic acid',
-  '****Phenyl-.beta.-D-glucuronide': 'NWIS',
-  '****Poly(difluoromethylene),.alpha.-fluoro-.omega.-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]- (2-Propeonic acid, perfluoro-C6-14-alkylethyl esters, C8 rich)':
-    '; Request Date: 17-MAY-22',
-  '****Triflusulfuron methyl': 'NWIS',
-  '****alpha-Cypermethrin': '',
   '.alpha.,.alpha.-Dimethylphenethylamine': '; Request Date: 02-MAR-07',
   '.alpha.,2,6-Trichlorotoluene': '',
   '.alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6':
@@ -7316,6 +7246,8 @@ export default {
   '2-Cyclohexen-1-ol, 6-(1,1,1,3,3,3-hexafluoro-2-hydroxy-2-propyl)-3,5,5-trimethyl-':
     '',
   '2-Cyclohexen-1-one': '; Request Date: 02-MAR-07',
+  '2-Cyclohexen-1-one, 2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
+    '101564-48-1     ',
   '2-Cyclohexen-1-one, 3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
     '',
   '2-Cyclohexen-1-one,2-bromo-3,5,5-trimethyl-6-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]-':
@@ -17054,7 +16986,7 @@ export default {
   Diisopropanolamine: '',
   'Diisopropyl adipate': '; Request Date: 02-MAR-07',
   'Diisopropyl methylphosphonate': 'Nemi.gov; Request Date: 25-SEP-19',
-  'Diketonitrile isoxaflutole***retired***useBenzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)-2-(methylsulfonyl)-.beta.-oxo-4-(trifluoromethyl)-':
+  'Diketonitrile isoxaflutole***retired***use Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)-2-(methylsulfonyl)-.beta.-oxo-4-(trifluoromethyl)-':
     'Diketonitrile isoxaflutole',
   Dilantin:
     'Request Date: 26-Sep-19 Nemi.gov (nps.gov cas# review)| Not Assigned ; PFOA, Perfluorooctanoic Acid; 1040 ~ ',
@@ -29107,6 +29039,7 @@ export default {
   'Trifloxystrobin acid':
     'https://pubchem.ncbi.nlm.nih.gov/compound/Trifloxystrobin-acid#section=Depositor-Supplied-Synonyms',
   'Trifloxysulfuron-sodium': '; Request Date: 29-NOV-10',
+  Trifludimoxazin: '',
   Triflumezopyrim: '',
   Triflumizole: 'NWIS',
   'Trifluoro(1,1,2,2,3,4,4-heptafluorobut-3-enyl)oxirane': '',

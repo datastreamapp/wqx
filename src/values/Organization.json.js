@@ -570,6 +570,7 @@ export default {
     'EMAP_GRE',
     'EMSWCD',
     'EMU_WATER',
+    'ENSAFE_WQX',
     'ENVIROB1_WQX',
     'ENVIROSCIENCEASSOC',
     'EOR_WQX',
